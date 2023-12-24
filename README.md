@@ -28,3 +28,4 @@ Outlines written by ChatGPT on various subjects.
 
 ## Social Sciences & Humanities
   * [History of Christianity](humanities/history_of_christianity.md)
+  * [History of the Middle East](humanities/history_of_middle_east.md)
