@@ -37,8 +37,8 @@ Outlines written by ChatGPT on various subjects.
   * [Apache Web Server](computing/web_development/apache_web_server.md)
 
 ## History
-  * [History of Christianity](humanities/history_of_christianity.md)
-  * [History of the Middle East](humanities/history_of_middle_east.md)
+  * [History of Christianity](history/history_of_christianity.md)
+  * [History of the Middle East](history/history_of_middle_east.md)
 
 ## Language
   * [Esperanto Grammar](language/esperanto_grammar.md)
