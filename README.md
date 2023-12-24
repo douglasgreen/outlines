@@ -1,6 +1,9 @@
 # Outlines
 Outlines written by ChatGPT on various subjects.
 
+## Arts
+  * [Anime](arts/anime.md)
+
 ## Computing
   * [Algorithms](computing/algorithms.md)
   * [Apache Web Server](computing/apache_web_server.md)
