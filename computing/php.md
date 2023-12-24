@@ -1,18 +1,20 @@
-# Introduction to PHP
+# PHP
 
 ## Introduction to PHP
 
-### Overview of PHP
+### Introduction to PHP
+
+#### Overview of PHP
 
 PHP, which stands for \"PHP: Hypertext Preprocessor,\" is a widely-used open-source server-side scripting language specifically designed for web development. It is a powerful tool for creating dynamic and interactive websites. PHP scripts are executed on the server, and the result is returned to the client as plain HTML. One of the key features of PHP is its ability to embed its scripts in HTML, making it easy to add functionality to web pages without needing to call external files for data.
 
-#### History and Evolution
+##### History and Evolution
 
 PHP was created by Rasmus Lerdorf in 1994. Initially, it was a simple set of Common Gateway Interface (CGI) binaries written in the C programming language. Lerdorf originally used these scripts to maintain his personal homepage, hence the original name, \"Personal Home Page/Forms Interpreter\" or PHP/FI. PHP/FI could communicate with databases, and it was simple enough for non-programmers to use.
 
 As the language evolved, it became more robust and functional. PHP 3, released in 1998, marked a significant improvement and was the first version to resemble modern PHP. With PHP 4 (2000) and PHP 5 (2004), the language embraced advanced programming concepts like object-oriented programming (OOP). PHP 7, released in 2015, offered significant performance improvements and introduced new features like type declarations and error handling improvements, making PHP even more efficient and user-friendly.
 
-#### Importance in Web Development
+##### Importance in Web Development
 
 PHP plays a critical role in web development for several reasons:
 
@@ -28,13 +30,13 @@ PHP plays a critical role in web development for several reasons:
 
 In conclusion, PHP\'s history, ongoing development, and central role in the web development landscape make it an essential tool for creating dynamic, interactive websites. Its ease of use, flexibility, and robust community support ensure its continued relevance in the ever-evolving world of web technology.
 
-# Setting Up the PHP Environment
-
 ## Setting Up the PHP Environment
+
+### Setting Up the PHP Environment
 
 Setting up a PHP environment is a foundational step in PHP development. This setup includes installing PHP, configuring a local development environment, and understanding the basic syntax of PHP.
 
-### Installing PHP
+#### Installing PHP
 
 1.  **Download PHP**: Visit the official PHP website ([php.net](https://www.php.net/){target="_new"}) to download the latest version of PHP. Ensure you select the version appropriate for your operating system (Windows, macOS, Linux).
 
@@ -46,7 +48,7 @@ Setting up a PHP environment is a foundational step in PHP development. This set
 
 3.  **Testing the Installation**: After installation, you can test it by running `php -v` in your command line or terminal. This command should display the PHP version installed on your system.
 
-#### Configuring Local Development Environment
+##### Configuring Local Development Environment
 
 1.  **Web Server Setup**: PHP code is executed on a server, so you\'ll need a web server. Apache is a popular choice and is included in packages like XAMPP, WAMP, and MAMP.
 
@@ -56,7 +58,7 @@ Setting up a PHP environment is a foundational step in PHP development. This set
 
 4.  **Running a PHP File**: Place your PHP files in the web server\'s root directory (e.g., `htdocs` in XAMPP). Access the file via a browser using `http://localhost/yourfile.php`.
 
-#### Introduction to PHP Syntax
+##### Introduction to PHP Syntax
 
 1.  **Basic Syntax**:
 
@@ -91,13 +93,13 @@ Setting up a PHP environment is a foundational step in PHP development. This set
 
 Setting up a PHP environment properly is crucial for a smooth development experience. It involves installing PHP, setting up a local server, and becoming familiar with the basic syntax and structure of PHP code. This foundational knowledge is essential for diving deeper into PHP programming.
 
-# Basic PHP Syntax and Operations
-
 ## Basic PHP Syntax and Operations
+
+### Basic PHP Syntax and Operations
 
 Understanding the basic syntax and operations in PHP is essential for anyone starting with PHP programming. Let\'s break down the key concepts, including variables and data types, basic operators, and control structures.
 
-### Variables and Data Types
+#### Variables and Data Types
 
 1.  **Variables**:
 
@@ -115,7 +117,7 @@ Understanding the basic syntax and operations in PHP is essential for anyone sta
     -   **Object**: Instances of classes that can hold both values and functions.
     -   **NULL**: Represents a variable with no value.
 
-#### Basic Operators
+##### Basic Operators
 
 1.  **Arithmetic Operators**:
 
@@ -137,7 +139,7 @@ Understanding the basic syntax and operations in PHP is essential for anyone sta
 
     -   Used to combine conditional statements: AND (`&&` or `and`), OR (`||` or `or`), NOT (`!`).
 
-#### Control Structures
+##### Control Structures
 
 1.  **If Statements**:
 
@@ -176,13 +178,13 @@ Understanding the basic syntax and operations in PHP is essential for anyone sta
 
 PHP\'s syntax and operations are designed to be intuitive and flexible, catering to both beginners and experienced programmers. By mastering these fundamentals, you can start building robust and dynamic web applications with PHP.
 
-# Functions and Arrays in PHP
-
 ## Functions and Arrays in PHP
+
+### Functions and Arrays in PHP
 
 Functions and arrays are fundamental components of PHP programming, enabling efficient data management and code reusability. Let\'s delve into how to define functions, work with arrays, and use built-in PHP functions.
 
-### Defining Functions
+#### Defining Functions
 
 1.  **Basic Function Structure**:
 
@@ -266,13 +268,13 @@ Functions and arrays are fundamental components of PHP programming, enabling eff
 
     Functions and arrays in PHP provide a robust framework for structuring and manipulating data efficiently. By understanding how to define and use functions and arrays, you can enhance the functionality and effectiveness of your PHP code. The rich set of built-in PHP functions further streamlines the development process, offering pre-built solutions for common programming tasks.
 
-# String Manipulation and Regular Expressions
+## String Manipulation and Regular Expressions
 
-## String Manipulation and Regular Expressions in PHP
+### String Manipulation and Regular Expressions in PHP
 
 PHP offers a wide range of functionalities for manipulating strings and performing pattern matching using regular expressions. These capabilities are essential for tasks like data validation, parsing, and transformation in web applications.
 
-### Basic String Operations
+#### Basic String Operations
 
 1.  **Concatenation**:
 
@@ -309,7 +311,7 @@ PHP offers a wide range of functionalities for manipulating strings and performi
     -   `trim()`, `ltrim()`, and `rtrim()` remove whitespace or other predefined characters from the left and right sides of a string.
     -   Example: `$trimmedString = trim($string);`
 
-#### Pattern Matching with Regular Expressions
+##### Pattern Matching with Regular Expressions
 
 Regular expressions provide a powerful way to match and extract patterns in a string.
 
@@ -347,13 +349,13 @@ Regular expressions provide a powerful way to match and extract patterns in a st
 
 Understanding and mastering string manipulation and regular expressions in PHP is crucial for handling text processing tasks efficiently. Regular expressions, in particular, are a powerful tool in a PHP developer\'s arsenal, allowing for complex pattern matching and data validation tasks that are essential in web development.
 
-# Object-Oriented Programming in PHP
+## Object-Oriented Programming in PHP
 
-## Object-Oriented Programming (OOP) in PHP
+### Object-Oriented Programming (OOP) in PHP
 
 Object-Oriented Programming (OOP) is a programming paradigm that uses \"objects\" -- data structures consisting of data fields and methods -- and their interactions to design applications and computer programs. PHP supports OOP and provides features to implement it effectively.
 
-### Introduction to OOP Concepts
+#### Introduction to OOP Concepts
 
 1.  **Objects and Classes**:
 
@@ -371,16 +373,13 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses \"objects\
 
     -   Polymorphism allows objects of different classes to be treated as objects of a common superclass. It's mainly achieved through inheritance and interfaces.
 
-#### Classes and Objects
+##### Classes and Objects
 
 1.  **Defining a Class**:
 
     -   A class is defined using the `class` keyword, followed by the class name and a pair of curly braces.
     -   Syntax: php
 
-```{=html}
-<!-- -->
-```
 1.  -   `class ClassName { // properties // methods }`
 
 2.  **Creating an Object**:
@@ -393,7 +392,7 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses \"objects\
     -   Properties and methods of an object are accessed using the arrow operator (`->`).
     -   Syntax: `$obj->property; $obj->method();`
 
-#### Inheritance and Interfaces
+##### Inheritance and Interfaces
 
 1.  **Inheritance**:
 
@@ -426,13 +425,13 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses \"objects\
 
     Object-Oriented Programming in PHP enhances the maintainability, reusability, and scalability of code. It allows for designing complex applications in a manageable way, making it a preferred approach for modern web application development.
 
-# Error Handling and Exceptions
+## Error Handling and Exceptions
 
-## Error Handling and Exceptions in PHP
+### Error Handling and Exceptions in PHP
 
 Error handling is a critical aspect of PHP programming, ensuring that your application can gracefully handle and recover from unexpected situations. PHP provides several methods for handling errors and exceptions.
 
-### Error Types in PHP
+#### Error Types in PHP
 
 1.  **Syntax Errors**:
 
@@ -458,7 +457,7 @@ Error handling is a critical aspect of PHP programming, ensuring that your appli
 
     -   These are errors in the program logic and are not caught by PHP itself. They require debugging to identify and fix.
 
-#### Exception Handling Techniques
+##### Exception Handling Techniques
 
 1.  **Try-Catch Block**:
 
@@ -503,13 +502,13 @@ Error handling is a critical aspect of PHP programming, ensuring that your appli
 
     Effective error handling and the proper use of exceptions are essential for creating robust and reliable PHP applications. They help in identifying the source of problems and ensuring that the application can handle unexpected situations without crashing.
 
-# Working with Forms and User Input
+## Working with Forms and User Input
 
-## Working with Forms and User Input in PHP
+### Working with Forms and User Input in PHP
 
 Handling forms and user input is a fundamental aspect of PHP web development. This process involves retrieving data from forms, validating, and sanitizing it to ensure it\'s safe and useful.
 
-### Handling Form Data
+#### Handling Form Data
 
 1.  **Retrieving Data**:
 
@@ -529,7 +528,7 @@ Handling forms and user input is a fundamental aspect of PHP web development. Th
 
     -   For file uploads, use the `$_FILES` superglobal. Ensure the form has `enctype="multipart/form-data"` and method set to POST.
 
-#### Data Validation and Sanitization
+##### Data Validation and Sanitization
 
 1.  **Data Validation**:
 
@@ -564,13 +563,13 @@ Handling forms and user input is a fundamental aspect of PHP web development. Th
 
 Handling forms and user input securely and efficiently is vital in PHP development. Proper validation and sanitization ensure that the data your application processes is accurate and secure, protecting both the application and its users.
 
-# File Handling in PHP
-
 ## File Handling in PHP
+
+### File Handling in PHP
 
 File handling in PHP is an important feature for many web applications, enabling them to read, write, upload, and download files. PHP provides a set of built-in functions to handle files efficiently.
 
-### Reading and Writing Files
+#### Reading and Writing Files
 
 1.  **Opening a File**:
 
@@ -600,7 +599,7 @@ File handling in PHP is an important feature for many web applications, enabling
     -   PHP offers functions like `file_get_contents()` and `file_put_contents()` for simpler read/write operations.
     -   `file_exists()`, `filesize()`, and `unlink()` are useful for checking if a file exists, getting file size, and deleting a file, respectively.
 
-#### File Uploads and Downloads
+##### File Uploads and Downloads
 
 1.  **Handling File Uploads**:
 
@@ -618,26 +617,23 @@ File handling in PHP is an important feature for many web applications, enabling
     -   Set the `Content-Type` and `Content-Disposition` headers, then read and output the file content.
     -   Example: php
 
-```{=html}
-<!-- -->
-```
 1.  -   `header('Content-Type: application/octet-stream'); header('Content-Disposition: attachment; filename="filename.txt"'); readfile('path/to/filename.txt');`
 
 File handling in PHP is a robust feature set that can be used for a variety of purposes, from simple data storage to complex file management systems. Proper implementation of file reading/writing and secure handling of file uploads and downloads are crucial for maintaining the integrity and security of the data and the application.
 
-# PHP and MySQL Integration
-
 ## PHP and MySQL Integration
+
+### PHP and MySQL Integration
 
 PHP and MySQL integration is a cornerstone of modern web development, allowing for the creation of dynamic, data-driven websites. MySQL is a popular open-source relational database management system, and when combined with PHP, it enables efficient storage, retrieval, and manipulation of data.
 
-### Introduction to MySQL
+#### Introduction to MySQL
 
 -   **MySQL**: A relational database management system based on SQL (Structured Query Language). It\'s used for storing, retrieving, and managing data in a structured format. MySQL databases are composed of tables, which have rows and columns similar to a spreadsheet.
 
 -   **Relational Databases**: MySQL organizes data into one or more data tables in which data types may be related to each other; these relations help structure the data. SQL is used to write queries for operations like data retrieval, updates, and deletion.
 
-#### Connecting to a Database
+##### Connecting to a Database
 
 1.  **Using MySQLi and PDO**:
 
@@ -690,13 +686,13 @@ PHP and MySQL integration is a cornerstone of modern web development, allowing f
 
     Integration of PHP with MySQL enables the development of applications that can interact with a database to store, update, and retrieve data. This integration is the backbone of many content management systems, e-commerce sites, and other web applications. Proper handling of database connections and operations is crucial for the security and performance of these applications.
 
-# Advanced MySQL Techniques
+## Advanced MySQL Techniques
 
-## Advanced MySQL Techniques in PHP
+### Advanced MySQL Techniques in PHP
 
 When working with PHP and MySQL, advancing beyond basic CRUD (Create, Read, Update, Delete) operations allows for more complex and efficient data manipulation and retrieval. This involves writing advanced SQL queries and leveraging the capabilities of MySQLi and PDO (PHP Data Objects) for secure and effective database interactions.
 
-### Advanced SQL Queries
+#### Advanced SQL Queries
 
 1.  **Join Operations**:
 
@@ -724,7 +720,7 @@ When working with PHP and MySQL, advancing beyond basic CRUD (Create, Read, Upda
 
     -   Indexes are used to retrieve data from the database more quickly. They are especially important for improving the performance of large databases.
 
-#### Using PHP with MySQLi and PDO
+##### Using PHP with MySQLi and PDO
 
 1.  **Prepared Statements and Bound Parameters (MySQLi and PDO)**:
 
@@ -756,13 +752,13 @@ When working with PHP and MySQL, advancing beyond basic CRUD (Create, Read, Upda
 
     Advanced MySQL techniques, combined with the capabilities of MySQLi and PDO in PHP, allow developers to handle complex data with efficiency and security. Understanding these advanced aspects is crucial for developing scalable, secure, and high-performance web applications.
 
-# Session Management and Cookies
+## Session Management and Cookies
 
-## Session Management and Cookies in PHP
+### Session Management and Cookies in PHP
 
 Session management and cookies are essential for maintaining state and storing data across different pages of a web application. PHP provides built-in support for both, allowing for effective user tracking and data persistence.
 
-### Working with Sessions
+#### Working with Sessions
 
 1.  **Starting a Session**:
 
@@ -793,7 +789,7 @@ Session management and cookies are essential for maintaining state and storing d
 
     -   It\'s important to manage sessions securely to prevent vulnerabilities like session hijacking. Practices like regenerating session ID (`session_regenerate_id()`) after login and using secure connections (HTTPS) can help enhance session security.
 
-#### Setting and Retrieving Cookies
+##### Setting and Retrieving Cookies
 
 1.  **Setting Cookies**:
 
@@ -826,13 +822,13 @@ Session management and cookies are essential for maintaining state and storing d
 
 Session management and cookies in PHP are powerful tools for creating personalized and interactive web applications. Correctly managing sessions and cookies is crucial for ensuring the security and performance of your application.
 
-# PHP and AJAX
-
 ## PHP and AJAX
+
+### PHP and AJAX
 
 The integration of PHP and AJAX (Asynchronous JavaScript and XML) is a powerful combination for creating dynamic, responsive web applications. AJAX allows web pages to be updated asynchronously by exchanging data with a server behind the scenes. This means that parts of a web page can be updated without reloading the whole page, leading to a smoother user experience.
 
-### Introduction to AJAX
+#### Introduction to AJAX
 
 1.  **Asynchronous Communication**:
 
@@ -850,7 +846,7 @@ The integration of PHP and AJAX (Asynchronous JavaScript and XML) is a powerful 
 
     -   AJAX is typically implemented using JavaScript or jQuery, which provides simpler syntax and additional functionalities.
 
-#### Implementing AJAX with PHP
+##### Implementing AJAX with PHP
 
 1.  **Creating an XMLHttpRequest**:
 
@@ -889,13 +885,13 @@ The integration of PHP and AJAX (Asynchronous JavaScript and XML) is a powerful 
 
     The combination of PHP and AJAX is particularly useful for tasks that require frequent updates to the web page, such as form validation, live search filters, and real-time data display. By using AJAX, web applications can provide a more interactive and seamless user experience.
 
-# PHP Security Practices
-
 ## PHP Security Practices
+
+### PHP Security Practices
 
 Security in PHP is a critical aspect of web development, as vulnerabilities can lead to significant risks such as data breaches, unauthorized access, and server compromises. Understanding common security vulnerabilities and implementing secure practices are essential steps in creating robust PHP applications.
 
-### Security Vulnerabilities in PHP
+#### Security Vulnerabilities in PHP
 
 1.  **SQL Injection**:
 
@@ -926,7 +922,7 @@ Security in PHP is a critical aspect of web development, as vulnerabilities can 
     -   Occurs when an application allows unvalidated or unfiltered user file uploads.
     -   Attackers can upload malicious files, leading to server compromise or code execution.
 
-#### Implementing Secure Practices
+##### Implementing Secure Practices
 
 1.  **Validating and Sanitizing Input**:
 
@@ -938,9 +934,6 @@ Security in PHP is a critical aspect of web development, as vulnerabilities can 
     -   Use prepared statements with PDO or MySQLi to prevent SQL injection.
     -   Example with PDO: php
 
-```{=html}
-<!-- -->
-```
 1.  -   `$stmt = $pdo->prepare("SELECT * FROM users WHERE email = :email"); $stmt->execute(['email' => $email]);`
 
 2.  **CSRF Protection**:
@@ -981,13 +974,13 @@ Security in PHP is a critical aspect of web development, as vulnerabilities can 
 
 Implementing these security practices is crucial in mitigating common vulnerabilities in PHP applications. Regularly reviewing and updating security measures in line with evolving threats is equally important to maintain the integrity and safety of the application and its users.
 
-# Using PHP Frameworks
-
 ## Using PHP Frameworks
+
+### Using PHP Frameworks
 
 PHP frameworks provide a structured, efficient way to develop robust web applications. They offer reusable components, enforce good coding practices, and reduce the need for repetitive coding.
 
-### Overview of Popular PHP Frameworks
+#### Overview of Popular PHP Frameworks
 
 1.  **Laravel**:
 
@@ -1024,7 +1017,7 @@ PHP frameworks provide a structured, efficient way to develop robust web applica
     -   An open-source framework that follows the model-view-controller (MVC) approach.
     -   Known for its rapid development capabilities and scaffolding system that makes it easy to build applications quickly.
 
-#### Getting Started with a PHP Framework
+##### Getting Started with a PHP Framework
 
 1.  **Choosing the Right Framework**:
 
@@ -1068,13 +1061,13 @@ PHP frameworks provide a structured, efficient way to develop robust web applica
 
 Using a PHP framework can significantly streamline the development process, ensuring that you are following best practices and making your web application more scalable, maintainable, and secure. Each framework has its strengths and specialties, so choosing the right one for your project and skill level is crucial.
 
-# Developing Web Applications with PHP
-
 ## Developing Web Applications with PHP
+
+### Developing Web Applications with PHP
 
 Developing web applications with PHP involves understanding how to structure the application effectively and implementing the various components that make up a functional application. Let's explore these aspects in detail.
 
-### Structuring a PHP Application
+#### Structuring a PHP Application
 
 1.  **MVC Architecture**:
 
@@ -1112,7 +1105,7 @@ Developing web applications with PHP involves understanding how to structure the
 
     -   Implement security measures such as validation and sanitization of user inputs, protection against SQL injection, XSS attacks, and CSRF attacks.
 
-#### Building a Sample Web Application
+##### Building a Sample Web Application
 
 1.  **Project Idea** -- Simple Blog:
 
@@ -1156,13 +1149,13 @@ Developing web applications with PHP involves understanding how to structure the
 
 Developing a web application in PHP is a process that combines programming logic, data management, user interface design, and security considerations. Structuring the application correctly from the outset is crucial for its scalability and maintainability. As you become more comfortable with PHP development, you can explore more complex features and patterns, enhancing both the functionality and quality of your applications.
 
-# API Development with PHP
-
 ## API Development with PHP
+
+### API Development with PHP
 
 Developing APIs (Application Programming Interfaces) in PHP is a key skill for modern web development. APIs enable different software systems to communicate with each other, allowing for data exchange and integration of diverse systems.
 
-### Understanding APIs
+#### Understanding APIs
 
 1.  **What is an API?**:
 
@@ -1180,7 +1173,7 @@ Developing APIs (Application Programming Interfaces) in PHP is a key skill for m
 
     -   RESTful APIs commonly use JSON (JavaScript Object Notation) or XML (eXtensible Markup Language) for data exchange due to their lightweight and human-readable nature.
 
-#### Creating RESTful APIs with PHP
+##### Creating RESTful APIs with PHP
 
 1.  **Planning Your API**:
 
@@ -1229,13 +1222,13 @@ Developing APIs (Application Programming Interfaces) in PHP is a key skill for m
 
     Creating RESTful APIs with PHP allows for the development of scalable, flexible, and efficient web services that can be consumed by various clients, including web applications, mobile apps, and other web services. As you grow more comfortable with API development, you can explore more advanced features and security practices to enhance the functionality and reliability of your services.
 
-# Testing and Debugging PHP Applications
-
 ## Testing and Debugging PHP Applications
+
+### Testing and Debugging PHP Applications
 
 Testing and debugging are essential practices in PHP development, ensuring code reliability, maintainability, and minimizing bugs in applications. Let\'s delve into writing unit tests and various debugging techniques.
 
-### Writing Unit Tests
+#### Writing Unit Tests
 
 1.  **Understanding Unit Testing**:
 
@@ -1256,9 +1249,6 @@ Testing and debugging are essential practices in PHP development, ensuring code 
     -   Use assertions to test expected outcomes, such as `assertEquals`, `assertTrue`, `assertFalse`, etc.
     -   Example: php
 
-```{=html}
-<!-- -->
-```
 1.  -   `class SampleTest extends PHPUnit\Framework\TestCase { public function testFunction() { $this->assertEquals('expected result', actualFunctionCall()); } }`
 
 2.  **Running Tests**:
@@ -1270,7 +1260,7 @@ Testing and debugging are essential practices in PHP development, ensuring code 
 
     -   TDD is an approach where tests are written before the actual code. It ensures that the application is designed to meet the specified requirements.
 
-#### Debugging Techniques
+##### Debugging Techniques
 
 1.  **Error Reporting**:
 
@@ -1308,13 +1298,13 @@ Testing and debugging are essential practices in PHP development, ensuring code 
 
 Testing and debugging are critical for the development of high-quality PHP applications. While testing (especially unit testing) helps in catching bugs early in the development cycle, debugging is key to resolving issues that arise during development. A combination of both practices ensures the delivery of more reliable and robust applications.
 
-# Performance Optimization in PHP
-
 ## Performance Optimization in PHP
+
+### Performance Optimization in PHP
 
 Optimizing performance in PHP is crucial for building efficient, fast, and scalable web applications. It involves identifying performance bottlenecks and implementing strategies to mitigate them.
 
-### Analyzing Performance Issues
+#### Analyzing Performance Issues
 
 1.  **Profiling Tools**:
 
@@ -1336,7 +1326,7 @@ Optimizing performance in PHP is crucial for building efficient, fast, and scala
 
     -   Use network analysis tools to examine the time taken for HTTP requests and responses. This can be done with browser developer tools.
 
-#### Optimization Techniques
+##### Optimization Techniques
 
 1.  **Optimizing Code**:
 
@@ -1386,13 +1376,13 @@ Optimizing performance in PHP is crucial for building efficient, fast, and scala
 
 Performance optimization in PHP is a multi-faceted approach involving both server-side and client-side considerations. Regular monitoring and profiling can help you understand where optimizations are needed, and a combination of code optimization, caching, database optimization, and server configuration can significantly improve the performance of PHP applications.
 
-# The Future of PHP
-
 ## The Future of PHP
+
+### The Future of PHP
 
 PHP, one of the most popular server-side scripting languages, continues to evolve, adapting to the changing landscape of web development. Let\'s explore recent developments in PHP and its role in modern web development.
 
-### Recent Developments in PHP
+#### Recent Developments in PHP
 
 1.  **PHP 8 Release**:
 
@@ -1415,7 +1405,7 @@ PHP, one of the most popular server-side scripting languages, continues to evolv
 
     -   PHP 8 introduced the concept of fibers, which can be used for implementing cooperative multitasking and handling asynchronous operations more efficiently.
 
-#### PHP in Modern Web Development
+##### PHP in Modern Web Development
 
 1.  **Continued Popularity**:
 

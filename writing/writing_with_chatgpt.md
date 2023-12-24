@@ -1,3 +1,5 @@
+# Writing With ChatGPT
+
 [ChatGPT](https://chat.openai.com/chat/) is a chatbot made by OpenAI. I use it to create short instructional books about different subjects that interest me. In this post, I describe how I use it for writing.
 
 I choose to use ChatGPT because it is more advanced than other chatbots available. It\'s not just a tool that provides answers to questions, but an artificial intelligence that can learn and adapt based on our conversations.
