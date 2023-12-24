@@ -5,18 +5,40 @@ Outlines written by ChatGPT on various subjects.
   * [Anime](arts/anime.md)
 
 ## Computing
-  * [Algorithms](computing/algorithms.md)
-  * [Apache Web Server](computing/apache_web_server.md)
-  * [Artificial Intelligence](computing/artificial_intelligence.md)
-  * [Code Reviews](computing/code_reviews.md)
-  * [Computer Science](computing/computer_science.md)
-  * [JavaScript](computing/javascript.md)
-  * [Linux](computing/linux.md)
-  * [MySQL](computing/mysql.md)
-  * [PHP](computing/php.md)
-  * [Programming Language Paradigms](computing/programming_language_paradigms.md)
-  * [Software Architecture](computing/software_architecture.md)
-  * [XML](computing/xml.md)
+
+### Artificial Intelligence
+  * [Artificial Intelligence](computing/artificial_intelligence/artificial_intelligence.md)
+
+### Computer Programming
+  * [Code Reviews](computing/computer_programming/code_reviews.md)
+  * [Programming Paradigms](computing/computer_programming/programming_paradigms.md)
+
+### Computer Science
+  * [Algorithms](computing/computer_science/algorithms.md)
+  * [Computer Science](computing/computer_science/computer_science.md)
+
+### Databases
+  * [MySQL](computing/databases/mysql.md)
+
+### Data Science
+  * [XML](computing/data_science/xml.md)
+
+### Operating Systems
+  * [Linux](computing/operating_systems/linux.md)
+
+### Programming Languages
+  * [JavaScript](computing/programming_languages/javascript.md)
+  * [PHP](computing/programming_languages/php.md)
+
+### Software Architecture
+  * [Software Architecture](computing/software_architecture/software_architecture.md)
+
+### Web Development
+  * [Apache Web Server](computing/web_development/apache_web_server.md)
+
+## History
+  * [History of Christianity](humanities/history_of_christianity.md)
+  * [History of the Middle East](humanities/history_of_middle_east.md)
 
 ## Language
   * [Esperanto Grammar](language/esperanto_grammar.md)
@@ -26,9 +48,6 @@ Outlines written by ChatGPT on various subjects.
   * [Latin Grammar](language/latin_grammar.md)
   * [Spanish Grammar](language/spanish_grammar.md)
 
-## Literature & Writing
+## Writing
   * [Writing With ChatGPT](writing/writing_with_chatgpt.md)
 
-## Social Sciences & Humanities
-  * [History of Christianity](humanities/history_of_christianity.md)
-  * [History of the Middle East](humanities/history_of_middle_east.md)

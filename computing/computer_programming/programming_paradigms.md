@@ -1,4 +1,4 @@
-# Programming Language Paradigms
+# Programming Paradigms
 
 ## Introduction to Programming Languages
 
