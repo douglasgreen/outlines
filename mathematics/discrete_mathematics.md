@@ -507,7 +507,7 @@ Number theory, a branch of pure mathematics devoted primarily to the study of in
 
 - **Concept**: Modular arithmetic is a system of arithmetic for integers, where numbers "wrap around" upon reaching a certain value—the modulus.
 
-- **Congruence**: Two numbers are said to be congruent modulo n if they have the same remainder when divided by n. This is written as \( a \equiv b \pmod{n} \).
+- **Congruence**: Two numbers are said to be congruent modulo n if they have the same remainder when divided by n. This is written as $`a \equiv b \pmod{n}`$.
 
 - **Applications**: Modular arithmetic is used in various fields, including cryptography, computer science, and coding theory. It's fundamental in algorithms for hash functions, checksums, and pseudorandom number generators.
 
