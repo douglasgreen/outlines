@@ -30,11 +30,9 @@ Outlines written by ChatGPT on various subjects.
   * [JavaScript](computing/programming_languages/javascript.md)
   * [PHP](computing/programming_languages/php.md)
 
-### Software Architecture
-  * [Software Architecture](computing/software_architecture/software_architecture.md)
-
 ### Software Design
   * [Design Patterns](software_design/design_patterns.md)
+  * [Software Architecture](computing/software_architecture/software_architecture.md)
 
 ### Web Development
   * [Apache Web Server](computing/web_development/apache_web_server.md)
