@@ -51,5 +51,8 @@ Outlines written by ChatGPT on various subjects.
 ## Literature
   * [Science Fiction](literature/science_fiction.md)
 
+## Mathematics
+  * [Discrete Mathematics](mathematics/discrete_mathematics.md)
+
 ## Writing
   * [Writing With ChatGPT](writing/writing_with_chatgpt.md)
