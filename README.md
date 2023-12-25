@@ -31,7 +31,7 @@ Outlines written by ChatGPT on various subjects.
   * [PHP](computing/programming_languages/php.md)
 
 ### Software Design
-  * [Design Patterns](software_design/design_patterns.md)
+  * [Design Patterns](computing/software_design/design_patterns.md)
   * [Software Architecture](computing/software_architecture/software_architecture.md)
 
 ### Web Development
@@ -42,6 +42,7 @@ Outlines written by ChatGPT on various subjects.
   * [History of the Middle East](history/history_of_middle_east.md)
 
 ## Language
+  * [English Grammar](language/english_grammar.md)
   * [Esperanto Grammar](language/esperanto_grammar.md)
   * [French Grammar](language/french_grammar.md)
   * [German Grammar](language/german_grammar.md)
