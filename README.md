@@ -48,6 +48,8 @@ Outlines written by ChatGPT on various subjects.
   * [Latin Grammar](language/latin_grammar.md)
   * [Spanish Grammar](language/spanish_grammar.md)
 
+## Literature
+  * [Science Fiction](literature/science_fiction.md)
+
 ## Writing
   * [Writing With ChatGPT](writing/writing_with_chatgpt.md)
-
