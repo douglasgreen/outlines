@@ -2,7 +2,9 @@
 Outlines written by ChatGPT on various subjects.
 
 ## Arts
-  * [Anime](arts/anime.md)
+
+### Film
+  * [Anime](arts/film/anime.md)
 
 ## Computing
 
