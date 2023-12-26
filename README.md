@@ -6,6 +6,9 @@ Outlines written by ChatGPT on various subjects.
 ### Film
   * [Anime](arts/film/anime.md)
 
+## Business
+  * [Economics](business/economics.md)
+
 ## Computing
 
 ### Artificial Intelligence
