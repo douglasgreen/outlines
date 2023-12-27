@@ -155,21 +155,21 @@ Probability is a branch of mathematics that deals with calculating the likelihoo
 
 Conditional probability is the probability of an event occurring given that another event has already occurred. This concept is crucial in many areas, including statistics and machine learning. The conditional probability of Event A given Event B is denoted as P(A|B) and is calculated as follows:
 
-\[ P(A|B) = \frac{P(A \cap B)}{P(B)} \]
+$`P(A|B) = \frac{P(A \cap B)}{P(B)}`$
 
-where \( P(A \cap B) \) is the probability of both A and B occurring, and \( P(B) \) is the probability of B occurring.
+where $`P(A \cap B)`$ is the probability of both A and B occurring, and $`P(B)`$ is the probability of B occurring.
 
 ### Bayes' Theorem
 
 Bayes' Theorem is a way of finding a probability when we know certain other probabilities. The theorem uses conditional probability to update the probability of an event based on new evidence. It is expressed as:
 
-\[ P(A|B) = \frac{P(B|A) \times P(A)}{P(B)} \]
+$`P(A|B) = \frac{P(B|A) \times P(A)}{P(B)}`$
 
 Where:
-- \( P(A|B) \) is the probability of A given B (what we want to find).
-- \( P(B|A) \) is the probability of B given A (known from given data).
-- \( P(A) \) is the probability of A (prior probability).
-- \( P(B) \) is the probability of B.
+- $`P(A|B)`$ is the probability of A given B (what we want to find).
+- $`P(B|A)`$ is the probability of B given A (known from given data).
+- $`P(A)`$ is the probability of A (prior probability).
+- $`P(B)`$ is the probability of B.
 
 Bayes' Theorem is particularly useful in decision-making and predictive modeling. For example, it is used in medical diagnostics to determine the probability of a disease given a positive test result, taking into account the prevalence of the disease and the accuracy of the test.
 
@@ -186,12 +186,12 @@ Discrete probability distributions apply to scenarios where the set of possible 
 1. **Binomial Distribution**:
    - **Description**: The binomial distribution models the number of successes in a fixed number of independent Bernoulli trials (or yes/no experiments).
    - **Example Use-Case**: A typical example is flipping a coin a set number of times and counting the number of heads (or tails).
-   - **Key Parameters**: The two parameters are the number of trials \( n \) and the probability of success \( p \) on each trial.
+   - **Key Parameters**: The two parameters are the number of trials $`n`$ and the probability of success $`p`$ on each trial.
 
 2. **Poisson Distribution**:
    - **Description**: This distribution is used for counting the number of times an event occurs over a specified interval or continuum (like time, distance, area, etc.).
    - **Example Use-Case**: An example is counting the number of phone calls received by a call center in an hour.
-   - **Key Parameter**: The key parameter is \( \lambda \) (lambda), the average number of events in the interval.
+   - **Key Parameter**: The key parameter is $`\lambda`$ (lambda), the average number of events in the interval.
 
 ### Continuous Distributions
 
@@ -205,7 +205,7 @@ Continuous probability distributions are used when dealing with continuous rando
 2. **Exponential Distribution**:
    - **Description**: The exponential distribution is often used to model the time elapsed between events in a process where events occur continuously and independently at a constant average rate.
    - **Example Use-Case**: It can be used to model the time until the next phone call arrives at a call center.
-   - **Key Parameter**: The rate parameter \( \lambda \), which is the inverse of the mean of the distribution.
+   - **Key Parameter**: The rate parameter $`\lambda`$, which is the inverse of the mean of the distribution.
 
 ### The Central Limit Theorem
 
@@ -240,13 +240,13 @@ In statistics, the concept of sampling distributions is fundamental for understa
 
 1. **Definition**: The standard error of a statistic (like the sample mean) is the standard deviation of its sampling distribution. It provides a measure of the variability or spread of the sampling distribution.
 
-2. **Calculation for Sample Mean**: The standard error of the mean (SEM) is calculated by dividing the standard deviation of the population (\( \sigma \)) by the square root of the sample size (\( n \)):
+2. **Calculation for Sample Mean**: The standard error of the mean (SEM) is calculated by dividing the standard deviation of the population ($`\sigma`$) by the square root of the sample size ($`n`$):
    
-   \[ \text{SEM} = \frac{\sigma}{\sqrt{n}} \]
+   $`\text{SEM} = \frac{\sigma}{\sqrt{n}}`$
 
 3. **Interpretation**: A smaller standard error indicates that the sample mean is more closely clustered around the population mean. The SEM decreases as the sample size increases, reflecting the increased precision in estimating the population mean with larger samples.
 
-4. **Assumptions**: When the population standard deviation (\( \sigma \)) is unknown, it can be estimated using the sample standard deviation. However, this assumes that the sample is sufficiently large and representative of the population.
+4. **Assumptions**: When the population standard deviation ($`\sigma`$) is unknown, it can be estimated using the sample standard deviation. However, this assumes that the sample is sufficiently large and representative of the population.
 
 In summary, the concept of sampling distributions is essential in statistics for understanding and quantifying the uncertainty associated with sample statistics. The distribution of the sample mean, especially as described by the Central Limit Theorem, and the calculation of standard error are key components in this understanding. These concepts form the basis for many inferential statistical techniques, such as confidence intervals and hypothesis testing, allowing statisticians to make inferences about a population based on sample data.
 
@@ -378,15 +378,15 @@ Regression analysis is a powerful statistical method used for estimating the rel
 
 ### Simple Linear Regression
 
-1. **Definition**: Simple linear regression is a regression model that estimates the relationship between one independent variable and one dependent variable using a linear equation. The basic form of this equation is \( y = \beta_0 + \beta_1x + \epsilon \), where \( y \) is the dependent variable, \( x \) is the independent variable, \( \beta_0 \) is the y-intercept, \( \beta_1 \) is the slope of the line, and \( \epsilon \) is the error term.
+1. **Definition**: Simple linear regression is a regression model that estimates the relationship between one independent variable and one dependent variable using a linear equation. The basic form of this equation is $`y = \beta_0 + \beta_1x + \epsilon`$, where $`y`$ is the dependent variable, $`x`$ is the independent variable, $`\beta_0`$ is the y-intercept, $`\beta_1`$ is the slope of the line, and $`\epsilon`$ is the error term.
 
 2. **Purpose**: It’s used to predict the value of the dependent variable based on the value of the independent variable. For example, predicting sales based on advertising budget.
 
-3. **Interpretation**: The coefficient \( \beta_1 \) indicates the average change in the dependent variable for a one-unit change in the independent variable.
+3. **Interpretation**: The coefficient $`\beta_1`$ indicates the average change in the dependent variable for a one-unit change in the independent variable.
 
 ### Multiple Linear Regression
 
-1. **Definition**: Multiple linear regression extends simple linear regression by modeling the relationship between two or more independent variables and a dependent variable. The equation is \( y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n + \epsilon \).
+1. **Definition**: Multiple linear regression extends simple linear regression by modeling the relationship between two or more independent variables and a dependent variable. The equation is $`y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n + \epsilon`$.
 
 2. **Purpose**: It’s used to predict the value of the dependent variable based on several independent variables. For example, predicting a house's price based on its size, age, and location.
 
@@ -420,7 +420,7 @@ Correlation analysis is a method used in statistics to measure the strength and 
 
 ### Pearson Correlation Coefficient
 
-1. **Definition**: The Pearson correlation coefficient (denoted as \( r \)) is a measure of the linear correlation between two variables. It ranges from -1 to +1, where +1 indicates a perfect positive linear correlation, -1 indicates a perfect negative linear correlation, and 0 indicates no linear correlation.
+1. **Definition**: The Pearson correlation coefficient (denoted as $`r`$) is a measure of the linear correlation between two variables. It ranges from -1 to +1, where +1 indicates a perfect positive linear correlation, -1 indicates a perfect negative linear correlation, and 0 indicates no linear correlation.
 
 2. **Calculation**: The coefficient is calculated as the covariance of the two variables divided by the product of their standard deviations.
 
@@ -428,7 +428,7 @@ Correlation analysis is a method used in statistics to measure the strength and 
 
 ### Spearman's Rank Correlation
 
-1. **Definition**: Spearman's rank correlation coefficient (denoted as \( \rho \) or sometimes \( r_s \)) is a non-parametric measure of rank correlation. It assesses how well the relationship between two variables can be described using a monotonic function.
+1. **Definition**: Spearman's rank correlation coefficient (denoted as $`\rho`$ or sometimes $`r_s`$) is a non-parametric measure of rank correlation. It assesses how well the relationship between two variables can be described using a monotonic function.
 
 2. **Application**: It’s used when one or both variables are ordinal, when the relationship is not linear, or when data is not normally distributed.
 
