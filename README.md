@@ -42,6 +42,7 @@ Outlines written by ChatGPT on various subjects.
 
 ### Web Development
   * [Apache Web Server](computing/web_development/apache_web_server.md)
+  * [Cascading Style Sheets](computing/web_development/css.md)
 
 ## History
   * [History of Christianity](history/history_of_christianity.md)
