@@ -23,6 +23,7 @@ Outlines written by ChatGPT on various subjects.
   * [Computer Science](computing/computer_science/computer_science.md)
 
 ### Databases
+  * [Databases](computing/databases/databases.md)
   * [MySQL](computing/databases/mysql.md)
 
 ### Data Science
