@@ -66,6 +66,9 @@ Outlines written by ChatGPT on various subjects.
   * [Discrete Mathematics](mathematics/discrete_mathematics.md)
   * [Statistics](mathematics/statistics.md)
 
+## Philosophy
+  * [Philosophy](philosophy/philosophy.md)
+
 ## Science
   * [Science](science/science.md)
 
