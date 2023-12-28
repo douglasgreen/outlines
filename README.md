@@ -36,6 +36,8 @@ Outlines written by ChatGPT on various subjects.
   * [JavaScript](computing/programming_languages/javascript.md)
   * [PHP](computing/programming_languages/php.md)
 
+### Project Management
+  * [Project Management](computing/project_management/software_project_management.md)
 ### Software Design
   * [Design Patterns](computing/software_design/design_patterns.md)
   * [Software Architecture](computing/software_architecture/software_architecture.md)
