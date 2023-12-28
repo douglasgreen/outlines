@@ -38,6 +38,7 @@ Outlines written by ChatGPT on various subjects.
 
 ### Project Management
   * [Project Management](computing/project_management/software_project_management.md)
+
 ### Software Design
   * [Design Patterns](computing/software_design/design_patterns.md)
   * [Software Architecture](computing/software_architecture/software_architecture.md)
@@ -46,6 +47,7 @@ Outlines written by ChatGPT on various subjects.
   * [Apache Web Server](computing/web_development/apache_web_server.md)
   * [Cascading Style Sheets](computing/web_development/css.md)
   * [Hypertext Markup Language](computing/web_development/html.md)
+  * [WebPack](computing/web_development/webpack.md)
 
 ## History
   * [History of Christianity](history/history_of_christianity.md)
