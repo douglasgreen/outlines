@@ -69,6 +69,9 @@ Outlines written by ChatGPT on various subjects.
 ## Philosophy
   * [Philosophy](philosophy/philosophy.md)
 
+## Politcs
+  * [Politics](politics/politics.md)
+
 ## Science
   * [Science](science/science.md)
 
