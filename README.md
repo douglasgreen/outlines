@@ -43,6 +43,9 @@ Outlines written by ChatGPT on various subjects.
   * [Design Patterns](computing/software_design/design_patterns.md)
   * [Software Architecture](computing/software_architecture/software_architecture.md)
 
+### Software Testing
+  * [Software Testing](computing/software_testing/software_testing.md)
+
 ### Web Development
   * [Apache Web Server](computing/web_development/apache_web_server.md)
   * [Cascading Style Sheets](computing/web_development/css.md)
