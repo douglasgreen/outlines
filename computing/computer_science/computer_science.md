@@ -655,3 +655,45 @@ The future of computer science is a dynamic and evolving field, deeply influence
     -   Develop Soft Skills: Collaboration, communication, and problem-solving skills are as important as technical skills in a collaborative and interdisciplinary field like computer science.
 
 In summary, the future of computer science is marked by rapid technological advancements, raising both exciting possibilities and significant challenges. Aspiring professionals must prepare through a combination of solid education, practical experience, and a commitment to lifelong learning and adaptability.
+
+## Glossary of Terms
+
+**Algorithm**: A set of rules or procedures for solving a problem in a finite number of steps, often used for data processing and calculation.
+
+**Artificial Intelligence (AI)**: The simulation of human intelligence processes by machines, especially computer systems, including learning, reasoning, and self-correction.
+
+**Big Data**: Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions.
+
+**Cloud Computing**: The delivery of different services through the Internet, including data storage, servers, databases, networking, and software.
+
+**Data Structure**: A specialized format for organizing and storing data. Common examples include arrays, linked lists, and trees.
+
+**Database**: A structured set of data held in a computer, especially one that is accessible in various ways.
+
+**Encryption**: The process of converting information or data into a code, especially to prevent unauthorized access.
+
+**Internet of Things (IoT)**: The interconnection via the Internet of computing devices embedded in everyday objects, enabling them to send and receive data.
+
+**Machine Learning**: A subset of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
+
+**Network**: A group of two or more computer systems linked together for sharing information and resources.
+
+**Object-Oriented Programming (OOP)**: A programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields, and code, in the form of procedures.
+
+**Operating System (OS)**: Software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.
+
+**Programming Language**: A formal language comprising a set of instructions that produce various kinds of output and are used in computer programming to implement algorithms.
+
+**Quantum Computing**: A type of computation that harnesses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations.
+
+**Software Engineering**: The application of engineering principles to software development in a systematic method.
+
+**Source Code**: The fundamental component of a computer program that is created by a programmer. It can be read and easily understood by a human being.
+
+**Virtual Reality (VR)**: A simulated experience that can be similar to or completely different from the real world, often used in entertainment and education.
+
+**Web Development**: The work involved in developing a website for the Internet or an intranet, encompassing web design, web content development, client-side/server-side scripting, and network security configuration.
+
+**Cybersecurity**: The practice of protecting systems, networks, and programs from digital attacks aimed at accessing, changing, or destroying sensitive information.
+
+**Blockchain**: A system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system, often used for securing transactions in cryptocurrencies.

@@ -786,3 +786,45 @@ Databases play a pivotal role in various industries, powering critical applicati
 5. **Enhanced Data Visualization Tools**: As businesses become more data-driven, there will be a greater need for tools that can easily visualize complex data stored in databases.
 
 In summary, databases are integral to a multitude of industries, addressing various challenges through innovative solutions. The future of database usage is poised to become more integrated with emerging technologies, adapting to the evolving landscape of data needs and management.
+
+## Glossary of Terms
+
+**Database (DB)**: A structured set of data held in a computer, especially one that is accessible in various ways.
+
+**Database Management System (DBMS)**: Software that enables the creation, manipulation, and administration of databases.
+
+**Relational Database**: A database structured to recognize relations among stored items of information.
+
+**SQL (Structured Query Language)**: A programming language used for managing and manipulating databases.
+
+**Table**: A collection of related data held in a structured format within a database.
+
+**Row (Record)**: A single, implicitly structured data item in a table.
+
+**Column (Field)**: A set of data values of a particular simple type, one for each row of the table.
+
+**Primary Key**: A specific choice of a minimal set of attributes (columns) that uniquely specify a tuple (row) in a relation (table).
+
+**Foreign Key**: A set of one or more columns in a database table that refers to the primary key in another table.
+
+**Index**: A data structure that improves the speed of data retrieval operations on a database table.
+
+**Query**: A request for data or information from a database table or combination of tables.
+
+**Schema**: The structure of a database system, described in a formal language supported by the DBMS.
+
+**Normalization**: The process of organizing the fields and tables of a relational database to minimize redundancy and dependency.
+
+**Transaction**: A unit of work performed within a database management system against a database.
+
+**ACID Properties**: A set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc. They are: Atomicity, Consistency, Isolation, Durability.
+
+**Data Model**: An abstract model that organizes elements of data and standardizes how they relate to one another and to properties of the real world.
+
+**Stored Procedure**: A subroutine available to applications that access a relational database management system.
+
+**View**: A virtual table based on the result-set of an SQL statement.
+
+**Join**: A SQL operation performed to combine data from two or more tables.
+
+**NoSQL Database**: A non-relational database that allows for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.

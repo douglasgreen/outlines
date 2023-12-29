@@ -904,3 +904,45 @@ The future of MySQL, a widely used open-source relational database management sy
 -   Contributing to the Open Source Community: Engaging with the MySQL open-source community can provide insights into upcoming features and best practices, and it\'s a way to contribute to the future development of MySQL.
 
 In summary, the future of MySQL is closely tied to advancements in cloud services, AI, big data, and security. Professionals and organizations must stay informed and adaptable to harness these emerging trends and technologies effectively.
+
+## Glossary of Terms
+
+**MySQL**: A popular open-source relational database management system that uses SQL (Structured Query Language) for managing data.
+
+**Database**: A structured collection of data. In MySQL, databases hold tables and other structures like views and stored procedures.
+
+**Table**: A collection of related data in a database, organized into rows and columns.
+
+**Row (Record)**: A single, data entity in a table, typically defined by a unique identifier known as a primary key.
+
+**Column (Field)**: A specific attribute or feature of a table, like a column in a spreadsheet.
+
+**Primary Key**: A unique identifier for a row in a table. No two rows can have the same primary key value in a table.
+
+**Foreign Key**: A field in one table that uniquely identifies a row of another table, creating a link between the two tables.
+
+**SQL (Structured Query Language)**: The standard language used for querying and manipulating relational databases, including MySQL.
+
+**Query**: A request made to the database to retrieve or manipulate data.
+
+**Index**: A data structure that improves the speed of data retrieval operations on a table at the cost of additional writes and storage space.
+
+**JOIN**: An SQL operation used to combine rows from two or more tables based on a related column between them.
+
+**Transaction**: A set of SQL statements that are executed as a single unit of work, either all of them are executed, or none of them are.
+
+**Stored Procedure**: A prepared SQL code that you can save and reuse. In MySQL, a stored procedure is a subroutine available to applications accessing a MySQL database.
+
+**View**: A virtual table based on the result-set of an SQL statement. It contains rows and columns, just like a real table.
+
+**Normalization**: The process of organizing data in a database to reduce redundancy and improve data integrity.
+
+**Backup**: The process of copying data from a database to prevent loss in case of hardware failure or other issues.
+
+**Cluster**: A group of databases that work together and can be treated as a single database.
+
+**Data Type**: The attribute that specifies the type of data that an object can hold in MySQL, such as integer, float, text, and datetime.
+
+**Constraint**: Rules enforced on data columns on a table. They are used to prevent invalid data from being entered into the database.
+
+**Schema**: The structure of a database defined by its tables, views, relationships, and other elements.
