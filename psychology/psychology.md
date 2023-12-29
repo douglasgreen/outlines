@@ -795,3 +795,45 @@ The field of psychology is continually evolving, with new research areas emergin
 ### Conclusion
 
 The future of psychology is dynamic and expansive, encompassing technological advancements, a deeper understanding of neuroscience, and an increased focus on holistic well-being. As psychology continues to adapt and grow, it will offer more comprehensive insights into the human mind and behavior and increasingly influence various aspects of society.
+
+## Glossary of Terms
+
+**Behaviorism**: A theory of learning based on the idea that all behaviors are acquired through conditioning.
+
+**Cognitive Dissonance**: A mental discomfort experienced by a person who holds two or more contradictory beliefs, ideas, or values at the same time.
+
+**Developmental Psychology**: The scientific study of how and why human beings change over the course of their life.
+
+**Ego**: In Freudian theory, the part of the personality that mediates the demands of the id, the superego, and reality.
+
+**Empathy**: The ability to understand and share the feelings of another.
+
+**Freudian Slip**: A verbal or memory mistake that is believed to be linked to the unconscious mind.
+
+**Humanistic Psychology**: A perspective that emphasizes looking at the whole individual and stresses concepts such as free will, self-efficacy, and self-actualization.
+
+**Id**: In Freudian psychology, the part of the mind in which innate instinctive impulses and primary processes are manifest.
+
+**Intelligence Quotient (IQ)**: A measure of a person's reasoning ability compared to the statistical norm or average for their age, taken as 100.
+
+**Learned Helplessness**: A condition in which a person suffers from a sense of powerlessness, arising from a traumatic event or persistent failure to succeed.
+
+**Maslow’s Hierarchy of Needs**: A theory in psychology proposed by Abraham Maslow in his 1943 paper “A Theory of Human Motivation”.
+
+**Neuroplasticity**: The ability of the brain to form and reorganize synaptic connections, especially in response to learning or experience or following injury.
+
+**Operant Conditioning**: A method of learning that occurs through rewards and punishments for behavior.
+
+**Psychoanalysis**: A set of theories and therapeutic techniques related to the study of the unconscious mind, which together form a method of treatment for mental disorders.
+
+**Social Psychology**: The scientific study of how people's thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others.
+
+**Subconscious**: Part of the mind of which one is not fully aware but which influences one's actions and feelings.
+
+**Superego**: In Freudian psychology, the part of a person's mind that acts as a self-critical conscience, reflecting social standards learned from parents and teachers.
+
+**Trait Theory**: A major approach to the study of human personality that identifies and measures the degree to which certain personality traits exist in individuals.
+
+**Unconscious Mind**: In Freudian psychology, a part of the mind that contains desires, impulses, and memories that are beyond conscious awareness.
+
+**Variable Ratio Schedule**: A schedule of reinforcement where a response is reinforced after an unpredictable number of responses, which is used in operant conditioning.

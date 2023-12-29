@@ -635,3 +635,45 @@ Aviation has a profound impact on the world, playing a pivotal role in connectin
 ### Conclusion
 
 Aviation has been a cornerstone of global connectivity, shaping economic, cultural, and social landscapes. As it faces the future, the industry must navigate a complex array of challenges, from environmental impact to technological and safety considerations. However, these challenges also present opportunities for innovation and growth, ensuring that aviation continues to be a vital and dynamic force in connecting and advancing the global community.
+
+## Glossary of Terms
+
+**Aileron**: A hinged flight control surface on the wing of an aircraft which controls roll.
+
+**Air Traffic Control (ATC)**: A service provided to manage the safe and efficient flow of air traffic in the skies and on airports.
+
+**Altitude**: The height of an aircraft in relation to sea level or ground level.
+
+**Autopilot**: A system used to control the trajectory of an aircraft without constant 'hands-on' control by a human operator.
+
+**Cockpit**: The area of the aircraft where the pilot controls the plane.
+
+**Drag**: The force that opposes an aircraft's motion through the air.
+
+**Elevator**: A control surface on the tail of an aircraft, used to control its pitch.
+
+**Flaps**: Movable panels on the wings of an aircraft that increase lift during takeoff and landing.
+
+**Fuselage**: The main body of an aircraft.
+
+**Hangar**: A building where aircraft are stored and maintained.
+
+**IAS (Indicated Airspeed)**: The speed of an aircraft as measured by its airspeed indicator.
+
+**Jet Lag**: Fatigue and disorientation caused by traveling across different time zones.
+
+**Knot**: A unit of speed used in aviation, equivalent to one nautical mile per hour.
+
+**Landing Gear**: The undercarriage of an aircraft, used for takeoff and landing.
+
+**Nose**: The front part of an aircraft.
+
+**Radar**: A system that uses radio waves to determine the range, angle, or velocity of objects.
+
+**Rudder**: A primary control surface located on the tail of an aircraft, which controls yaw.
+
+**Stall**: A condition in aerodynamics and aviation wherein the angle of attack increases beyond a certain point such that lift begins to decrease.
+
+**Transponder**: An electronic device in aircraft that transmits a coded signal in response to an interrogating signal.
+
+**Yaw**: The rotation of an aircraft around its vertical axis.

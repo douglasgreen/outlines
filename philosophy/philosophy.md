@@ -533,3 +533,45 @@ Philosophical inquiry itself is evolving, reflecting changes in society, culture
 - **Adaptation to Societal Changes**: As society faces new challenges like climate change, political upheaval, and global health crises, philosophy will adapt, providing critical frameworks for understanding and addressing these issues.
 
 In summary, the future of philosophy is likely to be marked by greater interdisciplinarity, a close engagement with technology and its implications, and an evolving nature of inquiry that reflects the changing realities of our world. These developments suggest a dynamic and flexible future for philosophy, one that remains deeply relevant to the pressing questions and challenges of our time.
+
+## Glossary of Terms
+
+**Metaphysics**: A branch of philosophy that deals with the fundamental nature of reality, including the relationship between mind and matter, substance and attribute, and potentiality and actuality.
+
+**Epistemology**: The study of knowledge, including its nature, origin, and limits.
+
+**Ethics**: The branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong behavior.
+
+**Logic**: The study of valid reasoning and argumentation.
+
+**Aesthetics**: The branch of philosophy dealing with the nature of beauty, art, and taste, and with the creation and appreciation of beauty.
+
+**Existentialism**: A philosophical theory or approach that emphasizes the existence of the individual person as a free and responsible agent determining their own development through acts of the will.
+
+**Phenomenology**: The philosophical study of the structures of experience and consciousness.
+
+**Ontology**: A sub-branch of metaphysics concerned with the nature and relations of being.
+
+**Utilitarianism**: An ethical theory that posits the best action is the one that maximizes utility, generally defined as that which produces the greatest well-being of the greatest number of people.
+
+**Deontology**: An ethical theory that uses rules to distinguish right from wrong.
+
+**Empiricism**: The theory that knowledge is primarily derived from experience and observation.
+
+**Rationalism**: The doctrine that knowledge and truth are ascertained by rational thought and not by empirical means.
+
+**Dualism**: The division of something conceptually into two opposed or contrasted aspects, or the state of being so divided. In philosophy, it often refers to the mind-body dualism proposed by Descartes.
+
+**Materialism**: The doctrine that nothing exists except matter and its movements and modifications.
+
+**Idealism**: The philosophical theory that maintains that the ultimate nature of reality is based on mind or ideas.
+
+**Skepticism**: A skeptical attitude; doubt as to the truth of something.
+
+**Categorical Imperative**: A central philosophical concept in the deontological moral philosophy of Immanuel Kant. It is a standard of rationality derived from the nature of morality.
+
+**Dialectic**: The art of investigating or discussing the truth of opinions.
+
+**Nihilism**: The rejection of all religious and moral principles, often in the belief that life is meaningless.
+
+**Pragmatism**: A philosophical tradition that began in the United States around 1870. Its origins are often attributed to the philosophers William James, John Dewey, and Charles Sanders Peirce. Pragmatism considers thought as an instrument or tool for prediction, action, and problem solving.
