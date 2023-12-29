@@ -597,3 +597,45 @@ Anime, more than just a form of entertainment, is a dynamic art form that contin
 As anime continues to grow in popularity and influence, it not only enriches the entertainment landscape but also contributes to the global dialogue of art, culture, and human experience. Its future, undoubtedly bright and promising, is something to look forward to with anticipation and excitement.
 
 In conclusion, anime's journey from a niche Japanese animation style to a globally recognized and celebrated medium highlights its universality and enduring charm. It stands as a testament to the power of storytelling and the endless possibilities of artistic creativity.
+
+## Glossary of Terms
+
+**Anime**: A style of animation originating in Japan, characterized by colorful artwork and fantastical themes.
+
+**Manga**: Japanese comic books or graphic novels, often the basis for anime series.
+
+**Otaku**: A term used to describe a dedicated fan of anime, manga, or Japanese culture.
+
+**Shonen**: A genre of anime and manga targeted primarily at young male audiences, often featuring action and adventure themes.
+
+**Shojo**: A genre of anime and manga aimed primarily at young female audiences, typically focusing on romance and relationships.
+
+**Seinen**: A genre of anime and manga intended for adult men, featuring more mature themes.
+
+**Josei**: A genre of anime and manga targeted at adult women, often involving romantic or slice-of-life stories.
+
+**Isekai**: A subgenre of anime and manga where characters are transported to, reborn, or trapped in a parallel universe or fantasy world.
+
+**Mecha**: A genre of anime that focuses on robots or mechanical suits, often piloted by the characters.
+
+**Harem**: An anime genre where a single character is surrounded by multiple characters of the opposite sex, often in romantic contexts.
+
+**Ecchi**: Anime content that has suggestive sexual themes but is not explicitly pornographic.
+
+**Chibi**: A style of drawing characters in a small, cute, and simplified manner, often used for comedic effect.
+
+**Kawaii**: A Japanese term meaning “cute,” often used to describe characters or elements in anime that are charming or adorable.
+
+**Sakuga**: High-quality, detailed animation sequences in anime, often highlighting the skill of the animators.
+
+**OVA (Original Video Animation)**: Anime that is released directly to video formats without prior showing on television or in theaters.
+
+**Cosplay**: The practice of dressing up as characters from anime, manga, video games, or other media.
+
+**Sub vs. Dub**: The debate between watching anime in its original Japanese with subtitles (sub) versus watching it with English or other language voice-overs (dub).
+
+**AMV (Anime Music Video)**: Fan-made videos that combine anime clips with popular music tracks.
+
+**Moe**: A term used to describe characters that are perceived as endearing or cute, often used in connection with female characters.
+
+**Senpai and Kohai**: Terms referring to the senior-junior relationship in Japanese culture, often used in anime to depict dynamics between characters.
