@@ -762,3 +762,45 @@ Latin prose composition involves not only a thorough understanding of Latin gram
 -   Continuing Latin studies involves a combination of structured learning, practical application, and immersion in the language.
 -   Latin's relevance in modern contexts provides various avenues for applying the language and understanding its influence.
 -   Regular practice in reading, writing, speaking, and listening is essential for maintaining and advancing proficiency in Latin.
+
+## Glossary of Terms
+
+**Nominative (Nominativus)**: The subject case, used for the subject of a sentence.
+
+**Genitive (Genitivus)**: Indicates possession, similar to 'of' or 's' in English.
+
+**Dative (Dativus)**: The indirect object case, used to indicate to whom or for whom something is done.
+
+**Accusative (Accusativus)**: The direct object case, used for the object of a verb.
+
+**Ablative (Ablativus)**: Used for many purposes including location, time, and means.
+
+**Vocative (Vocativus)**: Used for addressing someone directly.
+
+**Conjugation**: The variation of the form of a verb depending on mood, tense, voice, person, and number.
+
+**Declension**: A group of nouns classified by their endings in different cases.
+
+**Verb**: A word that denotes an action, occurrence, or state of being.
+
+**Noun**: A word that represents a person, place, thing, or idea.
+
+**Adjective**: A word that describes or modifies a noun.
+
+**Adverb**: A word that modifies a verb, adjective, or other adverbs.
+
+**Pronoun**: A word that takes the place of a noun.
+
+**Preposition**: A word used before a noun or pronoun to form a phrase modifying another word in the sentence.
+
+**Imperative Mood**: Verb form used for commands or requests.
+
+**Infinitive**: The basic form of a verb, without an inflection binding it to a particular subject or tense.
+
+**Participle**: A form of a verb that is used in a sentence to modify a noun, noun phrase, verb, or verb phrase.
+
+**Subjunctive Mood**: Used to express various states of unreality such as wish, emotion, possibility, judgment, opinion, obligation, or action that has not yet occurred.
+
+**Indicative Mood**: The mood of verbs expressing simple statements of fact.
+
+**Gerund**: A verbal noun, similar to the -ing form in English.

@@ -769,3 +769,45 @@ To solidify your understanding of Spanish, it's crucial to periodically review k
 8.  Language Immersion Programs: If feasible, enroll in an immersion program in a Spanish-speaking country.
 
 Achieving fluency in Spanish is a continuous journey that involves consistent practice, exposure, and a willingness to immerse oneself in the language and culture. By setting realistic goals, utilizing various resources, and continuously challenging yourself, you can steadily improve your Spanish proficiency and enjoy the rich experiences that come with language learning.
+
+## Glossary of Terms
+
+**Sustantivo (Noun)**: A word that names a person, place, thing, or idea.
+
+**Verbo (Verb)**: A word that describes an action, occurrence, or state of being.
+
+**Adjetivo (Adjective)**: A word that describes a noun, giving more information about it.
+
+**Adverbio (Adverb)**: A word that modifies a verb, an adjective, or another adverb, often ending in "-mente".
+
+**Artículo (Article)**: A word that precedes a noun to specify its definiteness (definite like 'el', 'la') or indefiniteness (indefinite like 'un', 'una').
+
+**Pronombre (Pronoun)**: A word used in place of a noun, such as 'él' (he), 'ella' (she), 'ello' (it), 'ellos' (they).
+
+**Preposición (Preposition)**: A word used before a noun or pronoun to form a phrase modifying another word in the sentence, e.g., 'en' (in), 'sobre' (on).
+
+**Conjunción (Conjunction)**: A word that connects clauses or sentences, such as 'y' (and), 'o' (or), 'pero' (but).
+
+**Interjección (Interjection)**: A word or phrase that expresses strong emotion or surprise, like '¡ay!' (ouch!) or '¡hola!' (hello!).
+
+**Género (Gender)**: A grammatical category that classifies nouns and pronouns as masculine or feminine.
+
+**Número (Number)**: Refers to the singular or plural form of a word.
+
+**Tiempo (Tense)**: The form of a verb that shows the time of an action or state (past, present, future).
+
+**Modo (Mood)**: A verb form that shows the speaker's attitude toward the action, such as indicative, subjunctive, or imperative.
+
+**Voz (Voice)**: A form of a verb that indicates whether the subject performs or receives the action (active or passive voice).
+
+**Sujeto (Subject)**: The person, thing, or idea that is doing or being something in a sentence.
+
+**Objeto (Object)**: A noun, pronoun, or noun phrase that receives the action of a verb.
+
+**Frase (Phrase)**: A group of words that work together as a single unit, without a subject and verb.
+
+**Oración (Sentence)**: A set of words that expresses a complete thought, containing a subject and a predicate.
+
+**Complemento (Complement)**: A word or phrase that completes the meaning of a predicate.
+
+**Participio (Participle)**: A form of a verb that is used in a sentence to modify a noun, noun phrase, verb, or verb phrase, and can also be used as an adjective.
