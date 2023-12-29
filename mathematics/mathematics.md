@@ -110,9 +110,9 @@ At its core, trigonometry focuses on the study of right triangles.
 
 1. **Trigonometric Ratios:** These are ratios of the lengths of two sides of a right triangle. Apart from sine, cosine, and tangent, there are three other ratios: cosecant (csc, the reciprocal of sine), secant (sec, the reciprocal of cosine), and cotangent (cot, the reciprocal of tangent).
 2. **Trigonometric Identities:** These are equations that involve trigonometric functions and are true for all values of the involved variables. Key identities include:
-   - **Pythagorean Identity:** \( \sin^2\theta + \cos^2\theta = 1 \)
-   - **Angle Sum and Difference Identities:** For example, \( \sin(a + b) = \sin a \cos b + \cos a \sin b \)
-   - **Double Angle Identities:** For example, \( \sin 2\theta = 2\sin\theta \cos\theta \)
+   - **Pythagorean Identity:** $`\sin^2\theta + \cos^2\theta = 1`$
+   - **Angle Sum and Difference Identities:** For example, $`\sin(a + b) = \sin a \cos b + \cos a \sin b`$
+   - **Double Angle Identities:** For example, $`\sin 2\theta = 2\sin\theta \cos\theta`$
 
 ### Applications in Real-Life Scenarios
 
@@ -191,14 +191,14 @@ Graphs in mathematics provide a visual representation of functions and their beh
 
 ### Understanding Graphs and Functions
 
-1. **Functions:** A function is a relation between a set of inputs and a set of permissible outputs. Each input is related to exactly one output. Functions are often expressed in the form \( f(x) \), where \( f \) denotes the function and \( x \) represents the input.
-2. **Graphs of Functions:** The graph of a function is the set of all points \((x, y)\) in the plane that satisfies the equation of the function. Here, \( y \) is the output of the function for each input \( x \).
+1. **Functions:** A function is a relation between a set of inputs and a set of permissible outputs. Each input is related to exactly one output. Functions are often expressed in the form $`f(x)`$, where $`f`$ denotes the function and $`x`$ represents the input.
+2. **Graphs of Functions:** The graph of a function is the set of all points $`(x, y)\) in the plane that satisfies the equation of the function. Here, $`y`$ is the output of the function for each input $`x`$.
 3. **Axes and Scales:** Graphs are typically drawn using two perpendicular lines called axes. The horizontal axis is usually the x-axis, and the vertical axis is the y-axis. The scale on the axes must be chosen to effectively represent the range of the function.
 
 ### Plotting Linear and Quadratic Functions
 
-1. **Linear Functions:** These are functions of the form \( f(x) = mx + b \), where \( m \) is the slope and \( b \) is the y-intercept. The graph of a linear function is a straight line. The slope indicates the steepness of the line, and the y-intercept is the point where the line crosses the y-axis.
-2. **Quadratic Functions:** Quadratic functions have the form \( f(x) = ax^2 + bx + c \), where \( a \), \( b \), and \( c \) are constants, and \( a \neq 0 \). The graph of a quadratic function is a parabola. Its shape depends on the value of \( a \): if \( a > 0 \), the parabola opens upwards, and if \( a < 0 \), it opens downwards. The vertex of the parabola is a significant point, representing the maximum or minimum value of the function.
+1. **Linear Functions:** These are functions of the form $`f(x) = mx + b`$, where $`m`$ is the slope and $`b`$ is the y-intercept. The graph of a linear function is a straight line. The slope indicates the steepness of the line, and the y-intercept is the point where the line crosses the y-axis.
+2. **Quadratic Functions:** Quadratic functions have the form $`f(x) = ax^2 + bx + c`$, where $`a`$, $`b`$, and $`c`$ are constants, and $`a \neq 0`$. The graph of a quadratic function is a parabola. Its shape depends on the value of $`a`$: if $`a > 0`$, the parabola opens upwards, and if $`a < 0`$, it opens downwards. The vertex of the parabola is a significant point, representing the maximum or minimum value of the function.
 
 ### Exploring Coordinate Geometry
 
@@ -216,12 +216,12 @@ Number theory is a branch of pure mathematics devoted primarily to the study of 
 ### Prime Numbers and Divisibility
 
 1. **Prime Numbers:** A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. The first few prime numbers are 2, 3, 5, 7, 11, etc. The number 2 is the only even prime number; all other prime numbers are odd.
-2. **Divisibility and Factors:** An integer \(a\) is said to be divisible by another integer \(b\) if there is an integer \(n\) such that \(a = bn\). Factors are numbers we can multiply together to get another number. For instance, 2 and 3 are factors of 6.
-3. **Fundamental Theorem of Arithmetic:** This theorem states that every integer greater than 1 is either a prime number or can be uniquely represented as a product of prime numbers, called the prime factorization. For example, the prime factorization of 18 is \(2 \times 3 \times 3\) or \(2 \times 3^2\).
+2. **Divisibility and Factors:** An integer $`a\) is said to be divisible by another integer $`b\) if there is an integer $`n\) such that $`a = bn\). Factors are numbers we can multiply together to get another number. For instance, 2 and 3 are factors of 6.
+3. **Fundamental Theorem of Arithmetic:** This theorem states that every integer greater than 1 is either a prime number or can be uniquely represented as a product of prime numbers, called the prime factorization. For example, the prime factorization of 18 is $`2 \times 3 \times 3\) or $`2 \times 3^2\).
 
 ### Introduction to Famous Theorems and Conjectures
 
-1. **Fermat’s Last Theorem:** This theorem, formulated by Pierre de Fermat in 1637, states that no three positive integers \(a\), \(b\), and \(c\) can satisfy the equation \(a^n + b^n = c^n\) for any integer value of \(n\) greater than 2. It was finally proven by Andrew Wiles in 1994.
+1. **Fermat’s Last Theorem:** This theorem, formulated by Pierre de Fermat in 1637, states that no three positive integers $`a\), $`b\), and $`c\) can satisfy the equation $`a^n + b^n = c^n\) for any integer value of $`n\) greater than 2. It was finally proven by Andrew Wiles in 1994.
 2. **Goldbach's Conjecture:** Proposed by Christian Goldbach in 1742, it conjectures that every even integer greater than 2 is the sum of two prime numbers. Despite extensive numerical evidence and partial results, the conjecture remains unproven.
 3. **The Riemann Hypothesis:** Posed by Bernhard Riemann in 1859, it is a conjecture about the distribution of the zeros of the Riemann zeta function, a complex function. It is widely considered the most important unsolved problem in pure mathematics.
 
@@ -248,16 +248,16 @@ Mathematical logic is a subfield of mathematics exploring the application of for
 
 1. **Sets:** A set is a collection of distinct objects, considered as an object in its own right. For example, the numbers 1, 2, and 3 are distinct objects when considered separately, but when they are considered collectively as the set {1, 2, 3}, they form a single object.
 2. **Elements:** An element is a member of a set. For instance, in the set {1, 2, 3}, the number 1 is an element of the set.
-3. **Set Notation:** Sets are usually denoted by capital letters, and elements are listed within curly braces. The notation \( a \in A \) denotes that \( a \) is an element of the set \( A \).
+3. **Set Notation:** Sets are usually denoted by capital letters, and elements are listed within curly braces. The notation $`a \in A`$ denotes that $`a`$ is an element of the set $`A`$.
 
 ### Venn Diagrams and Set Operations
 
 1. **Venn Diagrams:** These diagrams are used to pictorially represent sets and the relationships between them. They are especially useful for illustrating concepts in set theory like intersections, unions, and complements.
 2. **Set Operations:**
-   - **Union:** The union of two sets \( A \) and \( B \), denoted as \( A \cup B \), is the set of elements that are in \( A \), in \( B \), or in both.
-   - **Intersection:** The intersection of two sets \( A \) and \( B \), denoted as \( A \cap B \), is the set of elements that are both in \( A \) and \( B \).
-   - **Complement:** The complement of a set \( A \) refers to elements not in \( A \).
-   - **Difference:** The difference between two sets \( A \) and \( B \), denoted as \( A \setminus B \), is the set of elements that are in \( A \) but not in \( B \).
+   - **Union:** The union of two sets $`A`$ and $`B`$, denoted as $`A \cup B`$, is the set of elements that are in $`A`$, in $`B`$, or in both.
+   - **Intersection:** The intersection of two sets $`A`$ and $`B`$, denoted as $`A \cap B`$, is the set of elements that are both in $`A`$ and $`B`$.
+   - **Complement:** The complement of a set $`A`$ refers to elements not in $`A`$.
+   - **Difference:** The difference between two sets $`A`$ and $`B`$, denoted as $`A \setminus B`$, is the set of elements that are in $`A`$ but not in $`B`$.
 
 Mathematical logic and set theory provide a foundation for understanding and structuring mathematical thought and reasoning. They are essential tools in the development of theoretical frameworks in various areas of mathematics and have significant applications in computer science, linguistics, and philosophy.
 
@@ -267,16 +267,16 @@ Matrices are a fundamental concept in mathematics, providing a powerful and vers
 
 ### Introduction to Matrices
 
-1. **Definition of a Matrix:** A matrix is a rectangular array of numbers arranged in rows and columns. It is typically denoted by a capital letter (e.g., A, B, C) and can be expressed as \( A = [a_{ij}] \), where \( a_{ij} \) represents the element in the ith row and jth column.
+1. **Definition of a Matrix:** A matrix is a rectangular array of numbers arranged in rows and columns. It is typically denoted by a capital letter (e.g., A, B, C) and can be expressed as $`A = [a_{ij}]`$, where $`a_{ij}`$ represents the element in the ith row and jth column.
 2. **Types of Matrices:** There are several types of matrices, including square matrices (same number of rows and columns), rectangular matrices, diagonal matrices (non-diagonal elements are zero), identity matrices (a diagonal matrix with ones on the diagonal), and zero matrices (all elements are zero).
-3. **Notation and Size:** The size of a matrix is denoted by the number of rows and columns it has, typically written as \( m \times n \) for a matrix with \( m \) rows and \( n \) columns.
+3. **Notation and Size:** The size of a matrix is denoted by the number of rows and columns it has, typically written as $`m \times n`$ for a matrix with $`m`$ rows and $`n`$ columns.
 
 ### Matrix Operations and Determinants
 
 1. **Matrix Addition and Subtraction:** These operations are performed element-wise, meaning that you add or subtract corresponding elements from the matrices. The matrices must be of the same size.
 2. **Matrix Multiplication:** This involves multiplying the rows of the first matrix by the columns of the second matrix. For multiplication, the number of columns in the first matrix must equal the number of rows in the second matrix.
 3. **Scalar Multiplication:** This involves multiplying every element of a matrix by a scalar (a single number).
-4. **Determinant of a Matrix:** The determinant is a special number that can be calculated from a square matrix. It is denoted as \( \det(A) \) or \( |A| \) for a matrix A. The determinant has important properties and is used in various applications, including solving systems of linear equations, inverting matrices, and calculating eigenvalues.
+4. **Determinant of a Matrix:** The determinant is a special number that can be calculated from a square matrix. It is denoted as $`\det(A)`$ or $`|A|`$ for a matrix A. The determinant has important properties and is used in various applications, including solving systems of linear equations, inverting matrices, and calculating eigenvalues.
 
 ### Applications in Various Fields
 
@@ -294,16 +294,16 @@ Complex numbers, a beautiful and powerful extension of the real numbers, are fun
 
 ### Understanding Complex Numbers
 
-1. **Definition:** A complex number is a number of the form \( a + bi \), where \( a \) and \( b \) are real numbers, and \( i \) is the imaginary unit with the property that \( i^2 = -1 \). The real part of the complex number is \( a \), and the imaginary part is \( b \).
+1. **Definition:** A complex number is a number of the form $`a + bi`$, where $`a`$ and $`b`$ are real numbers, and $`i`$ is the imaginary unit with the property that $`i^2 = -1`$. The real part of the complex number is $`a`$, and the imaginary part is $`b`$.
 2. **The Complex Plane:** Unlike real numbers, which can be represented on a one-dimensional number line, complex numbers are represented in a two-dimensional plane, known as the complex plane. The horizontal axis represents the real part, and the vertical axis represents the imaginary part.
-3. **Imaginary Numbers:** These are a subset of complex numbers where the real part is zero, e.g., \( 0 + bi \) (often written simply as \( bi \)).
+3. **Imaginary Numbers:** These are a subset of complex numbers where the real part is zero, e.g., $`0 + bi`$ (often written simply as $`bi`$).
 
 ### Operations with Complex Numbers
 
-1. **Addition and Subtraction:** These operations are performed by adding or subtracting the real parts and the imaginary parts separately. For example, \( (a + bi) + (c + di) = (a + c) + (b + d)i \).
-2. **Multiplication:** To multiply two complex numbers, use the distributive property and remember that \( i^2 = -1 \). For example, \( (a + bi)(c + di) = ac + adi + bci + bdi^2 \).
-3. **Division:** To divide one complex number by another, multiply the numerator and denominator by the conjugate of the denominator. The conjugate of \( a + bi \) is \( a - bi \).
-4. **Modulus and Argument:** The modulus (or absolute value) of a complex number \( a + bi \) is given by \( \sqrt{a^2 + b^2} \). The argument is the angle \( \theta \) the line connecting the origin to the point makes with the positive real axis.
+1. **Addition and Subtraction:** These operations are performed by adding or subtracting the real parts and the imaginary parts separately. For example, $`(a + bi) + (c + di) = (a + c) + (b + d)i`$.
+2. **Multiplication:** To multiply two complex numbers, use the distributive property and remember that $`i^2 = -1`$. For example, $`(a + bi)(c + di) = ac + adi + bci + bdi^2`$.
+3. **Division:** To divide one complex number by another, multiply the numerator and denominator by the conjugate of the denominator. The conjugate of $`a + bi`$ is $`a - bi`$.
+4. **Modulus and Argument:** The modulus (or absolute value) of a complex number $`a + bi`$ is given by $`\sqrt{a^2 + b^2}`$. The argument is the angle $`\theta`$ the line connecting the origin to the point makes with the positive real axis.
 
 ### Applications in Physics and Engineering
 
@@ -320,13 +320,13 @@ Infinite series and sequences are fundamental concepts in calculus and analysis,
 
 ### Basics of Sequences and Series
 
-1. **Sequences:** A sequence is an ordered list of numbers that often follow a specific rule or pattern. Each number in a sequence is called a term. For example, the sequence of even numbers \(2, 4, 6, 8, \ldots\) follows the pattern of adding 2 to the previous term.
-2. **Series:** A series is the sum of the terms of a sequence. An infinite series is a series where the sequence goes on indefinitely. For instance, the sum of the first \(n\) even numbers is a finite series, while the sum of all even numbers is an infinite series.
+1. **Sequences:** A sequence is an ordered list of numbers that often follow a specific rule or pattern. Each number in a sequence is called a term. For example, the sequence of even numbers $`2, 4, 6, 8, \ldots\) follows the pattern of adding 2 to the previous term.
+2. **Series:** A series is the sum of the terms of a sequence. An infinite series is a series where the sequence goes on indefinitely. For instance, the sum of the first $`n\) even numbers is a finite series, while the sum of all even numbers is an infinite series.
 
 ### Convergence and Divergence
 
-1. **Convergence:** An infinite series converges if the sum of its terms approaches a finite number as more and more terms are added. For example, the series \(1/2 + 1/4 + 1/8 + 1/16 + \ldots\) converges to 1.
-2. **Divergence:** An infinite series diverges if the sum of its terms does not approach a finite limit. For example, the harmonic series \(1 + 1/2 + 1/3 + 1/4 + \ldots\) is divergent, as its sum grows without bound.
+1. **Convergence:** An infinite series converges if the sum of its terms approaches a finite number as more and more terms are added. For example, the series $`1/2 + 1/4 + 1/8 + 1/16 + \ldots\) converges to 1.
+2. **Divergence:** An infinite series diverges if the sum of its terms does not approach a finite limit. For example, the harmonic series $`1 + 1/2 + 1/3 + 1/4 + \ldots\) is divergent, as its sum grows without bound.
 3. **Tests for Convergence:** There are various tests to determine the convergence of a series, such as the ratio test, the root test, and the integral test. These tests are crucial in the study of series and are often applied in complex mathematical and real-world problems.
 
 ### Applications in Analysis and Computation
