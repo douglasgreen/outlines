@@ -73,9 +73,9 @@ Sometimes ChatGPT makes simple grammar errors with run-on sentences or bad subje
 
 The main goal of the ebook\'s content is to convey a cohesive narrative. Additionally, there are several appendices included to provide a more in-depth analysis of the subject matter. These are the typical appendices that I include.
 
--   Important People
+-   Important People: Make this a separate biographical list instead.
 -   Familiar Quotations
--   Significant Events
+-   Significant Events: Make this a separate historical list instead.
 -   Frequently Asked Questions
 -   Similarities and Differences
 -   Potential Benefits

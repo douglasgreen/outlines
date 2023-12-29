@@ -595,3 +595,65 @@ As we look towards the future of economics, it's essential to reflect on the key
 4. **Planning for the Future:** Preparing for economic uncertainties, such as recessions or personal financial crises, is an important aspect of personal economic responsibility.
 
 In summary, the field of economics is dynamic and ever-evolving, reflecting changes in our societies, technologies, and the global environment. As we look to the future, it becomes increasingly important to understand these fundamental concepts, to anticipate and adapt to new economic realities, and to recognize the role each individual plays in the broader economic landscape. The future of economics holds the promise of more integrated, real-world applicable theories and a greater emphasis on sustainability and ethical considerations in both policy-making and personal finance.
+
+## Glossary of Terms
+
+**GDP (Gross Domestic Product)**
+: The total value of all goods and services produced within a country's borders in a specific time period.
+
+**Inflation**
+: The rate at which the general level of prices for goods and services is rising, leading to a decrease in the purchasing power of money.
+
+**Recession**
+: A significant decline in economic activity spread across the economy, lasting more than a few months.
+
+**Supply and Demand**
+: The relationship between the amount of a good or service available and the desire of buyers for it, considered as factors regulating its price.
+
+**Monetary Policy**
+: The process by which the monetary authority of a country controls the supply of money, often targeting an inflation rate or interest rate to ensure price stability and general trust in the currency.
+
+**Fiscal Policy**
+: The use of government spending and taxation to influence the economy.
+
+**Interest Rate**
+: The amount charged, expressed as a percentage of principal, by a lender to a borrower for the use of assets.
+
+**Unemployment Rate**
+: The percentage of the total labor force that is unemployed but actively seeking employment and willing to work.
+
+**Exchange Rate**
+: The value of one nation's currency versus the currency of another nation or economic zone.
+
+**Inflation Targeting**
+: A monetary policy where a central bank follows an explicit target for the inflation rate for the medium-term and announces this inflation target to the public.
+
+**Economic Growth**
+: An increase in the amount of goods and services produced per head of the population over a period of time.
+
+**Balance of Trade**
+: The difference in value between a country's imports and exports.
+
+**Market Equilibrium**
+: A market state where the supply in the market is equal to the demand in the market.
+
+**Opportunity Cost**
+: The cost of foregoing the next best alternative when making a decision.
+
+**Consumer Price Index (CPI)**
+: A measure that examines the weighted average of prices of a basket of consumer goods and services, such as transportation, food, and medical care.
+
+**Deficit**
+: The amount by which something, especially a sum of money, is too small.
+
+**Liquidity**
+: The availability of liquid assets to a market or company.
+
+**Capital Market**
+: A financial market in which long-term debt (over a year) or equity-backed securities are bought and sold.
+
+**Microeconomics**
+: The part of economics concerned with single factors and the effects of individual decisions.
+
+**Macroeconomics**
+: The branch of economics dealing with the performance, structure, behavior, and decision-making of an economy as a whole, rather than individual markets.
