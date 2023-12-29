@@ -21,31 +21,6 @@ At a national level, economic understanding is vital for effective policymaking 
 
 In summary, economics is not just an academic discipline; it's a lens through which we can view the complexities of human behavior and societal organization. Its principles permeate every aspect of our lives, shaping the world in which we live and the future we are heading towards.
 
-## Basic Economic Concepts
-
-Understanding basic economic concepts is crucial for grasping how economies function. Three fundamental concepts are scarcity and choice, supply and demand, and market equilibrium.
-
-### Scarcity and Choice
-Scarcity is a fundamental concept in economics. It refers to the basic economic problem that resources (such as land, labor, and capital) are limited, but human wants are unlimited. This scarcity of resources means that individuals, businesses, and governments must make choices about how to allocate them best to meet the most pressing needs and desires.
-
-The concept of choice is inherently linked to scarcity. Since we can't have everything we want, we must choose which desires to satisfy with our limited resources. These choices involve opportunity costs, which are the benefits foregone from the next best alternative that is not chosen. For instance, if a government decides to spend more on healthcare, it might have to spend less on education, assuming a fixed budget.
-
-### Supply and Demand
-Supply and demand is a fundamental concept that explains how prices are determined in a market economy.
-
-- **Demand** refers to how much (quantity) of a product or service is desired by buyers. The quantity demanded is the amount of a product people are willing to buy at a certain price; the relationship between price and quantity demanded is known as the demand relationship. Generally, as the price of a good increases, the quantity demanded decreases, and vice versa – this is known as the law of demand.
-
-- **Supply** represents how much the market can offer. The quantity supplied refers to the amount of a certain good producers are willing to supply when receiving a certain price. The correlation between price and how much of a good or service is supplied to the market is known as the supply relationship. Typically, the higher the price, the higher the quantity supplied.
-
-The interaction of supply and demand determines the price of a good or service.
-
-### Market Equilibrium
-Market equilibrium occurs where the quantity demanded of a product equals the quantity supplied at a particular price. This is the point at which the market is "cleared," and there is no tendency for the price to change. It is where the demand and supply curves intersect.
-
-In a state of equilibrium, there is no excess supply (surplus) or excess demand (shortage). If a market is not at equilibrium, market forces tend to move it toward equilibrium. For example, if there is a surplus, the price would tend to fall, reducing the quantity supplied and increasing the quantity demanded until the surplus is eliminated.
-
-These basic concepts form the backbone of economic analysis and are essential for understanding more complex topics in economics. They illustrate the dynamic interplay of factors that govern how resources are allocated in a market economy, influencing everything from the price of a loaf of bread to the allocation of resources for a country's infrastructure development.
-
 ## Microeconomics: The Basics
 
 Understanding basic economic concepts is crucial for grasping how economies function. Three fundamental concepts are scarcity and choice, supply and demand, and market equilibrium.
