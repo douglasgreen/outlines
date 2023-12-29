@@ -1305,3 +1305,45 @@ Exploring real-world projects and case studies is an excellent way to understand
 7. **Learn from the Community**: Engage with the web development community through forums, social media, and meetups. Collaborating and sharing knowledge is a fast track to improving your skills.
 
 Real-world projects and case studies offer invaluable insights into how CSS can be used innovatively and effectively. They provide a practical perspective that complements theoretical knowledge, highlighting the importance of continuous learning and experimentation in the field of web development.
+
+## Glossary of Terms
+
+**CSS (Cascading Style Sheets)**: A language used for describing the presentation of a document written in HTML or XML, including colors, layout, and fonts.
+
+**Selector**: Specifies the HTML elements to which a set of CSS rules apply. Examples include `div`, `.class`, and `#id`.
+
+**Property**: A characteristic of an HTML element that is modified using CSS. For example, `color`, `font-size`, and `margin`.
+
+**Value**: Specifies the settings of a property. For example, `red`, `12px`, and `auto`.
+
+**Declaration**: A single rule like `color: red;` that pairs a property with a value.
+
+**Declaration Block**: A set of declarations enclosed within curly braces `{}`.
+
+**Rule Set**: Consists of a selector and a declaration block to style specified elements.
+
+**Class Selector**: Begins with a dot `.` and is used to select elements with the specified class attribute.
+
+**ID Selector**: Begins with a hash `#` and is used to select elements with the specified id attribute.
+
+**Pseudo-class**: Adds special effects to selected elements, such as `:hover` or `:first-child`.
+
+**Pseudo-element**: Used to style specified parts of an element, like `::before` or `::after`.
+
+**Inheritance**: The process by which some CSS property values set on parent elements are inherited by their child elements.
+
+**Box Model**: A core concept in CSS, comprising margins, borders, padding, and the content area.
+
+**Margin**: The outermost layer of the box model, creating space around elements.
+
+**Padding**: The space between the content of the element and its border.
+
+**Border**: The area between the padding and the margin of an element, often used for stylistic purposes.
+
+**Flexbox**: A layout model that allows for the efficient arrangement of elements in a container, even when their size is unknown or dynamic.
+
+**Grid**: A two-dimensional layout system in CSS, allowing for more complex designs and alignments.
+
+**Media Query**: A technique used in responsive web design to apply different styles for different devices or screen sizes.
+
+**Specificity**: A measure of how precise a selector is in targeting elements, which determines which styles are applied when there is a conflict.

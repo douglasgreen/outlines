@@ -756,3 +756,44 @@ Case studies and real-world applications provide valuable insights into successf
 
 In conclusion, analyzing successful testing strategies and learning from real-world scenarios provides valuable insights that can guide organizations in enhancing their testing practices. These lessons range from the technical aspects of testing, like automation and performance testing, to more strategic considerations, such as team collaboration and continuous improvement.
 
+## Glossary of Terms
+
+**Test Case**: A specific set of conditions and steps used to test a particular aspect of a software application to verify it behaves as expected.
+
+**Unit Testing**: Testing of individual components or modules of a software application to ensure each part functions correctly in isolation.
+
+**Integration Testing**: Testing in which individual software modules are combined and tested as a group to identify issues in the interaction between them.
+
+**System Testing**: The process of testing an integrated system to verify that it meets specified requirements.
+
+**Regression Testing**: A type of software testing that ensures that previously developed and tested software still performs correctly after it has been changed or interfaced with other software.
+
+**Acceptance Testing**: Testing conducted to determine whether a system satisfies the acceptance criteria and to enable the customer to determine whether to accept the system.
+
+**Functional Testing**: Testing that involves ensuring that the functionality of an application conforms to its specifications.
+
+**Non-Functional Testing**: Testing of non-functional aspects of a software application, such as performance, usability, reliability, etc.
+
+**Test Automation**: The use of software tools to execute pre-scripted tests on a software application before it is released into production.
+
+**Performance Testing**: Testing conducted to evaluate the responsiveness, throughput, reliability, and scalability of a system under a given workload.
+
+**Load Testing**: A kind of performance testing which determines a system's behavior under both normal and anticipated peak load conditions.
+
+**Stress Testing**: Testing to evaluate a system's behavior beyond normal or peak load conditions, often to the point of failure.
+
+**Smoke Testing**: Preliminary testing to reveal simple failures severe enough to reject a prospective software release.
+
+**Sanity Testing**: A quick, non-exhaustive testing to ensure that the most important functions of a program work, but not bothering with finer details.
+
+**Exploratory Testing**: An approach to software testing that is concisely described as simultaneous learning, test design, and test execution.
+
+**User Acceptance Testing (UAT)**: The process of verifying that a solution works for the user.
+
+**Test Plan**: A document detailing the scope, approach, resources, and schedule of intended test activities.
+
+**Test Script**: A set of instructions (written using a scripting or programming language) used in automated testing.
+
+**Defect**: Any flaw or imperfection in a software product.
+
+**Quality Assurance (QA)**: A systematic process of ensuring that a product or service meets specified requirements and is free of defects.

@@ -3219,3 +3219,45 @@ In the future, we can expect to see a continued adaptation and evolution of desi
 The key for developers and software architects is to stay informed about these changes and continue learning. Embracing new patterns and practices, while understanding their underlying principles, will be essential for building efficient, scalable, and robust software systems in the future.
 
 In summary, design patterns will continue to play a vital role in software development, adapting to new technologies and methodologies, and providing time-tested solutions to emerging challenges in software design and architecture.
+
+## Glossary of Terms
+
+**Singleton**: Ensures a class has only one instance and provides a global point of access to it.
+
+**Factory Method**: Defines an interface for creating an object but lets subclasses decide which class to instantiate.
+
+**Abstract Factory**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+**Builder**: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+**Prototype**: Creates new objects by copying an existing object, known as the prototype.
+
+**Adapter**: Allows incompatible interfaces to work together. It involves a wrapper that converts one interface to another.
+
+**Decorator**: Dynamically adds responsibility to an object in a transparent manner without affecting other objects.
+
+**Proxy**: Provides a surrogate or placeholder for another object to control access to it.
+
+**Composite**: Composes objects into tree structures to represent part-whole hierarchies, allowing clients to treat individual objects and compositions uniformly.
+
+**Observer**: Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+**Strategy**: Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
+**Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queue or log requests, and support undoable operations.
+
+**State**: Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
+
+**Chain of Responsibility**: Passes a request along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
+
+**Memento**: Without violating encapsulation, captures and externalizes an object's internal state so that the object can be restored to this state later.
+
+**Template Method**: Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
+
+**Visitor**: Represents an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
+
+**Mediator**: Defines an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
+
+**Flyweight**: Uses sharing to support large numbers of fine-grained objects efficiently.
+
+**Bridge**: Decouples an abstraction from its implementation so that the two can vary independently.

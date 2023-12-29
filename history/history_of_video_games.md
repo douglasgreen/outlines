@@ -694,3 +694,44 @@ The journey of video games, from rudimentary electronic experiments to a definin
 
 In conclusion, the journey of video games reflects a remarkable trajectory of growth and transformation. Video games have firmly established themselves as a vital part of global culture, continuously evolving and influencing various aspects of our lives. They are a testament to human creativity and technological progress, offering a window into how we engage with stories, with each other, and with the challenges and possibilities of the digital age. As video games continue to advance, they will undoubtedly keep shaping our experiences, cultures, and perceptions in profound and enduring ways.
 
+## Glossary of Terms
+
+**Arcade Game**: Coin-operated entertainment machines typically found in public places like malls and amusement arcades. They were especially popular in the 1970s and 1980s.
+
+**Console**: A gaming system that is typically connected to a television or other display to play video games.
+
+**Controller**: A device used to interact with video games. Controllers have evolved from simple joysticks to complex devices with multiple buttons and joysticks.
+
+**8-Bit/16-Bit**: Refers to the computing power of the gaming consoles. 8-bit and 16-bit consoles were prominent in the 1980s and early 1990s.
+
+**MMORPG (Massively Multiplayer Online Role-Playing Game)**: A genre of video games in which a large number of players interact within a virtual world.
+
+**Platformer**: A genre of video games in which the player controls a character that jumps between platforms and over obstacles.
+
+**FPS (First-Person Shooter)**: A genre where the game is experienced from the first-person perspective, often focusing on shooting weapons.
+
+**AI (Artificial Intelligence)**: In gaming, AI is used to generate responsive, adaptive, or intelligent behaviors in non-player characters (NPCs).
+
+**VR (Virtual Reality)**: A simulated experience that can be similar to or completely different from the real world, applied in video games to create immersive environments.
+
+**RPG (Role-Playing Game)**: A genre where players assume the roles of characters in a fictional setting.
+
+**LAN Party**: A gathering where people bring their computers to play multiplayer video games together over a local area network (LAN).
+
+**Mod (Modification)**: Changes made to a game by players or fans, often improving graphics, adding new content, or changing gameplay.
+
+**E-Sports**: Organized, competitive gaming among professional players, often involving significant prize money and tournaments.
+
+**Microtransactions**: Small, often in-game purchases for virtual goods or benefits.
+
+**Open World**: A game design where a player can freely explore a virtual world, rather than following a fixed storyline.
+
+**Pixel**: The smallest unit of a digital image, often used in the context of retro games which had a distinct, pixelated look.
+
+**Emulator**: Software that enables one computer system (the host) to behave like another computer system (the guest) for playing games from that system.
+
+**Save Game**: A feature that allows players to save their progress and continue the game at a later time.
+
+**DLC (Downloadable Content)**: Additional content for a game, available for download after the original game's release.
+
+**Sandbox**: A style of game in which minimal character limitations are placed on the player, allowing them to roam and change a virtual world at will.

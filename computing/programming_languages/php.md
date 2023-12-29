@@ -1436,3 +1436,45 @@ PHP, one of the most popular server-side scripting languages, continues to evolv
     -   An abundance of educational resources, tutorials, and community support makes PHP accessible to new developers.
 
 The future of PHP looks promising, with ongoing improvements and a strong community driving its evolution. Its adaptability, ease of use, and robust framework ecosystem make it a viable choice for modern web development projects, ranging from small websites to complex web applications. Despite the competition from other technologies, PHP's continuous improvement and widespread usage suggest that it will remain a significant player in the web development world for years to come.
+
+## Glossary of Terms
+
+**PHP**: Hypertext Preprocessor, a widely-used open-source server-side scripting language especially suited for web development and embedded into HTML.
+
+**Variable**: A symbol or name that holds a value. In PHP, variables are prefixed with a dollar sign ($).
+
+**Array**: A data structure that can store multiple values in a single variable. PHP supports indexed, associative, and multi-dimensional arrays.
+
+**Function**: A block of code that can be called from other points in a script. PHP has built-in functions and allows user-defined functions.
+
+**Echo**: A language construct used to output strings to the webpage.
+
+**String**: A sequence of characters, used to handle textual data. In PHP, strings are enclosed within quotes.
+
+**Loop**: A control structure that executes a block of code repeatedly. PHP supports several types of loops, including `for`, `foreach`, `while`, and `do-while`.
+
+**Conditional Statements**: Statements that execute different code blocks based on certain conditions, like `if`, `else`, and `switch`.
+
+**$_GET and $_POST**: Super global arrays used to collect data sent in the URL (GET) or through a form (POST).
+
+**Session**: A way to store information to be used across multiple pages. PHP sessions are stored on the server.
+
+**MySQL**: A popular database management system used in conjunction with PHP to store and retrieve data.
+
+**PDO (PHP Data Objects)**: A database access layer providing a uniform method of access to multiple databases.
+
+**Class**: In Object-Oriented PHP, a class is a template for creating objects.
+
+**Object**: An instance of a class. In OOP (Object-Oriented Programming), objects are used to access class methods and properties.
+
+**Method**: A function defined inside a class.
+
+**Include/Require**: PHP statements to include the content of one PHP file into another. `require` will produce a fatal error if the file does not exist, while `include` will only produce a warning.
+
+**Error Handling**: The process of catching errors produced by scripts and handling them gracefully. PHP supports several methods for error handling.
+
+**Namespace**: A way of encapsulating items. Used in PHP to avoid name conflicts in larger applications or libraries.
+
+**Composer**: A tool for dependency management in PHP, allowing users to manage libraries their project depends on.
+
+**Framework**: A platform for building PHP applications. Popular PHP frameworks include Laravel, Symfony, and CodeIgniter.

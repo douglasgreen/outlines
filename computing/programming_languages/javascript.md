@@ -895,3 +895,45 @@ Accessibility: JavaScript\'s ease of use makes it accessible to a wide range of 
 -   Cross-Platform Development: JavaScript\'s role in cross-platform development is solidifying, with tools like React Native and Electron enabling developers to write code once and deploy it on multiple platforms.
 
 In conclusion, the future of JavaScript is marked by its increasing adaptability, expanding into new areas like IoT and AI, while also strengthening its core capabilities in web development through technologies like WebAssembly. The JavaScript ecosystem is evolving to become more robust, versatile, and developer-friendly, ensuring its continued relevance and dominance in the programming world.
+
+## Glossary of Terms
+
+**JavaScript**: A high-level, interpreted programming language used primarily for web development.
+
+**Variable**: A storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value.
+
+**Function**: A block of code designed to perform a particular task, executed when "called" (invoked).
+
+**Object**: An entity that contains properties and methods. In JavaScript, almost everything is an object.
+
+**Array**: A single variable that is used to store different elements. It is often used to store lists of values.
+
+**String**: A sequence of characters used for storing and manipulating text.
+
+**Event**: An action or occurrence recognized by JavaScript that can be used for controlling program flow, like user interactions.
+
+**Callback**: A function passed into another function as an argument, which is then invoked inside the outer function.
+
+**Promise**: An object representing the eventual completion (or failure) of an asynchronous operation, and its resulting value.
+
+**Async/Await**: Syntactic features of JavaScript for handling asynchronous operations more comfortably.
+
+**DOM (Document Object Model)**: A programming interface for web documents. It represents the page so that programs can change the document structure, style, and content.
+
+**JSON (JavaScript Object Notation)**: A lightweight data-interchange format, easy for humans to read and write, and easy for machines to parse and generate.
+
+**Loop**: A programming construct that repeats a group of commands.
+
+**Scope**: Determines the accessibility (visibility) of variables. In JavaScript, there are global and local scopes.
+
+**Hoisting**: JavaScript's default behavior of moving declarations to the top of the current scope (script or function).
+
+**Closure**: A feature in JavaScript where an inner function has access to the outer (enclosing) function's variables.
+
+**Prototype**: A mechanism by which JavaScript objects inherit features from one another.
+
+**ES6/ECMAScript 2015**: A significant update to JavaScript that included new syntax and features.
+
+**Truthy and Falsy**: Concepts in JavaScript where values are coerced into a boolean context for conditional testing.
+
+**Module**: A file containing a block of JavaScript code that can be executed independently or used by other modules.

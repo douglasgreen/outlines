@@ -688,3 +688,45 @@ Discussing Apache Web Server in the context of key takeaways, further reading an
     -   Professional Support: While community support is robust, professional support services are also available, catering to businesses requiring dedicated assistance.
 
 In summary, Apache Web Server stands out for its flexibility, robustness, and wide community support. It continues to be a top choice for many web developers and organizations, although its suitability can depend on specific use cases and performance requirements. For those interested in using or understanding Apache better, the wealth of resources and strong community support make it an accessible and reliable choice.
+
+## Glossary of Terms
+
+**Apache**: The most widely used web server software, known for its role in the initial growth of the World Wide Web.
+
+**HTTP (Hypertext Transfer Protocol)**: The foundation of data communication for the World Wide Web, defining how messages are formatted and transmitted.
+
+**HTTPS (HTTP Secure)**: An extension of HTTP, used for secure communication over a computer network.
+
+**Virtual Host**: Allows Apache to serve different content based on IP address or hostname.
+
+**.htaccess**: A configuration file for use on web servers running the Apache Web Server software.
+
+**Module**: Software that extends Apache's functionality, like mod_ssl for SSL/TLS support.
+
+**DocumentRoot**: The directory out of which you will serve your documents, defined in the Apache configuration file.
+
+**SSL (Secure Sockets Layer) and TLS (Transport Layer Security)**: Protocols for encrypting information over the web.
+
+**CGI (Common Gateway Interface)**: A standard protocol for web servers to execute programs that generate web pages dynamically.
+
+**ServerRoot**: The top-level directory of the Apache server, containing configuration, error, and log files.
+
+**DirectoryIndex**: Specifies the file that Apache will serve if a directory is requested.
+
+**ErrorLog**: The location where Apache logs error messages.
+
+**AccessLog**: Records all requests made to the server.
+
+**mod_rewrite**: A module used to rewrite URL requests dynamically.
+
+**Listen**: Directive in Apache's configuration file specifying which port to listen on.
+
+**ServerName**: Specifies a hostname and port number for the server.
+
+**LoadModule**: Directive used to load dynamic modules.
+
+**KeepAlive**: A setting for long-lived HTTP connections to enhance performance.
+
+**MIME types (Multipurpose Internet Mail Extensions)**: A standard for specifying the type of files sent over the Internet.
+
+**ServerSignature**: Configures the footer on server-generated documents like error messages and directory listings.

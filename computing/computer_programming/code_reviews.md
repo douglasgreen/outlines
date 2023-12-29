@@ -1051,3 +1051,45 @@ The future of code reviews is being shaped by several emerging trends, technolog
 #### Conclusion
 
 The future of code reviews is likely to be characterized by greater automation with AI assistance, a focus on comprehensive quality evaluation including security, and adaptations to support remote and asynchronous work environments. These advancements aim not only to make code reviews more efficient but also to enhance the quality of the software development process and the experience of developers involved in it.
+
+## Glossary of Terms
+
+**Code Review**: An examination of code by one or more developers to identify bugs, ensure coding standards, and improve code quality.
+
+**Pull Request (PR)**: A request to merge code changes from one branch to another, often used to initiate a code review process.
+
+**Merge Conflict**: Occurs when different changes are made to the same part of a file in different branches, requiring resolution before merging.
+
+**Linting**: The process of running a program that checks code for stylistic or programming errors.
+
+**Refactoring**: The process of restructuring existing computer code without changing its external behavior to improve its readability and reduce complexity.
+
+**Code Smell**: A surface indication that usually corresponds to a deeper problem in the system, indicating weak code design.
+
+**Continuous Integration (CI)**: The practice of automatically integrating code changes from multiple contributors into a single software project.
+
+**Build**: The process of converting source code files into standalone software artifacts that can be run on a computer.
+
+**Regression**: A bug that makes a feature stop functioning as intended after a certain event (like a new code push).
+
+**Unit Test**: A level of software testing where individual units/components of a software are tested.
+
+**Integration Test**: Testing in which software modules are integrated logically and tested as a group.
+
+**Code Coverage**: A measure used to describe the degree to which the source code of a program is tested.
+
+**Documentation**: Written text or illustration that accompanies computer software to explain how it operates or how to use it.
+
+**Peer Review**: The process of having code evaluated by one or more colleagues.
+
+**Technical Debt**: The implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.
+
+**Best Practices**: A set of guidelines, usually within a specific domain, that are believed to lead to a better outcome.
+
+**Repository (Repo)**: A storage location for software packages, often version-controlled and used to manage code.
+
+**Branch**: A unique set of code changes with a unique name within a repository.
+
+**Deployment**: The process of using an application or a new version of an application on a server where it can be accessed by users.
+
+**Code Standards**: Agreed-upon guidelines within a team or organization for writing code, which can include formatting, commenting, naming conventions, and programming practices.

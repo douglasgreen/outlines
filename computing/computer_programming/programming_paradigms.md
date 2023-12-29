@@ -901,3 +901,45 @@ Looking ahead, the future of programming paradigms appears to be characterized b
 4.  **Societal and Ethical Considerations**: As software becomes more ingrained in all aspects of life, programming paradigms will also evolve to address societal and ethical considerations in software development.
 
 In conclusion, the world of programming paradigms is not static but a fluid and evolving domain, adapting to new challenges and technologies. This constant evolution is a response to the endless quest for more efficient, effective, and accessible ways to harness the power of programming in solving the world\'s complex problems. For developers and enthusiasts alike, this ever-changing landscape offers an exciting journey of continuous learning, discovery, and innovation.
+
+## Glossary of Terms
+
+**Algorithm**: A step-by-step procedure or formula for solving a problem, typically used in computer programming.
+
+**Object-Oriented Programming (OOP)**: A programming paradigm based on the concept of "objects", which are data structures containing data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+
+**Functional Programming**: A programming paradigm where programs are constructed by applying and composing functions. It emphasizes the application of functions, in contrast to the imperative programming paradigm, which emphasizes changes in state.
+
+**Procedural Programming**: A programming paradigm, derived from structured programming, based upon the concept of the procedure call. Procedures, also known as routines, subroutines, or functions, simply contain a series of computational steps to be carried out.
+
+**Variable**: In programming, a variable is a storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value.
+
+**Class**: In object-oriented programming, a class is a blueprint for creating objects (a particular data structure), providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods).
+
+**Inheritance**: In object-oriented programming, inheritance is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.
+
+**Encapsulation**: The bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components in OOP.
+
+**Polymorphism**: In OOP, polymorphism refers to the ability of different classes to be treated as instances of the same class through inheritance. It allows for methods to be written that can operate on objects of different classes.
+
+**Abstraction**: The concept of abstraction in programming is used to hide the complex reality while only showing the necessary parts. It is a way of creating simple, more efficient representations of complex systems.
+
+**Recursion**: The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called a recursive function.
+
+**Loop**: A programming structure that repeats a sequence of instructions until a specific condition is met.
+
+**Array**: A data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key.
+
+**Exception Handling**: The process of responding to the occurrence of exceptions – anomalous or exceptional conditions requiring special processing – during the execution of a program.
+
+**Concurrency**: The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome.
+
+**Asynchronous Programming**: A form of parallel programming that allows a unit of work to run separately from the primary application thread and notifies the calling thread of its completion, failure, or progress.
+
+**Module**: A separate unit of software or hardware. In programming, a module is a part of a program. Programs are composed of one or more independently developed modules.
+
+**Interface**: In object-oriented programming, an interface is a shared boundary across which two or more separate components of a computer system exchange information.
+
+**Source Code**: The fundamental component of a computer program that is created by a programmer. It can be read and easily understood by a human being.
+
+**Compiler**: A software that converts the high-level language into a machine language, specifically designed to translate the source code written in a high-level language into a low-level language (assembly language or machine code).

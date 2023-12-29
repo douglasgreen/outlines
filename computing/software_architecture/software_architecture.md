@@ -698,3 +698,45 @@ Continuing Education in Software Architecture is crucial for professionals in th
 -   Mentorship Programs: Either being a mentor or finding one, mentorship can provide personalized guidance and support.
 
 In summary, continuous learning in software architecture involves a combination of theoretical understanding, practical application, and active participation in the professional community. Staying informed, seeking new knowledge, and contributing to the field are key elements for growth and success as a software architect.
+
+## Glossary of Terms
+
+**Architecture**: The fundamental organization of a system embodied in its components, their relationships to each other, and the environment, and the principles guiding its design and evolution.
+
+**Design Pattern**: A general, reusable solution to a commonly occurring problem within a given context in software design.
+
+**Microservices**: A style of software architecture that structures an application as a collection of loosely coupled services.
+
+**Framework**: A platform for developing software applications that provides a foundation structure and set of guidelines.
+
+**API (Application Programming Interface)**: A set of rules and protocols for building and interacting with software applications.
+
+**DevOps**: A set of practices that combines software development (Dev) and IT operations (Ops) aiming to shorten the systems development life cycle and provide continuous delivery with high software quality.
+
+**Scalability**: The capability of a system, network, or process to handle a growing amount of work, or its potential to be enlarged to accommodate that growth.
+
+**Containerization**: The use of containers to deploy applications in a way that abstracts the application from the environment in which it actually runs.
+
+**Continuous Integration / Continuous Deployment (CI/CD)**: A method to frequently deliver apps to customers by introducing automation into the stages of app development.
+
+**Serverless Architecture**: A software design pattern where applications are hosted by a third-party service, eliminating the need for server software and hardware management by the developer.
+
+**Monolithic Architecture**: A traditional unified model for the design of a software program that is self-contained and independent from other applications.
+
+**Agile Methodology**: An approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer/end user.
+
+**SOA (Service-Oriented Architecture)**: A style of software design where services are provided to the other components by application components, through a communication protocol over a network.
+
+**Load Balancing**: The process of distributing network or application traffic across multiple servers to ensure no single server bears too much demand.
+
+**Middleware**: Software that provides common services and capabilities to applications outside of what's offered by the operating system.
+
+**Repository**: A central location in which data is stored and managed.
+
+**Version Control**: A system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+**Dependency Injection**: A technique whereby one object supplies the dependencies of another object.
+
+**Modularity**: The degree to which a system's components may be separated and recombined.
+
+**High Availability**: The ability of a system to operate continuously without failing for a designated period of time.

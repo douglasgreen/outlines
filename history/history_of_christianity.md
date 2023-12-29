@@ -737,3 +737,45 @@ Christianity in the 21st century is marked by both significant diversity and com
 4. **Youth Engagement and Innovation**: There is a growing recognition of the importance of engaging younger generations, leading to innovative approaches in worship, community building, and social media engagement.
 
 In summary, Christianity in the 21st century is characterized by its vast diversity and the range of challenges and opportunities it faces. As it navigates a rapidly changing world, Christianity continues to adapt, influencing and being influenced by the broader cultural, social, and political contexts in which it exists.
+
+## Glossary of Terms
+
+**Apostle**: Originally referring to the twelve disciples chosen by Jesus Christ to spread his teachings.
+
+**Baptism**: A Christian sacrament of admission and adoption, almost invariably with the use of water.
+
+**Catholicism**: The largest branch of Christianity, led by the Pope, with a rich history and tradition.
+
+**Council of Nicaea**: The first ecumenical council held in 325 AD, which addressed the divinity of Jesus Christ.
+
+**Crusades**: A series of religious wars sanctioned by the Latin Church in the medieval period, primarily against Muslims in the Holy Land.
+
+**Eucharist**: Also known as Holy Communion, a Christian rite considered a sacrament in most churches and an ordinance in others.
+
+**Evangelicalism**: A worldwide, trans-denominational movement within Protestant Christianity maintaining the belief in the essence of the Gospel.
+
+**Great Schism**: The division of Chalcedonian Christianity into the Eastern (Orthodox) and Western (Roman) branches.
+
+**Hersey**: Belief or opinion contrary to orthodox religious doctrine.
+
+**Lutheranism**: A major branch of Protestant Christianity which identifies with the theology of Martin Luther.
+
+**Martyr**: Someone who suffers persecution and death for advocating, renouncing, refusing to renounce, or refusing to advocate a religious belief or cause.
+
+**Orthodoxy**: Adherence to correct or accepted creeds, especially in religion.
+
+**Papacy**: The office and jurisdiction of the Bishop of Rome, the Pope.
+
+**Protestant Reformation**: A major movement in the 16th century led by figures like Martin Luther, which led to the creation of Protestant churches.
+
+**Reformation**: A movement in 16th century Europe that led to the separation of the Protestant churches from the Roman Catholic Church.
+
+**Resurrection**: The belief that Jesus rose from the dead on the third day after his crucifixion.
+
+**Sacrament**: A religious ceremony or act of the Christian Church that is regarded as an outward and visible sign of inward and spiritual divine grace.
+
+**Saint**: A person acknowledged as holy or virtuous and typically regarded as being in heaven after death.
+
+**Trinity**: The Christian doctrine of the unity of the Father, Son, and Holy Spirit as three persons in one Godhead.
+
+**Vatican**: The jurisdiction of the Pope and the location of the central administration of the Roman Catholic Church.

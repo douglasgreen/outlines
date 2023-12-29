@@ -1085,3 +1085,45 @@ HTML (Hypertext Markup Language) has been the foundation of the web since its in
 3. **Experimentation and Personal Projects:** Hands-on practice through personal or open-source projects is one of the best ways to understand and adapt to the evolving landscape of HTML.
 
 In conclusion, the future of HTML is intertwined with the advancements in web technologies and trends. Its role in web development may evolve, but its importance as the backbone of web content structure is likely to remain crucial. For web developers, staying informed and adaptable to these changes is key to staying relevant in the field.
+
+## Glossary of Terms
+
+**HTML (Hypertext Markup Language)**: The standard markup language used for creating web pages.
+
+**Tag**: The basic building block of HTML. Tags are used to define the structure and content of a web document.
+
+**Element**: Consists of a start tag, content, and an end tag. For example, `<p>Hello World</p>` is a paragraph element.
+
+**Attribute**: Provides additional information about an element. Attributes are placed within the start tag, like `<img src="image.jpg">`.
+
+**DOCTYPE**: Declares the document type and HTML version being used, like `<!DOCTYPE html>` for HTML5.
+
+**Head**: The section of an HTML document that contains meta-information about the document, like `<head>`.
+
+**Body**: The section of an HTML document that contains the visible content, like `<body>`.
+
+**Title**: Specifies the title of the web page, shown in the browser's title bar or tab, like `<title>`.
+
+**Meta**: Provides metadata about the HTML document, such as character set, page description, and keywords, like `<meta>`.
+
+**Link**: Used to link external resources like CSS files to the HTML document, like `<link>`.
+
+**Script**: Used to include JavaScript or other scripting languages in the document, like `<script>`.
+
+**Div**: A block-level element used for grouping and styling content using CSS, like `<div>`.
+
+**Span**: An inline element used for styling a part of the text, or for grouping elements for styling using CSS, like `<span>`.
+
+**H1 to H6 (Heading Tags)**: Define headings in the document, `<h1>` being the most important, and `<h6>` the least.
+
+**P (Paragraph)**: Defines a paragraph of text, like `<p>`.
+
+**A (Anchor)**: Used to define hyperlinks, which are used to link from one page to another, like `<a href="url">`.
+
+**Img**: Used to embed images in an HTML page, like `<img src="image.jpg">`.
+
+**Ul (Unordered List), Ol (Ordered List), Li (List Item)**: Used for creating lists, with `<ul>` and `<ol>` defining the type of list and `<li>` defining each item in the list.
+
+**Input**: Used to create interactive controls for web-based forms, like text fields, checkboxes, and buttons, like `<input>`.
+
+**Form**: Used for creating forms to collect user input, like `<form>`.

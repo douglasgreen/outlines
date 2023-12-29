@@ -966,3 +966,45 @@ Software project management encompasses a variety of tools and technologies desi
    - **Cons:** Can be less intuitive for new users, cost.
 
 In summary, the choice of tools and technologies in software project management depends on the specific needs of the project, such as the size of the team, type of project, budget, and required features. While some tools are better suited for small, less complex projects, others are designed for larger, more intricate projects requiring detailed planning and reporting.
+
+## Glossary of Terms
+
+**Agile Methodology**: A flexible approach to project management, emphasizing iterative development, collaboration, and adaptability throughout the project lifecycle.
+
+**Backlog**: A prioritized list of tasks, features, and requirements that need to be worked on in a project.
+
+**Burndown Chart**: A graphical representation that shows the amount of work remaining in a project over time, often used in Scrum methodology.
+
+**Continuous Integration (CI)**: The practice of merging all developers' working copies to a shared mainline several times a day to prevent integration problems.
+
+**DevOps**: A set of practices that combines software development (Dev) and IT operations (Ops) aiming to shorten the development lifecycle and provide continuous delivery with high software quality.
+
+**Epic**: A large body of work that can be broken down into smaller tasks (stories) in Agile methodology.
+
+**Gantt Chart**: A type of bar chart that illustrates a project schedule, showing the start and finish dates of elements and dependencies between them.
+
+**Iteration**: A time-boxed period during which a team works to complete a set amount of work, commonly used in Agile methodologies.
+
+**Kanban**: A visual workflow management method that uses cards and boards to visualize work and optimize the flow of tasks.
+
+**Milestone**: A significant point or event in a project timeline, often used to denote important achievements or phases.
+
+**Product Owner**: A role in Scrum responsible for defining the features of the product and deciding on the release date and content.
+
+**Quality Assurance (QA)**: The process of ensuring that a product meets specified requirements and is free of defects.
+
+**Retrospective**: A meeting held at the end of a project phase or iteration to discuss what was successful and what could be improved.
+
+**Scrum**: An Agile framework for managing complex projects, usually software development, characterized by iterative and incremental processes.
+
+**Sprint**: A time-boxed period, usually two to four weeks, during which a specific set of work must be completed and made ready for review in Scrum methodology.
+
+**Stakeholder**: Any individual, group, or organization that can affect, be affected by, or perceive themselves to be affected by a project.
+
+**User Story**: A short, simple description of a software feature from the perspective of the end user.
+
+**Velocity**: A measure of the amount of work a team can tackle during a single sprint and is useful for planning future iterations.
+
+**Waterfall Model**: A traditional project management methodology where the project is divided into sequential phases, with each phase depending on the deliverables of the previous one.
+
+**Work Breakdown Structure (WBS)**: A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables.
