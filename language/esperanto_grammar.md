@@ -675,3 +675,45 @@ Achieving mastery in Esperanto and engaging with the language beyond the basics 
 #### Conclusion
 
 Mastery of Esperanto opens up a world of opportunities for deeper cultural exchange, professional development, and academic exploration. Engaging regularly with the language and the global Esperanto community can enrich your experience and proficiency. Using Esperanto in professional and academic settings not only showcases your language skills but also contributes to the growth and visibility of this unique linguistic phenomenon.
+
+## Glossary of Terms
+
+**Radiko** (Root): The basic part of a word to which affixes are added.
+
+**Afikso** (Affix): A morpheme added to a root word to change its meaning or grammatical function. In Esperanto, these include prefixes and suffixes.
+
+**Prefikso** (Prefix): A type of affix placed before a root word to modify its meaning.
+
+**Sufikso** (Suffix): A type of affix added to the end of a root word, often to change its part of speech.
+
+**Artikolo** (Article): The word "la" in Esperanto, used similarly to "the" in English.
+
+**Substantivo** (Noun): A word that represents a person, place, thing, or idea. In Esperanto, nouns typically end in -o.
+
+**Adjektivo** (Adjective): A word that describes a noun, usually ending in -a in Esperanto.
+
+**Verbo** (Verb): A word that expresses an action or state. In Esperanto, verb endings indicate tense and mood.
+
+**Adverbo** (Adverb): A word that modifies a verb, adjective, or other adverb, typically ending in -e in Esperanto.
+
+**Akuzativo** (Accusative Case): A grammatical case used to mark the direct object of a verb, usually indicated by the ending -n.
+
+**Pluralo** (Plural): The form of a word that indicates more than one. In Esperanto, plural nouns and adjectives are typically formed by adding -j.
+
+**Korelativo** (Correlative): A set of pronouns, adverbs, and other words that are systematically related, such as "kiu" (who), "kio" (what), "kie" (where).
+
+**Kongruo** (Agreement): The grammatical matching of different parts of a sentence in number, case, gender, etc. In Esperanto, adjectives agree with nouns in number and case.
+
+**Kondiĉa Modo** (Conditional Mood): A verb form used to express hypothetical or non-real situations, usually marked by the ending -us.
+
+**Imperativo** (Imperative): The verb form used for commands or requests, typically ending in -u in Esperanto.
+
+**Participo** (Participle): A form of a verb used as an adjective. In Esperanto, there are active and passive participles for past, present, and future.
+
+**Prepozicio** (Preposition): A word used before a noun or pronoun to express relations, such as place, time, or manner.
+
+**Demando** (Question): The formation of a question, often using question words (korelativoj) like "kio" (what) and "kiam" (when).
+
+**Negacio** (Negation): The grammatical construction used to make a sentence negative in Esperanto, typically using "ne."
+
+**Numeralo** (Numeral): A word, phrase, or symbol that represents a number or a quantity.

@@ -1116,3 +1116,45 @@ To continue learning and improving your understanding of English grammar, consid
    - Writing practice: Engaging in regular writing, such as keeping a journal, blogging, or writing essays, and seeking feedback.
 
 Remember, mastering English grammar is a gradual process that benefits immensely from consistent practice and usage. With the right resources and dedication, anyone can improve their grammar and overall proficiency in the English language.
+
+## Glossary of Terms
+
+**Noun**: A word used to identify any of a class of people, places, or things.
+
+**Pronoun**: A word that takes the place of a noun (e.g., he, she, it).
+
+**Verb**: A word used to describe an action, state, or occurrence.
+
+**Adjective**: A word used to describe a noun or pronoun (e.g., big, blue).
+
+**Adverb**: A word that modifies a verb, adjective, or other adverbs (e.g., quickly, very).
+
+**Preposition**: A word preceding a noun or pronoun and expressing a relation to another word or element (e.g., in, on, at).
+
+**Conjunction**: A word used to connect clauses or sentences (e.g., and, but, if).
+
+**Interjection**: An exclamation, especially as a part of speech (e.g., oh!, wow!).
+
+**Sentence**: A set of words that is complete in itself, typically containing a subject and predicate.
+
+**Clause**: A group of words containing a subject and a predicate; can be independent or dependent.
+
+**Phrase**: A small group of words standing together as a conceptual unit.
+
+**Subject**: The person or thing that performs the action in a sentence.
+
+**Predicate**: The part of a sentence or clause containing a verb and stating something about the subject.
+
+**Object**: A noun or pronoun governed by a verb or a preposition.
+
+**Tense**: A form of a verb that indicates the time of action or state of being.
+
+**Grammar**: The whole system and structure of a language, including syntax and morphology.
+
+**Syntax**: The arrangement of words and phrases to create well-formed sentences.
+
+**Morphology**: The study of the form of words, including inflection, derivation, and composition.
+
+**Inflection**: The modification of a word to express different grammatical categories.
+
+**Participle**: A word formed from a verb and used as an adjective or a noun; in English, present participles end in -ing and past participles often end in -ed, -d, -t, -en, or -n.

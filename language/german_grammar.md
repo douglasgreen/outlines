@@ -1005,3 +1005,45 @@ Learning idioms can be both fun and challenging, but they are crucial for anyone
     -   Understanding the cultural background of the language can greatly enhance your comprehension and usage. Follow German news, podcasts, or YouTube channels to stay connected.
 
 Advanced proficiency in German involves understanding and using complex grammatical structures, appreciating regional variations, and continuously engaging with the language in various forms. Immersion, regular practice, and a deep understanding of cultural contexts are key to mastering advanced German grammar and style.
+
+## Glossary of Terms
+
+**Nomen (Noun)**: Words representing people, places, things, or ideas.
+
+**Artikel (Article)**: Used with nouns, articles in German are 'der' (masculine), 'die' (feminine), and 'das' (neuter).
+
+**Adjektiv (Adjective)**: Words that describe nouns, providing more information about them.
+
+**Verb (Verb)**: Action words that describe what the subject is doing.
+
+**Konjugation (Conjugation)**: The variation of the form of a verb in an inflected language by which the voice, mood, tense, number, and person are identified.
+
+**Präposition (Preposition)**: Words that link nouns, pronouns, or phrases to other words within a sentence to express spatial or temporal relations.
+
+**Pronomen (Pronoun)**: Words that substitute for nouns or noun phrases, e.g., er (he), sie (she), es (it).
+
+**Adverb (Adverb)**: Words that modify a verb, an adjective, another adverb, or an entire sentence.
+
+**Akkusativ (Accusative Case)**: One of the German grammatical cases used for the direct object of a verb.
+
+**Dativ (Dative Case)**: Used to indicate the indirect object of a verb.
+
+**Genitiv (Genitive Case)**: Expresses possession, similar to the English possessive 's.
+
+**Nominativ (Nominative Case)**: The case used for the subject of a sentence.
+
+**Satzbau (Sentence Structure)**: The way words are arranged in a sentence; in German, the verb typically comes in the second position.
+
+**Perfekt (Perfect Tense)**: A past tense used to express events that have been completed.
+
+**Präteritum (Preterite)**: Another past tense, often used in writing, to describe actions that were completed in the past.
+
+**Futur (Future Tense)**: Used to talk about future events.
+
+**Konjunktiv (Subjunctive Mood)**: Used to express hypothetical situations, wishes, or indirect speech.
+
+**Deklination (Declension)**: The variation of words (especially articles, adjectives, and nouns) to reflect case, gender, and number.
+
+**Imperativ (Imperative Mood)**: Used for commands or requests.
+
+**Relativsatz (Relative Clause)**: A clause that modifies a noun or pronoun, often introduced by a relative pronoun like 'der', 'die', 'das' (who, which).

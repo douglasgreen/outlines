@@ -877,3 +877,45 @@ Advanced fluency also involves understanding subtle grammatical nuances that can
 #### Summary
 
 Achieving advanced fluency in French goes beyond grammatical accuracy; it involves a deep understanding of idiomatic expressions and the nuances of grammar. This includes the sophisticated use of moods, tenses, voice, prepositions, and negation, as well as an awareness of cultural idioms and expressions. Such knowledge allows for more nuanced, expressive, and culturally aware communication in French.
+
+## Glossary of Terms
+
+**Article**: A word that defines a noun as specific or unspecific. In French, there are definite (le, la, les) and indefinite articles (un, une, des).
+
+**Nom (Noun)**: A word that names a person, place, thing, or idea. In French, nouns have genders (masculine or feminine) and numbers (singular or plural).
+
+**Pronom (Pronoun)**: A word that replaces a noun, such as je (I), tu (you), il/elle (he/she).
+
+**Adjectif (Adjective)**: Describes a noun or pronoun. In French, adjectives agree in gender and number with the nouns they modify.
+
+**Verbe (Verb)**: Expresses action or being. French verbs are conjugated to reflect tense and subject.
+
+**Temps (Tense)**: Indicates the time of the action or state of being. Common tenses include présent (present), passé composé (past), and futur (future).
+
+**Mode (Mood)**: Reflects the attitude of the speaker. Important moods are indicatif (indicative), subjonctif (subjunctive), and impératif (imperative).
+
+**Adverbe (Adverb)**: Modifies a verb, adjective, or other adverb, often ending in -ment.
+
+**Préposition (Preposition)**: Links nouns, pronouns, or phrases to other words, such as à (to), de (from), en (in).
+
+**Conjonction (Conjunction)**: Connects words, phrases, or clauses. Common ones are et (and), mais (but), ou (or).
+
+**Phrase (Sentence)**: A group of words that expresses a complete thought.
+
+**Sujet (Subject)**: The person or thing performing the action in a sentence.
+
+**Objet (Object)**: The person or thing receiving the action in a sentence.
+
+**Complément (Complement)**: Provides additional information about a subject or object.
+
+**Genre (Gender)**: In French, nouns and adjectives can be masculine or feminine.
+
+**Nombre (Number)**: Refers to singular or plural forms of words.
+
+**Participe (Participle)**: A form of a verb used as an adjective or to form compound tenses. There are present (participe présent) and past (participe passé) participles.
+
+**Infinitif (Infinitive)**: The basic form of a verb, equivalent to "to + verb" in English.
+
+**Syntaxe (Syntax)**: The arrangement of words and phrases to create well-formed sentences.
+
+**Négation (Negation)**: Used to make a statement negative, often using ne...pas.

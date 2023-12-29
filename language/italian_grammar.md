@@ -973,3 +973,45 @@ Italian has several types of conditional sentences (periodo ipotetico), which in
     -   \"Se avesse piovuto, avrei preso l\'ombrello.\" (If it had rained, I would have taken an umbrella.)
 
 Mastering these advanced aspects of Italian grammar, including idiomatic expressions, the passive voice, direct and indirect speech, and conditional sentences, is key for achieving fluency and expressing complex ideas with accuracy and nuance.
+
+## Glossary of Terms
+
+**Articolo (Article)**: Defines the gender and number of nouns. In Italian, there are definite articles (il, la, i, le) and indefinite articles (un, una, un').
+
+**Nome (Noun)**: A word used to identify people, places, or things. Nouns in Italian have genders (masculine or feminine) and numbers (singular or plural).
+
+**Aggettivo (Adjective)**: Describes a noun or pronoun. In Italian, adjectives agree in gender and number with the nouns they describe.
+
+**Pronome (Pronoun)**: Replaces a noun to avoid repetition. Examples include personal pronouns (io, tu, lui, lei), possessive pronouns (mio, tuo, suo), and relative pronouns (che, cui).
+
+**Verbo (Verb)**: Describes an action, state, or occurrence. Italian verbs are conjugated based on tense, mood, and the subject's person and number.
+
+**Avverbio (Adverb)**: Modifies a verb, adjective, or other adverbs. Examples include rapidamente (quickly), molto (very), and bene (well).
+
+**Preposizione (Preposition)**: Links nouns, pronouns, or phrases to other words in a sentence. Common Italian prepositions include di, a, da, in, con, su, per, tra/fra.
+
+**Congiunzione (Conjunction)**: Connects words, phrases, or clauses. Examples are e (and), ma (but), perché (because), se (if).
+
+**Esclamazione (Interjection)**: Expresses emotions or reactions, often standing alone. Examples are oh!, ah!, evviva!
+
+**Sostantivo (Substantive)**: Another term for nouns in Italian.
+
+**Tempo (Tense)**: Indicates the time of the action described by the verb (present, past, future).
+
+**Modo (Mood)**: Reflects the attitude of the speaker. Common moods include indicative, subjunctive, conditional, and imperative.
+
+**Genere (Gender)**: Nouns and adjectives in Italian are either masculine or feminine.
+
+**Numero (Number)**: Refers to singular or plural forms of nouns, adjectives, and verbs.
+
+**Particella (Particle)**: Small words that can modify the meaning of a sentence, often used in verbal phrases.
+
+**Frase (Sentence)**: A grammatical unit consisting of one or more words that bear minimal syntactic relation.
+
+**Soggetto (Subject)**: The person, thing, or concept performing the action of the verb.
+
+**Oggetto (Object)**: The entity that is acted upon by the verb.
+
+**Infinito (Infinitive)**: The basic form of a verb, not conjugated for tense or person (like amare - to love).
+
+**Gerundio (Gerund)**: A verb form that ends in -ando or -endo, used to indicate a continuing action (like mangiando - eating).
