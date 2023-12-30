@@ -3,6 +3,9 @@ Outlines written by ChatGPT on various subjects.
 
 ## Arts
 
+### Architecture
+  * [Architecture](arts/architecture/architecture.md)
+
 ### Film
   * [Anime](arts/film/anime.md)
 
