@@ -36,7 +36,7 @@ Sir Isaac Newton, a 17th-century scientist, formulated three laws that are cruci
 
 1. **Newton's First Law (Law of Inertia)**: An object will remain at rest or in uniform motion in a straight line unless acted upon by an external force. This law introduces the concept of inertia, implying that to change the state of motion of an object, a force must be applied.
 
-2. **Newton's Second Law of Motion**: The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. Mathematically, it's expressed as \( F = ma \), where \( F \) is the net force, \( m \) is the mass, and \( a \) is the acceleration. This law explains how the velocity of an object changes when it's subjected to an external force.
+2. **Newton's Second Law of Motion**: The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. Mathematically, it's expressed as $`F = ma`$, where $`F`$ is the net force, $`m`$ is the mass, and $`a`$ is the acceleration. This law explains how the velocity of an object changes when it's subjected to an external force.
 
 3. **Newton's Third Law of Motion**: For every action, there is an equal and opposite reaction. This means that in every interaction, there is a pair of forces acting on the two interacting objects, equal in magnitude and opposite in direction.
 
@@ -46,9 +46,9 @@ These concepts are interrelated and fundamental in mechanics.
 
 - **Energy**: It's the capacity to do work. There are various forms of energy, such as kinetic energy (energy of motion) and potential energy (stored energy). Energy can be transformed from one form to another but cannot be created or destroyed, as per the law of conservation of energy.
 
-- **Work**: Work is done when a force is applied to an object, and the object moves in the direction of the force. The amount of work done is the product of the force and the distance moved by the object in the direction of the force. Mathematically, \( W = F \cdot d \), where \( W \) is work, \( F \) is the force, and \( d \) is the distance.
+- **Work**: Work is done when a force is applied to an object, and the object moves in the direction of the force. The amount of work done is the product of the force and the distance moved by the object in the direction of the force. Mathematically, $`W = F \cdot d`$, where $`W`$ is work, $`F`$ is the force, and $`d`$ is the distance.
 
-- **Power**: Power is the rate at which work is done or energy is transferred. It is measured in watts in the SI system. Mathematically, power is defined as \( P = \frac{W}{t} \), where \( P \) is power, \( W \) is work, and \( t \) is the time taken to do the work.
+- **Power**: Power is the rate at which work is done or energy is transferred. It is measured in watts in the SI system. Mathematically, power is defined as $`P = \frac{W}{t}`$, where $`P`$ is power, $`W`$ is work, and $`t`$ is the time taken to do the work.
 
 ### Conservation Laws
 
@@ -68,11 +68,11 @@ Gravitation, or gravity, is a fundamental force of nature that is responsible fo
 
 ### Universal Law of Gravitation
 
-Sir Isaac Newton formulated the Universal Law of Gravitation in the 17th century. This law states that every point mass attracts every other point mass in the universe with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. Mathematically, the force \( F \) between two masses \( m_1 \) and \( m_2 \) separated by a distance \( r \) is given by:
+Sir Isaac Newton formulated the Universal Law of Gravitation in the 17th century. This law states that every point mass attracts every other point mass in the universe with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. Mathematically, the force $`F`$ between two masses $`m_1`$ and $`m_2`$ separated by a distance $`r`$ is given by:
 
 \[ F = G \frac{m_1 m_2}{r^2} \]
 
-where \( G \) is the gravitational constant. This law not only explains why objects fall towards the Earth but also provides the basis for understanding the motion of planets and satellites.
+where $`G`$ is the gravitational constant. This law not only explains why objects fall towards the Earth but also provides the basis for understanding the motion of planets and satellites.
 
 ### Orbits and Gravitational Fields
 
@@ -214,7 +214,7 @@ Electricity is a fundamental aspect of physics, concerning the presence and flow
 
 - **Electrical Energy**: This is the energy stored in or released from a system due to the positions and interactions of charged particles. In a circuit, electrical energy can be converted into other forms of energy, such as light, heat, or mechanical energy. The amount of electrical energy used by a device is typically measured in kilowatt-hours (kWh).
 
-- **Electrical Power**: Power in an electrical circuit is the rate at which electrical energy is converted to another form of energy. It's measured in watts (W). According to the formula \( P = IV \) (where \( P \) is power, \( I \) is current, and \( V \) is voltage), power can be increased either by increasing the current or the voltage.
+- **Electrical Power**: Power in an electrical circuit is the rate at which electrical energy is converted to another form of energy. It's measured in watts (W). According to the formula $`P = IV`$ (where $`P`$ is power, $`I`$ is current, and $`V`$ is voltage), power can be increased either by increasing the current or the voltage.
 
 Electricity is integral to the modern world, powering homes, industries, and a vast array of devices and technologies. Its principles underlie the functioning of everything from simple household appliances to complex electronic systems and the generation and distribution of power itself. Understanding electricity involves grasping these fundamental concepts and how they interrelate.
 
@@ -432,7 +432,7 @@ Special relativity is based on two main postulates:
 
 1. **The Principle of Relativity**: The laws of physics are the same in all inertial frames of reference. An inertial frame is one in which an object either is at rest or moves at a constant velocity. This means that the laws of physics observed in a moving train are the same as those observed on the ground.
 
-2. **The Constancy of the Speed of Light**: The speed of light in a vacuum is the same for all observers, regardless of the motion of the light source or observer. This speed is always approximately \( 299,792,458 \) meters per second.
+2. **The Constancy of the Speed of Light**: The speed of light in a vacuum is the same for all observers, regardless of the motion of the light source or observer. This speed is always approximately $`299,792,458`$ meters per second.
 
 These postulates have profound implications for our understanding of time and space.
 
@@ -446,9 +446,9 @@ Both time dilation and length contraction are consequences of the fact that the 
 
 ### Mass-Energy Equivalence
 
-Perhaps the most famous equation in physics, \( E=mc^2 \), arises from special relativity. It expresses the concept of mass-energy equivalence:
+Perhaps the most famous equation in physics, $`E=mc^2`$, arises from special relativity. It expresses the concept of mass-energy equivalence:
 
-- **\( E=mc^2 \)**: This equation states that energy (E) and mass (m) are interchangeable; they are different forms of the same thing. In this equation, \( c \) is the speed of light in a vacuum. The implication is that a small amount of mass can be converted into a very large amount of energy, as observed in nuclear reactions in the sun and nuclear power plants.
+- **$`E=mc^2`$**: This equation states that energy (E) and mass (m) are interchangeable; they are different forms of the same thing. In this equation, $`c`$ is the speed of light in a vacuum. The implication is that a small amount of mass can be converted into a very large amount of energy, as observed in nuclear reactions in the sun and nuclear power plants.
 
 Special relativity fundamentally altered our understanding of space and time, uniting them into a single interwoven continuum known as spacetime. It has applications in various fields, from particle physics and cosmology to enabling the precise time measurements required for GPS technology.
 
@@ -504,7 +504,7 @@ Statistical mechanics explains phase transitions in terms of changes in the orga
 
 - **Entropy in Thermodynamics**: In thermodynamics, entropy is a measure of the disorder or randomness of a system. The second law of thermodynamics states that the entropy of an isolated system never decreases; it either increases or remains constant, implying that natural processes tend to increase the total entropy of the universe.
 
-- **Entropy in Statistical Mechanics**: Statistical mechanics provides a microscopic interpretation of entropy as a measure of the number of microstates corresponding to a macrostate. The famous Boltzmann's entropy formula \( S = k_B \ln(W) \) relates entropy (S) to the number of microstates (W), where \( k_B \) is the Boltzmann constant.
+- **Entropy in Statistical Mechanics**: Statistical mechanics provides a microscopic interpretation of entropy as a measure of the number of microstates corresponding to a macrostate. The famous Boltzmann's entropy formula $`S = k_B \ln(W)`$ relates entropy (S) to the number of microstates (W), where $`k_B`$ is the Boltzmann constant.
 
 - **Information Theory**: There's a deep connection between entropy in statistical mechanics and information theory. In information theory, entropy measures the uncertainty or information content in a message. This concept is analogous to thermodynamic entropy, representing the degree of randomness or disorder in a system.
 
