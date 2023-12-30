@@ -167,7 +167,7 @@ Circles are fundamental elements in geometry, characterized by their perfect sym
 
 - **Diameter:** The diameter of a circle is a line segment that passes through the center of the circle and whose endpoints lie on the circle. It is the longest distance across the circle. The diameter is twice the length of the radius, making it another fundamental measure in circle geometry.
 
-- **Circumference:** The circumference is the perimeter or boundary line of a circle. It is the total distance around the circle. The circumference is directly proportional to the diameter and can be calculated using the formula \(C = \pi \times d\) or \(C = 2 \pi \times r\), where \(C\) is the circumference, \(d\) is the diameter, \(r\) is the radius, and \(\pi\) (pi) is a constant approximately equal to 3.14159.
+- **Circumference:** The circumference is the perimeter or boundary line of a circle. It is the total distance around the circle. The circumference is directly proportional to the diameter and can be calculated using the formula $`C = \pi \times d`$ or $`C = 2 \pi \times r`$, where $`C`$ is the circumference, $`d`$ is the diameter, $`r`$ is the radius, and $`\pi`$ (pi) is a constant approximately equal to 3.14159.
 
 ### Arcs, Sectors, and Segments
 - **Arc:** An arc is a portion of the circumference of a circle. Arcs are classified as minor arcs (smaller than a semicircle) or major arcs (larger than a semicircle). The length of an arc is a fraction of the circumference, depending on the angle it subtends at the center of the circle.
@@ -194,26 +194,26 @@ Circles and their properties have vast applications in various fields, from engi
 Area and perimeter are fundamental concepts in geometry, with wide-ranging applications in numerous fields. Understanding how to calculate these for various shapes is essential for practical problem-solving.
 
 ### Area Formulas for Basic Shapes
-1. **Rectangle (and Square):** The area of a rectangle is calculated by multiplying its length by its width (\(A = length \times width\)). For a square, since all sides are equal, it's simply the side length squared (\(A = side^2\)).
+1. **Rectangle (and Square):** The area of a rectangle is calculated by multiplying its length by its width ($`A = length \times width`$). For a square, since all sides are equal, it's simply the side length squared ($`A = side^2`$).
 
-2. **Triangle:** The area of a triangle is half the product of its base and height (\(A = \frac{1}{2} \times base \times height\)).
+2. **Triangle:** The area of a triangle is half the product of its base and height ($`A = \frac{1}{2} \times base \times height`$).
 
-3. **Circle:** The area of a circle is given by the formula \(A = \pi \times radius^2\), where \(\pi\) is approximately 3.14159.
+3. **Circle:** The area of a circle is given by the formula $`A = \pi \times radius^2`$, where $`\pi`$ is approximately 3.14159.
 
-4. **Trapezoid:** The area of a trapezoid is the average of its two parallel sides (bases) multiplied by the height (\(A = \frac{1}{2} \times (base_1 + base_2) \times height\)).
+4. **Trapezoid:** The area of a trapezoid is the average of its two parallel sides (bases) multiplied by the height ($`A = \frac{1}{2} \times (base_1 + base_2) \times height`$).
 
-5. **Parallelogram:** The area of a parallelogram is the product of its base and the height perpendicular to that base (\(A = base \times height\)).
+5. **Parallelogram:** The area of a parallelogram is the product of its base and the height perpendicular to that base ($`A = base \times height`$).
 
 ### Perimeter Formulas
-1. **Rectangle (and Square):** The perimeter of a rectangle is the sum of all its sides (\(P = 2 \times (length + width)\)). For a square, it's four times the length of a side (\(P = 4 \times side\)).
+1. **Rectangle (and Square):** The perimeter of a rectangle is the sum of all its sides ($`P = 2 \times (length + width)`$). For a square, it's four times the length of a side ($`P = 4 \times side`$).
 
-2. **Triangle:** The perimeter of a triangle is the sum of the lengths of its three sides (\(P = side_1 + side_2 + side_3\)).
+2. **Triangle:** The perimeter of a triangle is the sum of the lengths of its three sides ($`P = side_1 + side_2 + side_3`$).
 
-3. **Circle:** The perimeter of a circle, known as the circumference, is \(C = 2 \pi \times radius\) or \(C = \pi \times diameter\).
+3. **Circle:** The perimeter of a circle, known as the circumference, is $`C = 2 \pi \times radius`$ or $`C = \pi \times diameter`$.
 
-4. **Trapezoid:** The perimeter is the sum of all four sides (\(P = side_1 + side_2 + side_3 + side_4\)).
+4. **Trapezoid:** The perimeter is the sum of all four sides ($`P = side_1 + side_2 + side_3 + side_4`$).
 
-5. **Parallelogram:** The perimeter is twice the sum of the lengths of the base and the side (\(P = 2 \times (base + side)\)).
+5. **Parallelogram:** The perimeter is twice the sum of the lengths of the base and the side ($`P = 2 \times (base + side)`$).
 
 ### Applications in Real-World Scenarios
 - **Architecture and Construction:** Area calculations are crucial for determining the amount of materials needed for flooring, painting walls, or laying out a garden. Perimeter measurements are essential for fencing or establishing the boundaries of a property.
@@ -233,28 +233,28 @@ Understanding how to calculate area and perimeter is not just a mathematical exe
 Volume and surface area are key concepts in geometry, especially important for understanding and working with three-dimensional shapes. They have a wide range of practical applications in various fields.
 
 ### Volume Formulas for 3D Shapes
-1. **Cube:** The volume of a cube is the cube of the length of its side (\(V = side^3\)).
+1. **Cube:** The volume of a cube is the cube of the length of its side ($`V = side^3`$).
 
-2. **Rectangular Prism (or Cuboid):** The volume is the product of its length, width, and height (\(V = length \times width \times height\)).
+2. **Rectangular Prism (or Cuboid):** The volume is the product of its length, width, and height ($`V = length \times width \times height`$).
 
-3. **Cylinder:** The volume of a cylinder is the product of its base area (which is a circle) and its height (\(V = \pi \times radius^2 \times height\)).
+3. **Cylinder:** The volume of a cylinder is the product of its base area (which is a circle) and its height ($`V = \pi \times radius^2 \times height`$).
 
-4. **Sphere:** The volume of a sphere is given by \(\frac{4}{3}\) times pi times the cube of its radius (\(V = \frac{4}{3} \pi \times radius^3\)).
+4. **Sphere:** The volume of a sphere is given by $`\frac{4}{3}`$ times pi times the cube of its radius ($`V = \frac{4}{3} \pi \times radius^3`$).
 
-5. **Cone:** The volume of a cone is one third of the product of its base area (which is a circle) and its height (\(V = \frac{1}{3} \pi \times radius^2 \times height\)).
+5. **Cone:** The volume of a cone is one third of the product of its base area (which is a circle) and its height ($`V = \frac{1}{3} \pi \times radius^2 \times height`$).
 
-6. **Pyramid:** The volume of a pyramid is one third of the product of its base area and its height (\(V = \frac{1}{3} \times base\ area \times height\)).
+6. **Pyramid:** The volume of a pyramid is one third of the product of its base area and its height ($`V = \frac{1}{3} \times base\ area \times height`$).
 
 ### Surface Area Calculations
-1. **Cube:** The surface area is six times the square of the length of its side (\(SA = 6 \times side^2\)).
+1. **Cube:** The surface area is six times the square of the length of its side ($`SA = 6 \times side^2`$).
 
-2. **Rectangular Prism:** The surface area is the sum of the areas of all six faces (\(SA = 2 \times (length \times width + width \times height + height \times length)\)).
+2. **Rectangular Prism:** The surface area is the sum of the areas of all six faces ($`SA = 2 \times (length \times width + width \times height + height \times length)`$).
 
-3. **Cylinder:** The surface area includes the areas of the two circular bases and the curved surface (\(SA = 2 \pi \times radius \times (radius + height)\)).
+3. **Cylinder:** The surface area includes the areas of the two circular bases and the curved surface ($`SA = 2 \pi \times radius \times (radius + height)`$).
 
-4. **Sphere:** The surface area is four times pi times the square of its radius (\(SA = 4 \pi \times radius^2\)).
+4. **Sphere:** The surface area is four times pi times the square of its radius ($`SA = 4 \pi \times radius^2`$).
 
-5. **Cone:** The surface area is the sum of the base area and the lateral area (\(SA = \pi \times radius \times (radius + slant\ height)\)).
+5. **Cone:** The surface area is the sum of the base area and the lateral area ($`SA = \pi \times radius \times (radius + slant\ height)`$).
 
 6. **Pyramid:** The surface area is the sum of the base area and the lateral faces area.
 
@@ -278,17 +278,17 @@ Coordinate geometry, also known as analytic geometry, is the study of geometry u
 ### Cartesian Plane and Plotting Points
 - **Cartesian Plane:** The Cartesian plane, named after René Descartes, is a two-dimensional plane defined by two perpendicular axes: the x-axis (horizontal) and the y-axis (vertical). These axes divide the plane into four quadrants.
 
-- **Plotting Points:** Points on the Cartesian plane are identified by ordered pairs \((x, y)\), where \(x\) represents the horizontal position and \(y\) represents the vertical position relative to the origin (the point where the x-axis and y-axis intersect, designated as \((0, 0)\)). For instance, the point \((3, -2)\) is 3 units to the right of the origin and 2 units below it.
+- **Plotting Points:** Points on the Cartesian plane are identified by ordered pairs $`(x, y)`$, where $`x`$ represents the horizontal position and $`y`$ represents the vertical position relative to the origin (the point where the x-axis and y-axis intersect, designated as $`(0, 0)`$). For instance, the point $`(3, -2)`$ is 3 units to the right of the origin and 2 units below it.
 
 ### Line Equations and Graphs
-- **Line Equations:** The most common form of a linear equation is the slope-intercept form, \(y = mx + b\), where \(m\) is the slope of the line, and \(b\) is the y-intercept (the point where the line crosses the y-axis). This equation allows for the graphing of straight lines and understanding of their properties.
+- **Line Equations:** The most common form of a linear equation is the slope-intercept form, $`y = mx + b`$, where $`m`$ is the slope of the line, and $`b`$ is the y-intercept (the point where the line crosses the y-axis). This equation allows for the graphing of straight lines and understanding of their properties.
 
 - **Graphs:** Graphs in coordinate geometry visually represent equations. For linear equations, the graph is a straight line. Plotting two or more points that satisfy the equation and drawing a line through these points creates the graph of the equation.
 
 ### Slope and Distance Formulas
-- **Slope Formula:** The slope of a line is a measure of its steepness and direction. It's calculated as the change in y divided by the change in x (often referred to as "rise over run"). Mathematically, if you have two points \((x_1, y_1)\) and \((x_2, y_2)\), the slope \(m\) is given by \(m = \frac{y_2 - y_1}{x_2 - x_1}\).
+- **Slope Formula:** The slope of a line is a measure of its steepness and direction. It's calculated as the change in y divided by the change in x (often referred to as "rise over run"). Mathematically, if you have two points $`(x_1, y_1)`$ and $`(x_2, y_2)`$, the slope $`m`$ is given by $`m = \frac{y_2 - y_1}{x_2 - x_1}`$.
 
-- **Distance Formula:** The distance between two points in a plane can be found using the distance formula derived from the Pythagorean theorem: \(d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\), where \(d\) is the distance between the points \((x_1, y_1)\) and \((x_2, y_2)\).
+- **Distance Formula:** The distance between two points in a plane can be found using the distance formula derived from the Pythagorean theorem: $`d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}`$, where $`d`$ is the distance between the points $`(x_1, y_1)`$ and $`(x_2, y_2)`$.
 
 Coordinate geometry is a powerful tool in mathematics. It enables the solution of geometric problems using algebraic methods and vice versa. This field is crucial in various applications such as computer graphics, engineering, physics, and in numerous other areas where spatial relationships need to be quantified and analyzed.
 
@@ -379,11 +379,11 @@ Trigonometry is a branch of mathematics that deals with the relationships betwee
 ### Introduction to Trigonometric Ratios
 Trigonometric ratios are functions of angles that relate the angles to the lengths of the sides of a triangle. The primary trigonometric ratios are sine, cosine, and tangent, defined for acute angles in a right-angled triangle as follows:
 
-1. **Sine (sin):** The ratio of the length of the opposite side to the length of the hypotenuse. \(\sin(\theta) = \frac{\text{opposite}}{\text{hypotenuse}}\)
+1. **Sine (sin):** The ratio of the length of the opposite side to the length of the hypotenuse. $`\sin(\theta) = \frac{\text{opposite}}{\text{hypotenuse}}`$
 
-2. **Cosine (cos):** The ratio of the length of the adjacent side to the length of the hypotenuse. \(\cos(\theta) = \frac{\text{adjacent}}{\text{hypotenuse}}\)
+2. **Cosine (cos):** The ratio of the length of the adjacent side to the length of the hypotenuse. $`\cos(\theta) = \frac{\text{adjacent}}{\text{hypotenuse}}`$
 
-3. **Tangent (tan):** The ratio of the length of the opposite side to the length of the adjacent side. \(\tan(\theta) = \frac{\text{opposite}}{\text{adjacent}}\)
+3. **Tangent (tan):** The ratio of the length of the opposite side to the length of the adjacent side. $`\tan(\theta) = \frac{\text{opposite}}{\text{adjacent}}`$
 
 Other ratios, such as cosecant, secant, and cotangent, are also used but are less common in basic trigonometry.
 
@@ -391,7 +391,7 @@ Other ratios, such as cosecant, secant, and cotangent, are also used but are les
 In a right-angled triangle, the trigonometric ratios can be used to find unknown side lengths or angles:
 
 - Given one angle and one side, we can calculate the other sides using these ratios.
-- The Pythagorean theorem (which states that \(a^2 + b^2 = c^2\) in a right-angled triangle, where \(c\) is the hypotenuse and \(a\) and \(b\) are the other two sides) also plays a key role in trigonometry.
+- The Pythagorean theorem (which states that $`a^2 + b^2 = c^2`$ in a right-angled triangle, where $`c`$ is the hypotenuse and $`a`$ and $`b`$ are the other two sides) also plays a key role in trigonometry.
 
 ### Applications of Trigonometry
 1. **Astronomy:** Historically, trigonometry was developed for astronomy. It's used to calculate distances to stars and planets and to understand the motion of celestial bodies.
@@ -413,7 +413,7 @@ The study of trigonometry provides tools that are essential for understanding an
 Advanced trigonometry builds upon basic concepts and introduces more complex relationships and applications. It is crucial in various scientific and engineering fields.
 
 ### Sine and Cosine Rules
-1. **Sine Rule:** The Sine Rule is useful in non-right-angled triangles. It states that the ratio of the length of a side of a triangle to the sine of the angle opposite that side is constant. Mathematically, for a triangle with sides \(a\), \(b\), and \(c\), and angles \(A\), \(B\), and \(C\) respectively, the rule is expressed as:
+1. **Sine Rule:** The Sine Rule is useful in non-right-angled triangles. It states that the ratio of the length of a side of a triangle to the sine of the angle opposite that side is constant. Mathematically, for a triangle with sides $`a`$, $`b`$, and $`c`$, and angles $`A`$, $`B`$, and $`C`$ respectively, the rule is expressed as:
    \[
    \frac{a}{\sin(A)} = \frac{b}{\sin(B)} = \frac{c}{\sin(C)}
    \]
@@ -423,7 +423,7 @@ Advanced trigonometry builds upon basic concepts and introduces more complex rel
    \[
    c^2 = a^2 + b^2 - 2ab \cdot \cos(C)
    \]
-   where \(a\), \(b\), and \(c\) are the sides of the triangle, and \(C\) is the angle opposite side \(c\). This rule is a generalization of the Pythagorean theorem.
+   where $`a`$, $`b`$, and $`c`$ are the sides of the triangle, and $`C`$ is the angle opposite side $`c`$. This rule is a generalization of the Pythagorean theorem.
 
 ### Trigonometric Functions and Graphs
 - **Functions:** Advanced trigonometry involves deeper exploration of the six trigonometric functions: sine, cosine, tangent, cosecant, secant, and cotangent. These functions are periodic and have specific properties that allow for the analysis of various phenomena.
@@ -450,7 +450,7 @@ Vectors are fundamental in geometry and physics, representing quantities that ha
 ### Introduction to Vectors
 - **Definition:** A vector is represented as an arrow in a coordinate system. The length of the arrow indicates the vector's magnitude, and the direction of the arrow shows its direction. Vectors can represent various physical quantities like force, velocity, or displacement.
 
-- **Notation:** Vectors are often denoted by bold letters or letters with an arrow overhead (e.g., \(\vec{v}\) or **v**). They can be described in terms of components along the x, y (and possibly z) axes, like \(\vec{v} = (v_x, v_y)\) in two dimensions or \(\vec{v} = (v_x, v_y, v_z)\) in three dimensions.
+- **Notation:** Vectors are often denoted by bold letters or letters with an arrow overhead (e.g., $`\vec{v}`$ or **v**). They can be described in terms of components along the x, y (and possibly z) axes, like $`\vec{v} = (v_x, v_y)`$ in two dimensions or $`\vec{v} = (v_x, v_y, v_z)`$ in three dimensions.
 
 ### Operations with Vectors
 - **Addition:** Vector addition is geometrically performed by placing the tail of the second vector at the head of the first. The sum is a vector from the tail of the first to the head of the second (known as the triangle rule). Algebraically, vectors are added component-wise.
