@@ -67,6 +67,7 @@ Outlines written by ChatGPT on various subjects.
   * [Spanish Grammar](language/spanish_grammar.md)
 
 ## Literature
+  * [Fantasy Fiction](literature/fantasy_fiction.md)
   * [Science Fiction](literature/science_fiction.md)
 
 ## Mathematics
