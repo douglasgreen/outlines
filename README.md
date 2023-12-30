@@ -55,6 +55,7 @@ Outlines written by ChatGPT on various subjects.
 ## History
   * [History of Christianity](history/history_of_christianity.md)
   * [History of the Middle East](history/history_of_middle_east.md)
+  * [History of the World](history/history_of_world.md)
   * [History of Video Games](history/history_of_video_games.md)
 
 ## Language
