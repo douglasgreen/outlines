@@ -6,6 +6,9 @@ Outlines written by ChatGPT on various subjects.
 ### Film
   * [Anime](arts/film/anime.md)
 
+### Games
+  * [History of Video Games](arts/games/history_of_video_games.md)
+
 ## Business
   * [Economics](business/economics.md)
 
@@ -53,10 +56,8 @@ Outlines written by ChatGPT on various subjects.
   * [WebPack](computing/web_development/webpack.md)
 
 ## History
-  * [History of Christianity](history/history_of_christianity.md)
   * [History of the Middle East](history/history_of_middle_east.md)
   * [History of the World](history/history_of_world.md)
-  * [History of Video Games](history/history_of_video_games.md)
 
 ## Language
   * [English Grammar](language/english_grammar.md)
@@ -84,6 +85,9 @@ Outlines written by ChatGPT on various subjects.
 
 ## Psychology
   * [Psychology](psychology/psychology.md)
+
+## Religion
+  * [History of Christianity](religion/history_of_christianity.md)
 
 ## Science
   * [Science](science/science.md)
