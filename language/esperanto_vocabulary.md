@@ -342,7 +342,7 @@
 * bildo - picture, image
 * biografio - biography
 * birdo - bird
-* bis - bidding
+* bis - again
 * blanka - white
 * blazono - coat of arms
 * blua - blue
