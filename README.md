@@ -70,6 +70,7 @@ Outlines written by ChatGPT on various subjects.
   * [Esperanto Grammar](language/esperanto_grammar.md)
   * [Esperanto Vocabulary](language/esperanto_vocabulary.md)
   * [French Grammar](language/french_grammar.md)
+  * [French Vocabulary](language/french_vocabulary.md)
   * [German Grammar](language/german_grammar.md)
   * [Italian Grammar](language/italian_grammar.md)
   * [Latin Grammar](language/latin_grammar.md)
