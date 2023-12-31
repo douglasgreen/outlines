@@ -57,7 +57,6 @@
 * Guy - Guy (name)
 
 ## H
-* HTML - HTML
 * Henri - Henri (name)
 
 ## I
@@ -115,7 +114,6 @@
 * Simon - Simon (name)
 * Smith - Smith (name)
 * Somme - Somme (river or department in France)
-* St - (abbreviation, context-dependent)
 * Strasbourg - Strasbourg (city)
 
 ## T
@@ -124,7 +122,6 @@
 * Toulouse - Toulouse (city)
 
 ## V
-* VF - (abbreviation, context-dependent)
 * Victor - Victor (name)
 * Vienne - Vienna
 * Vincent - Vincent (name)
@@ -739,7 +736,6 @@
 ## e
 * eau - water
 * eaux - waters
-* ed - (abbreviation, context-dependent)
 * effectif - workforce, effective
 * effectuer - to perform, to carry out
 * effet - effect
@@ -1955,7 +1951,6 @@
 * université - university
 * urbain - urban
 * urbaine - urban (feminine singular)
-* us - (abbreviation, context-dependent)
 * usage - use
 * user - to use, to wear out
 * usiner - to manufacture, to machine
