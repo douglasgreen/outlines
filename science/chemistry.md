@@ -307,23 +307,23 @@ Chemical reactions are processes where reactants transform into products through
 
 1. **Synthesis (Combination) Reactions:**
    - Two or more simple substances combine to form a more complex substance.
-   - Example: \( A + B \rightarrow AB \) (e.g., \( 2H_2 + O_2 \rightarrow 2H_2O \)).
+   - Example: $`A + B \rightarrow AB`$ (e.g., $`2H_2 + O_2 \rightarrow 2H_2O`$).
 
 2. **Decomposition Reactions:**
    - A complex molecule breaks down into simpler substances.
-   - Example: \( AB \rightarrow A + B \) (e.g., \( 2H_2O \rightarrow 2H_2 + O_2 \)).
+   - Example: $`AB \rightarrow A + B`$ (e.g., $`2H_2O \rightarrow 2H_2 + O_2`$).
 
 3. **Single Replacement (Displacement) Reactions:**
    - An element reacts with a compound and takes the place of another element in that compound.
-   - Example: \( A + BC \rightarrow AC + B \) (e.g., \( Zn + 2HCl \rightarrow ZnCl_2 + H_2 \)).
+   - Example: $`A + BC \rightarrow AC + B`$ (e.g., $`Zn + 2HCl \rightarrow ZnCl_2 + H_2`$).
 
 4. **Double Replacement (Metathesis) Reactions:**
    - The ions of two compounds exchange places in an aqueous solution to form two new compounds.
-   - Example: \( AB + CD \rightarrow AD + CB \) (e.g., \( AgNO_3 + NaCl \rightarrow AgCl + NaNO_3 \)).
+   - Example: $`AB + CD \rightarrow AD + CB`$ (e.g., $`AgNO_3 + NaCl \rightarrow AgCl + NaNO_3`$).
 
 5. **Combustion Reactions:**
    - A substance combines with oxygen, releasing a large amount of energy in the form of light and heat.
-   - Example: Hydrocarbon combustion, like \( C_xH_y + O_2 \rightarrow CO_2 + H_2O \).
+   - Example: Hydrocarbon combustion, like $`C_xH_y + O_2 \rightarrow CO_2 + H_2O`$.
 
 6. **Redox (Oxidation-Reduction) Reactions:**
    - Involves the transfer of electrons between two species, changing their oxidation states.
@@ -349,7 +349,7 @@ Balancing chemical equations is essential to ensure that the law of conservation
    - Ensure that the number of atoms of each element is the same on both sides of the equation.
    - Verify that the total charge (if applicable) is the same on both sides for ionic equations.
 
-For example, to balance the reaction between hydrogen and oxygen to form water, \( H_2 + O_2 \rightarrow H_2O \), the balanced equation would be \( 2H_2 + O_2 \rightarrow 2H_2O \).
+For example, to balance the reaction between hydrogen and oxygen to form water, $`H_2 + O_2 \rightarrow H_2O`$, the balanced equation would be $`2H_2 + O_2 \rightarrow 2H_2O`$.
 
 Balancing chemical equations is not only a foundational skill in chemistry but also a practical necessity for understanding the stoichiometry of reactions, predicting the amount of products formed, and ensuring the safe and efficient use of chemicals.
 
@@ -361,7 +361,7 @@ Stoichiometry is a branch of chemistry that deals with the quantitative relation
 
 1. **Definition:**
    - The mole is a fundamental unit in chemistry used to express amounts of a chemical substance. It is defined as the amount of any substance that contains as many elementary entities (like atoms, molecules, ions, etc.) as there are atoms in 12 grams of pure carbon-12.
-   - One mole of any substance contains Avogadro's number of entities, which is approximately \(6.022 \times 10^{23}\).
+   - One mole of any substance contains Avogadro's number of entities, which is approximately $`6.022 \times 10^{23}`$.
 
 2. **Significance:**
    - The mole allows chemists to convert between the mass of a substance and the number of atoms or molecules it contains.
@@ -380,9 +380,9 @@ Stoichiometry is a branch of chemistry that deals with the quantitative relation
    - **Yield Calculations:** Determining the theoretical yield (the maximum amount of product expected based on stoichiometry) and comparing it with the actual yield to calculate the percent yield.
 
 3. **Example Calculation:**
-   - Consider the combustion of methane: \( CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O \).
-   - If you start with 2 moles of \( CH_4 \) and 6 moles of \( O_2 \), you can use the mole ratios from the balanced equation to determine the amount of \( CO_2 \) and \( H_2O \) produced.
-   - Since methane is the limiting reactant (you have more than enough \( O_2 \)), it will determine the amount of product formed.
+   - Consider the combustion of methane: $`CH_4 + 2O_2 \rightarrow CO_2 + 2H_2O`$.
+   - If you start with 2 moles of $`CH_4`$ and 6 moles of $`O_2`$, you can use the mole ratios from the balanced equation to determine the amount of $`CO_2`$ and $`H_2O`$ produced.
+   - Since methane is the limiting reactant (you have more than enough $`O_2`$), it will determine the amount of product formed.
 
 Stoichiometry is fundamental in chemistry, as it allows for the quantitative analysis of reactions. It is used in various applications, from laboratory experiments to industrial chemical production, ensuring reactions are carried out with the correct proportions of reactants to maximize yield and minimize waste.
 
@@ -411,23 +411,23 @@ Gases and their behavior are an important area of study in chemistry, characteri
 
 1. **Boyle’s Law (Pressure-Volume Relationship):**
    - States that for a given amount of gas at constant temperature, the volume of a gas is inversely proportional to its pressure.
-   - Mathematically: \( P \propto \frac{1}{V} \) or \( PV = k \) (where \( P \) is pressure, \( V \) is volume, and \( k \) is a constant).
+   - Mathematically: $`P \propto \frac{1}{V}`$ or $`PV = k`$ (where $`P`$ is pressure, $`V`$ is volume, and $`k`$ is a constant).
 
 2. **Charles’s Law (Volume-Temperature Relationship):**
    - States that for a given amount of gas at constant pressure, the volume of a gas is directly proportional to its absolute temperature (in Kelvin).
-   - Mathematically: \( V \propto T \) or \( \frac{V}{T} = k \) (where \( V \) is volume, \( T \) is temperature, and \( k \) is a constant).
+   - Mathematically: $`V \propto T`$ or $`\frac{V}{T} = k`$ (where $`V`$ is volume, $`T`$ is temperature, and $`k`$ is a constant).
 
 3. **Avogadro’s Law (Volume-Mole Relationship):**
    - States that for a gas at constant temperature and pressure, the volume of a gas is directly proportional to the number of moles of gas.
-   - Mathematically: \( V \propto n \) (where \( V \) is volume and \( n \) is the number of moles).
+   - Mathematically: $`V \propto n`$ (where $`V`$ is volume and $`n`$ is the number of moles).
 
 4. **Combined Gas Law:**
    - Combines Boyle’s, Charles’s, and Avogadro’s laws into one relationship. Useful when dealing with changes involving pressure, volume, and temperature simultaneously.
-   - Mathematically: \( \frac{P_1V_1}{T_1} = \frac{P_2V_2}{T_2} \) (subscripts 1 and 2 refer to the initial and final states).
+   - Mathematically: $`\frac{P_1V_1}{T_1} = \frac{P_2V_2}{T_2}`$ (subscripts 1 and 2 refer to the initial and final states).
 
 5. **Ideal Gas Law:**
    - A more comprehensive law that combines all the gas laws. It relates pressure, volume, temperature, and the number of moles of a gas.
-   - Mathematically: \( PV = nRT \) (where \( R \) is the ideal gas constant).
+   - Mathematically: $`PV = nRT`$ (where $`R`$ is the ideal gas constant).
 
 Understanding these gas laws is crucial for predicting and manipulating the behavior of gases in various conditions, essential in fields ranging from meteorology to engineering and even respiratory physiology. They provide the foundation for more advanced studies in thermodynamics and kinetic theory.
 
@@ -463,7 +463,7 @@ Acids, bases, and the pH scale are key concepts in chemistry, particularly in th
    - The pH scale is logarithmic, meaning each whole pH value below 7 is ten times more acidic than the next higher value and each whole pH value above 7 is ten times more basic.
 
 2. **Calculating pH:**
-   - pH is calculated as the negative logarithm of the hydrogen ion concentration: \( pH = -\log[H^+] \).
+   - pH is calculated as the negative logarithm of the hydrogen ion concentration: $`pH = -\log[H^+]`$.
 
 3. **Buffer Solutions:**
    - Buffers are solutions that can resist changes in pH when small amounts of acid or base are added.
@@ -481,7 +481,7 @@ Chemical kinetics is the study of the rates at which chemical reactions occur an
 
 1. **Reaction Rates:**
    - The rate of a chemical reaction refers to the speed at which reactants are converted into products. It's usually expressed as the change in concentration of a reactant or product per unit time.
-   - Mathematically, for a reaction \( aA + bB \rightarrow cC + dD \), the rate can be expressed as \( -\frac{1}{a}\frac{\Delta[A]}{\Delta t} = -\frac{1}{b}\frac{\Delta[B]}{\Delta t} = \frac{1}{c}\frac{\Delta[C]}{\Delta t} = \frac{1}{d}\frac{\Delta[D]}{\Delta t} \), where \([A]\), \([B]\), \([C]\), and \([D]\) are the concentrations of the reactants and products, and \( \Delta t \) is the change in time.
+   - Mathematically, for a reaction $`aA + bB \rightarrow cC + dD`$, the rate can be expressed as $`-\frac{1}{a}\frac{\Delta[A]}{\Delta t} = -\frac{1}{b}\frac{\Delta[B]}{\Delta t} = \frac{1}{c}\frac{\Delta[C]}{\Delta t} = \frac{1}{d}\frac{\Delta[D]}{\Delta t}`$, where $`[A]`$, $`[B]`$, $`[C]`$, and $`[D]`$ are the concentrations of the reactants and products, and $`\Delta t`$ is the change in time.
 
 2. **Collision Theory:**
    - According to collision theory, chemical reactions occur when reactant molecules effectively collide with each other.
@@ -523,10 +523,10 @@ Chemical equilibrium is a fundamental concept in chemistry, particularly importa
    - When a reversible reaction is in equilibrium, it doesn't mean that the reactants and products have stopped reacting. Instead, it's a dynamic equilibrium where the rate of the forward reaction (reactants to products) is equal to the rate of the backward reaction (products to reactants).
    - At this point, the concentrations of reactants and products remain constant over time, not because the reactions have stopped, but because they are occurring at the same rate.
 
-3. **Equilibrium Constant (\( K_{eq} \)):**
+3. **Equilibrium Constant ($`K_{eq}`$):**
    - The equilibrium constant is a number that expresses the ratio of the concentrations of products to reactants at equilibrium, each raised to the power of their stoichiometric coefficients.
-   - The expression for a general reaction \( aA + bB \leftrightarrow cC + dD \) is \( K_{eq} = \frac{[C]^c [D]^d}{[A]^a [B]^b} \).
-   - The value of \( K_{eq} \) indicates the extent to which a reaction proceeds. A large \( K_{eq} \) means the equilibrium lies towards the products, while a small \( K_{eq} \) indicates it lies towards the reactants.
+   - The expression for a general reaction $`aA + bB \leftrightarrow cC + dD`$ is $`K_{eq} = \frac{[C]^c [D]^d}{[A]^a [B]^b}`$.
+   - The value of $`K_{eq}`$ indicates the extent to which a reaction proceeds. A large $`K_{eq}`$ means the equilibrium lies towards the products, while a small $`K_{eq}`$ indicates it lies towards the reactants.
 
 ### Le Chatelier's Principle
 
