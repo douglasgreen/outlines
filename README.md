@@ -66,15 +66,29 @@ Outlines written by ChatGPT on various subjects.
   * [History of the World](history/history_of_world.md)
 
 ## Language
-  * [English Grammar](language/english_grammar.md)
-  * [Esperanto Grammar](language/esperanto_grammar.md)
-  * [Esperanto Vocabulary](language/esperanto_vocabulary.md)
-  * [French Grammar](language/french_grammar.md)
-  * [French Vocabulary](language/french_vocabulary.md)
-  * [German Grammar](language/german_grammar.md)
-  * [Italian Grammar](language/italian_grammar.md)
-  * [Latin Grammar](language/latin_grammar.md)
-  * [Spanish Grammar](language/spanish_grammar.md)
+
+### English
+  * [English Grammar](language/english/grammar.md)
+
+### Esperanto
+  * [Esperanto Grammar](language/esperanto/grammar.md)
+  * [Esperanto Vocabulary](language/esperanto/vocabulary.md)
+
+### French
+  * [French Grammar](language/french/grammar.md)
+  * [French Vocabulary](language/french/vocabulary.md)
+
+### German
+  * [German Grammar](language/german/grammar.md)
+
+### Italian
+  * [Italian Grammar](language/italian/grammar.md)
+
+### Latin
+  * [Latin Grammar](language/latin/grammar.md)
+
+### Spanish
+  * [Spanish Grammar](language/spanish/grammar.md)
 
 ## Literature
   * [Fantasy Fiction](literature/fantasy_fiction.md)
