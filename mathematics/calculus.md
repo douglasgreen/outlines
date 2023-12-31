@@ -65,33 +65,33 @@ Limits and continuity are fundamental concepts in calculus and mathematical anal
 
 ### Definition of a Limit
 
-A limit is a fundamental concept in calculus used to describe the behavior of a function as its argument approaches a certain point. Formally, the limit of a function `f(x)` as `x` approaches a value `a` is the value that `f(x)` gets closer to as `x` gets arbitrarily close to `a`. It is denoted as:
+A limit is a fundamental concept in calculus used to describe the behavior of a function as its argument approaches a certain point. Formally, the limit of a function $`f(x)`$ as $`x`$ approaches a value $`a`$ is the value that $`f(x)`$ gets closer to as $`x`$ gets arbitrarily close to $`a`$. It is denoted as:
 
-\[ \lim_{x \to a} f(x) = L \]
+$`\lim_{x \to a} f(x) = L`$
 
-This means that as `x` gets closer and closer to `a`, the value of `f(x)` gets arbitrarily close to `L`. Limits can be finite or infinite and can be approached from the left (as `x` approaches `a` from values less than `a`) or from the right (as `x` approaches `a` from values greater than `a`).
+This means that as $`x`$ gets closer and closer to $`a`$, the value of $`f(x)`$ gets arbitrarily close to $`L`$. Limits can be finite or infinite and can be approached from the left (as $`x`$ approaches $`a`$ from values less than $`a`$) or from the right (as $`x`$ approaches $`a`$ from values greater than $`a`$).
 
 ### Techniques for Evaluating Limits
 
-Evaluating limits involves various techniques, depending on the function and the point to which `x` is approaching. Some common methods include:
+Evaluating limits involves various techniques, depending on the function and the point to which $`x`$ is approaching. Some common methods include:
 
-1. **Direct Substitution:** The simplest method where you substitute the value of `a` into the function, if the function is continuous at that point.
+1. **Direct Substitution:** The simplest method where you substitute the value of $`a`$ into the function, if the function is continuous at that point.
 
 2. **Factoring and Simplifying:** Useful when direct substitution results in an indeterminate form like 0/0. Factoring can eliminate common factors in the numerator and denominator.
 
 3. **Conjugation:** Used primarily for functions involving square roots. Multiplying the numerator and the denominator by the conjugate can simplify the expression.
 
-4. **Limits of Polynomials and Rational Functions:** These can often be evaluated by simplifying the expression or dividing the numerator and the denominator by the highest power of `x` in the denominator.
+4. **Limits of Polynomials and Rational Functions:** These can often be evaluated by simplifying the expression or dividing the numerator and the denominator by the highest power of $`x`$ in the denominator.
 
 5. **L'Hôpital's Rule:** Applies when a limit produces an indeterminate form like 0/0 or ∞/∞. It involves taking the derivative of the numerator and the denominator and then evaluating the limit.
 
 ### Continuity and its Importance
 
-A function is said to be continuous at a point `a` if the following three conditions are met:
+A function is said to be continuous at a point $`a`$ if the following three conditions are met:
 
-1. The function `f(a)` is defined at `a`.
-2. The limit of `f(x)` as `x` approaches `a` exists.
-3. The limit of `f(x)` as `x` approaches `a` is equal to `f(a)`.
+1. The function $`f(a)`$ is defined at $`a`$.
+2. The limit of $`f(x)`$ as $`x`$ approaches $`a`$ exists.
+3. The limit of $`f(x)`$ as $`x`$ approaches $`a`$ is equal to $`f(a)`$.
 
 In simpler terms, a function is continuous at a point if there is no interruption or "jump" in its graph at that point. A function is continuous over an interval if it is continuous at every point in that interval.
 
@@ -109,45 +109,45 @@ The derivative is a fundamental concept in calculus that describes the rate at w
 
 ### Concept of Derivation
 
-Derivation is the process of finding the derivative of a function. Conceptually, the derivative of a function at a given point is the slope of the tangent line to the function's graph at that point. It gives the rate of change of the function's value with respect to changes in its input value. This concept is commonly represented as `f'(x)` or `\frac{df}{dx}` for a function `f(x)`.
+Derivation is the process of finding the derivative of a function. Conceptually, the derivative of a function at a given point is the slope of the tangent line to the function's graph at that point. It gives the rate of change of the function's value with respect to changes in its input value. This concept is commonly represented as $`f'(x)`$ or $`\frac{df}{dx}`$ for a function $`f(x)`$.
 
-In practical terms, if `f(x)` represents some quantity that changes over time, then `f'(x)` represents the rate of that change at any given moment. For instance, if `f(x)` is the position of an object at time `x`, then `f'(x)` is its velocity at that time.
+In practical terms, if $`f(x)`$ represents some quantity that changes over time, then $`f'(x)`$ represents the rate of that change at any given moment. For instance, if $`f(x)`$ is the position of an object at time $`x`$, then $`f'(x)`$ is its velocity at that time.
 
 ### Basic Rules of Differentiation
 
 There are several rules that simplify the process of finding derivatives:
 
-1. **Power Rule:** For any real number `n`, the derivative of `x^n` is `nx^(n-1)`. For example, the derivative of `x^2` is `2x`.
+1. **Power Rule:** For any real number $`n`$, the derivative of $`x^n`$ is $`nx^(n-1)`$. For example, the derivative of $`x^2`$ is $`2x`$.
 
-2. **Constant Rule:** The derivative of a constant is 0. For any constant `c`, `d(c)/dx = 0`.
+2. **Constant Rule:** The derivative of a constant is 0. For any constant $`c`$, $`d(c)/dx = 0`$.
 
-3. **Sum Rule:** The derivative of the sum of two functions is the sum of their derivatives. If `f(x)` and `g(x)` are functions, then `d(f(x) + g(x))/dx = f'(x) + g'(x)`.
+3. **Sum Rule:** The derivative of the sum of two functions is the sum of their derivatives. If $`f(x)`$ and $`g(x)`$ are functions, then $`d(f(x) + g(x))/dx = f'(x) + g'(x)`$.
 
-4. **Product Rule:** For two functions `f(x)` and `g(x)`, the derivative of their product is `f'(x)g(x) + f(x)g'(x)`.
+4. **Product Rule:** For two functions $`f(x)`$ and $`g(x)`$, the derivative of their product is $`f'(x)g(x) + f(x)g'(x)`$.
 
-5. **Quotient Rule:** For two functions `f(x)` and `g(x)`, the derivative of their quotient is `(f'(x)g(x) - f(x)g'(x))/(g(x))^2`.
+5. **Quotient Rule:** For two functions $`f(x)`$ and $`g(x)`$, the derivative of their quotient is $`(f'(x)g(x) - f(x)g'(x))/(g(x))^2`$.
 
-6. **Chain Rule:** Used when differentiating a composite function. If `h(x) = f(g(x))`, then `h'(x) = f'(g(x))g'(x)`.
+6. **Chain Rule:** Used when differentiating a composite function. If $`h(x) = f(g(x))`$, then $`h'(x) = f'(g(x))g'(x)`$.
 
 ### Derivatives of Common Functions
 
 Some common functions and their derivatives include:
 
-1. **Polynomials:** For `f(x) = ax^n`, `f'(x) = nax^(n-1)`.
+1. **Polynomials:** For $`f(x) = ax^n`$, $`f'(x) = nax^(n-1)`$.
 
-2. **Exponential Functions:** For `f(x) = e^x`, `f'(x) = e^x`. For `f(x) = a^x`, `f'(x) = a^x ln(a)`.
+2. **Exponential Functions:** For $`f(x) = e^x`$, $`f'(x) = e^x`$. For $`f(x) = a^x`$, $`f'(x) = a^x ln(a)`$.
 
-3. **Logarithmic Functions:** For `f(x) = ln(x)`, `f'(x) = 1/x`. For `f(x) = log_a(x)`, `f'(x) = 1/(x ln(a))`.
+3. **Logarithmic Functions:** For $`f(x) = ln(x)`$, $`f'(x) = 1/x`$. For $`f(x) = log_a(x)`$, $`f'(x) = 1/(x ln(a))`$.
 
 4. **Trigonometric Functions:**
-   - For `f(x) = sin(x)`, `f'(x) = cos(x)`.
-   - For `f(x) = cos(x)`, `f'(x) = -sin(x)`.
-   - For `f(x) = tan(x)`, `f'(x) = sec^2(x)`.
+   - For $`f(x) = sin(x)`$, $`f'(x) = cos(x)`$.
+   - For $`f(x) = cos(x)`$, $`f'(x) = -sin(x)`$.
+   - For $`f(x) = tan(x)`$, $`f'(x) = sec^2(x)`$.
 
 5. **Inverse Trigonometric Functions:**
-   - For `f(x) = arcsin(x)`, `f'(x) = 1/√(1 - x^2)`.
-   - For `f(x) = arccos(x)`, `f'(x) = -1/√(1 - x^2)`.
-   - For `f(x) = arctan(x)`, `f'(x) = 1/(1 + x^2)`.
+   - For $`f(x) = arcsin(x)`$, $`f'(x) = 1/√(1 - x^2)`$.
+   - For $`f(x) = arccos(x)`$, $`f'(x) = -1/√(1 - x^2)`$.
+   - For $`f(x) = arctan(x)`$, $`f'(x) = 1/(1 + x^2)`$.
 
 In summary, the derivative represents the rate of change of a function and is a key concept in understanding the dynamics of physical systems, economic models, and various other scientific fields. The rules of differentiation provide a systematic approach for finding the derivative of a wide range of functions, making it a powerful tool in calculus.
 
@@ -157,33 +157,33 @@ Differentiation techniques are essential tools in calculus, allowing us to find 
 
 ### Chain Rule
 
-The chain rule is used when differentiating a composite function. A composite function is one where a function is applied within another function, like `f(g(x))`. The chain rule states that if you have two functions `f(u)` and `u = g(x)`, then the derivative of the composite function `f(g(x))` with respect to `x` is:
+The chain rule is used when differentiating a composite function. A composite function is one where a function is applied within another function, like $`f(g(x))`$. The chain rule states that if you have two functions $`f(u)`$ and $`u = g(x)`$, then the derivative of the composite function $`f(g(x))`$ with respect to $`x`$ is:
 
-\[ \frac{df}{dx} = \frac{df}{du} \cdot \frac{du}{dx} \]
+$`\frac{df}{dx} = \frac{df}{du} \cdot \frac{du}{dx}`$
 
 In practical terms, you differentiate the outer function (keeping the inner function unchanged) and multiply it by the derivative of the inner function. This rule is extremely useful for functions where one function is nested inside another.
 
 ### Product Rule
 
-The product rule is used when differentiating the product of two functions. If `f(x)` and `g(x)` are two functions, then the derivative of their product `f(x)g(x)` is given by:
+The product rule is used when differentiating the product of two functions. If $`f(x)`$ and $`g(x)`$ are two functions, then the derivative of their product $`f(x)g(x)`$ is given by:
 
-\[ \frac{d}{dx}[f(x)g(x)] = f'(x)g(x) + f(x)g'(x) \]
+$`\frac{d}{dx}[f(x)g(x)] = f'(x)g(x) + f(x)g'(x)`$
 
 This rule implies that to find the derivative of a product, you take the derivative of the first function and multiply it by the second function, then add the product of the first function and the derivative of the second function.
 
 ### Quotient Rule
 
-The quotient rule is applied when differentiating the quotient or division of two functions. If `f(x)` and `g(x)` are two functions, then the derivative of their quotient `f(x)/g(x)` is given by:
+The quotient rule is applied when differentiating the quotient or division of two functions. If $`f(x)`$ and $`g(x)`$ are two functions, then the derivative of their quotient $`f(x)/g(x)`$ is given by:
 
-\[ \frac{d}{dx}\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{[g(x)]^2} \]
+$`\frac{d}{dx}\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{[g(x)]^2}`$
 
 The quotient rule states that to differentiate a quotient, you subtract the product of the derivative of the numerator and the denominator from the product of the numerator and the derivative of the denominator, all divided by the square of the denominator.
 
 ### Implicit Differentiation
 
-Implicit differentiation is used when a function is not given explicitly as `y = f(x)` but is instead given in a form where `y` and `x` are mixed, like in an equation `F(x, y) = 0`. To differentiate implicitly, you differentiate both sides of the equation with respect to `x`, treating `y` as a function of `x` and applying the chain rule as necessary. This technique is particularly useful for functions that are difficult or impossible to express explicitly in terms of `x`.
+Implicit differentiation is used when a function is not given explicitly as $`y = f(x)`$ but is instead given in a form where $`y`$ and $`x`$ are mixed, like in an equation $`F(x, y) = 0`$. To differentiate implicitly, you differentiate both sides of the equation with respect to $`x`$, treating $`y`$ as a function of $`x`$ and applying the chain rule as necessary. This technique is particularly useful for functions that are difficult or impossible to express explicitly in terms of $`x`$.
 
-For example, in differentiating the equation of a circle `x^2 + y^2 = r^2` with respect to `x`, we treat `y` as a function of `x` (i.e., `y = y(x)`) and apply the differentiation rules accordingly.
+For example, in differentiating the equation of a circle $`x^2 + y^2 = r^2`$ with respect to $`x`$, we treat $`y`$ as a function of $`x`$ (i.e., $`y = y(x)`$) and apply the differentiation rules accordingly.
 
 These techniques form the backbone of differential calculus, allowing us to handle a wide array of functions and their derivatives, which are essential in understanding the behavior of physical, economic, and biological systems.
 
@@ -195,9 +195,9 @@ Derivatives, one of the fundamental concepts in calculus, have a wide range of a
 
 One of the most straightforward applications of derivatives is in determining the slope of a curve at a given point and finding the equation of the tangent line at that point.
 
-- **Slope of a Curve:** The derivative of a function at a particular point gives the slope of the curve at that point. If `y = f(x)`, then `f'(x)` represents the rate of change of `y` with respect to `x`. This is essentially the slope of the tangent to the curve at any point `x`.
+- **Slope of a Curve:** The derivative of a function at a particular point gives the slope of the curve at that point. If $`y = f(x)`$, then $`f'(x)`$ represents the rate of change of $`y`$ with respect to $`x`$. This is essentially the slope of the tangent to the curve at any point $`x`$.
 
-- **Equation of the Tangent Line:** Once the slope at a particular point is known, the equation of the tangent line to the curve at that point can be determined. If the slope of the curve at point `(a, f(a))` is `f'(a)`, the equation of the tangent line is `y - f(a) = f'(a)(x - a)`.
+- **Equation of the Tangent Line:** Once the slope at a particular point is known, the equation of the tangent line to the curve at that point can be determined. If the slope of the curve at point $`(a, f(a))`$ is $`f'(a)`$, the equation of the tangent line is $`y - f(a) = f'(a)(x - a)`$.
 
 This application is crucial in fields like physics for understanding motion, in engineering for analyzing stress points in materials, and in economics for studying cost functions.
 
@@ -207,7 +207,7 @@ Optimization involves finding the maximum or minimum values of a function, which
 
 - **Finding Extrema:** The first step in solving optimization problems is to find the points where the derivative of the function equals zero. These points are potential local maxima or minima.
 
-- **Second Derivative Test:** Once these points are found, the second derivative test can be used to determine whether each point is a maximum, a minimum, or a saddle point. If `f''(x) > 0`, the function has a local minimum at `x`, and if `f''(x) < 0`, it has a local maximum.
+- **Second Derivative Test:** Once these points are found, the second derivative test can be used to determine whether each point is a maximum, a minimum, or a saddle point. If $`f''(x) > 0`$, the function has a local minimum at $`x`$, and if $`f''(x) < 0`$, it has a local maximum.
 
 Optimization techniques are used in various real-world problems, from designing the most efficient and cost-effective structures to maximizing profit or minimizing cost in business.
 
@@ -267,13 +267,13 @@ Integration is one of the two main operations in calculus, alongside differentia
 
 The integral of a function can be thought of in two primary ways:
 
-1. **As Area Under a Curve:** For a function `f(x)`, the definite integral from `a` to `b` (denoted as `∫_a^b f(x) dx`) represents the area under the curve of `f(x)` from `x = a` to `x = b`. This concept is particularly useful in physics and engineering, where it can represent quantities like distance traveled, the work done by a force, or the volume of a solid.
+1. **As Area Under a Curve:** For a function $`f(x)`$, the definite integral from $`a`$ to $`b`$ (denoted as $`∫_a^b f(x) dx`$) represents the area under the curve of $`f(x)`$ from $`x = a`$ to $`x = b`$. This concept is particularly useful in physics and engineering, where it can represent quantities like distance traveled, the work done by a force, or the volume of a solid.
 
-2. **As Accumulation:** The integral can also be understood as the accumulation of quantities. If `f(x)` represents a rate of change (like speed), then the integral of `f(x)` over an interval gives the total change (like total distance traveled).
+2. **As Accumulation:** The integral can also be understood as the accumulation of quantities. If $`f(x)`$ represents a rate of change (like speed), then the integral of $`f(x)`$ over an interval gives the total change (like total distance traveled).
 
 ### Indefinite Integrals
 
-An indefinite integral, in contrast to a definite integral, represents a family of functions and is essentially the antiderivative of a function. Given a function `f(x)`, its indefinite integral (or antiderivative) is a function `F(x)` such that `F'(x) = f(x)`. It is denoted as `∫ f(x) dx = F(x) + C`, where `C` is the constant of integration. The constant `C` reflects the fact that there are infinitely many antiderivatives for a given function, each differing by a constant.
+An indefinite integral, in contrast to a definite integral, represents a family of functions and is essentially the antiderivative of a function. Given a function $`f(x)`$, its indefinite integral (or antiderivative) is a function $`F(x)`$ such that $`F'(x) = f(x)`$. It is denoted as $`∫ f(x) dx = F(x) + C`$, where $`C`$ is the constant of integration. The constant $`C`$ reflects the fact that there are infinitely many antiderivatives for a given function, each differing by a constant.
 
 Indefinite integrals are crucial in the process of solving differential equations and in finding formulas for areas and volumes.
 
@@ -281,9 +281,9 @@ Indefinite integrals are crucial in the process of solving differential equation
 
 The Fundamental Theorem of Calculus bridges the concepts of differentiation and integration and is divided into two parts:
 
-1. **First Part:** This part establishes that the process of differentiation and integration are inverse operations. If `F(x)` is the antiderivative of `f(x)`, then the definite integral of `f(x)` from `a` to `b` is given by `F(b) - F(a)`.
+1. **First Part:** This part establishes that the process of differentiation and integration are inverse operations. If $`F(x)`$ is the antiderivative of $`f(x)`$, then the definite integral of $`f(x)`$ from $`a`$ to $`b`$ is given by $`F(b) - F(a)`$.
 
-2. **Second Part:** This part states that if `f(x)` is a continuous function on an interval [a, b] and `F` is its antiderivative, then the function `G(x) = ∫_a^x f(t) dt` is continuous on [a, b], differentiable on (a, b), and `G'(x) = f(x)`.
+2. **Second Part:** This part states that if $`f(x)`$ is a continuous function on an interval [a, b] and $`F`$ is its antiderivative, then the function $`G(x) = ∫_a^x f(t) dt`$ is continuous on [a, b], differentiable on (a, b), and $`G'(x) = f(x)`$.
 
 The Fundamental Theorem of Calculus is a cornerstone in calculus as it provides a powerful connection between the derivative and the integral, allowing many complex problems in mathematics to be solved.
 
@@ -297,14 +297,14 @@ Integration techniques are essential tools in calculus, enabling the computation
 
 The substitution method, also known as u-substitution, is a technique used to simplify the process of finding an integral. It's particularly useful when dealing with integrals of composite functions.
 
-- **How It Works:** The basic idea is to substitute a part of the integral with a new variable (usually `u`), thereby simplifying the integral into a more manageable form. This substitution often involves identifying a function and its derivative within the integral.
+- **How It Works:** The basic idea is to substitute a part of the integral with a new variable (usually $`u`$), thereby simplifying the integral into a more manageable form. This substitution often involves identifying a function and its derivative within the integral.
 
 - **Process:**
-  1. Choose a substitution (`u = g(x)`) that simplifies the integral.
-  2. Express `dx` in terms of `du`.
-  3. Replace all occurrences of `x` with `u` in the integral.
-  4. Integrate with respect to `u`.
-  5. Substitute back to the original variable `x`.
+  1. Choose a substitution ($`u = g(x)`$) that simplifies the integral.
+  2. Express $`dx`$ in terms of $`du`$.
+  3. Replace all occurrences of $`x`$ with $`u`$ in the integral.
+  4. Integrate with respect to $`u`$.
+  5. Substitute back to the original variable $`x`$.
 
 This method is widely used for integrals involving products of functions where one function is the derivative of the other, or for transforming complex integrals into standard forms.
 
@@ -314,11 +314,11 @@ Integration by parts is a technique that derives from the product rule of differ
 
 - **Formula:** The formula for integration by parts is derived from the product rule and is given by:
 
-  \[ \int u \, dv = uv - \int v \, du \]
+  $`\int u \, dv = uv - \int v \, du`$
 
-  Here, `u` and `dv` are functions of `x`.
+  Here, $`u`$ and $`dv`$ are functions of $`x`$.
 
-- **Choosing `u` and `dv`:** A key part of this technique is choosing `u` and `dv` appropriately. A common strategy is to use the LIATE rule (Logarithmic, Inverse trigonometric, Algebraic, Trigonometric, Exponential) to decide which function to differentiate (`u`) and which to integrate (`dv`).
+- **Choosing $`u`$ and $`dv`$:** A key part of this technique is choosing $`u`$ and $`dv`$ appropriately. A common strategy is to use the LIATE rule (Logarithmic, Inverse trigonometric, Algebraic, Trigonometric, Exponential) to decide which function to differentiate ($`u`$) and which to integrate ($`dv`$).
 
 This method is particularly useful for integrals where the integrand is a product of two functions that are not easily integrated using basic formulas.
 
@@ -326,11 +326,11 @@ This method is particularly useful for integrals where the integrand is a produc
 
 Trigonometric integrals involve integrals of trigonometric functions. These can sometimes be straightforward but often require specific techniques.
 
-- **Basic Trigonometric Integrals:** Integrals of basic trigonometric functions like `sin(x)`, `cos(x)`, and `tan(x)` are directly found using standard formulas.
+- **Basic Trigonometric Integrals:** Integrals of basic trigonometric functions like $`sin(x)`$, $`cos(x)`$, and $`tan(x)`$ are directly found using standard formulas.
 
-- **Products of Sines and Cosines:** For integrals involving products like `sin(mx)cos(nx)`, `sin(mx)sin(nx)`, or `cos(mx)cos(nx)`, use trigonometric identities to simplify the integral into a more manageable form.
+- **Products of Sines and Cosines:** For integrals involving products like $`sin(mx)cos(nx)`$, $`sin(mx)sin(nx)`$, or $`cos(mx)cos(nx)`$, use trigonometric identities to simplify the integral into a more manageable form.
 
-- **Powers of Sine and Cosine:** When dealing with integrals like `sin^n(x)` or `cos^n(x)`, use reduction formulas or power-reducing formulas to simplify the integral. For odd powers, the substitution `u = cos(x)` or `u = sin(x)` often simplifies the integral.
+- **Powers of Sine and Cosine:** When dealing with integrals like $`sin^n(x)`$ or $`cos^n(x)`$, use reduction formulas or power-reducing formulas to simplify the integral. For odd powers, the substitution $`u = cos(x)`$ or $`u = sin(x)`$ often simplifies the integral.
 
 - **Use of Half-Angle and Double-Angle Formulas:** In some cases, applying half-angle or double-angle formulas can simplify the integrand significantly.
 
@@ -344,7 +344,7 @@ Integrals, a fundamental concept in calculus, have a wide array of applications 
 
 One of the primary applications of the definite integral is to compute the area under a curve.
 
-- **Basic Concept:** For a function `f(x)` that is continuous and non-negative on an interval `[a, b]`, the definite integral `\int_a^b f(x) dx` represents the area under the curve of `f(x)` from `x = a` to `x = b`.
+- **Basic Concept:** For a function $`f(x)`$ that is continuous and non-negative on an interval $`[a, b]`$, the definite integral $`\int_a^b f(x) dx`$ represents the area under the curve of $`f(x)`$ from $`x = a`$ to $`x = b`$.
 
 - **Negative Values:** If the function takes negative values, the integral computes the net area, which is the difference between the areas above and below the x-axis.
 
@@ -354,7 +354,7 @@ This application is crucial in various fields, such as physics (for calculating 
 
 Integrals can be used to calculate the volume of a solid of revolution - a solid formed by revolving a region around a line (the axis of revolution).
 
-- **Disk Method:** When the region between the curve `y = f(x)` and the x-axis is revolved around the x-axis, the volume of the resulting solid can be calculated using the disk method. The formula for the volume is `\int_a^b π[f(x)]^2 dx`.
+- **Disk Method:** When the region between the curve $`y = f(x)`$ and the x-axis is revolved around the x-axis, the volume of the resulting solid can be calculated using the disk method. The formula for the volume is $`\int_a^b π[f(x)]^2 dx`$.
 
 - **Shell Method:** If the region is revolved around a line other than the x-axis, the shell method is often more convenient. It involves integrating the circumferences of cylindrical shells that make up the solid.
 
@@ -364,9 +364,9 @@ These techniques are widely used in engineering and design for calculating volum
 
 The integral is also used to find the average value of a continuous function over an interval.
 
-- **Formula:** The average value of a function `f(x)` over the interval `[a, b]` is given by `\frac{1}{b - a} \int_a^b f(x) dx`.
+- **Formula:** The average value of a function $`f(x)`$ over the interval $`[a, b]`$ is given by $`\frac{1}{b - a} \int_a^b f(x) dx`$.
 
-- **Interpretation:** This average value can be interpreted as the height of a rectangle with the same base `[a, b]` and the same area under the curve over that interval.
+- **Interpretation:** This average value can be interpreted as the height of a rectangle with the same base $`[a, b]`$ and the same area under the curve over that interval.
 
 The concept of an average value of a function is useful in various real-world scenarios, such as finding the average temperature over a day, the average energy consumption in a process, or the average concentration of a substance in a mixture.
 
@@ -380,9 +380,9 @@ Integrals extend far beyond calculating areas under curves and volumes of solids
 
 The integral can be used to find the length of a curve, a concept known as arc length. This application is especially useful in geometry and physics.
 
-- **Arc Length Formula:** For a curve given by `y = f(x)` that is continuous and differentiable on `[a, b]`, the length of the curve from `x = a` to `x = b` is given by the integral
+- **Arc Length Formula:** For a curve given by $`y = f(x)`$ that is continuous and differentiable on $`[a, b]`$, the length of the curve from $`x = a`$ to $`x = b`$ is given by the integral
 
-  \[ L = \int_a^b \sqrt{1 + [f'(x)]^2} \, dx \]
+  $`L = \int_a^b \sqrt{1 + [f'(x)]^2} \, dx`$
 
 - **Parametric and Polar Curves:** The arc length formula can also be extended to curves defined parametrically or in polar coordinates, with the integral adjusted to accommodate these forms.
 
@@ -392,9 +392,9 @@ This technique is used in engineering for designing roads or bridges with specif
 
 Integrals are also used in calculating the surface area of a solid of revolution. This application is vital in engineering, architecture, and design.
 
-- **Surface Area Formula:** The surface area of a solid formed by revolving a curve `y = f(x)` around the x-axis from `x = a` to `x = b` is given by
+- **Surface Area Formula:** The surface area of a solid formed by revolving a curve $`y = f(x)`$ around the x-axis from $`x = a`$ to $`x = b`$ is given by
 
-  \[ SA = 2\pi \int_a^b f(x) \sqrt{1 + [f'(x)]^2} \, dx \]
+  $`SA = 2\pi \int_a^b f(x) \sqrt{1 + [f'(x)]^2} \, dx`$
 
 - **Generalizations:** Similar to arc length, this formula can be adapted for surfaces generated around different axes and for curves defined parametrically or in polar coordinates.
 
@@ -420,15 +420,15 @@ In mathematics, particularly in calculus and analysis, sequences and series are 
 
 ### Understanding Sequences
 
-A sequence is an ordered list of numbers, typically defined by a specific rule or formula. Each number in the sequence is called a term. For example, the sequence defined by the rule `a_n = 1/n` for `n = 1, 2, 3, ...` is the sequence `1, 1/2, 1/3, 1/4, ...`.
+A sequence is an ordered list of numbers, typically defined by a specific rule or formula. Each number in the sequence is called a term. For example, the sequence defined by the rule $`a_n = 1/n`$ for $`n = 1, 2, 3, ...`$ is the sequence $`1, 1/2, 1/3, 1/4, ...`$.
 
 - **Types of Sequences:** There are various types of sequences, such as arithmetic sequences (where each term is obtained by adding a fixed number to the previous term) and geometric sequences (where each term is obtained by multiplying the previous term by a fixed number).
 
-- **Behavior of Sequences:** The behavior of sequences, especially as `n` becomes very large (approaches infinity), is a key area of study. A sequence may converge to a limit, diverge, oscillate, or behave irregularly as `n` increases.
+- **Behavior of Sequences:** The behavior of sequences, especially as $`n`$ becomes very large (approaches infinity), is a key area of study. A sequence may converge to a limit, diverge, oscillate, or behave irregularly as $`n`$ increases.
 
 ### Infinite Series
 
-An infinite series is the sum of the terms of an infinite sequence. It is written in the form `a_1 + a_2 + a_3 + ...`, where `a_1, a_2, a_3, ...` are the terms of the sequence.
+An infinite series is the sum of the terms of an infinite sequence. It is written in the form $`a_1 + a_2 + a_3 + ...`$, where $`a_1, a_2, a_3, ...`$ are the terms of the sequence.
 
 - **Convergence and Divergence:** An important aspect of infinite series is whether they converge (i.e., have a finite sum) or diverge (i.e., do not sum to a finite value).
 
@@ -438,11 +438,11 @@ An infinite series is the sum of the terms of an infinite sequence. It is writte
 
 Several tests are used to determine whether an infinite series converges or diverges:
 
-1. **N-th Term Test for Divergence:** If the limit of `a_n` as `n` approaches infinity is not zero, then the series `∑a_n` diverges.
+1. **N-th Term Test for Divergence:** If the limit of $`a_n`$ as $`n`$ approaches infinity is not zero, then the series $`∑a_n`$ diverges.
 
 2. **Geometric Series Test:** A geometric series converges if the absolute value of the common ratio is less than 1; otherwise, it diverges.
 
-3. **P-Series Test:** A series of the form `∑1/n^p` converges if `p > 1` and diverges if `p ≤ 1`.
+3. **P-Series Test:** A series of the form $`∑1/n^p`$ converges if $`p > 1`$ and diverges if $`p ≤ 1`$.
 
 4. **Comparison Test:** This involves comparing the series with another series whose convergence is known.
 
@@ -460,27 +460,27 @@ Power series and Taylor series are important concepts in calculus and mathematic
 
 A power series is an infinite series of the form:
 
-\[ \sum_{n=0}^{\infty} a_n (x - c)^n \]
+$`\sum_{n=0}^{\infty} a_n (x - c)^n`$
 
-where `a_n` represents the coefficients of the series, `x` is the variable, and `c` is the center of the series. The power series converges within a certain radius of convergence around the point `x = c`.
+where $`a_n`$ represents the coefficients of the series, $`x`$ is the variable, and $`c`$ is the center of the series. The power series converges within a certain radius of convergence around the point $`x = c`$.
 
-- **Convergence:** The series converges if the sum of its terms approaches a finite value as `n` tends to infinity. The interval of convergence is the set of values of `x` for which the series converges.
+- **Convergence:** The series converges if the sum of its terms approaches a finite value as $`n`$ tends to infinity. The interval of convergence is the set of values of $`x`$ for which the series converges.
 
-- **Function Representation:** A function can often be represented by a power series in some interval around `c`. This representation is particularly useful for functions that are difficult to compute otherwise.
+- **Function Representation:** A function can often be represented by a power series in some interval around $`c`$. This representation is particularly useful for functions that are difficult to compute otherwise.
 
 ### Taylor and Maclaurin Series
 
 The Taylor series is a specific type of power series used to approximate functions.
 
-- **Taylor Series:** Given a function `f(x)` that is infinitely differentiable at a point `a`, the Taylor series of `f(x)` around `a` is given by:
+- **Taylor Series:** Given a function $`f(x)`$ that is infinitely differentiable at a point $`a`$, the Taylor series of $`f(x)`$ around $`a`$ is given by:
 
-  \[ f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x - a)^n \]
+  $`f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x - a)^n`$
 
-  Here, `f^{(n)}(a)` is the `n`-th derivative of `f` evaluated at `a`, and `n!` denotes `n` factorial.
+  Here, $`f^{(n)}(a)`$ is the $`n`$-th derivative of $`f`$ evaluated at $`a`$, and $`n!`$ denotes $`n`$ factorial.
 
-- **Maclaurin Series:** A special case of the Taylor series is the Maclaurin series, which is the Taylor series centered at `a = 0`:
+- **Maclaurin Series:** A special case of the Taylor series is the Maclaurin series, which is the Taylor series centered at $`a = 0`$:
 
-  \[ f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!} x^n \]
+  $`f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!} x^n`$
 
 - **Polynomial Approximation:** Both Taylor and Maclaurin series can be used to approximate complex functions with a polynomial of a finite degree, providing a simpler form for calculation and analysis.
 
@@ -506,7 +506,7 @@ Multivariable calculus extends the concepts of single-variable calculus (like de
 
 ### Functions of Several Variables
 
-In multivariable calculus, we deal with functions that have more than one input variable. These are known as functions of several variables and are typically written as `f(x, y)`, `f(x, y, z)`, etc.
+In multivariable calculus, we deal with functions that have more than one input variable. These are known as functions of several variables and are typically written as $`f(x, y)`$, $`f(x, y, z)`$, etc.
 
 - **Graphical Representation:** While a single-variable function can be graphed on a two-dimensional plane, a function of two variables requires three dimensions, with the output represented on the third axis. Functions of more than two variables cannot be fully visualized in three-dimensional space but can be understood conceptually or through level sets or contours.
 
@@ -516,9 +516,9 @@ In multivariable calculus, we deal with functions that have more than one input 
 
 Partial derivatives extend the concept of derivatives to functions of several variables.
 
-- **Definition:** The partial derivative of a function with respect to one of its variables is its derivative with respect to that variable, keeping the other variables constant. In notation, the partial derivative of `f(x, y)` with respect to `x` is written as `∂f/∂x`.
+- **Definition:** The partial derivative of a function with respect to one of its variables is its derivative with respect to that variable, keeping the other variables constant. In notation, the partial derivative of $`f(x, y)`$ with respect to $`x`$ is written as $`∂f/∂x`$.
 
-- **Interpretation:** `∂f/∂x` represents the rate of change of the function `f` with respect to changes in `x`, while keeping `y` constant. It's akin to slicing the function at a constant `y` value and analyzing the resulting single-variable function.
+- **Interpretation:** $`∂f/∂x`$ represents the rate of change of the function $`f`$ with respect to changes in $`x`$, while keeping $`y`$ constant. It's akin to slicing the function at a constant $`y`$ value and analyzing the resulting single-variable function.
 
 - **Higher-Order Partial Derivatives:** Just as with single-variable calculus, one can take higher-order partial derivatives. These can be mixed (involving partial derivatives with respect to different variables) or pure (involving partial derivatives with respect to the same variable).
 
@@ -526,7 +526,7 @@ Partial derivatives extend the concept of derivatives to functions of several va
 
 Multiple integrals generalize the concept of integration to functions of several variables.
 
-- **Double and Triple Integrals:** For functions of two variables, `f(x, y)`, the double integral is written as `∫∫f(x, y)dxdy`, and for functions of three variables, `f(x, y, z)`, the triple integral is `∫∫∫f(x, y, z)dxdydz`. These integrals represent the accumulation of values over a two-dimensional or three-dimensional region, respectively.
+- **Double and Triple Integrals:** For functions of two variables, $`f(x, y)`$, the double integral is written as $`∫∫f(x, y)dxdy`$, and for functions of three variables, $`f(x, y, z)`$, the triple integral is $`∫∫∫f(x, y, z)dxdydz`$. These integrals represent the accumulation of values over a two-dimensional or three-dimensional region, respectively.
 
 - **Applications:** Multiple integrals are used to calculate volumes, mass, center of mass, and other quantities over areas and volumes in space. They are essential in physics for calculating electric and gravitational fields, in engineering for assessing stresses and strains, and in economics for multivariate integrals over different market variables.
 
@@ -541,9 +541,9 @@ Advanced multivariable calculus delves deeper into the analysis of functions in 
 Vector calculus extends the ideas of calculus to vector fields. A vector field is a function that assigns a vector to each point in space. This field is crucial in physics, where it's used to represent various physical quantities, such as gravitational, electric, and magnetic fields.
 
 - **Gradient, Divergence, and Curl:** Key operations in vector calculus include:
-  - **Gradient** (`grad` or `∇f`): Measures the rate and direction of change in a scalar field. The gradient of a scalar function is a vector field.
-  - **Divergence** (`div` or `∇·F`): A measure of a vector field's tendency to originate from or converge into a point. It’s a scalar function of a vector field.
-  - **Curl** (`curl` or `∇×F`): Represents the rotation or swirling strength of a vector field. It’s a vector function of a vector field.
+  - **Gradient** ($`grad`$ or $`∇f`$): Measures the rate and direction of change in a scalar field. The gradient of a scalar function is a vector field.
+  - **Divergence** ($`div`$ or $`∇·F`$): A measure of a vector field's tendency to originate from or converge into a point. It’s a scalar function of a vector field.
+  - **Curl** ($`curl`$ or $`∇×F`$): Represents the rotation or swirling strength of a vector field. It’s a vector function of a vector field.
 
 ### Line and Surface Integrals
 
