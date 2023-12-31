@@ -18,6 +18,7 @@
 * Autriche - Austria
 
 ## B
+* Benoît - Benedict (name)
 * Berlin - Berlin
 * Bernard - Bernard (name)
 * Bretagne - Brittany
@@ -321,7 +322,6 @@
 * belle - beautiful (feminine singular)
 * ben - well (colloquial)
 * benjamin - youngest child, Benjamin (name)
-* benoît - Benedict (name)
 * besoin - need
 * bibliothèque - library
 * bien - well, good
