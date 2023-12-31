@@ -68,6 +68,7 @@ Outlines written by ChatGPT on various subjects.
 ## Language
   * [English Grammar](language/english_grammar.md)
   * [Esperanto Grammar](language/esperanto_grammar.md)
+  * [Esperanto Vocabulary](language/esperanto_vocabulary.md)
   * [French Grammar](language/french_grammar.md)
   * [German Grammar](language/german_grammar.md)
   * [Italian Grammar](language/italian_grammar.md)
