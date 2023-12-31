@@ -50,7 +50,6 @@
 ## H
 * Hamburgo - Hamburg
 * Henriko - Henry
-* Here are the Esperanto words along with their English translations:
 * Hindio - India
 * Hispanio - Spain
 * Hungario - Hungary
