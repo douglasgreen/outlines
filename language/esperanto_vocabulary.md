@@ -1,3 +1,4 @@
+# Esperanto Vocabulary
 
 ## A
 * Afriko - Africa
@@ -151,7 +152,7 @@
 * Zamenhof - Zamenhof (the creator of Esperanto)
 * Zuriko - Zurich
 
-## A
+## a
 * abatejo - abbey
 * acida - acidic
 * acido - acid
@@ -314,7 +315,7 @@
 * aŭtoro - author
 * aŭtovojo - highway
 
-## B
+## b
 * baldaŭ - soon
 * baloto - vote, ballot
 * bando - band
@@ -358,7 +359,7 @@
 * bulo - fraudster, scammer
 * burgo - town, borough
 
-## C
+## c
 * celi - to aim, to target
 * celo - goal, objective
 * censo - census
@@ -379,7 +380,7 @@
 * civitano - citizen
 * co - company
 
-## D
+## d
 * da - (preposition indicating quantity)
 * dana - Danish
 * danco - dance
@@ -471,7 +472,7 @@
 * duoninsulo - peninsula
 * duono - half
 
-## E
+## e
 * ebenaĵo - plane, flat surface
 * ebla - possible
 * eble - possibly, maybe
@@ -592,7 +593,7 @@
 * eĉ - even
 * eŭropa - European
 
-## F
+## f
 * fabriko - factory
 * facile - easily
 * fajro - fire
@@ -698,7 +699,7 @@
 * futbalo - football (soccer)
 * fuĝi - to escape
 
-## G
+## g
 * gajni - to win, to earn
 * galaksio - galaxy
 * gamo - game (as in a set of games)
@@ -742,7 +743,7 @@
 * gvidi - to guide
 * gvido - guide
 
-## H
+## h
 * halo - halo
 * havaĵo - possession
 * haveno - haven, harbor
@@ -784,7 +785,7 @@
 * hungare - in Hungarian
 * hungaro - Hungarian
 
-## I
+## i
 * ia - some
 * iam - sometime, at some time
 * iama - former, erstwhile
@@ -854,7 +855,7 @@
 * iu - someone, someone (indefinite pronoun)
 * iĝi - to become
 
-## J
+## j
 * ja - indeed, certainly
 * jam - already
 * januaro - January
@@ -882,7 +883,7 @@
 * juro - oath, pledge
 * juĝisto - judge
 
-## K
+## k
 * kadro - frame, cadre
 * kaj - and
 * kalendaro - calendar
@@ -1085,7 +1086,7 @@
 * kvin - five
 * kvina - fifth
 
-## L
+## l
 * la - the
 * laboratorio - laboratory
 * labori - to work
@@ -1159,7 +1160,7 @@
 * luno - moon
 * luterana - Lutheran
 
-## M
+## m
 * majo - May
 * majstro - master
 * malalta - low, short
@@ -1322,7 +1323,7 @@
 * muzikisto - musician
 * muziko - music
 
-## N
+## n
 * na - our
 * nacia - national
 * nacio - nation
@@ -1389,7 +1390,7 @@
 * nura - only
 * nutraĵo - food
 
-## O
+## o
 * objekto - object
 * observatorio - observatory
 * oceano - ocean
@@ -1450,7 +1451,7 @@
 * ortodoksa - Orthodox
 * ovo - egg
 
-## P
+## p
 * paca - peaceful
 * paco - peace
 * pagi - to pay
@@ -1634,7 +1635,7 @@
 * punkto - point
 * pura - pure
 
-## R
+## r
 * radiko - root
 * radio - radio
 * rajti - to be right, to have the right
@@ -1728,7 +1729,7 @@
 * ruse - in Russian
 * ruĝa - red
 
-## S
+## s
 * salo - living room
 * sama - same
 * same - same
@@ -1897,7 +1898,7 @@
 * sveda - Swedish
 * svisa - Swiss
 
-## T
+## t
 * tabelo - table
 * tago - day
 * taksi - to taxi, to take a taxi
@@ -1999,7 +2000,7 @@
 * tutmonde - worldwide
 * tuto - whole
 
-## U
+## u
 * unika - unique
 * unio - union
 * universala - universal
@@ -2030,7 +2031,7 @@
 * uzita - used
 * uzo - use
 
-## V
+## v
 * valo - valley
 * valora - valuable
 * valoro - value
@@ -2103,7 +2104,7 @@
 * vosto - tail
 * voĉo - voice
 
-## Z
+## z
 * zono - zone
 * zorgi - to care
 
@@ -2112,6 +2113,8 @@
 * Ĉeĥoslovakio - Czechoslovakia
 * Ĉilio - Chile
 * Ĉinio - China
+
+## ĉ
 * ĉambro - room
 * ĉapitro - chapter
 * ĉar - because
@@ -2145,6 +2148,8 @@
 
 ## Ĝ
 * Ĝenevo - Geneva
+
+## ĝ
 * ĝardeno - garden
 * ĝenerala - general
 * ĝenerale - generally
@@ -2156,13 +2161,13 @@
 * ĝusta - correct
 * ĝuste - exactly, correctly
 
-## Ĵ
+## ĵ
 * ĵazo - jazz
 * ĵurnalisto - journalist
 * ĵurnalo - journal
 * ĵus - just, recently
 
-## Ŝ
+## ŝ
 * ŝablono - template
 * ŝafo - sheep
 * ŝajne - seemingly, apparently
