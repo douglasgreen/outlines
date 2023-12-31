@@ -20,6 +20,9 @@ Outlines written by ChatGPT on various subjects.
 ### Artificial Intelligence
   * [Artificial Intelligence](computing/artificial_intelligence/artificial_intelligence.md)
 
+### Computer Networking
+  * [Internet Security](computing/computer_networking/internet_security.md)
+
 ### Computer Programming
   * [Code Reviews](computing/computer_programming/code_reviews.md)
   * [Programming Paradigms](computing/computer_programming/programming_paradigms.md)
