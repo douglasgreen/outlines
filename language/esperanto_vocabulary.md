@@ -1,4 +1,3 @@
-[[toc]]
 # Esperanto Vocabulary
 
 ## A
