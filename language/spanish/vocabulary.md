@@ -3,32 +3,41 @@
 ## A
 * Alemania - Germany
 * América - America
+* Andalucía - Andalusia
 * Aragón - Aragon (region in Spain)
 * Asia - Asia
 * Australia - Australia
 * Austria - Austria
 
 ## B
+* Bogotá - Bogotá
 * Bolivia - Bolivia
+* Bélgica - Belgium
 
 ## C
 * Canadá - Canada
 * Castilla - Castile (region in Spain)
 * Cataluña - Catalonia
+* Catalán - Catalan
+* Chicago - Chicago
 * Colombia - Colombia
+* Congo - Congo
 
 ## E
+* Egipto - Egypt
 * España - Spain
 * Europa - Europe
 
 ## F
+* Filipinas - Philippines
 * Francia - France
 
 ## G
+* Grecia - Greece
 * Guatemala - Guatemala
 
 ## H
-* Here are the translations for the Spanish words:
+* Honduras - Honduras
 
 ## I
 * Inglaterra - England
@@ -42,9 +51,11 @@
 * Londres - London
 
 ## M
+* Moscú - Moscow
 * México - Mexico
 
 ## P
+* París - Paris
 * Perú - Peru
 * Polonia - Poland
 * Portugal - Portugal
@@ -54,6 +65,7 @@
 
 ## S
 * Sevilla - Seville (city in Spain)
+* Suecia - Sweden
 
 ## T
 * Texas - Texas
@@ -72,24 +84,27 @@
 
 ## a
 * a - to, at
-* abajo - down, below
-* abarca - covers (from the verb 'abarcar')
+* abajo - down, belo
+* abarcar - to cover
 * abc - abc
 * abierta - open (feminine)
 * abierto - open
 * abogado - lawyer
 * abril - April
+* abrir - to open
 * academia - academy
 * académico - academic
 * acceso - access
 * accidente - accident
-* acciones - actions
 * acción - action
+* aceite - oil
 * acerca - about
 * acero - steel
+* acompañar - to accompany
 * activa - active (feminine)
 * actividad - activity
 * activo - active
+* acto - act
 * acto - act, event
 * actor - actor
 * actriz - actress
@@ -99,47 +114,50 @@
 * actualmente - currently
 * acuerdo - agreement
 * acusado - accused
+* adaptación - adaptation
+* adecuado - adequate, suitable
 * adelante - forward
 * además - besides, in addition
 * administración - administration
-* adultos - adults
+* adulto - adult
 * aeropuerto - airport
-* aficionados - fans, enthusiasts
-* afroamericanos - African Americans
+* aficionado - fan, enthusiast
+* afroamericano - African American
 * agencia - agency
 * agosto - August
 * agricultura - agriculture
+* agrícola - agricultural
 * agua - water
-* aguas - waters
 * ahora - now
 * ahí - there
 * aire - air
-* aires - airs
-* ajustando - adjusting (from the verb 'ajustar')
+* ajustar - to adjust
 * al - to the (contraction of a + el)
 * ala - wing
 * alba - dawn
 * alcalde - mayor
 * alcance - reach, scope
 * alcanzar - to reach
-* alcanzó - reached (from the verb 'alcanzar')
+* alegre - happy
 * alemana - German (feminine)
-* alemanes - Germans
 * alemán - German
 * algo - something
 * alguien - someone
 * alguno - some, any
 * algún - some, any
-* aliados - allies
 * alianza - alliance
+* aliar - to join, to ally
+* allá - over there
 * allí - there
 * alma - soul
 * alrededor - around
 * alta - high (feminine)
+* altar - altar
 * alternativa - alternative
+* altitud - altitude
 * alto - high, tall
-* altos - high (plural)
 * altura - height, altitude
+* alumnado - student body
 * amarillo - yellow
 * ambas - both (feminine)
 * ambiente - environment
@@ -147,30 +165,31 @@
 * amenaza - threat
 * americana - American (feminine)
 * americano - American (masculine)
+* amiga - friend (feminine)
 * amigo - friend
 * amistad - friendship
+* amistoso - friendly
 * amor - love
+* amplia - wide, broad (feminine)
 * ancho - wide
+* andes - Andes
 * anexo - annex, attachment
+* anillo - ring
 * animal - animal
-* animales - animals
 * anime - anime (Japanese animation)
 * ante - before, in front of
 * anterior - previous, former
-* anteriores - previous (plural)
 * anteriormente - previously
 * antes - before
 * antigua - old, ancient (feminine)
-* antiguas - old, ancient (feminine plural)
 * antiguo - old, ancient
 * antigüedad - antiquity
-* anunció - announced (from the verb 'anunciar')
+* anual - annual
+* anunciar - to announce
 * análisis - analysis
-* aparece - appears (from the verb 'aparecer')
-* aparecen - appear (from the verb 'aparecer')
-* aparecido - appeared (from the verb 'aparecer')
-* apareció - appeared (from the verb 'aparecer')
+* aparecer - to appear
 * aparición - appearance
+* apartado - section, apart
 * aparte - apart, aside
 * apellido - surname
 * apenas - barely, hardly
@@ -182,66 +201,74 @@
 * aquellos - those
 * aquí - here
 * archivo - file, archive
+* arco - arch, bow
 * arena - sand, arena
 * argentina - Argentine
 * argentino - Argentine
+* argentinos - Argentines
 * argumento - argument, plot
-* arma - weapon
+* arma - weapon, arm
 * armada - navy, armed
-* armadas - armed (plural feminine), armed forces
-* armas - arms, weapons
 * armenia - Armenia, Armenian (feminine)
+* arquitecto - architect
 * arquitectura - architecture
-* arreglando - fixing, arranging (from the verb 'arreglar')
+* arreglar - to fix, to arrange
 * arreglo - arrangement, agreement
 * arriba - up, above
 * arroyo - stream, brook
 * arte - art
-* artes - arts
 * artista - artist
-* artistas - artists
 * artículo - article
-* artículos - articles
+* artístico - artistic
 * asalto - assault
 * asamblea - assembly
 * ascenso - promotion, ascent
 * asesinado - assassinated
+* asesinato - assassination
 * asesino - assassin, murderer
+* asignar - to assign
 * asimismo - likewise, also
 * asiático - Asian
 * asociación - association
-* asteroides - asteroids
+* aspecto - aspect
+* aspecto - aspect, appearance
+* asteroide - asteroid
 * asunción - assumption, Asuncion (capital of Paraguay)
-* asuntos - matters, affairs
+* asunto - matter, affair
 * así - like that, so
 * ataque - attack
 * atención - attention
+* atentado - attack, attempted
+* atlas - atlas
 * atlántico - Atlantic
 * atlético - athletic
 * atrás - back, behind
 * audiencia - audience, hearing
-* augusto - august, Augusto (proper name)
+* augusto - august
 * aumento - increase
+* aun - even, still
 * aunque - although
 * autor - author
-* autores - authors
-* autoridades - authorities
+* autoridad - authority
 * autónoma - autonomous
 * avance - advance, progress
+* avanzada - advanced (feminine)
 * ave - bird
 * avenida - avenue
+* aventura - adventure
 * aviso - warning, notice
 * avión - airplane
 * ayuda - help, aid
+* ayudar - to help
 * ayuntamiento - town hall, municipality
 * azul - blue
 * aérea - aerial, air
-* añadiendo - adding (from the verb 'añadir')
+* añadir - to add
 * año - year
-* años - years
 * aún - still, yet
 
 ## b
+* bahía - bay
 * baile - dance
 * baja - low (feminine)
 * bajo - under, low
@@ -250,15 +277,14 @@
 * banda - band, strip
 * bandera - flag
 * bar - bar
+* barco - boat, ship
 * barrio - neighborhood
-* barrios - neighborhoods
-* basa - bases (from the verb 'basar')
-* basada - based (feminine)
-* basado - based (from the verb 'basar')
+* basar - to base
 * base - base
-* bases - bases
 * bastante - quite, enough
 * batalla - battle
+* bautista - Baptist
+* bello - beautiful
 * berlín - Berlin
 * biblioteca - library
 * bien - well, good
@@ -268,28 +294,36 @@
 * blanco - white
 * bloque - block
 * bloqueo - blockade
+* boca - mouth
+* bohemia - bohemian
 * bolívar - bolivar (currency or Simon Bolivar)
 * bomba - bomb
 * borde - edge, border
-* borrado - erased (from the verb 'borrar')
+* bordo - board (as in "on board")
+* borrar - to erase
+* bosnia - Bosnian (feminine)
+* bosque - forest
 * botánico - botanical
 * brasil - Brazil
 * brasileño - Brazilian
+* bravo - brave, wild
 * breve - brief
+* brillante - brilliant
 * británica - British (feminine)
 * británico - British
 * bronce - bronze
 * buen - good (masculine, short form of "bueno")
 * buena - good (feminine)
-* buenas - good (feminine plural)
 * bueno - good
 * burgos - Burgos (city in Spain)
-* busca - search (from the verb 'buscar')
-* bélgica - Belgium
+* buscar - to look for, to search
+* buscar - to search
+* bárbara - barbaric
+* búsqueda - search
 
 ## c
 * caballero - gentleman, knight
-* cabe - fits, it is the head of (from the verb 'caber')
+* caber - to fit
 * cabeza - head
 * cabo - end, cape
 * cada - each, every
@@ -298,27 +332,20 @@
 * calidad - quality
 * california - California
 * calle - street
-* calles - streets
-* cambiado - changed (from the verb 'cambiar')
 * cambiar - to change
 * cambio - change
-* cambios - changes
-* cambió - changed (from the verb 'cambiar')
 * camino - path, way
 * campaña - campaign
 * campeonato - championship
-* campeones - champions
 * campeón - champion
 * campo - field, countryside
-* campos - fields
 * canadiense - Canadian
 * canal - channel, canal
-* canales - channels
 * canarias - Canary Islands
-* canciones - songs
 * canción - song
 * candidato - candidate
 * cantante - singer
+* cantidad - quantity
 * cantidad - quantity, amount
 * canto - song, singing
 * cantón - canton
@@ -328,122 +355,123 @@
 * capilla - chapel
 * capital - capital
 * capitán - captain
+* captura - capture
 * capítulo - chapter
 * cara - face
-* caracteres - characters
 * característica - characteristic
-* características - characteristics
+* carbono - carbon
 * carga - load, charge
 * cargo - charge, position
 * caribe - Caribbean
 * carrera - career, race
-* carreras - races, careers
 * carretera - road, highway
-* carreteras - highways
 * carta - letter, card
 * carácter - character
 * casa - house
-* casada - married (feminine)
-* casado - married
-* casas - houses
+* casar - to marry
 * casco - helmet, hull
 * casi - almost
 * caso - case
-* casos - cases
 * castellano - Castilian, Spanish
 * castillo - castle
-* casó - married (from the verb 'casar')
-* catalán - Catalan
+* catalana - Catalan (feminine)
 * catedral - cathedral
 * categoría - category
-* categorías - categories
 * católica - Catholic (feminine)
 * católico - Catholic
-* católicos - Catholics
 * causa - cause, reason
 * caza - hunting
 * caída - fall
 * cañón - canyon, cannon
+* celebrar - to celebrate
 * censo - census
 * central - central
 * centro - center
-* centros - centers
 * cerca - near, close
 * cero - zero
 * cerrado - closed
+* cerro - hill
+* certificado - certificate, certified
+* cerámica - ceramics
+* cesar - to stop, to cease
 * checa - Czech, check (slang)
 * chica - girl
 * chico - boy, small
 * chile - Chile (country) or chili (pepper)
 * chilena - Chilean (feminine)
 * chileno - Chilean
-* china - China (country)
+* china - China (country) or china (porcelain)
 * chino - Chinese
+* ciclista - cyclist
 * ciencia - science
-* ciencias - sciences
+* ciento - hundred
 * científica - scientific (feminine)
+* científicamente - scientifically
 * científico - scientist, scientific
-* científicos - scientists
 * cierre - closure, lock
 * cierto - certain, true
 * cinco - five
 * cine - cinema
 * circular - circular, to circulate
-* circunstancias - circumstances
+* circunstancia - circumstance
 * cita - quote, appointment
+* citado - cited, quoted
 * ciudad - city
-* ciudadanos - citizens
-* ciudades - cities
+* ciudadano - citizen
 * civil - civil
 * clara - clear (feminine)
 * claro - clear, of course
 * clase - class
-* clases - classes
 * clasificación - classification
+* clasificar - to classify
+* clausura - closure, closing
 * clave - key, crucial
 * clima - climate
 * club - club
-* clubes - clubs
 * clásico - classic
 * cocina - kitchen
 * cola - tail, queue
 * colaboración - collaboration
 * colección - collection
 * colegio - school, college
+* colombiana - Colombian (feminine)
 * colombiano - Colombian
 * colonia - colony
 * color - color
-* colorado - colored, Colorado
-* colores - colors
+* colorar - to color
+* colón - colon, Columbus
 * comandante - commander
+* comando - command
+* comarca - region, district
 * combate - combat
+* combinar - to combine
 * combustible - fuel
-* comenzaron - began (from the verb 'comenzar')
-* comenzó - began (from the verb 'comenzar')
+* comedia - comedy
+* comentario - comment
+* comenzar - to begin
 * comercial - commercial
-* comerciales - commercial (plural)
 * comercio - commerce, trade
 * comida - food
-* comienza - begins (from the verb 'comenzar')
 * comienzo - beginning
 * comisión - commission
 * comité - committee
 * como - like, as
+* compañero - companion, partner
 * compañía - company
 * competencia - competition
 * competición - competition
+* competir - to compete
 * complejo - complex
 * completa - complete (feminine)
 * completamente - completely
 * completo - complete
-* componentes - components
+* componente - component
 * composición - composition
 * compositor - composer
 * compra - purchase
 * compuesta - composed (feminine)
 * compuesto - compound, composed
 * comuna - commune
-* comunes - common (plural)
 * comunicación - communication
 * comunidad - community
 * comunista - communist
@@ -451,95 +479,81 @@
 * con - with
 * concepción - conception
 * concepto - concept
+* conciencia - consciousness, awareness
 * concierto - concert
 * concreto - concrete, specific
 * concurso - contest
 * condado - county
 * conde - count (noble title)
-* condiciones - conditions
+* condición - condition
 * conferencia - conference
 * conflicto - conflict
 * conforme - in accordance, as
 * congreso - congress
 * conjunto - set, ensemble
-* conoce - knows (from the verb 'conocer')
 * conocer - to know
-* conocida - known (feminine)
-* conocidas - known (feminine plural)
-* conocido - known (from the verb 'conocer')
 * conocimiento - knowledge
 * conquista - conquest
 * consecuencia - consequence
+* conseguir - to achieve, to get
+* conseguir - to obtain, to achieve
 * consejo - council, advice
-* conserva - preserves, keeps (from the verb 'conservar')
-* considera - considers (from the verb 'considerar')
-* considerada - considered (feminine)
-* considerado - considered (from the verb 'considerar')
-* consiguió - obtained, achieved (from the verb 'conseguir')
+* conservador - conservative (masculine)
+* conservar - to preserve, to keep
+* considerar - to consider
+* consistir - to consist
 * constante - constant
 * constitución - constitution
 * construcción - construction
-* construida - built (feminine)
-* construido - built (from the verb 'construir')
 * construir - to build
 * consulta - consultation, query
-* consultado - consulted
+* consultar - to consult
 * consumo - consumption
-* contaba - counted, had (from the verb 'contar')
 * contacto - contact
-* contenido - content
-* contenidos - contents
-* contiene - contains (from the verb 'contener')
+* contar - to count
+* contener - to contain
+* contexto - context
 * continuación - continuation
-* continuó - continued (from the verb 'continuar')
+* continuar - to continue
 * contra - against
 * contrario - opposite, contrary
 * contrato - contract
 * control - control
-* convertido - converted (from the verb 'convertir')
-* convierte - converts (from the verb 'convertir')
-* convirtió - converted (from the verb 'convertir')
-* coordenadas - coordinates
+* convento - convent
+* convertir - to convert
+* convertirse - to become
+* coordenada - coordinate
 * copa - cup, trophy
-* copias - copies
+* copia - copy
 * corazón - heart
 * cordillera - mountain range
 * corea - Korea
 * corona - crown
 * coronel - colonel
 * corrección - correction
-* corresponden - correspond (from the verb 'corresponder')
+* corresponder - to correspond
 * corriente - current, stream
-* corrientes - currents, common
 * corta - short (feminine)
 * corte - court, cut
-* cortes - cuts, courts
 * corto - short
+* cortés - courteous
 * cosa - thing
-* cosas - things
 * costa - coast
 * creación - creation
 * creada - created (feminine)
-* creado - created (from the verb 'crear')
-* creando - creating (from the verb 'crear')
 * crear - to create
+* creciente - growing, crescent
 * crecimiento - growth
-* cree - believes (from the verb 'creer')
-* creo - I believe (from the verb 'creer')
-* creó - created (from the verb 'crear')
+* creer - to believe
 * crisis - crisis
 * cristiana - Christian (feminine)
 * cristiano - Christian
-* cristianos - Christians
 * cristo - Christ
-* cruces - crosses
 * cruz - cross
 * crítica - criticism, review
-* críticas - criticisms
 * crítico - critic, critical
-* críticos - critics
+* crónica - chronic, chronicle
 * cuadrado - square
-* cuadrados - squares
 * cuadro - painting, picture, square
 * cual - which
 * cuales - which (plural)
@@ -549,127 +563,125 @@
 * cuanto - as much as, how much
 * cuarta - fourth (feminine)
 * cuarto - fourth, room
-* cuartos - rooms, quarters
 * cuatro - four
 * cuba - Cuba
 * cubierta - cover, deck
 * cuenca - basin, valley
 * cuenta - account, count
-* cuentas - accounts, beads
+* cuento - story, tale
 * cuerpo - body
+* cuestión - question, issue
+* cueva - cave
 * cuidado - care
 * cultivo - cultivation
 * culto - cult, worship
 * cultura - culture
 * cultural - cultural
+* cura - priest, cure
 * curso - course
+* curva - curve
 * cuya - whose
 * cuyo - whose
 * cuyos - whose
 * cámara - chamber, camera
 * cáncer - cancer
-* césar - to cease, Cesar (proper name)
+* célula - cell
 * código - code
 * cómo - how
 
 ## d
-* da - gives (from the verb 'dar')
-* dado - given (from the verb 'dar')
-* dan - give (from the verb 'dar')
 * danza - dance
 * dar - to give
-* data - dates (from the verb 'datar')
+* datar - to date
 * datos - data
+* daño - damage
 * de - of
 * debajo - underneath
 * debate - debate
-* debe - must, owes (from the verb 'deber')
-* deben - must, owe (from the verb 'deber')
-* debería - should (from the verb 'deber')
+* deber - to have to, to owe
 * debido - due
 * debut - debut
-* debutó - debuted (from the verb 'debutar')
-* decide - decides (from the verb 'decidir')
-* decidió - decided (from the verb 'decidir')
+* debutar - to debut
+* decidir - to decide
 * decir - to say, to tell
 * decisión - decision
-* declaró - declared (from the verb 'declarar')
+* declarar - to declare
 * decreto - decree
-* dedicada - dedicated (feminine)
-* dedicado - dedicated (from the verb 'dedicar')
+* dedicar - to dedicate
 * defensa - defense
-* deja - leaves (from the verb 'dejar')
+* defensor - defender
 * dejar - to leave, to let
-* dejó - left (from the verb 'dejar')
 * del - of the (contraction of de + el)
+* delantero - forward (in sports), front
 * demanda - demand, lawsuit
 * demasiado - too much
 * democrático - democratic
 * demás - others, rest
-* denominada - named, called (feminine)
-* denominado - named, called (from the verb 'denominar')
+* denominación - denomination
+* denominado - to name, to call
 * densidad - density
 * dentro - inside
 * departamento - department, apartment
 * deporte - sport
-* deportes - sports
+* deportista - athlete
+* deportiva - sports (feminine)
 * deportivo - sports (adjective)
 * derecha - right
 * derecho - right, law
-* deriva - derives, drift (from the verb 'derivar')
+* derivar - to derive, to drift
 * derrota - defeat
-* desaparecido - disappeared (from the verb 'desaparecer')
+* desaparecer - to disappear
+* desarrollar - to develop
 * desarrollo - development
-* desarrolló - developed (from the verb 'desarrollar')
 * desconocido - unknown
+* describir - to describe
 * descrita - described (feminine)
-* descubierto - discovered (from the verb 'descubrir')
-* descubiertos - discovered (plural)
+* descubrir - to discover
 * desde - from, since
+* desempeñar - to perform
 * deseo - desire
+* desierto - desert
+* designado - designated
 * después - after
-* destaca - stands out, highlights (from the verb 'destacar')
-* destacado - outstanding
-* destacados - outstanding, highlighted
+* destacar - to stand out, to highlight
 * destino - destiny, destination
-* detalles - details
+* detalle - detail
+* detener - to detain
 * detenido - detained, stopped
+* determinado - determined
 * detrás - behind
-* di - I gave (from the verb 'dar')
 * diario - daily, diary
-* dice - says (from the verb 'decir')
-* dicha - said (from the verb 'decir')
-* dichas - said (feminine plural)
-* dicho - said (from the verb 'decir')
+* dibujo - drawing
+* diccionario - dictionary
+* dicho - saying
 * diciembre - December
 * diez - ten
 * diferencia - difference
-* diferencias - differences
 * diferente - different
 * dificultad - difficulty
 * difícil - difficult
 * digital - digital
-* dijo - said (from the verb 'decir')
+* dinastía - dynasty
 * dinero - money
-* dio - gave (from the verb 'dar')
 * dios - god
 * diputado - deputy, representative
-* diputados - deputies, representatives
 * dirección - direction
 * directa - direct (feminine)
 * directamente - directly
+* directiva - directive, board
+* directo - direct
 * director - director
-* dirigida - directed (from the verb 'dirigir')
-* dirigido - directed (from the verb 'dirigir')
-* dirigió - directed (from the verb 'dirigir')
+* dirigir - to direct
 * disco - disc, record
+* discográfica - record label
 * discurso - speech
 * discusión - discussion
-* diseñado - designed (from the verb 'diseñar')
+* diseñar - to design
 * diseño - design
 * disponible - available
+* dispositivo - device
 * disputa - dispute
-* disputó - disputed (from the verb 'disputar')
+* disputar - to dispute
 * distancia - distance
 * distintas - different (feminine plural)
 * distintos - different (plural)
@@ -680,11 +692,13 @@
 * división - division
 * diócesis - diocese
 * doble - double
-* dobles - doubles
+* doce - twelve
 * docente - teaching, teacher
 * doctor - doctor
 * doctorado - doctorate
+* documental - documentary
 * documento - document
+* dolor - pain
 * domingo - Sunday
 * dominicana - Dominican
 * dominio - domain, control
@@ -692,15 +706,16 @@
 * donde - where
 * dorado - golden
 * dos - two
+* droga - drug
 * duda - doubt
 * dulce - sweet
 * duque - duke
 * dura - hard (feminine)
+* duración - duration
 * durante - during
 * duro - hard
 * década - decade
 * día - day
-* días - days
 * dólares - dollars
 * dónde - where
 
@@ -711,28 +726,24 @@
 * económico - economic
 * ecuador - Ecuador
 * edad - age
-* ediciones - editions
 * edición - edition
 * edificio - building
-* edificios - buildings
 * editor - editor
 * editorial - editorial, publishing house
 * educación - education
+* efectivo - effective, cash
 * efecto - effect
-* efectos - effects
 * ejecutivo - executive
-* ejemplares - copies, specimens
+* ejemplar - copy, specimen
 * ejemplo - example
 * ejército - army
 * el - the (masculine)
 * elección - election
 * electoral - electoral
 * electrónica - electronics
-* elegida - chosen (feminine)
-* elegido - chosen (from the verb 'elegir')
-* elementos - elements
-* eliminado - eliminated
-* eliminando - eliminating (from the verb 'eliminar')
+* elegir - to choose
+* elemento - element
+* eliminar - to eliminate
 * ella - she, her
 * ellas - they, them (feminine)
 * ello - it, that
@@ -741,65 +752,52 @@
 * embargo - however, embargo
 * empate - tie, draw (in a game)
 * emperador - emperor
-* empezó - began (from the verb 'empezar')
-* empleado - employee, used
-* empleados - employees
+* empezar - to begin
+* emplear - to use, employ
 * empleo - employment, job
 * empresa - company, business
-* empresas - companies
 * en - in, on
+* encargada - in charge, responsible (feminine)
 * encargado - in charge, manager
+* enciclopedia - encyclopedia
 * encima - on top, above
-* encontraba - was found (from the verb 'encontrar')
-* encontrado - found (from the verb 'encontrar')
 * encontrar - to find
-* encuentra - finds, is located (from the verb 'encontrar')
-* encuentran - find (from the verb 'encontrar')
 * encuentro - meeting, encounter
 * enemigo - enemy
-* enemigos - enemies
 * energía - energy
 * enero - January
 * enfermedad - disease, illness
 * enfoque - approach, focus
 * enlace - link
-* enlaces - links
 * ensayo - essay, rehearsal
+* enseñanza - teaching, education
 * entender - to understand
 * entero - whole, entire
+* entidad - entity
 * entonces - then, so
 * entorno - environment
 * entrada - entrance, entry
+* entrar - to enter
 * entre - between, among
 * entrega - delivery, awarding
 * entrenador - coach, trainer
 * entrevista - interview
-* entró - entered (from the verb 'entrar')
-* enviado - sent (from the verb 'enviar')
+* enviar - to send
 * episodio - episode
-* episodios - episodes
 * equipo - team
-* equipos - teams
-* era - was (from the verb 'ser')
-* eran - were (from the verb 'ser')
 * error - error, mistake
-* errores - errors
-* es - is (from the verb 'ser')
 * esa - that (feminine)
 * esas - those (feminine)
 * escala - scale, ladder
 * escena - scene
+* escenario - stage, scenario
+* escocés - Scottish
 * escolar - school (adjective)
 * escribir - to write
-* escribió - wrote (from the verb 'escribir')
-* escrita - written (feminine)
-* escrito - written (from the verb 'escribir')
 * escritor - writer
-* escritos - writings
 * escritura - writing
 * escudo - shield, coat of arms
 * escuela - school
-* escuelas - schools
 * ese - that (masculine)
 * esfuerzo - effort
 * eso - that
@@ -807,10 +805,7 @@
 * espacio - space
 * español - Spanish
 * española - Spanish (feminine)
-* españolas - Spanish (feminine plural)
-* españoles - Spanish (people)
 * especial - special
-* especiales - special (plural)
 * especialmente - especially
 * especie - species, kind
 * espera - waiting, expectation
@@ -818,15 +813,10 @@
 * esposa - wife
 * esposo - husband
 * esta - this (feminine)
-* estaba - was (from the verb 'estar')
-* estaban - were (from the verb 'estar')
-* establecido - established (from the verb 'establecer')
-* estableció - established (from the verb 'establecer')
-* estaciones - stations, seasons
+* establecer - to establish
 * estación - station, season
 * estadio - stadium
 * estado - state, status
-* estados - states
 * estadounidense - American (United States)
 * estadística - statistic, statistics
 * estar - to be
@@ -834,55 +824,50 @@
 * estatal - state (adjective)
 * este - this (masculine)
 * estilo - style
+* estima - estimate, esteem
 * estimada - estimated (feminine)
+* estonia - Estonian (feminine)
 * estos - these (masculine)
 * estrecho - strait, narrow
 * estrella - star
-* estrellas - stars
+* estrenar - to premiere, to debut
 * estreno - premiere, debut
-* estrenó - premiered (from the verb 'estrenar')
 * estructura - structure
-* estructuras - structures
 * estudiante - student
-* estudiantes - students
+* estudiar - to study
 * estudio - study, studio
-* estudios - studies
-* estudió - studied (from the verb 'estudiar')
-* estuvo - was (from the verb 'estar')
-* está - is (from the verb 'estar')
-* están - are (from the verb 'estar')
 * estándar - standard
 * etapa - stage, phase
 * europea - European (feminine)
 * europeo - European
 * evento - event
-* eventos - events
 * evidencia - evidence
 * evitar - to avoid
+* evolución - evolution
 * ex - former
 * excepto - except
-* existe - exists (from the verb 'existir')
-* existen - exist (from the verb 'existir')
+* exilio - exile
 * existencia - existence
+* existir - to exist
+* expedición - expedition
 * experiencia - experience
 * exposición - exhibition, exposure
+* expresión - expression
 * expulsado - expelled
 * extensión - extension, area
 * exterior - exterior, outside
-* exteriores - external, foreign (plural)
 * extranjero - foreigner, abroad
-* extranjeros - foreigners
+* extraño - strange
 * extremo - extreme
 
 ## f
 * fachada - facade
 * factor - factor
 * facultad - faculty, ability
-* falleció - died (from the verb 'fallecer')
+* fallecer - to die
 * falta - lack, fault
 * familia - family
 * familiar - familiar, family member
-* familias - families
 * famosa - famous (feminine)
 * famoso - famous
 * fase - phase
@@ -896,88 +881,86 @@
 * femenino - feminine
 * feria - fair, festival
 * ferrocarril - railroad
+* ferroviaria - railway (feminine)
 * festival - festival
+* ficción - fiction
 * ficha - chip, record
 * fiesta - party, festival
 * figura - figure
-* figuras - figures
-* filipinas - Philippines
+* filas - rows, lines
+* film - film
 * filosofía - philosophy
 * fin - end
 * final - final, end
 * finales - finals, end
 * finalmente - finally
-* fines - ends, purposes
 * firma - signature, firm
+* firmar - to sign
 * firme - firm
 * fiscal - fiscal, prosecutor
+* flor - flower
 * flora - flora
-* flores - flowers
 * florida - flowery, Florida
 * flota - fleet
+* fomento - promotion, development
 * fondo - background, fund
 * forma - form, way
 * formación - formation, training
-* formado - formed (from the verb 'formar')
-* forman - form (from the verb 'formar')
+* formada - formed (feminine)
 * formar - to form
-* formas - forms
 * formato - format
-* formó - formed (from the verb 'formar')
 * fotografía - photograph, photography
 * francesa - French (feminine)
-* franceses - French (people, plural)
 * franco - frank, French franc
 * francés - French
 * frecuencia - frequency
+* frecuente - frequent
 * frente - front
+* fresco - fresh, fresco
 * frontera - border
 * fruto - fruit
+* fría - cold (feminine)
 * frío - cold
-* fue - was (from the verb 'ser')
 * fuego - fire
 * fuente - fountain, source
-* fuentes - sources, fountains
-* fuera - outside, was (from the verb 'ser')
-* fueron - were (from the verb 'ser')
+* fuera - outside
 * fuerte - strong, fort
-* fuertes - strong (plural)
 * fuerza - force, strength
-* fuerzas - forces
-* funciones - functions
 * función - function
 * fundación - foundation
-* fundada - founded (feminine)
-* fundado - founded (from the verb 'fundar')
 * fundador - founder
-* fundó - founded (from the verb 'fundar')
+* fundar - to found
+* fusión - fusion
 * futbolista - footballer, soccer player
-* futbolistas - footballers, soccer players
+* futura - future (feminine)
 * futuro - future
+* fábrica - factory
 * física - physical, physics
 * físico - physicist, physical
+* fórmula - formula
 * fútbol - football, soccer
 
 ## g
-* gana - wins, earns (from the verb 'ganar')
-* ganado - cattle, won (from the verb 'ganar')
+* galería - gallery
+* ganado - cattle
 * ganador - winner
-* ganadores - winners
+* ganadora - winner (feminine)
 * ganar - to win
-* ganó - won (from the verb 'ganar')
+* gay - gay
 * generación - generation
 * general - general
-* generales - general (plural)
 * generalmente - generally
 * gente - people
 * gestión - management
 * gira - tour, turn
 * global - global
+* gloria - glory
 * gobernador - governor
 * gobierno - government
 * gol - goal
-* goles - goals
 * golfo - gulf
+* golpe - blow, hit
+* grabación - recording
 * grabado - recorded, engraving
 * gracias - thanks
 * grado - degree
@@ -985,149 +968,141 @@
 * granada - grenade, Granada (city)
 * grande - big, large
 * grave - serious, grave
-* graves - serious, graves
 * griega - Greek (feminine)
 * griego - Greek
+* griego - Greek (masculine)
+* gris - gray
 * grupo - group
-* grupos - groups
+* guardia - guard
 * guerra - war
 * guerrero - warrior
 * guinea - Guinea
+* guion - script
 * guitarra - guitar
 * guía - guide
 * género - genre, gender
 
 ## h
-* ha - has (from the verb 'haber')
+* habana - Havana
 * haber - to have (auxiliary verb)
-* habitantes - inhabitants
+* habitante - inhabitant
 * habitual - habitual, usual
-* habla - speaks, speech (from the verb 'hablar')
-* habría - there would be (from the verb 'haber')
-* había - there was (from the verb 'haber')
-* habían - had (from the verb 'haber')
-* hace - ago, makes (from the verb 'hacer')
-* hacen - they do (from the verb 'hacer')
+* hablar - to talk, to speak
 * hacer - to do, to make
 * hacia - towards
 * hacienda - estate, hacienda
-* haciendo - doing (from the verb 'hacer')
 * hall - hall
-* han - have (from the verb 'haber')
 * hasta - until
-* hay - there is, there are (from the verb 'haber')
-* haya - beech tree, subjunctive form of 'haber'
-* he - I have (from the verb 'haber')
 * hecha - made (feminine)
-* hecho - fact, made (from the verb 'hacer')
+* herir - to injure, to wound
 * hermana - sister
-* hermanas - sisters
 * hermano - brother
-* hermanos - siblings, brothers
-* hicieron - they did (from the verb 'hacer')
+* herramienta - tool
+* herrera - blacksmith (feminine)
 * hidalgo - nobleman
 * hielo - ice
 * hierro - iron
 * hija - daughter
 * hijo - son
-* hijos - children, sons
 * historia - history
-* historias - stories
+* historiador - historian
 * histórica - historical (feminine)
 * histórico - historic
-* hizo - made, did (from the verb 'hacer')
-* hojas - leaves, sheets
+* hogar - home
+* hoja - leave, sheet
 * hombre - man
-* hombres - men
-* honduras - Honduras
+* homenaje - tribute
+* homónimo - homonymous
 * honor - honor
+* hora - hour
 * hora - hour, time
 * horario - schedule
-* horas - hours
 * hospital - hospital
+* hotel - hotel
 * hoy - today
-* hubo - there was (from the verb 'haber')
 * humana - human (feminine)
 * humano - human
 
 ## i
+* ibérica - Iberian (feminine)
 * ida - departure, one-way
 * idea - idea
-* ideas - ideas
+* ideal - ideal
+* identidad - identity
 * idioma - language
-* ido - gone (from the verb 'ir')
 * iglesia - church
-* iglesias - churches
 * igual - same, equal
 * igualmente - equally, likewise
 * imagen - image
 * impacto - impact
+* imperial - imperial
 * imperio - empire
 * importancia - importance
 * importante - important
-* incluida - included (feminine)
-* incluido - included (from the verb 'incluir')
-* incluidos - included (plural)
+* incendio - fire
+* incidente - incident
+* incluir - to include
 * incluso - even, including
-* incluye - includes (from the verb 'incluir')
-* incluyen - include (from the verb 'incluir')
-* incluyendo - including (from the verb 'incluir')
 * independencia - independence
 * independiente - independent
 * india - India (country), Indian (feminine)
 * indiana - Indiana, related to India (feminine)
 * indias - Indies, Indian (feminine plural)
-* indica - indicates (from the verb 'indicar')
-* indios - Indians
+* indicar - to indicate
+* indio - Indian
 * individual - individual
-* individuales - individual (plural)
 * individuo - individual
 * indonesia - Indonesia
 * industria - industry
 * industrial - industrial
-* indígenas - indigenous people
+* indígena - indigenous
+* infantil - childish, child
 * inferior - lower, inferior
 * influencia - influence
 * información - information
 * informe - report
-* informes - reports
+* ingeniero - engineer
+* ingeniería - engineering
 * inglesa - English (feminine)
 * inglés - English
 * ingreso - income, entrance
-* ingresos - income, revenue
 * inicial - initial
 * inicialmente - initially
+* iniciar - to start
 * iniciativa - initiative
 * inicio - beginning, start
-* inició - started (from the verb 'iniciar')
-* instalaciones - facilities
-* instituciones - institutions
+* inmediatamente - immediately
+* inmigrante - immigrant
+* instalación - facility, installation
 * institución - institution
 * instituto - institute
 * instrumento - instrument
-* integrantes - members
+* integral - integral
+* integrante - member
 * intención - intention
 * intento - attempt
-* intereses - interests
+* intercambio - exchange
 * interior - interior, inside
 * interna - internal (feminine)
 * internacional - international
-* internacionales - international (plural)
 * internet - internet
 * interno - internal
 * interpretación - interpretation
+* interpretar - to interpret
 * interés - interest
-* investigaciones - investigations
+* introducción - introduction
+* invasión - invasion
 * investigación - research
 * investigador - researcher
 * invierno - winter
+* invitada - invited (feminine)
 * invitado - invited, guest
-* invitados - invited (plural)
 * ir - to go
 * irlanda - Ireland
 * irán - Iran
 * isla - island
-* islas - islands
+* isleño - islander
+* israelí - Israeli
 * italiano - Italian
 * izquierda - left
 * izquierdo - left (adjective)
@@ -1135,20 +1110,18 @@
 ## j
 * japonesa - Japanese (feminine)
 * japonés - Japanese
+* japonés - Japanese (masculine)
 * japón - Japan
 * jardín - garden
-* jean - jeans, Jean (proper name)
+* jean - jeans
 * jefe - chief, boss
 * joven - young, youth
 * judía - Jewish, bean
-* judíos - Jews
-* juega - plays (from the verb 'jugar')
+* judío - Jew
 * juego - game
-* juegos - games
 * jugador - player
-* jugadores - players
 * jugar - to play
-* jugó - played (from the verb 'jugar')
+* juicio - judgment, trial
 * julio - July
 * junio - June
 * junta - board, meeting
@@ -1156,107 +1129,101 @@
 * jurado - jury
 * justicia - justice
 * justo - fair, just
+* juventud - youth
 * jóvenes - young people
 
 ## k
-* kilómetros - kilometers
+* kilómetro - kilometer
 
 ## l
 * la - the (feminine)
+* labor - labor, work
 * lado - side
 * lago - lake
-* lanza - lance, spear, launches (from the verb 'lanzar')
-* lanzada - launched (feminine)
-* lanzado - launched (from the verb 'lanzar')
+* lanza - lance, spear
 * lanzamiento - launch
-* lanzó - launched (from the verb 'lanzar')
+* lanzar - to launch
 * larga - long (feminine)
 * largo - long
+* largo - long (masculine)
 * las - the (feminine plural)
 * lateral - lateral, side
 * latina - Latin (feminine)
 * latino - Latin
-* latinos - Latinos
+* latín - Latin
 * leche - milk
 * lector - reader
-* lee - reads (from the verb 'leer')
+* leer - to read
+* legislatura - legislature
 * lengua - tongue, language
-* leo - I read (from the verb 'leer'), Leo (zodiac sign)
+* lenguaje - language
 * les - them (indirect object pronoun)
-* letras - letters, lyrics
+* letra - letter, lyric
 * ley - law
-* leyes - laws
 * león - lion
 * liberal - liberal
 * libertad - freedom, liberty
+* libertador - liberator
 * libre - free
-* libres - free (plural)
 * libro - book
-* libros - books
 * licencia - license, permission
+* licenciado - graduate, licensed
 * liga - league
 * lima - lime
+* limitada - limited (feminine)
+* lisa - smooth, plain
 * lista - list
 * listado - listing, striped
-* listas - lists
 * literatura - literature
-* llama - flame, calls (from the verb 'llamar')
-* llamada - called (from the verb 'llamar')
-* llamadas - calls
-* llamado - called (from the verb 'llamar')
-* llamados - called (plural)
-* llega - arrives (from the verb 'llegar')
+* llamada - call
+* llamar - to call
 * llegada - arrival
-* llegado - arrived (from the verb 'llegar')
 * llegar - to arrive
-* llegaron - arrived (from the verb 'llegar')
-* llegó - arrived (from the verb 'llegar')
-* lleva - carries, wears (from the verb 'llevar')
 * llevar - to carry, to take
-* llevó - took, carried (from the verb 'llevar')
 * lo - it, the (neutral gender)
 * local - local
-* locales - local (plural)
 * localidad - locality, place
-* localidades - locations, seats
-* logró - achieved (from the verb 'lograr')
+* lograr - to achieve
 * longitud - length
 * los - the (masculine plural)
 * lucha - fight, struggle
 * luego - then, later
 * lugar - place
-* lugares - places
 * luna - moon
 * luz - light
 * líder - leader
+* límite - limit
 * línea - line
-* líneas - lines
+* líquido - liquid
 
 ## m
-* machos - males
+* macedonia - Macedonia, fruit salad
+* macho - male
 * madera - wood
 * madre - mother
 * maestro - teacher, master
-* maestros - teachers, masters
 * mal - bad, wrong
 * mala - bad (feminine)
+* malasia - Malaysia
 * mancha - stain, La Mancha (region in Spain)
 * mandato - mandate, term
 * mando - command
 * manera - way, manner
 * manga - sleeve, manga (Japanese comic)
+* manifiesto - manifesto
 * mano - hand
-* manos - hands
 * mantener - to maintain
-* mantuvo - maintained (from the verb 'mantener')
+* mantenimiento - maintenance
 * manual - manual
+* manuscrito - manuscript
+* mapa - map
 * mar - sea
 * marca - brand, mark
-* marcando - marking (from the verb 'marcar')
+* marcador - marker, scoreboard
+* marcar - to mark
 * marcha - march, progress
 * marco - frame, mark
-* marcos - frames, Marcos (proper name)
-* mariano - Marian, Mariano (proper name)
+* margarita - daisy
 * marido - husband
 * marina - marina, navy
 * marino - marine, sailor
@@ -1265,96 +1232,92 @@
 * mas - but (archaic or poetic), more
 * masa - mass
 * masculino - masculine
-* mata - kills (from the verb 'matar')
+* matar - to kill
 * matemáticas - mathematics
+* matemático - mathematician, mathematical
+* materia - matter, subject
 * material - material
-* materiales - materials
 * matrimonio - marriage
+* maya - Maya
 * mayo - May
 * mayor - bigger, older, major
 * mayores - older, major
 * mayoría - majority
 * mañana - tomorrow, morning
+* mecánica - mechanics
 * medalla - medal
+* medallista - medalist
 * media - half, media
 * mediados - middle
 * mediante - through, by means of
-* medias - stockings, averages
 * medicina - medicine
 * medida - measure, measurement
+* medina - Medina (city or historic city center)
 * medio - half, middle
 * mediterráneo - Mediterranean
 * mejor - better, best
 * mejora - improvement
-* mejoras - improvements
-* mejores - best (plural)
+* mejorar - to improve
 * memoria - memory
 * menor - younger, minor
 * menores - minors, lesser
 * menos - less
-* mensajes - messages
+* mensaje - message
 * menudo - often
 * mercado - market
-* mercedes - mercies
+* merced - mercy
 * mes - month
 * mesa - table
-* meses - months
 * meta - goal, finish line
 * metal - metal
 * metro - meter, subway
-* metros - meters
 * mexicana - Mexican (feminine)
 * mexicano - Mexican
 * mezcla - mix, mixture
 * mi - my
 * miembro - member
-* miembros - members
 * mientras - while
 * mil - thousand
 * militar - military
-* militares - military (plural)
-* millones - millions
-* minas - mines
+* millón - million
+* mina - mine
 * ministerio - ministry
 * ministro - minister
-* minutos - minutes
-* misiones - missions
+* minuto - minute
 * misión - mission
 * misma - same (feminine)
 * mismo - same
-* mismos - same (plural)
 * mitad - half
 * modelo - model
-* modelos - models
+* moderna - modern (feminine)
+* moderno - modern (masculine)
 * modo - mode, way
 * momento - moment
 * monasterio - monastery
 * montaña - mountain
 * monte - mount, hill
-* montes - mountains
 * monumento - monument
 * moral - moral
-* morales - moral (plural)
 * moreno - dark-haired, tanned
+* morir - to die
+* mostrar - to show
+* motivo - motive, reason
 * motivo - reason, motive
 * motor - engine, motor
+* mover - to move
 * movimiento - movement
 * mucho - much, a lot
 * muerte - death
 * muerto - dead
-* muestra - sample, show (from the verb 'mostrar')
 * mujer - woman
-* mujeres - women
 * mundial - world, global
 * mundo - world
 * municipal - municipal
 * municipio - municipality
-* municipios - municipalities
-* murió - died (from the verb 'morir')
 * muro - wall
 * museo - museum
 * musical - musical
-* musicales - musical (plural)
+* musulmán - Muslim
 * muy - very
 * más - more
 * máxima - maximum (feminine)
@@ -1365,26 +1328,27 @@
 * mérito - merit
 * método - method
 * mínimo - minimum
+* móvil - mobile, motive
+* múltiples - multiple
 * música - music
 * músico - musician
 
 ## n
-* nacida - born (feminine)
-* nacido - born (from the verb 'nacer')
-* nacidos - born (plural)
+* nacer - to be born
 * nacimiento - birth
 * nacional - national
-* nacionales - national (plural)
-* naciones - nations
-* nació - was born (from the verb 'nacer')
 * nación - nation
 * nada - nothing
+* nadie - nobody
 * nativo - native
 * natural - natural
-* naturales - natural (plural)
 * naturaleza - nature
+* naval - naval
 * navarra - Navarre (region in Spain)
 * navarro - Navarrese (from Navarre, Spain)
+* nave - ship, nave
+* navidad - Christmas
+* nazi - Nazi
 * necesario - necessary
 * necesidad - necessity, need
 * negocio - business
@@ -1392,32 +1356,29 @@
 * negro - black
 * nevada - snowfall
 * ni - nor
+* nieto - grandson
 * ninguna - none, no
 * ninguno - none, no one
 * ningún - no, none
 * nivel - level
-* niveles - levels
 * niño - child, boy
 * niños - children
 * no - no
 * noche - night
-* nombrado - named (from the verb 'nombrar')
+* nombrar - to name
 * nombre - name
-* nombres - names
-* nominado - nominated
+* nominar - to nominate
+* noreste - northeast
 * norma - norm, standard
 * normal - normal
-* normas - norms, standards
+* normalmente - normally
 * noroeste - northwest
 * norte - north
 * noruega - Norway
 * nos - us
-* nota - note
-* notas - notes, grades
+* nota - note, grade
 * noticia - news
-* noticias - news
 * novela - novel
-* novelas - novels
 * noviembre - November
 * nuclear - nuclear
 * nuestra - our (feminine)
@@ -1429,51 +1390,53 @@
 * numerosas - numerous (feminine plural)
 * numerosos - numerous
 * nunca - never
+* núcleo - nucleus, core
 * número - number
-* números - numbers
 
 ## o
 * o - or
 * obispo - bishop
 * objetivo - objective, goal
 * objeto - object
-* objetos - objects
 * obligado - obliged, mandatory
 * obra - work, piece of work
 * obstante - however, notwithstanding
 * obtener - to obtain
-* obtuvo - obtained (from the verb 'obtener')
-* ocasiones - occasions
+* ocasión - occasion
 * occidental - western
 * ocho - eight
 * octubre - October
+* ocupar - to occupy
 * oeste - west
+* ofensiva - offensive (feminine)
+* oferta - offer
 * oficial - official
 * oficialmente - officially
 * oficina - office
+* ofrecer - to offer
 * ojo - eye
 * olímpico - Olympic
-* olímpicos - Olympic (plural)
 * once - eleven
-* operaciones - operations
 * operación - operation
 * opinión - opinion
+* oportunidad - opportunity
 * oposición - opposition
 * orden - order, command
-* organizaciones - organizations
+* ordenar - to order, to command
 * organización - organization
-* organizado - organized
+* organizar - to organize
 * oriental - eastern
 * oriente - east
 * origen - origin
 * original - original
 * originalmente - originally
+* orilla - shore, edge
 * oro - gold
 * orquesta - orchestra
 * otro - other
 
 ## p
-* pacientes - patients
+* paciente - patients
 * pacífico - peaceful, Pacific
 * padre - father
 * padres - parents
@@ -1490,73 +1453,69 @@
 * para - for, to
 * parada - stop, station
 * paraguay - Paraguay
-* parece - seems (from the verb 'parecer')
 * parecer - to seem, opinion
 * parecido - similar, resemblance
-* paredes - walls
+* pared - wall
 * pareja - couple, pair
-* pares - pairs
+* parlamentaria - parliamentary
 * parlamento - parliament
 * parque - park
 * parroquia - parish
 * parte - part
-* partes - parts
 * participación - participation
-* participantes - participants
+* participante - participant
 * participar - to participate
-* participó - participated (from the verb 'participar')
 * particular - particular, private
+* particular - private, individual
 * partida - departure, game
+* partidario - supporter
 * partido - party, match, split
-* partidos - matches, games, parties (political)
 * partir - to leave, to split
-* parís - Paris
-* pasa - passes (from the verb 'pasar')
 * pasado - past, last
-* pasajeros - passengers
+* pasajero - passenger
 * pasar - to pass
+* paseo - walk, promenade
+* pasión - passion
 * paso - step, pass
-* pasó - passed (from the verb 'pasar')
+* patria - homeland, motherland
 * patrimonio - heritage
 * patrón - pattern, patron
 * paz - peace
 * país - country
-* países - countries
-* peces - fish (plural)
+* pedido - order, request
 * pelea - fight
 * peligro - danger
 * película - movie, film
-* películas - movies, films
 * pena - pity, penalty
 * penal - penalty, penal
 * península - peninsula
+* peor - worse
 * pequeña - small (feminine)
-* pequeñas - small (feminine plural)
 * pequeño - small
-* pequeños - small (plural masculine)
-* perdido - lost (from the verb 'perder')
-* perdió - lost (from the verb 'perder')
+* perder - to lose
 * periodista - journalist
 * periodo - period
 * periódico - newspaper
+* permanecer - to remain
 * permanente - permanent
 * permiso - permission
-* permite - allows (from the verb 'permitir')
-* permitió - allowed (from the verb 'permitir')
+* permitir - to allow
 * pero - but
+* perro - dog
 * persona - person
 * personaje - character
-* personajes - characters
 * personal - personal, staff
-* personales - personal (plural)
-* personas - people
-* pertenece - belongs (from the verb 'pertenecer')
-* perteneciente - belonging
+* personalidad - personality
+* pertenecer - to belong
+* peruana - Peruvian (feminine)
 * peruano - Peruvian
 * período - period
 * pesado - heavy
 * pesar - despite, to weigh
+* pesca - fishing
+* pese - despite
 * peso - weight, currency (in some Latin American countries)
+* pez - fish
 * peña - rock, cliff, group of friends
 * piano - piano
 * pico - peak, beak
@@ -1564,21 +1523,23 @@
 * piedra - stone
 * pies - feet
 * pieza - piece
-* pilar - pillar, Pilar (proper name)
+* pilar - pillar
 * piloto - pilot
 * pintor - painter
 * pintura - painting
 * piso - floor, apartment
 * pista - track, clue
+* placa - plate, plaque
 * plan - plan
 * planeta - planet
 * plano - plane, flat
 * planta - plant, floor
-* plantas - plants, floors
 * plantilla - template, staff
 * plata - silver
+* plataforma - platform
 * playa - beach
 * plaza - square, plaza
+* pleno - full, plenary
 * poblacional - population (adjective)
 * población - population
 * poblado - populated, settlement
@@ -1586,17 +1547,13 @@
 * pocas - few (feminine)
 * poco - little, few
 * pocos - few
-* podemos - we can (from the verb 'poder')
 * poder - power, can (verb 'poder')
-* podría - could (from the verb 'poder')
-* podía - could (from the verb 'poder')
 * poesía - poetry
 * poeta - poet
+* polaco - Polish
 * policía - police
 * política - politics, policy
-* políticas - policies
 * político - political
-* políticos - politicians
 * poner - to put
 * pop - pop (music genre)
 * popular - popular
@@ -1606,31 +1563,29 @@
 * portal - portal, gateway
 * portuguesa - Portuguese (feminine)
 * portugués - Portuguese
-* posee - owns, possesses (from the verb 'poseer')
+* poseer - to own, to possess
 * posibilidad - possibility
 * posible - possible
-* posiciones - positions
 * posición - position
 * posterior - later, following
 * posteriormente - subsequently
 * potencia - power
 * potencial - potential
+* prado - meadow
 * precio - price
 * pregunta - question
 * premio - prize, award
-* premios - awards, prizes
 * prensa - press
 * presa - dam, prey
 * presencia - presence
-* presenta - presents (from the verb 'presentar')
 * presentación - presentation
-* presentado - presented (from the verb 'presentar')
+* presentar - to present
 * presente - present
-* presentó - presented (from the verb 'presentar')
 * presidencia - presidency
 * presidente - president
 * presión - pressure
 * presupuesto - budget
+* previo - previous
 * prima - cousin, premium
 * primaria - primary
 * primer - first
@@ -1638,208 +1593,202 @@
 * primero - first
 * primo - cousin
 * principal - main, principal
-* principales - main, principal (plural)
 * principalmente - mainly
 * principio - beginning, principle
+* prisión - prison
 * privada - private (feminine)
-* privadas - private (plural feminine)
 * privado - private
 * probablemente - probably
 * problema - problem
-* problemas - problems
 * proceso - process
 * producción - production
-* produce - produces (from the verb 'producir')
-* producida - produced (feminine)
-* producido - produced (from the verb 'producir')
+* producir - to produce
 * producto - product
 * productor - producer
-* productores - producers
-* productos - products
-* produjo - produced (from the verb 'producir')
+* productora - producer (feminine)
 * profesional - professional
-* profesionales - professionals
 * profesor - professor, teacher
 * programa - program
-* programas - programs
+* progreso - progress
 * promedio - average
+* promoción - promotion
 * pronto - soon
 * propia - own (feminine)
 * propiedad - property
+* propietario - owner
 * propio - own
-* propios - own (plural)
 * proporcionado - provided
 * propuesta - proposal
+* protagonista - protagonist
 * protección - protection
+* protesta - protest
 * provincia - province
 * provincial - provincial
-* provincias - provinces
 * proyecto - project
-* proyectos - projects
 * prueba - test, proof
 * pruebas - tests, evidence
+* prusia - Prussia
 * práctica - practice
 * príncipe - prince
 * publicación - publication
-* publicada - published (feminine)
-* publicado - published (from the verb 'publicar')
-* publicó - published (from the verb 'publicar')
-* pudo - could (from the verb 'poder')
+* publicar - to publish
 * puebla - populates, Puebla (city in Mexico)
 * pueblo - town, village, people
-* pueblos - towns, villages
-* puede - can (from the verb 'poder')
-* pueden - can, are able (from the verb 'poder')
 * puente - bridge
 * puerta - door
 * puerto - port
 * pues - then, well
 * puesta - setting, put
 * puesto - position, post
-* puestos - positions, posts
 * punta - tip, point
 * punto - point
-* puntos - points
-* puso - put, placed (from the verb 'poner')
 * pág - page (abbreviation of 'página')
 * página - page
-* páginas - pages
 * pérdida - loss
-* pío - pious, Pío (proper name)
+* pío - pious
 * pública - public (feminine)
 * público - public
-* públicos - public (plural)
 
 ## q
 * que - that, which
-* queda - remains, stays (from the verb 'quedar')
-* quedó - remained, stayed (from the verb 'quedar')
+* quedar - to remain, to stay
+* querer - to want, to desire
 * quien - who
 * quienes - who (plural)
 * quinta - fifth, estate
 * quinto - fifth
 * quito - Quito (city in Ecuador)
+* quién - who
 * qué - what
 * química - chemistry
 
 ## r
 * radical - radical
 * radio - radio
+* ramo - branch, bouquet
 * rango - range
-* raros - rare (plural)
+* raro - rare
 * raza - race
 * raza - race, breed
 * razón - reason
 * real - royal, real
-* reales - real, royal (plural)
 * realidad - reality
-* realiza - carries out, performs (from the verb 'realizar')
-* realizado - carried out, made (from the verb 'realizar')
 * realizar - to carry out, to realize
-* realizó - carried out, realized (from the verb 'realizar')
+* realmente - really
 * rebelde - rebel
-* recibe - receives (from the verb 'recibir')
-* recibió - received (from the verb 'recibir')
+* rebotar - to bounce, to rebound
+* recibir - to receive
 * reciente - recent
-* recientes - recent (plural)
-* reconocido - recognized
+* recién - recently
+* reconocer - to recognize
 * reconocimiento - recognition
-* records - records
 * recorrido - route, journey
-* recursos - resources
+* recurso - resource
+* red - network
 * red - network, net
 * redirección - redirection
+* reemplazado - replaced
 * referencia - reference
-* referencias - references
-* refiere - refers (from the verb 'referir')
+* referir - to refer
 * reforma - reform
 * regimiento - regiment
 * regional - regional
-* regiones - regions
 * registro - register, record
 * región - region
-* reglas - rules
+* regla - rule
+* regresar - to return
 * regreso - return
-* regresó - returned (from the verb 'regresar')
 * regular - regular
 * reina - queen
 * reinado - reign
 * reino - kingdom
-* relacionadas - related (feminine plural)
-* relacionado - related
-* relacionados - related (plural)
-* relaciones - relations
+* relacionar - to relate
 * relación - relationship
+* relato - story, account
 * relevancia - relevance
+* religión - religion
+* remo - rowing
+* renacimiento - Renaissance
+* renta - income, rent
+* renuncia - resignation
 * reparto - cast, distribution
-* representa - represents (from the verb 'representar')
 * representación - representation
+* representante - representative
+* representar - to represent
+* republicano - Republican
 * república - republic
-* rescatando - rescuing (from the verb 'rescatar')
+* rescatar - to rescue
 * reserva - reserve
 * residencia - residence
 * residente - resident
 * resistencia - resistance
+* resolución - resolution
 * respectivamente - respectively
 * respecto - respect, regarding
+* respeto - respect
 * responsable - responsible
 * respuesta - response, answer
+* restauración - restoration
 * resto - rest, remainder
-* restos - remains
 * resultado - result
-* resultados - results
-* retirada - withdrawal, retirement
-* retirando - withdrawing, removing (from the verb 'retirar')
+* resultar - to turn out, to result
+* resumen - summary
+* retirar - to withdraw, remove
 * retiro - retirement, retreat
 * retrato - portrait
 * reunión - meeting
-* revertidos - reverted (plural)
+* revertir - to reverse
 * revisión - revision, review
 * revista - magazine
-* revistas - magazines
+* revolucionario - revolutionary
 * revolución - revolution
+* revuelta - revolt
 * rey - king
-* reyes - kings
 * rica - rich (feminine)
 * rico - rich
+* riesgo - risk
 * rival - rival
-* rivera - riverbank, Rivera (proper name)
+* rivera - riverbank
 * robot - robot
 * roca - rock
+* rodar - to roll
 * roja - red (feminine)
 * rojo - red
 * roma - Rome
 * romana - Roman (feminine)
+* romance - romance
 * romano - Roman
 * romero - rosemary
+* romper - to break
 * ronda - round
 * rosa - rose, pink
 * rosario - rosary
-* roto - broken (from the verb 'romper')
-* ruedas - wheels
+* rueda - wheel
+* ruina - ruin
 * rusa - Russian (feminine)
 * ruso - Russian
+* ruso - Russian (masculine)
 * ruta - route
 * rápidamente - quickly
 * rápido - fast
+* récord - record
 * régimen - regime
 * río - river
-* ríos - rivers
 
 ## s
-* sabe - knows (from the verb 'saber')
 * saber - to know
+* sal - salt
 * sala - room, hall
 * salamanca - Salamanca (city in Spain)
-* salas - rooms, halls
-* sale - goes out, leaves (from the verb 'salir')
 * salida - exit, departure
+* salir - to go out, to leave
+* salir - to leave, to go out
 * salto - jump, leap
 * salud - health
 * saludo - greeting
-* saludos - greetings
 * salvador - savior, El Salvador (country)
-* salvo - except, saved (from the verb 'salvar')
+* salvar - to save
+* salvo - except
 * salón - salon, hall
 * san - saint (used in names)
 * sangre - blood
@@ -1848,7 +1797,6 @@
 * se - itself, himself, herself (reflexive pronoun)
 * sea - be (subjunctive of 'ser'), sea
 * sean - be (subjunctive form of 'ser')
-* secciones - sections
 * sección - section
 * secretario - secretary
 * secretaría - secretariat
@@ -1857,11 +1805,9 @@
 * secuencia - sequence
 * secundaria - secondary
 * sede - headquarters, seat
-* seguido - followed (from the verb 'seguir')
 * seguir - to follow
 * segunda - second (feminine)
 * segundo - second
-* segundos - seconds
 * segura - safe, secure (feminine)
 * seguridad - security
 * seguro - safe, insurance
@@ -1871,84 +1817,81 @@
 * selección - selection, national team
 * sello - seal, stamp
 * semana - week
-* semanas - weeks
 * senado - senate
 * sencillo - simple, single
-* sencillos - simple, singles
 * sentido - sense, direction
+* separado - separated
 * septiembre - September
 * ser - to be
 * serbia - Serbia
 * serie - series
-* series - series
+* serrano - serrano, highlander
 * servicio - service
-* servicios - services
-* será - will be (from the verb 'ser')
-* sería - would be (from the verb 'ser')
 * sexo - sex
+* sexta - sixth (feminine)
 * sexto - sixth
+* sexual - sexual
 * señor - sir, Mr.
 * señora - lady, Mrs.
 * show - show
 * si - if, yes
-* sido - been (from the verb 'ser')
 * siempre - always
-* siendo - being (from the verb 'ser')
 * sierra - mountain range, saw
 * siete - seven
 * siglo - century
-* siglos - centuries
-* significa - means (from the verb 'significar')
 * significado - meaning
-* sigue - follows, continues (from the verb 'seguir')
+* significar - to mean
 * siguiente - following, next
-* siguió - followed (from the verb 'seguir')
 * similar - similar
-* similares - similar (plural)
 * simple - simple
 * simplemente - simply
 * sin - without
 * sino - but rather
+* siquiera - even if, at least
 * siria - Syria
 * sistema - system
-* sistemas - systems
 * sitio - site, place
 * situación - situation
 * situada - situated, located (feminine)
 * situado - situated, located (masculine)
 * sobre - on, about
 * social - social
-* sociales - social (plural)
 * socialista - socialist
 * sociedad - society
+* software - software
 * sol - sun
 * sola - alone (feminine)
 * solamente - only
 * solar - solar
-* soldados - soldiers
+* solares - solar, plots of land
+* soldado - soldier
+* soler - to usually do
 * solitario - solitary, loner
 * solo - alone, only
-* son - are (from the verb 'ser')
 * sonido - sound
 * sonora - sonorous, Sonora (state in Mexico)
 * soporte - support
+* soto - grove, thicket
 * soviético - Soviet
 * su - his, her, their, your (formal)
 * sucesor - successor
-* suele - usually does (from the verb 'soler')
+* sueco - Swedish (masculine)
 * suelo - ground, floor
+* suerte - luck, sort
 * sueño - dream, sleep
 * suficiente - sufficient
+* sufrir - to suffer
 * suiza - Switzerland
 * sujeto - subject
 * suma - sum, addition
+* super - super
 * superficie - surface
 * superior - upper, superior
-* superiores - superior, upper (plural)
 * supuesto - supposed, assumption
 * sur - south
+* sureste - southeast
 * sus - his, her, their, your (formal, plural)
-* sé - I know (from the verb 'saber'), be (imperative form of 'ser')
+* séptimo - seventh
 * sí - yes
 * sólo - only
 
@@ -1958,189 +1901,174 @@
 * tales - such
 * tamaño - size
 * también - also
+* tampoco - neither, either
 * tan - so, as
 * tanto - so much, so many
 * tarde - afternoon, late
 * tasa - rate
 * te - you, tea
 * teatro - theater
+* techo - roof, ceiling
 * tecnología - technology
 * televisión - television
 * tema - topic, theme
-* temas - topics, themes
 * temperatura - temperature
 * templo - temple
 * temporada - season
-* temporadas - seasons
 * temporal - temporary
+* temática - theme, subject matter
 * tener - to have
-* tenido - had (from the verb 'tener')
-* tenía - had (from the verb 'tener')
-* tenían - had (from the verb 'tener')
+* teniente - lieutenant
 * teoría - theory
 * tercer - third
 * tercera - third (feminine)
 * tercero - third
+* tercio - third, one-third
 * terminal - terminal
-* terminó - ended (from the verb 'terminar')
+* terminar - to end
 * terreno - terrain, land
-* terrenos - lands, grounds
 * territorio - territory
-* territorios - territories
+* terrorista - terrorist
 * texto - text
 * tiempo - time, weather
-* tiempos - times
 * tienda - store, shop
-* tiene - has (from the verb 'tener')
-* tienen - have (from the verb 'tener')
 * tierra - earth, land
-* tierras - lands
 * tipo - type, kind
-* tipos - types
 * tiro - shot, throw
 * titulada - titled (feminine)
-* titulado - titled (from the verb 'titular')
 * titular - headline, holder
 * toda - all, every (feminine)
 * todavía - still, yet
 * todo - all, everything
 * toledo - Toledo (city in Spain)
-* toma - takes, capture (from the verb 'tomar')
 * tomar - to take
-* tomo - volume, I take (from the verb 'tomar')
-* tomó - took (from the verb 'tomar')
 * torneo - tournament
 * torno - lathe, around
+* toro - bull
 * torre - tower
-* torres - towers
 * total - total
+* totalmente - totally
 * tour - tour
 * trabajador - worker
 * trabajar - to work
 * trabajo - work, job
-* trabajos - works, jobs
-* trabajó - worked (from the verb 'trabajar')
 * tradicional - traditional
 * tradición - tradition
 * traducción - translation
+* traducir - to translate
+* trama - plot, weave
 * tramo - stretch, section
 * transporte - transport
 * tras - after, behind
-* trasladado - transferred (from the verb 'trasladar')
+* trasladar - to transfer
 * traslado - transfer, relocation
-* trasladó - moved (from the verb 'trasladar')
-* trata - deals with, about (from the verb 'tratar')
 * tratado - treated, treaty
 * tratamiento - treatment
+* tratar - to deal with
 * través - across, through
+* trece - thirteen
 * tren - train
 * tres - three
 * tribunal - court, tribunal
 * trinidad - trinity
 * triunfo - triumph
-* tropas - troops
+* tropa - troop
 * tu - your
 * tumba - tomb
-* tuvieron - had (from the verb 'tener')
-* tuvo - had (from the verb 'tener')
+* turismo - tourism
 * tv - television
 * técnica - technique, technical
 * técnico - technical, technician
 * término - term
-* términos - terms
 * título - title
-* títulos - titles
 
 ## u
 * u - or (used before 'o-' sound)
-* ubicada - located (feminine)
-* ubicado - located (from the verb 'ubicar')
+* ubicación - location
+* ubicar - to put, to place
 * ucrania - Ukraine
 * un - a, one (masculine)
 * una - a, one (feminine)
 * unas - some, a few (feminine)
 * unidad - unit
-* unidades - units
 * unido - united
 * uniforme - uniform
+* unir - to joins, to unite
 * universal - universal
 * universidad - university
 * universitaria - university (feminine)
 * universitario - university (adjective)
-* unió - joined (from the verb 'unir')
+* universo - universe
 * unión - union
 * uno - one
 * unos - some, a few (masculine)
-* usa - uses (from the verb 'usar'), USA (abbreviation)
-* usado - used (from the verb 'usar')
-* usando - using (from the verb 'usar')
+* urbano - urban
+* uruguayo - Uruguayan (masculine)
+* usada - used (feminine)
 * usar - to use
 * uso - use, usage
 * usuario - user
-* usuarios - users
-* utiliza - uses (from the verb 'utilizar')
-* utilizado - used (from the verb 'utilizar')
 * utilizar - to use
 
 ## v
-* va - goes (from the verb 'ir')
 * vacío - empty, void
+* vale - okay, worth
 * valencia - bravery (noun)
 * valenciana - Valencian (feminine)
 * valle - valley
 * valor - value
-* valores - values
-* van - go (from the verb 'ir')
+* variable - variable
+* variante - variant
 * variedad - variety
 * varios - various, several
 * vasco - Basque
-* ve - sees (from the verb 'ver')
-* veces - times
-* vecinos - neighbors
+* vaticano - Vatican
+* vecino - neighbor
 * vega - meadow
+* vehículo - vehicle
+* vela - candle, sailing
 * velocidad - speed
+* vender - to sell
+* venezolano - Venezuelan
+* venir - to come
 * venta - sale
 * ver - to see
 * verano - summer
 * verdad - truth
 * verdadero - true, real
 * verde - green
-* versiones - versions
 * versión - version
 * verso - verse
+* vestido - dress
 * vez - time (as in "once upon a time")
-* vi - I saw (from the verb 'ver')
 * viaje - trip, journey
-* viajes - travels, trips
 * victoria - victory
 * vida - life
 * video - video
+* videojuego - video game
 * vieja - old (feminine)
 * viejo - old
 * viento - wind
 * villa - villa, town
-* vino - wine, came (from the verb 'venir')
-* vio - saw (from the verb 'ver')
+* vino - wine
+* violencia - violence
 * virgen - virgin
 * visita - visit
+* visión - vision
 * vista - view, sight
-* visto - seen (from the verb 'ver')
+* viva - live, lively (feminine)
 * vivir - to live
 * vivo - alive, live
 * vocal - vowel, vocal
 * volumen - volume
 * volver - to return
-* volvió - returned (from the verb 'volver')
 * votación - voting, vote
 * voto - vote
-* votos - votes
 * voz - voice
 * vuelo - flight
 * vuelta - return, turn
-* vuelve - returns (from the verb 'volver')
 * vía - way, via
 * víctima - victim
-* vídeo - video
 
 ## w
 * web - web
@@ -2158,10 +2086,11 @@
 * ácido - acid
 * áfrica - Africa
 * álbum - album
+* ámbito - scope, field
 * ángel - angel
 * árabe - Arab
+* árbol - tree
 * área - area
-* áreas - areas
 
 ## é
 * él - he, him
@@ -2169,8 +2098,12 @@
 * éste - this one (masculine)
 * éxito - success
 
+## ó
+* ópera - opera
+
 ## ú
 * última - last, final (feminine)
 * último - last, final
 * única - only, unique (feminine)
+* únicamente - only
 * único - unique, only
