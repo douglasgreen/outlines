@@ -121,6 +121,7 @@ Outlines written by ChatGPT on various subjects.
   * [History of Christianity](religion/christianity/history_of_christianity.md)
 
 ## Science
+  * [Anatomy and Physiology](science/anatomy.md)
   * [Biology](science/biology.md)
   * [Chemistry](science/chemistry.md)
   * [Physics](science/physics.md)
