@@ -117,7 +117,7 @@ Outlines written by ChatGPT on various subjects.
   * [Psychology](psychology/psychology.md)
 
 ## Religion
-  * [History of Christianity](religion/history_of_christianity.md)
+  * [History of Christianity](religion/christianity/history_of_christianity.md)
 
 ## Science
   * [Biology](science/biology.md)
