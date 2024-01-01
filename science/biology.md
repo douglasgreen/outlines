@@ -124,7 +124,7 @@ Photosynthesis is the process by which green plants, algae, and certain bacteria
    - **Light-Independent Reactions (Calvin Cycle):** These take place in the stroma of chloroplasts. The ATP and NADPH produced in the light-dependent reactions are used to convert carbon dioxide (CO2) from the atmosphere into glucose, a simple sugar.
 
 2. **Equation of Photosynthesis:**
-   \[ 6CO_2 + 6H_2O + Light Energy → C_6H_{12}O_6 + 6O_2 \]
+   $`6CO_2 + 6H_2O + Light Energy → C_6H_{12}O_6 + 6O_2`$
    This represents the transformation of carbon dioxide and water into glucose and oxygen, using light energy.
 
 3. **Importance:**
@@ -141,7 +141,7 @@ Cellular respiration is the process by which cells break down glucose to produce
    - **Electron Transport Chain:** Also in the mitochondria, this is where the majority of ATP is produced. NADH and FADH2 donate electrons, which flow through a series of proteins in the mitochondrial membrane, ultimately leading to the production of a large amount of ATP.
 
 2. **Equation of Cellular Respiration:**
-   \[ C_6H_{12}O_6 + 6O_2 → 6CO_2 + 6H_2O + ATP \]
+   $`C_6H_{12}O_6 + 6O_2 → 6CO_2 + 6H_2O + ATP`$
    This shows the conversion of glucose and oxygen into carbon dioxide, water, and ATP (energy).
 
 3. **Importance:**
