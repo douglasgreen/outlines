@@ -70,7 +70,7 @@ Gravitation, or gravity, is a fundamental force of nature that is responsible fo
 
 Sir Isaac Newton formulated the Universal Law of Gravitation in the 17th century. This law states that every point mass attracts every other point mass in the universe with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. Mathematically, the force $`F`$ between two masses $`m_1`$ and $`m_2`$ separated by a distance $`r`$ is given by:
 
-\[ F = G \frac{m_1 m_2}{r^2} \]
+$`F = G \frac{m_1 m_2}{r^2}`$
 
 where $`G`$ is the gravitational constant. This law not only explains why objects fall towards the Earth but also provides the basis for understanding the motion of planets and satellites.
 

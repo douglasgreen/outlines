@@ -414,15 +414,11 @@ Advanced trigonometry builds upon basic concepts and introduces more complex rel
 
 ### Sine and Cosine Rules
 1. **Sine Rule:** The Sine Rule is useful in non-right-angled triangles. It states that the ratio of the length of a side of a triangle to the sine of the angle opposite that side is constant. Mathematically, for a triangle with sides $`a`$, $`b`$, and $`c`$, and angles $`A`$, $`B`$, and $`C`$ respectively, the rule is expressed as:
-   \[
-   \frac{a}{\sin(A)} = \frac{b}{\sin(B)} = \frac{c}{\sin(C)}
-   \]
+   $`\frac{a}{\sin(A)} = \frac{b}{\sin(B)} = \frac{c}{\sin(C)}`$
    This rule is particularly useful for finding unknown sides or angles in a triangle when two angles and one side are known, or two sides and a non-enclosed angle are known.
 
 2. **Cosine Rule:** The Cosine Rule relates the lengths of the sides of a triangle to the cosine of one of its angles. It is used in non-right-angled triangles when you know either two sides and the included angle or three sides. The rule is:
-   \[
-   c^2 = a^2 + b^2 - 2ab \cdot \cos(C)
-   \]
+   $`c^2 = a^2 + b^2 - 2ab \cdot \cos(C)`$
    where $`a`$, $`b`$, and $`c`$ are the sides of the triangle, and $`C`$ is the angle opposite side $`c`$. This rule is a generalization of the Pythagorean theorem.
 
 ### Trigonometric Functions and Graphs
