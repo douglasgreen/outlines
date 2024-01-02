@@ -2,25 +2,17 @@
 
 ## A
 * Afrique - Africa
-* Albert - Albert (name)
-* Alexandre - Alexandre (name)
 * Algérie - Algeria
 * Allemagne - Germany
 * Amérique - America
-* André - André (name)
 * Anglaise - English (feminine singular)
 * Angleterre - England
-* Anne - Anne (name)
-* Antoine - Antoine (name)
-* Arthur - Arthur (name)
 * Asie - Asia
 * Australie - Australia
 * Autriche - Austria
 
 ## B
-* Benoît - Benedict (name)
 * Berlin - Berlin
-* Bernard - Bernard (name)
 * Bretagne - Brittany
 * Bruxelles - Brussels
 * Brésil - Brazil
@@ -28,19 +20,11 @@
 ## C
 * Californie - California
 * Canada - Canada
-* Charles - Charles (name)
 * Chasse - hunt
 * Chicago - Chicago
 * Chine - China
-* Christian - Christian (name)
-* Christophe - Christophe (name)
 * Corse - Corsica
 * Coupe - cup, trophy
-
-## D
-* Daniel - Daniel (name)
-* David - David (name)
-* Denis - Denis (name)
 
 ## E
 * Espagne - Spain
@@ -49,54 +33,28 @@
 ## F
 * Fils - son
 * France - France
-* François - François (name)
-* Frédéric - Frédéric (name)
 
 ## G
 * Genève - Geneva
-* Georges - Georges (name)
-* Guy - Guy (name)
-
-## H
-* Henri - Henri (name)
 
 ## I
 * Inde - India
 * Irlande - Ireland
 * Italie - Italy
 
-## J
-* Jeanne - Jeanne (name)
-* Joseph - Joseph (name)
-* José - José (name)
-
 ## L
-* Laurent - Laurent (name)
 * Loire - Loire (river or region)
 * Londres - London
 * Lyon - Lyon (city)
-* Léon - Léon (name)
 
 ## M
-* Marcel - Marcel (name)
-* Maria - Maria (name)
 * Marine - navy
 * Marseille - Marseille (city)
-* Maurice - Maurice (name)
-* Max - Max (name)
 * Mexique - Mexico
-* Michael - Michael (name)
-* Michel - Michel (name)
 * Montréal - Montreal
 * Moscou - Moscow
 
-## N
-* Nicolas - Nicolas (name)
-
 ## P
-* Patrick - Patrick (name)
-* Paul - Paul (name)
-* Philippe - Philippe (name)
 * Pologne - Poland
 * Provence - Provence (region)
 * Pyrénées - Pyrenees (mountain range)
@@ -106,31 +64,24 @@
 
 ## R
 * Rhône - Rhône (river)
-* Roger - Roger (name)
 * Rome - Rome
 * Russie - Russia
 
 ## S
 * Seine - Seine (river in France)
-* Simon - Simon (name)
-* Smith - Smith (name)
 * Somme - Somme (river or department in France)
 * Strasbourg - Strasbourg (city)
 
 ## T
 * Terre - Earth
-* Thomas - Thomas (name)
 * Toulouse - Toulouse (city)
 
 ## V
-* Victor - Victor (name)
 * Vienne - Vienna
-* Vincent - Vincent (name)
 
 ## W
 * Washington - Washington
 * Wikipédia - Wikipedia
-* William - William (name)
 
 ## a
 * abandonné - abandoned
@@ -181,7 +132,6 @@
 * air - air
 * ajout - addition
 * ajouter - to add
-* alain - Alain (name)
 * album - album
 * allant - going (present participle of "aller")
 * allemand - German
@@ -321,7 +271,7 @@
 * belgique - Belgium
 * belle - beautiful (feminine singular)
 * ben - well (colloquial)
-* benjamin - youngest child, Benjamin (name)
+* benjamin - youngest child
 * besoin - need
 * bibliothèque - library
 * bien - well, good
@@ -386,7 +336,6 @@
 * cartes - cards, maps
 * cas - case
 * cataloguer - to catalog
-* catherine - Catherine (name)
 * catholique - Catholic
 * cathédrale - cathedral
 * catégorie - category
@@ -473,7 +422,6 @@
 * classement - ranking, classification
 * classique - classic
 * classé - classified, ranked
-* claude - Claude (name)
 * climat - climate
 * clocher - bell tower
 * club - club
@@ -915,7 +863,6 @@
 * groupes - groups
 * grâce - grace, thanks to
 * guerre - war
-* guillaume - Guillaume (name)
 * guinée - Guinea
 * général - general
 * générale - general (feminine singular)
@@ -928,7 +875,6 @@
 * haut - high, top
 * haute - high (feminine singular)
 * hauteur - height
-* henry - Henry (name)
 * heure - hour, time
 * heures - hours
 * histoire - history, story
@@ -996,13 +942,11 @@
 * intérêt - interest
 * invité - invited, guest
 * irlandais - Irish
-* isabelle - Isabelle (name)
 * issu - derived, coming from
 * italien - Italian
 * italienne - Italian (feminine singular)
 
 ## j
-* jacques - Jacques (name)
 * jamais - never
 * janvier - January
 * japon - Japan
@@ -1010,7 +954,6 @@
 * jardin - garden
 * jaune - yellow
 * je - I
-* jean - Jean (name)
 * jeu - game
 * jeune - young
 * jeunes - young people
@@ -1032,8 +975,6 @@
 * juillet - July
 * juin - June
 * juive - Jewish (feminine singular)
-* jules - Jules (name)
-* julien - Julien (name)
 * junior - junior
 * juste - just, fair
 * justice - justice
@@ -1104,8 +1045,6 @@
 * lorraine - Lorraine (region or name)
 * lors - during, at the time of
 * lorsque - when
-* louis - Louis (name)
-* louise - Louise (name)
 * luire - to shine
 * lumière - light
 * lutter - to struggle, to fight
@@ -1116,7 +1055,6 @@
 ## m
 * ma - my (feminine singular)
 * madame - madam, Mrs.
-* madeleine - Madeleine (name), madeleine (pastry)
 * magazine - magazine
 * mai - May
 * main - hand
@@ -1138,15 +1076,13 @@
 * manuel - manual
 * manuscrit - manuscript
 * marais - marsh
-* marc - Marc (name)
 * marchand - merchant
 * marche - march
 * marcher - to walk
 * marché - market
-* marguerite - daisy, Marguerite (name)
+* marguerite - daisy
 * mari - husband
 * mariage - marriage
-* marie - Marie (name), to marry
 * marier - to marry
 * marin - sailor, marine
 * mariner - to marinate, sailor
@@ -1156,7 +1092,6 @@
 * marne - marl
 * marquer - to mark
 * mars - March
-* martin - Martin (name)
 * maréchal - marshal
 * masculin - masculine
 * masse - mass
@@ -1327,7 +1262,6 @@
 * officiellement - officially
 * officier - officer
 * offrir - to offer
-* olivier - Olivier (name)
 * olympique - olympic
 * olympiques - Olympic
 * on - one, we, they
@@ -1435,7 +1369,7 @@
 * physique - physical, physics
 * piano - piano
 * pied - foot
-* pierre - stone, Peter (name)
+* pierre - stone
 * piloter - to pilot
 * pister - to track
 * pièce - piece, room
@@ -1621,7 +1555,6 @@
 * rennes - reindeer, Rennes (city)
 * renommé - renowned
 * renommée - renown, fame
-* rené - René (name)
 * reprendre - to resume, to take back
 * repris - resumed, taken up again
 * reprise - resumption, cover (in music)
@@ -1645,12 +1578,10 @@
 * revenus - income, revenues
 * revue - review, magazine
 * reçu - received
-* richard - Richard (name)
 * rien - nothing
 * risquer - to risk
 * rive - bank, shore
 * rivière - river
-* robert - Robert (name)
 * robot - robot
 * roi - king
 * romain - Roman
@@ -2026,9 +1957,6 @@
 
 ## z
 * zoner - to zone
-
-## É
-* Étienne - Étienne (name)
 
 ## à
 * à - to, at
