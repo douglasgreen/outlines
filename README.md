@@ -81,6 +81,7 @@ Outlines written by ChatGPT on various subjects.
 
 ### German
   * [German Grammar](language/german/grammar.md)
+  * [German Vocabulary](language/german/vocabulary.md)
 
 ### Italian
   * [Italian Grammar](language/italian/grammar.md)
