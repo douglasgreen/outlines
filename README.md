@@ -21,6 +21,7 @@ Outlines written by ChatGPT on various subjects.
   * [Artificial Intelligence](computing/artificial_intelligence/artificial_intelligence.md)
 
 ### Computer Networking
+  * [Computer Networking](computing/computer_networking/computer_networking.md)
   * [Internet Security](computing/computer_networking/internet_security.md)
 
 ### Computer Programming
