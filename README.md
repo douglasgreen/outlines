@@ -135,6 +135,7 @@ Outlines written by ChatGPT on various subjects.
   * [Chemistry](science/chemistry.md)
   * [Physics](science/physics.md)
   * [Science](science/science.md)
+  * [Weather](science/weather.md)
 
 ## Sports
   * [Sports](sports/sports.md)
