@@ -61,6 +61,7 @@ Outlines written by ChatGPT on various subjects.
   * [Apache Web Server](computing/web_development/apache_web_server.md)
   * [Cascading Style Sheets](computing/web_development/css.md)
   * [Hypertext Markup Language](computing/web_development/html.md)
+  * [Symfony](computing/web_development/symfony.md)
   * [WebPack](computing/web_development/webpack.md)
 
 ## History
