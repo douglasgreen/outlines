@@ -119,6 +119,7 @@ Outlines written by ChatGPT on various subjects.
   * [Mythology](mythology/mythology.md)
 
 ## Philosophy
+  * [Ontology](philosophy/ontology.md)
   * [Philosophy](philosophy/philosophy.md)
 
 ## Politics
