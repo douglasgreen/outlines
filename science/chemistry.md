@@ -163,7 +163,7 @@ States of matter refer to the distinct forms that different phases of matter tak
 ### States of Matter
 
 1. **Solids:**
-   - In a solid, atoms or molecules are closely packed in a regular, fixed arrangement. 
+   - In a solid, atoms or molecules are closely packed in a regular, fixed arrangement.
    - Solids have a definite shape and volume.
    - The particles in a solid vibrate in place but do not move freely.
    - Solids have low compressibility due to the close arrangement of particles.
@@ -218,8 +218,8 @@ Solutions and mixtures are fundamental concepts in chemistry, dealing with the c
 ### Types of Mixtures
 
 1. **Homogeneous Mixtures (Solutions):**
-   - A homogeneous mixture has a uniform composition throughout. 
-   - Solutions, a common type of homogeneous mixture, are formed when one substance (the solute) is dissolved in another (the solvent). 
+   - A homogeneous mixture has a uniform composition throughout.
+   - Solutions, a common type of homogeneous mixture, are formed when one substance (the solute) is dissolved in another (the solvent).
    - The particles of the solute are molecularly dispersed in the solvent, making them indistinguishable by the naked eye.
    - Examples include saltwater, air, and alloys like brass.
 
@@ -517,7 +517,7 @@ Chemical equilibrium is a fundamental concept in chemistry, particularly importa
 ### The Concept of Equilibrium
 
 1. **Reversible Reactions:**
-   - In a reversible reaction, the reactants can react to form products, and these products can also react to form the original reactants. 
+   - In a reversible reaction, the reactants can react to form products, and these products can also react to form the original reactants.
 
 2. **Dynamic Equilibrium:**
    - When a reversible reaction is in equilibrium, it doesn't mean that the reactants and products have stopped reacting. Instead, it's a dynamic equilibrium where the rate of the forward reaction (reactants to products) is equal to the rate of the backward reaction (products to reactants).
@@ -539,7 +539,7 @@ Chemical equilibrium is a fundamental concept in chemistry, particularly importa
    - **Change in Pressure:** In reactions involving gases, increasing the pressure (by decreasing volume) shifts the equilibrium towards the side with fewer gas molecules, and decreasing the pressure shifts it towards the side with more gas molecules.
 
 3. **Importance in Chemistry:**
-   - Le Chatelier's principle is used to predict the effect of a change in conditions on the position of equilibrium. 
+   - Le Chatelier's principle is used to predict the effect of a change in conditions on the position of equilibrium.
    - This understanding is crucial in industrial processes where maximizing yield is important. By adjusting conditions like temperature, pressure, and concentrations, chemists can shift equilibria to favor the production of desired products.
 
 In summary, the concept of chemical equilibrium is central to understanding many chemical reactions, particularly those that are reversible. Le Chatelier's principle provides a predictive framework for how changes in conditions affect the equilibrium state, essential for both theoretical studies and practical applications in chemical engineering and various industrial processes.
@@ -551,8 +551,8 @@ Electrochemistry is a branch of chemistry that deals with the relationship betwe
 ### Oxidation-Reduction Reactions
 
 1. **Basics of Redox Reactions:**
-   - Redox reactions involve the transfer of electrons from one substance to another. 
-   - Oxidation is the loss of electrons, and reduction is the gain of electrons. 
+   - Redox reactions involve the transfer of electrons from one substance to another.
+   - Oxidation is the loss of electrons, and reduction is the gain of electrons.
    - In every redox reaction, one species is oxidized (loses electrons), and another is reduced (gains electrons).
 
 2. **Oxidation States:**

@@ -162,7 +162,7 @@ The physical layer is the first and lowest layer in both the OSI (Open Systems I
 
 3. **Signal Attenuation and Amplification:**
    - Signals lose strength over distance, a phenomenon known as **attenuation**. Amplifiers or repeaters are used to boost the signal strength.
-   
+
 4. **Interference and Noise:**
    - External electromagnetic signals can interfere with the transmitted signal, causing **noise**. Shielding, careful channel selection, and error correction techniques are used to minimize this.
 

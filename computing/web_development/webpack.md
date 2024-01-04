@@ -386,7 +386,7 @@ Plugins are an integral part of WebPack, offering a high degree of customization
 ### 1. Multiple Entry and Output Points
 
 - **Purpose:** In larger applications, managing multiple entry points allows you to separate different areas of your app (like admin and front-end interfaces) into distinct bundles. This can improve organization and loading efficiency.
-  
+
 - **Configuration:**
   - Define multiple entry points in the `webpack.config.js` file using an object.
   - Configure corresponding output points using placeholders in the `output` section.

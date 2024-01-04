@@ -2,7 +2,7 @@
 
 ## Introduction to Machine Learning
 
-Machine learning (ML) is a revolutionary field of computer science that focuses on developing algorithms and statistical models that enable computers to perform tasks without explicit instructions. It's a subfield of artificial intelligence (AI) where the core idea is to teach machines to learn and make decisions from data. 
+Machine learning (ML) is a revolutionary field of computer science that focuses on developing algorithms and statistical models that enable computers to perform tasks without explicit instructions. It's a subfield of artificial intelligence (AI) where the core idea is to teach machines to learn and make decisions from data.
 
 **Overview of Machine Learning**
 
@@ -10,7 +10,7 @@ The essence of machine learning lies in its ability to process and learn from la
 
 **History and Evolution**
 
-The concept of machine learning has been evolving since the mid-20th century. The term "Machine Learning" was first coined in 1959 by Arthur Samuel, a pioneer in the field of artificial intelligence. Early developments focused on pattern recognition and the theory that computers can learn without being programmed to perform specific tasks. 
+The concept of machine learning has been evolving since the mid-20th century. The term "Machine Learning" was first coined in 1959 by Arthur Samuel, a pioneer in the field of artificial intelligence. Early developments focused on pattern recognition and the theory that computers can learn without being programmed to perform specific tasks.
 
 In the 1980s, the resurgence of neural networks, which mimic the human brain's interconnected neuron structure, marked a significant milestone. The advent of the internet and the explosion of data in the 1990s and 2000s provided unprecedented resources for training machine learning models, leading to rapid advancements. Today, with the increase in computational power and the availability of big data, machine learning applications are ubiquitous and continue to expand, driving innovations in sectors like healthcare, finance, and autonomous vehicles.
 

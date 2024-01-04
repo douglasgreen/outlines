@@ -70,16 +70,16 @@ Cells are the basic structural and functional units of life. All living organism
 
 ### Types of Cells: Prokaryotic and Eukaryotic
 
-1. **Prokaryotic Cells:** 
-   - **Structure:** Prokaryotic cells are simpler and smaller than eukaryotic cells. They lack a true nucleus and membrane-bound organelles. 
+1. **Prokaryotic Cells:**
+   - **Structure:** Prokaryotic cells are simpler and smaller than eukaryotic cells. They lack a true nucleus and membrane-bound organelles.
    - **Organisms:** Bacteria and Archaea are composed of prokaryotic cells.
-   - **Characteristics:** Their genetic material is not enclosed in a nuclear envelope. Instead, it is typically a single, circular DNA molecule located in a region called the nucleoid. 
+   - **Characteristics:** Their genetic material is not enclosed in a nuclear envelope. Instead, it is typically a single, circular DNA molecule located in a region called the nucleoid.
    - **Cell Wall:** Most prokaryotes have a rigid cell wall that provides shape and protection.
 
-2. **Eukaryotic Cells:** 
+2. **Eukaryotic Cells:**
    - **Structure:** Eukaryotic cells are larger and more complex than prokaryotic cells. They have a true nucleus enclosed by a nuclear membrane and numerous membrane-bound organelles.
    - **Organisms:** Animals, plants, fungi, and protists are made up of eukaryotic cells.
-   - **Characteristics:** The nucleus contains the cell's DNA and is the control center of the cell. 
+   - **Characteristics:** The nucleus contains the cell's DNA and is the control center of the cell.
 
 ### Cell Organelles and Their Functions
 
@@ -101,7 +101,7 @@ Eukaryotic cells have a variety of organelles, each with specific functions:
 
 7. **Ribosomes:** Sites of protein synthesis, found either floating freely in the cytoplasm or attached to the rough ER.
 
-8. **Cell Membrane:** A phospholipid bilayer that surrounds the cell, controlling the movement of substances in and out of the cell. 
+8. **Cell Membrane:** A phospholipid bilayer that surrounds the cell, controlling the movement of substances in and out of the cell.
 
 9. **Cell Wall (in plant cells, fungi, and some prokaryotes):** Provides structure and protection.
 
@@ -191,7 +191,7 @@ Molecular biology is a branch of biology that focuses on the molecular basis of 
    - **Mechanism:** The double helix unwinds, and each strand serves as a template for the synthesis of a new complementary strand. Enzymes like DNA helicase, DNA polymerase, and ligase are involved.
    - **Semiconservative Replication:** Each new DNA molecule consists of one old strand and one new strand, ensuring genetic continuity.
 
-2. **Protein Synthesis:** 
+2. **Protein Synthesis:**
    - **Transcription (in the nucleus):** The first step in protein synthesis is transcription, where the DNA sequence of a gene is transcribed into RNA (specifically, messenger RNA or mRNA).
    - **Translation (in the cytoplasm):** The mRNA then travels to the ribosome, where it is translated into a specific sequence of amino acids, forming a protein. Transfer RNA (tRNA) brings the appropriate amino acids to the ribosome based on the mRNA's codons (sequences of three bases).
 
@@ -332,7 +332,7 @@ Protists and fungi represent two diverse and ecologically significant groups of 
 ### Protists
 
 1. **Diversity:**
-   - Protists are a diverse group of eukaryotic microorganisms, which are neither plants, animals, nor fungi. 
+   - Protists are a diverse group of eukaryotic microorganisms, which are neither plants, animals, nor fungi.
    - They can be unicellular or multicellular without specialized tissues and range from the well-known amoeba and paramecium to giant kelp.
    - Protists include both autotrophic (e.g., algae) and heterotrophic organisms (e.g., protozoa).
 

@@ -58,13 +58,13 @@ In summary, the Earth's atmosphere is not only a shield that protects life by fi
 
 Temperature is a measure of the average kinetic energy of the particles in a substance, which manifests as heat. It's a fundamental environmental parameter and is crucial in meteorology.
 
-**Measurement**: Temperature is most commonly measured using thermometers, which typically use materials like mercury or alcohol that expand and contract with temperature changes. These changes are calibrated against established scales, such as Celsius (°C), Fahrenheit (°F), and Kelvin (K). 
+**Measurement**: Temperature is most commonly measured using thermometers, which typically use materials like mercury or alcohol that expand and contract with temperature changes. These changes are calibrated against established scales, such as Celsius (°C), Fahrenheit (°F), and Kelvin (K).
 
 - **Celsius**: Widely used around the world, it is based on the freezing point (0°C) and boiling point (100°C) of water at sea level.
 - **Fahrenheit**: Predominantly used in the United States, its scale has the freezing point of water at 32°F and the boiling point at 212°F.
 - **Kelvin**: Used primarily in scientific contexts, it starts at absolute zero, the theoretical point where particles have minimal kinetic energy. The freezing point of water in Kelvin is 273.15 K.
 
-**Interpretation**: Temperature readings are not just numbers; they provide critical information about the weather and climate of a region. For instance, they help in understanding the heat distribution of an area, predicting weather patterns, and studying climate change. 
+**Interpretation**: Temperature readings are not just numbers; they provide critical information about the weather and climate of a region. For instance, they help in understanding the heat distribution of an area, predicting weather patterns, and studying climate change.
 
 ### Factors Affecting Temperature Variations
 
@@ -133,7 +133,7 @@ In summary, air pressure and winds are interrelated phenomena crucial to underst
 2. **Relative Humidity**: More commonly used in weather forecasting and reporting, relative humidity is the ratio of the current absolute humidity to the highest possible absolute humidity at a given air temperature, expressed as a percentage. High relative humidity implies that the air is close to being saturated with water vapor and can hold little more, often leading to a feeling of "mugginess."
 
 **Measurement**: Humidity is measured using instruments called hygrometers. The most common types include:
-   
+
    - **Psychrometer**: Consists of two thermometers, one with a dry bulb and one with a wet bulb. Evaporation from the wet bulb cools it, and the difference in readings between the two thermometers is used to calculate humidity.
    - **Electronic Hygrometers**: Utilize sensors to measure the changes in electrical currents or resistance caused by humidity changes.
 

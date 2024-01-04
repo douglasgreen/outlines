@@ -14,7 +14,7 @@ The scope of ontology is vast and intersects with many other philosophical disci
 
 The roots of ontology trace back to ancient philosophy. Early Greek philosophers like Parmenides and Heraclitus were among the first to ponder the nature of being and reality. Plato’s theory of Forms introduced the idea of abstract entities having real existence, while Aristotle further developed these ideas, focusing on categorizing different types of beings and exploring the nature of substance.
 
-In the medieval period, ontology became intertwined with theology, particularly in the works of philosophers like St. Thomas Aquinas, who explored the existence of God and the nature of divine beings. 
+In the medieval period, ontology became intertwined with theology, particularly in the works of philosophers like St. Thomas Aquinas, who explored the existence of God and the nature of divine beings.
 
 The Enlightenment era brought a more scientific and rational approach to ontology, with philosophers like Descartes, Spinoza, and Leibniz contributing significantly to the field. Kant’s transcendental idealism further revolutionized ontology by suggesting that our understanding of existence is shaped by our perception and cognition.
 

@@ -271,7 +271,7 @@ Incorporating images into web pages is a fundamental aspect of web design. HTML 
 
 ### Inserting and Aligning Images
 
-- **Inserting Images:** The `<img>` tag is used to insert images into an HTML page. This tag is self-closing, meaning it doesn't require an end tag. The `src` (source) attribute is used to specify the path to the image file. 
+- **Inserting Images:** The `<img>` tag is used to insert images into an HTML page. This tag is self-closing, meaning it doesn't require an end tag. The `src` (source) attribute is used to specify the path to the image file.
 
   Example:
 
@@ -319,9 +319,9 @@ Incorporating images into web pages is a fundamental aspect of web design. HTML 
 - **Accessibility:** When working with images, it’s vital to consider accessibility. This includes:
 
   - **Alternative Text (`alt` attribute):** Describes the image to users who can’t see it, like visually impaired users using screen readers.
-  
+
   - **Meaningful Images vs Decorative Images:** For images that convey important information, use meaningful `alt` text. For purely decorative images, it's okay to use an empty `alt` attribute (`alt=""`) so screen readers can skip them.
-  
+
   - **Captions and Titles:** Providing captions for images where necessary can enhance understanding, especially for complex images like graphs and charts.
 
 Effective use of images not only enhances the visual appeal of a website but also ensures that the site is accessible and user-friendly for all visitors.

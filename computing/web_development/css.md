@@ -1150,7 +1150,7 @@ Accessibility in web design ensures that websites and web applications can be us
 
 ### Importance of Web Accessibility
 
-1. **Inclusivity**: Web accessibility ensures that people with disabilities (like vision impairment, hearing loss, motor difficulties, cognitive impairments) can use the web. 
+1. **Inclusivity**: Web accessibility ensures that people with disabilities (like vision impairment, hearing loss, motor difficulties, cognitive impairments) can use the web.
 
 2. **Legal Compliance**: Many countries have laws and guidelines regarding web accessibility, such as the Americans with Disabilities Act (ADA) and the Web Content Accessibility Guidelines (WCAG).
 

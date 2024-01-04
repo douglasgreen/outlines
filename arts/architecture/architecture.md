@@ -2,7 +2,7 @@
 
 ## Introduction to Architecture
 
-Architecture, at its essence, is the art and science of designing and constructing buildings and other physical structures. It is a discipline that encompasses a wide range of elements, from the practical aspects of designing living and working spaces to the aesthetic creation of structures that define and enhance the environment we live in. 
+Architecture, at its essence, is the art and science of designing and constructing buildings and other physical structures. It is a discipline that encompasses a wide range of elements, from the practical aspects of designing living and working spaces to the aesthetic creation of structures that define and enhance the environment we live in.
 
 ### The Essence of Architecture
 
@@ -10,7 +10,7 @@ Architecture is far more than just the creation of buildings. It represents a sy
 
 ### Importance in Culture and Society
 
-The significance of architecture is deeply rooted in its capacity to influence and shape society and culture. Buildings and structures, from ancient temples and pyramids to modern skyscrapers and homes, are not just physical entities; they are a testament to human history, ingenuity, and aspiration. They reflect the values, achievements, and aspirations of the societies that built them. 
+The significance of architecture is deeply rooted in its capacity to influence and shape society and culture. Buildings and structures, from ancient temples and pyramids to modern skyscrapers and homes, are not just physical entities; they are a testament to human history, ingenuity, and aspiration. They reflect the values, achievements, and aspirations of the societies that built them.
 
 In cultural terms, architecture serves as a canvas upon which societies paint their aspirations and achievements. Iconic structures like the Eiffel Tower, the Taj Mahal, or the Sydney Opera House are not just architectural feats but also cultural symbols recognized worldwide. They embody the artistic, social, and technological zenith of their era and locale.
 

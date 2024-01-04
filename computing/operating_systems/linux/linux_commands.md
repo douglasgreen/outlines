@@ -158,7 +158,7 @@ Manipulating and editing files are common tasks in the Linux command line. Here,
 
 - **Purpose**: The `cp` command is used to copy files and directories.
 
-- **Basic Usage**: The syntax for `cp` is `cp [options] source destination`. 
+- **Basic Usage**: The syntax for `cp` is `cp [options] source destination`.
    - To copy a file, use `cp file1.txt file2.txt`, which copies the contents of `file1.txt` into `file2.txt`.
    - To copy a file to a directory, use `cp file.txt /path/to/directory/`.
 
@@ -192,7 +192,7 @@ Manipulating and editing files are common tasks in the Linux command line. Here,
 
 - **Nano Editor**:
   - **About**: Nano is a straightforward, easy-to-use text editor in Linux.
-  - **Usage**: Open or create a file with `nano filename.txt`. 
+  - **Usage**: Open or create a file with `nano filename.txt`.
   - **Operations**: It displays a list of common commands at the bottom (`^` represents the `Ctrl` key). For instance, `Ctrl-O` saves the file, and `Ctrl-X` exits the editor.
   - **Suitable for**: Beginners or those who prefer a simple interface.
 
@@ -240,7 +240,7 @@ Managing directories is a fundamental aspect of navigating and organizing the fi
   - `cd` (Change Directory) is the primary command used for navigating between directories.
   - Use `cd ..` to move up one directory, or `cd ~` to return to your home directory.
 
-- **Listing Directories**: 
+- **Listing Directories**:
   - `ls` is used to view the contents of a directory. Use `ls -l` for detailed listings, including directories.
 
 ### Understanding File Permissions and Ownership
@@ -404,7 +404,7 @@ Linux provides a suite of command-line tools that help you view system informati
 - **Using `uname`**:
   - **Purpose**: Displays basic information about the system's hardware and operating system.
   - **Usage**: `uname [options]`
-  - **Options**: 
+  - **Options**:
     - `-a`: Displays all available information (kernel name, version, architecture, etc.).
     - `-r`: Displays the kernel release.
     - `-s`: Displays the kernel name.

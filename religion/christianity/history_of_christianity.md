@@ -181,7 +181,7 @@ The early Christian Church convened several ecumenical councils to address theol
 
 1. **Context**: Convened by Emperor Constantine, the First Council of Nicaea was the first ecumenical council of the Christian Church. It was primarily called to resolve the Arian controversy, which centered around the teachings of Arius, a priest from Alexandria. Arius argued that the Son (Jesus Christ) was not co-eternal with the Father, suggesting a hierarchical relationship within the Trinity.
 
-2. **Outcomes**: 
+2. **Outcomes**:
    - **Nicene Creed**: The council formulated the original Nicene Creed, a statement of faith that affirmed the full divinity of the Son, stating that he was "begotten, not made, being of one substance (homoousios) with the Father." This creed became a central statement of Christian orthodoxy.
    - **Other Decisions**: The council also issued canons on various administrative matters, including the calculation of the date of Easter.
 
@@ -200,7 +200,7 @@ The early Christian Church convened several ecumenical councils to address theol
 
 ### Formation of Key Creeds
 
-- **Creedal Statements**: These councils developed creedal statements to summarize Christian beliefs and ensure doctrinal unity across the Church. 
+- **Creedal Statements**: These councils developed creedal statements to summarize Christian beliefs and ensure doctrinal unity across the Church.
 - **Orthodoxy and Heresy**: The creeds served to define orthodoxy and identify heresies, providing a clear standard against which teachings could be measured.
 - **The Role of the Creeds**: The creeds, especially the Nicene Creed, have played a foundational role in Christian liturgy, catechesis, and theology.
 
@@ -264,7 +264,7 @@ Christianity in the Early Middle Ages, spanning approximately from the 5th to th
 
 2. **St. Patrick**: Known as the "Apostle of Ireland," St. Patrick played a pivotal role in converting the Irish to Christianity in the 5th century. His missionary work laid the groundwork for the establishment of monasteries, which became centers of learning and culture in Ireland.
 
-3. **Other Notable Missionaries**: 
+3. **Other Notable Missionaries**:
    - **St. Columbanus**: An Irish missionary who helped to re-evangelize parts of Western Europe during the 6th century.
    - **St. Boniface**: Known as the "Apostle of the Germans," he was instrumental in the Christianization of Germanic tribes in the 8th century.
 

@@ -586,7 +586,7 @@ In Symfony, a service is any PHP object that performs a specific task, like send
 The Service Container, also known as the Dependency Injection Container, is a powerful tool in Symfony that manages services. It creates and returns service instances on demand and handles dependencies among services.
 
 - **Service Registration**: You register services in the container, typically with a unique identifier (service id) and the class name.
-  
+
 - **Service Configuration**: The container allows you to configure services, like setting arguments or calling methods after the service is instantiated.
 
 - **Fetching Services**: When you need a service, the container can be asked to provide it. Symfony's container ensures that only one instance of each service is created by default (singleton pattern).
@@ -596,7 +596,7 @@ The Service Container, also known as the Dependency Injection Container, is a po
 Dependency Injection (DI) is a design pattern that Symfony heavily utilizes to manage dependencies between objects.
 
 - **Injecting Services**: DI allows you to "inject" services into other services or controllers instead of creating them directly. This can be done via constructor injection, setter injection, or property injection.
-  
+
 - **Autowiring**: Symfony supports autowiring, which automatically injects services by type-hinting arguments in constructors or other methods. This reduces the configuration needed for DI.
 
 - **Example of DI**: Suppose you have a `MailerService` that depends on a `LoggerService`. Instead of creating a `LoggerService` inside `MailerService`, you inject `LoggerService` via the constructor.
@@ -1125,7 +1125,7 @@ Webpack Encore is a simpler way to use Webpack, the popular module bundler. Enco
        .setPublicPath('/build')
        // only needed for CDN's or sub-directory deploy
        .setManifestKeyPrefix('build/')
-       
+
        // will create public/build/app.js and public/build/app.css
        .addEntry('app', './assets/app.js')
 

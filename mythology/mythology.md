@@ -177,7 +177,7 @@ In summary, Norse legends and their concept of the afterlife reflect a culture t
 Egyptian mythology, with its intricate blend of religion, culture, and governance, is a fascinating study of how ancient Egyptians viewed the world and the afterlife. Central to this mythology were the gods, the pharaohs (considered divine rulers), and a detailed concept of the afterlife, which led to the practice of mummification. Let's delve into these aspects:
 
 ### Understanding Egyptian Gods
-1. **Major Deities**: 
+1. **Major Deities**:
    - **Ra/Amun-Ra**: The sun god, often considered the king of the gods and creator of the world.
    - **Osiris**: The god of the afterlife, death, life, and resurrection.
    - **Isis**: The goddess of magic, marriage, healing, and protection.
@@ -217,7 +217,7 @@ Egyptian mythology is renowned for its rich array of mythical creatures and bein
 
 ### Other Mystical Beings in Egyptian Lore
 
-1. **Ammit**: 
+1. **Ammit**:
    - A demoness known as the "Devourer of the Dead", Ammit is depicted as a composite creature with the head of a crocodile, the forepart of a lion, and the hindquarters of a hippopotamus.
    - She resides in the Hall of Two Truths and devours the souls of those deemed unworthy, whose hearts are heavier than the feather of Ma'at.
 

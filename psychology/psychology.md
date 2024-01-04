@@ -353,7 +353,7 @@ Emotion is a complex psychological state involving three distinct components: a 
 ### Theories of Emotion
 
 1. **James-Lange Theory**: Proposes that emotions result from our interpretations of our bodily reactions to stimuli.
-   
+
 2. **Cannon-Bard Theory**: Suggests that we experience emotions and physiological reactions simultaneously, but independently.
 
 3. **Schachter-Singer Two-Factor Theory**: Argues that emotion is based on physiological arousal and cognitive interpretation of that arousal.
@@ -522,7 +522,7 @@ Psychological therapies and treatments are designed to help individuals with a v
 ### Psychotherapy
 
 1. **Psychoanalysis and Psychodynamic Therapies**: Based on Freudian psychology, this approach aims to explore unconscious thoughts and feelings, typically rooted in early life experiences. It often involves exploring past experiences to understand current behaviors.
-   
+
 2. **Humanistic Therapy**: Focuses on helping individuals develop a stronger and healthier sense of self. Methods like client-centered therapy, developed by Carl Rogers, emphasize an empathetic and non-judgmental therapeutic environment.
 
 3. **Group Therapy**: Involves one or more therapists working with several individuals at the same time. This format is beneficial for individuals who can gain insight and support from peers facing similar issues.

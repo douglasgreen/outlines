@@ -88,7 +88,7 @@ In summary, Judaism is a rich and complex religion with a long history. It's dee
 
 ## Abrahamic Religions - Christianity
 
-Christianity, one of the major Abrahamic religions, is based on the life and teachings of Jesus Christ. It has played a crucial role in the shaping of Western civilization and has a significant presence worldwide. 
+Christianity, one of the major Abrahamic religions, is based on the life and teachings of Jesus Christ. It has played a crucial role in the shaping of Western civilization and has a significant presence worldwide.
 
 **History:**
 Christianity began in the 1st century CE as a Jewish sect in the Roman province of Judea. Its founder, Jesus of Nazareth, preached about the coming of God's kingdom and was crucified by the Roman authorities. His resurrection, as believed by his followers, became the cornerstone of Christian faith. The teachings of Jesus and the apostles spread rapidly throughout the Roman Empire and beyond, leading to the establishment of one of the world's largest religions.
@@ -111,7 +111,7 @@ Christianity is a diverse religion with numerous denominations, each with its ow
 **Global Impact:**
 Christianity has profoundly impacted world history and culture. In the realms of art, music, literature, and philosophy, Christian themes and ideas have been a dominant force. The Christian moral and ethical teachings have significantly influenced legal and political systems, particularly in the Western world.
 
-Christian missions have played a crucial role in the spread of Christianity globally. This expansion has not only spread the religion but also influenced cultural, educational, and social aspects of societies around the world. 
+Christian missions have played a crucial role in the spread of Christianity globally. This expansion has not only spread the religion but also influenced cultural, educational, and social aspects of societies around the world.
 
 Moreover, Christianity has been a source of both unity and conflict. While it has fostered a sense of community and shared values among its followers, it has also been a factor in wars, colonialism, and cultural clashes.
 
@@ -294,7 +294,7 @@ These rituals and ceremonies serve various functions, including marking importan
 Sacred texts and religious writings are central to the beliefs, practices, and historical identity of religious traditions. They vary widely in form, content, and the role they play within their respective faiths. Key texts such as the Bible, Quran, Bhagavad Gita, among others, have not only shaped the spiritual lives of their adherents but have also had a profound influence on culture, literature, and history.
 
 **The Bible (Christianity):**
-- The Bible is divided into the Old Testament (shared with Judaism) and the New Testament. 
+- The Bible is divided into the Old Testament (shared with Judaism) and the New Testament.
 - The Old Testament includes books of law (like the Torah in Judaism), history, poetry, and prophecy.
 - The New Testament contains the Gospels (accounts of Jesus Christ’s life and teachings), the Acts of the Apostles, the Epistles (letters from early Christian leaders like Paul), and the Book of Revelation.
 - Christians view the Bible as the inspired word of God and a guide for faith and practice.
@@ -477,7 +477,7 @@ Religion significantly influences and is influenced by social issues such as gen
 
 **Impact of Religion on Social Issues:**
 
-1. **Gender**: 
+1. **Gender**:
    - **Roles and Expectations**: Many religions have traditional teachings regarding gender roles. For instance, certain interpretations of Christianity, Islam, and Judaism advocate for distinct roles for men and women, often with a focus on family and motherhood for women.
    - **Leadership and Ordination**: Issues around the ordination and religious leadership roles for women are significant in many faiths. For example, the ordination of women priests in Christianity or the role of women in religious leadership in Islam and Orthodox Judaism.
    - **Feminist Theology**: In response, feminist theologians in various religions challenge traditional interpretations and advocate for more inclusive understandings of gender roles.

@@ -436,7 +436,7 @@ The future of horror fiction, while always rooted in its ability to evoke fear a
 
 ### Technological and Societal Influence
 - **Techno-Horror**: As technology continues to advance and permeate all aspects of life, horror fiction is likely to explore the fears and anxieties associated with these developments. This could include themes related to artificial intelligence, virtual reality, and the impact of social media.
-- **Reflecting Contemporary Issues**: Horror fiction will likely continue to reflect and comment on contemporary social and political issues, such as climate change, pandemics, social unrest, and privacy concerns. 
+- **Reflecting Contemporary Issues**: Horror fiction will likely continue to reflect and comment on contemporary social and political issues, such as climate change, pandemics, social unrest, and privacy concerns.
 
 ### Genre Blending
 - **Cross-Genre Stories**: There is a growing trend of blending horror with other genres, such as romance, comedy, and science fiction. This hybridization allows for fresh and innovative storytelling approaches within the horror genre.
@@ -482,7 +482,7 @@ In conclusion, the adaptation of horror stories across different media showcases
 
 ## Conclusion
 
-The allure of horror, a genre that has persisted and evolved over centuries, lies in its complex interplay with our most primal emotions – fear, curiosity, and the thrill of the unknown. Despite, or perhaps because of, its exploration of the darker aspects of existence, horror maintains a significant and enduring appeal. 
+The allure of horror, a genre that has persisted and evolved over centuries, lies in its complex interplay with our most primal emotions – fear, curiosity, and the thrill of the unknown. Despite, or perhaps because of, its exploration of the darker aspects of existence, horror maintains a significant and enduring appeal.
 
 ### Reflection of Human Fears and Anxieties
 - **Universal and Timeless Themes**: At its core, horror taps into the universal and timeless aspects of the human experience – our fears, anxieties, and the existential dread of the unknown and unknowable. These themes are as relevant today as they were in the past, ensuring the genre's continued relevance and appeal.

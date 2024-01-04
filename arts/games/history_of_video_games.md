@@ -187,7 +187,7 @@ The late 1980s to the 1990s marked the 16-bit era in video gaming, a period defi
 
 ### Iconic Games and Innovations
 
-1. **Sega Genesis Milestones**: 
+1. **Sega Genesis Milestones**:
    - **Sonic the Hedgehog**: Sega's answer to Mario, Sonic was fast-paced and had a distinctive visual style. Sonic became Sega's mascot and remains one of the most recognizable characters in gaming.
    - **Sports Titles**: Sega capitalized on sports games, with titles like "Madden NFL" and "NBA Jam" being particularly popular.
    - **Diverse Library**: The Genesis had a diverse library, including games like "Streets of Rage," "Shinobi," and "Phantasy Star."
@@ -222,7 +222,7 @@ The 1990s marked a monumental shift in the video game industry with the advent o
 
 ### Sony PlayStation
 
-1. **Market Entry and Impact**: Sony entered the console market in 1994 with the PlayStation. It was a game-changer, boasting powerful hardware capable of rendering complex 3D graphics, and it came at an accessible price point. 
+1. **Market Entry and Impact**: Sony entered the console market in 1994 with the PlayStation. It was a game-changer, boasting powerful hardware capable of rendering complex 3D graphics, and it came at an accessible price point.
 
 2. **CD-ROM Format**: The PlayStation utilized the CD-ROM format, allowing for greater storage capacity than cartridges. This enabled more detailed games, better audio quality, and full-motion video sequences.
 
@@ -416,9 +416,9 @@ Esports, or electronic sports, refers to the world of competitive, organized vid
 
 3. **Major Tournaments and Leagues**: Esports features major international tournaments like the League of Legends World Championship, Dota 2's The International, and the Intel Extreme Masters. These events attract massive audiences, both in-person and online, and offer substantial prize pools.
 
-4. **Streaming and Viewership**: Platforms like Twitch and YouTube have been instrumental in the growth of esports, allowing millions worldwide to watch live streams of tournaments and individual gamers. 
+4. **Streaming and Viewership**: Platforms like Twitch and YouTube have been instrumental in the growth of esports, allowing millions worldwide to watch live streams of tournaments and individual gamers.
 
-5. **Media and Sponsorship**: Increasing viewership has attracted significant sponsorships and media rights deals to esports, with major brands investing in tournaments and teams. 
+5. **Media and Sponsorship**: Increasing viewership has attracted significant sponsorships and media rights deals to esports, with major brands investing in tournaments and teams.
 
 6. **Integration with Traditional Sports**: Esports has started to blend with traditional sports, with several sports franchises owning or sponsoring esports teams. Additionally, universities have begun to recognize esports, offering scholarships and forming collegiate leagues.
 

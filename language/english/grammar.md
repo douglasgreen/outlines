@@ -231,7 +231,7 @@ English tenses are used to indicate the timing of actions, events, or states. Th
 
 ### 1. **Present Tenses**
 
-- **Simple Present**: Expresses habitual actions, general truths, or states. 
+- **Simple Present**: Expresses habitual actions, general truths, or states.
   - *Example*: "She walks to school every day."
 - **Present Continuous (Progressive)**: Indicates actions happening at the moment of speaking or current temporary actions.
   - *Example*: "He is reading a book right now."
@@ -277,7 +277,7 @@ Active and passive voice are two different ways of structuring sentences in Engl
 
 ### Active Voice
 
-In active voice sentences, the subject performs the action expressed by the verb. These sentences focus on the subject's action. 
+In active voice sentences, the subject performs the action expressed by the verb. These sentences focus on the subject's action.
 
 - **Structure**: Subject (doer) + Verb (action) + Object (receiver)
 - **Example**: "The cat (subject) chased (verb) the mouse (object)."
@@ -455,7 +455,7 @@ Adjectives and adverbs are two essential parts of speech in English grammar, eac
 Adjectives describe or modify nouns and pronouns, providing details like quality, quantity, size, and color.
 
 #### Usage:
-- **Position**: Usually, adjectives are placed before the noun or after a linking verb. 
+- **Position**: Usually, adjectives are placed before the noun or after a linking verb.
   - Before a noun: "A beautiful painting."
   - After a linking verb: "The painting is beautiful."
 
@@ -476,7 +476,7 @@ Adjectives describe or modify nouns and pronouns, providing details like quality
 Adverbs modify verbs, adjectives, or other adverbs, providing information about manner, time, place, degree, or frequency.
 
 #### Usage:
-- **Position**: Can vary; they may appear at the beginning, middle, or end of a sentence. 
+- **Position**: Can vary; they may appear at the beginning, middle, or end of a sentence.
   - Beginning: "Quickly, she finished her work."
   - Middle: "She quickly finished her work."
   - End: "She finished her work quickly."
@@ -521,7 +521,7 @@ Phrasal verbs are combinations of a verb and one or more prepositions or adverbs
 
 #### Understanding Phrasal Verbs:
 - **Literal vs. Idiomatic**: Some phrasal verbs can be understood literally (e.g., "turn off the light"), while others are idiomatic and need to be learned as whole expressions (e.g., "give up" meaning to quit).
-- **Separable and Inseparable**: In some phrasal verbs, the object can come between the verb and the preposition/adverb (separable), while in others, it cannot (inseparable). 
+- **Separable and Inseparable**: In some phrasal verbs, the object can come between the verb and the preposition/adverb (separable), while in others, it cannot (inseparable).
   - Separable: "She looked the word up."
   - Inseparable: "We ran into an old friend."
 
@@ -908,7 +908,7 @@ Letter writing and email etiquette are crucial skills in English communication, 
 
 Traditional letter writing, whether personal or professional, follows a specific format:
 
-#### 1. **Heading**: 
+#### 1. **Heading**:
 - **Personal Letter**: Usually, only the writer's address and the date are included.
 - **Business Letter**: Includes the writer's address, recipient's address, and the date.
 

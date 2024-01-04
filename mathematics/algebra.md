@@ -77,7 +77,7 @@ Variables are used to generalize mathematical relationships and principles, maki
 Variables can undergo the same basic operations as numbers: addition, subtraction, multiplication, and division. However, when performing these operations with variables, the specific value of the variable is not always known. Instead, the operations focus on manipulating the variables symbolically. For example:
 
 - **Addition/Subtraction**: Variables can be added or subtracted if they are "like terms" (i.e., they have the same variable part). For instance, $`3x + 2x = 5x`$ but $`3x + 2y`$ cannot be simplified further.
-  
+
 - **Multiplication**: When multiplying variables, their coefficients (numerical parts) are multiplied together, and their variable parts are combined following the rules of exponents. For instance, $`3x \times 2x = 6x^2`$.
 
 - **Division**: Variables can be divided, and this often involves simplifying the expression by canceling out common terms in the numerator and denominator. For instance, $`\frac{6x^2}{3x} = 2x`$.
@@ -492,12 +492,12 @@ Radical equations are equations in which the variable is under a radical. To sol
 ### Graphing Radical Functions
 The graph of a radical function, particularly a square root function, has some distinct characteristics:
 
-1. **Square Root Function ($`f(x) = \sqrt{x}`$)**: 
+1. **Square Root Function ($`f(x) = \sqrt{x}`$)**:
    - The graph starts at the origin (0,0) and increases slowly to the right.
    - It is defined only for $`x \geq 0`$ and $`y \geq 0`$ since you can't take the square root of a negative number in the real number system.
    - The curve is concave down and approaches, but never touches, the x-axis and y-axis.
 
-2. **Higher-Order Roots**: 
+2. **Higher-Order Roots**:
    - For even-order roots (like $`\sqrt[4]{x}`$), the graph is similar to the square root function but grows more slowly.
    - For odd-order roots (like $`\sqrt[3]{x}`$), the graph extends to the left of the y-axis, reflecting that odd roots are defined for negative numbers.
 
@@ -530,7 +530,7 @@ Sequences and series are fundamental concepts in mathematics with extensive appl
 
 ## An Introduction to Probability
 
-Probability is a branch of mathematics that deals with calculating the likelihood of a given event's occurrence, which is expressed as a number between 0 and 1. 
+Probability is a branch of mathematics that deals with calculating the likelihood of a given event's occurrence, which is expressed as a number between 0 and 1.
 
 ### Basic Probability Concepts
 1. **Experiment**: An action or procedure that produces well-defined outcomes.

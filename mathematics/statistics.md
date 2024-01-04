@@ -241,7 +241,7 @@ In statistics, the concept of sampling distributions is fundamental for understa
 1. **Definition**: The standard error of a statistic (like the sample mean) is the standard deviation of its sampling distribution. It provides a measure of the variability or spread of the sampling distribution.
 
 2. **Calculation for Sample Mean**: The standard error of the mean (SEM) is calculated by dividing the standard deviation of the population ($`\sigma`$) by the square root of the sample size ($`n`$):
-   
+
    $`\text{SEM} = \frac{\sigma}{\sqrt{n}}`$
 
 3. **Interpretation**: A smaller standard error indicates that the sample mean is more closely clustered around the population mean. The SEM decreases as the sample size increases, reflecting the increased precision in estimating the population mean with larger samples.

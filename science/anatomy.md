@@ -12,7 +12,7 @@ Physiology complements anatomy and focuses on how biological systems function an
 
 ### Importance and Applications in Medicine and Biology
 
-The study of anatomy and physiology is essential in medicine and biology. A thorough understanding of the human body's structure and function is fundamental for diagnosing diseases, performing medical procedures, and developing treatments. 
+The study of anatomy and physiology is essential in medicine and biology. A thorough understanding of the human body's structure and function is fundamental for diagnosing diseases, performing medical procedures, and developing treatments.
 
 - **In Medicine**: Knowledge of anatomy is critical for surgeons, for example, who must understand the physical layout of tissues and organs to perform operations. Similarly, understanding physiological processes helps in understanding how diseases develop, how the body reacts to illnesses, and how it metabolizes medications.
 

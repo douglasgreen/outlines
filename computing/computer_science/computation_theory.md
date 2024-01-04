@@ -6,10 +6,10 @@ Computation theory, also known as the theory of computation, is a branch of comp
 
 ### Overview of Computation Theory
 
-Computation theory revolves around three primary areas: automata theory, computability theory, and complexity theory. 
+Computation theory revolves around three primary areas: automata theory, computability theory, and complexity theory.
 
 - **Automata Theory**: This area focuses on abstract machines (automata) and the problems they can solve. It is fundamental to understanding the nature of computational problems and includes studying finite automata, context-free grammars, and Turing machines.
-  
+
 - **Computability Theory**: This aspect delves into what can or cannot be computed in principle. It deals with questions about the limits of computational power and the distinction between solvable and unsolvable problems.
 
 - **Complexity Theory**: Complexity theory studies the efficiency of algorithms and categorizes them based on the amount of computational resources they require, such as time and memory. This includes understanding the class of problems known as P (polynomial time) and NP (nondeterministic polynomial time), and the famous P vs NP problem.
@@ -46,7 +46,7 @@ Mathematical logic is a branch of mathematics that deals with formal systems and
 
 ### Propositional Logic
 
-Propositional logic, also known as propositional calculus or statement logic, deals with propositions and their logical relationships and combinations. In this context, a proposition is a statement that is either true or false but not both. 
+Propositional logic, also known as propositional calculus or statement logic, deals with propositions and their logical relationships and combinations. In this context, a proposition is a statement that is either true or false but not both.
 
 - **Basic Elements**: The basic elements of propositional logic are logical constants (true and false), variables representing propositions, and logical connectives (like AND, OR, NOT, IF...THEN, and IF AND ONLY IF).
 - **Truth Tables**: A primary tool in propositional logic is the truth table, which outlines the truth-value of compound propositions for all possible truth values of their component propositions.

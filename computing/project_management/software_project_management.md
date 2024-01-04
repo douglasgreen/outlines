@@ -18,7 +18,7 @@ Software project management is a vital and multifaceted field that encompasses t
 
 **Agile Revolution:** The 1990s brought a significant shift with the advent of Agile methodologies, in response to the limitations of traditional, rigid project management models. Agile approaches, such as Scrum, emphasized flexibility, iterative development, and collaboration with customers. The Agile Manifesto, formulated in 2001, encapsulated the principles of these methodologies, prioritizing individuals and interactions, working software, customer collaboration, and responding to change.
 
-**Current Trends:** Today, software project management continues to evolve, integrating both traditional and Agile methodologies. This hybrid approach allows for greater adaptability and responsiveness. With the increasing complexity of software projects and the rapid advancement of technology, project management has become more dynamic, incorporating elements like DevOps, continuous integration, and cloud computing. 
+**Current Trends:** Today, software project management continues to evolve, integrating both traditional and Agile methodologies. This hybrid approach allows for greater adaptability and responsiveness. With the increasing complexity of software projects and the rapid advancement of technology, project management has become more dynamic, incorporating elements like DevOps, continuous integration, and cloud computing.
 
 **Looking Ahead:** The future of software project management is expected to embrace more automation, artificial intelligence, and advanced analytics to further streamline the project management process and tackle the challenges of increasingly complex software development environments.
 
@@ -227,7 +227,7 @@ Project resources encompass all the inputs required to carry out a project. Thes
 
 ### Techniques for Effective Resource Allocation
 
-1. **Resource Planning:** 
+1. **Resource Planning:**
    - Start with a comprehensive resource plan that details what resources are needed, in what quantities, and when. This should be aligned with the project’s scope and timeline.
 
 2. **Skill Assessment and Resource Matching:**
@@ -379,10 +379,10 @@ Project monitoring and control is an ongoing process in project management that 
    - To manage and mitigate risks and issues as they arise.
    - To provide accurate and timely information to stakeholders.
 
-2. **Continuous Process:** 
+2. **Continuous Process:**
    - Monitoring and control is not a one-time event but a continuous activity throughout the project lifecycle.
 
-3. **Feedback Loop:** 
+3. **Feedback Loop:**
    - It acts as a feedback loop, providing information needed for informed decision-making and for initiating changes.
 
 ### Techniques for Effective Project Monitoring and Control
