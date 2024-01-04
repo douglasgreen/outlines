@@ -95,6 +95,9 @@ Outlines written by ChatGPT on various subjects.
   * [Spanish Grammar](language/spanish/grammar.md)
   * [Spanish Vocabulary](language/spanish/vocabulary.md)
 
+## Law
+  * [Law](law/law.md)
+
 ## Lifestyle
   * [Personal Productivity](lifestyle/personal_productivity.md)
 
