@@ -100,6 +100,7 @@ Outlines written by ChatGPT on various subjects.
 
 ## Literature
   * [Fantasy Fiction](literature/fantasy_fiction.md)
+  * [Horror Fiction](literature/horror_fiction.md)
   * [Science Fiction](literature/science_fiction.md)
 
 ## Mathematics
