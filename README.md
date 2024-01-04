@@ -42,6 +42,7 @@ Outlines written by ChatGPT on various subjects.
 
 ### Operating Systems
   * [Linux](computing/operating_systems/linux/linux.md)
+  * [Linux Commands](computing/operating_systems/linux/linux_commands.md)
 
 ### Programming Languages
   * [JavaScript](computing/programming_languages/javascript.md)
