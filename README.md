@@ -22,7 +22,6 @@ Outlines written by ChatGPT on various subjects.
 
 ### Computer Networking
   * [Computer Networking](computing/computer_networking/computer_networking.md)
-  * [Internet Security](computing/computer_networking/internet_security.md)
 
 ### Computer Programming
   * [Code Reviews](computing/computer_programming/code_reviews.md)
@@ -39,6 +38,9 @@ Outlines written by ChatGPT on various subjects.
 
 ### Data Science
   * [XML](computing/data_science/xml.md)
+
+### Internet
+  * [Internet Security](computing/internet/security.md)
 
 ### Operating Systems
   * [Linux](computing/operating_systems/linux/linux.md)
