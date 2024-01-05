@@ -41,6 +41,7 @@ Outlines written by ChatGPT on various subjects.
 
 ### Internet
   * [Internet Security](computing/internet/security.md)
+  * [Search Engines](computing/internet/search_engines.md)
   * [Web Browsers](computing/internet/web_browsers.md)
 
 ### Operating Systems
