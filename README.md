@@ -32,6 +32,7 @@ Outlines written by ChatGPT on various subjects.
   * [Algorithms](computing/computer_science/algorithms.md)
   * [Computation Theory](computing/computer_science/computation_theory.md)
   * [Computer Science](computing/computer_science/computer_science.md)
+  * [Cryptography](computing/computer_science/cryptography.md)
 
 ### Databases
   * [Databases](computing/databases/databases.md)
