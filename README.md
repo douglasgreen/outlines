@@ -51,6 +51,7 @@ Outlines written by ChatGPT on various subjects.
 ### Programming Languages
   * [JavaScript](computing/programming_languages/javascript.md)
   * [PHP](computing/programming_languages/php.md)
+  * [Programming Languages](computing/programming_languages/programming_languages.md)
 
 ### Project Management
   * [Project Management](computing/project_management/software_project_management.md)
