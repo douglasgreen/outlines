@@ -64,6 +64,7 @@ Outlines written by ChatGPT on various subjects.
   * [Hypertext Markup Language](computing/web_development/html.md)
   * [Hypertext Transfer Protocol](computing/web_development/http.md)
   * [Symfony](computing/web_development/symfony.md)
+  * [Web Browsers](computing/web_development/web_browsers.md)
   * [WebPack](computing/web_development/webpack.md)
 
 ## History
