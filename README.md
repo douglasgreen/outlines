@@ -41,6 +41,7 @@ Outlines written by ChatGPT on various subjects.
 
 ### Internet
   * [Internet Security](computing/internet/security.md)
+  * [Web Browsers](computing/internet/web_browsers.md)
 
 ### Operating Systems
   * [Linux](computing/operating_systems/linux/linux.md)
@@ -66,7 +67,6 @@ Outlines written by ChatGPT on various subjects.
   * [Hypertext Markup Language](computing/web_development/html.md)
   * [Hypertext Transfer Protocol](computing/web_development/http.md)
   * [Symfony](computing/web_development/symfony.md)
-  * [Web Browsers](computing/web_development/web_browsers.md)
   * [WebPack](computing/web_development/webpack.md)
 
 ## History
