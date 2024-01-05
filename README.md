@@ -134,6 +134,7 @@ Outlines written by ChatGPT on various subjects.
   * [Politics](politics/politics.md)
 
 ## Psychology
+  * [Decision Making](psychology/decision_making.md)
   * [Psychology](psychology/psychology.md)
 
 ## Religion
