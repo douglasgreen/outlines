@@ -148,6 +148,7 @@ Outlines written by ChatGPT on various subjects.
 
 ## Technology
   * [Aviation](technology/aviation.md)
+  * [Technological Singularity](technology/technological_singularity.md)
 
 ## Writing
   * [Writing With ChatGPT](writing/writing_with_chatgpt.md)
