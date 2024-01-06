@@ -149,6 +149,7 @@ Outlines written by ChatGPT on various subjects.
   * [Anatomy and Physiology](science/anatomy.md)
   * [Biology](science/biology.md)
   * [Chemistry](science/chemistry.md)
+  * [Climate Change](science/climate_change.md)
   * [Physics](science/physics.md)
   * [Science](science/science.md)
   * [Weather](science/weather.md)
