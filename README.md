@@ -129,6 +129,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Mythology](mythology/mythology.md)
 
 ## Philosophy
+  * [Ethics](philosophy/ethics.md)
   * [Ontology](philosophy/ontology.md)
   * [Philosophy](philosophy/philosophy.md)
 
