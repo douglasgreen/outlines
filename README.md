@@ -1,5 +1,5 @@
 # Outlines
-Outlines written by ChatGPT on various subjects.
+Outlines written by ChatGPT-4 on various subjects.
 
 ## Arts
 
@@ -26,6 +26,7 @@ Outlines written by ChatGPT on various subjects.
 
 ### Computer Programming
   * [Code Reviews](computing/computer_programming/code_reviews.md)
+  * [Object-Oriented Programming](computing/computer_programming/oop.md)
   * [Programming Paradigms](computing/computer_programming/programming_paradigms.md)
 
 ### Computer Science
