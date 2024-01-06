@@ -161,6 +161,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Technology
   * [Aviation](technology/aviation.md)
+  * [History of Invention](technology/history_of_invention.md)
   * [Technological Singularity](technology/technological_singularity.md)
 
 ## Writing
