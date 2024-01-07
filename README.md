@@ -79,6 +79,9 @@ Outlines written by ChatGPT-4 on various subjects.
 ## Health
   * [Health](health/health.md)
 
+### Diseases
+  * [COVID-19](health/diseases/covid-19.md)
+
 ## History
   * [History of the Middle East](history/history_of_middle_east.md)
   * [History of the World](history/history_of_world.md)
