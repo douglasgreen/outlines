@@ -2,7 +2,7 @@
 
 ## Preface:
 
-Explain preface:, while discussing the following topics:
+Explain the following topics:
 * Introduction to the allure of chocolate.
 * Brief overview of chocolate's historical and cultural significance.
 
@@ -64,7 +64,7 @@ Explain chocolate in culture and society, while discussing the following topics:
 
 ## Epilogue:
 
-Explain epilogue:, while discussing the following topics:
+Explain the following topics:
 * Guide to chocolate tasting and appreciation.
 * The enduring appeal of chocolate and its universal connection.
 
