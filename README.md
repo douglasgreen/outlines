@@ -111,6 +111,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Lifestyle
   * [Personal Productivity](lifestyle/personal_productivity.md)
+  * [Wine](lifestyle/wine.md)
 
 ## Literature
   * [Fantasy Fiction](literature/fantasy_fiction.md)
