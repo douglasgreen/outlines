@@ -14,6 +14,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Business
   * [Economics](business/economics.md)
+  * [Personal Productivity](business/personal_productivity.md)
 
 ## Computing
 
@@ -110,7 +111,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Law](law/law.md)
 
 ## Lifestyle
-  * [Personal Productivity](lifestyle/personal_productivity.md)
+  * [Chocolate](lifestyle/chocolate.md)
   * [Wine](lifestyle/wine.md)
 
 ## Literature
