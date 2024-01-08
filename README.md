@@ -66,6 +66,11 @@ Outlines written by ChatGPT-4 on various subjects.
   * [PHP](computing/programming_languages/php.md)
   * [Programming Languages](computing/programming_languages/programming_languages.md)
 
+### Software
+
+#### Text Editors
+  * [Vim](computing/software/text_editors/vim.md)
+
 ### Software Design
   * [Design Patterns](computing/software_design/design_patterns.md)
   * [Software Architecture](computing/software_architecture/software_architecture.md)
