@@ -83,6 +83,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [COVID-19](health/diseases/covid-19.md)
 
 ## History
+  * [Ancient Greece](history/ancient_greece.md)
   * [Ancient Rome](history/ancient_rome.md)
   * [History of the Middle East](history/history_of_middle_east.md)
   * [History of the World](history/history_of_world.md)

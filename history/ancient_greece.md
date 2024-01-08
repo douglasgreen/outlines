@@ -691,14 +691,134 @@ In summary, Greek warfare was characterized by the dominant role of the phalanx 
 
 ## Legacy of Ancient Greece
 
-Explain legacy of ancient Greece, while discussing the following topics:
-* Influence of Greek culture on Rome and Western civilization
-* Reflection on the enduring impact of Greek philosophy, politics, and art
+The legacy of ancient Greece is profound and enduring, deeply influencing Rome and the broader course of Western civilization. Greek contributions in philosophy, politics, art, and other fields have shaped modern thought, cultural practices, and societal structures.
+
+### Influence of Greek Culture on Rome and Western Civilization
+
+1. **Impact on Rome**:
+   - The Romans were greatly influenced by Greek culture, adopting and adapting various aspects of Greek art, architecture, religion, and mythology. Roman literature, philosophy, and education were heavily influenced by Greek models, with many Roman elites being educated by Greek tutors.
+   - Greek sculptures were admired and copied by Roman artists. Architecturally, the Romans incorporated Greek styles, as seen in their use of columns and the adoption of building types like the temple and the theatre.
+
+2. **Foundations for Western Civilization**:
+   - Greek culture laid the foundational elements for Western civilization. The Greek emphasis on rationalism and the pursuit of knowledge influenced scientific thought and the development of the scientific method.
+   - In literature and drama, the themes, styles, and genres developed by the Greeks continue to influence writers and playwrights. The Greek epic, tragedy, and comedy set templates for narrative and dramatic structures.
+
+### Reflection on the Enduring Impact of Greek Philosophy, Politics, and Art
+
+1. **Philosophy**:
+   - Greek philosophy, especially the works of Socrates, Plato, and Aristotle, remains central to Western philosophical thought. Their explorations of ethics, metaphysics, epistemology, and political theory continue to influence modern philosophy, education, and ethical frameworks.
+   - The methods of logical argumentation and systematic inquiry developed by the Greeks form the basis of academic disciplines and intellectual inquiry.
+
+2. **Politics**:
+   - The concept of democracy, first practiced in Athens, has been a significant influence on political systems in the modern world. Although modern democratic systems differ from the Athenian model, the fundamental idea of citizen participation in governance is a lasting legacy.
+   - Greek political thought, particularly ideas about citizenship, governance, and law, has been influential in shaping political theory and practice throughout Western history.
+
+3. **Art and Architecture**:
+   - Greek art and architecture set standards for beauty, harmony, and proportion that are still admired. The Classical style, characterized by its emphasis on symmetry and idealized form, has been emulated and revived in various cultural epochs, such as the Renaissance and Neoclassicism.
+   - Greek sculpture and pottery, with their emphasis on realism, humanism, and narrative detail, have influenced countless generations of artists.
+
+In summary, the legacy of ancient Greece is immense and far-reaching, impacting virtually every aspect of Western culture. Greek achievements in philosophy, politics, art, and other fields have not only shaped the course of Western history but continue to resonate in contemporary society, reflecting the timeless relevance of Greek contributions to human civilization.
 
 ## Glossary of Terms
 
-Write a glossary of the top twenty terms used about Ancient Greece.
+**Acropolis:** A high, fortified area, often the site of important temples and public buildings in Greek cities, most famously the one in Athens.
+
+**Agora:** The central public space in ancient Greek city-states, used for assemblies, markets, and social gatherings.
+
+**Democracy:** A form of government first practiced in Athens, where all citizens could participate in decision-making.
+
+**Hellenistic:** The period and culture associated with Greek expansion and influence following the conquests of Alexander the Great, from the death of Alexander in 323 BCE to the beginning of Roman dominance.
+
+**Hoplite:** A heavily armed foot soldier of ancient Greece, typically a citizen-soldier, forming the backbone of Greek armies.
+
+**Olympics:** Athletic competitions held every four years at Olympia in honor of Zeus, from which the modern Olympic Games are derived.
+
+**Oracle:** A sacred site where gods were believed to communicate with people, often through priestesses, the most famous being the Oracle of Delphi.
+
+**Parthenon:** A temple on the Athenian Acropolis dedicated to the goddess Athena, exemplifying classical Greek architecture.
+
+**Phalanx:** A military formation of heavily armed foot soldiers (hoplites) standing shoulder to shoulder in ranks.
+
+**Philosophy:** The study of fundamental questions about existence, knowledge, and ethics, with famous Greek philosophers including Socrates, Plato, and Aristotle.
+
+**Polis:** (plural: *poleis*): An independent city-state in ancient Greece, with its surrounding countryside.
+
+**Socratic Method:** A form of cooperative argumentative dialogue, named after Socrates, used to stimulate critical thinking and to draw out ideas and underlying presumptions.
+
+**Sparta:** A prominent city-state in ancient Greece, known for its military-oriented society and austere lifestyle.
+
+**Symposium:** A social gathering in ancient Greece, often for the purpose of debating, philosophizing, and enjoying music and entertainment.
+
+**Theatre:** An open-air venue used for dramatic performances; also refers to the dramatic arts widely cultivated in ancient Greece.
+
+**Trireme:** An ancient Greek warship with three banks of oars, known for its speed and agility in naval battles.
+
+**Tyrant:** In the Greek context, a ruler who seized power unconstitutionally but not necessarily ruling oppressively, a common occurrence in Greek city-states during the 6th and 7th centuries BCE.
+
+**Zeus:** The king of the Greek gods, ruler of Mount Olympus, and god of the sky, lightning, and thunder.
+
+**Stoa:** A covered walkway or portico, commonly used for public use; stoas were architectural features in many ancient Greek marketplaces.
+
+**Epicureanism:** A philosophical system founded by Epicurus, advocating for the pursuit of pleasure (understood as tranquility and freedom from fear) and the avoidance of pain as the basis for a happy life.
 
 ## Frequently Asked Questions
 
-Write a list of the top twenty frequently asked questions about Ancient Greece and give a brief answer to each.
+1. **What is Ancient Greece known for?**
+   - Ancient Greece is known for its pioneering achievements in democracy, philosophy, theater, art, architecture, science, and the Olympic Games.
+
+2. **Who were the major Greek gods?**
+   - The major Greek gods included Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes, and Dionysus.
+
+3. **What was the Greek phalanx?**
+   - The phalanx was a rectangular mass military formation, typically composed of heavy infantry armed with spears, shields, and armor.
+
+4. **What is a polis?**
+   - A polis was a city-state in ancient Greece, such as Athens or Sparta, which was a political entity and cultural community.
+
+5. **Who was Alexander the Great?**
+   - Alexander the Great was a Macedonian king who created one of the largest empires of the ancient world, spreading Greek culture across the Mediterranean and into Asia.
+
+6. **What is the Parthenon?**
+   - The Parthenon is a temple on the Athenian Acropolis dedicated to the goddess Athena, known for its iconic Doric architecture.
+
+7. **What did Ancient Greeks eat?**
+   - The Greek diet consisted mainly of bread, olive oil, wine, fruits, vegetables, and fish. Meat was usually consumed during religious festivals.
+
+8. **How did Ancient Greek democracy work?**
+   - Ancient Greek democracy, especially in Athens, involved citizens directly participating in decision-making processes. It was a direct democracy rather than a representative system.
+
+9. **What was the significance of the Olympic Games?**
+   - The Olympic Games were athletic contests held in honor of Zeus. They promoted physical prowess, competition, and unity among the Greek city-states.
+
+10. **What language did Ancient Greeks speak?**
+    - Ancient Greeks spoke Greek, which existed in several dialects. Classical Greek, the language of Athens during its golden age, is the most well-known.
+
+11. **What is Greek mythology?**
+    - Greek mythology is a collection of myths and legends about gods, goddesses, heroes, and mythical creatures, forming a part of ancient Greek religion and culture.
+
+12. **What were Greek houses like?**
+    - Greek houses were typically centered around a courtyard and were made of mud bricks with tiled roofs. Wealthier homes were larger with more decorated interiors.
+
+13. **What was the role of women in Ancient Greece?**
+    - The role of women varied but was generally centered around the household. In most city-states, women had limited rights and were not involved in public life or politics.
+
+14. **How was Ancient Greek government structured?**
+    - The structure varied by city-state. Athens had a democratic government, Sparta was ruled by two kings and an oligarchic council, and other city-states had monarchies or aristocracies.
+
+15. **What were Ancient Greek theaters like?**
+    - Greek theaters were large, open-air structures built into hillsides, featuring a semicircular orchestra, a stage, and tiered seating.
+
+16. **Who were the major Greek philosophers?**
+    - Major Greek philosophers included Socrates, Plato, Aristotle, Epicurus, and Diogenes.
+
+17. **What did Ancient Greek clothing look like?**
+    - Typical Greek clothing included the chiton (tunic) and himation (cloak) for both men and women, made from linen or wool.
+
+18. **What kind of education did Ancient Greeks have?**
+    - Education in Greece focused on physical, intellectual, and moral training, with subjects like philosophy, mathematics, music, and gymnastics.
+
+19. **What was the role of slavery in Ancient Greece?**
+    - Slavery was a significant part of Greek society. Slaves were used for domestic chores, skilled labor, and sometimes in fields or mines.
+
+20. **What are some famous Ancient Greek artworks?**
+    - Famous artworks include the Parthenon sculptures, the statue of Zeus at Olympia, and the bronze statue of Poseidon/Zeus.
