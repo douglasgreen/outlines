@@ -50,8 +50,13 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Web Browsers](computing/internet/web_browsers.md)
 
 ### Operating Systems
+
+#### Linux
   * [Linux](computing/operating_systems/linux/linux.md)
   * [Linux Commands](computing/operating_systems/linux/linux_commands.md)
+
+#### Windows
+  * [Microsoft Windows](computing/operating_systems/windows/microsoft_windows.md)
 
 ### Programming Languages
   * [JavaScript](computing/programming_languages/javascript.md)
