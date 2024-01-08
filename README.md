@@ -165,6 +165,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Science](science/science.md)
   * [Weather](science/weather.md)
 
+## Society
+  * [Sociology](society/sociology.md)
+
 ## Sports
   * [Sports](sports/sports.md)
 
