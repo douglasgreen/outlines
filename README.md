@@ -99,6 +99,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [History of the World](history/history_of_world.md)
 
 ## Language
+  * [Constructed Language](language/constructed_language.md)
 
 ### English
   * [English Grammar](language/english/grammar.md)
