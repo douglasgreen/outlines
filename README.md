@@ -16,6 +16,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Economics](business/economics.md)
   * [Personal Productivity](business/personal_productivity.md)
 
+### Project Management
+  * [Project Management](business/project_management/software_project_management.md)
+
 ## Computing
 
 ### Artificial Intelligence
@@ -62,9 +65,6 @@ Outlines written by ChatGPT-4 on various subjects.
   * [JavaScript](computing/programming_languages/javascript.md)
   * [PHP](computing/programming_languages/php.md)
   * [Programming Languages](computing/programming_languages/programming_languages.md)
-
-### Project Management
-  * [Project Management](computing/project_management/software_project_management.md)
 
 ### Software Design
   * [Design Patterns](computing/software_design/design_patterns.md)
