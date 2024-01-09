@@ -206,3 +206,144 @@ En Git, `checkout`, `reset`, kaj `revert` estas potencaj komandoj kiuj proponas 
 - **Revert**: Kreas novan kontribuon kiu nuligas ŝanĝojn de antaŭa kontribuo, sen modifi la ekzistantan projekthistorion.
 
 Ĉiu el ĉi tiuj komandoj havas specifan celon, kaj kompreni kiam uzi kiun komandon estas ŝlosila kapablo en Git. Memoru, komandoj kiel `git reset --hard` kaj `git checkout -- [nomo-de-dosiero]` povas konduki al perdo de laboro se uzataj senkonsidere, do ĉiam estas bone certiĝi ke vi havas sekurkopion aŭ certiĝi pri la operacio kiun vi faras.
+
+## Laborado kun Forigitaj Deponejoj en Git
+
+Laborado kun forigitaj deponejoj estas fundamento de Git, ebligante kunlaboron kaj kunhavigon de kodo. Kompreni kiel administri kaj interagi kun forigitaj deponejoj estas ŝlosilo por ĉiu uzanto de Git.
+
+### Komprenado de Forigitaj Deponejoj
+
+#### Kio estas Forigita Deponejo?
+- Forigita deponejo en Git estas versio de via projekto, kiu estas gastigita sur la interreto aŭ reto ie, ofte sur servoj kiel GitHub, GitLab, aŭ Bitbucket.
+- Forigajn deponejojn oni uzas por kunhavigi ŝanĝojn faritajn en kodbazo, kunlabori kun aliaj, kaj kiel rezervon de via loka deponejo.
+
+#### Loka kontraŭ Forigita Deponejo
+- La **loka deponejo** estas sur via komputilo, kie vi faras ŝanĝojn rekte.
+- La **forigita deponejo** estas aparta versio kiu loĝas sur fora servilo. Vi povas push ŝanĝojn al ĝi aŭ elŝuti ŝanĝojn el ĝi.
+
+### Aldono kaj Administraj Forigitaj Deponejoj
+
+#### Aldono de Forigita Deponejo
+1. **Komando**: `git remote add <nomo-de-forigito> <URL-de-forigito>`
+2. **Ekzemplo**: `git remote add origin https://github.com/uzantonomo/deponejo.git`
+
+Tiu komando kreas novan forigitan nomitan `origin` (konvencia nomo reprezentanta la ĉefan forigitan) montranta al la URL de la forigita deponejo.
+
+#### Vido de Forigitaj
+- Por vidi la forigitajn deponejojn asociitajn kun via loka deponejo, uzu `git remote -v`. Tio montras la nomojn de la forigitaj kaj iliajn asociajn URL-ajn.
+
+#### Ŝanĝo de URL de Forigito
+- Uzu `git remote set-url <nomo-de-forigito> <nova-URL>` por ŝanĝi la URL-on.
+
+#### Forigo de Forigita Deponejo
+- Forigu forigitan uzante `git remote remove <nomo-de-forigito>`.
+
+### Puŝado kaj Elŝutado el Forigitaj
+
+#### Puŝado al Forigita
+- **Puŝado** rilatas al sendado de viaj lokaj ŝanĝoj al forigita deponejo.
+- **Komando**: `git push <nomo-de-forigito> <nomo-de-branĉo>`
+- **Ekzemplo**: `git push origin master`
+- Tio puŝas viajn konfirmaĵojn de la loka branĉo `master` al la branĉo `master` de la forigita nomita `origin`.
+
+#### Elŝutado el Forigita
+- **Elŝutado** rilatas al prenadado de ŝanĝoj el forigita deponejo kaj enkorporado de ili en vian lokan deponejon.
+- **Komando**: `git pull <nomo-de-forigito> <nomo-de-branĉo>`
+- **Ekzemplo**: `git pull origin master`
+- Tio prenas ŝanĝojn el la branĉo `master` de la forigita `origin` kaj enkorpigas ilin en vian lokan branĉon `master`.
+
+#### Plej Bonaj Praktikoj
+- Regule puŝu viajn ŝanĝojn por teni ĝisdata la forigitan deponejon.
+- Regule elŝutu el la forigita por teni vian lokan deponejon ĝisdata kun la lastaj ŝanĝoj de via teamo.
+
+### Komprenado de Preni kontraŭ Elŝuti
+- `git fetch` elŝutas ŝanĝojn el forigita deponejo sed ne enkorpigas ilin en vian lokan deponejon. Tio estas utila por revizi ŝanĝojn antaŭ ilin enkorporado.
+- `git pull` esence estas `git fetch` sekviĝita de `git merge`.
+
+Laborado kun forigitaj deponejoj estas centra funkcio de Git, ebligante kunlaboron kaj efikan projekta administron. Estas necese kompreni tiujn konceptojn kaj komandojn por efika versikontrolo en teama medio.
+
+## Git Prendi, Preni, kaj Puŝi
+
+En Git, `fetch`, `pull`, kaj `push` estas fundamentaj komandoj uzataj por interagi kun forigitaj deponejoj. Kompreni iliajn diferencojn kaj kiam uzi ĉiun komandon estas kritika por efika kunlaboro kaj prizorgado de sinkronigita kodbazo.
+
+### Diferencoj Inter Prendi, Preni, kaj Puŝi
+
+#### Git Fetch
+- **Celo**: `git fetch` prenas la plej novajn datumojn de la forigita deponejo (kiel branĉoj kaj iliaj respektivaj konfirmaĵoj) sed ne kunfandas ĉi tiujn ŝanĝojn en viaj lokaj branĉoj.
+- **Uzo**: Ĝi estas uzata por ĝisdatigi vian lokan deponejon kun la stato de la forigita deponejo, permesante vidi pri kio aliaj laboris, sen kunfandi tiujn ŝanĝojn en viajn proprajn branĉojn.
+- **Komando**: `git fetch <forigita>`
+
+#### Git Pull
+- **Celo**: `git pull` esence estas kombinaĵo de `git pull` sekviĝita de `git kunfandi`. Ĝi prenas ŝanĝojn el forigita deponejo kaj tuj kunfandas ilin en la lokan branĉon por ĝisdatigi tiun branĉon laŭ la versio de la forigita.
+- **Uzo**: Ĝi estas uzata kiam vi volas kaj ĝisdatigi vian lokan deponejon por kongrui kun la forigita kaj tuj integri tiujn ŝanĝojn en vian nunan branĉon.
+- **Komando**: `git pull <forigita> <branĉo>`
+
+#### Git Push
+- **Celo**: `git push` estas uzata por alŝuti la enhavon de via loka deponejo al fora deponejo.
+- **Uzo**: Post konfirmado de viaj ŝanĝoj lokale, vi uzas `git push` por kunhavigi viajn ŝanĝojn kun la forigita teamaj membroj.
+- **Komando**: `git push <forigita> <branĉo>`
+
+### Sinkronigado kun Forigitaj Deponejoj
+
+- **Prendu por Resti Ĝisdata**: Regule uzas `git fetch` por resti informita pri novaj ŝanĝoj en la forigita deponejo sen tuj integri ilin en vian lokan branĉon.
+- **Prenu por Integri Ŝanĝojn**: Uzu `git pull` kiam vi estas preta kunfandi forigitajn ŝanĝojn en vian lokan branĉon. Tio ofte farigas antaŭ ol vi komencas novan trajton aŭ riparadon, por certigi ke vi laboras kun la plej freŝa versio de la kodbazo.
+
+- **Puŝu por Dividi Viajn Laborojn**: Regule puŝas viajn ŝanĝojn por certigi ke via forigita deponejo restas ĝisdata kun via loka laboro.
+- **Prenu antaŭ Puŝado**: Ĉiam prenu antaŭ ol puŝi por minimumigi konfliktojn. Tio certigas ke vi integris ajnajn freŝajn ŝanĝojn el la forigita en vian branĉon.
+- **Uzu Temajn Branĉojn**: Puŝas trajto- aŭ temajn branĉojn anstataŭe ol direkti puŝi en la ĉefan branĉon. Tio gardas la ĉefan branĉon stabila kaj ebligas proceson de revizio de kodo.
+
+### Plej Bonaj Praktikoj por Puŝado kaj Prenado
+
+#### Prenado
+1. **Prenu Ofte**: Regule preni helpas vin resti sinkrona kun la progreso de la teamo kaj reduktas la ŝancojn de gravaj kunfandkonfliktoj.
+2. **Kontrolu Vian Branĉon**: Certiĝu ke vi estas sur la ĝusta branĉo antaŭ ol preni, por ke vi ne neintence kunfandu ŝanĝojn en la malĝusta branĉo.
+3. **Traktu Konfliktojn Tuj**: Se preni kaŭzas konfliktojn, solvu ilin tuj. Lasi konfliktojn nesolvitaj povas kompliki la kodbazon kaj malfaciligas pluan kunfandon.
+
+Uzi ĉi tiujn komandojn ĝuste kaj sekvi plej bonajn praktikojn helpas prizorgi puran kaj sinkronigitan laboran fluon, certigante ke ĉiuj teamaj membroj laboras kun la plej freŝa kaj senkonflikta kodo ebla.
+
+## Avancita Branĉado kaj Kunfando en Git
+
+Kiel viaj projektoj iĝas pli kompleksaj, avancitaj branĉadaj kaj kunfadaj teknikoj iĝas esenciaj. Ĉi tiuj praktikoj helpas prizorgi puran, organizitan, kaj efikan laborfluo, speciale en kunlaboraj medioj.
+
+### Strategioj pri Branĉado
+
+#### Git Flow
+- **Superrigardo**: Git Flow estas branĉa modelo kiu ordonas specifajn rolojn por branĉoj kaj difinitan eldonan proceson.
+- **Branĉoj**:
+  - **Trajtan branĉon**: Kreitaj el `evoluigi` por novaj trajtoj.
+  - **Evolua branĉo**: Branĉo kie ĉiuj trajtoj estas kunfandaj kaj testataj kune.
+  - **Eldonaj branĉoj**: Branĉoj elde la `evoluigi` por finaj korektoj antaŭ iri al produktado.
+  - **Ĉefo branĉo**: Tenas produkt-ready kodon.
+  - **Fiksbranĉoj**: Kreitaj el `ĉefo` por rapidaj riparoj en produktado.
+- **Fluo**: Trajtoj estas evoluataj en iliaj branĉoj kaj kunfanditaj returne en `evoluigi`. Kiam pretaj por eldono, eldona branĉo estas kreita el `evoluigi`, kaj post finaj korektoj, ĝi estas kunfandita en ambaŭ `evoluigi` kaj `ĉefo`. Fiksbranĉoj estas kunfanditaj returne en ambaŭ `ĉefo` kaj `evoluigi`.
+- **Avantaĝoj**: Ĉi tiu modelo estas strukturita, antaŭdevidata, kaj ideala por prizorgado de pli grandaj projektoj.
+
+### Rebazado kontraŭ Kunfado
+
+#### Rebazado
+- **Kio estas Rebazado?**: Rebazado estas la procezo de movado aŭ kunigo de serio de konfirmaĵoj al nova bazkonfirmo.
+- **Uzo**: Ĝi estas uzata por integri ŝanĝojn el unu branĉo en alian, kiel `kunfado`, sed ĝi reskribas la historion de konfirmaĵoj, kreante novajn konfirmaĵojn por ĉiu konfirmo en la originala branĉo.
+- **Avantaĝoj**: Rebazado rezultigas pli pura, pli linia projekthistorio.
+- **Malavantaĝoj**: Ĝi povas kompliki la historion se uzata en publika branĉoj.
+
+#### Kunfado
+- **Kio estas Kunfado?**: Kunfado prenas la enhavon de fonta branĉo kaj integras ilin kun celbranĉo. En kunfada operacio, Git kreas novan konfirmon en la celbranĉo kiu ligo la historiojn de ambaŭ branĉoj.
+- **Uzo**: Regule uzata por integri ŝanĝojn el unu branĉo en alian.
+- **Avantaĝoj**: Ĝi konservas la kompleta historio kaj kronologia ordo.
+- **Malavantaĝoj**: Povas konduki al pli komplika projekthistorio (kunfadkonfirmoj).
+
+#### Kiam Uzi
+- **Rebazado** por malgrandaj, lokaj ŝanĝoj kiuj ne estis partigitaj kun aliaj, por purigi vian branĉhistorion.
+- **Kunfado** por integrado de ŝanĝoj kiuj estis partigitaj/publikigitaj aŭ por gravaj ŝanĝoj kie la konservo de la historio estas grava.
+
+### Solvado de Komplikaj Kunfadkonfliktoj
+
+Komplikaj kunfadkonfliktoj okazas kiam pluraj ŝanĝoj ŝanĝas la saman parton de dosiero en malsamaj manieroj. Ili postulas atentan solvon por prizorgi la integrecon de la kodbazo.
+
+1. **Identigu Konfliktojn**: Uzu `git status` por identigi kiuj dosieroj havas konfliktojn.
+2. **Redaktu Konfliktojn**: Malfermu la konfliktaĵdosierojn kaj serĉu la konfliktaĵmarkilojn (`<<<<<<<`, `=======`, `>>>>>>>`). Revizii la ŝanĝojn kaj decidi kio devus esti la fina versio.
+3. **Uzu Kunfadajn Ilojn**: Por komplikaj konfliktoj, konsideru uzi grafikajn kunfadilojn kiel Meld, Beyond Compare, aŭ la kunfadilojn integratajn en IDE kiel Visual Studio Code aŭ IntelliJ IDEA.
+4. **Testu Post Solvo**: Ĉiam testu vian kodo post solvi konfliktojn por certigi ke la kunfado ne rompis ion.
+5. **Konfirmu la Kunfadon**: Post solvo de konfliktoj kaj testo de la kodo, aldonu la dosierojn (`git add <file>`) kaj konfirmu la kunfadon (`git commit`).
+
+Traktado de komplikaj kunfadkonfliktoj povas ŝajni timiga komence, sed kun praktiko, ĝi fariĝas integra parto de prizorgado de kunlabora kodbazo en Git. Kompreni kiam kaj kiel uzi malsamajn branĉadstrategiojn kaj kunfadteknikojn povas signife simpligi vian disvolvadprocezon kaj plifaciligi teaman kunlaboron.
