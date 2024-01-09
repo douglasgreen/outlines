@@ -173,10 +173,12 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Anatomy and Physiology](science/anatomy.en.md)
   * [Biology](science/biology.en.md)
   * [Chemistry](science/chemistry.en.md)
-  * [Climate Change](science/climate_change.en.md)
   * [Physics](science/physics.en.md)
   * [Science](science/science.en.md)
-  * [Weather](science/weather.en.md)
+
+### Meteorology
+  * [Climate Change](science/meteorology/climate_change.en.md)
+  * [Weather](science/meteorology/weather.en.md)
 
 ## Society
   * [Sociology](society/sociology.en.md)
