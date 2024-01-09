@@ -137,6 +137,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Fantasy Fiction](literature/fantasy_fiction.md)
   * [Horror Fiction](literature/horror_fiction.md)
   * [Science Fiction](literature/science_fiction.md)
+  * [William Shakespeare](literature/william_shakespeare.md)
 
 ## Mathematics
   * [Algebra](mathematics/algebra.md)
