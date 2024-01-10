@@ -71,6 +71,9 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Text Editors
   * [Vim](computing/software/text_editors/vim.en.md)
 
+#### Version Control
+  * Git: [English](computing/software/version_control/git.en.md) and [Esperanto](computing/software/version_control/git.eo.md)
+
 ### Software Design
   * [Design Patterns](computing/software_design/design_patterns.en.md)
   * [Software Architecture](computing/software_architecture/software_architecture.en.md)

@@ -347,3 +347,676 @@ Komplikaj kunfadkonfliktoj okazas kiam pluraj ŝanĝoj ŝanĝas la saman parton 
 5. **Konfirmu la Kunfadon**: Post solvo de konfliktoj kaj testo de la kodo, aldonu la dosierojn (`git add <file>`) kaj konfirmu la kunfadon (`git commit`).
 
 Traktado de komplikaj kunfadkonfliktoj povas ŝajni timiga komence, sed kun praktiko, ĝi fariĝas integra parto de prizorgado de kunlabora kodbazo en Git. Kompreni kiam kaj kiel uzi malsamajn branĉadstrategiojn kaj kunfadteknikojn povas signife simpligi vian disvolvadprocezon kaj plifaciligi teaman kunlaboron.
+
+## Kaŝado kaj Reflog en Git
+
+En Git, `stash` kaj `reflog` estas potencaj iloj kiuj helpas prizorgi ŝanĝojn kaj navigi la historion de la projekto. Kompreni kiel uzi ĉi tiujn ilojn povas multe plibonigi vian laborfluaĵon, speciale en kompleksaj disvolvaj medioj.
+
+### Uzi Git Stash por Temporaj Ŝanĝoj
+
+#### Kio estas Git Stash?
+- Git Stash temporare ŝovas (aŭ kaŝas) ŝanĝojn kiujn vi faris en via labora dosierujo, tiel ke vi povas labori pri io alia, kaj poste re-apli ilin poste.
+
+#### Kiel Uzi Git Stash
+1. **Kaŝado de Ŝanĝoj**: Ruli `git stash` aŭ `git stash save "mesaĝo"` por kaŝi viajn nuntempajn ŝanĝojn. Tio nuligos vian labora dosierujo ĝis la lasta konfirmo, sed konservos viajn ŝanĝojn en strukturo simila al stako.
+2. **Listigo de Kaŝoj**: Uzi `git stash list` por vidi ĉiujn kaŝojn.
+3. **Apliko de Kaŝo**: Ruli `git stash apply` por re-apli la plej laste kaŝitajn ŝanĝojn, aŭ `git stash apply stash@{n}` (kie n estas la indekso de la kaŝo) por specifa kaŝo.
+4. **Forigo de Kaŝo**: Post apliko de kaŝo, ĝi restas en via listo de kaŝoj. Por forigi ĝin, uzi `git stash drop stash@{n}`. Se vi volas apliki kaj tuj forigi kaŝon, uzu `git stash pop`.
+
+#### Uzoj por Kaŝoj
+- **Ŝanĝado de Konteksto**: Utila kiam vi devas rapide ŝanĝi la kontekston al alia tasko sen konfirmi duonfaritan laboron.
+- **Purigado de Labora Dosierujo**: Helpas atingi puran laboran dosierujon, kio estas necesaj por kelkaj Git-operacioj (kiel ŝanĝi branĉojn).
+
+### Esplorado de la Historio kun Reflog
+
+#### Kio estas Git Reflog?
+- La Reflog (referenca protokolo) estas mekanismo en Git kiu registras ĝisdatigojn de la pinto de branĉoj kaj aliaj Git-referencoj. Ĝi estas kronologia protokolo de la lastaj kelkaj operacioj en via deponejo.
+
+#### Uzo de Git Reflog
+1. **Vido de Reflog**: Ruli `git reflog` por vidi protokolon de ĉiuj lastaj agoj, inkluzive de konfirmoj, rebazoj, kunfado, kaj pli.
+2. **Identigo de Perditaj Konfirmoj**: Reflog povas esti uzata por trovi konfirmojn kiuj ne plu estas en la aktualhistorio de la branĉo, kio estas utila post kompleksa rebazo aŭ harda restarigo.
+
+#### Rekuperado de Perditaj Konfirmoj kun Reflog
+- Se vi aksidentale restaris aŭ forigis konfirmojn, vi povas uzi reflog por trovi la konfirmo-haŝkodon kaj poste uzi `git checkout` aŭ `git merge` por rekuperi ilin.
+
+### Rekuperado de Perditaj Kaŝoj
+
+Kelkfoje, vi eble aksidentale forigos aŭ viŝos kaŝojn. Se tio okazas:
+
+1. **Trovu la Perditan Kaŝon**: Uzu `git fsck --no-reflogs | grep commit` por listigi la pendaĵajn aŭ perditajn konfirmojn kaj kaŝojn.
+2. **Ekzameni la Kaŝon**: Uzu `git log -p stash@{n}` por ekzameni la ŝanĝojn en la kaŝo.
+3. **Rekuperu la Kaŝon**: Kreu novan branĉon el la perditita kaŝo uzante `git branch recover-branch stash@{n}` kaj poste elsalutu tiun branĉon por rekuperi viajn ŝanĝojn.
+
+### Plej Bonaj Praktikoj
+- **Regule Forigu Kaŝojn**: La listo de kaŝoj povas iĝi malordo dum tempo, do estas bona ideo regulare apliki aŭ forigi kaŝojn kiujn vi plu ne bezonas.
+- **Dokumentu Kaŝojn**: Kiam vi kaŝas ŝanĝojn, aldonu priskriban mesaĝon por klareco.
+- **Uzu Reflog Responde**: Reflog estas potenca ilo, sed memoru ke ĝi estas loka por via deponejo. Ĝi ne anstataŭas ĝustajn konfirmojn kaj sekurkopiojn.
+
+Fine, `git stash` kaj `git reflog` estas nepre utilaj iloj por prizorgi laboron en progreso kaj rekuperi el eble malordigaj Git-operacioj. Ili provizas sekurretikulo, kiu ebligas al programistoj navigi kaj manipuli sian Git-historion kun konfido.
+
+## Git Etikedoj kaj Eldonoj
+
+En Git, etikedoj estas uzataj por marki specifajn punktojn en la historio de deponejo kiel gravaj, kutime uzataj por marki eldonajn punktojn (ekz., v1.0, v2.0). Kompreni kiel efike uzi etikedojn povas multe helpi en la prizorgo de eldonoj kaj historie referenciado.
+
+### Kreado kaj Prizorgo de Etikedoj
+
+#### Specoj de Etikedoj
+- **Malpezaj Etikedoj**: Simplaj montriloj al specifa konfirmo. Kreitaj sen plia informo.
+- **Anotaciaj Etikedoj**: Konservitaj kiel plenaj objektoj en la Git-datumbazo. Ili enhavas la nomon, retpoŝtadreson, daton kaj etikedan mesaĝon de la etiketanto, kaj povas esti subskribitaj kaj kontrolitaj per GNU Privatecajĝardo (GPG).
+
+#### Kreado de Etikedoj
+1. **Anotacia Etikedo**: Rulu `git tag -a v1.0 -m "via mesaĝo"`. La `-a` flago kreas anotacian etikedon, kaj `-m` specifas etikedan mesaĝon.
+2. **Malpeza Etikedo**: Rulu `git tag v1.0`. Tio kreas malpezan etikedon sur la nuntempa konfirmo.
+
+#### Listigo de Etikedoj
+- **Komando**: `git tag` listigas ĉiujn etikedojn en la deponejo.
+
+#### Puŝado de Etikedoj al la Malproksima
+- Etikedoj ne estas aŭtomate puŝitaj al la malproksima deponejo kiam vi faras `git push`.
+- **Puŝi unu Etikedon**: Rulu `git push origin <etikednomo>`.
+- **Puŝi Ĉiujn Etikedojn**: Rulu `git push origin --tags`.
+
+#### Forigo de Etikedoj
+- **Loka Forigo**: `git tag -d <etikednomo>` forigas etikedon loka.
+- **Malproksima Forigo**: `git push origin --delete <etikednomo>` forigas etikedon el la malproksima deponejo.
+
+### Uzi Etikedojn por Markado de Eldonoj
+
+Etikedoj provizas momenton de la kodo en la tempo de eldono, kio ilin ideala por markado de eldonpunktoj.
+
+- **Markado de Eldonoj**: Kreu anotacian etikedon ĉe la konfirmo kiam la eldono estas finita. Tio inkluzive signifas finado de ĉia testado kaj finigo de dokumentoj de la eldono.
+- **Historia Referenciado**: Etikedoj faciligas eligon de specifaj versioj por cimoj, kodecaj recenzoj kaj historiaj komparoj.
+
+### Plej Bonaj Praktikoj por Prizorgo de Eldonoj
+
+1. **Uzu Semantikan Versionadon**: Sekvu semantikan versionadon (majorkomenkorekteco) por nomi viajn etikedojn, ekz., `v1.4.2`. Tio helpas kompreni la naturon de la eldono ĉe unu rigardo (gravaj ŝanĝoj, minoraj trajtoj, riparadoj).
+2. **Anotaciaj Etikedoj por Eldonoj**: Preferu anotaciajn etikedojn ol malpezaj etikedoj por eldonoj, ĉar ili enhavas pli da informo (aŭtoro, dato, mesaĝo) kiu estas valor-plena por historia protokolo.
+3. **Dokumentu Eldonojn**: Uzu la etikedan mesaĝon por mallonge priskribi la ĉefajn ŝanĝojn aŭ referencigi ŝanĝojn ĉe ŜANĜOJ por detaj recenzokomunikoj.
+4. **Regulaj kaj Konstantaj Eldonoj**: Regulaj, konstantaj eldoncikloj helpas prizorgi antaŭvideblan laborfluon kaj faciligas prizorgon de versioj.
+5. **Korektoj**: Uzu etikedojn por korekto eldonoj ankaŭ, kio povas esti gravega por spurado de riparadoj aŭ urĝaj riparadoj en via produktado medio.
+
+Per sekvo de ĉi tiuj praktikoj, vi povas efike uzi Git-etikedojn por prizorgi kaj dokumenti eldonojn de via projekto, provizante klarecon kaj strukturon al via versiokontrola strategio. Tiu aliro estas specife profitiga en kollaboraj medioj, kie multaj partoprenantoj kaj teamoj eble estas implikitaj en la disvolvo kaj eldono procezo.
+
+## Kompreni la Internaĵojn de Git
+
+Por plene kompreni kiel Git funkcias sub la surfaco, gravas kompreni la strukturon de Git-deponejo, la enhavon de la `.git` dosierujo, kaj la specojn de objektoj kiujn Git uzas interne.
+
+### La Strukturo de Git-deponejo
+
+Git-deponejo konsistas el `.git` dosierujo kaj laborujo. La laborujo estas kie viaj dosieroj loĝas kaj kie vi redaktas ilin. La `.git` dosierujo estas kie Git konservas la metadatumojn kaj objektan datumbazon por via projekto. Ĝi estas la koro de la deponejo kaj enhavas ĉiujn neceseblajn informojn por prizorgi la versiojn de la fontkodo.
+
+### Esploro de la `.git` Dosierujo
+
+Kiam vi inicias novan Git-deponejon (uzante `git init`), nova `.git` dosierujo estas kreata. En tiu dosierujo, vi trovos plurajn komponentojn:
+
+- **config dosiero**: Enhavas agordojn specifajn al la deponejo.
+- **description dosiero**: Uzata de la programo Gitweb, ne multe uzata de aliaj.
+- **hooks dosierujo**: Enhavas klient- aŭ servilo-flankajn kromskriptojn (hook-skriptojn).
+- **info dosierujo**: Enhavas globan ekskludan dosieron por ignorataj modeloj.
+- **objects dosierujo**: Konservas ĉiujn enhavojn por via datumbazo, inkluzive de konfirmoj, arbopoj, kaj bloboj.
+- **refs dosierujo**: Tenas montrilojn al konfirmoj (fakte, branĉoj kaj etikedoj).
+- **HEAD dosiero**: Montras al la nuntempe elŝutita konfirmo.
+- **index dosiero**: Stadion informon pri kio iros en via sekva konfirmo.
+
+### Git-Objektoj: Bloboj, Arbopoj, Konfirmoj, kaj Etikedoj
+
+Git uzas kelkajn chevajn objektojn por prizorgi vian kodon:
+
+#### Bloboj
+- **Celcelo**: Blobo (binara granda objekto) estas la objektspeco kiun Git uzas por konservi la enhavon de ĉiu dosiero en via deponejo.
+- **Strukturo**: Blobo ne konservas la dosiernomon aŭ dosierujo-strukturon. Ĝi enhavas nur dosierenhavon.
+
+#### Arbopoj
+- **Celcelo**: Arbopoj organizas la enhavon de via deponejo. Ili reprezentas dosierujojn.
+- **Strukturo**: Arbopa objekto enhavas montrilojn al bloboj kaj aliaj arbopoj (subdosierujoj), kune kun nomoj por ĉiu ero kaj la modo (dosiero aŭ dosierujo).
+
+#### Konfirmoj
+- **Celcelo**: Konfirmoj estas la kolonaĵo de la versiokontrolo de Git. Ĉiu konfirmo reprezentas apartan staton de la dosieroj en via projekto je donita tempo.
+- **Strukturo**: Konfirma objekto montras al arbopa objekto, kiu reprezentas la supra nivelon de la dosierujo-hierarkio en la tempo de la konfirmo. Ĝi ankaŭ enhavas metadatumojn kiel aŭtoron, konfirminton, daton, kaj konfirmmesaĝon. Ĝi montras al la konfirmo(j) kiuj rekte antaŭis ĝin (ĝiaj gepatro(j)).
+
+#### Etikedoj
+- **Celcelo**: Etikedoj estas uzataj por marki specifajn punktojn en la historio de deponejo, kutime uzataj por eldonoj.
+- **Strukturo**: Etika objekto montras al konfirma objekto kaj inkluzivas la nomon, retadreson, kaj daton de la etiketanto. Etikedoj povas esti anotaciaj kaj subskribitaj.
+
+### Konkludo
+
+Kompreni la internaĵojn de Git estas klava por kompreni kiel ĝi prizorgas kaj konservas informojn. Tiu scio povas esti tre helpa por avancita uzo de Git, solvado de problemoj, kaj komprenado de la konsekvencoj de diversaj Git-komandoj. Malgraŭ la komplikeco, la elegantecon de la dezajno de Git trovitas en ĝia simplikeco kaj efikeco en la versiokontrolo.
+
+## Kukoj kaj Aŭtomatigo en Git
+
+Kukoj en Git estas potencaj iloj, kiuj ebligas vin aŭtomatigi certajn agojn ĉe diversaj punktoj en la laborprocedo de Git. Kompreni kaj uzi Kukojn en Git povas tre plibonigi kaj simpligi vian disvolvadon.
+
+### Enkonduko al Git Kukoj
+
+#### Kio estas Git Kukoj?
+- **Difino**: Git Kukoj estas skriptoj, kiujn Git plenumas antaŭ aŭ post eventoj kiel `commit`, `push`, `receive`, kaj `merge`. Tiaj skriptoj estas konservitaj en la `hooks` subdosierujo de la `.git` dosierujo en Git-reponejo.
+- **Specoj de Kukoj**: Ekzistas pluraj specoj de Kukoj, ĉiu korespondanta al alia ago en Git. Iuj komunaj inkluzivas `pre-commit`, `post-commit`, `pre-push`, `pre-receive`, `post-receive`, kaj pli.
+- **Alirebleco**: Kutime, Git-reponejoj enhavas kelkajn ekzemplajn kuk-skriptojn. Por aktivigi kukon, vi ŝanĝas la nomon de la ekzempla skripto, forigante la `.sample` finon, kaj aldonas ĝin laŭ viaj bezonoj.
+
+### Aŭtomatigado de Laborfluoj per Kukoj
+
+#### Kazoj por Kukoj
+1. **Kvalito de Kodo**: Uzu `pre-commit` kukojn por ruli lintadojn aŭ kontrolojn de stilo antaŭ permesi komiti.
+2. **Aŭtomata Testado**: Implementu `pre-push` kukojn por ruli aŭtomatajn testojn, certigante ke rompita kodo ne estas puŝata al la deponejo.
+3. **Sciigo-Sistemoj**: Uzu `post-receive` kukojn sur la servila flanko por sendi sciigojn post finiĝo de puŝo.
+
+#### Ekzemplo: Kreado de Pre-commit Kuko
+1. **Iri al la Kukoj Dosierujo**: `cd .git/hooks`.
+2. **Redakti la `pre-commit` Kukon**: Ŝanĝu la nomon de `pre-commit.sample` al `pre-commit` kaj redaktu ĝin inkluzive de via skripto.
+3. **Skriptado de la Kuko**: Verku skripton en la `pre-commit` dosiero por plenumi deziritajn agojn antaŭ ĉiu komito. Tio povas esti ŝelskripto, Python-skripto, ktp., dependante de via medio.
+4. **Fari la Kukon Ebligita**: Certiĝu, ke la skripto estas ebligita (`chmod +x pre-commit`).
+
+### Alirigado de Git-Komportiĝo per Skriptoj
+
+#### Etendado de la Funkciistaro de Git
+- Vi povas verki proprajn skriptojn por etendi la funkciistaron de Git. Tiaj skriptoj povas esti io de simplaj ŝelkomandoj ĝis kompleksaj programoj en lingvoj kiel Python aŭ Perl.
+- Ekzemploj inkluzivas skriptojn por aŭtomatigi nomtradikonojn de branĉoj, formatigado de komitmesaĝoj, aŭ integriĝo kun eksteraj iloj kaj API-oj.
+
+#### Servila Kukoj
+- Servilaj kukoj kiel `pre-receive`, `update`, kaj `post-receive` estas utilaj por plenumi projektopolitikojn, ĝisdatigi eksterajn sekvasistemojn, aŭ lanĉi CI/CD-fluojn.
+- Ekzemple, `pre-receive` kuko povas rifuzi puŝojn kiuj ne kongruas kun specifita formato de komitmesaĝo.
+
+#### Plej Bonaj Praktikoj
+1. **Simpligu**: Kukoj devas esti simplaj kaj enfokigitaj pri unu tasko. Kompleksaj operacioj estas pli bone traktitaj per eksteraj skriptoj, kiujn la kuko povas voki.
+2. **Versikontrolo por Kukoj**: Kvankam kukoj troviĝas en la `.git` dosierujo kaj ne estas sekvitaj de Git, estas bona praktiko konservi version de viaj kukoj en la deponejo (ekz., en `git-hooks` dosierujo) por kunhavigo kaj kunlaboro.
+3. **Dokumentado**: Klarigu viajn kukojn kaj ilian uzon klare, specife en kunlaboraj medioj, por ke aliaj teamanoj komprenu la laborfluon.
+
+Git kukoj ofertas potencan manieron al aliri kaj aŭtom atigi vian laborfluon en Git. Se ili estas uzataj efike, ili povas signife plibonigi efikecon kaj konsistecon de la disvolvadaj procezoj.
+
+## Kunlaborado per Petoj de Tracado
+
+Peti de tracado (PT) estas fundamento de teama kunlaboro en Git. Ili ebligas teamanojn revizii, diskuti, kaj enigi kodoŝanĝojn en komunan deponejon. Kompreni, kiel efektive uzi petojn de tracado, povas signife plibonigi la teaman sinergion kaj kvaliton de kodo.
+
+### La Rolo de Petoj de Tracado en Kunlaborado
+
+#### Kio estas Peto de Tracado?
+- Peto de tracado (PT) estas metodo por proponi kontribuojn al deponejo. Ĝi informas al aliaj pri la ŝanĝoj, kiujn vi puŝis al branĉo en deponejo ĉe GitHub, GitLab, Bitbucket, aŭ similaj platformoj.
+
+#### Graveco en Kunlaborado
+- **Revizio de Kodo**: PTj faciligas la revizion de kodo de teamanoj aŭ prizorgantoj de la projekto. Ili povas komenti, sugesti ŝanĝojn, aŭ peti pliajn modifojn antaŭ ol la kodo estas kunfandita.
+- **Transparenteco**: Ili provizas transparencecon en la disvolvada procezo. Ĉiu membro povas vidi la proponitajn ŝanĝojn, kompreni la racionalon, kaj kontribui al la diskuto.
+- **Kvalitata Kontrolo**: Per postulo de PTj, teamoj certigas, ke neniu kodo eniras en la produktan branĉon sen revizio, kio helpas pri kvalitata kontrolado de kodo.
+
+### Kreado, Revizio, kaj Kunfando de Petoj de Tracado
+
+#### Kreado de Peto de Tracado
+1. **Puŝu Vian Branĉon**: Unue, puŝu vian branĉon kun la ŝanĝoj al la fora deponejo.
+2. **Kreu la PTon**: En la paĝo de la deponejo ĉe platformoj kiel GitHub, vi vidos opcion "Krei peton de tracado" por branĉoj, kiuj estis lastatempe puŝitaj.
+3. **Plenigu Detalojn de la PT**: Donu priskriban titolon kaj detalan priskribon por via PT. Tio devas inkluzivi la celon de la ŝanĝoj kaj ajnan gravan informon.
+
+#### Revizio de Peto de Tracado
+1. **Revizio de Kodo**: Teamanoj revizias la ŝanĝojn, komentas pri specifaj linioj de kodo, proponas plibonigojn, kaj diskutas eblajn efikojn.
+2. **Aŭtomataj Kontroloj**: Daŭra Integriĝo (DI) iloj povas esti integrataj por ruli aŭtomatajn testojn, certigante, ke la nova kodo ne rompas ekzistantan funkciecon.
+3. **Aprobo-Proceso**: Kelkaj teamoj postulas aprobojn de unu aŭ pluraj spertaj disvolvantoj antaŭ ol kunfandi.
+
+#### Kunfando de Peto de Tracado
+1. **Kunfandi aŭ Rebazigi**: Post aprobo, la ŝanĝoj povas esti kunfanditaj en la celan branĉon. Kelkaj teamoj preferas rebazigon por konservi linian historion.
+2. **Fermi la PTon**: Post kunfando, la PT estas fermita. Plej multaj platformoj ligas la kunfanditan PTon kun la komito por estonta referenco.
+
+### Plej Bonaj Praktikoj por Kunlabora Disvolvado
+
+#### Por Kontribuantoj
+1. **Malgrandaj, Fokusitaj Ŝanĝoj**: Tenu viajn PTj malgrandaj kaj fokusitaj al unu problemo aŭ funkcio por pli facila revizio.
+2. **Priskribaj Titoloj kaj Priskriboj**: Klare priskribu, kion faras la PT, kaj kial. Inkluzu referencojn al rilataj problemoj.
+3. **Ĝisdatigo de Via Branĉo**: Regule ĝisdatigu vian branĉon de la ĉefa branĉo por minimumi kunfandajn konfliktojn.
+
+#### Por Reviziistoj
+1. **Oportunaj Revizioj**: Revizu PTj prompte por eviti baron al kontribuantoj.
+2. **Konstruaj Komentoj**: Donu klare konstruajn komentojn pri ŝancoj plibonigi la kodon, se necese.
+3. **Testi Loke**: Se eble, elŝutu la branĉon kaj testu la ŝanĝojn loke, precipe por gravaj funkcioj.
+
+#### Ĝenerale Plej Bonaj Praktikoj
+1. **Daŭra Integriĝo**: Uzu DI-ilojn por aŭtomate ruli testojn.
+2. **Dokumentado**: Ĝisdatigu rilatan dokumentadon kun viaj ŝanĝoj.
+3. **Komunikado**: Daŭrigu klaran komunikadon kun via teamo, specife se necesas ŝanĝoj aŭ estas prokrastoj.
+
+Petoj de tracado ne estas nur iloj por kunfandi kodo; ili estas platformo por diskutado, revizio, kaj certigado de alta kvalito kaj prizorgata kodo. Ili formas fundamentan parton de la kunlabora disvolvada procezo en moderna programada inĝenierio.
+
+## Git kaj Daŭra Integriĝo
+
+Daŭra Integriĝo (DI) kaj Daŭra Publikigo (DP) estas gravaj praktikoj en moderna programada disvolvo, precipe en la kunteksto de DevOps. Git ludas klucan rolon en tiuj praktikoj per ebligado de efika versionkontrolo kaj kunlaboro.
+
+### Integrado de Git kun DI/DP-Pipelineoj
+
+#### Kiel Git Integras kun DI/DP
+- **Aktivigado de DI/DP**: En tipa DI/DP-pipelineo, ŝanĝoj puŝitaj al Git-repozitorio aktivigas aŭtomatigitajn laborfluojn. Tiaj laborfluoj povas inkludi la konstruadon de la aplikaĵo, la ruladon de testoj, kaj la distribuon al diversaj medioj.
+- **Branĉo-Specifaj Pipelineoj**: Diversaj branĉoj en Git povas esti agorditaj por aktivigi diversajn pipelineojn. Ekzemple, puŝo al branĉo `funkcio` povas aktivigi labor- kaj testfluon, dum puŝo al `ĉefa` eble aktivigas distribuon al produktado.
+
+#### DI/DP-Iloj kaj Git
+- Multaj DI/DP-iloj kiel Jenkins, CircleCI, Travis CI, kaj GitHub Actions integriĝas senprobleme kun Git-repozitorioj. Ili povas esti agorditaj por aŭskulti Git-okazaĵojn (kiel puŝo, peto de tracado, kreo de etikedo) kaj plenumi antaŭdifinitajn taskojn.
+
+### Aŭtomatigo de Testoj kaj Disigo kun Git
+
+#### Aŭtomatigo de Testoj
+- **Aŭtomataj Testoj**: Kiam nova komito estas puŝita al deponejo, la DI-sistemo povas aŭtomate ruli diversajn testojn - unuajn testojn, integrajn testojn, kaj aliajn - por certigi, ke la novaj ŝanĝoj ne rompas ekzistantan funkciecon.
+- **Testrezultoj**: La rezultoj de tiuj testoj ofte estas raportitaj reen en la Git-platformo (kiel en peto de tracado ĉe GitHub), helpante certigi, ke nur kodo, kiu sukcesas ĉiujn testojn, estas kunfandita.
+
+#### Aŭtomatigo de Disigo
+- **Daŭra Publikigo**: Post sukcesa testado, la kodo povas esti aŭtomate distribuita al diversaj medioj. Tio povas esti agordita por diversaj branĉoj; ekzemple, komitoj al `ĉefa` povas aktivigi la distribuon al produktado.
+- **Rulumo-Mekanismoj**: Multaj DI/DP-pipelineoj inkluzivas mekanismojn por malkonstruado de disigo, se io malsukcesas, kio povas esti aktivigita mane aŭ aŭtomate.
+
+### Git en la Kunteksto de DevOps-Praktikoj
+
+#### Versionkontrolo kaj Kunlaboro
+- **Fonto de la Vero**: Git-repozitorioj agas kiel la unika fonto de vero por la kodbazo. Ili enhavas la historion, la nunan staton, kaj la estontajn ŝanĝojn de la aplikaĵo.
+- **Kunlaboro**: Ecoj kiel branĉado kaj petoj de tracado en Git faciligas la kunlaboron inter disvolvantoj, operaciuloj, kaj kontrolistoj de kvalito.
+
+#### Infrastrukturo kiel Kodo (IaK)
+- **Versionigado de Infrastrukturo**: Kun la levitiĝo de IaK, Git estas uzita por versionkontrolo ne nur de la aplikaĵokodo, sed ankaŭ de la infrastruktura kodo.
+- **Gestado de Ŝanĝoj**: Ŝanĝoj al infrastrukturo estas reviziitaj kaj aplikataj kun la sama severeco kiel ŝanĝoj de aplikaĵokodo.
+
+#### Daŭra Feedback
+- **Observado kaj Logado**: Ŝanĝoj kaj distribuoj ofte estas logataj kaj observataj, kun la informoj fluantaj revene al la disvolvanta teamo por daŭra plibonigo.
+- **Mallaŭdado kaj Historio**: La funkcioj `blame` kaj historio de Git helpas rapide identi la ŝanĝojn, kiuj eble kaŭzis problemojn en produktado.
+
+#### Plej Bonaj Praktikoj
+- **Regulaj Komitoj**: Stimulu malgrandajn, regulajn komitojn al la Git-repozitorio por pli facila sekvo de ŝanĝoj kaj solvo de konfliktoj.
+- **Branĉa Estrategio**: Akceptu branĉan strategion (kiel Git Flow), kiu kongruas kun la labortekniko kaj DI/DP-praktikoj de via teamo.
+- **Sekureco**: Enmetu sekurecpraktikojn, kiel skanado de kodo kaj administrado de sekretaj informoj, en vian Git-laborteknikon.
+
+Fine, Git, kombinita kun DI/DP- kaj DevOps-praktikoj, formantas potencan triumviraton, kiu povas grande plibonigi la efikecon, fidindecon, kaj kvaliton de programada kaj disvolvada procezo. Tiu integriĝo faciligas kunlaboran medion, kie kvalito de kodo estas konstante evaluata kaj plibonigata, kondukante al pli fortaj kaj stabilegaj programaj produktoj.
+
+## Efikaj Komitatmesaĝoj
+
+Komitatmesaĝoj estas vitala parto de ĉiu sistemo de versionkontrolo, kiel ekzemple Git. Ili provizas kontekston por la faritaj ŝanĝoj, faciligante al aliaj (kaj al via mem estonteco) kompreni la intencon kaj racionalon post tiuj ŝanĝoj. Skribi signifajn komitatmesaĝojn estas esenca lernindaĵo por ĉiu programisto.
+
+### Skribado de Signifaj Komitatmesaĝoj
+
+#### Strukturo de Bonaj Komitatmesaĝoj
+1. **Titolo/Resumo**: Konciza resumo de la komito, kutime ne pli ol 50 signoj. Ĝi devas esti skribita en la imperativa modo ("Aldonu funkcion" ne "Aldonis funkcion" aŭ "Aldonas funkcion").
+2. **Korpo**: Detala klarigo pri kio ŝanĝis kaj kial, male al kiel. Tiu sekcio estas opciona, sed rekomendita por komplikaj ŝanĝoj. Almetu vicojn ĉirkaŭ 72 signojn longaj, tiel ke la mesaĝo estas facile legebla.
+
+#### Ekzemplo
+```
+Riparu bugin kiu kaŭzis krashon de la aplikaĵo dum ensaluto
+
+Antaŭe, la aplikaĵo krashis pro null-aliokciiĝa eraro. La ensalut-funkcio nun kontrolas null-valorojn antaŭ daŭrigi, kio solvas la problemon.
+```
+
+### Konvencioj kaj Plej Bonaj Praktikoj
+
+#### Konvencioj
+1. **Imperativa Modo en la Titolo**: Skribu la resumlinion en la imperativa modo, kvazaŭ vi donas ordon aŭ instruon. Ekzemple, "Riparu bugin" ne "Riparis bugin".
+2. **Kapitaligu la Titolon**: La unua litero de la resumo devas esti majuskla.
+3. **Neniu punkto ĉe la fino de la Titolo**: Ĝi estas titolo, ne frazo.
+4. **Separigu la Resumon de la Korpo per Malplena Linio**: Tio helpas diferencajn la resumon de la detala klarigo.
+5. **Uzu la Korpon por klarigi la 'Kialon', 'Por kio', 'Kiel', kaj Aldonajn Detalojn**.
+
+#### Plej Bonaj Praktikoj
+1. **Estu Klara kaj Priskriba**: La komitatmesaĝo devas klare kaj koncize priskribi kion faras la komito kaj kial.
+2. **Konservu Mallongan Resumlinion**: Tio certigas legeblecon kaj klaran komunikadon.
+3. **Inkludu Kontekston kaj Celon**: Kiam necesas, aldonu korpan komitatmesaĝon por klarigi la kontekston kaj celon de la ŝanĝoj.
+4. **Evitu Redundajn Frazojn**: Evitu frazojn kiel "riparis bugin" aŭ "ŝanĝis dosieron" - tio estas implikita en la naturo de la uzo de Git.
+5. **Riferencu Problemojn kaj Biletojn**: Se la komito rilatas al kontrolata problemo aŭ bileto, inkluzu la referencan numeron.
+
+### Uzado de Komitatmesaĝoj por Sekvi la Historion
+
+Komitatmesaĝoj funkcias kiel historia registro de la ŝanĝoj faritaj al projekto. Ili estas gravaj por:
+
+- **Kompreni la Disvolvan Fluon**: Legante la komit-historion, vi povas kompreni kiel kaj kial la projekto disvolviĝis sur certa maniero.
+- **Problemlumo kaj Retrolumo**: Bonaj komitatmesaĝoj povas helpi identigi kiam kaj kial specifa problemo estis enkondukita.
+- **Kodrevizioj kaj Kvalitataj Kontroloj**: Dum kodrevizioj, komitatmesaĝoj provizas kontekston, kiu helpas en la revizio-proceso.
+- **Retroladoj kaj Revertadoj**: Se vi bezonas nuligi ŝanĝojn, komitatmesaĝoj helpas identigi la komitojn, kiujn necesas malplifari.
+
+Fine, skribi efikajn komitatmesaĝojn estas disciplino, kiu plibonigas la tutan efikecon de la teamo kaj la administreblecon de la projekto. Ili provizas kontekston kaj klarecon, kio estas senprecaj por kunlabora disvolvo kaj konservado de sana projekta historio.
+
+## Alikodoj kaj Personigo de Git
+
+Git estas tre personaigebla, permesante al uzantoj plifaciligi sian laborfluon per agordado de alikodoj kaj modifado de sia medio. Tiu personaigo povas signife plibonigi produktivecon, precipe por rutinaj taskoj.
+
+### Kreado de Mallongigoj per Git Alikodoj
+
+#### Kio estas Git Alikodoj?
+- **Git alikodoj** estas mallongigoj por pli longaj Git-komandoj. Ili estas kiel propraj komandoj, kiuj povas ŝpari al vi tempon kaj penon.
+
+#### Kreado de Git Alikodoj
+1. **Simplaj Alikodoj**: Vi povas krei alikodon por Git-komando per redaktado de la Git-agordodokumento (`~/.gitconfig`) aŭ per uzo de la `git config` komando.
+
+   Ekzemplo: Por krei alikodon por `git status`, vi povas ruli:
+   ```
+   git config --global alias.st status
+   ```
+   Nun, `git st` plenumos `git status`.
+
+2. **Komplikaj Alikodoj**: Alikodoj ankaŭ povas esti pli komplikaj, kombinante plurajn komandojn aŭ enkondukante novan funkcion.
+
+   Ekzemplo: Por detala vidigo de protokolo, vi povus agordi:
+   ```
+   git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+   ```
+
+### Personigo de la Git-Medio
+
+#### Niveloj de Git-Agordoj
+- **Loka**: Specifa por unu deponejo (`git config` sen `--global` opcio).
+- **Mondiala**: Validas por ĉiuj deponejoj de uzanto (`git config --global`).
+- **Sistema**: Validas por ĉiuj uzantoj sur la maŝino (`git config --system`).
+
+#### Personigo de Agordoj
+- Vi povas personigi diversajn Git-agordojn, kiel ekzemple:
+  - Defaŭlta redaktilo por Git (`git config --global core.editor "vim"`)
+  - Defaŭlta kunigo-ililo
+  - Uzantinformoj (nomo, retadreso)
+  - Kolorigo de eldonita komando
+  - Kaj pli...
+
+### Iloj kaj Etendaĵoj por Plibonigi Git-Produktivecon
+
+#### GUI-klientoj
+- **GUI-klientoj kiel SourceTree, GitKraken**: Ili provizas vizualan interfason por Git-operacioj, faciligante la vizualigon de branĉoj, difoj kaj historio.
+- **IDE-integroj**: La plej multaj modernaj IDEoj (kiel ekzemple Visual Studio Code, IntelliJ IDEA) havas enkonstruitan subtenon por Git, oferante integratajn vidojn de difoj, komithistorion kaj branĉadministradon.
+
+#### Pligrandigaj Komandlinioj
+- **Oh My Zsh kun Git-Kromaĵo**: Pligrandas la Git-komandlinia sperto per mallongigoj kaj branĉa stato en la indikilo.
+- **Git Bash (Windows)**: Proponas Uniksa stila terminalo kun Git-komanda integriĝo.
+
+#### Etendaĵoj por Specifaj Taskoj
+- **Git LFS (Grandaj Dosieroj Stokado)**: Utila por trakti grandajn dosierojn sen enfleksigi la deponejon.
+- **Git Flow**: Provizas alt-nivelajn deponejaĵajn operaciojn por la branĉmodelo de Vincent Driessen.
+
+#### Aŭtomatigado Iloj
+- **Git Alikodoj**: Personaj skriptoj povas esti agorditaj ruliĝi ĉe specifaj punktoj en la Git-fluo por aŭtomataj kontrolaĵoj aŭ taskoj.
+
+#### Plibonigoj de Efikeco
+- **Paralelaj Operacioj**: Kelkaj Git-operacioj povas esti paraleligitaj (ekz., `git fetch --all --jobs=5` por ekstiri el pluraj deponejoj samtempe).
+
+Resumante, la personaigo de Git per alikodoj, agordado de la Git-medio por plaĉi al via laborfluo, kaj uzo de diversaj iloj kaj etendaĵoj povas signife plibonigi vian efikecon kaj sperton kun Git. Tiaj personaigoj permesas al vi adapti la ampleksan funkciaron de Git al la personaj aŭ teamaj bezonoj.
+
+## Solvo de Problemoj kaj Depurado en Git
+
+Labortado kun Git foje povas esti defia, precipe kiam vi renkontas problemojn aŭ neaŭtajn kondutojn. Scii kiel solvi problemojn kaj depuri tiujn estas tre gravas.
+
+### Komunaj Git-Problemoj kaj Ili Solvoj
+
+#### Kunflikti Disigoj
+- **Problemo**: Kunfliktoj okazas kiam Git ne povas aŭtomate solvi diferencojn en kodo inter du komitoj.
+- **Soluco**: Mane solvu la kunfliktojn redaktante la dosierojn, poste per `git add` aldonas la solvitajn dosierojn, kaj finu la kunigo per `git commit`.
+
+#### Senkapapena Pozicio
+- **Problemo**: Tio okazas kiam vi eligas komiton kiu ne estas la finpunto de branĉo.
+- **Soluco**: Por eliri tiun pozicion sen perdi viajn ŝanĝojn, vi povas krei novan branĉon (`git branch nova-branĉnomo`) kaj poste eliri tiun branĉon (`git checkout nova-branĉnomo`).
+
+#### Hazarda Komito sur la Malĝusta Branĉo
+- **Problemo**: Foje vi hazarde komitas al la malĝusta branĉo.
+- **Soluco**: Vi povas malkaŝi tion ŝanĝante al la ĝusta branĉo kaj uzi `git cherry-pick` por apliki la komiton tien. Poste, reiru al la originala branĉo kaj uzu `git reset --hard HEAD~1` por malfari la lastan komiton.
+
+#### Perditaĵaj Komitoj
+- **Problemo**: Komitoj povas ŝajni 'perditaj' post komplika operacio (ekzemple, rebazo).
+- **Soluco**: Uzu `git reflog` por trovi la mankantajn komitojn. Unufoje vi trovis la ĝustan komiton, vi povas elŝuti ĝin aŭ ekpiki ĝin en via nuna branĉo.
+
+### Trovi kaj Ripari Erarojn kun Git Bisect
+
+#### Kio estas Git Bisect?
+- `git bisect` estas potenca ilo por trovi la komiton kiu enkondukis eraron. Ĝi uzas duuma serĉo-algoritmon por rapide trovi la problemecan komiton.
+
+#### Uzi Git Bisect
+1. **Komenci Bisecton**: Rulu `git bisect start`.
+2. **Marki Malbonan Komiton**: Marku la aktualan staton (aŭ konatan malbonan komiton) per `git bisect bad`.
+3. **Marki Bonan Komiton**: Marku komiton kie la eraro ne estis prezentita per `git bisect good [komito-hash]`.
+4. **Bisecti**: Git elŝutos komiton meze inter la 'bonaj' kaj 'malbonaj' komitoj. Testu tiun komiton, poste marku ĝin kiel `bona` aŭ `malbona` laŭ la neceso. Ripetu tiun procezon ĝis Git izolis la problemecan komiton.
+
+#### Fino de Bisect
+- Kiam vi trovis la malbonan komiton, rulu `git bisect reset` por fini la bisekton kaj reiri al via antaŭa branĉo.
+
+### Altaj Trovadaj Teknikoj
+
+#### Kontroli la Protokolojn
+- Uzu `git log` por revizii la komithistorion. Tio povas esti utila por kompreni ŝanĝojn kaj traserĉi kiam aparta ŝanĝo estis prezentita.
+
+#### Analizi Diferencojn
+- `git diff` povas esti uzata por vidi kiaj ŝanĝoj okazis. Uzu ĝin por kompari malsamajn komitojn, branĉojn, aŭ eĉ la metaplanon kaj la nunan laboran dosierujon.
+
+#### Kaŝi por Malpura Stato
+- Foje estas pli facila trovi erarojn se vi havas malpuran laboran dosierujon. Uzu `git stash` por konservi viajn nunajn ŝanĝojn dumtempe kaj reveni al malpura stato.
+
+#### Uzi Eksterajn Ilojn
+- Iloj kiel GUI-klientoj de Git aŭ enkonstruitaj iloj en IDEoj povas provizi pli vizualan aliron por malkovri la historiaĵon de la deponejo, kompreni branĉstrukturojn, kaj prezenti ŝanĝojn.
+
+Resumante, efika solvo de problemoj en Git ofte implikas komprenon de la kunteksto de la problemo, metodecan izoladon de la afero, kaj uzon de la taŭgaj komandoj por solvi ĝin. Iloj kiel `git bisect` povas esti neaĉeblaj por malkovri erarojn, dum kompreni komunajn problemojn kaj solvojn povas helpi antaŭveni kaj rapide solvi multajn tipajn problemojn renkontitajn en Git.
+
+## Git en Grandaj Projektoj
+
+Git estas versatila ilo kiu kapablas trakti projektojn de ajna grandeco. Tamen, la administrado de grandaj kodbazoj en Git postulas iujn specialajn teknikojn kaj ilojn por certigi efikecon kaj rendimenton.
+
+### Administri Grandajn Kodbazojn per Git
+
+#### Defioj en Grandaj Projektoj
+- **Rendiproblemoj**: Grandaj deponejoj povas konduki al malrapidaj kopio-, ŝarĝo- kaj elŝuto-operacioj.
+- **Komplikaj Historioj**: Navigado kaj kompreno de kompleksa komithistorio povas esti defia.
+- **Unui Kunfliktojn**: Pliaj kontribuantoj ofte signifas pliajn branĉojn, kio povas konduki al pliiĝo de unui kunfliktoj.
+
+#### Strategioj por Administri Grandajn Kodbazojn
+1. **Modularigi la Kodbazon**: Rompu la projekton en pli malgrandajn, pli facile trakteblajn modulojn aŭ deponejojn, se eblas.
+2. **Malplena Elŝuto**: Uzu malplenajn elŝutojn por kopii nur subaĉan parton de la deponejo.
+3. **Malprofundaj Kopioj**: Kreu malprofundajn kopiojn kun limigita historio (`git clone --depth=N`) por redukti la daŭron de la kopio.
+4. **Efika Branĉa Strategio**: Plenigu branĉan strategion kiel Git Flow por efike regi branĉojn.
+
+### Teknikoj por Trakti Grandajn Deponejojn
+
+#### Skaleblecaj Teknikoj
+- **Forigo de Malnecesaj Dosieroj**: Regule rulu `git gc` por forigi malnecesajn dosierojn kaj optimaligi la deponejon.
+- **Refaktoro de Historio**: En kelkaj kazo, povas esti utila restrukturi la historion de la deponejo por forigi malnovajn, grandajn dosierojn aŭ por dividi la deponejon.
+
+#### Optimumigo de Labortekniko
+- **Strategio de Pull Request**: Enplenumu strategion de pull request, kiu inkluzivas detalan koda reviziadon por konservi la kodan kvaliton kaj minimumigi plenojn.
+- **Kontinua Integrado kaj Kontinua Liverado**: Uzu la Kontinuan Integradon kaj Kontinuan Liveradon por aŭtomate testi kaj certigi, ke la ĉefa branĉo ĉiam estas stabila.
+
+### Git LFS (Large File Storage) por Grandaj Binarnaj Dosieroj
+
+#### Kio estas Git LFS?
+- **Git Large File Storage (LFS)** estas pligrandigaĵo por Git, kiu estas dizajnita trakti grandajn kaj binarajn dosierojn efike. Ĝi anstataŭigas grandajn dosierojn en via deponejo per malgrandaj montrildosieroj. La efektivaj dosieroj estas konservataj sur aparta servilo.
+
+#### Uzi Git LFS
+1. **Instalado**: Unue, instalulu Git LFS. Ĝi kutime estas aparta instalado de Git.
+2. **Spurado de Grandaj Dosieroj**: Uzu `git lfs track` por specifi la specojn de grandaj dosieroj, kiujn vi volas konservi per LFS. Ekzemple, `git lfs track "*.psd"` spurados Photoshop-dosierojn.
+3. **Komito kaj Ŝovo kiel Kutime**: Unufoje kiam dosieroj estas spurataj, vi povas komiti kaj ŝovi kiel kutime. Git LFS traktas la grandajn dosierojn aparte.
+
+#### Avantaĝoj de Git LFS
+- **Maksimuma Rendiprovo**: LFS reduktas la grandecon de via Git deponejo per konservado de grandaj dosieroj aparte, kio rapidigas kopio- kaj elŝuto-tempojn.
+- **Plibona Traktado de Binarnaj Dosieroj**: Git ne estas bonega pri traktado de binarnaj dosieroj laŭdefaŭlte, sed LFS estas specife dizajnita por tiu celo.
+
+### Konkludo
+
+Administri grandajn projektojn per Git postulas atentan planadon kaj
+
+ la ĝustan kompletanaron de iloj. Per optimumigo de via laborfluo, uzado de Git LFS por grandaj dosieroj, kaj aplikado de strategioj por trakti grandajn deponejojn, vi povas konservi efikecon kaj efikecon eĉ en vastaj kodbazoj. Tiaj praktikoj ne nur helpas administri la kodbazon, sed ankaŭ certigas, ke la sperto de la programistoj restas glata kaj produktiva.
+
+## Integrado de Git kun Aliaj Ilaroj
+
+La fleksebleco kaj larĝa akcepto de Git igas ĝin ideala kandidato por integrado kun diversaj iloj, plibonigante projekta managado, kunlaboro, kaj kapabloj de kodo-kestado.
+
+### Interfaco de Git kun Sekviloj de Aferoj kaj Ilaroj de Projekta Managado
+
+#### Integrado kun Sekviloj de Aferoj
+- **Celkapaĵo**: Integrado de Git kun sekviloj de aferoj kiel JIRA, Trello, aŭ Asana ligas kodoŝanĝojn al specifaj taskoj aŭ aferoj, provante pli bonan sekvilecon kaj projekto-manadon.
+- **Kiel Ĝi Funkcias**: Vi povas referenci afer-id'ojn en komitaj mesaĝoj. Multaj iloj de sekvado de aferoj poste povas aŭtomate ĝisdatigi aferojn bazitajn sur tiuj referencoj. Ekzemple, inkluzi mesaĝon kiel "Fiksis eraron XYZ-123" en komito povas aŭtomate marki la aferon XYZ-123 kiel solvita en JIRA.
+
+#### Integrado de Projekta Managado
+- **Tabuloj**: Ilaroj kiel Jenkins aŭ Redmine povas krei tabulojn, montrantajn la statuson de diversaj branĉoj, tiri petoj, kaj ilia koresponda konstrua statuso.
+- **Aŭtomatigo**: Aŭtomatigu taskajn ĝisdatigojn bazitajn sur Git-agoj. Ekzemple, movi taskon al "En Revizio" kiam peto de tirita peto estas kreita el branĉo ligitaj al tiu tasko.
+
+### Migrado al Git el Aliaj Versikontrolsistemoj
+
+#### Defioj kaj Solvoj
+- **Datamigrado**: Uzu ilojn kiel `git svn` aŭ `git-tfs` por migri historion de sistemoj kiel SVN aŭ TFS al Git.
+- **Trejnado kaj Akcepto**: Transiro al Git povas postuli trejnadon por teamoj kutumitaj al centralizitaj VCS. Emfazu la avantaĝojn de Git kaj provizu plenan trejnadon.
+
+#### Paŝoj por Migrado
+1. **Planu la Migradon**: Identigu la deponejojn por migri, difinu la novan branĉan modelon, kaj planu la tempon de la migrado.
+2. **Preparu la Teamon**: Trejnu la teamon pri Git kaj establu novajn laborfluojn.
+3. **Efektivigu la Migradon**: Uzu migradilojn por transdoni kodon, historion, kaj agordojn al Git.
+4. **Kontrolu Post-Migradon**: Certigu, ke la historio kaj branĉoj estas ĝuste migritaj. Testu la laborfluojn.
+
+### Uzi Git kun Klaŭdo-Servoj (ekzemple, GitHub, GitLab, Bitbucket)
+
+#### Deponejoj en la Klaŭdo
+- **Popularaj Platformoj**: GitHub, GitLab, kaj Bitbucket estas la plej popularaj klaŭdo-bazitaj platformoj por gastigado de Git-deponejoj.
+- **Trajtoj**: Tiuj platformoj ofertas trajtojn kiel koda revizio, sekvado de aferoj, daŭra integro, kaj diversajn integradojn kun aliaj iloj.
+
+#### Avantaĝoj de Integrado
+- **Kunlaboro**: Ili provizas centran lokon por konservado de deponejoj, kunlaborado pri kodo, kaj sekvado de aferoj.
+- **CI/CD-Petolaĵoj**: Platformoj kiel GitLab kaj GitHub proponas enkonstruitajn CI/CD-petolaĵojn, faciligante la aŭtomatigon de la konstruo, testo, kaj lanĉo de procesoj.
+- **Integrado kun Triaĵaj Ilaroj**: Integrigu kun multegaj aliaj iloj por monitorado, projekta managado, aŭtomata testado, kontrolado de kvalito de kodo, kaj pli.
+
+#### Plej Bonaj Praktikoj
+- **Regulaj Ŝovo kaj Tirado**: Certigu regulan interagon kun la klaŭda deponejo por teni ĝin ĝisdata.
+- **Protektado de Branĉoj**: Uzu regulojn de branĉa protektado por malhelpi rektajn ŝuvojn al kritikaj branĉoj kiel `main` aŭ `master`.
+- **Proceso de Koda Revizio**: Uzu tirajn petojn por koda revizio kaj certigu, ke la kodo estas reviziita antaŭ kunigo.
+
+### Konkludo
+
+La integrado de Git kun aliaj iloj povas signife plifaciligi kaj plibonigi diversajn aspektojn de programa disvolviĝo, de projekta managado ĝis daŭra integro. Per uzado de la potenco de Git en kunlaboro kun aliaj iloj, teamoj povas atingi pli efikajn laborfluojn, pli bonan kunlaboron, kaj pli glatan projekta-manadon. La ŝlosilo estas elekti la ĝustan aron de iloj, kiuj kongruas kun la bezonoj kaj laborfluoj de via teamo.
+
+## La Estonteco de Git
+
+Git, estante malferm-koda distribuita versikontrola sistemo, travivis signifan evoluon ekde sia komenco. Lia estonteco verŝajne estos formita de elstarantaj tendencoj en programada disvolviĝo, evoluaj trajtoj, kaj komunumaj kontribuoj.
+
+### Elstarantaj Tendencoj kaj Trajtoj en Git
+
+#### Maturigaj Mastroj
+- Proksime de la kreskanta grandeco kaj komplekseco de deponejoj, gravas plibonigo de la efikeco de Git, precipe en areoj kiel la traktado de grandaj dosieroj, rapidigo de operacioj sur enormaj kodokestoj, kaj plibonigo de reta efikeco.
+
+#### Plibona Integrado kun CI/CD kaj DevOps
+- La rolo de Git en daŭra integro kaj lanĉado pligrandiĝas. Estontaj disvolvoj eble inkluzivos pli fortan integradon kun CI/CD-iloj kaj platformoj, ebligante pli aŭtomatajn kaj facilajn laborfluojn.
+
+#### Plibonitaj Sekurecaj Trajtoj
+- Kun la kreskanta graveco de kibersigureco, Git eble integrigos pli evoluigitajn sekurecajn trajtojn, kiel plibonita subteno por subskribado de komitoj kaj etikedoj, aŭ ilojn por detekti kaj malhelpi sekurecajn malfacilaĵojn.
+
+#### Uzantinterfaco kaj Sperto
+- Dum la komandlinia interfaco de Git estas potenca, konstanta premado okazas por pli facile uzeblaj interfacoj kaj iloj, igante Git pli alirebla al pli larĝa gamo de uzantoj, precipe tiuj novaj al versikonta kontrolo.
+
+#### Klaŭdo kaj Disvolviĝo en la Disa Sektoro
+- Plibonaĵoj por pli bona fora kunlaborado eble emerĝos, precipe kiam oni konsideras la kreskantan tendencon de distribuitaj teamoj kaj disaj disvolvaj medioj en la klasika sektor.
+
+### La Rolo de Git en la Estonta Programada Disvolviĝo
+
+#### La Fundamentaĵo de Modernaj Laborfluoj
+- Git verŝajne restos ĉe la kerno de moderna programada disvolviĝo, precipe kun la kreskanta emfazo pri DevOps-praktikoj, agila disvolviĝo, kaj daŭra liverado.
+
+#### Adaptiĝo al Novaj Disvolvadparadigmoj
+- Dum programada disvolvadparadigmoj evoluas, Git devos adaptiĝi al novaj laborfluoj kaj eble novaj programadparadigmoj, kiel la kvanta komputado aŭ kodo gvidita de arta inteligenteco.
+
+#### Faciliganto de Malferm-koda kaj Kunlaborado
+- Git daŭros ludi gravan rolon en subtenado de malferm-kodaj projektoj kaj kunlabora disvolviĝo, eble kun pli da trajtoj por komunuma estraro kaj kontribuoj-sekvo.
+
+### Kontribuoj kaj Komunuma Partopreno en la Evoluo de Git
+
+#### Malferm-kodaj Kontribuoj
+- La estonteco de Git signife formasĝos pro ĝia komunumo kaj kontribuantoj. Malferm-kodaj kontribuantoj enportas novajn trajtojn, eraro-korektojn, kaj efikecplibonigojn.
+
+#### Kunlaborado kun Aliaj Iloj kaj Platformoj
+- Integrado kun diversaj iloj, platformoj, kaj servoj daŭros esti chefa areo de disvolvo, influata de la bezonoj kaj kontribuoj de la pli larĝa disvolvista komunumo.
+
+#### Disvolvita surbaze de Ricevita Kritiko
+- La Git-projekto aktive serĉas ricevitan kritikon de sia uzantaro por plibonigoj. Ĉi tiu komunuma feedback-ciklo gvidos estontajn disvolvojn kaj rafinadojn.
+
+#### Inkluziveco kaj Alirebleco
+- Penoj estas farataj por fari Git pli inkluziva kaj alirebla, kio inkluzivas plibonigitan dokumentadon, provizadon de edukaj rimedoj, kaj simpligadon de la uzanterfaco.
+
+### Konkludo
+
+La estonteco de Git verŝajne markiĝos de progresoj en efikeco, uzebleco, kaj integrado kun aliaj iloj kaj platformoj, movata de la bezonoj de modernaj praktikoj de programada disvolviĝo kaj la kontribuoj de aktiva komunumo. Kiel la spinbastono de versikonta kontrolo en multaj projektoj, la evoluo de Git daŭros ludi ŝlosilan rolon en formado de kiel programado estas disvolvata, liverata, kaj prizorgata.
+
+## Vortaro de Terminoj
+
+**Deponejo (Repo)**: Datumbazo kiu konservas la historion de ĉiuj ŝanĝoj faritaj al projekto. Ĝi inkluzivas ĉiujn dosierojn, la revizohistorion, kaj agordajn agordojn.
+
+**Komito**: Fotografaĵo de via deponejo je aparta momento en la tempo. Ĝi similas al savopunkto en ludo, registrante ŝanĝojn faritajn al la dosieroj en via deponejo.
+
+**Branĉo**: Aparta linio de disvolvo. Branĉoj permesas al vi labori pri funkcioj aŭ riparoj sen efekti la ĉefan kodbazon.
+
+**Kunfandi**: La proceso de integri ŝanĝojn de unu branĉo en alian.
+
+**Peti Tiron (PT)**: Peti kunfandi unu branĉon en alian, kutime uzita en kunlaboraj projektoj por revizio antaŭ kunfando.
+
+**Kloni**: La ago de krei lokan kopion de fora deponejo.
+
+**Forki**: Kopio de deponejo tute sendependa de la originalo. Forki ofte uzatas por komenci vian propran version de projekto aŭ por kontribui al la originala projekto.
+
+**Ŝovi**: La ago de alŝuti enhavon de via loka deponejo al fora deponejo.
+
+**Tiri**: La ago de elŝuti ŝanĝojn de fora deponejo al via loka deponejo.
+
+**Fora**: Versio de via deponejo gastigita sur servilo, ofte uzata por kunlaborado.
+
+**HEAD**: Montrilo al la nuna branĉreferenco, kiu ofte estas la lasta komito sur tiu branĉo.
+
+**Elŝuti**: La ago de interŝanĝi inter malsamaj versioj de dosieroj en la deponejo.
+
+**Kaŝejo**: Tempa stoko por nekomitatitaj ŝanĝoj, kiu permesas al vi ŝanĝi branĉojn sen komitatado de via laboro.
+
+**Rebazigi**: Maniero de movi aŭ kunmeti serion de komitoj al nova baza komito.
+
+**Konflikto**: Okazas kiam kunfandaj branĉoj havas konkurantajn ŝanĝojn, postulante manan intervenon por solvi.
+
+**Etikedo**: Indikilo uzata por montri al specifa komito, ofte uzata por marki liberigpunktojn kiel v1.0, v2.0, ktp.
+
+**Git LFS (Large File Storage)**: Etendaĵo por trakti grandajn dosierojn sen ŝveligi la revizohistorion de la deponejo.
+
+**Diferenco**: La diferenco inter du grupoj de dosieroj aŭ komitoj, montranta kiaj ŝanĝoj estas faritaj.
+
+**Krimei**: Ilo por montri kian revizion kaj aŭtoro laste ŝanĝis ĉiun vicon de dosiero.
+
+**Elekti-Kolĉi**: La ago de elekti specifan komiton de unu branĉo kaj apliki ĝin al alia.
+
+## Ofte Demandataj Demandoj
+
+1. **Kio estas Git?**
+   - Git estas distribuita sistemo por versionkontrolo uzata por spuri ŝanĝojn en fontkodo dum programada disvolvo.
+
+2. **Kiel mi instalas Git?**
+   - Git povas esti instalata de ĝia oficiala retejo, git-scm.com, kun instalkomandoj diversaj laŭ via operaciumo.
+
+3. **Kiel mi komencas novan Git deponejon?**
+   - Uzu `git init` en via projektdosierujo por initializi novan Git deponejon.
+
+4. **Kio estas Git komito?**
+   - Komito estas fotografaĵo de via deponejo je specifa momento en la tempo, registrante ŝanĝojn al la dosieroj.
+
+5. **Kiel mi komitas ŝanĝojn en Git?**
+   - Pretigu viajn ŝanĝojn per `git add`, poste komitu ilin per `git commit -m "komita mesaĝo"`.
+
+6. **Kio estas Git branĉo kaj kiel mi kreas unu?**
+   - Branĉo estas aparta linio de disvolvo. Kreu ĝin per `git branch branĉo_nomo`.
+
+7. **Kiel mi interŝanĝas inter branĉoj en Git?**
+   - Uzu `git checkout branĉo_nomo` por interŝanĝi al ekzistanta branĉo.
+
+8. **Kiel mi kunfandas branĉojn en Git?**
+   - Uzu `git merge branĉo_nomo` por kunfandi la specifitan branĉon en vian nunan branĉon.
+
+9. **Kio estas kunfanda konflikto en Git kaj kiel mi ilin solvas?**
+   - Kunfanda konflikto okazas kiam Git ne povas aŭtomate kunfandi ŝanĝojn el malsamaj branĉoj. Solvu ilin manlibre redaktante la konfliktajn dosierojn, poste preparante kaj komitante la solvon.
+
+10. **Kiel mi vidas mian komithistorion?**
+    - Uzu `git log` por vidi la komithistorion.
+
+11. **Kiel mi malkomitas komiton en Git?**
+    - Uzu `git revert komito_hash` por krei novan komiton, kiu malfaras la ŝanĝojn de la specifita komito.
+
+12. **Kiel mi klonas Git deponejon?**
+    - Uzu `git clone deponejo_url` por kloni fora deponejo al via loka maŝino.
+
+13. **Kiel mi ŝovas ŝanĝojn al fora deponejo?**
+    - Uzu `git push fora_nomo branĉo_nomo` por ŝovi viajn komititajn ŝanĝojn al fora deponejo.
+
+14. **Kiel mi tiris ŝanĝojn el fora deponejo?**
+    - Uzu `git pull fora_nomo branĉo_nomo` por preni kaj kunfandi ŝanĝojn el la fora deponejo en vian nunan branĉon.
+
+15. **Kio estas 'fora' en Git?**
+    - Fora en Git estas komuna deponejo, kiun ĉiuj teamaj membroj uzas por interŝanĝi siajn ŝanĝojn.
+
+16. **Kio estas la diferenco inter 'git fetch' kaj 'git pull'?**
+    - `git fetch` elŝutas ŝanĝojn el la fora deponejo sed ne integri ilin en vian lokan branĉon, dum `git pull` faras ambaŭn.
+
+17. **Kio estas 'forki' en Git?**
+    - Forkejo estas kopio de deponejo, kiu permesas al vi libere eksperimenti kun ŝanĝoj sen afekti la originan projekton.
+
+18. **Kiel mi kontribuas al malfermitkoda projekto uzante Git?**
+    - Kutime, vi forkas la deponejon, faras viajn ŝanĝojn en nova branĉo, kaj poste sendas peton de tiro al la originala deponejo por revizio.
+
+19. **Kio estas 'git kaŝejo'?**
+    - `git kaŝejo` tempore ŝtelas ŝanĝojn kiujn vi faris en via labora dosierujo, tiel vi povas labori pri io alia, kaj poste reaŭtomati ilin poste.
+
+20. **Kio estas .gitignore dosieroj?**
+    - `.gitignore` dosieroj specifas intence ne-spuratajn dosierojn kiujn Git devas ignori, ofte enhavante tempajn aŭ konstruajn dosierojn kiujn ne necesas versionkontroli.
