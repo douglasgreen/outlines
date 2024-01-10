@@ -58,7 +58,7 @@ The probability scale is a way to quantify the likelihood of events, ranging fro
 - A probability of 1 indicates a certain event (an event that will definitely occur).
 - Probabilities between 0 and 1 indicate the likelihood of an event occurring, with higher values indicating a greater likelihood.
 
-For example, the probability of rolling a 7 with a standard die is 0 (impossible), while the probability of rolling a number less than 7 is 1 (certain). The probability of rolling a specific number, like 3, is \( \frac{1}{6} \) (since there are 6 possible outcomes, each equally likely).
+For example, the probability of rolling a 7 with a standard die is 0 (impossible), while the probability of rolling a number less than 7 is 1 (certain). The probability of rolling a specific number, like 3, is $`\frac{1}{6}`$ (since there are 6 possible outcomes, each equally likely).
 
 Understanding these basic concepts is crucial for delving deeper into the field of probability, as they form the building blocks for more complex theories and applications.
 
@@ -127,28 +127,28 @@ Conditional probability is a crucial concept in probability theory that deals wi
 
 ### Definition and Importance
 
-**Definition**: The conditional probability of an event \( B \) given that another event \( A \) has occurred is denoted as \( P(B|A) \). It is calculated as the probability of both events \( A \) and \( B \) occurring divided by the probability of event \( A \).
+**Definition**: The conditional probability of an event $`B`$ given that another event $`A`$ has occurred is denoted as $`P(B|A)`$. It is calculated as the probability of both events $`A`$ and $`B`$ occurring divided by the probability of event $`A`$.
 
 Mathematically, it is expressed as:
-\[ P(B|A) = \frac{P(A \cap B)}{P(A)} \]
-provided that \( P(A) \) is not zero.
+$`P(B|A) = \frac{P(A \cap B)}{P(A)}`$
+provided that $`P(A)`$ is not zero.
 
 **Importance**: Conditional probability is important because it provides a way to update the probability of an event based on new information. This is crucial in many real-world scenarios where the occurrence of one event affects the likelihood of another. For example, the probability of needing an umbrella changes if you know it's raining.
 
 ### The Multiplication Rule
 
-The multiplication rule is a fundamental concept in probability that relates joint probability to conditional probability. It states that the probability of both events \( A \) and \( B \) occurring (the joint probability) can be calculated by multiplying the probability of \( A \) by the conditional probability of \( B \) given \( A \).
+The multiplication rule is a fundamental concept in probability that relates joint probability to conditional probability. It states that the probability of both events $`A`$ and $`B`$ occurring (the joint probability) can be calculated by multiplying the probability of $`A`$ by the conditional probability of $`B`$ given $`A`$.
 
 Mathematically, it is expressed as:
-\[ P(A \cap B) = P(A) \times P(B|A) \]
+$`P(A \cap B) = P(A) \times P(B|A)`$
 
 This rule is pivotal in determining the likelihood of a sequence of dependent events occurring.
 
 ### Independent and Dependent Events
 
-**Independent Events**: Two events are independent if the occurrence of one does not affect the occurrence of the other. In terms of probability, two events \( A \) and \( B \) are independent if \( P(B|A) = P(B) \) and vice versa. For independent events, the multiplication rule simplifies to \( P(A \cap B) = P(A) \times P(B) \).
+**Independent Events**: Two events are independent if the occurrence of one does not affect the occurrence of the other. In terms of probability, two events $`A`$ and $`B`$ are independent if $`P(B|A) = P(B)`$ and vice versa. For independent events, the multiplication rule simplifies to $`P(A \cap B) = P(A) \times P(B)`$.
 
-**Dependent Events**: In contrast, dependent events are those where the occurrence of one event affects the probability of the other. For dependent events, the conditional probability \( P(B|A) \) will be different from \( P(B) \).
+**Dependent Events**: In contrast, dependent events are those where the occurrence of one event affects the probability of the other. For dependent events, the conditional probability $`P(B|A)`$ will be different from $`P(B)`$.
 
 Understanding the distinction between independent and dependent events is crucial for correctly applying conditional probability and the multiplication rule. These concepts form the basis for more advanced topics in probability and statistics, such as Bayes' theorem and Markov chains, and have wide-ranging applications in data analysis, risk assessment, and decision-making processes.
 
@@ -160,12 +160,12 @@ Bayes' Theorem is a powerful and fundamental concept in probability theory. It p
 
 Bayes' Theorem is formulated on the principles of conditional probability. It relates the conditional and marginal probabilities of random events. Mathematically, it is expressed as:
 
-\[ P(A|B) = \frac{P(B|A) \times P(A)}{P(B)} \]
+$`P(A|B) = \frac{P(B|A) \times P(A)}{P(B)}`$
 
 Where:
-- \( P(A|B) \) is the probability of event \( A \) given that \( B \) has occurred.
-- \( P(B|A) \) is the probability of event \( B \) given that \( A \) has occurred.
-- \( P(A) \) and \( P(B) \) are the probabilities of events \( A \) and \( B \) respectively.
+- $`P(A|B)`$ is the probability of event $`A`$ given that $`B`$ has occurred.
+- $`P(B|A)`$ is the probability of event $`B`$ given that $`A`$ has occurred.
+- $`P(A)`$ and $`P(B)`$ are the probabilities of events $`A`$ and $`B`$ respectively.
 
 The theorem provides a way to revise existing beliefs or hypotheses in light of new evidence.
 
@@ -242,9 +242,9 @@ The standard normal distribution is a special case of the normal distribution wi
 
 - **Z-score**: A Z-score is a measure that describes a value's relationship to the mean of a group of values, expressed in terms of standard deviations from the mean. It's calculated using the formula:
 
-  \[ Z = \frac{(X - \mu)}{\sigma} \]
+  $`Z = \frac{(X - \mu)}{\sigma}`$
 
-  where \( X \) is the value, \( \mu \) is the mean, and \( \sigma \) is the standard deviation.
+  where $`X`$ is the value, $`\mu`$ is the mean, and $`\sigma`$ is the standard deviation.
 
 - **Interpreting Z-scores in Probability**: The Z-score tells us how many standard deviations an element is from the mean. In a standard normal distribution, Z-scores can be used to calculate the probability of a value falling within a certain range. For example, a Z-score of 1.96 corresponds to the 97.5th percentile, which means there is a 97.5% chance that a value drawn at random from the distribution will be less than 1.96 standard deviations above the mean.
 
@@ -340,19 +340,19 @@ Joint probability and distributions are key concepts in the study of statistics 
 
 ### Joint vs. Marginal Probability
 
-1. **Joint Probability**: This refers to the probability of two or more events occurring simultaneously. It's denoted as \( P(A \cap B) \) for events \( A \) and \( B \), and can be understood as the probability of event \( A \) and event \( B \) happening together. In terms of random variables, the joint probability distribution gives the probability of each combination of values for the variables.
+1. **Joint Probability**: This refers to the probability of two or more events occurring simultaneously. It's denoted as $`P(A \cap B)`$ for events $`A`$ and $`B`$, and can be understood as the probability of event $`A`$ and event $`B`$ happening together. In terms of random variables, the joint probability distribution gives the probability of each combination of values for the variables.
 
 2. **Marginal Probability**: This is the probability of a single event occurring, regardless of the outcome of other events. In the context of joint distributions, it's obtained by summing (in the case of discrete variables) or integrating (in the case of continuous variables) the joint probabilities over the range of the other variable(s). Essentially, it's the probability of an event occurring irrespective of the other variables' values.
 
 ### Independence in Joint Distributions
 
-Two random variables are considered independent if the occurrence of one does not affect the probability of occurrence of the other. Mathematically, two variables \( X \) and \( Y \) are independent if and only if:
+Two random variables are considered independent if the occurrence of one does not affect the probability of occurrence of the other. Mathematically, two variables $`X`$ and $`Y`$ are independent if and only if:
 
-\[ P(X \cap Y) = P(X) \times P(Y) \]
+$`P(X \cap Y) = P(X) \times P(Y)`$
 
-Or, in terms of conditional probability, \( X \) and \( Y \) are independent if:
+Or, in terms of conditional probability, $`X`$ and $`Y`$ are independent if:
 
-\[ P(X|Y) = P(X) \] and \( P(Y|X) = P(Y) \]
+$`P(X|Y) = P(X)`$ and \( P(Y|X) = P(Y) \]
 
 In joint distributions, independence implies that the joint distribution can be expressed as the product of the marginal distributions.
 
@@ -406,28 +406,28 @@ Hypothesis testing is a fundamental procedure in statistics used to determine wh
 
 ### Concept and Procedure
 
-1. **Concept**: Hypothesis testing starts with the formulation of two hypotheses: the null hypothesis (denoted as \( H_0 \)) and the alternative hypothesis (denoted as \( H_1 \) or \( H_a \)). The null hypothesis typically represents the status quo or a position of no effect, while the alternative hypothesis represents what the test is trying to establish.
+1. **Concept**: Hypothesis testing starts with the formulation of two hypotheses: the null hypothesis (denoted as $`H_0`$) and the alternative hypothesis (denoted as $`H_1`$ or $`H_a`$). The null hypothesis typically represents the status quo or a position of no effect, while the alternative hypothesis represents what the test is trying to establish.
 
 2. **Procedure**:
    - **Step 1**: Formulate the null and alternative hypotheses.
-   - **Step 2**: Select a significance level (\( \alpha \)), which is the probability of rejecting the null hypothesis when it is true (Type I error).
+   - **Step 2**: Select a significance level ($`\alpha`$), which is the probability of rejecting the null hypothesis when it is true (Type I error).
    - **Step 3**: Collect and analyze sample data to calculate the test statistic, which depends on the nature of the hypothesis test and the data.
    - **Step 4**: Determine the p-value, which is the probability of observing the test statistic or something more extreme under the assumption that the null hypothesis is true.
    - **Step 5**: Compare the p-value with the significance level. If the p-value is less than or equal to the significance level, reject the null hypothesis; otherwise, fail to reject it.
 
 ### Types of Errors
 
-1. **Type I Error**: Occurs when the null hypothesis is true, but we mistakenly reject it. The probability of committing a Type I error is denoted by \( \alpha \), the significance level of the test.
+1. **Type I Error**: Occurs when the null hypothesis is true, but we mistakenly reject it. The probability of committing a Type I error is denoted by $`\alpha`$, the significance level of the test.
 
-2. **Type II Error**: Occurs when the null hypothesis is false, but we fail to reject it. The probability of committing a Type II error is denoted by \( \beta \).
+2. **Type II Error**: Occurs when the null hypothesis is false, but we fail to reject it. The probability of committing a Type II error is denoted by $`\beta`$.
 
 Balancing these errors is a key aspect of hypothesis testing, as minimizing one type usually increases the other.
 
 ### Significance Levels and P-Values
 
-- **Significance Level (\( \alpha \))**: This is a threshold set by the researcher, often 0.05 (5%), which determines the level of significance at which we would reject the null hypothesis. It's a measure of the risk one is willing to take of committing a Type I error.
+- **Significance Level ($`\alpha`$)**: This is a threshold set by the researcher, often 0.05 (5%), which determines the level of significance at which we would reject the null hypothesis. It's a measure of the risk one is willing to take of committing a Type I error.
 
-- **P-Value**: This measures the strength of the evidence against the null hypothesis. It's the probability of observing a result at least as extreme as the one observed, under the assumption that the null hypothesis is true. If the p-value is less than or equal to \( \alpha \), it suggests that the observed data is unlikely under the null hypothesis, leading to its rejection in favor of the alternative hypothesis.
+- **P-Value**: This measures the strength of the evidence against the null hypothesis. It's the probability of observing a result at least as extreme as the one observed, under the assumption that the null hypothesis is true. If the p-value is less than or equal to $`\alpha`$, it suggests that the observed data is unlikely under the null hypothesis, leading to its rejection in favor of the alternative hypothesis.
 
 Hypothesis testing is a critical tool in statistical inference, allowing researchers to make decisions and draw conclusions about populations based on sample data. It's widely used in fields such as science, medicine, psychology, economics, and engineering for testing theories and hypotheses.
 
@@ -445,7 +445,7 @@ Markov chains can be:
 
 ### Transition Matrices
 
-A key component of a Markov chain is its transition matrix. For discrete-time Markov chains, the transition matrix describes the probabilities of moving from one state to another in one time step. Each entry \( a_{ij} \) in the matrix represents the probability of moving from state \( i \) to state \( j \).
+A key component of a Markov chain is its transition matrix. For discrete-time Markov chains, the transition matrix describes the probabilities of moving from one state to another in one time step. Each entry $`a_{ij}`$ in the matrix represents the probability of moving from state $`i`$ to state $`j`$.
 
 Characteristics of a transition matrix include:
 - Each row of the matrix sums up to 1, as they represent probability distributions.
