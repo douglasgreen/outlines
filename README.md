@@ -149,6 +149,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Discrete Mathematics](mathematics/discrete_mathematics.en.md)
   * [Geometry](mathematics/geometry.en.md)
   * [Mathematics](mathematics/mathematics.en.md)
+  * [Probability](mathematics/probability.en.md)
   * [Statistics](mathematics/statistics.en.md)
 
 ## Mythology
