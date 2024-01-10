@@ -79,6 +79,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Software Architecture](computing/software_architecture/software_architecture.en.md)
 
 ### Software Testing
+  * [Automated Testing](computing/software_testing/automated_testing.en.md)
   * [Software Testing](computing/software_testing/software_testing.en.md)
 
 ### Web Development
