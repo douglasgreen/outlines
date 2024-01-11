@@ -697,3 +697,65 @@ In summary, the future of computer science is marked by rapid technological adva
 **Cybersecurity**: The practice of protecting systems, networks, and programs from digital attacks aimed at accessing, changing, or destroying sensitive information.
 
 **Blockchain**: A system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system, often used for securing transactions in cryptocurrencies.
+
+## Frequently Asked Questions
+
+1. **What is computer science?**
+   - Computer science is the study of computers and computational systems, encompassing theory, design, development, and application of software and systems.
+
+2. **What do computer scientists do?**
+   - Computer scientists solve problems using technology, develop new software, improve computer systems, and study the theory of computing and its practical applications.
+
+3. **Is coding the same as computer science?**
+   - Coding is a part of computer science, but computer science also includes theoretical foundations, algorithms, computational processes, and more.
+
+4. **What programming languages should I learn?**
+   - Beginners often start with Python or JavaScript. Other important languages include Java, C++, and SQL, depending on your specific interests and field.
+
+5. **What is the difference between computer science and software engineering?**
+   - Computer science is more theoretical, focusing on algorithms and computational theory, while software engineering is more applied, focusing on designing and building software.
+
+6. **How important is math in computer science?**
+   - Math is fundamental to computer science. It's essential for understanding algorithms, computational complexity, data structures, and more.
+
+7. **What are algorithms?**
+   - Algorithms are a set of instructions designed to perform a specific task. They are fundamental to all aspects of computer science.
+
+8. **What is artificial intelligence?**
+   - Artificial intelligence (AI) is the simulation of human intelligence processes by machines, particularly computer systems. It includes learning, reasoning, and self-correction.
+
+9. **What is machine learning?**
+   - Machine learning is a subset of AI that involves the development of algorithms that allow computers to learn and make predictions or decisions based on data.
+
+10. **What is the difference between front-end and back-end development?**
+    - Front-end development involves creating the visual and interactive elements of a website (what the user interacts with), while back-end development focuses on the server-side, database, and application logic.
+
+11. **What is data science?**
+    - Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
+
+12. **What is a database?**
+    - A database is an organized collection of data, generally stored and accessed electronically from a computer system.
+
+13. **What is cloud computing?**
+    - Cloud computing refers to the delivery of different services through the Internet, including data storage, servers, databases, networking, and software.
+
+14. **What is cybersecurity?**
+    - Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks.
+
+15. **What are data structures?**
+    - Data structures are ways of organizing and storing data in a computer so that it can be accessed and modified efficiently.
+
+16. **What is the Internet of Things (IoT)?**
+    - The Internet of Things refers to the network of physical objects that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
+
+17. **What is blockchain?**
+    - Blockchain is a distributed database that maintains a continuously growing list of records called blocks, secured from tampering and revision.
+
+18. **What is quantum computing?**
+    - Quantum computing is a type of computing that takes advantage of quantum phenomena like superposition and quantum entanglement to perform computations.
+
+19. **What are the ethical concerns in computer science?**
+    - Ethical concerns include data privacy, security, the digital divide, and the impact of AI and automation on employment.
+
+20. **What career options are available in computer science?**
+    - Careers in computer science include software developer, data scientist, systems analyst, cybersecurity expert, AI researcher, and more.

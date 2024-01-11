@@ -676,3 +676,65 @@ In conclusion, the future of cryptography is not just about securing data but al
 **Blockchain**: A decentralized ledger technology that stores data in blocks that are linked and secured using cryptography, prominent in cryptocurrencies.
 
 **Nonce**: A random or pseudo-random number issued in cryptographic communication to prevent replay attacks and ensure data freshness.
+
+## Frequently Asked Questions
+
+1. **What is cryptography?**
+   - Cryptography is the practice and study of techniques for securing communication and data in the presence of adversaries. It involves encrypting and decrypting information.
+
+2. **What is the difference between symmetric and asymmetric cryptography?**
+   - Symmetric cryptography uses the same key for both encryption and decryption, while asymmetric cryptography uses a pair of keys – a public key for encryption and a private key for decryption.
+
+3. **What is a cryptographic algorithm?**
+   - A cryptographic algorithm is a mathematical procedure used for encrypting or decrypting data. It's a set of rules that governs the process of cryptography.
+
+4. **What is encryption?**
+   - Encryption is the process of converting plaintext into ciphertext using a cryptographic algorithm and a key, making it unreadable to unauthorized users.
+
+5. **What is decryption?**
+   - Decryption is the reverse process of encryption. It converts ciphertext back into plaintext using the appropriate key and algorithm.
+
+6. **What is a cryptographic key?**
+   - A cryptographic key is a string of bits used by a cryptographic algorithm to transform plaintext into ciphertext or vice versa.
+
+7. **What is a hash function?**
+   - A hash function is a cryptographic algorithm that converts an input (or 'message') into a fixed-size string of bytes, typically a digest, which is intended to uniquely represent the data.
+
+8. **What is digital signature?**
+   - A digital signature is a mathematical scheme for demonstrating the authenticity of digital messages or documents. It provides proof of origin, identity and status of an electronic document, transaction, or message.
+
+9. **What is a certificate authority (CA)?**
+   - A Certificate Authority is an entity that issues digital certificates. These certificates verify the ownership of a public key by the named subject of the certificate.
+
+10. **What is a public key infrastructure (PKI)?**
+    - Public Key Infrastructure is a set of roles, policies, hardware, software, and procedures needed to create, manage, distribute, use, store, and revoke digital certificates.
+
+11. **What is SSL/TLS?**
+    - SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are cryptographic protocols designed to provide communications security over a computer network.
+
+12. **What is a VPN, and how does it use cryptography?**
+    - A VPN (Virtual Private Network) extends a private network across a public network and enables users to send and receive data securely. It uses cryptography to encrypt data traffic.
+
+13. **What are cryptographic attacks?**
+    - Cryptographic attacks are attempts to break cryptographic algorithms or retrieve information from encrypted messages without the key.
+
+14. **What is AES?**
+    - AES (Advanced Encryption Standard) is a symmetric encryption algorithm widely used across the globe to secure data.
+
+15. **What is RSA?**
+    - RSA is an asymmetric cryptographic algorithm used for secure data transmission. It's widely used for secure data transmission and digital signatures.
+
+16. **What is a brute force attack in cryptography?**
+    - A brute force attack in cryptography is a trial-and-error method used to decode encrypted data by trying every possible key.
+
+17. **What is quantum cryptography?**
+    - Quantum cryptography is the use of quantum mechanical principles to perform cryptographic tasks or to break cryptographic systems.
+
+18. **What is steganography?**
+    - Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.
+
+19. **What is blockchain cryptography?**
+    - Blockchain cryptography is a type of cryptography used in blockchain technology to secure the transactions and control the creation of new blocks.
+
+20. **How does cryptography ensure data security?**
+    - Cryptography ensures data security by encrypting data, which makes it unreadable to unauthorized individuals. It uses algorithms and keys to provide confidentiality, integrity, and authenticity.
