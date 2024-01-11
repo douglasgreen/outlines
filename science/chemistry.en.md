@@ -858,3 +858,65 @@ In conclusion, chemistry not only plays a pivotal role in our everyday lives but
 **Enthalpy**: A measurement of energy in a thermodynamic system, often used in the calculation of heat changes.
 
 **Periodic Table**: A tabular arrangement of the chemical elements, organized by their atomic number, electron configuration, and recurring chemical properties.
+
+## Frequently Asked Questions
+
+1. **What is Chemistry?**
+   - Chemistry is the scientific study of the properties, composition, and transformation of matter.
+
+2. **What is the Periodic Table?**
+   - The Periodic Table organizes all known chemical elements by increasing atomic number and groups them based on similar chemical properties.
+
+3. **What is the difference between an atom and a molecule?**
+   - An atom is the smallest unit of an element, containing protons, neutrons, and electrons. A molecule is a group of two or more atoms chemically bonded together.
+
+4. **What are chemical bonds?**
+   - Chemical bonds are the forces holding atoms together to form molecules and compounds, like ionic, covalent, and metallic bonds.
+
+5. **What is a chemical reaction?**
+   - A chemical reaction is a process where reactants are transformed into products through breaking and forming of chemical bonds.
+
+6. **What are acids and bases?**
+   - Acids are substances that donate protons (H+) in a solution, while bases accept protons. Their strength is measured on the pH scale.
+
+7. **What is the pH scale?**
+   - The pH scale measures how acidic or basic a substance is, ranging from 0 (very acidic) to 14 (very basic), with 7 being neutral.
+
+8. **What are organic compounds?**
+   - Organic compounds are chemical compounds containing carbon-hydrogen bonds, often found in living organisms.
+
+9. **What is the role of catalysts in chemistry?**
+   - Catalysts speed up chemical reactions without being consumed in the process.
+
+10. **What is stoichiometry in chemistry?**
+    - Stoichiometry is the calculation of reactants and products in chemical reactions, based on the conservation of mass.
+
+11. **What is the difference between a compound and a mixture?**
+    - A compound is a substance formed when two or more elements are chemically bonded, while a mixture is a combination of substances not chemically bonded.
+
+12. **What is an isotope?**
+    - Isotopes are variants of a chemical element that have the same number of protons but different numbers of neutrons.
+
+13. **What is Avogadro's number?**
+    - Avogadro's number, approximately \(6.022 \times 10^{23}\), represents the number of units in one mole of any substance.
+
+14. **What are valence electrons?**
+    - Valence electrons are the electrons in the outermost shell of an atom, playing a key role in chemical bonding and reactions.
+
+15. **What is a chemical equilibrium?**
+    - Chemical equilibrium is a state in a reversible reaction where the rate of the forward reaction equals the rate of the reverse reaction.
+
+16. **What is oxidation and reduction?**
+    - Oxidation is the loss of electrons in a chemical reaction, while reduction is the gain of electrons.
+
+17. **What are endothermic and exothermic reactions?**
+    - Endothermic reactions absorb heat, while exothermic reactions release heat.
+
+18. **What is the role of electrons in chemistry?**
+    - Electrons play a crucial role in forming chemical bonds and determining the chemical and physical properties of substances.
+
+19. **What is the difference between qualitative and quantitative analysis in chemistry?**
+    - Qualitative analysis identifies what substances are present, while quantitative analysis measures how much of each substance is present.
+
+20. **What is a solute and solvent in a solution?**
+    - In a solution, the solute is the substance dissolved, while the solvent is the substance that does the dissolving.

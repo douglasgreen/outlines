@@ -783,3 +783,65 @@ In summary, calculus remains a vibrant and crucial field of study with broad app
 **Limit of a Sequence**: The value that the terms of a numerical sequence get closer to as the index becomes very large.
 
 **Infinitesimal**: An extremely small quantity in calculus, used in the concept of limits and differentials.
+
+## Frequently Asked Questions
+
+1. **What is calculus?**
+   Calculus is a branch of mathematics focused on limits, functions, derivatives, integrals, and infinite series.
+
+2. **What are derivatives?**
+   Derivatives represent the rate of change of a function with respect to a variable.
+
+3. **What is the difference between differential and integral calculus?**
+   Differential calculus deals with the study of rates at which quantities change, while integral calculus is about accumulation of quantities.
+
+4. **What is a limit in calculus?**
+   A limit is the value that a function or sequence "approaches" as the input or index approaches some value.
+
+5. **How do you find the derivative of a function?**
+   The derivative is found using rules like the power rule, product rule, quotient rule, and chain rule.
+
+6. **What is an integral?**
+   An integral is a mathematical object that can be interpreted as an area or a generalization of area.
+
+7. **What is the fundamental theorem of calculus?**
+   It links the concept of differentiating a function with the concept of integrating a function, showing that these two operations are essentially inverses of each other.
+
+8. **What are applications of calculus in real life?**
+   Calculus is used in a wide array of fields such as physics, engineering, economics, statistics, and medicine.
+
+9. **What is a partial derivative?**
+   It's a derivative where a function of several variables is differentiated with respect to one of those variables, holding the others constant.
+
+10. **What is the chain rule in calculus?**
+    The chain rule is a formula to compute the derivative of a composite function.
+
+11. **How do you integrate a function?**
+    Integration is typically done by finding the antiderivative or using methods like substitution, integration by parts, or partial fractions.
+
+12. **What are infinite series in calculus?**
+    These are the sum of an infinite sequence of numbers, which can converge to a specific value or diverge.
+
+13. **What is a Taylor series?**
+    A Taylor series is an expansion of a function into an infinite sum of terms.
+
+14. **How are limits used in calculus?**
+    Limits are used to define derivatives, integrals, and continuity.
+
+15. **What is a differential equation?**
+    It’s an equation that relates some function with its derivatives.
+
+16. **What does it mean for a function to be continuous?**
+    A function is continuous if, at every point in its domain, the function value approaches the same number that the function actually equals.
+
+17. **How do you find the maximum or minimum of a function?**
+    Maxima and minima can be found by taking the derivative and setting it to zero, then solving for the variable.
+
+18. **What is the area under a curve?**
+    It is the integral of a function over a range and represents the accumulation of quantities.
+
+19. **How is calculus used in physics?**
+    Calculus is used in physics to model and solve problems concerning motion, forces, and energy.
+
+20. **What is a gradient in calculus?**
+    A gradient is a vector containing the partial derivatives of a function, indicating the direction of the steepest ascent or descent at a point.

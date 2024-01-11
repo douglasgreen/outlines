@@ -83,7 +83,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Software Testing](computing/software_testing/software_testing.en.md)
 
 ### Web Development
-  * [Apache Web Server](computing/web_development/apache_web_server.en.md)
+  * [Apache Web Server](computing/web_development/apache.en.md)
   * [Cascading Style Sheets](computing/web_development/css.en.md)
   * [Hypertext Markup Language](computing/web_development/html.en.md)
   * [Hypertext Transfer Protocol](computing/web_development/http.en.md)

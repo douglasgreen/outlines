@@ -799,3 +799,65 @@ The field of anatomy and physiology is rapidly evolving, driven by technological
 **Nervous Tissue**: The main tissue component of the two parts of the nervous system; the brain and spinal cord of the central nervous system (CNS), and the branching peripheral nerves of the peripheral nervous system (PNS), which regulates and controls bodily functions and activity.
 
 **Osmosis**: The movement of water molecules through a selectively permeable membrane from an area of lower solute concentration to an area of higher solute concentration.
+
+## Frequently Asked Questions
+
+1. **What is the largest organ in the human body?**
+   - The skin is the largest organ, covering the entire body.
+
+2. **How many bones are in the human body?**
+   - Adults have 206 bones, while infants have about 270 (some bones fuse together as we grow).
+
+3. **What is the function of the heart?**
+   - The heart pumps blood throughout the body, supplying oxygen and nutrients while removing waste.
+
+4. **What are the main parts of the human brain?**
+   - The main parts are the cerebrum, cerebellum, and brainstem, each responsible for different functions like thinking, coordination, and basic life processes.
+
+5. **What is the role of the liver?**
+   - The liver processes nutrients from food, makes bile, removes toxins from the body, and builds proteins.
+
+6. **How do the lungs function?**
+   - Lungs exchange gases, taking in oxygen and expelling carbon dioxide as we breathe.
+
+7. **What is the purpose of the kidneys?**
+   - Kidneys filter blood to remove waste and extra water, forming urine.
+
+8. **How many types of muscles are there in the human body?**
+   - There are three types: skeletal (voluntary control), smooth (involuntary, in organs), and cardiac (heart).
+
+9. **What is the function of the nervous system?**
+   - It controls both voluntary action (like walking) and involuntary actions (like breathing), and sends signals to different parts of the body.
+
+10. **What are the different types of blood cells?**
+    - There are red blood cells (carry oxygen), white blood cells (fight infection), and platelets (help blood to clot).
+
+11. **How does the digestive system work?**
+    - It breaks down food into nutrients, which are absorbed into the bloodstream and waste products are expelled.
+
+12. **What is the role of the endocrine system?**
+    - It produces hormones that regulate metabolism, growth, and sexual development.
+
+13. **What are the major parts of the skeletal system?**
+    - The major parts include bones, joints, and connective tissues like cartilage.
+
+14. **What is the largest muscle in the body?**
+    - The gluteus maximus, the main extensor muscle of the hip.
+
+15. **How does the immune system protect the body?**
+    - It defends against pathogens like bacteria, viruses, and foreign bodies.
+
+16. **What is the smallest bone in the body?**
+    - The stapes in the middle ear is the smallest bone.
+
+17. **What is the role of the reproductive system?**
+    - It's responsible for producing sex cells and hormones, and in women, for nurturing the developing fetus.
+
+18. **How many teeth does an adult human have?**
+    - Typically, an adult human has 32 teeth.
+
+19. **What is the function of the lymphatic system?**
+    - It helps in defending the body against infections and maintaining fluid balance.
+
+20. **What are tendons and ligaments?**
+    - Tendons connect muscle to bone, while ligaments connect bone to bone at joints.

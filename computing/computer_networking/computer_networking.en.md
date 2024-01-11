@@ -888,3 +888,65 @@ In conclusion, networking is a dynamic and evolving field, with continuous advan
 **Encryption:** The process of encoding data or information in such a way that only authorized parties can access it, protecting the data's confidentiality and integrity.
 
 **Network Topology:** The arrangement of different elements (links, nodes, etc.) in a computer network, determining the layout and structure of the network. Common topologies include star, ring, bus, and mesh.
+
+## Frequently Asked Questions
+
+1. **What is computer networking?**
+   - It's the practice of linking computer devices together to support digital communication among them.
+
+2. **What is the difference between LAN and WAN?**
+   - LAN (Local Area Network) is a network in a small geographical area, while WAN (Wide Area Network) covers larger geographic areas.
+
+3. **What is an IP address?**
+   - An IP address is a unique identifier for a device on a network, used to locate and identify the device on the network.
+
+4. **What is a subnet mask?**
+   - A subnet mask is used to divide an IP address into network and host parts, and to determine the subnet network.
+
+5. **What is DHCP?**
+   - DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses and other network settings to devices on a network.
+
+6. **What is DNS?**
+   - DNS (Domain Name System) translates domain names into IP addresses, allowing users to access websites using familiar domain names.
+
+7. **What is the difference between a router and a switch?**
+   - A router directs data packets between different networks, while a switch connects devices within the same network.
+
+8. **What is a firewall?**
+   - A firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+9. **What is VPN?**
+   - VPN (Virtual Private Network) extends a private network across a public network, enabling users to send and receive data across shared or public networks as if their devices were directly connected to the private network.
+
+10. **What is NAT?**
+    - NAT (Network Address Translation) modifies network address information in IP packet headers while in transit across a traffic routing device.
+
+11. **What are TCP and UDP?**
+    - TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are communication protocols. TCP is connection-oriented, while UDP is connectionless.
+
+12. **What is bandwidth?**
+    - Bandwidth is the maximum rate of data transfer across a network path.
+
+13. **What is latency?**
+    - Latency is the time it takes for a data packet to move from its source to its destination.
+
+14. **What is a network topology?**
+    - Network topology refers to the layout of a network, including how different nodes are interconnected.
+
+15. **What is a MAC address?**
+    - A MAC (Media Access Control) address is a unique identifier assigned to a network interface controller for use as a network address.
+
+16. **What is a protocol in networking?**
+    - A protocol is a set of rules that governs the data communications between computers.
+
+17. **What is network security?**
+    - Network security involves policies and practices adopted to prevent and monitor unauthorized access, misuse, modification, or denial of a computer network and network-accessible resources.
+
+18. **What is the OSI model?**
+    - The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and implement network interactions in seven layers.
+
+19. **What is a peer-to-peer network?**
+    - In a peer-to-peer network, each computer has equal capabilities and responsibilities in terms of data sharing.
+
+20. **What are network protocols?**
+    - Network protocols are formal standards and policies comprised of rules, procedures, and formats that define communication between two or more devices over a network.

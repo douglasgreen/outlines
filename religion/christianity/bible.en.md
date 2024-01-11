@@ -1036,3 +1036,65 @@ The Bible's enduring legacy lies in its ability to speak across centuries to div
 **Revelation**: The divine or supernatural disclosure to humans of something relating to human existence. The last book of the New Testament is also called Revelation.
 
 **Scripture**: The sacred writings of Christianity contained in the Bible, and also used to refer to the sacred writings of other religions.
+
+## Frequently Asked Questions
+
+1. **What is the Bible?**
+   - The Bible is a collection of religious texts and scriptures sacred in Christianity, believed to be inspired by God. It consists of the Old Testament and the New Testament.
+
+2. **Who wrote the Bible?**
+   - The Bible was written by multiple authors over centuries. Traditional beliefs attribute Moses as the author of the first five books, and various prophets, kings, disciples, and apostles wrote the rest.
+
+3. **How old is the Bible?**
+   - The writing of the Bible spanned over a thousand years, approximately from 1200 BC to 100 AD.
+
+4. **What is the main message of the Bible?**
+   - The main message is the relationship between God and humanity, the story of salvation through Jesus Christ, and the teachings of love, redemption, and ethical living.
+
+5. **How many books are in the Bible?**
+   - The Protestant Bible contains 66 books, the Catholic Bible includes 73, and the Eastern Orthodox Bible has 78.
+
+6. **What is the difference between the Old Testament and the New Testament?**
+   - The Old Testament, also known as the Hebrew Bible, contains the religious writings of the Jewish faith. The New Testament focuses on the life and teachings of Jesus Christ and the early Christian church.
+
+7. **Who is Jesus according to the Bible?**
+   - Jesus Christ is regarded as the Son of God, the Savior of humanity, whose life, death, and resurrection are central to Christian faith.
+
+8. **What are the Ten Commandments?**
+   - The Ten Commandments are a set of biblical principles relating to ethics and worship, given to Moses by God on Mount Sinai.
+
+9. **What is the significance of the resurrection of Jesus?**
+   - The resurrection is central to Christian belief, symbolizing Jesus' victory over sin and death, and the promise of eternal life for believers.
+
+10. **What are the Gospels?**
+    - The Gospels are the first four books of the New Testament (Matthew, Mark, Luke, John) that describe the life, ministry, death, and resurrection of Jesus.
+
+11. **What is the Book of Revelation about?**
+    - Revelation, the last book of the New Testament, is an apocalyptic text that discusses the end times and the second coming of Jesus Christ.
+
+12. **What is the role of the prophets in the Bible?**
+    - Prophets in the Bible were messengers of God, chosen to convey God’s messages and teachings to the people.
+
+13. **What is sin according to the Bible?**
+    - Sin, in Christian belief, is an act or a state of disobedience against the will and law of God.
+
+14. **What does the Bible say about prayer?**
+    - The Bible encourages prayer as a way of communicating with God, offering thanks, seeking guidance, and confessing sins.
+
+15. **What is faith according to the Bible?**
+    - Faith in the Bible is trust and belief in God and His promises, often emphasized as a key component of salvation and a relationship with God.
+
+16. **What are parables and why did Jesus use them?**
+    - Parables are simple stories used by Jesus to illustrate moral or spiritual lessons, making complex ideas more relatable.
+
+17. **What is the purpose of the Psalms?**
+    - The Book of Psalms contains poems and songs that express a range of human emotions, from sorrow to joy, and are used in worship and prayer.
+
+18. **What does the Bible say about love?**
+    - The Bible places high importance on love, describing it as the greatest commandment and the essence of God's nature.
+
+19. **How should the Bible be interpreted?**
+    - Interpretation varies among denominations and individuals. Some view it literally, others symbolically, and many apply historical and cultural contexts.
+
+20. **What is the significance of baptism in Christianity?**
+    - Baptism symbolizes purification and the rebirth as a follower of Jesus. It's a public declaration of faith and a rite of initiation into the Christian community.

@@ -802,3 +802,65 @@ In conclusion, the role of biology in society is multifaceted and profound. It n
 **Ecology**: The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.
 
 **Chloroplast**: An organelle in the cells of plants and certain algae that is the site of photosynthesis.
+
+## Frequently Asked Questions
+
+1. **What is Biology?**
+   *Biology is the scientific study of life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development, and evolution.*
+
+2. **What is the basic unit of life?**
+   *The cell is the basic unit of life. It is the smallest unit capable of performing life functions.*
+
+3. **What is DNA?**
+   *DNA (Deoxyribonucleic Acid) is a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms and many viruses.*
+
+4. **How do living organisms reproduce?**
+   *Organisms reproduce either sexually (with genetic material from two parents) or asexually (with genetic material from a single parent).*
+
+5. **What is evolution?**
+   *Evolution is the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.*
+
+6. **What is photosynthesis?**
+   *Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll, converting carbon dioxide and water into glucose and oxygen.*
+
+7. **What are genes?**
+   *Genes are segments of DNA located on chromosomes. They contain the instructions for the development, functioning, growth, and reproduction of organisms.*
+
+8. **What is an ecosystem?**
+   *An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment, interacting as a system.*
+
+9. **What is the difference between a virus and a bacterium?**
+   *Viruses are smaller than bacteria and cannot survive without a host, while bacteria are single-celled microorganisms that can live independently.*
+
+10. **What are the different types of cells?**
+    *There are two main types of cells: Prokaryotic (without a nucleus, like bacteria) and Eukaryotic (with a nucleus, like plant and animal cells).*
+
+11. **What is natural selection?**
+    *Natural selection is the process where organisms better adapted to their environment tend to survive and produce more offspring.*
+
+12. **What is a species?**
+    *A species is a group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.*
+
+13. **What are the main branches of biology?**
+    *Main branches include botany (study of plants), zoology (study of animals), microbiology (study of microorganisms), and ecology (study of ecosystems).*
+
+14. **How do organisms get energy?**
+    *Organisms get energy either through photosynthesis (in plants) or by consuming other organisms (in animals).*
+
+15. **What is genetic engineering?**
+    *Genetic engineering is the direct manipulation of an organism's genes using biotechnology.*
+
+16. **What is a habitat?**
+    *A habitat is the natural environment in which an organism lives, or the physical environment that surrounds a species population.*
+
+17. **What is biodiversity?**
+    *Biodiversity refers to the variety and variability of life on Earth, including the diversity of species, genes, and ecosystems.*
+
+18. **How do vaccines work?**
+    *Vaccines work by stimulating the body’s immune system to recognize and fight off certain viruses or bacteria.*
+
+19. **What is a chromosome?**
+    *A chromosome is a long DNA molecule with part or all of the genetic material of an organism.*
+
+20. **What is the role of enzymes in the body?**
+    *Enzymes are proteins that act as biological catalysts, speeding up chemical reactions in the body.*

@@ -1093,3 +1093,65 @@ The future of code reviews is likely to be characterized by greater automation w
 **Deployment**: The process of using an application or a new version of an application on a server where it can be accessed by users.
 
 **Code Standards**: Agreed-upon guidelines within a team or organization for writing code, which can include formatting, commenting, naming conventions, and programming practices.
+
+## Frequently Asked Questions
+
+1. **What is a code review?**
+   - A code review is a process where someone other than the author examines code to identify bugs, ensure coding standards are followed, and improve the quality of the software.
+
+2. **Why are code reviews important?**
+   - They improve code quality, catch bugs early, facilitate knowledge sharing, and ensure consistency in codebase.
+
+3. **Who should perform a code review?**
+   - Typically, code reviews are done by other developers on the team, but they can also include peers, mentors, or anyone with expertise relevant to the code.
+
+4. **How often should code reviews be done?**
+   - Regularly, typically as part of a pull request before merging code into the main branch.
+
+5. **What should I look for in a code review?**
+   - Look for code clarity, adherence to project standards, potential bugs, optimization opportunities, and overall code quality.
+
+6. **Can code reviews be automated?**
+   - Partially, using tools that check for syntax errors, coding standards, and other automated checks, but manual review is still important for overall quality.
+
+7. **How long should a code review take?**
+   - It depends on the complexity and length of the code, but ideally, it should be thorough yet efficient.
+
+8. **What are the best practices for a code reviewer?**
+   - Be respectful and constructive, focus on the code not the author, and provide specific, actionable feedback.
+
+9. **What are the best practices for submitting code for review?**
+   - Ensure the code is well-commented, adheres to standards, includes tests, and is as clear as possible.
+
+10. **How do you handle disagreements in a code review?**
+    - Discuss disagreements respectfully, consider alternative perspectives, and involve a third party or team lead if needed.
+
+11. **Can code reviews improve team performance?**
+    - Yes, they foster collaboration, knowledge sharing, and skill development.
+
+12. **Should tests be included in the code review process?**
+    - Absolutely, reviewing tests ensures they are effective and cover the necessary aspects of the code.
+
+13. **What are common mistakes made during code reviews?**
+    - Being overly critical, focusing on style over substance, or not spending enough time to understand the context.
+
+14. **How do you prepare for a code review?**
+    - Understand the code's purpose, review related documentation, and come with a mindset to learn and contribute.
+
+15. **Is pair programming a substitute for code reviews?**
+    - Not entirely. While pair programming can catch issues early, formal code reviews provide another layer of checking.
+
+16. **How can remote teams effectively perform code reviews?**
+    - Use online tools for collaboration, communicate clearly, and establish a consistent process.
+
+17. **Should code reviews focus on security aspects?**
+    - Yes, identifying security vulnerabilities is a critical part of code reviews.
+
+18. **Can code reviews be detrimental?**
+    - If not done correctly, they can be demoralizing or lead to unnecessary delays, hence the need for a positive and constructive approach.
+
+19. **How to deal with a large volume of code in a review?**
+    - Break it down into smaller, manageable parts, and focus on key areas first.
+
+20. **What tools can assist in code reviews?**
+    - Tools like GitHub, GitLab, Bitbucket for pull requests, and static analysis tools like SonarQube or ESLint can be very helpful.

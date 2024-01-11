@@ -688,3 +688,65 @@ In conclusion, the future of computation theory is a landscape of immense possib
 **Von Neumann Architecture**: A design model for a computer architecture that describes a system where the CPU operates sequentially, fetching and processing instructions and data from a single memory unit.
 
 **Zero-Knowledge Proof**: A method by which one party (the prover) can prove to another party (the verifier) that they know a value x, without conveying any information apart from the fact that they know the value x.
+
+## Frequently Asked Questions
+
+1. **What is computation theory?**
+   - Computation theory, also known as theory of computation, is a branch of computer science that deals with how efficiently problems can be solved on a model of computation, using an algorithm.
+
+2. **What are the main models of computation?**
+   - The main models include Turing machines, finite automata, pushdown automata, and lambda calculus.
+
+3. **What is a Turing machine?**
+   - A Turing machine is a mathematical model of computation that defines an abstract machine, which manipulates symbols on a strip of tape according to a table of rules.
+
+4. **What is the significance of the Turing machine in computation theory?**
+   - The Turing machine is significant as it helps in understanding the limits of what can be computed and serves as the foundation for the Church-Turing thesis.
+
+5. **What is the Church-Turing thesis?**
+   - The Church-Turing thesis is a hypothesis about the nature of computable functions. It states that a function is effectively computable if it can be computed by a Turing machine.
+
+6. **What is decidability in computation theory?**
+   - Decidability refers to the question of whether a problem can be solved by an algorithm in a finite amount of time.
+
+7. **What is the halting problem?**
+   - The halting problem is a decision problem about whether a given program will finish running or continue to run forever.
+
+8. **What are P, NP, and NP-complete classes in computational complexity?**
+   - P is the class of decision problems solvable in polynomial time. NP is the class of decision problems for which a given solution can be checked in polynomial time. NP-complete problems are the hardest problems in NP, to which all other NP problems can be reduced in polynomial time.
+
+9. **What is an algorithm in the context of computation theory?**
+   - An algorithm is a finite set of instructions or a step-by-step procedure for solving a problem or performing a computation.
+
+10. **What is computational complexity?**
+    - Computational complexity is a branch of computation theory that focuses on classifying computational problems according to their inherent difficulty, and relating these classes to each other.
+
+11. **What is a finite automaton?**
+    - A finite automaton is a simple model of computation that has a finite number of states, transitions between those states, and operates on an input string of symbols.
+
+12. **What is the difference between deterministic and nondeterministic automata?**
+    - In deterministic automata, for each state and input symbol, there is exactly one transition, while in nondeterministic automata, there can be multiple or no transitions for a given state and symbol.
+
+13. **What is a pushdown automaton?**
+    - A pushdown automaton is a type of automaton that employs a stack to provide additional memory beyond the finite amount available in its state machine.
+
+14. **What is the lambda calculus?**
+    - Lambda calculus is a formal system in mathematical logic and computer science for expressing computation based on function abstraction and application.
+
+15. **How does graph theory relate to computation theory?**
+    - Graph theory is used in computation theory to model and analyze problems and algorithms, especially in areas like networks, optimization, and database theory.
+
+16. **What is a formal language in computation theory?**
+    - A formal language is a set of strings of symbols that may be constrained by specific rules. It's used in computation theory to define computational problems.
+
+17. **What is the difference between syntax and semantics in computation theory?**
+    - Syntax refers to the formal rules that define the structure of valid statements in a language, while semantics refers to the meaning or interpretation of these statements.
+
+18. **What is algorithmic efficiency?**
+    - Algorithmic efficiency refers to the resources (like time and space) required by an algorithm to solve a given computational problem.
+
+19. **What is a recursive function in computation theory?**
+    - A recursive function is a function that calls itself during its execution. This enables the function to operate on simpler problems as a base case.
+
+20. **How is cryptography related to computation theory?**
+    - Cryptography heavily relies on computation theory, especially in areas like algorithm complexity and problem-solving, to secure data and communications.

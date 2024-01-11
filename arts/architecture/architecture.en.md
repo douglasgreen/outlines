@@ -715,3 +715,65 @@ In conclusion, architecture is much more than the design and construction of bui
 **Quoin**: The external angle of a wall or building. In stone or brick construction, quoins are often of a contrasting color or texture to the main wall.
 
 **Vault**: An arched structure, usually of stone or brick, forming a ceiling or roof over a hall, room, sewer, or other wholly or partially enclosed construction.
+
+## Frequently Asked Questions
+
+1. **What is architecture?**
+   - Architecture is the art and science of designing and constructing buildings and other physical structures.
+
+2. **What does an architect do?**
+   - An architect designs buildings and often oversees their construction, balancing artistic vision with functional and safety requirements.
+
+3. **How important is sustainability in modern architecture?**
+   - Sustainability is increasingly crucial, focusing on eco-friendly materials and energy efficiency to minimize environmental impact.
+
+4. **What is the difference between modern and contemporary architecture?**
+   - Modern architecture refers to the style from the early to mid-20th century, characterized by minimalism and use of new materials. Contemporary architecture is more fluid, representing current trends and often incorporating technology.
+
+5. **Can architecture influence human behavior?**
+   - Yes, through design elements like lighting, space, and materials, architecture can affect mood, health, and social interactions.
+
+6. **What is urban planning in the context of architecture?**
+   - Urban planning involves designing and organizing urban spaces, considering infrastructure, public spaces, transportation, and environmental concerns.
+
+7. **How do architects integrate technology in their designs?**
+   - Architects use technology for virtual modeling, sustainable design (like solar panels), and smart home systems.
+
+8. **What's the role of historical preservation in architecture?**
+   - Historical preservation involves maintaining and restoring historic buildings to protect cultural heritage and architectural history.
+
+9. **How do architects balance aesthetics and functionality?**
+   - Architects aim for a harmonious balance where design serves both aesthetic appeal and practical use, considering client needs and structural integrity.
+
+10. **What are some common architectural styles?**
+    - Examples include Gothic, Renaissance, Baroque, Modernism, Postmodernism, and Deconstructivism.
+
+11. **What's the significance of building codes in architecture?**
+    - Building codes ensure safety, accessibility, and sustainability in architectural designs.
+
+12. **How does architecture contribute to community and culture?**
+    - Architecture reflects and shapes cultural values and community identity, often becoming a symbol of a place and its people.
+
+13. **What is landscape architecture?**
+    - It's the design of outdoor and public spaces to achieve environmental, socio-behavioral, and aesthetic outcomes.
+
+14. **How long does it take to become an architect?**
+    - Typically, it involves 5-7 years of education plus licensure, which varies by region.
+
+15. **What is the significance of scale and proportion in architecture?**
+    - Scale and proportion ensure that a building fits harmoniously in its environment and with the human scale.
+
+16. **How do architects approach the design of a new building?**
+    - They assess client needs, site conditions, budget, and regulatory requirements, creating designs that balance these aspects.
+
+17. **What's the impact of color in architecture?**
+    - Color can influence perception and mood, and is used for both aesthetic and practical purposes in buildings.
+
+18. **How does architecture impact tourism?**
+    - Iconic buildings and architectural heritage often attract tourists, contributing to the local economy and cultural exchange.
+
+19. **What are smart buildings?**
+    - These are buildings equipped with automated systems for lighting, heating, air conditioning, and security, often optimizing energy use.
+
+20. **How is 3D printing changing architecture?**
+    - 3D printing allows for more complex designs, rapid prototyping, and can be more cost-effective and sustainable.

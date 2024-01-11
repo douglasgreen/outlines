@@ -635,3 +635,65 @@ The journey through algebra is both challenging and rewarding. It not only sharp
 **Factorization**: The process of breaking down a polynomial into simpler polynomials that, when multiplied together, give the original polynomial.
 
 **Series**: The sum of the terms of a sequence.
+
+## Frequently Asked Questions
+
+1. **What is Algebra?**
+   *Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols.*
+
+2. **Why is Algebra important?**
+   *Algebra is fundamental for advanced studies in science, engineering, medicine, economics, and many other fields.*
+
+3. **How do you solve a simple algebraic equation?**
+   *To solve an algebraic equation, isolate the variable on one side of the equation using inverse operations.*
+
+4. **What are variables in Algebra?**
+   *Variables are symbols (like x or y) that represent unknown values in equations.*
+
+5. **What does 'solve for x' mean?**
+   *'Solve for x' means finding the value of x that makes the equation true.*
+
+6. **What are coefficients?**
+   *Coefficients are the numerical part of the terms with variables in an algebraic expression.*
+
+7. **How do you simplify an algebraic expression?**
+   *To simplify an expression, combine like terms and apply the distributive property where necessary.*
+
+8. **What is a linear equation?**
+   *A linear equation is an equation where the highest power of the variable is one.*
+
+9. **What are polynomials?**
+   *Polynomials are algebraic expressions that include coefficients and variables with non-negative integer exponents.*
+
+10. **How do you factorize an algebraic expression?**
+    *Factorization involves writing an expression as a product of its factors.*
+
+11. **What is the quadratic formula?**
+    *The quadratic formula is \(x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\), used to solve quadratic equations.*
+
+12. **What is the difference between an equation and an expression?**
+    *An equation shows equality between two expressions, while an expression represents a value.*
+
+13. **How do you graph a linear equation?**
+    *Graph a linear equation by plotting points that satisfy the equation and then connecting them to form a line.*
+
+14. **What does FOIL stand for in Algebra?**
+    *FOIL stands for First, Outer, Inner, Last – a method for multiplying two binomials.*
+
+15. **How do you solve systems of equations?**
+    *Systems of equations can be solved using methods like substitution, elimination, or graphing.*
+
+16. **What is an inequality?**
+    *An inequality shows that two values are not equal and includes symbols like >, <, ≥, ≤.*
+
+17. **What are exponents and how do you work with them?**
+    *Exponents represent repeated multiplication of a base number. Basic rules include product, quotient, and power rules.*
+
+18. **How do you divide polynomials?**
+    *Polynomials can be divided using long division or synthetic division methods.*
+
+19. **What is a function in Algebra?**
+    *A function is a relation between a set of inputs and a set of permissible outputs.*
+
+20. **What are real numbers and complex numbers?**
+    *Real numbers include all the rational and irrational numbers. Complex numbers include real numbers and imaginary numbers.*
