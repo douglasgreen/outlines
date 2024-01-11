@@ -25,8 +25,6 @@ In conclusion, algebra is more than just a subject within mathematics; it is a v
 
 ## Basic Mathematical Operations
 
-### Basic Mathematical Operations
-
 ### Review of Arithmetic Operations
 Arithmetic operations are the foundation of both basic mathematics and algebra. They include:
 
@@ -417,7 +415,7 @@ Understanding quadratic functions and their properties, such as the shape and po
 ### Polynomials
 Polynomial functions are expressions consisting of variables and coefficients, involving only the operations of addition, subtraction, multiplication, and non-negative integer exponents. They can be expressed in the form $`f(x) = a_nx^n + a_{n-1}x^{n-1} + \ldots + a_1x + a_0`$.
 
-##### Graphing Polynomial Functions
+#### Graphing Polynomial Functions
 1. **Identify Characteristics**: Note the degree of the polynomial (highest power of $`x`$) and leading coefficient (coefficient of the term with the highest power). These determine the end behavior of the graph.
 2. **Find Intercepts**: Calculate the y-intercept by evaluating $`f(0)`$ and x-intercepts (roots) by solving $`f(x) = 0`$.
 3. **Determine Symmetry**: Check for symmetry. If the function is an even degree and all the powers of $`x`$ are even, it’s symmetric about the y-axis. If it’s odd and all powers are odd, it’s symmetric about the origin.
@@ -427,7 +425,7 @@ Polynomial functions are expressions consisting of variables and coefficients, i
 ### Rational Functions
 Rational functions are ratios of polynomial functions, of the form $`f(x) = \frac{p(x)}{q(x)}`$ where $`p(x)`$ and $`q(x)`$ are polynomial functions, and $`q(x) \neq 0`$.
 
-##### Behavior of Rational Functions
+#### Behavior of Rational Functions
 1. **Vertical Asymptotes**: Occur at values of $`x`$ where $`q(x) = 0`$, as long as those values do not also make $`p(x) = 0`$. The function approaches infinity or negative infinity near these points.
 2. **Horizontal Asymptotes**: Determined by the degrees of $`p(x)`$ and $`q(x)`$. If the degree of $`p(x)`$ is less than that of $`q(x)`$, the x-axis (y=0) is a horizontal asymptote. If they have equal degrees, the horizontal asymptote is $`y = \frac{\text{leading coefficient of } p(x)}{\text{leading coefficient of } q(x)}`$.
 3. **Holes**: Occur where both $`p(x)`$ and $`q(x)`$ are zero, provided the common factor can be canceled out.
