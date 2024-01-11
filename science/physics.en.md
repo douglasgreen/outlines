@@ -690,3 +690,65 @@ In summary, the future of physics promises not only deeper insights into the fun
 **Velocity**: The speed of an object in a particular direction.
 
 **Wavelength**: The distance between successive crests of a wave, especially points in a sound wave or electromagnetic wave.
+
+## Frequently Asked Questions
+
+1. **What is physics?**
+   - Physics is the science that studies matter, energy, and the fundamental forces of the universe, exploring concepts such as force, energy, mass, and charge.
+
+2. **What is the theory of relativity?**
+   - Einstein's theory of relativity comes in two parts: special relativity, which deals with objects moving at constant speed in a straight line, and general relativity, which describes gravity as the curvature of spacetime caused by mass.
+
+3. **What is quantum mechanics?**
+   - Quantum mechanics is the branch of physics dealing with the behavior of matter and light on the atomic and subatomic scale, where particles exhibit wave-particle duality.
+
+4. **What are Newton's three laws of motion?**
+   - Newton's three laws describe the motion of massive bodies: (1) a body at rest stays at rest unless acted upon by an external force, (2) Force equals mass times acceleration (F=ma), and (3) For every action, there is an equal and opposite reaction.
+
+5. **What is the speed of light?**
+   - The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second).
+
+6. **What is a black hole?**
+   - A black hole is a region of spacetime exhibiting gravitational acceleration so strong that nothing—no particles or electromagnetic radiation such as light—can escape from it.
+
+7. **What is the Standard Model of particle physics?**
+   - The Standard Model is a theory concerning the electromagnetic, weak, and strong nuclear interactions, which mediate the dynamics of the known subatomic particles.
+
+8. **What is dark matter?**
+   - Dark matter is a form of matter thought to account for approximately 85% of the matter in the universe. It is invisible and does not emit light or energy, making it hard to detect.
+
+9. **What is the difference between classical and quantum physics?**
+   - Classical physics deals with the macroscopic world and is based on laws that are deterministic and predictable. Quantum physics deals with the microscopic world, where outcomes are often probabilistic and particles exhibit wave-particle duality.
+
+10. **What is the Big Bang Theory?**
+    - The Big Bang Theory is the prevailing cosmological model explaining the existence of the observable universe from the earliest known periods through its subsequent large-scale evolution.
+
+11. **How do magnets work?**
+    - Magnets work due to the motion of electric charges. Every electron in an atom behaves like a tiny magnet. When most of the electrons in an atom spin in the same direction, they create a magnetic force.
+
+12. **What is a photon?**
+    - A photon is a particle representing a quantum of light or other electromagnetic radiation. It carries energy proportional to the radiation frequency but has zero rest mass.
+
+13. **What is the uncertainty principle?**
+    - The uncertainty principle, formulated by Werner Heisenberg, states that the position and the velocity of an object cannot both be measured exactly, at the same time, even in theory.
+
+14. **What is the Doppler Effect?**
+    - The Doppler Effect refers to the change in wave frequency during the relative motion between a wave source and its observer.
+
+15. **What are the four fundamental forces of nature?**
+    - The four fundamental forces are gravity, electromagnetism, the weak nuclear force, and the strong nuclear force.
+
+16. **What is a wave-particle duality?**
+    - Wave-particle duality is the concept in quantum mechanics that every particle or quantum entity may be described as either a particle or a wave.
+
+17. **What is entropy?**
+    - Entropy is a measure of the disorder or randomness in a system. It is a central concept in the second law of thermodynamics.
+
+18. **What is Schrödinger's cat?**
+    - Schrödinger's cat is a thought experiment that illustrates the concept of superposition in quantum mechanics, where a cat in a box can be both dead and alive until the box is opened.
+
+19. **What are quarks and leptons?**
+    - Quarks and leptons are the basic building blocks of matter. Quarks combine to form protons and neutrons, while leptons include electrons and neutrinos.
+
+20. **What is antimatter?**
+    - Antimatter is material composed of antiparticles, which have the same mass as particles of ordinary matter but opposite charge and quantum spin. When a particle and its antiparticle meet, they annihilate each other.

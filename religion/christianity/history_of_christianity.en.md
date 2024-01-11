@@ -779,3 +779,65 @@ In summary, Christianity in the 21st century is characterized by its vast divers
 **Trinity**: The Christian doctrine of the unity of the Father, Son, and Holy Spirit as three persons in one Godhead.
 
 **Vatican**: The jurisdiction of the Pope and the location of the central administration of the Roman Catholic Church.
+
+## Frequently Asked Questions
+
+1. **When did Christianity begin?**
+   - Christianity began in the 1st century AD, after the death and reported resurrection of Jesus Christ.
+
+2. **Who founded Christianity?**
+   - Christianity is founded on the teachings of Jesus Christ, who is considered its spiritual leader.
+
+3. **What was the role of the Roman Empire in the spread of Christianity?**
+   - The Roman Empire played a crucial role in the spread of Christianity, especially after Emperor Constantine the Great adopted Christianity, leading to its spread throughout Europe.
+
+4. **How did Christianity evolve from a Jewish sect to a distinct religion?**
+   - Christianity evolved from a Jewish sect to a distinct religion as it began to include Gentiles (non-Jews) and developed its own identity and beliefs distinct from Judaism.
+
+5. **What are the Gnostic Gospels?**
+   - The Gnostic Gospels are a collection of early Christian texts emphasizing mystical knowledge and interpretation, which were not included in the canonical New Testament.
+
+6. **What was the Great Schism and its impact?**
+   - The Great Schism in 1054 was the division of Christianity into the Eastern Orthodox Church and the Roman Catholic Church, mainly due to political, cultural, and theological differences.
+
+7. **What caused the Protestant Reformation?**
+   - The Protestant Reformation was sparked by Martin Luther in 1517, largely in response to corruption and the sale of indulgences in the Catholic Church.
+
+8. **Who was Martin Luther and what was his role in Christianity?**
+   - Martin Luther was a German monk whose writings and actions against the Catholic Church's practices initiated the Protestant Reformation.
+
+9. **What was the Council of Nicaea and its significance?**
+   - The First Council of Nicaea in 325 AD was a gathering of Christian bishops convened by Emperor Constantine to attain consensus on Christian doctrine, notably the nature of Christ and the Trinity.
+
+10. **How did Christianity spread to the Americas?**
+    - Christianity spread to the Americas primarily through European colonization and missionary efforts starting in the late 15th century.
+
+11. **What are the Crusades and their impact on Christianity?**
+    - The Crusades were a series of religious wars in the medieval period, sanctioned by the Latin Church to reclaim the Holy Land from Muslim rule, significantly impacting Christian-Muslim relations.
+
+12. **How did the Enlightenment affect Christianity?**
+    - The Enlightenment, emphasizing reason and individualism, challenged traditional Christian beliefs and led to a decline in religious authority and the rise of secularism.
+
+13. **What role did Christianity play in the abolition of slavery?**
+    - Christianity played a complex role in the abolition of slavery, with some Christian groups advocating for abolition while others defended slavery.
+
+14. **How did Christianity influence Western art and culture?**
+    - Christianity significantly influenced Western art and culture, inspiring countless works of art, literature, music, and architecture.
+
+15. **What is the significance of the Dead Sea Scrolls for Christianity?**
+    - The Dead Sea Scrolls, containing ancient Jewish texts, provide insights into the religious context of early Christianity and the Hebrew Bible.
+
+16. **What is Pentecostalism and its impact on modern Christianity?**
+    - Pentecostalism is a Protestant movement emphasizing direct personal experience with God through baptism with the Holy Spirit, significantly influencing global Christian expansion in the 20th century.
+
+17. **What was the impact of the Second Vatican Council?**
+    - The Second Vatican Council (1962-1965) modernized many Catholic practices and promoted ecumenism, significantly impacting the Catholic Church and its relations with other religions.
+
+18. **How did Christianity interact with indigenous religions in colonial times?**
+    - In colonial times, Christianity often sought to replace indigenous religions, leading to cultural conflicts and syncretism in various regions.
+
+19. **What are the origins of the Eastern Orthodox Church?**
+    - The Eastern Orthodox Church originated from the Christian communities of the Eastern Roman Empire and formalized its separate identity after the Great Schism of 1054.
+
+20. **How has Christianity's role in society changed in the 21st century?**
+    - In the 21st century, Christianity faces challenges from secularization, moral and ethical debates, and the need to adapt to a rapidly changing, globalized world.

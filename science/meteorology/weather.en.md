@@ -693,3 +693,65 @@ In conclusion, the future of weather prediction is bright, with technology playi
 **Troposphere**: The lowest layer of Earth's atmosphere, where most weather phenomena occur.
 
 **Wind**: The flow of gases on a large scale, primarily horizontally in the atmosphere. Wind is caused by air moving from high-pressure to low-pressure areas.
+
+## Frequently Asked Questions
+
+1. **What causes weather?**
+   - Weather is caused by the interaction of atmospheric conditions, including temperature, humidity, and air pressure, along with the Earth's geography and movements of the atmosphere.
+
+2. **What is the difference between weather and climate?**
+   - Weather refers to short-term atmospheric conditions in a specific area, while climate is the average of these conditions over longer periods and larger areas.
+
+3. **How is temperature measured?**
+   - Temperature is measured using a thermometer, typically in degrees Celsius (°C) or Fahrenheit (°F).
+
+4. **What is a heatwave?**
+   - A heatwave is a prolonged period of excessively hot weather, which may be accompanied by high humidity.
+
+5. **What are the different types of precipitation?**
+   - Precipitation includes rain, snow, sleet, and hail, which vary based on temperature and atmospheric conditions.
+
+6. **How are hurricanes formed?**
+   - Hurricanes form over warm ocean waters and involve low-pressure systems, moist air, and warm sea surface temperatures.
+
+7. **What is a tornado and how does it form?**
+   - A tornado is a violently rotating column of air extending from a thunderstorm to the ground. It forms from severe thunderstorms in unstable atmospheric conditions.
+
+8. **What causes thunder and lightning?**
+   - Thunder is caused by the rapid expansion of heated air surrounding a lightning bolt. Lightning is a discharge of electricity in the atmosphere.
+
+9. **How is wind speed measured?**
+   - Wind speed is measured using an anemometer, often reported in kilometers per hour (km/h) or miles per hour (mph).
+
+10. **What is a cold front?**
+    - A cold front is a leading edge of a cooler mass of air that replaces a warmer mass of air, often bringing precipitation and temperature changes.
+
+11. **How does altitude affect weather?**
+    - Higher altitudes generally have cooler temperatures and can experience different weather patterns compared to lower areas.
+
+12. **What are clouds made of?**
+    - Clouds are made of tiny water droplets or ice crystals that form when water vapor condenses in the atmosphere.
+
+13. **What is the difference between a weather watch and a weather warning?**
+    - A weather watch indicates that conditions are favorable for severe weather, while a weather warning means that severe weather is imminent or occurring.
+
+14. **How are weather forecasts made?**
+    - Weather forecasts are made using data from satellites, radar, weather stations, and computer models to predict future weather conditions.
+
+15. **What causes seasons?**
+    - Seasons are caused by the Earth's tilt on its axis and its orbit around the Sun, leading to varying sunlight and temperature changes throughout the year.
+
+16. **What is El Niño?**
+    - El Niño is a climate pattern that occurs in the Pacific Ocean, characterized by unusually warm ocean temperatures in the Equatorial Pacific.
+
+17. **What is the greenhouse effect?**
+    - The greenhouse effect is the trapping of the Sun's warmth in the planet's lower atmosphere due to the presence of greenhouse gases.
+
+18. **What is global warming?**
+    - Global warming refers to the long-term heating of Earth’s climate system observed since the pre-industrial period due to human activities.
+
+19. **How does pollution affect the weather?**
+    - Pollution can affect weather by altering temperature, precipitation patterns, and even leading to extreme weather events.
+
+20. **What is a meteorologist?**
+    - A meteorologist is a scientist who studies and forecasts the weather using a variety of tools and scientific principles.

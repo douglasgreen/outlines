@@ -780,3 +780,65 @@ These narratives of personal transformation through sports are not just tales of
 **Grand Slam**: Winning all major championships or tournaments in a sport within a single year or season.
 
 **Draft**: A process in some sports where teams select eligible players to add to their roster, usually from colleges or amateur ranks.
+
+## Frequently Asked Questions
+
+1. **What are the most popular sports in the world?**
+   - Soccer (football), cricket, basketball, and tennis are among the most popular globally.
+
+2. **How many players are on a soccer team?**
+   - Each team has 11 players on the field, including the goalkeeper.
+
+3. **What is the objective of basketball?**
+   - To score points by shooting the ball through the opponent's hoop.
+
+4. **How long is a professional football game?**
+   - An NFL game consists of four 15-minute quarters.
+
+5. **What are the basic rules of cricket?**
+   - Two teams compete to score the most runs. The team batting tries to score runs while the fielding team attempts to dismiss the batters.
+
+6. **How many sets are in a professional tennis match?**
+   - Men's matches are best of 5 sets, while women's matches are best of 3 sets.
+
+7. **What is an Olympic triathlon distance?**
+   - 1.5 km swim, 40 km bike ride, and 10 km run.
+
+8. **How is a winner decided in boxing?**
+   - Through a knockout, technical knockout, judges' decision, or disqualification.
+
+9. **What are the basic rules of golf?**
+   - Players aim to hit the ball into a series of holes with the fewest strokes possible.
+
+10. **What is the Tour de France?**
+    - An annual men's multiple stage bicycle race primarily held in France.
+
+11. **How does the scoring system work in volleyball?**
+    - Points are scored by grounding the ball on the opponent’s court, among other ways.
+
+12. **What are the different types of skiing?**
+    - Alpine, cross-country, freestyle, and ski jumping, among others.
+
+13. **What is a grand slam in baseball?**
+    - A home run hit when all three bases are occupied by baserunners, scoring four runs.
+
+14. **How do Formula 1 championships work?**
+    - Drivers and teams accumulate points over the season, and the highest scorer wins the championship.
+
+15. **What is the purpose of a scrum in rugby?**
+    - To restart play with a contest for possession after a minor infringement.
+
+16. **How long is a standard hockey game?**
+    - Three 20-minute periods.
+
+17. **What is the Ironman Triathlon?**
+    - A series of long-distance triathlon races consisting of a 2.4-mile swim, 112-mile bicycle ride, and a marathon 26.2-mile run.
+
+18. **How is a winner determined in a soccer match?**
+    - The team with the most goals at the end of the match wins.
+
+19. **What is a hat-trick in soccer?**
+    - Scoring three goals in a single game by the same player.
+
+20. **What is doping in sports?**
+    - The use of prohibited substances or methods to enhance athletic performance.

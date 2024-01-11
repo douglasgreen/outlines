@@ -708,3 +708,65 @@ In summary, the future of invention, driven by fields like AI, biotech, and nano
 **3D Printing**: The action or process of making a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession.
 
 **Virtual Reality (VR)**: The use of computer technology to create a simulated environment that can be explored in 360 degrees.
+
+## Frequently Asked Questions
+
+1. **What was the first invention?**
+   - The wheel, invented in Mesopotamia around 3500 B.C., is often considered one of the earliest significant inventions.
+
+2. **Who is known as the father of invention?**
+   - There isn't a single "father of invention," but figures like Thomas Edison are often cited for their prolific contributions to modern technology.
+
+3. **What are some of the earliest inventions?**
+   - Early inventions include the wheel, the lever, the pulley, and fire control.
+
+4. **What was the most important invention of the 20th century?**
+   - The Internet is frequently cited as the most influential invention of the 20th century, revolutionizing communication and information sharing.
+
+5. **Who invented the light bulb?**
+   - Thomas Edison is most famous for inventing the practical incandescent light bulb in 1879.
+
+6. **How did the Industrial Revolution change inventions?**
+   - The Industrial Revolution led to mass production, making inventions more accessible and fostering a rapid increase in technological development.
+
+7. **What are some key inventions of the Renaissance period?**
+   - Key inventions of the Renaissance include the printing press, the microscope, and the telescope.
+
+8. **Who invented the telephone?**
+   - Alexander Graham Bell is credited with inventing the first practical telephone in 1876.
+
+9. **What was the impact of the steam engine?**
+   - The steam engine greatly facilitated transportation and manufacturing, playing a pivotal role in the Industrial Revolution.
+
+10. **Who invented the computer?**
+    - Charles Babbage is often credited with inventing the first mechanical computer in the early 19th century.
+
+11. **What are some significant ancient Chinese inventions?**
+    - Gunpowder, papermaking, printing, and the compass are among the most significant ancient Chinese inventions.
+
+12. **How did electricity change inventions?**
+    - The harnessing of electricity led to a multitude of inventions like electric lights, motors, and appliances, transforming daily life and industry.
+
+13. **What are some major 21st-century inventions?**
+    - Significant 21st-century inventions include smartphones, social media platforms, advanced AI, and renewable energy technologies.
+
+14. **Who invented the automobile?**
+    - Karl Benz is credited with inventing the first true automobile powered by an internal combustion engine in 1885.
+
+15. **How did World War II impact technological development?**
+    - WWII accelerated technological development, leading to advancements in radar, computing, aviation, and nuclear technology.
+
+16. **What are some notable inventions by women?**
+    - Notable inventions by women include Marie Curie's research on radioactivity, Grace Hopper's contributions to computer programming, and Stephanie Kwolek's invention of Kevlar.
+
+17. **Who invented the airplane?**
+    - The Wright brothers, Orville and Wilbur Wright, are credited with inventing and flying the first airplane in 1903.
+
+18. **How did space exploration influence inventions?**
+    - Space exploration led to the development of satellite technology, improved materials science, and innovations like GPS and certain medical technologies.
+
+19. **What role do patents play in the history of inventions?**
+    - Patents protect inventors' rights and encourage innovation by providing a temporary monopoly on an invention.
+
+20. **How has digital technology changed invention?**
+    - Digital technology has accelerated the pace of invention, made innovation more accessible, and fostered the development of new fields like cybersecurity and data science.

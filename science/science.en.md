@@ -738,3 +738,65 @@ In conclusion, the endless quest of science is a continuous journey driven by cu
 **Black Hole**: A region of space having a gravitational field so intense that no matter or radiation can escape.
 
 **Element**: A substance that cannot be broken down into simpler substances by chemical means and is made up of atoms with the same number of protons.
+
+## Frequently Asked Questions
+
+1. **What is the Big Bang Theory?**
+   - The Big Bang Theory is the leading explanation about how the universe began, proposing that it was born from a single point that has been expanding ever since.
+
+2. **What causes climate change?**
+   - Climate change is primarily caused by human activities, particularly the burning of fossil fuels which increases levels of greenhouse gases in the Earth's atmosphere, leading to global warming.
+
+3. **What is DNA and why is it important?**
+   - DNA, or deoxyribonucleic acid, is the molecule that carries the genetic instructions for life. It's crucial for inheritance, coding for proteins, and the genetic instruction guide for life and its processes.
+
+4. **How does vaccination work?**
+   - Vaccines stimulate the body’s immune system to recognize and fight pathogens like viruses or bacteria without causing the disease itself. This helps the body to develop immunity.
+
+5. **What are black holes?**
+   - Black holes are regions in space where gravity is so strong that nothing, not even light, can escape from them. They are thought to form from the remnants of large stars that collapse under their own gravity.
+
+6. **What is quantum mechanics?**
+   - Quantum mechanics is a fundamental theory in physics that describes nature at the smallest scales of energy levels of atoms and subatomic particles.
+
+7. **How do we measure time?**
+   - Time is measured using clocks, which can range from simple mechanical clocks to atomic clocks based on the vibrations of atoms.
+
+8. **What causes earthquakes?**
+   - Earthquakes are caused by the movement of tectonic plates beneath the Earth's surface. When these plates grind against each other or overlap, the energy released causes an earthquake.
+
+9. **Why is biodiversity important?**
+   - Biodiversity is important because it ensures natural sustainability for all life forms. A diverse ecosystem is more resilient and can better withstand environmental stress.
+
+10. **How does the Internet work?**
+    - The Internet works by using a global network of computers that communicate through a standardized set of protocols to exchange data and information.
+
+11. **What is artificial intelligence?**
+    - Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans.
+
+12. **What is the theory of relativity?**
+    - The theory of relativity, developed by Albert Einstein, describes the laws of physics as they apply to various forces, particularly gravity, and it fundamentally changed our understanding of space and time.
+
+13. **What causes the seasons?**
+    - The Earth's tilt and its orbit around the Sun cause the seasons. Different parts of the Earth receive more direct sunlight at different times of the year, causing seasonal changes.
+
+14. **What is renewable energy?**
+    - Renewable energy is energy that is collected from renewable resources, such as sunlight, wind, rain, tides, and geothermal heat, which are naturally replenished.
+
+15. **What are stem cells?**
+    - Stem cells are cells that have the potential to develop into many different types of cells in the body. They serve as a repair system for the body.
+
+16. **How does the brain work?**
+    - The brain works by processing information through a complex network of neurons. It controls thought, memory, emotion, touch, motor skills, vision, breathing, temperature, hunger, and every process that regulates our body.
+
+17. **What is the greenhouse effect?**
+    - The greenhouse effect is a natural process where certain gases in Earth's atmosphere trap heat, keeping the planet warm enough to sustain life.
+
+18. **How do antibiotics work?**
+    - Antibiotics work by killing or inhibiting the growth of bacteria. Different types of antibiotics target different aspects of bacterial function or growth.
+
+19. **What is genetic engineering?**
+    - Genetic engineering is the process of altering the DNA in an organism’s genome. It can be used to produce new foods, create medicine, and modify plants and animals for desired traits.
+
+20. **Why do we need to sleep?**
+    - Sleep is essential for health as it allows the body and mind to recharge. Lack of sleep can adversely affect the brain and cognitive function.
