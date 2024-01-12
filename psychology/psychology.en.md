@@ -837,3 +837,65 @@ The future of psychology is dynamic and expansive, encompassing technological ad
 **Unconscious Mind**: In Freudian psychology, a part of the mind that contains desires, impulses, and memories that are beyond conscious awareness.
 
 **Variable Ratio Schedule**: A schedule of reinforcement where a response is reinforced after an unpredictable number of responses, which is used in operant conditioning.
+
+## Frequently Asked Questions
+
+1. **What is psychology?**
+   - Psychology is the scientific study of the mind and behavior, encompassing various aspects of human experience, mental processes, and behavior.
+
+2. **What is the difference between a psychologist and a psychiatrist?**
+   - A psychologist typically has a doctoral degree in psychology and focuses on therapy and research. A psychiatrist is a medical doctor specializing in mental health, can prescribe medications, and often focuses on managing mental disorders.
+
+3. **What are the main types of psychological therapies?**
+   - The main types include cognitive-behavioral therapy (CBT), psychodynamic therapy, humanistic therapy, and integrative or holistic therapy.
+
+4. **Can psychology help with stress?**
+   - Yes, psychology offers strategies and therapies like CBT, mindfulness, and stress management techniques to cope with stress.
+
+5. **What is cognitive psychology?**
+   - Cognitive psychology studies mental processes such as "attention, language use, memory, perception, problem-solving, creativity, and thinking."
+
+6. **How does childhood affect adult life?**
+   - Childhood experiences can significantly influence adult life, shaping personality, behavior, and mental health.
+
+7. **What is the role of genetics in psychology?**
+   - Genetics plays a role in influencing psychological traits, such as intelligence, mental disorders, and temperament, but it interacts with environmental factors.
+
+8. **What is social psychology?**
+   - Social psychology studies how individuals' thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others.
+
+9. **What causes mental illnesses?**
+   - Mental illnesses are caused by a complex interplay of genetic, biological, environmental, and psychological factors.
+
+10. **How does sleep affect mental health?**
+    - Adequate sleep is crucial for mental health, affecting mood, cognitive abilities, and overall psychological well-being.
+
+11. **What is positive psychology?**
+    - Positive psychology focuses on the strengths and virtues that enable individuals and communities to thrive.
+
+12. **How does psychology explain behavior?**
+    - Psychology explains behavior through various theories and approaches, considering factors like the brain, learning experiences, emotions, culture, and environment.
+
+13. **What is developmental psychology?**
+    - Developmental psychology studies the psychological changes that occur throughout a lifespan.
+
+14. **Can psychology help in improving relationships?**
+    - Yes, psychology offers insights and techniques for better communication, understanding, and resolving conflicts in relationships.
+
+15. **What are psychological disorders?**
+    - Psychological disorders are conditions characterized by abnormal thoughts, feelings, and behaviors, often causing distress or impairment.
+
+16. **What is the importance of research in psychology?**
+    - Research is crucial in psychology to understand the mind and behavior, test theories, and develop effective treatments.
+
+17. **What is clinical psychology?**
+    - Clinical psychology focuses on diagnosing and treating mental, emotional, and behavioral disorders.
+
+18. **How do psychologists measure intelligence?**
+    - Psychologists use standardized tests, like IQ tests, to measure various aspects of intelligence.
+
+19. **What is the impact of culture on psychology?**
+    - Culture significantly impacts psychological processes, influencing values, behaviors, and mental health.
+
+20. **Can psychology change bad habits?**
+    - Yes, through various therapeutic techniques and behavior modification strategies, psychology can help change bad habits.

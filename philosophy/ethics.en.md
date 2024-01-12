@@ -650,3 +650,67 @@ In conclusion, living ethically is about consistently applying moral principles 
 **Human Rights**: Rights that are believed to belong justifiably to every person, encompassing basic rights and freedoms that all humans are entitled to.
 
 This glossary provides an overview of some fundamental concepts in the study and discussion of ethics.
+
+## Frequently Asked Questions
+
+1. **What is ethics?**
+   - Ethics is the branch of philosophy concerned with determining what is morally good and bad, right and wrong.
+
+2. **How is ethics different from morals?**
+   - Ethics refers to rules provided by an external source, e.g., codes of conduct in workplaces or principles in religions. Morals refer to an individual’s own principles regarding right and wrong.
+
+3. **What are the three main branches of ethics?**
+   - Normative Ethics: Determines what is right and wrong.
+   - Descriptive Ethics: Studies people's beliefs about morality.
+   - Metaethics: Explores the nature and meaning of ethical terms and judgments.
+
+4. **What is utilitarianism in ethics?**
+   - Utilitarianism is an ethical theory that posits the best action is the one that maximizes utility, usually defined as that which produces the greatest well-being of the greatest number of people.
+
+5. **What is deontological ethics?**
+   - Deontological ethics judges the morality of an action based on the action's adherence to a rule or rules. It's sometimes described as "duty-" or "obligation-" or "rule-" based ethics.
+
+6. **What is virtue ethics?**
+   - Virtue ethics is a philosophy developed by Aristotle that emphasizes an individual's character as the key element of ethical thinking, rather than rules about the acts themselves or their consequences.
+
+7. **What is the difference between ethical and legal standards?**
+   - Legal standards are based on written law, while ethical standards are based on human rights and wrongs. Something can be legal but not ethical and vice versa.
+
+8. **What are human rights in ethics?**
+   - Human rights are moral principles or norms for certain standards of human behavior and are regularly protected in municipal and international law.
+
+9. **How does cultural relativism impact ethics?**
+   - Cultural relativism is the idea that a person's beliefs, values, and practices should be understood based on that person's own culture, which can lead to variations in ethical standards across cultures.
+
+10. **What is the role of empathy in ethics?**
+    - Empathy, the ability to understand and share the feelings of another, is crucial in ethics as it allows one to have a sense of what is right and wrong in relation to others' experiences.
+
+11. **What is ethical egoism?**
+    - Ethical egoism is the ethical position that moral agents ought to do what is in their own self-interest.
+
+12. **How do business ethics differ from personal ethics?**
+    - Business ethics focuses on what constitutes right or wrong behavior in the world of business, considering the impact on various stakeholders, whereas personal ethics are the values and principles that an individual uses to govern their actions and decisions.
+
+13. **What are professional ethics?**
+    - Professional ethics are principles that govern the behavior of a person or group in a business environment. They guide the way a business conducts its activities.
+
+14. **What is an ethical dilemma?**
+    - An ethical dilemma is a decision-making problem between two possible moral imperatives, neither of which is unambiguously acceptable or preferable.
+
+15. **How do ethics relate to environmental issues?**
+    - Environmental ethics studies the moral relationship of human beings to, and also the value and moral status of, the environment and its non-human contents.
+
+16. **What is the trolley problem in ethics?**
+    - The trolley problem is a thought experiment in ethics modeling an ethical dilemma. It is a question of human morality, and it highlights the problem of action versus inaction.
+
+17. **How do ethics apply in healthcare?**
+    - Healthcare ethics are moral principles that apply values and judgments to the practice of medicine. Key principles include autonomy, beneficence, non-maleficence, and justice.
+
+18. **What is the importance of ethics in technology?**
+    - Ethics in technology is a sub-field of ethics addressing the ethical questions specific to the Technology Age, the digital revolution, and the ethical issues from the advent of new technology.
+
+19. **What is the relationship between ethics and religion?**
+    - Many religions have ethical components. Ethics in religion refers to the human capacity to make choices and impose self-restraint in the absence of external enforcement based on religious teachings.
+
+20. **Can ethical behavior be taught?**
+    - Yes, ethical behavior can be taught and learned. Many institutions implement ethical training to help people understand and apply ethical principles and practices.

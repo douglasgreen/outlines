@@ -730,3 +730,65 @@ In summary, the field of statistics is rapidly evolving, driven by advances in t
 **Bias**: A systematic error in a statistical analysis resulting from the sampling method, the estimator, or the data collection.
 
 **Null Hypothesis**: A general statement or default position that there is no relationship between two measured phenomena.
+
+## Frequently Asked Questions
+
+1. **What is Statistics?**
+   - Statistics is the science of collecting, analyzing, interpreting, presenting, and organizing data.
+
+2. **What are the types of data in Statistics?**
+   - Data types include nominal, ordinal, interval, and ratio.
+
+3. **What is the difference between population and sample?**
+   - A population includes all members of a specified group, while a sample is a subset of the population.
+
+4. **What are descriptive and inferential statistics?**
+   - Descriptive statistics summarize data, inferential statistics use samples to make predictions or inferences about a population.
+
+5. **What is a probability distribution?**
+   - It's a mathematical function that provides the probabilities of occurrence of different possible outcomes.
+
+6. **What is a normal distribution?**
+   - It's a symmetric distribution where most of the observations cluster around the central peak.
+
+7. **What are mean, median, and mode?**
+   - Mean is the average, median is the middle value when data is sorted, and mode is the most frequent value.
+
+8. **What is standard deviation?**
+   - It measures the amount of variation or dispersion in a set of values.
+
+9. **What is a hypothesis test?**
+   - It's a method of statistical inference used to decide whether there is enough evidence in a sample to infer a certain condition is true for the entire population.
+
+10. **What is a p-value?**
+    - The p-value is the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test, assuming that the null hypothesis is correct.
+
+11. **What is correlation and causation?**
+    - Correlation measures the strength of a relationship between two variables. Causation indicates that one event is the result of the occurrence of the other event.
+
+12. **What is regression analysis?**
+    - It's a statistical method for estimating the relationships among variables.
+
+13. **What are parametric and non-parametric tests?**
+    - Parametric tests assume underlying statistical distributions in the data. Non-parametric tests do not rely on such assumptions.
+
+14. **What is a confidence interval?**
+    - It's a range of values, derived from sample statistics, that is likely to contain the value of an unknown population parameter.
+
+15. **What is the Central Limit Theorem?**
+    - It states that the distribution of sample means approximates a normal distribution as the sample size becomes larger, regardless of the population's distribution.
+
+16. **What are outliers and how do they impact data?**
+    - Outliers are extreme values that deviate from other observations. They can skew the results and affect the average of the data.
+
+17. **What is a chi-squared test?**
+    - It's a statistical test used to determine if there is a significant difference between the expected frequencies and the observed frequencies in one or more categories.
+
+18. **What are degrees of freedom in statistics?**
+    - Degrees of freedom are the number of values in the final calculation of a statistic that are free to vary.
+
+19. **What is ANOVA (Analysis of Variance)?**
+    - ANOVA is a statistical method used to test differences between two or more means.
+
+20. **What is the importance of sample size in statistics?**
+    - Sample size is crucial in statistics as it impacts the ability to make inferences about the population; larger samples generally provide more reliable results.

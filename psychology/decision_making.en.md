@@ -428,3 +428,65 @@ In summary, enhancing decision-making skills involves a combination of theoretic
 **Decision Tree**: A diagram used to determine a course of action or show a statistical probability. Each branch of the decision tree represents a possible decision or occurrence.
 
 **Outcome**: The result or effect of a decision.
+
+## Frequently Asked Questions
+
+1. **What is decision making?**
+   - It's the process of choosing among alternatives to achieve a goal or solve a problem.
+
+2. **Why is decision making important?**
+   - Effective decision making is crucial for personal and professional success as it leads to better outcomes and solutions.
+
+3. **What are the steps in the decision-making process?**
+   - Generally, the steps include identifying the problem, gathering information, evaluating alternatives, making the choice, implementing the decision, and reviewing the results.
+
+4. **What is a rational decision-making model?**
+   - It's a structured and logical process of decision making, focusing on facts and reasoning.
+
+5. **How does emotion affect decision making?**
+   - Emotions can significantly influence decisions, sometimes leading to biased or irrational choices.
+
+6. **What is the difference between intuitive and rational decision making?**
+   - Intuitive decision making is based on gut feeling or instinct, while rational decision making relies on analysis and facts.
+
+7. **What is group decision making?**
+   - It involves making decisions collectively in a group, considering the input and perspective of multiple individuals.
+
+8. **How can I improve my decision-making skills?**
+   - Practice critical thinking, stay informed, consider multiple perspectives, and learn from past decisions.
+
+9. **What are some common decision-making techniques?**
+   - Techniques include pros and cons lists, SWOT analysis, cost-benefit analysis, and decision trees.
+
+10. **What is 'analysis paralysis' in decision making?**
+    - It's the state of over-analyzing or overthinking a situation so that a decision is never made.
+
+11. **How do cognitive biases affect decision making?**
+    - Biases can lead to poor judgment and decision making by affecting the way we process information.
+
+12. **What is the role of ethics in decision making?**
+    - Ethics guide us to make decisions that are morally right and just.
+
+13. **How can technology aid in decision making?**
+    - Technology like data analytics and AI can provide insights and automate some decision-making processes.
+
+14. **What is strategic decision making?**
+    - It involves making decisions that are critical to the long-term goals and direction of an individual or organization.
+
+15. **How can I make better personal life decisions?**
+    - Reflect on your values and goals, seek advice when needed, and consider the long-term consequences of your choices.
+
+16. **What is the role of risk in decision making?**
+    - Understanding and managing risk is crucial as most decisions involve some degree of uncertainty.
+
+17. **How can I avoid decision fatigue?**
+    - Prioritize decisions, make simpler choices for less critical matters, and take breaks to refresh your mind.
+
+18. **What are some common decision-making errors?**
+    - Errors include overconfidence, underestimating uncertainty, and succumbing to biases.
+
+19. **How does cultural background influence decision making?**
+    - Cultural values and norms can shape the way individuals perceive problems and evaluate solutions.
+
+20. **What is adaptive decision making?**
+    - It's the ability to modify your decision-making process based on the current situation or changing environments.

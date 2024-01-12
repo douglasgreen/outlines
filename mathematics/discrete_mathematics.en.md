@@ -743,3 +743,65 @@ As Discrete Mathematics continues to evolve, it is poised to play an increasingl
 **Relation**: A collection of ordered pairs containing objects from two sets. It defines the relationship between the elements of these sets.
 
 **Combinatorics**: The branch of mathematics studying the enumeration, combination, and permutation of sets of elements and the mathematical relations that characterize their properties.
+
+## Frequently Asked Questions
+
+1. **What is Discrete Mathematics?**
+   - It's the study of mathematical structures that are fundamentally discrete rather than continuous, focusing on countable, distinct elements.
+
+2. **What are the main topics covered in Discrete Mathematics?**
+   - Topics include logic, set theory, combinatorics, graph theory, and algorithms.
+
+3. **How is Discrete Mathematics used in computer science?**
+   - It provides foundational concepts for algorithms, programming, data structures, cryptography, and more.
+
+4. **What is a set in Discrete Mathematics?**
+   - A set is a collection of distinct objects, considered as an object in its own right.
+
+5. **What is a graph in Discrete Mathematics, and what are its types?**
+   - A graph is a set of vertices connected by edges. Types include directed and undirected graphs.
+
+6. **What is combinatorics?**
+   - Combinatorics is the study of counting, arrangement, and combination of objects.
+
+7. **What is the pigeonhole principle?**
+   - It states that if n items are put into m containers, with n > m, at least one container must contain more than one item.
+
+8. **What is a permutation?**
+   - A permutation is an arrangement of all or part of a set of objects, with regard to the order of the arrangement.
+
+9. **What is a combination?**
+   - A combination is a selection of items from a collection, such that the order of selection does not matter.
+
+10. **What is mathematical induction?**
+    - It's a method of mathematical proof typically used to establish that a given statement is true for all natural numbers.
+
+11. **What is a binary relation?**
+    - A binary relation is a set of ordered pairs, typically representing relationships between elements of two sets.
+
+12. **What is an algorithm in Discrete Mathematics?**
+    - An algorithm is a finite set of well-defined instructions for performing a computation or solving a problem.
+
+13. **How is probability used in Discrete Mathematics?**
+    - Probability in discrete settings is used to calculate the likelihood of various outcomes in different scenarios.
+
+14. **What is Euler's theorem in graph theory?**
+    - Euler's theorem states that a graph has an Eulerian circuit if and only if it is connected and every vertex has an even degree.
+
+15. **What is the principle of inclusion-exclusion in combinatorics?**
+    - It's a formula used to count the number of elements of various sets and their intersections.
+
+16. **What are Boolean algebra and its applications?**
+    - Boolean algebra is the algebra of truth values and logical operations, used in digital logic and computer science.
+
+17. **How are trees used in Discrete Mathematics?**
+    - Trees, a type of graph, are used in data structures, algorithm design, and network theory.
+
+18. **What is the significance of prime numbers in Discrete Mathematics?**
+    - Prime numbers are crucial in number theory and are foundational for algorithms in cryptography.
+
+19. **What are discrete probability distributions?**
+    - These are probability distributions characterized by a set of discrete outcomes, like a binomial distribution.
+
+20. **What is a Hamiltonian path in graph theory?**
+    - A Hamiltonian path is a path in a graph that visits each vertex exactly once. A Hamiltonian circuit is a Hamiltonian path that is a cycle.

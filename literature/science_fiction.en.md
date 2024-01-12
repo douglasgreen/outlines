@@ -722,3 +722,65 @@ The future of science fiction is as dynamic and uncertain as the future itself. 
 **Wormhole**: A hypothetical passage through space-time that could create shortcuts for long journeys across the universe.
 
 **Cyborg**: A being with both organic and biomechatronic body parts, often depicted as enhanced humans with technological augmentations.
+
+## Frequently Asked Questions
+
+1. **What is science fiction?**
+   - Science fiction is a genre of fiction that explores imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life.
+
+2. **Who is considered the father of science fiction?**
+   - H.G. Wells and Jules Verne are often credited as the fathers of science fiction due to their pioneering works in the late 19th and early 20th centuries.
+
+3. **What distinguishes science fiction from fantasy?**
+   - Science fiction often deals with imaginative but plausible concepts based on scientific principles, whereas fantasy typically involves supernatural and magical elements that are not grounded in science.
+
+4. **Can science fiction predict the future?**
+   - While science fiction can anticipate or inspire future technologies and scenarios, it is more about exploring possibilities than making accurate predictions.
+
+5. **What is the "Golden Age" of science fiction?**
+   - The Golden Age of science fiction is generally considered to be from the late 1930s to the 1950s, a period marked by significant works from authors like Isaac Asimov, Arthur C. Clarke, and Robert A. Heinlein.
+
+6. **How does science fiction influence real science and technology?**
+   - Science fiction can inspire scientists and engineers by providing imaginative visions of future technologies and challenges, sparking interest and innovation.
+
+7. **What is cyberpunk?**
+   - Cyberpunk is a subgenre of science fiction that focuses on a future with advanced technology, especially information technology and cybernetics, set in a dystopian society.
+
+8. **Are science fiction and speculative fiction the same?**
+   - Speculative fiction is a broad category that includes science fiction but also encompasses other genres like fantasy and horror, which do not necessarily rely on scientific principles.
+
+9. **What are some common themes in science fiction?**
+   - Common themes include space travel, time travel, artificial intelligence, dystopias, utopias, and exploration of societal impacts of future technologies.
+
+10. **Who are some notable science fiction authors?**
+    - Notable authors include Isaac Asimov, Arthur C. Clarke, Philip K. Dick, Ursula K. Le Guin, Frank Herbert, and Ray Bradbury.
+
+11. **What role does science fiction play in popular culture?**
+    - Science fiction significantly influences popular culture, evident in movies, TV shows, literature, and even in shaping public perception and dialogue about future technologies and ethical issues.
+
+12. **How does science fiction explore ethical and moral issues?**
+    - It often presents hypothetical scenarios and advanced technologies to examine moral dilemmas, societal changes, and ethical challenges.
+
+13. **What is the difference between hard and soft science fiction?**
+    - Hard science fiction focuses on scientific accuracy and technical detail, while soft science fiction is more focused on social sciences, like psychology and sociology.
+
+14. **Can science fiction be educational?**
+    - Yes, it can provoke thought about scientific concepts, future possibilities, and ethical questions, making it a valuable educational tool.
+
+15. **What is a science fiction trope?**
+    - A trope is a commonly used theme or plot device. In science fiction, common tropes include space opera, time travel, parallel universes, and alien encounters.
+
+16. **How has science fiction evolved over time?**
+    - It has evolved from pulp magazine stories to a respected literary genre, reflecting changes in technology, society, and scientific understanding.
+
+17. **What is the relationship between science fiction and technology?**
+    - Science fiction often anticipates or inspires technological developments and can influence the direction of technological innovation.
+
+18. **What impact has science fiction had on space exploration?**
+    - Science fiction has inspired many individuals in the field of space exploration and has shaped public enthusiasm and support for space programs.
+
+19. **What are some iconic science fiction movies or TV shows?**
+    - Iconic works include "Star Wars," "Star Trek," "Blade Runner," "2001: A Space Odyssey," and "The Matrix."
+
+20. **What future trends are emerging in science fiction?**
+    - Current trends include increased focus on diverse perspectives, exploration of virtual and augmented reality, and more emphasis on climate and environmental issues.

@@ -288,3 +288,65 @@ In summary, the future of wine looks vibrant and promising, shaped by a blend of
 **Sommelier**: A trained and knowledgeable wine professional, typically working in fine restaurants, who specializes in all aspects of wine service and pairing.
 
 **Structure**: Refers to the framework of a wine; how the components of acidity, tannins, alcohol, and sweetness are balanced.
+
+## Frequently Asked Questions
+
+1. **What are the main types of wine?**
+   - Red, white, rosé, sparkling, and dessert wines.
+
+2. **How is red wine different from white wine?**
+   - Red wine is made from black grapes and fermented with the grape skins, seeds, and stems, while white wine is made from white grapes and fermented without skins.
+
+3. **What is rosé wine?**
+   - Rosé is made from black grapes but fermented like white wine, with limited contact with grape skins, giving it a pink color.
+
+4. **How should wine be stored?**
+   - Store wine in a cool, dark place, ideally at 55°F (13°C) with controlled humidity.
+
+5. **What is the right serving temperature for wine?**
+   - Red wines: 60-68°F (15-20°C), white/rosé wines: 50-60°F (10-15°C), sparkling wines: 40-50°F (4-10°C).
+
+6. **How long does an opened bottle of wine last?**
+   - 3-5 days for reds, 3-7 days for whites/rosés, 1-3 days for sparkling wines, if re-corked and refrigerated.
+
+7. **What is "tannin" in wine?**
+   - Tannins are natural compounds from grape skins, seeds, and stems or oak barrels, contributing to texture and astringency.
+
+8. **What does "dry" wine mean?**
+   - Dry wine has little to no residual sugar and is not sweet.
+
+9. **How is sparkling wine made?**
+   - It's made either by secondary fermentation in the bottle (traditional method) or in large tanks (Charmat method).
+
+10. **What are sulfites in wine?**
+    - Sulfites are compounds used as preservatives to prevent spoiling and oxidation.
+
+11. **Can wine be vegan?**
+    - Yes, but some wines use animal products in the fining process, so check for vegan labeling.
+
+12. **What is "body" in wine?**
+    - Body refers to the weight and fullness of wine on the palate, categorized as light, medium, or full-bodied.
+
+13. **What is "vintage" in wine?**
+    - Vintage refers to the year the grapes were harvested and can affect flavor due to weather conditions.
+
+14. **What are "legs" in wine?**
+    - Legs are the droplets that form on the inside of a glass when swirled, related to alcohol content and surface tension.
+
+15. **How do I pair wine with food?**
+    - Match the wine's intensity with the food's, pair regional wines with regional dishes, and consider complementary or contrasting flavors.
+
+16. **What does "oaked" mean in wine?**
+    - Oaked wines are aged in oak barrels, imparting flavors like vanilla, spice, and toast.
+
+17. **What is a wine appellation?**
+    - An appellation is a legally defined wine-growing region with specific rules about grape-growing and wine-making.
+
+18. **How can I tell if a wine has gone bad?**
+    - Look for off smells (like wet cardboard or vinegar), a dull color, or a flat taste.
+
+19. **What is decanting, and why do it?**
+    - Decanting is pouring wine into a separate container to aerate it or remove sediment. It enhances flavor and aroma.
+
+20. **Can I cook with any wine?**
+    - Generally, yes, but use a wine that you'd enjoy drinking. Avoid "cooking wines" with added salt or preservatives.

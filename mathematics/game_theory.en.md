@@ -302,3 +302,7 @@ Explain future directions and challenges, while discussing the following topics:
 ## Glossary of Terms
 
 Write a glossary of the top twenty terms used about Game Theory.
+
+## Frequently Asked Questions
+
+Write a list of the top twenty frequently asked questions about Game Theory and give a brief answer to each.

@@ -787,3 +787,65 @@ Ultimately, the role of politics in shaping the future rests on its ability to b
 **Autocracy**: A system of government in which a single person possesses absolute power.
 
 **Electoral College**: A body of people representing the states of the US, who formally cast votes for the election of the president and vice president.
+
+## Frequently Asked Questions
+
+1. **What is politics?**
+   - Politics is the process of making decisions that apply to members of a group, often relating to governance and public policies.
+
+2. **What are the main types of political systems?**
+   - The main types are democracy, authoritarianism, and totalitarianism, each with variations in how power is distributed and exercised.
+
+3. **What is democracy?**
+   - Democracy is a system where power is held by the people, typically through elected representatives and free, fair elections.
+
+4. **What is a republic?**
+   - A republic is a form of government where the country is considered a "public matter" and the head of state is an elected or nominated president, not a monarch.
+
+5. **What is socialism?**
+   - Socialism is a political and economic theory advocating collective or governmental ownership and administration of the means of production and distribution of goods.
+
+6. **What is communism?**
+   - Communism is a political theory derived from Karl Marx, advocating class war and leading to a society in which all property is publicly owned and each person works and is paid according to their abilities and needs.
+
+7. **What is capitalism?**
+   - Capitalism is an economic system where private individuals or businesses own capital goods and production is based on supply and demand in the market.
+
+8. **What does 'left-wing' and 'right-wing' mean in politics?**
+   - These terms generally refer to the political spectrum, with left-wing supporting social equality and egalitarianism, and right-wing supporting tradition and authority.
+
+9. **What is a political party?**
+   - A political party is an organized group of people with similar political aims and opinions, seeking to influence public policy by getting its candidates elected.
+
+10. **What is a constitution?**
+    - A constitution is a set of fundamental principles or established precedents according to which a state or other organization is governed.
+
+11. **What is federalism?**
+    - Federalism is a system of government where power is divided between a central authority and constituent political units (like states or provinces).
+
+12. **What is a dictatorship?**
+    - A dictatorship is a form of government where a single person or a small group possesses absolute power without effective constitutional limitations.
+
+13. **What is an election?**
+    - An election is a formal group decision-making process by which a population chooses an individual or multiple individuals to hold public office.
+
+14. **What is a parliamentary system?**
+    - A parliamentary system is a system of democratic governance where the executive branch derives its democratic legitimacy from, and is accountable to, the legislature (parliament); the executive and legislative branches are thus interconnected.
+
+15. **What is a presidential system?**
+    - In a presidential system, the president is the head of state and leads an executive branch that is separate from the legislative branch.
+
+16. **What is political ideology?**
+    - Political ideology is a certain set of ethical ideals, principles, doctrines, myths, or symbols of a social movement, institution, class, or large group that explains how society should work.
+
+17. **What is a lobbyist?**
+    - A lobbyist is a person who takes part in an organized attempt to influence legislators.
+
+18. **What is a referendum?**
+    - A referendum is a direct vote in which an entire electorate is invited to vote on a particular proposal and can have nationwide or local forms.
+
+19. **What are human rights?**
+    - Human rights are moral principles or norms that describe certain standards of human behavior and are regularly protected as natural and legal rights in municipal and international law.
+
+20. **What is a policy?**
+    - In politics, a policy is a deliberate system of principles to guide decisions and achieve rational outcomes. A policy is a statement of intent and is implemented as a procedure or protocol.

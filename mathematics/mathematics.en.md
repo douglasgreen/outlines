@@ -588,3 +588,65 @@ The future of mathematics is not just about new theories and techniques; it's ab
 **Fractal**: A complex geometric shape that can be split into parts, each of which is a reduced-scale copy of the whole, commonly used in computer modeling.
 
 **Logic**: The branch of mathematics that deals with the formal principles of reasoning, including mathematical reasoning and computational logic.
+
+## Frequently Asked Questions
+
+1. **What is Mathematics?**
+   - Mathematics is the study of numbers, quantities, shapes, and patterns using logical reasoning, observation, and abstraction.
+
+2. **Why is Mathematics important?**
+   - Mathematics is crucial for understanding the world, solving practical problems, and is the foundation for science, engineering, technology, and finance.
+
+3. **What are the different branches of Mathematics?**
+   - Major branches include Algebra, Geometry, Calculus, Statistics, Number Theory, and Applied Mathematics.
+
+4. **How do I solve a quadratic equation?**
+   - Quadratic equations can be solved by factoring, completing the square, using the quadratic formula, or graphically.
+
+5. **What is a function in Mathematics?**
+   - A function is a relation between a set of inputs and a set of permissible outputs, where each input is related to exactly one output.
+
+6. **What is the difference between a vector and a scalar?**
+   - A scalar is a quantity with only magnitude (like mass or temperature), while a vector has both magnitude and direction (like velocity or force).
+
+7. **How are Mathematics and Physics related?**
+   - Mathematics provides the language and tools for formulating and solving physical problems, making it fundamental to physics.
+
+8. **What is the Pythagorean theorem?**
+   - It states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.
+
+9. **What is calculus used for?**
+   - Calculus is used to study change and motion, and it's essential in fields like physics, engineering, economics, and statistics.
+
+10. **What are imaginary numbers?**
+    - Imaginary numbers are numbers that, when squared, have a negative result. They are essential in advanced mathematics and physics.
+
+11. **How do I find the area of a circle?**
+    - The area of a circle is π times the square of its radius (A = πr²).
+
+12. **What is a prime number?**
+    - A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+
+13. **How is probability used in real life?**
+    - Probability is used in areas like statistics, finance, gambling, science, and in making decisions under uncertainty.
+
+14. **What is a matrix in Mathematics?**
+    - A matrix is a rectangular array of numbers or other mathematical objects, used for solving systems of linear equations and in various areas of algebra.
+
+15. **What does 'solve for x' mean?**
+    - It means to find the value(s) of the variable x that make an equation true.
+
+16. **Why do we use letters in Algebra?**
+    - Letters are used to represent variables or unknown values in equations and expressions.
+
+17. **What is a differential equation?**
+    - It's an equation involving derivatives, expressing how a rate of change (derivative) in one variable is related to other variables.
+
+18. **What is the significance of π (pi)?**
+    - π is a constant representing the ratio of the circumference of a circle to its diameter, crucial in geometry and trigonometry.
+
+19. **How do I convert fractions to decimals?**
+    - Divide the numerator by the denominator to convert a fraction to a decimal.
+
+20. **What are irrational numbers?**
+    - Irrational numbers are real numbers that cannot be expressed as a simple fraction - their decimal representation is non-repeating and non-terminating. Examples include π and the square root of 2.

@@ -689,3 +689,65 @@ The future of geometry is intertwined with the advancement of technology and sci
 **Tangent (of a Circle)**: A line that touches a circle at exactly one point.
 
 **Vertex (Vertices)**: The corner point of an angle, polygon, or polyhedron where two or more lines, edges, or rays meet.
+
+## Frequently Asked Questions
+
+1. **What is Geometry?**
+   - Geometry is a branch of mathematics that deals with shapes, sizes, and properties of space.
+
+2. **What are the basic geometric shapes?**
+   - The basic geometric shapes are circle, square, rectangle, triangle, and polygon.
+
+3. **What is a polygon?**
+   - A polygon is a plane figure with at least three straight sides and angles.
+
+4. **What’s the difference between 2D and 3D shapes?**
+   - 2D shapes have two dimensions (length and width), while 3D shapes have three dimensions (length, width, and height).
+
+5. **What is a circle’s circumference?**
+   - The circumference is the distance around the edge of a circle, calculated as \(2\pi r\), where \(r\) is the radius.
+
+6. **What is an angle?**
+   - An angle is formed by two rays originating from the same endpoint.
+
+7. **What are complementary and supplementary angles?**
+   - Complementary angles sum up to 90 degrees, while supplementary angles sum up to 180 degrees.
+
+8. **What is a right angle?**
+   - A right angle is an angle of exactly 90 degrees.
+
+9. **What are parallel and perpendicular lines?**
+   - Parallel lines never intersect, while perpendicular lines intersect at a right angle.
+
+10. **What is a triangle?**
+    - A triangle is a polygon with three sides and three angles.
+
+11. **What are the types of triangles?**
+    - Triangles can be classified by sides (equilateral, isosceles, scalene) or angles (acute, right, obtuse).
+
+12. **What is the Pythagorean theorem?**
+    - The Pythagorean theorem states that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+
+13. **What is area and how is it calculated?**
+    - Area is the amount of space inside a shape. Its calculation depends on the shape (e.g., area of a rectangle is length x width).
+
+14. **What is volume?**
+    - Volume is the amount of space a 3D object occupies, measured in cubic units.
+
+15. **What is symmetry in geometry?**
+    - Symmetry refers to a balance or correspondence in size and shape of parts on opposite sides of a dividing line.
+
+16. **What is a geometric proof?**
+    - A geometric proof is a deductive argument for a geometric statement using axioms, definitions, and previously established theorems.
+
+17. **What is the difference between Euclidean and non-Euclidean geometry?**
+    - Euclidean geometry is based on Euclid’s postulates and is set in a flat plane, while non-Euclidean geometry arises when one or more of Euclid's postulates are replaced.
+
+18. **What is a vector in geometry?**
+    - A vector is a quantity that has both magnitude and direction, often represented by an arrow.
+
+19. **What are congruent figures?**
+    - Congruent figures are figures that have the same size and shape.
+
+20. **What is the golden ratio?**
+    - The golden ratio is a special number approximately equal to 1.618. In geometry, a golden rectangle is a rectangle whose side lengths are in the golden ratio.

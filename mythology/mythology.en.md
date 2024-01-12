@@ -595,3 +595,65 @@ Comparative mythology reveals that despite the diversity of cultures, certain th
 **Prophecy**: A prediction of what will happen in the future, often made by a seer or oracle in mythology.
 
 **Sacred**: Connected with God (or the gods) or dedicated to a religious purpose and so deserving veneration.
+
+## Frequently Asked Questions
+
+1. **What is mythology?**
+   - Mythology is the collection of myths belonging to a culture, involving gods, goddesses, heroes, and rituals, often explaining natural phenomena, human behavior, and the origins of the world.
+
+2. **What are the most famous mythologies?**
+   - The most famous include Greek, Roman, Norse, Egyptian, and Hindu mythologies.
+
+3. **Who are the major Greek gods?**
+   - Zeus (king of gods), Hera (queen of gods), Poseidon (god of the sea), Hades (god of the underworld), Athena (goddess of wisdom), and Apollo (god of the sun).
+
+4. **What are the differences between Greek and Roman mythology?**
+   - Greek and Roman mythologies are similar, but they differ in names of deities and certain thematic elements; for example, Zeus in Greek is Jupiter in Roman.
+
+5. **What is Norse mythology?**
+   - Norse mythology, from ancient Scandinavia, involves gods like Odin, Thor, and Loki, and includes stories about the creation of the world and its eventual end (Ragnarok).
+
+6. **Who are the major Egyptian gods?**
+   - Major Egyptian gods include Ra (sun god), Isis (goddess of magic), Osiris (god of the afterlife), and Anubis (god of mummification).
+
+7. **What are some common themes in mythology?**
+   - Common themes include creation myths, heroic journeys, gods interacting with humans, and explanations for natural events.
+
+8. **How do mythologies explain creation?**
+   - Most mythologies have creation stories, like the Greek Chaos and Titans, or the Hindu Brahman.
+
+9. **What role do heroes play in mythology?**
+   - Heroes, like Hercules in Greek mythology or Rama in Hindu mythology, often undertake journeys or labors, battling monsters or injustice.
+
+10. **Are myths and legends the same?**
+    - Myths are primarily concerned with gods and universal truths, while legends are more historical and focused on human heroes.
+
+11. **How does mythology influence modern culture?**
+    - Mythology influences literature, movies, names of planets, and common phrases; for example, an "Achilles heel" means a weak spot.
+
+12. **What is the importance of animals in mythology?**
+    - Animals in myths often symbolize qualities or natural forces, like the eagle for Zeus symbolizing power.
+
+13. **How do myths explain natural phenomena?**
+    - Myths often personify natural elements, like the wind as Aeolus in Greek mythology, to explain weather and natural events.
+
+14. **What are some famous mythological creatures?**
+    - Creatures like the Greek Minotaur, the Norse Fenrir, and the Egyptian Sphinx are well-known.
+
+15. **What is the study of mythology called?**
+    - The study of myths is known as 'mythology' itself, and it often intersects with anthropology, history, and literature.
+
+16. **How were myths passed down through generations?**
+    - Initially through oral traditions and later written down in texts like Homer's epics or the Vedas in Hindu mythology.
+
+17. **What is the role of women in mythology?**
+    - Women, both goddesses and mortals, often play pivotal roles, embodying various aspects like wisdom, fertility, or domesticity.
+
+18. **What is the purpose of mythological tales?**
+    - They serve to convey moral lessons, explain the unexplainable, and provide a sense of order and understanding of the universe.
+
+19. **How do different cultures view the afterlife in mythology?**
+    - Views vary, from the Greek Underworld to the Norse Valhalla, each with different rules and structures for the afterlife.
+
+20. **Can mythology help in understanding ancient cultures?**
+    - Yes, myths provide insights into the values, fears, and beliefs of ancient cultures, reflecting their worldviews and societal norms.
