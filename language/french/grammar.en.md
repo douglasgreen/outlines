@@ -919,3 +919,65 @@ Achieving advanced fluency in French goes beyond grammatical accuracy; it involv
 **Syntaxe (Syntax)**: The arrangement of words and phrases to create well-formed sentences.
 
 **Négation (Negation)**: Used to make a statement negative, often using ne...pas.
+
+## Frequently Asked Questions
+
+1. **What is the difference between 'tu' and 'vous'?**
+   - 'Tu' is used for informal, singular you (friends, family), while 'vous' is for formal or plural you.
+
+2. **How do French gender rules work?**
+   - Nouns are either masculine or feminine. Generally, nouns ending in '-e' are feminine, but there are many exceptions.
+
+3. **What are French articles and how are they used?**
+   - French articles ('le', 'la', 'les', 'un', 'une', 'des') are used to define nouns as specific or unspecific.
+
+4. **How do verb conjugations work in French?**
+   - Verbs change form based on tense and subject. Each verb can have many forms.
+
+5. **What is the passé composé and how is it formed?**
+   - It's a common past tense, formed with 'avoir' or 'être' as auxiliary verb + past participle of the main verb.
+
+6. **How do you form questions in French?**
+   - Invert subject and verb (e.g., Tu es → Es-tu?), use 'est-ce que', or just raise your intonation.
+
+7. **What is the difference between 'c'est' and 'il est'?**
+   - 'C'est' is used with a noun (C'est un chat), 'il est' with an adjective (Il est grand).
+
+8. **How does negation work in French?**
+   - Usually, put 'ne' before the verb and 'pas' after (e.g., Je ne sais pas).
+
+9. **What are French pronouns and how are they used?**
+   - Pronouns replace nouns (je, tu, il, elle, nous, vous, ils, elles). Their form changes with function and placement in a sentence.
+
+10. **What is the subjunctive mood and when is it used?**
+    - The subjunctive is used after certain expressions of desire, doubt, or emotion. It's a verb mood, not a tense.
+
+11. **How do you use adjectives in French?**
+    - Adjectives usually follow the noun and agree in gender and number with the noun.
+
+12. **What are the rules for French prepositions?**
+    - Prepositions link words and express relations (à, de, en, pour...). Their usage often depends on the verbs or adjectives they follow.
+
+13. **What is the difference between 'savoir' and 'connaître'?**
+    - 'Savoir' means to know a fact or how to do something, 'connaître' means to be familiar with someone or something.
+
+14. **How do you use reflexive verbs in French?**
+    - Reflexive verbs (e.g., se laver) reflect the action on the subject. They use reflexive pronouns like 'me', 'te', 'se'.
+
+15. **What are relative pronouns and how are they used?**
+    - Relative pronouns (qui, que, où, dont) connect clauses and replace a noun or pronoun in the dependent clause.
+
+16. **What is the imperative mood and how is it used?**
+    - The imperative is used to give commands. It's conjugated without subject pronouns (e.g., Parle! - Speak!).
+
+17. **How do you form the future tense in French?**
+    - Add the future endings (-ai, -as, -a, -ons, -ez, -ont) to the infinitive for regular verbs.
+
+18. **What is the difference between 'bien' and 'bon'?**
+    - 'Bien' is an adverb meaning well, 'bon' is an adjective meaning good.
+
+19. **What is the partitive article and how is it used?**
+    - The partitive article (du, de la, de l', des) is used to express an unspecified amount (e.g., Je veux du pain).
+
+20. **How do you form the conditional mood in French?**
+    - The conditional is formed by adding the imperfect endings (-ais, -ais, -ait, -ions, -iez, -aient) to the infinitive of regular verbs.

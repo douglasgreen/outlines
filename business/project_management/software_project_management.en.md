@@ -1002,3 +1002,65 @@ In summary, the choice of tools and technologies in software project management 
 **Waterfall Model**: A traditional project management methodology where the project is divided into sequential phases, with each phase depending on the deliverables of the previous one.
 
 **Work Breakdown Structure (WBS)**: A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables.
+
+## Frequently Asked Questions
+
+1. **What is software project management?**
+   - It's the process of overseeing, planning, and executing software projects, ensuring they are completed on time, within budget, and meet the required quality standards.
+
+2. **What are the key phases of a software project?**
+   - The key phases are initiation, planning, execution, monitoring and controlling, and closing.
+
+3. **What is Agile methodology in project management?**
+   - Agile is an iterative approach that focuses on collaboration, customer feedback, and small, rapid releases.
+
+4. **What is a Project Management Office (PMO)?**
+   - A PMO is a centralized team within an organization that sets and maintains standards for project management across the organization.
+
+5. **How important is risk management in software projects?**
+   - Extremely important as it helps identify, assess, and mitigate potential risks that could affect the project's success.
+
+6. **What is a Gantt Chart?**
+   - A Gantt Chart is a visual tool used in project management to represent the timeline of a project, showing tasks, durations, and dependencies.
+
+7. **How do you estimate a software project?**
+   - Estimation can be done using techniques like expert judgment, analogous estimation, parametric estimation, and bottom-up estimation.
+
+8. **What is scope creep, and how is it managed?**
+   - Scope creep is the uncontrolled expansion to project scope without adjustments to time, cost, and resources. It's managed through rigorous scope management and change control processes.
+
+9. **What are sprints in Agile projects?**
+   - Sprints are set periods during which specific work has to be completed and made ready for review in Agile methodologies.
+
+10. **What is Scrum?**
+    - Scrum is an Agile framework that is used to implement Agile development. It involves roles like Scrum Master and Product Owner, and practices like daily stand-ups and sprints.
+
+11. **What is a stakeholder in project management?**
+    - A stakeholder is anyone who has an interest in or is affected by the project, including clients, team members, and senior management.
+
+12. **How do you manage a distributed software development team?**
+    - This involves clear communication, use of collaboration tools, regular updates, and adapting processes to accommodate different time zones and cultures.
+
+13. **What is the role of a project manager in software development?**
+    - A project manager plans, executes, and closes projects. They are responsible for the entire project scope, team, resources, and the project's success or failure.
+
+14. **What is Kanban in project management?**
+    - Kanban is a visual approach to project management that helps manage work by balancing demands with available capacity and improving the handling of system-level bottlenecks.
+
+15. **How do you ensure quality in a software project?**
+    - Quality is ensured through practices like code reviews, testing at various stages, and adherence to standards and guidelines.
+
+16. **What is a burndown chart?**
+    - A burndown chart is a graphical representation of work left to do versus time, often used in Agile and Scrum methodologies.
+
+17. **How do you handle project changes?**
+    - Project changes are handled through change management processes, which typically involve change request evaluation, approval, and implementation.
+
+18. **What is a software development life cycle (SDLC)?**
+    - SDLC is a process that produces software with the highest quality and lowest cost in the shortest time. It includes phases like planning, implementation, testing, documentation, deployment, and maintenance.
+
+19. **What are some common project management tools?**
+    - Common tools include JIRA, Trello, Microsoft Project, Asana, and Slack, among others.
+
+20. **What is a milestone in project management?**
+    - A milestone is a significant point or event in the project, often used as a marker for project phases or important deadlines.

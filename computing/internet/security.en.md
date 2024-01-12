@@ -887,3 +887,65 @@ In conclusion, the future of internet security is dynamic and multifaceted, requ
 **Cybersecurity**: The practice of protecting systems, networks, and programs from digital attacks.
 
 **Data Breach**: A security incident in which information is accessed without authorization. Data breaches can hurt businesses and consumers in a variety of ways.
+
+## Frequently Asked Questions
+
+1. **What is Internet Security?**
+   - Internet Security refers to the practices and tools used to protect sensitive data and systems from cyber threats while using the internet.
+
+2. **Why is Internet Security important?**
+   - It's crucial to protect personal and business information from theft, damage, and unauthorized access.
+
+3. **What are the common types of cyber threats?**
+   - Common types include viruses, worms, trojan horses, ransomware, phishing, and spyware.
+
+4. **What is a firewall?**
+   - A firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+5. **How can I create a strong password?**
+   - Use a combination of letters, numbers, and symbols, and make it at least 12 characters long. Avoid using easily guessable information like birthdates.
+
+6. **What is phishing?**
+   - Phishing is a deceptive attempt to obtain sensitive information by disguising as a trustworthy entity in digital communication.
+
+7. **How can I identify a phishing email?**
+   - Look for misspellings, poor grammar, urgent requests for information, suspicious attachments, and links that don't match the context.
+
+8. **What is VPN (Virtual Private Network)?**
+   - A VPN extends a private network across a public network, enabling users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+
+9. **What is two-factor authentication?**
+   - It's a security process in which users provide two different authentication factors to verify themselves. This process is done to protect both the user's credentials and the resources the user can access.
+
+10. **Why should I update my software regularly?**
+    - Updates often include patches for security vulnerabilities that have been discovered since the last version of the software.
+
+11. **What is ransomware?**
+    - Ransomware is a type of malicious software designed to block access to a computer system until a sum of money is paid.
+
+12. **How can I protect myself from ransomware?**
+    - Regularly back up your data, avoid clicking on suspicious links or attachments, and keep your software updated.
+
+13. **What is a secure Wi-Fi connection?**
+    - A secure Wi-Fi connection is one that encrypts the data you send over the internet and requires a password for access.
+
+14. **What is SSL/TLS?**
+    - SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are cryptographic protocols designed to provide communications security over a computer network.
+
+15. **How do I know if a website is secure?**
+    - Look for "https://" at the beginning of the URL and a padlock symbol in the browser's address bar.
+
+16. **What is malware?**
+    - Malware is software specifically designed to disrupt, damage, or gain unauthorized access to a computer system.
+
+17. **How can I protect my mobile device from security threats?**
+    - Keep your device updated, download apps from trusted sources, and consider mobile security software.
+
+18. **What should I do if I think my computer has a virus?**
+    - Run antivirus software to scan and remove the virus, change your passwords, and consider seeking professional help if the problem persists.
+
+19. **What is an antivirus program?**
+    - Antivirus is software designed to detect, prevent, and remove malware from a computer system.
+
+20. **Is it safe to use public Wi-Fi for sensitive transactions?**
+    - Generally, it's not recommended to use public Wi-Fi for sensitive transactions due to potential security risks. Use a VPN if necessary.

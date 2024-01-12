@@ -721,3 +721,65 @@ In conclusion, the journey into machine learning is ongoing and ever-evolving. T
 **Recurrent Neural Network (RNN):** A type of neural network well-suited to time series data or sequences (like language).
 
 **Supervised Learning:** A type of machine learning where the model is trained on a labeled dataset, which means the data is paired with the correct answer.
+
+## Frequently Asked Questions
+
+1. **What is Machine Learning?**
+   - Machine Learning is a subset of artificial intelligence that involves the development of algorithms that can learn and make predictions or decisions based on data.
+
+2. **What are the main types of Machine Learning?**
+   - Supervised Learning, Unsupervised Learning, Semi-supervised Learning, and Reinforcement Learning.
+
+3. **What is the difference between AI and Machine Learning?**
+   - AI is a broader concept concerning machines capable of performing tasks that seem intelligent, while Machine Learning is a subset of AI that focuses on algorithms that learn from and make predictions on data.
+
+4. **What is a neural network?**
+   - A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
+
+5. **What is deep learning?**
+   - Deep learning is a subset of Machine Learning that uses multi-layered neural networks to analyze various factors of data, often requiring substantial computing power.
+
+6. **What is supervised learning?**
+   - Supervised learning involves training a model on a labeled dataset, where the model learns to predict outcomes from input data.
+
+7. **What is unsupervised learning?**
+   - Unsupervised learning involves using models to identify patterns and relationships in datasets without any labels.
+
+8. **What are some common Machine Learning algorithms?**
+   - Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, K-Nearest Neighbors, and Neural Networks.
+
+9. **What is overfitting in Machine Learning?**
+   - Overfitting occurs when a model learns the detail and noise in the training data to the extent that it negatively impacts the performance of the model on new data.
+
+10. **What is underfitting in Machine Learning?**
+    - Underfitting occurs when a model is too simple — learning from the data too little — and thus performs poorly on both training and new data.
+
+11. **What is a training set in Machine Learning?**
+    - A training set is a subset of the dataset used to train a model.
+
+12. **What is a test set in Machine Learning?**
+    - A test set is a subset of the dataset used to test the trained model and evaluate its performance.
+
+13. **What are feature selection and feature engineering?**
+    - Feature selection is the process of selecting the most significant features from the dataset. Feature engineering is the process of creating new features from existing ones to improve model performance.
+
+14. **What is regularization in Machine Learning?**
+    - Regularization is a technique used to reduce overfitting by penalizing model complexity.
+
+15. **What is cross-validation in Machine Learning?**
+    - Cross-validation is a technique for evaluating the predictive performance of a statistical model by partitioning the original sample into a training set to train the model, and a test set to evaluate it.
+
+16. **What is a convolutional neural network (CNN)?**
+    - A CNN is a deep learning algorithm that can take an input image, assign importance to various aspects/objects in the image, and differentiate one from the other.
+
+17. **What is a recurrent neural network (RNN)?**
+    - RNNs are a type of neural network where connections between nodes form a directed graph along a temporal sequence, which allows it to exhibit temporal dynamic behavior.
+
+18. **What is bias in Machine Learning?**
+    - Bias in Machine Learning refers to the algorithm's tendency to consistently learn the wrong thing by not taking into account all the information in the data.
+
+19. **What is the role of data in Machine Learning?**
+    - Data is fundamental in Machine Learning; it's what models learn from. The quality, quantity, and variety of data determine how well a model can learn.
+
+20. **What are some challenges in Machine Learning?**
+    - Challenges include data quality and quantity, choosing the right algorithm, computational power requirements, model interpretability, and dealing with unstructured data.

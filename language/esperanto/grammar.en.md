@@ -717,3 +717,65 @@ Mastery of Esperanto opens up a world of opportunities for deeper cultural excha
 **Negacio** (Negation): The grammatical construction used to make a sentence negative in Esperanto, typically using "ne."
 
 **Numeralo** (Numeral): A word, phrase, or symbol that represents a number or a quantity.
+
+## Frequently Asked Questions
+
+1. **What is the basic word order in Esperanto?**
+   - Esperanto generally follows the Subject-Verb-Object (SVO) order, but it is quite flexible due to its clear case marking.
+
+2. **How are nouns formed in Esperanto?**
+   - Nouns end in '-o'. For example, 'hundo' means 'dog'.
+
+3. **How are adjectives formed and used?**
+   - Adjectives end in '-a' and generally precede the noun they describe, like 'granda hundo' (big dog).
+
+4. **How do you form plural nouns?**
+   - Plural nouns are formed by adding '-j', e.g., 'hundoj' means 'dogs'.
+
+5. **What are the definite and indefinite articles in Esperanto?**
+   - Esperanto has only a definite article 'la', similar to 'the' in English. There is no indefinite article.
+
+6. **How are verbs conjugated in Esperanto?**
+   - Verbs are not conjugated for person or number. They have one form for each tense: present (-as), past (-is), future (-os), conditional (-us), imperative (-u), and infinitive (-i).
+
+7. **How do you form adverbs?**
+   - Adverbs typically end in '-e', like 'rapide' (quickly).
+
+8. **Is gender marked in nouns?**
+   - Nouns are not gendered by default. Gender-specific words can be formed using '-in' for feminine.
+
+9. **How does negation work in Esperanto?**
+   - Negation is usually done with 'ne' placed before the verb, e.g., 'Mi ne scias' (I do not know).
+
+10. **How are questions formed in Esperanto?**
+    - Questions are formed by starting with a question word or by using a rising intonation without changing the word order.
+
+11. **What are the personal pronouns in Esperanto?**
+    - They include 'mi' (I), 'vi' (you), 'li' (he), 'ŝi' (she), 'ĝi' (it), 'ni' (we), 'ili' (they).
+
+12. **How does Esperanto handle possessives?**
+    - Possessives are formed by adding '-a' to the personal pronouns, like 'mia' (my).
+
+13. **Are there cases in Esperanto?**
+    - Esperanto has a nominative case (default) and an accusative case marked by '-n' for direct objects.
+
+14. **How are comparatives and superlatives formed?**
+    - Comparatives use 'pli' (more) and 'malpli' (less), and superlatives use 'plej' (most) and 'malplej' (least).
+
+15. **What are some common conjunctions?**
+    - Common conjunctions include 'kaj' (and), 'aŭ' (or), 'sed' (but), 'ĉar' (because).
+
+16. **How do you express possession?**
+    - Possession is expressed using 'de', similar to 'of' in English, e.g., 'la libro de Johano' (John's book).
+
+17. **Does Esperanto have irregular verbs?**
+    - No, Esperanto verbs are completely regular.
+
+18. **How is tense handled in compound sentences?**
+    - Tense in each clause of a compound sentence is independent, and consistency is similar to English.
+
+19. **What is the correlatives system in Esperanto?**
+    - Correlatives are a set of words that systematically cover a range of meanings like what, that, some, no, every, etc.
+
+20. **Are there dialects in Esperanto?**
+    - Esperanto doesn't have dialects in the traditional sense, but individual style variations exist.

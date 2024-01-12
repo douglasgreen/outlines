@@ -414,3 +414,65 @@ Understanding these status codes is crucial for web developers and system admini
 **API (Application Programming Interface):** A set of rules that allows different software entities to communicate with each other.
 
 **Webhook:** A method of augmenting or altering the behavior of a web page or web application with custom callbacks.
+
+## Frequently Asked Questions
+
+1. **What is HTTP?**
+   HTTP is a protocol used for transmitting documents on the World Wide Web. It defines command and control syntax used to fetch documents from the server to your browser.
+
+2. **How does HTTP work?**
+   HTTP works as a request-response protocol between a client and server. The client sends an HTTP request, and the server responds with the requested resource.
+
+3. **What's the difference between HTTP and HTTPS?**
+   HTTPS is the secure version of HTTP, where communications are encrypted using SSL/TLS. It's more secure and protects data from interception and tampering.
+
+4. **What is an HTTP request?**
+   An HTTP request is a message sent by the client to initiate an action on the server, usually to retrieve a resource.
+
+5. **What is an HTTP response?**
+   An HTTP response is the message sent by the server in reply to an HTTP request. It contains the status of the request and the requested content if available.
+
+6. **What are HTTP methods?**
+   HTTP methods, such as GET, POST, PUT, DELETE, etc., define the action to be performed on the requested resource.
+
+7. **What is a URL in HTTP?**
+   A URL (Uniform Resource Locator) is an address used to access a resource on a network via HTTP.
+
+8. **What are HTTP headers?**
+   HTTP headers are key-value pairs in both request and response messages that carry information about the HTTP transaction.
+
+9. **What is an HTTP cookie?**
+   An HTTP cookie is a small piece of data sent from a website and stored on the user's computer by the web browser while browsing.
+
+10. **What does HTTP 404 error mean?**
+    HTTP 404 is a standard response code indicating that the server couldn't find the requested resource.
+
+11. **What is HTTP caching?**
+    HTTP caching is a technique to store copies of resources for faster access upon subsequent requests.
+
+12. **What are HTTP sessions?**
+    HTTP sessions are a way to store data for individual users against a unique session ID.
+
+13. **What is an HTTP proxy?**
+    An HTTP proxy is an intermediary server between the client and the server, often used for caching or filtering.
+
+14. **How is data formatted in a POST request?**
+    In a POST request, data is typically formatted in key-value pairs, encoded in the body of the request.
+
+15. **What is REST in the context of HTTP?**
+    REST (Representational State Transfer) is an architectural style for designing networked applications, using stateless communication and standard HTTP methods.
+
+16. **What are safe HTTP methods?**
+    Safe HTTP methods, like GET and HEAD, do not alter the state of the server. They are used for retrieving data.
+
+17. **What is an HTTP status code?**
+    An HTTP status code is a number sent in response to a request to indicate the result of the operation.
+
+18. **Can HTTP handle video and audio streaming?**
+    While HTTP can be used for video and audio streaming, protocols like RTSP or WebSocket are often better suited for real-time streaming.
+
+19. **What is an HTTP/2?**
+    HTTP/2 is a major revision of the HTTP protocol focused on performance; its major goals are to reduce latency by enabling full request and response multiplexing.
+
+20. **Is HTTP stateful or stateless?**
+    HTTP is a stateless protocol, meaning each request from a client to server is treated as new, with no memory of previous interactions.

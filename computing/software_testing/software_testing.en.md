@@ -797,3 +797,65 @@ In conclusion, analyzing successful testing strategies and learning from real-wo
 **Defect**: Any flaw or imperfection in a software product.
 
 **Quality Assurance (QA)**: A systematic process of ensuring that a product or service meets specified requirements and is free of defects.
+
+## Frequently Asked Questions
+
+1. **What is software testing?**
+   Software testing is the process of evaluating and verifying that a software product or application does what it is supposed to do.
+
+2. **Why is software testing important?**
+   It ensures the quality, correctness, security, and usability of the software, thereby reducing bugs, improving performance, and increasing user satisfaction.
+
+3. **What are the different types of software testing?**
+   Common types include unit testing, integration testing, system testing, and acceptance testing.
+
+4. **What is the difference between functional and non-functional testing?**
+   Functional testing checks if the software performs as expected, while non-functional testing assesses attributes like performance, usability, and reliability.
+
+5. **What is manual testing?**
+   Manual testing involves a human actively testing the software to find defects. Testers use test plans to ensure thoroughness.
+
+6. **What is automated testing?**
+   Automated testing uses scripts and software tools to test the software, which is faster and more efficient for repetitive tasks.
+
+7. **What is a test case?**
+   A test case is a set of conditions or variables under which a tester determines if a system is working correctly.
+
+8. **What is regression testing?**
+   Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
+
+9. **What is a defect life cycle?**
+   The defect life cycle, or bug life cycle, is the journey of a defect from its identification to its closure.
+
+10. **What is black box testing?**
+    Black box testing is a method where the tester doesn't know the internal workings of the item being tested.
+
+11. **What is white box testing?**
+    White box testing involves testing internal structures or workings of an application, as opposed to its functionality.
+
+12. **What is alpha testing?**
+    Alpha testing is an internal test conducted before releasing the product to identify all possible issues/bugs.
+
+13. **What is beta testing?**
+    Beta testing is external testing by end-users or clients before the final release.
+
+14. **What is a test plan?**
+    A test plan is a detailed document that outlines the test strategy, objectives, schedule, estimation, deliverables, and resources required to perform testing.
+
+15. **What is a test scenario?**
+    A test scenario is a high-level documentation that describes what to test without detailing how to test.
+
+16. **What is performance testing?**
+    Performance testing measures the speed, responsiveness, and stability of a computer, network, software program, or device under a workload.
+
+17. **What is UAT (User Acceptance Testing)?**
+    UAT is the final phase of testing before releasing the application, where real users test the system to verify it can handle required tasks in real-world scenarios.
+
+18. **What is a bug or defect?**
+    A bug or defect is an error, flaw, failure, or fault in a computer program that causes it to produce an incorrect or unexpected result.
+
+19. **What is stress testing?**
+    Stress testing involves testing an application under extreme workloads to see how it handles high traffic or data processing.
+
+20. **What is smoke testing?**
+    Smoke testing is a preliminary test to reveal simple failures severe enough to reject a prospective software release.

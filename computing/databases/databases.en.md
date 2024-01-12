@@ -828,3 +828,65 @@ In summary, databases are integral to a multitude of industries, addressing vari
 **Join**: A SQL operation performed to combine data from two or more tables.
 
 **NoSQL Database**: A non-relational database that allows for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
+
+## Frequently Asked Questions
+
+1. **What is a database?**
+   - A database is an organized collection of data, generally stored and accessed electronically from a computer system.
+
+2. **What are the different types of databases?**
+   - Common types include relational, NoSQL, distributed, object-oriented, and graph databases.
+
+3. **What is a relational database?**
+   - A relational database is a type of database that stores and provides access to data points that are related to one another.
+
+4. **What is SQL?**
+   - SQL (Structured Query Language) is a programming language used to manage and manipulate data in a relational database.
+
+5. **What is a NoSQL database?**
+   - NoSQL databases are non-tabular databases that store data differently than relational tables and are often used for large sets of distributed data.
+
+6. **What is database normalization?**
+   - Database normalization is the process of organizing a database in a way that reduces redundancy and improves data integrity.
+
+7. **What is a primary key in a database?**
+   - A primary key is a unique identifier for each record in a database table.
+
+8. **What is a foreign key?**
+   - A foreign key is a field in a table that links to the primary key of another table, establishing a relationship between the two tables.
+
+9. **What is a database management system (DBMS)?**
+   - A DBMS is software that interacts with end users, applications, and the database itself to capture and analyze data.
+
+10. **What are some examples of popular databases?**
+    - Examples include MySQL, PostgreSQL, Oracle, Microsoft SQL Server, MongoDB, and SQLite.
+
+11. **What is data modeling?**
+    - Data modeling is the process of creating a data model for the data to be stored in a database.
+
+12. **What is a schema in a database?**
+    - A schema is the structure that defines the organization of data in a database, like a blueprint for how the database is constructed.
+
+13. **What is indexing in a database?**
+    - Indexing is a data structure technique to efficiently retrieve data from a database.
+
+14. **What is a transaction in a database?**
+    - A transaction is a sequence of operations performed as a single logical unit of work, either all of the operations are performed or none of them are.
+
+15. **What is ACID in databases?**
+    - ACID stands for Atomicity, Consistency, Isolation, and Durability, which are a set of properties that guarantee database transactions are processed reliably.
+
+16. **What is database replication?**
+    - Database replication is the process of copying data from one database to another to ensure consistency and support data recovery, load balancing, and distributed data processing.
+
+17. **What are stored procedures in a database?**
+    - Stored procedures are a set of SQL statements with an assigned name that's stored in the database in compiled form so that it can be shared by a number of programs.
+
+18. **What is a view in a database?**
+    - A view is a virtual table based on the result-set of an SQL statement. It contains rows and columns, just like a real table.
+
+19. **What is database security?**
+    - Database security refers to the range of tools, controls, and measures designed to establish and preserve database confidentiality, integrity, and availability.
+
+20. **What are triggers in a database?**
+    - Triggers are special types of stored procedures that are automatically executed or fired when certain events occur in a database.

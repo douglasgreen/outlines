@@ -722,3 +722,65 @@ In conclusion, the future of programming languages is a mosaic of continuous evo
 **Source Code:** The human-readable instructions and statements written by a programmer using a programming language, before it is compiled or interpreted into machine code.
 
 **Polymorphism:** An object-oriented programming concept that refers to the ability of different objects to respond in a unique way to the same functionality or method call.
+
+## Frequently Asked Questions
+
+1. **What is a programming language?**
+   - A programming language is a formal language comprising a set of instructions that produce various kinds of output and are used in computer programming to implement algorithms.
+
+2. **Which programming language should I learn first?**
+   - This depends on your goals. Python is often recommended for beginners due to its readability and wide range of applications.
+
+3. **What is the difference between compiled and interpreted languages?**
+   - Compiled languages are transformed into machine code before they are executed, while interpreted languages are executed line by line by an interpreter.
+
+4. **What are some of the most popular programming languages?**
+   - Popular languages include Python, JavaScript, Java, C#, and C++.
+
+5. **What is an algorithm?**
+   - An algorithm is a set of instructions designed to perform a specific task.
+
+6. **What is object-oriented programming (OOP)?**
+   - OOP is a programming paradigm based on the concept of “objects”, which can contain data and code: data in the form of fields, and code, in the form of procedures.
+
+7. **What is the difference between a programming language and a scripting language?**
+   - Scripting languages are generally used for shorter scripts compared to full computer applications. They are often interpreted rather than compiled.
+
+8. **How can I start learning a programming language?**
+   - Begin with online courses, tutorials, and practice by working on small projects or exercises.
+
+9. **What is a variable in programming?**
+   - A variable is a storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value.
+
+10. **What is source code?**
+    - Source code is a set of instructions and statements written by a programmer using a computer programming language.
+
+11. **What is an IDE (Integrated Development Environment)?**
+    - An IDE is a software application that provides comprehensive facilities to computer programmers for software development.
+
+12. **What are the basic concepts in programming?**
+    - Basic concepts include variables, data types, operators, control structures (like loops and conditional statements), and syntax.
+
+13. **What is a framework in programming?**
+    - A framework, in programming, is a platform for developing software applications. It provides a foundation on which software developers can build programs for a specific platform.
+
+14. **What is the difference between a function and a method?**
+    - A method is a function that belongs to a class, while a function is independent of objects.
+
+15. **What is debugging?**
+    - Debugging is the process of finding and resolving defects or problems within the code.
+
+16. **How important are algorithms in programming?**
+    - Algorithms are fundamental to programming, as they are the step-by-step instructions on how the task is to be executed.
+
+17. **What is recursion in programming?**
+    - Recursion in programming refers to a function calling itself in order to solve a problem.
+
+18. **What is 'Big O Notation'?**
+    - Big O Notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity, often used in computer science to describe the performance or complexity of an algorithm.
+
+19. **What is machine learning?**
+    - Machine learning is a field of artificial intelligence that uses statistical techniques to enable computer systems to 'learn' from data.
+
+20. **What is the difference between frontend and backend development?**
+    - Frontend development refers to building the user interface and user experience of a website or application, while backend development involves the server-side operations, database interactions, and application logic.

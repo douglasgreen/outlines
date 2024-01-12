@@ -1158,3 +1158,65 @@ Remember, mastering English grammar is a gradual process that benefits immensely
 **Inflection**: The modification of a word to express different grammatical categories.
 
 **Participle**: A word formed from a verb and used as an adjective or a noun; in English, present participles end in -ing and past participles often end in -ed, -d, -t, -en, or -n.
+
+## Frequently Asked Questions
+
+1. **What is the difference between 'its' and 'it's'?**
+   - 'Its' is a possessive form of 'it' (e.g., The cat licked its paw), while 'it's' is a contraction for 'it is' or 'it has' (e.g., It's raining).
+
+2. **How do you use 'there', 'their', and 'they're'?**
+   - 'There' refers to a place (e.g., Over there), 'their' is a possessive form (e.g., Their house), and 'they're' is a contraction of 'they are' (e.g., They're happy).
+
+3. **When should I use 'who' vs 'whom'?**
+   - Use 'who' as a subject (e.g., Who is there?) and 'whom' as an object (e.g., Whom did you see?).
+
+4. **What is the Oxford comma?**
+   - It's the final comma in a list, used before 'and' or 'or' (e.g., We bought apples, oranges, and bananas).
+
+5. **How do I use semicolons?**
+   - Use a semicolon to link two independent clauses that are closely related (e.g., It’s cold outside; I will wear a coat).
+
+6. **What’s the difference between 'affect' and 'effect'?**
+   - 'Affect' is usually a verb meaning to influence (e.g., The weather affects my mood), and 'effect' is a noun meaning the result (e.g., The effect of the weather is noticeable).
+
+7. **When should 'me', 'myself', and 'I' be used?**
+   - 'I' is a subject pronoun (e.g., I went to the store), 'me' is an object pronoun (e.g., He gave me the book), and 'myself' is a reflexive pronoun used for emphasis or to refer back to the subject (e.g., I did it myself).
+
+8. **How do you identify a clause?**
+   - A clause is a group of words with a subject and verb. An independent clause can stand alone as a sentence, while a dependent clause cannot.
+
+9. **What is a comma splice?**
+   - A comma splice is the incorrect use of a comma to join two independent clauses without a conjunction (e.g., It is sunny, we should go outside).
+
+10. **When to use 'fewer' vs 'less'?**
+    - 'Fewer' is used for countable items (e.g., Fewer apples), and 'less' is for uncountable quantities (e.g., Less sugar).
+
+11. **What is a split infinitive and is it acceptable?**
+    - A split infinitive occurs when an adverb is placed between 'to' and the verb (e.g., to boldly go). It's generally acceptable in modern English.
+
+12. **How do you use 'lie' and 'lay'?**
+    - 'Lie' means to recline (e.g., I lie down) and does not take an object, while 'lay' means to put or place something down and requires an object (e.g., Lay the book on the table).
+
+13. **What is the passive voice and when should it be used?**
+    - The passive voice occurs when the subject of the sentence is acted upon (e.g., The ball was thrown by John). Use it to emphasize the action or when the actor is unknown or irrelevant.
+
+14. **How do you use 'which' and 'that'?**
+    - 'Which' is used for non-restrictive clauses (with commas), giving extra information (e.g., The book, which is on the table, is mine). 'That' is used for restrictive clauses, essential to the meaning (e.g., The book that is on the table is mine).
+
+15. **What is a dangling modifier?**
+    - A dangling modifier is a word or phrase that modifies a word not clearly stated in the sentence (e.g., Walking to school, the flowers were beautiful).
+
+16. **How do you use 'among' and 'between'?**
+    - Use 'between' for distinct, individual items (even if there are more than two) and 'among' for groups or non-specific items (e.g., Choose between red, blue, and green; Divide the food among the children).
+
+17. **What is the subjunctive mood?**
+    - The subjunctive mood is used for wishes, hypotheticals, or statements contrary to fact (e.g., If I were a bird, I would fly).
+
+18. **What is the difference between 'can' and 'may'?**
+    - 'Can' implies ability or capacity (e.g., Can you lift this?), while 'may' suggests permission (e.g., May I leave the room?).
+
+19. **How do you use 'ensure', 'insure', and 'assure'?**
+    - 'Ensure' means to make sure, 'insure' relates to insurance, and 'assure' means to reassure or make someone confident (e.g., Ensure your safety; Insure your car; Assure her of your honesty).
+
+20. **What is a gerund?**
+    - A gerund is a verb form ending in '-ing' that functions as a noun (e.g., Swimming is fun).

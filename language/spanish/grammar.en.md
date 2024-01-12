@@ -811,3 +811,65 @@ Achieving fluency in Spanish is a continuous journey that involves consistent pr
 **Complemento (Complement)**: A word or phrase that completes the meaning of a predicate.
 
 **Participio (Participle)**: A form of a verb that is used in a sentence to modify a noun, noun phrase, verb, or verb phrase, and can also be used as an adjective.
+
+## Frequently Asked Questions
+
+1. **What is the difference between “ser” and “estar”?**
+   - “Ser” is used for permanent or lasting attributes, like identity or origin. “Estar” is for temporary states, locations, or conditions.
+
+2. **How do gender and number agreement work in Spanish?**
+   - Nouns have genders (masculine or feminine) and are either singular or plural. Adjectives and articles must match the gender and number of the nouns they describe.
+
+3. **What are the Spanish definite and indefinite articles?**
+   - Definite articles (the) are “el” (masculine singular), “la” (feminine singular), “los” (masculine plural), “las” (feminine plural). Indefinite articles (a, an, some) are “un” (masculine singular), “una” (feminine singular), “unos” (masculine plural), “unas” (feminine plural).
+
+4. **How do you form the past tense in Spanish?**
+   - There are two simple past tenses: Preterite (for completed actions) and Imperfect (for ongoing or repeated past actions).
+
+5. **What is the subjunctive mood and when is it used?**
+   - The subjunctive mood expresses wishes, doubts, hypotheticals, or non-real situations. It's often used after expressions of desire, emotion, doubt, or uncertainty.
+
+6. **What are reflexive verbs and how are they used?**
+   - Reflexive verbs indicate that the subject performs an action on itself. They are used with reflexive pronouns like “me”, “te”, “se”.
+
+7. **How do you form the future tense in Spanish?**
+   - The future tense is formed by adding endings to the infinitive form of the verb (e.g., hablaré, comerás).
+
+8. **What are direct and indirect object pronouns, and how are they used?**
+   - Direct object pronouns replace the noun directly receiving the action, while indirect object pronouns replace the noun indirectly affected by the action.
+
+9. **What is the difference between “por” and “para”?**
+   - “Por” is used for reasons or motives, means of doing something, or duration. “Para” is used for purposes, destinations, or deadlines.
+
+10. **How are questions formed in Spanish?**
+    - Invert the subject and verb and add question marks at the beginning and end of the sentence.
+
+11. **What are demonstrative adjectives in Spanish?**
+    - Demonstrative adjectives point out which noun you're talking about (this/these, that/those): este, esta, estos, estas, ese, esa, esos, esas.
+
+12. **How do you use possessive adjectives?**
+    - They show ownership or relationships between people. They agree in gender and number with the noun they modify (mi, tu, su, nuestro, vuestro).
+
+13. **What is the gerund and how is it used in Spanish?**
+    - The gerund is used for continuous actions, similar to the English -ing form. It's formed with -ando (for -ar verbs) or -iendo (for -er/-ir verbs).
+
+14. **How do you use “gustar” and similar verbs?**
+    - “Gustar” means “to be pleasing to”. Use it with indirect object pronouns (me, te, le, nos, os, les) to indicate who likes something.
+
+15. **What is the difference between “saber” and “conocer”?**
+    - “Saber” is used for knowing information or how to do something. “Conocer” is used for being familiar with people, places, or things.
+
+16. **How do you form the conditional tense in Spanish?**
+    - The conditional tense is formed by adding the endings -ía, -ías, -ía, -íamos, -íais, -ían to the infinitive.
+
+17. **What are prepositions and how are they used in Spanish?**
+    - Prepositions are words that link nouns, pronouns, or phrases to other words in a sentence (e.g., a, de, en, con, para, por).
+
+18. **How do you form negative sentences in Spanish?**
+    - Place “no” before the verb. If there are other negative words (nada, nadie, nunca), the “no” is sometimes omitted.
+
+19. **What are the comparative and superlative forms in Spanish?**
+    - Comparative: más/menos + adjective + que (more/less than). Superlative: el/la/los/las + más/menos + adjective (the most/least).
+
+20. **What is the imperative mood and how is it used?**
+    - The imperative mood is used for commands. The forms vary for tú, usted, nosotros, and vosotros commands.

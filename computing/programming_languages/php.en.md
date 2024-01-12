@@ -1478,3 +1478,65 @@ The future of PHP looks promising, with ongoing improvements and a strong commun
 **Composer**: A tool for dependency management in PHP, allowing users to manage libraries their project depends on.
 
 **Framework**: A platform for building PHP applications. Popular PHP frameworks include Laravel, Symfony, and CodeIgniter.
+
+## Frequently Asked Questions
+
+1. **What is PHP?**
+   - PHP (Hypertext Preprocessor) is a popular general-purpose scripting language especially suited for web development.
+
+2. **How do I install PHP?**
+   - PHP can be installed via package managers like `apt` for Linux, `brew` for macOS, or by downloading it from the official PHP website for Windows.
+
+3. **What is a PHP file?**
+   - A PHP file contains PHP code, which can include text, HTML, CSS, and JavaScript, and has a `.php` file extension.
+
+4. **How do I run a PHP script?**
+   - You can run a PHP script by uploading it to a web server with PHP installed, or locally using a software stack like XAMPP.
+
+5. **What is a variable in PHP?**
+   - A variable in PHP is a symbol or container that holds information, which can vary. It's declared with a `$` symbol.
+
+6. **How do I connect to a MySQL database in PHP?**
+   - Use MySQLi or PDO (PHP Data Objects) extension to connect to a MySQL database. These provide functions for database interaction.
+
+7. **How do I handle form data in PHP?**
+   - Form data is typically accessed in PHP using the `$_GET` and `$_POST` superglobals, depending on the form method.
+
+8. **What is a session in PHP?**
+   - A session in PHP is a way to store information across different web pages. It’s used for retaining user preferences or login details.
+
+9. **How do I send an email using PHP?**
+   - Use the `mail()` function to send emails from a PHP script. For advanced needs, consider libraries like PHPMailer.
+
+10. **What are PHP frameworks?**
+    - PHP frameworks are platforms to build PHP web applications. Examples include Laravel, Symfony, and CodeIgniter.
+
+11. **What is the difference between `echo` and `print` in PHP?**
+    - Both are used to output data. The differences are very minor: `echo` can take multiple parameters, whereas `print` can only take one and returns a value.
+
+12. **How do I handle errors in PHP?**
+    - Use functions like `error_reporting()`, `set_error_handler()`, and `trigger_error()` to handle and log errors.
+
+13. **What are PHP classes and objects?**
+    - Classes are blueprints for objects. An object is an instance of a class and is used in object-oriented programming.
+
+14. **How do I use arrays in PHP?**
+    - Arrays in PHP are used to store multiple values in a single variable. They can be indexed or associative arrays.
+
+15. **What are GET and POST methods in PHP?**
+    - GET and POST are methods to transfer data to the server. GET appends data to the URL, while POST sends data through the HTTP header.
+
+16. **How do I use cookies in PHP?**
+    - Cookies are used to store data on the client's computer. Use the `setcookie()` function to create and retrieve values from cookies.
+
+17. **What is PDO in PHP?**
+    - PDO (PHP Data Objects) is a database access layer providing a uniform method of access to multiple databases.
+
+18. **How do I upload files in PHP?**
+    - Use the HTML `form` tag with `enctype="multipart/form-data"` and PHP's `$_FILES` array to upload files.
+
+19. **What are namespaces in PHP?**
+    - Namespaces are a way of encapsulating items. They can be seen as a way of organizing PHP classes, interfaces, functions, and constants.
+
+20. **How do I use JSON in PHP?**
+    - Use `json_encode()` to convert a PHP array to JSON and `json_decode()` to convert JSON to a PHP array or object.

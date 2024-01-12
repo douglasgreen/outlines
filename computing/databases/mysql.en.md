@@ -946,3 +946,65 @@ In summary, the future of MySQL is closely tied to advancements in cloud service
 **Constraint**: Rules enforced on data columns on a table. They are used to prevent invalid data from being entered into the database.
 
 **Schema**: The structure of a database defined by its tables, views, relationships, and other elements.
+
+## Frequently Asked Questions
+
+1. **What is MySQL?**
+   MySQL is an open-source relational database management system (RDBMS) based on SQL (Structured Query Language).
+
+2. **How is MySQL different from SQL?**
+   SQL is a language used for managing and manipulating databases, whereas MySQL is a software that uses SQL for database management.
+
+3. **What are the main features of MySQL?**
+   MySQL offers features like high performance, reliability, easy-to-use, scalability, and is extensible.
+
+4. **How to create a database in MySQL?**
+   Use the command: `CREATE DATABASE database_name;`
+
+5. **How do you connect to a MySQL database?**
+   Use MySQL client tools or programming languages like PHP or Python with specific libraries or drivers.
+
+6. **What is a table in MySQL and how do you create one?**
+   A table is a collection of related data in a database. Create it with `CREATE TABLE table_name (column_definitions);`
+
+7. **What are indexes in MySQL?**
+   Indexes are special lookup tables that the database search engine can use to speed up data retrieval.
+
+8. **How do you add a column to an existing MySQL table?**
+   Use the command: `ALTER TABLE table_name ADD column_name datatype;`
+
+9. **What is a primary key in MySQL?**
+   A primary key is a unique identifier for each record in a table.
+
+10. **How to backup a MySQL database?**
+    Use the `mysqldump` command-line utility or MySQL Workbench.
+
+11. **What is normalization in MySQL?**
+    Normalization is the process of organizing data to reduce redundancy and improve data integrity.
+
+12. **What are joins in MySQL and what types are there?**
+    Joins are used to combine rows from two or more tables. Types include INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN.
+
+13. **How to delete a record in MySQL?**
+    Use `DELETE FROM table_name WHERE condition;`
+
+14. **What is a MySQL trigger?**
+    A trigger is a set of instructions that are automatically executed in response to certain events on a particular table.
+
+15. **How to import and export data in MySQL?**
+    Use `LOAD DATA INFILE` for import and `SELECT ... INTO OUTFILE` for export, or use tools like phpMyAdmin.
+
+16. **What is a stored procedure in MySQL?**
+    A stored procedure is a set of SQL statements that can be stored in the server and executed later.
+
+17. **How to update records in MySQL?**
+    Use `UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;`
+
+18. **What are transactions in MySQL?**
+    Transactions are a sequence of database operations that are treated as a single logical unit of work.
+
+19. **What is MySQL Workbench?**
+    MySQL Workbench is a unified visual tool for database architects, developers, and DBAs.
+
+20. **What is the difference between CHAR and VARCHAR data types in MySQL?**
+    CHAR is a fixed-length datatype, whereas VARCHAR is a variable-length datatype. CHAR is faster but can consume more storage space if the actual data is shorter than the specified length.

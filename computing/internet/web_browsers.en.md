@@ -371,3 +371,65 @@ In conclusion, web browsers, which started as a window to the World Wide Web, ar
 **VPN (Virtual Private Network):** A service that encrypts your internet traffic and protects your online identity.
 
 **Domain Name:** A label that identifies a network domain: a distinct group of computers under a central administration or authority.
+
+## Frequently Asked Questions
+
+1. **What is a web browser?**
+   - A web browser is a software application used to access and view websites on the internet.
+
+2. **What are the most popular web browsers?**
+   - Popular web browsers include Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, and Opera.
+
+3. **How do I clear my browser's cache and cookies?**
+   - Typically, you can clear cache and cookies through the settings or preferences menu in your browser, often found under a section like 'Privacy' or 'History'.
+
+4. **Can I have more than one browser on my computer?**
+   - Yes, you can install multiple browsers on your computer.
+
+5. **What is Incognito mode/Private browsing?**
+   - Incognito or Private Browsing is a privacy feature in some web browsers that disables browsing history and the web cache.
+
+6. **How do I update my web browser?**
+   - Most modern browsers update automatically. You can also manually update through the browser's settings or help menu.
+
+7. **What are browser extensions or add-ons?**
+   - Extensions or add-ons are software modules that add specific capabilities to a web browser.
+
+8. **Is using a web browser safe?**
+   - Web browsers are generally safe, but you should use security features and be cautious about the sites you visit.
+
+9. **Can I change the default search engine in my browser?**
+   - Yes, most browsers allow you to change the default search engine in their settings.
+
+10. **How do I set a homepage in my browser?**
+    - You can set a homepage through the browser's settings or preferences menu.
+
+11. **What is a browser cookie?**
+    - A cookie is a small piece of data sent from a website and stored on the user's computer by the web browser.
+
+12. **Why do some websites not load properly in my browser?**
+    - This could be due to outdated browser version, incompatible browser extensions, or issues with the website itself.
+
+13. **What does it mean to 'refresh' or 'reload' a webpage?**
+    - Refreshing or reloading a webpage re-loads the content from the web server, often used to ensure the most recent content is displayed.
+
+14. **How do I enable or disable JavaScript in my browser?**
+    - This can usually be done in the browser's settings or preferences, under sections like 'Privacy', 'Security', or 'Advanced'.
+
+15. **What are browser tabs?**
+    - Browser tabs allow you to have multiple web pages open in a single browser window.
+
+16. **How can I make text larger or smaller in my browser?**
+    - You can adjust text size through the browser's settings or by using keyboard shortcuts like Ctrl + and Ctrl -.
+
+17. **What is a URL?**
+    - URL (Uniform Resource Locator) is the address used to access a webpage. It's typically found at the top of a browser in the address bar.
+
+18. **How do I clear my browsing history?**
+    - You can clear your browsing history through the browser's settings or preferences menu, often under 'Privacy' or 'History'.
+
+19. **What is HTTPS and why is it important?**
+    - HTTPS (Hypertext Transfer Protocol Secure) is an internet communication protocol that protects the integrity and confidentiality of data. It's important for secure transactions.
+
+20. **Can I block ads in my browser?**
+    - Yes, you can block ads by using browser extensions specifically designed for ad-blocking.

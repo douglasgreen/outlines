@@ -947,3 +947,65 @@ In conclusion, the journey of learning Linux is ongoing and dynamic. The open-so
 **YUM (Yellowdog Updater, Modified)**: A package manager for RPM-compatible Linux systems, such as Red Hat and Fedora.
 
 **Systemd**: A system and service manager for Linux operating systems, responsible for initializing the system and managing system processes after booting.
+
+## Frequently Asked Questions
+
+1. **What is Linux?**
+   - Linux is an open-source operating system modeled on UNIX. It's widely used for its robustness, security, and flexibility.
+
+2. **Is Linux free?**
+   - Yes, Linux is free. You can download, use, and modify it without any cost.
+
+3. **How is Linux different from Windows?**
+   - Linux is open-source and more customizable than Windows. It's also generally more secure and less resource-intensive.
+
+4. **Can I run Windows programs on Linux?**
+   - Not natively, but tools like Wine or virtual machines can run some Windows programs on Linux.
+
+5. **What are Linux distributions (distros)?**
+   - Distros are various versions of Linux, each with its own set of software and user interface, like Ubuntu, Fedora, or Debian.
+
+6. **Can I use Linux for gaming?**
+   - Yes, though gaming support is more limited compared to Windows. Many games and platforms like Steam offer Linux support.
+
+7. **Is Linux difficult to use?**
+   - It depends on the distro. Some, like Ubuntu, are very user-friendly, while others might require more technical knowledge.
+
+8. **What is the terminal in Linux?**
+   - The terminal is a text-based interface to control and operate the system, useful for running commands and scripts.
+
+9. **Can Linux get viruses?**
+   - While less common than Windows, Linux can still get viruses. However, its security model makes it less vulnerable.
+
+10. **How do I install Linux?**
+    - Typically, by creating a bootable USB drive with the Linux distro and running the installer.
+
+11. **What is the kernel in Linux?**
+    - The kernel is the core part of Linux, managing system resources and hardware.
+
+12. **How do I update software in Linux?**
+    - Most distros have a package manager for updates, or you can update software through the terminal.
+
+13. **Can I run Linux on older hardware?**
+    - Yes, many lightweight Linux distros are designed for older or less powerful hardware.
+
+14. **What is open-source software?**
+    - Open-source software is software with source code that anyone can inspect, modify, and enhance.
+
+15. **How do I get help with Linux?**
+    - Through online communities, forums, official documentation, or various free resources available online.
+
+16. **What file system does Linux use?**
+    - Commonly, Linux uses file systems like ext4, but it supports a variety of file systems.
+
+17. **Can I use Microsoft Office on Linux?**
+    - Not natively, but alternatives like LibreOffice are available, and Office 365 can be used through a web browser.
+
+18. **What programming languages can I use on Linux?**
+    - Almost all major programming languages are supported on Linux.
+
+19. **Is Linux suitable for servers?**
+    - Yes, Linux is very popular for servers due to its stability and security.
+
+20. **How customizable is Linux?**
+    - Highly customizable, from visual themes to kernel modifications, depending on the user's skill level.

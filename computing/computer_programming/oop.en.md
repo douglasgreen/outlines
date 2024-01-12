@@ -1002,3 +1002,65 @@ In conclusion, the future of OOP involves adapting and integrating with other pr
 **Dependency Injection:**: A design pattern that allows a class to receive its dependencies from external sources rather than creating them itself.
 
 **Coupling:**: The degree of direct knowledge that one class has of another. Lower coupling (loose coupling) is generally preferable for better modularity and maintainability.
+
+## Frequently Asked Questions
+
+1. **What is Object-Oriented Programming (OOP)?**
+   - OOP is a programming paradigm based on the concept of "objects," which are data structures containing data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+
+2. **What are the main principles of OOP?**
+   - The four main principles are Encapsulation, Abstraction, Inheritance, and Polymorphism.
+
+3. **What is Encapsulation in OOP?**
+   - Encapsulation is the mechanism of hiding of data implementation by restricting access to public methods. Instance variables are kept private and accessor methods are made public.
+
+4. **What is Inheritance in OOP?**
+   - Inheritance allows a new class to inherit properties and methods from an existing class, enabling reuse and extension of existing code.
+
+5. **What is Polymorphism in OOP?**
+   - Polymorphism allows methods to do different things based on the object it is acting upon, even with the same name, enhancing flexibility and scalability.
+
+6. **What is Abstraction in OOP?**
+   - Abstraction involves the process of hiding complex implementation details and showing only the necessary features of the object.
+
+7. **What is a Class in OOP?**
+   - A class is a blueprint for creating objects, providing initial values for state (member variables or properties) and implementations of behavior (member functions or methods).
+
+8. **What is an Object in OOP?**
+   - An object is an instance of a class. It's a basic unit of OOP and represents real-world entities.
+
+9. **What are Methods in OOP?**
+   - Methods are functions defined inside the body of a class. They are used to define the behaviors of an object.
+
+10. **What are Constructors in OOP?**
+    - Constructors are special methods used to initialize objects. They are called when an object of a class is created.
+
+11. **What is Method Overloading?**
+    - Method Overloading is a feature that allows a class to have more than one method having the same name, if their parameter lists are different.
+
+12. **What is Method Overriding?**
+    - Method Overriding is a feature that allows a subclass to provide a specific implementation of a method that is already provided by one of its super-classes.
+
+13. **What is an Interface in OOP?**
+    - An interface is a completely abstract class that is used to group related methods with empty bodies.
+
+14. **What is a Destructor in OOP?**
+    - A destructor is a method which is automatically invoked when the object is destroyed. Its main purpose is to free the resources that the object may have acquired during its lifespan.
+
+15. **What is the difference between a Class and an Object?**
+    - A class is a blueprint or template from which objects are created. An object is an instance of a class.
+
+16. **How does OOP differ from procedural programming?**
+    - OOP is centered around objects and data, while procedural programming focuses on functions and sequence of actions.
+
+17. **What is Composition in OOP?**
+    - Composition is a design principle used to combine objects or data types into more complex ones.
+
+18. **What are Access Specifiers in OOP?**
+    - Access specifiers define how the members (methods and variables) of a class can be accessed. The most common are public, private, and protected.
+
+19. **What is the use of the 'this' keyword in OOP?**
+    - The 'this' keyword refers to the current instance of the class, often used to distinguish between class attributes and parameters with the same name.
+
+20. **What is a Static Method in OOP?**
+    - A static method is a method that belongs to the class, not to any specific object. It can be called without creating an instance of the class.

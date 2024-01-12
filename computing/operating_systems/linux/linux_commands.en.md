@@ -1159,3 +1159,65 @@ The future of Linux and the command line is intertwined with the broader trends 
 **Standard Input (stdin):** The data (usually text) inputted into a command or program.
 
 **Standard Error (stderr):** The output stream where a program writes its error messages.
+
+## Frequently Asked Questions
+
+1. **What is `ls` command?**
+   - Lists the contents of a directory.
+
+2. **How do you create a directory in Linux?**
+   - Use `mkdir [directory_name]`.
+
+3. **What does the `cd` command do?**
+   - Changes the current directory.
+
+4. **How can you view the contents of a file?**
+   - Use `cat [file_name]` for a quick view.
+
+5. **What is the `cp` command?**
+   - Copies files or directories.
+
+6. **How do you move or rename a file in Linux?**
+   - Use `mv [source] [destination]` for moving or renaming.
+
+7. **What does the `rm` command do?**
+   - Removes files or directories.
+
+8. **How can you find files in Linux?**
+   - Use `find [path] [options] [expression]`.
+
+9. **What is the `grep` command?**
+   - Searches text using patterns.
+
+10. **How do you display the contents of a file page by page?**
+    - Use `less [file_name]` or `more [file_name]`.
+
+11. **What is the `chmod` command?**
+    - Changes the file mode (permissions).
+
+12. **How do you view running processes?**
+    - Use `ps` or `top`.
+
+13. **What does `sudo` do?**
+    - Executes commands with superuser privileges.
+
+14. **How do you change file ownership?**
+    - Use `chown [owner][:group] [file]`.
+
+15. **What is `tar` command used for?**
+    - Used to compress or extract files.
+
+16. **How can you download files from the Internet in Linux?**
+    - Use `wget [URL]` or `curl [URL]`.
+
+17. **What is the `echo` command?**
+    - Displays a line of text.
+
+18. **How do you kill a process?**
+    - Use `kill [pid]` or `killall [process_name]`.
+
+19. **What is the `df` command?**
+    - Shows disk space usage.
+
+20. **How can you compare two files?**
+    - Use `diff [file1] [file2]`.

@@ -1347,3 +1347,65 @@ Real-world projects and case studies offer invaluable insights into how CSS can 
 **Media Query**: A technique used in responsive web design to apply different styles for different devices or screen sizes.
 
 **Specificity**: A measure of how precise a selector is in targeting elements, which determines which styles are applied when there is a conflict.
+
+## Frequently Asked Questions
+
+1. **What is CSS?**
+   - CSS (Cascading Style Sheets) is a language used for describing the presentation of a document written in HTML or XML, including colors, layout, and fonts.
+
+2. **How do I link CSS to an HTML page?**
+   - Use the `<link>` element in the HTML `<head>` section: `<link rel="stylesheet" type="text/css" href="mystyle.css">`.
+
+3. **What are selectors in CSS?**
+   - Selectors are patterns used to select the elements you want to style.
+
+4. **What is the difference between class and ID selectors?**
+   - A class selector can be used on multiple elements and is denoted by a dot (.), whereas an ID selector is unique to a single element and is denoted by a hash (#).
+
+5. **How can I center a div in CSS?**
+   - Use `margin: auto;` along with a specified width on the div.
+
+6. **What is the box model in CSS?**
+   - It's a layout model that consists of margins, borders, padding, and the actual content.
+
+7. **How do I apply a style to multiple selectors?**
+   - Group selectors by separating them with commas, e.g., `h1, h2, .class { style properties }`.
+
+8. **What are pseudo-classes in CSS?**
+   - Pseudo-classes are keywords added to selectors that specify a special state of the selected elements, e.g., `:hover`, `:focus`.
+
+9. **How do I create a responsive design with CSS?**
+   - Use media queries to apply different styles for different screen sizes.
+
+10. **What is Flexbox in CSS?**
+    - Flexbox is a layout model that allows responsive elements within a container to be automatically arranged depending upon screen size.
+
+11. **How do I override styles in CSS?**
+    - Use more specific selectors, inline styles, or the `!important` rule, but use the latter sparingly.
+
+12. **What are CSS animations?**
+    - CSS animations enable the transition from one CSS style configuration to another.
+
+13. **How do I include comments in CSS?**
+    - Comments in CSS are made with `/* comment */`.
+
+14. **What is the difference between `px`, `em`, and `rem` units?**
+    - `px` is an absolute unit, `em` is relative to the font-size of the parent, and `rem` is relative to the root font-size.
+
+15. **How can I use a Google Font in my webpage?**
+    - Include a link to the Google Font in your HTML and then specify the font in your CSS.
+
+16. **What is a CSS framework?**
+    - A CSS framework is a pre-prepared library that is meant to be used as a base for HTML/CSS projects.
+
+17. **What is the purpose of the `display` property?**
+    - The `display` property specifies the display behavior (the type of rendering box) of an element.
+
+18. **How do I create a dropdown menu in CSS?**
+    - Use the `:hover` pseudo-class on the parent item and style the child menu items.
+
+19. **What is the use of the `z-index` property?**
+    - The `z-index` property controls the vertical stacking order of elements that overlap.
+
+20. **What are media queries in CSS?**
+    - Media queries are a feature of CSS that allow content rendering to adapt to different conditions such as screen resolution (e.g., desktop vs mobile).

@@ -637,3 +637,65 @@ In summary, the field of economics is dynamic and ever-evolving, reflecting chan
 **Microeconomics**: The part of economics concerned with single factors and the effects of individual decisions.
 
 **Macroeconomics**: The branch of economics dealing with the performance, structure, behavior, and decision-making of an economy as a whole, rather than individual markets.
+
+## Frequently Asked Questions
+
+1. **What is economics?**
+   - Economics is the social science that studies how individuals, businesses, governments, and societies make choices about allocating scarce resources to satisfy their wants and needs.
+
+2. **What are the main branches of economics?**
+   - The two main branches are microeconomics, which focuses on the behavior of individuals and businesses, and macroeconomics, which examines the economy as a whole, including issues like inflation, unemployment, and economic growth.
+
+3. **What is GDP and why is it important?**
+   - GDP (Gross Domestic Product) measures the total value of goods and services produced within a country's borders in a specific time period. It's important as it's a primary indicator of a country's economic health and growth.
+
+4. **What causes inflation?**
+   - Inflation is generally caused by an increase in the money supply or a decrease in the supply of goods and services, leading to higher prices.
+
+5. **What is the difference between fiscal policy and monetary policy?**
+   - Fiscal policy involves government spending and taxation decisions made by a government. Monetary policy involves controlling the money supply and interest rates and is typically managed by a country's central bank.
+
+6. **What is a recession?**
+   - A recession is a significant decline in economic activity spread across the economy, lasting more than a few months, normally visible in GDP, real income, employment, industrial production, and wholesale-retail sales.
+
+7. **How do exchange rates work?**
+   - Exchange rates are the rates at which one currency can be exchanged for another. They fluctuate based on factors like interest rates, economic stability, and inflation.
+
+8. **What is a trade deficit?**
+   - A trade deficit occurs when a country imports more goods and services than it exports.
+
+9. **What is opportunity cost?**
+   - Opportunity cost refers to the cost of choosing one option over another, typically the most valued alternative given up.
+
+10. **What is supply and demand?**
+    - Supply and demand is a fundamental economic model that explains how prices are determined in a market economy based on the availability of goods (supply) and the desire for them (demand).
+
+11. **What is a market economy?**
+    - A market economy is an economic system where supply and demand from consumers drive the production of goods and services.
+
+12. **What are externalities?**
+    - Externalities are side effects or consequences of commercial activities not reflected in the cost of the goods or services involved, affecting other parties who did not choose to incur that cost or benefit.
+
+13. **What is a monopoly?**
+    - A monopoly exists when a single company or group owns all or nearly all of the market for a given type of product or service.
+
+14. **What are tariffs and why are they used?**
+    - Tariffs are taxes imposed on imported goods, usually to raise revenue and to protect domestic industries from foreign competition.
+
+15. **What is the difference between nominal and real GDP?**
+    - Nominal GDP measures a country's economic output without adjusting for inflation, while real GDP takes inflation into account, providing a more accurate measure of economic performance over time.
+
+16. **What is a budget deficit?**
+    - A budget deficit occurs when a government spends more money than it takes in through taxes and other revenues.
+
+17. **What is Keynesian economics?**
+    - Keynesian economics is a theory that argues for active government intervention in the economy, particularly during recessions, through fiscal and monetary policies to stabilize output.
+
+18. **What are interest rates and how do they affect the economy?**
+    - Interest rates are the cost of borrowing money. They affect consumer and business spending, inflation, and the overall economic growth.
+
+19. **What is the role of a central bank?**
+    - The central bank regulates the country's monetary policy, controls inflation, prints money, and often acts as a lender of last resort to the banking sector during times of financial crisis.
+
+20. **What is economic globalization?**
+    - Economic globalization refers to the increasing interdependence of world economies as a result of the growing scale of cross-border trade of commodities and services, flow of international capital, and wide and rapid spread of technologies.

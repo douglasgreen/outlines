@@ -867,3 +867,65 @@ Looking towards the future, we find ourselves at a crossroads, with the potentia
 **World War II**: A global war that lasted from 1939 to 1945, involving the majority of the world's nations—including all of the great powers—eventually forming two opposing military alliances: the Allies and the Axis.
 
 **Cold War**: A state of geopolitical tension after World War II between powers in the Eastern Bloc (the Soviet Union and its satellite states) and powers in the Western Bloc (the United States, its NATO allies, and others).
+
+## Frequently Asked Questions
+
+1. **What was the first civilization?**
+   The Sumerians in Mesopotamia are considered one of the first civilizations, dating back to around 4500 BC.
+
+2. **Who built the pyramids in Egypt?**
+   The Egyptian pyramids were built by a large workforce of skilled laborers, not slaves, during the Old and Middle Kingdom periods.
+
+3. **What caused the fall of the Roman Empire?**
+   The fall of the Roman Empire was due to a combination of factors, including economic troubles, military defeats, and internal strife.
+
+4. **What was the Black Death?**
+   The Black Death was a devastating global epidemic of bubonic plague that struck Europe and Asia in the mid-1300s.
+
+5. **What was the Renaissance?**
+   The Renaissance was a period of European cultural, artistic, political and economic “rebirth” following the Middle Ages, generally dated from the 14th to the 17th century.
+
+6. **Who discovered America?**
+   The Americas were first populated by people crossing the Bering Land Bridge from Asia; Christopher Columbus in 1492 is often credited with “discovering” America, but he was not the first European to reach its shores.
+
+7. **What caused World War I?**
+   World War I was caused by a complex set of factors including militarism, alliances, imperialism, and nationalism, sparked by the assassination of Archduke Franz Ferdinand.
+
+8. **What was the Holocaust?**
+   The Holocaust was a genocide during World War II in which Nazi Germany, aided by collaborators, systematically murdered six million European Jews.
+
+9. **Who was Genghis Khan?**
+   Genghis Khan was the founder and first Great Khan of the Mongol Empire, which became the largest contiguous empire in history after his death.
+
+10. **What was the Industrial Revolution?**
+    The Industrial Revolution was a period of major industrialization that took place during the late 1700s and early 1800s.
+
+11. **What caused the Cold War?**
+    The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, caused by political and ideological differences.
+
+12. **What was the significance of the Magna Carta?**
+    The Magna Carta, signed in 1215, limited the power of the English monarchy and is considered a cornerstone in the development of democratic England.
+
+13. **What was the French Revolution?**
+    The French Revolution was a period of radical social and political upheaval in France from 1789 to 1799, leading to the rise of Napoleon Bonaparte.
+
+14. **Who was Julius Caesar?**
+    Julius Caesar was a Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.
+
+15. **What was the Silk Road?**
+    The Silk Road was an ancient network of trade routes that connected the East and West, important for cultural, commercial, and technological exchange.
+
+16. **What was the Age of Exploration?**
+    The Age of Exploration was a period from the early 15th century and continuing into the early 17th century, during which European ships traveled around the world to search for new trading routes and partners.
+
+17. **What happened in the Russian Revolution?**
+    The Russian Revolution of 1917 was a pair of revolutions in Russia which dismantled the Tsarist autocracy and led to the rise of the Soviet Union.
+
+18. **Who was Cleopatra?**
+    Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt, known for her relationships with Roman leaders Julius Caesar and Mark Antony.
+
+19. **What was the Great Wall of China built for?**
+    The Great Wall was built to protect the Chinese states and empires against the raids and invasions of the various nomadic groups from the Eurasian Steppe.
+
+20. **What was the significance of the Gutenberg Printing Press?**
+    Invented by Johannes Gutenberg in the 15th century, the printing press allowed for the mass production of books, which significantly impacted the spread of knowledge and literacy.

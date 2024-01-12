@@ -656,3 +656,65 @@ In conclusion, the law is a dynamic and integral part of society, shaping and be
 **Habeas Corpus:** A legal action or writ by means of which detainees can seek relief from unlawful imprisonment.
 
 **Subpoena:** A legal document ordering someone to attend a court to give evidence or to produce documents relevant to a case.
+
+## Frequently Asked Questions
+
+1. **What is a contract?**
+   - A contract is a legally binding agreement between two or more parties, enforceable by law.
+
+2. **How do I create a will?**
+   - To create a will, clearly state your decisions about your assets and dependents, and ensure it's signed, witnessed, and in some jurisdictions, notarized.
+
+3. **What is the difference between civil and criminal law?**
+   - Civil law deals with disputes between individuals or organizations, while criminal law deals with acts harmful to society, prosecuted by the government.
+
+4. **What are intellectual property rights?**
+   - Intellectual property rights protect creations of the mind, such as inventions, literary works, designs, and symbols.
+
+5. **How do I file for divorce?**
+   - Filing for divorce typically involves submitting a petition to a family court and fulfilling specific legal and residency requirements.
+
+6. **What is negligence in legal terms?**
+   - Negligence is the failure to take reasonable care to avoid causing injury or loss to another person.
+
+7. **What does 'pleading the Fifth' mean?**
+   - "Pleading the Fifth" refers to the right to refuse to answer questions to avoid self-incrimination, as protected by the Fifth Amendment in the U.S. Constitution.
+
+8. **What is a power of attorney?**
+   - A power of attorney is a legal document that gives someone else the authority to act on your behalf in legal, financial, or medical matters.
+
+9. **What is a class action lawsuit?**
+   - A class action lawsuit is a legal action filed by a group of people against a defendant, typically for similar grievances.
+
+10. **How does the jury system work?**
+    - In a jury trial, a group of citizens (the jury) is selected to hear the evidence and make a decision in a legal case.
+
+11. **What is bankruptcy?**
+    - Bankruptcy is a legal process for individuals or businesses that cannot repay their outstanding debts.
+
+12. **What is the statute of limitations?**
+    - The statute of limitations is the time limit within which legal proceedings must be initiated.
+
+13. **What is a legal precedent?**
+    - A legal precedent is a previous court decision that serves as a rule or example in subsequent similar cases.
+
+14. **What is arbitration?**
+    - Arbitration is a form of alternative dispute resolution where a neutral third party (arbitrator) makes a decision to resolve a dispute, outside of court.
+
+15. **How does one become a lawyer?**
+    - To become a lawyer, one typically needs to complete a law degree, pass a bar exam, and fulfill other state or national licensing requirements.
+
+16. **What is eminent domain?**
+    - Eminent domain is the power of the government to take private property for public use, with compensation to the owner.
+
+17. **What is a misdemeanor versus a felony?**
+    - A misdemeanor is a less serious crime with lighter penalties, while a felony is a more serious crime with harsher penalties.
+
+18. **What is the role of a notary public?**
+    - A notary public is an official authorized to perform certain legal formalities, especially witnessing signatures on documents.
+
+19. **How are laws made?**
+    - Laws are made through a legislative process, which involves drafting, debating, and passing bills, which are then signed into law by a government executive.
+
+20. **What is legal aid?**
+    - Legal aid is professional legal assistance provided at no cost or a reduced cost to those who cannot afford it.

@@ -1047,3 +1047,65 @@ Advanced proficiency in German involves understanding and using complex grammati
 **Imperativ (Imperative Mood)**: Used for commands or requests.
 
 **Relativsatz (Relative Clause)**: A clause that modifies a noun or pronoun, often introduced by a relative pronoun like 'der', 'die', 'das' (who, which).
+
+## Frequently Asked Questions
+
+1. **What are the cases in German?**
+   - There are four cases: Nominative (subject), Accusative (direct object), Dative (indirect object), and Genitive (possession).
+
+2. **How do you know the gender of a noun in German?**
+   - Nouns can be masculine, feminine, or neuter. Gender is often determined by the word's ending, but there are exceptions, and it sometimes must be memorized.
+
+3. **What is the difference between 'du' and 'Sie'?**
+   - 'du' is the informal 'you' used with family, friends, and children. 'Sie' is the formal 'you' used in formal settings or with strangers.
+
+4. **How do you form the plural of nouns in German?**
+   - Plurals can be formed in several ways, often by adding -en, -e, -er, or -s to the end of the noun, but there are many irregular forms.
+
+5. **How do verbs conjugate in German?**
+   - Verbs are conjugated according to the subject's person and number, and they vary in present, past, and future tenses.
+
+6. **What is the word order in German sentences?**
+   - The basic word order is Subject-Verb-Object, but it can change in questions and subordinate clauses.
+
+7. **What are separable and inseparable verbs in German?**
+   - Separable verbs split into two parts in a sentence, while inseparable verbs do not. For example, 'aufstehen' (to stand up) is separable.
+
+8. **How do you form the past tense in German?**
+   - The past tense can be formed using the simple past (mostly for written language) or the present perfect (more common in spoken language).
+
+9. **What is the subjunctive mood in German?**
+   - The subjunctive, Konjunktiv, is used for indirect speech, polite requests, and hypothetical situations.
+
+10. **What is the difference between 'der', 'die', and 'das'?**
+    - They are definite articles for masculine, feminine, and neuter nouns, respectively.
+
+11. **How do you form questions in German?**
+    - Usually, by placing the verb before the subject or using question words like 'was' (what), 'warum' (why), 'wer' (who).
+
+12. **What are modal verbs in German and how do they work?**
+    - Modal verbs (like 'können', 'müssen') express ability, necessity, permission, etc. They are used alongside another verb in its infinitive form.
+
+13. **What is the difference between 'kennen' and 'wissen'?**
+    - 'Kennen' means to be familiar with someone or something, while 'wissen' means to know a fact.
+
+14. **How does negation work in German?**
+    - Negation is usually formed with 'nicht' (not) or 'kein' (no, none).
+
+15. **What is the difference between 'dass' and 'das'?**
+    - 'dass' is a conjunction meaning 'that', while 'das' is a definite article or demonstrative pronoun meaning 'the' or 'that'.
+
+16. **How are adjectives declined in German?**
+    - Adjectives are declined based on the gender, number, and case of the noun they describe, and whether a definite or indefinite article is used.
+
+17. **What are prepositions and how are they used in German?**
+    - Prepositions indicate relationships between words and must be memorized as they govern the case of the nouns or pronouns they accompany.
+
+18. **What is the difference between 'sein' and 'haben' in forming past tenses?**
+    - 'Sein' is used with movement verbs and state change verbs, while 'haben' is used with other verbs to form the present perfect tense.
+
+19. **How does reflexive verb usage work in German?**
+    - Reflexive verbs are used with reflexive pronouns and indicate that the subject is performing an action on itself.
+
+20. **What are compound nouns and how are they formed?**
+    - Compound nouns are formed by combining two or more nouns, often creating a new meaning. The gender of the compound noun is determined by the last noun in the combination.

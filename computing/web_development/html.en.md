@@ -1127,3 +1127,65 @@ In conclusion, the future of HTML is intertwined with the advancements in web te
 **Input**: Used to create interactive controls for web-based forms, like text fields, checkboxes, and buttons, like `<input>`.
 
 **Form**: Used for creating forms to collect user input, like `<form>`.
+
+## Frequently Asked Questions
+
+1. **What is HTML?**
+   - HTML stands for Hypertext Markup Language. It's the standard markup language used to create web pages.
+
+2. **What is the purpose of HTML?**
+   - HTML is used to structure a web page and its content. It defines the meaning and structure of web content.
+
+3. **What is an HTML element?**
+   - An HTML element is an individual component of an HTML document. It represents semantics, or meaning, like a paragraph (`<p>`), a heading (`<h1>`), or a list (`<ul>` or `<ol>`).
+
+4. **What is an HTML tag?**
+   - HTML tags are the building blocks of HTML. They are used to define elements by marking the start and end of an element (`<tagname>` for start, `</tagname>` for end).
+
+5. **What is the structure of a basic HTML document?**
+   - A basic HTML document starts with a `<!DOCTYPE html>` declaration, followed by a `<html>` element, with a `<head>` section for metadata and a `<body>` section for the content of the page.
+
+6. **What is the difference between an element and a tag?**
+   - An element is the complete structure, including the start tag, content, and end tag. A tag is either the start or end part of an element in HTML.
+
+7. **How do you create a hyperlink in HTML?**
+   - Hyperlinks are created using the `<a>` tag, with the `href` attribute specifying the link's destination.
+
+8. **How do you insert an image in HTML?**
+   - Images are inserted using the `<img>` tag, with the `src` attribute specifying the path to the image file.
+
+9. **What are HTML attributes?**
+   - Attributes provide additional information about elements. They are always specified in the start tag and usually come in name/value pairs like `name="value"`.
+
+10. **How can you create a table in HTML?**
+    - Tables are created using the `<table>` element, with `<tr>` for table rows, `<th>` for table headers, and `<td>` for table data.
+
+11. **What is the purpose of the `<div>` tag in HTML?**
+    - The `<div>` tag is a container used to group other HTML elements and apply CSS styling and JavaScript to them.
+
+12. **How do you use comments in HTML?**
+    - Comments in HTML are written inside `<!-- and -->` tags. They are not displayed in the browser but help in code documentation.
+
+13. **What are inline and block elements in HTML?**
+    - Inline elements do not start on a new line and only take up as much width as necessary. Block elements start on a new line and take up the full width available.
+
+14. **What is the purpose of the `<head>` tag in HTML?**
+    - The `<head>` tag contains metadata about the document, including the title of the page, links to stylesheets, scripts, and other meta information.
+
+15. **How do you create a list in HTML?**
+    - Lists are created using the `<ul>` tag for unordered lists, `<ol>` for ordered lists, and `<li>` for list items.
+
+16. **What is the purpose of the `<!DOCTYPE>` declaration?**
+    - The `<!DOCTYPE>` declaration is an instruction to the web browser about the version of HTML the page is written in.
+
+17. **How do you add CSS to an HTML document?**
+    - CSS can be added to HTML documents in three ways: inline (via the `style` attribute), internal (via the `<style>` tag in the `<head>`), or external (linking to an external CSS file using the `<link>` tag).
+
+18. **What is an iframe in HTML?**
+    - An iframe (Inline Frame) is an HTML document embedded inside another HTML document on a website. It is used to insert content from another source, like a video or map.
+
+19. **How do you create a form in HTML?**
+    - Forms are created using the `<form>` tag, with various form elements like `<input>`, `<textarea>`, and `<button>`.
+
+20. **What are HTML5 and its advantages?**
+    - HTML5 is the latest version of HTML. It offers new elements, attributes, and behaviors, with a greater emphasis on multimedia, mobile accessibility, and semantic HTML.

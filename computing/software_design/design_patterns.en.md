@@ -3261,3 +3261,65 @@ In summary, design patterns will continue to play a vital role in software devel
 **Flyweight**: Uses sharing to support large numbers of fine-grained objects efficiently.
 
 **Bridge**: Decouples an abstraction from its implementation so that the two can vary independently.
+
+## Frequently Asked Questions
+
+1. **What are software design patterns?**
+   - Design patterns are standard solutions to common problems in software design. They are templates or guidelines used to solve issues that are encountered frequently during software development.
+
+2. **Why are design patterns important?**
+   - Design patterns provide a proven solution to common problems, promote code reusability, improve readability, and enhance maintainability.
+
+3. **Can you give examples of some common design patterns?**
+   - Common examples include Singleton, Factory, Observer, Strategy, and Decorator patterns.
+
+4. **What is the Singleton pattern?**
+   - The Singleton pattern ensures a class has only one instance and provides a global point of access to it.
+
+5. **What is the Factory pattern?**
+   - The Factory pattern creates objects without specifying the exact class of object that will be created.
+
+6. **How is the Strategy pattern used?**
+   - The Strategy pattern is used to create a family of algorithms, encapsulate each one, and make them interchangeable.
+
+7. **What is the Observer pattern?**
+   - The Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+
+8. **What is the Decorator pattern?**
+   - The Decorator pattern allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class.
+
+9. **What is the difference between Creational, Structural, and Behavioral patterns?**
+   - Creational patterns deal with object creation, Structural patterns deal with object composition, and Behavioral patterns characterize the ways in which objects interact and distribute responsibility.
+
+10. **Can design patterns be combined?**
+    - Yes, design patterns can be combined to solve complex problems.
+
+11. **How do design patterns improve code maintainability?**
+    - By using standardized solutions, design patterns make code more organized and understandable, thereby easing maintenance.
+
+12. **Are design patterns language-specific?**
+    - No, design patterns are not specific to any programming language. They are concepts that can be implemented in any language.
+
+13. **What is the Model-View-Controller (MVC) pattern?**
+    - MVC is a design pattern used to separate application's concerns into three parts: the model (data), the view (user interface), and the controller (business logic).
+
+14. **What is the Adapter pattern?**
+    - The Adapter pattern allows the interface of an existing class to be used as another interface.
+
+15. **How does the Builder pattern work?**
+    - The Builder pattern separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+16. **What is the Prototype pattern?**
+    - The Prototype pattern is used to create duplicate objects while keeping performance in mind. It involves copying existing objects.
+
+17. **How do design patterns differ from frameworks or libraries?**
+    - Design patterns are guidelines for solving common problems, while frameworks and libraries are concrete implementations that you can directly use in your code.
+
+18. **Are design patterns only useful for object-oriented programming?**
+    - While they are most commonly used in object-oriented programming, some patterns can be applicable in other programming paradigms as well.
+
+19. **Can design patterns be harmful if misused?**
+    - Yes, inappropriate use of design patterns can lead to overly complex code and can degrade performance.
+
+20. **How should one choose an appropriate design pattern?**
+    - The choice should be based on the specific problem being solved, considering factors like the application’s design, maintainability, and performance requirements.

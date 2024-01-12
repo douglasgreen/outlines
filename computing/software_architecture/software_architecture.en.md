@@ -740,3 +740,65 @@ In summary, continuous learning in software architecture involves a combination 
 **Modularity**: The degree to which a system's components may be separated and recombined.
 
 **High Availability**: The ability of a system to operate continuously without failing for a designated period of time.
+
+## Frequently Asked Questions
+
+1. **What is Software Architecture?**
+   - It's a high-level structure of a software system that defines how software components interact with each other.
+
+2. **Why is Software Architecture important?**
+   - It provides a blueprint for a system, ensuring scalability, performance, and maintainability.
+
+3. **What are the key principles of Software Architecture?**
+   - Key principles include separation of concerns, modularity, scalability, reusability, and security.
+
+4. **What is the difference between Software Architecture and Software Design?**
+   - Software Architecture focuses on high-level structure and policies, while Software Design deals with lower-level aspects like algorithm efficiency and data structure.
+
+5. **What are architectural patterns?**
+   - Architectural patterns are proven general solutions to recurring problems in software architecture, like MVC (Model-View-Controller) or Microservices.
+
+6. **What is a Microservices Architecture?**
+   - It's an approach where a single application is composed of many small, independent services that communicate over well-defined APIs.
+
+7. **What is Monolithic Architecture?**
+   - It refers to a single-tiered software application where different components are interconnected and interdependent.
+
+8. **How does Cloud Computing impact Software Architecture?**
+   - Cloud computing allows for more scalable, flexible, and cost-effective architectures, like serverless or cloud-native designs.
+
+9. **What is the role of a Software Architect?**
+   - A Software Architect makes key decisions regarding the high-level design and guides the development team in implementing the architecture.
+
+10. **What are non-functional requirements and how do they affect Software Architecture?**
+    - Non-functional requirements are system attributes like security, performance, and scalability, greatly influencing the architectural choices.
+
+11. **How important is scalability in Software Architecture?**
+    - Scalability is crucial for handling growth in users and data, ensuring the system performs well under increased loads.
+
+12. **What is a Layered Architecture?**
+    - It’s an architectural style where software is organized into layers, each with a specific role and responsibility.
+
+13. **How do Software Architecture and Business Strategy align?**
+    - Software Architecture should support the business strategy, enabling agility, cost-efficiency, and market responsiveness.
+
+14. **What is the significance of API design in Software Architecture?**
+    - Well-designed APIs ensure effective communication between different software components and external systems.
+
+15. **How does DevOps relate to Software Architecture?**
+    - DevOps practices, like continuous integration and delivery, influence architectural decisions to support rapid and reliable deployment.
+
+16. **What are the best practices for ensuring Security in Software Architecture?**
+    - Practices include implementing secure design principles, regular security testing, and adhering to compliance standards.
+
+17. **How do you evaluate a Software Architecture?**
+    - Evaluation involves reviewing the architecture's ability to meet system requirements, performance goals, and maintainability.
+
+18. **What is the role of documentation in Software Architecture?**
+    - Documentation is crucial for understanding, maintaining, and evolving the architecture over time.
+
+19. **How can Software Architecture adapt to changing requirements?**
+    - By following principles like modularity and loose coupling, architectures can be more adaptable to change.
+
+20. **What emerging trends are influencing Software Architecture today?**
+    - Trends include AI-driven development, edge computing, serverless architectures, and increased emphasis on sustainability and ethical design.

@@ -1015,3 +1015,65 @@ Mastering these advanced aspects of Italian grammar, including idiomatic express
 **Infinito (Infinitive)**: The basic form of a verb, not conjugated for tense or person (like amare - to love).
 
 **Gerundio (Gerund)**: A verb form that ends in -ando or -endo, used to indicate a continuing action (like mangiando - eating).
+
+## Frequently Asked Questions
+
+1. **What are the definite articles in Italian?**
+   - **Answer**: The definite articles are "il" (masculine singular), "la" (feminine singular), "i" (masculine plural), and "le" (feminine plural).
+
+2. **How do you form the plural of nouns in Italian?**
+   - **Answer**: Generally, for masculine nouns, change "-o" to "-i" and for feminine nouns, change "-a" to "-e". There are exceptions, like nouns ending in "-e" which typically change to "-i".
+
+3. **What are the main verb conjugations in Italian?**
+   - **Answer**: The main verb conjugations are "-are", "-ere", and "-ire".
+
+4. **How do you use the verb "essere" and "avere"?**
+   - **Answer**: "Essere" (to be) is used for qualities, characteristics, and location, while "avere" (to have) is used for possession, age, and certain expressions like hunger or thirst.
+
+5. **What is the position of adjectives in Italian sentences?**
+   - **Answer**: Adjectives usually follow the noun they modify, though some common adjectives precede the noun.
+
+6. **How do you form the past tense in Italian?**
+   - **Answer**: The main past tense is the "passato prossimo", formed with "avere" or "essere" plus the past participle of the verb.
+
+7. **What is the Italian conditional tense and when is it used?**
+   - **Answer**: The conditional tense expresses a condition or hypothesis. It is often used in polite requests.
+
+8. **How are questions formed in Italian?**
+   - **Answer**: Questions can be formed by intonation (raising your voice at the end of the sentence) or by using question words like "che", "come", "quando".
+
+9. **What are the possessive adjectives in Italian?**
+   - **Answer**: Possessive adjectives include "mio" (my), "tuo" (your), "suo" (his/her), "nostro" (our), etc., and they must agree in gender and number with the noun they modify.
+
+10. **How do you use reflexive verbs in Italian?**
+    - **Answer**: Reflexive verbs are used when the subject and object of a verb are the same, and they are conjugated with reflexive pronouns like "mi", "ti", "si".
+
+11. **What are the Italian indirect object pronouns?**
+    - **Answer**: Indirect object pronouns include "mi" (to me), "ti" (to you), "gli/le" (to him/her), etc.
+
+12. **How do you use the imperative form in Italian?**
+    - **Answer**: The imperative is used for commands or requests, with different forms for "tu", "noi", and "voi".
+
+13. **What is the subjunctive mood and when is it used in Italian?**
+    - **Answer**: The subjunctive mood expresses doubt, wish, hope, fear, or possibility. It's often used in dependent clauses introduced by "che".
+
+14. **How do prepositions work in Italian?**
+    - **Answer**: Prepositions are words like "di" (of), "a" (to), "da" (from), "in" (in), "con" (with) and they are used to connect nouns, pronouns, or phrases to other words in a sentence.
+
+15. **What is the difference between "quale" and "che" in questions?**
+    - **Answer**: "Quale" (which) is used to ask about a choice among a limited set, while "che" (what) asks about general information.
+
+16. **How do you express "there is" and "there are" in Italian?**
+    - **Answer**: Use "c'è" for "there is" and "ci sono" for "there are".
+
+17. **What are Italian direct object pronouns and how are they used?**
+    - **Answer**: Direct object pronouns (e.g., "mi", "ti", "lo", "la") replace the noun that is the direct object of the verb.
+
+18. **How do you form the future tense in Italian?**
+    - **Answer**: The future tense is formed by adding specific endings to the infinitive form of the verb.
+
+19. **What are some common Italian irregular verbs?**
+    - **Answer**: Common irregular verbs include "essere" (to be), "avere" (to have), "andare" (to go), "venire" (to come), "fare" (to do/make).
+
+20. **How do you use the passive voice in Italian?**
+    - **Answer**: The passive voice is formed with the verb "essere" plus the past participle of the main verb. The agent is introduced by "da".

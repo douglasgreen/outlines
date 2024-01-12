@@ -937,3 +937,65 @@ In conclusion, the future of JavaScript is marked by its increasing adaptability
 **Truthy and Falsy**: Concepts in JavaScript where values are coerced into a boolean context for conditional testing.
 
 **Module**: A file containing a block of JavaScript code that can be executed independently or used by other modules.
+
+## Frequently Asked Questions
+
+1. **What is JavaScript?**
+   - JavaScript is a programming language used primarily for creating interactive and dynamic content on web pages.
+
+2. **Is JavaScript the same as Java?**
+   - No, JavaScript and Java are distinct languages. JavaScript is mainly used for web-based applications, whereas Java is a more general-purpose programming language.
+
+3. **How do I add JavaScript to my HTML page?**
+   - JavaScript can be added to HTML using the `<script>` tag either in the head or body section of the HTML.
+
+4. **What are variables in JavaScript?**
+   - Variables are containers for storing data values. In JavaScript, they can be declared using `var`, `let`, or `const`.
+
+5. **What is an array in JavaScript?**
+   - An array is a single variable that is used to store different elements. It can hold multiple values at a time.
+
+6. **What are functions in JavaScript?**
+   - Functions are blocks of code designed to perform a particular task, and they are executed when "something" invokes them (calls them).
+
+7. **What is the difference between `==` and `===` in JavaScript?**
+   - `==` compares only values, whereas `===` compares both values and types.
+
+8. **How do JavaScript closures work?**
+   - A closure is a function that remembers its outer variables and can access them.
+
+9. **What is the DOM in JavaScript?**
+   - The Document Object Model (DOM) is an API for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
+
+10. **What are JavaScript Promises?**
+    - Promises are used to handle asynchronous operations in JavaScript. They are a proxy for a value not necessarily known when the promise is created.
+
+11. **What is an event in JavaScript?**
+    - An event is an action or occurrence detected by JavaScript that can be used for triggering a specific reaction in the code.
+
+12. **How do you write a comment in JavaScript?**
+    - Comments can be written with `//` for a single line, or between `/*` and `*/` for multi-line comments.
+
+13. **What is a loop in JavaScript, and what types are there?**
+    - A loop is a way to repeat a block of code. Common types include `for`, `while`, and `do...while`.
+
+14. **What is 'hoisting' in JavaScript?**
+    - Hoisting is JavaScript's default behavior of moving declarations to the top.
+
+15. **What is an object in JavaScript?**
+    - An object is a standalone entity, with properties and type. It's similar to real-life objects, like a car.
+
+16. **How do I debug JavaScript code?**
+    - You can use the browser's developer tools console to debug JavaScript, or use `console.log()` statements to output values.
+
+17. **What is 'this' keyword in JavaScript?**
+    - `this` refers to the object it belongs to. It has different values depending on where it is used.
+
+18. **Can JavaScript run on the server-side?**
+    - Yes, JavaScript can run on the server-side, primarily through environments like Node.js.
+
+19. **What are arrow functions in JavaScript?**
+    - Arrow functions are a more concise syntax for writing function expressions. They use the `=>` syntax.
+
+20. **How is JavaScript different from ECMAScript?**
+    - JavaScript is a programming language that conforms to the ECMAScript specification. ECMAScript is the standard upon which JavaScript is based, and it often refers to the language's version and features.

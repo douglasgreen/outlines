@@ -804,3 +804,65 @@ Latin prose composition involves not only a thorough understanding of Latin gram
 **Indicative Mood**: The mood of verbs expressing simple statements of fact.
 
 **Gerund**: A verbal noun, similar to the -ing form in English.
+
+## Frequently Asked Questions
+
+1. **What is the basic sentence structure in Latin?**
+   - Latin typically follows a Subject-Object-Verb (SOV) structure, but it can vary due to its inflected nature.
+
+2. **How does noun declension work in Latin?**
+   - Nouns in Latin decline based on case (nominative, accusative, genitive, dative, ablative, and sometimes vocative) and number (singular or plural), affecting their endings.
+
+3. **What are Latin conjugations?**
+   - Conjugations in Latin are a system of changing verb endings to express tense, mood, voice, number, and person.
+
+4. **How many noun declensions are there in Latin?**
+   - There are five main noun declensions in Latin, each with a distinct set of endings.
+
+5. **What is the difference between active and passive voice in Latin?**
+   - In the active voice, the subject performs the action, while in the passive voice, the subject receives the action.
+
+6. **How do you form questions in Latin?**
+   - Questions in Latin are often formed by using interrogative words (like "quis" - who, "quid" - what) or by changing the intonation without altering the word order.
+
+7. **What is the Latin ablative case used for?**
+   - The ablative case is used for various purposes including means, accompaniment, location, and cause.
+
+8. **How are adjectives matched with nouns in Latin?**
+   - Adjectives in Latin must agree with their nouns in case, number, and gender.
+
+9. **What are Latin's demonstrative pronouns?**
+   - The main demonstrative pronouns are "hic" (this), "ille" (that), and "iste" (that near you).
+
+10. **How does gender affect Latin nouns?**
+    - Nouns in Latin are classified into masculine, feminine, and neuter, which influences their declension.
+
+11. **What is an infinitive in Latin?**
+    - An infinitive is the basic form of a verb, often used to express purpose or as a subject or object.
+
+12. **How are Latin verbs categorized into conjugations?**
+    - Latin verbs are divided into four conjugations based on the ending of the second principal part (infinitive).
+
+13. **What are the principal parts of Latin verbs?**
+    - Principal parts are the four key forms of a verb that are used to form all its tenses and moods.
+
+14. **How is the subjunctive mood used in Latin?**
+    - The subjunctive mood expresses doubt, possibility, wishes, or hypothetical situations.
+
+15. **What is a gerund in Latin?**
+    - A gerund is a verbal noun used to express ongoing action, similar to the English "-ing" form.
+
+16. **How does the Latin imperative mood work?**
+    - The imperative mood is used for commands or requests.
+
+17. **What is a participle in Latin?**
+    - A participle is a form of a verb that is used as an adjective, often to convey time or cause.
+
+18. **How does Latin indicate possession?**
+    - Possession is usually indicated by the genitive case or by using a possessive adjective.
+
+19. **What are the uses of the dative case in Latin?**
+    - The dative case is used to indicate the indirect object, purpose, or the recipient of an action.
+
+20. **How does word order affect meaning in Latin?**
+    - While Latin is flexible in terms of word order due to its inflected nature, variations can emphasize different elements of a sentence or affect stylistic and poetic meaning.
