@@ -53,6 +53,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Web Browsers](computing/internet/web_browsers.en.md)
 
 ### Operating Systems
+  * [Virtualization](computing/operating_systems/virtualization.en.md)
 
 #### Linux
   * [Linux](computing/operating_systems/linux/linux.en.md)
