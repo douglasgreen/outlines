@@ -2,12 +2,10 @@
 
 ## Introduction to Game Theory
 
-### Introduction to Game Theory
-
-#### Definition and Historical Background
+### Definition and Historical Background
 Game theory is a systematic study of strategic interactions among rational decision-makers. It was formulated in the early 20th century, with significant contributions from mathematicians such as John von Neumann and economists like Oskar Morgenstern. Their seminal work, "Theory of Games and Economic Behavior," published in 1944, laid the foundation for game theory as an interdisciplinary research area. Initially developed to analyze competitions and conflicts in economics, game theory soon found applications across a variety of fields due to its robust analytical framework.
 
-#### Importance in Various Fields
+### Importance in Various Fields
 1. **Economics**: Game theory revolutionized economics by providing tools to model complex market interactions, oligopolies, bargaining scenarios, and more. It helps economists understand how agents make decisions in situations where the outcome depends not only on their actions but also on the actions of others.
 
 2. **Political Science**: In political science, game theory is used to analyze strategic interactions in voting, policy-making, international relations, and conflict resolution. It aids in understanding how political actors with differing interests can negotiate, form alliances, and strategize to achieve their goals.
@@ -16,7 +14,7 @@ Game theory is a systematic study of strategic interactions among rational decis
 
 4. **Computer Science**: In computer science, game theory plays a crucial role in algorithm design, artificial intelligence, and network analysis. It's pivotal in designing systems where autonomous agents interact, such as in online marketplaces or distributed computing systems.
 
-#### Key Principles and Assumptions
+### Key Principles and Assumptions
 Game theory rests on several key principles and assumptions:
 - **Rationality**: It assumes that players in a game are rational, meaning they have clear preferences, are aware of their preferences, and strive to maximize their utility.
 - **Strategic Interaction**: The core of game theory lies in strategic interaction, where the outcome for each participant depends on the choices of all involved.
@@ -27,12 +25,10 @@ Game theory's versatility in modeling rational behavior in competitive and coope
 
 ## The Players and the Games
 
-### Explaining Players and Games in Game Theory
-
-#### Defining Players and Strategies
+### Defining Players and Strategies
 In game theory, a player is any individual or entity capable of making decisions or choosing strategies in a game. Players are often assumed to be rational and seeking to maximize their own payoff or utility. A strategy, on the other hand, is a complete plan of action a player will follow in a given game, considering all possible moves of other players. Strategies can be simple, like choosing heads or tails in a coin flip, or complex, involving a series of decisions across different game stages.
 
-#### Classification of Games
+### Classification of Games
 
 1. **Cooperative vs Non-Cooperative Games**:
    - **Cooperative Games**: Here, players can form coalitions and can negotiate binding agreements. The focus is on what coalitions will form and how the payoff will be divided among coalition members. Examples include business partnerships and political alliances.
@@ -42,7 +38,7 @@ In game theory, a player is any individual or entity capable of making decisions
    - **Zero-Sum Games**: These are games where the total payoff to all players sums to zero. In other words, one player’s gain is exactly equal to another player’s loss. Classic examples are games like chess or poker.
    - **Non-Zero-Sum Games**: In these games, the total payoff to all players can vary. They represent situations where mutual gains are possible, or losses could be shared. Many real-world scenarios, like business negotiations or environmental agreements, are non-zero-sum.
 
-#### Introduction to Payoff Matrices
+### Introduction to Payoff Matrices
 A payoff matrix is a tabular representation of the payoffs in a game for each player, given the different strategies they might employ. It’s a crucial tool in analyzing games, especially in non-cooperative, strategic interactions.
 
 - Each cell in the matrix represents the outcome of a combination of strategies chosen by the players.
@@ -63,9 +59,7 @@ Understanding payoff matrices is vital for analyzing the outcomes of different s
 
 ## Dominant Strategies
 
-### Dominant Strategies in Game Theory
-
-#### Concept and Examples
+### Concept and Examples
 A dominant strategy is a strategy that yields the best outcome for a player, regardless of what the other players in the game decide to do. In other words, it is the optimal choice for a player no matter how the game unfolds.
 
 - **Example 1: The Prisoner’s Dilemma**
@@ -74,13 +68,13 @@ A dominant strategy is a strategy that yields the best outcome for a player, reg
 - **Example 2: Advertising Campaign**
   Two competing companies (A and B) can choose to have a high budget or a low budget for their advertising campaigns. For both companies, choosing a high budget advertising campaign might be a dominant strategy as it maximizes market share regardless of the competitor's decision.
 
-#### Iterated Elimination of Dominated Strategies
+### Iterated Elimination of Dominated Strategies
 Iterated Elimination of Dominated Strategies (IEDS) is a technique used to simplify the analysis of strategic games. A dominated strategy is one that results in a worse outcome than some other strategy, regardless of what the other players do.
 
 - In IEDS, strategies that are dominated are sequentially eliminated from consideration. After removing a dominated strategy, the game is re-analyzed to see if any new dominated strategies emerge.
 - This process continues until no dominated strategies remain, potentially simplifying the game and making it easier to find the equilibrium.
   
-#### Practical Applications
+### Practical Applications
 Dominant strategies and the concept of IEDS have practical applications in various fields:
 
 1. **Economic Decision-Making**: In market competition, firms often use these concepts to decide on pricing, product launches, and marketing strategies, assuming rational behavior from competitors.
@@ -95,18 +89,16 @@ In summary, dominant strategies provide a framework for making optimal decisions
 
 ## Nash Equilibrium
 
-### Nash Equilibrium in Game Theory
-
-#### Definition and Intuition
+### Definition and Intuition
 The Nash Equilibrium, named after mathematician John Nash, is a concept within game theory representing a situation where no player can benefit by changing their strategy while the other players keep theirs unchanged. It's a state of mutual best responses - each player's strategy is optimal given the strategies of all other players.
 
 The intuition behind Nash Equilibrium is that in certain strategic interactions, there's a point where everyone's decisions are in balance. No player has anything to gain by deviating unilaterally from this point, making it a stable state in the context of the game.
 
-#### Existence and Uniqueness
+### Existence and Uniqueness
 - **Existence**: Nash's existence theorem states that every game with a finite number of players and finite strategies has at least one Nash Equilibrium. This applies even if the equilibrium is in mixed strategies (where players randomize over their choices).
 - **Uniqueness**: While every game has at least one Nash Equilibrium, not all games have a unique one. Some games might have multiple equilibria, and the challenge is often in predicting which equilibrium will be selected by the players.
 
-#### Examples in Various Games
+### Examples in Various Games
 
 1. **The Prisoner’s Dilemma**: In the classic Prisoner’s Dilemma, the Nash Equilibrium occurs when both prisoners choose to confess, even though they would collectively be better off if they both remained silent. Here, confessing is the dominant strategy for both.
 
@@ -122,20 +114,18 @@ In summary, Nash Equilibrium is a central idea in game theory, providing a way t
 
 ## Mixed Strategies
 
-### Mixed Strategies in Game Theory
-
-#### Introduction to Randomness in Game Theory
+### Introduction to Randomness in Game Theory
 In game theory, mixed strategies introduce the concept of randomness or probabilistic choices into strategic decision-making. Unlike pure strategies, where a player chooses a single definite action, a mixed strategy involves randomly selecting among available actions according to a specific set of probabilities.
 
 The rationale for using mixed strategies arises in situations where using a pure strategy repeatedly makes a player predictable, potentially leading to a disadvantage. By randomizing their choices, players can make their actions less predictable and possibly more effective.
 
-#### Developing Mixed Strategies for Simple Games
+### Developing Mixed Strategies for Simple Games
 To develop a mixed strategy for a simple game, players assign probabilities to their available actions, ensuring these probabilities add up to 1 (or 100%). The choice of probabilities is based on the strategies that will best respond to the anticipated strategies of the opponents.
 
 - **Example: Rock-Paper-Scissors**
   In the classic game of Rock-Paper-Scissors, each player can choose rock, paper, or scissors. The pure strategy is to always choose the same item. However, a mixed strategy might involve choosing each item with a probability of 1/3. This randomization makes a player's actions unpredictable and ensures that over the long run, they won't consistently lose.
 
-#### Real-world Examples
+### Real-world Examples
 1. **Sports**: In sports like soccer or baseball, players often use mixed strategies. For example, a soccer player taking a penalty kick might aim left, right, or center, and the goalkeeper must decide where to dive. By varying their choices, both the kicker and the goalkeeper make it harder for the other to predict their actions.
 
 2. **Business and Economics**: Companies use mixed strategies in pricing, product launches, and marketing campaigns. For instance, a company might randomly choose different promotional strategies to prevent competitors from predicting and countering their marketing efforts effectively.
@@ -148,9 +138,7 @@ Mixed strategies add a significant layer of complexity to game theory, allowing 
 
 ## Extensive-Form Games
 
-### Extensive-Form Games in Game Theory
-
-#### Representation of Games with a Tree Structure
+### Representation of Games with a Tree Structure
 Extensive-form games are represented using a tree structure, which illustrates the sequential nature of the game. This tree diagram captures the order of moves, possible actions at each decision point, and the outcomes.
 
 - **Nodes**: Each point where a decision is made is represented by a node. A node identifies the player who is making the decision.
@@ -158,12 +146,12 @@ Extensive-form games are represented using a tree structure, which illustrates t
 - **Terminal Nodes**: These are the end points of the branches, where the game concludes. Each terminal node shows the outcome or the payoff for each player.
 - **Initial Node**: The tree starts from an initial node, where the first decision is made.
 
-#### Concepts of Information Sets and Subgame Perfection
+### Concepts of Information Sets and Subgame Perfection
 - **Information Sets**: An information set in extensive-form games groups nodes together to represent situations where a player cannot distinguish between the different nodes within the set due to a lack of information. It's crucial in games of imperfect information where players do not have complete knowledge of previous actions.
   
 - **Subgame Perfection**: A subgame perfect equilibrium is a refinement of the Nash Equilibrium, applied to extensive-form games. It requires that players' strategies constitute a Nash Equilibrium in every subgame of the original game. This concept deals with the credibility of threats and promises; in a subgame perfect equilibrium, the players' strategies are credible at every stage of the game.
 
-#### Analysis of Sequential Moves
+### Analysis of Sequential Moves
 In extensive-form games, the analysis focuses on how players choose their actions in a sequential manner, considering the previous moves and strategies of other players.
 
 - **Forward Induction**: This involves starting at the initial node and analyzing the game forward, predicting the moves players will make at each node based on their rationality and the strategies available.
@@ -181,21 +169,19 @@ Extensive-form games provide a comprehensive framework for analyzing situations 
 
 ## Repeated Games and Strategies
 
-### Repeated Games and Strategies in Game Theory
-
-#### Theoretical Background of Repeated Games
+### Theoretical Background of Repeated Games
 Repeated games, a fundamental concept in game theory, involve players engaging in the same game (or a series of similar games) multiple times. Unlike single-shot games where the interaction is a one-time occurrence, repeated games allow for the evolution of strategies based on past outcomes and behaviors.
 
 - **Infinite vs. Finite Repeated Games**: Repeated games can be finite (played for a known number of times) or infinite (no predetermined end point). The strategies and outcomes can significantly differ based on whether players know when the game will end.
 - **Effect on Player Behavior**: The repetition allows players to react to the actions of others over time, enabling strategies like retaliation, reward, or reputation-building, which are not possible in one-shot games.
 
-#### Strategies like Tit for Tat in the Prisoner's Dilemma
+### Strategies like Tit for Tat in the Prisoner's Dilemma
 One of the most famous strategies in repeated games, especially in the context of the Prisoner's Dilemma, is Tit for Tat.
 
 - **Tit for Tat Strategy**: This strategy involves initially cooperating and then mirroring the opponent's previous action in subsequent rounds. If the opponent cooperated in the last round, the player cooperates in the current round; if the opponent defected, the player also defects.
 - **Effectiveness of Tit for Tat**: This strategy has been found effective due to its simplicity, kindness (starting with cooperation), provocability (immediate retaliation against defection), and forgiveness (returning to cooperation if the opponent switches back to cooperating). It fosters a cooperative environment and discourages continued defection.
 
-#### Implications for Cooperation and Conflict
+### Implications for Cooperation and Conflict
 The dynamics of repeated games have profound implications for understanding cooperation and conflict in various contexts:
 
 1. **Building Trust and Cooperation**: In repeated interactions, players have the incentive to build trust and cooperate, as defection can lead to long-term retaliation. This is particularly relevant in economics and international relations, where long-term relationships are vital.
@@ -210,17 +196,57 @@ In summary, repeated games provide a richer framework for analyzing strategic in
 
 ## Cooperative Game Theory
 
-Explain cooperative game theory, while discussing the following topics:
-* The Shapley value and coalition formation
-* Core and stability in cooperative games
-* Applications in economics and political science
+Cooperative game theory investigates how groups of rational individuals (or "players") can work together and how the benefits from such cooperation should be distributed among them. Unlike non-cooperative game theory, where players make decisions independently, cooperative game theory focuses on the outcomes of collective actions and the allocation of payoffs when binding agreements are possible.
+
+### The Shapley Value and Coalition Formation
+- **Shapley Value**: The Shapley value is a solution concept in cooperative game theory, proposed by Lloyd Shapley. It represents a method of fairly distributing the total gains (or costs) among the players who form a coalition. The Shapley value takes into account how much each player contributes to the coalition by considering what each additional member brings to the group. The formula for the Shapley value is based on the marginal contributions of players averaged over all possible orderings of coalition formation.
+  
+- **Coalition Formation**: This refers to the process by which players decide to cooperate and form groups (or coalitions) to achieve certain outcomes. The main question in coalition formation is to understand how these coalitions will form and how stable they will be.
+
+### Core and Stability in Cooperative Games
+- **Core**: The core is another central concept in cooperative game theory, referring to a set of possible distributions (or allocations) where no subgroup of players would be better off by breaking away from the large group and forming their own coalition. In other words, an allocation is in the core if there is no incentive for any subgroup to form a separate coalition because they can’t improve their situation by doing so.
+
+- **Stability**: Stability in cooperative games is closely related to the concept of the core. A stable outcome is one where all players are satisfied with their allocation, and there is no subset of players that can deviate and improve their payoffs. Stability is crucial for the sustainability of coalitions.
+
+### Applications in Economics and Political Science
+- **Economics**: Cooperative game theory is used in economics to analyze market behaviors, particularly in oligopolies where firms can collude to maximize profits. It also applies to situations involving cost-sharing, public goods, and resource allocation.
+
+- **Political Science**: In political science, cooperative game theory helps analyze coalition governments, voting, and legislative decision-making. The Shapley value can be used to understand the power and influence of different parties or countries in various cooperative arrangements.
+
+- **Resource Allocation and Bargaining Problems**: Cooperative game theory offers methods to solve complex resource allocation and bargaining problems, ensuring efficiency and fairness in the distribution of resources or negotiation outcomes.
+
+In summary, cooperative game theory provides tools for analyzing situations where groups of agents can achieve better outcomes by working together than by acting independently. It offers insights into the dynamics of coalition formation, the fair distribution of benefits, and the conditions under which cooperative arrangements are stable and sustainable. This theoretical framework has wide-ranging applications, from economic markets to political negotiations, emphasizing the importance of cooperation and collective action in diverse scenarios.
 
 ## Bargaining and Negotiation
 
-Explain bargaining and negotiation, while discussing the following topics:
-* Bargaining models and solutions
-* Nash bargaining solution
-* Case studies in labor disputes and international negotiations
+Bargaining and negotiation are central aspects of game theory, focusing on how parties with potentially conflicting interests reach mutually beneficial agreements. These interactions are prevalent in various areas, from business and economics to international relations and everyday life.
+
+### Bargaining Models and Solutions
+Bargaining models in game theory provide structured ways to analyze and predict the outcomes of negotiation processes. Two primary models are:
+
+1. **Distributive Bargaining**: This is a zero-sum scenario, often referred to as a "fixed-pie" situation, where one party's gain is the other's loss. The focus is on dividing a fixed resource, like money or territory.
+2. **Integrative Bargaining**: Unlike distributive bargaining, integrative bargaining is a non-zero-sum situation where parties seek win-win solutions that can potentially expand the pie. It's more about collaboration than competition.
+
+Solutions in bargaining models aim to determine the most equitable or efficient outcome based on various principles, like fairness, maximization of joint gains, or minimizing the worst outcomes.
+
+### Nash Bargaining Solution
+The Nash bargaining solution, proposed by John Nash, is a prominent solution concept in cooperative bargaining theory. It provides a unique solution based on two key axioms:
+
+1. **Pareto Efficiency**: The solution must be efficient, meaning there can be no other agreement that would make any party better off without making another party worse off.
+2. **Symmetry**: If the bargaining situation is symmetric (both players have the same alternatives), then the solution should treat them identically.
+
+The Nash bargaining solution is mathematically formulated to maximize the product of the players' utilities, taking into account each player's best alternative to a negotiated agreement (BATNA).
+
+### Case Studies in Labor Disputes and International Negotiations
+1. **Labor Disputes**:
+   - In labor disputes, the Nash bargaining solution can be applied to negotiations between unions and management. For instance, in wage negotiations, the solution would seek a balance that improves upon both parties' BATNA, such as a strike for the union and a shutdown for management.
+   - Historical cases, like the U.S. automotive industry labor negotiations, often exemplify the application of bargaining models, where compromises on wages, benefits, and working conditions are sought.
+
+2. **International Negotiations**:
+   - In international diplomacy, bargaining models are used to analyze and resolve conflicts over resources, territorial disputes, or trade agreements. An example is the negotiation of trade deals like NAFTA, where countries aim to maximize their benefits while conceding in other areas.
+   - Environmental agreements, like the Paris Climate Accord, also illustrate complex bargaining scenarios. Nations negotiate emission targets, balancing national interests with global environmental concerns.
+
+Bargaining and negotiation theories offer valuable insights into the dynamics of reaching agreements in various contexts. By understanding these models and solutions, negotiators can better strategize and achieve outcomes that are beneficial for all parties involved.
 
 ## Evolutionary Game Theory
 
