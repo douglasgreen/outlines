@@ -8,6 +8,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Film
   * [Anime](arts/film/anime.en.md)
+  * [Movies](arts/film/movies.en.md)
 
 ### Games
   * [History of Video Games](arts/games/history_of_video_games.en.md)
