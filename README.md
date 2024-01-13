@@ -11,9 +11,6 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Movies](arts/film/movies.en.md)
   * [Television](arts/film/television.en.md)
 
-### Games
-  * [History of Video Games](arts/games/history_of_video_games.en.md)
-
 ## Business
   * [Economics](business/economics.en.md)
   * [Personal Productivity](business/personal_productivity.en.md)
@@ -92,6 +89,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Hypertext Transfer Protocol](computing/web_development/http.en.md)
   * [Symfony](computing/web_development/symfony.en.md)
   * [WebPack](computing/web_development/webpack.en.md)
+
+## Games
+  * [History of Video Games](games/history_of_video_games.en.md)
 
 ## Health
   * [Health](health/health.en.md)
