@@ -107,7 +107,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Language
   * [Constructed Language](language/constructed_language.en.md)
-  * [Linguistics](language/linguistics.en.md)
+  * [Linguistics](language/linguistics.en.md) ([Esperanto](language/linguistics.eo.md))
 
 ### English
   * [English Grammar](language/english/grammar.en.md)

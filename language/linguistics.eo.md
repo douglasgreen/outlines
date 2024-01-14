@@ -212,7 +212,7 @@ Historia lingvistiko estas branĉo de lingvistiko, kiu koncerniĝas pri la evolu
 
 Historia lingvistiko provizas fenestron en la pasintecon de homa lingvo, rivelante kiel lingvoj evoluas kaj ŝanĝiĝas tra tempo. Ĝi helpas nin kompreni ne nur la historion de lingvoj mem, sed ankaŭ la migron, interagon, kaj kulturan historion de la homoj, kiuj parolas ilin. Tiu fako estas esenca por kompreni la komplekson de lingvaj rilatoj kaj la dinamikan naturon de lingvo kiel fundamenta aspekto de homa historio kaj kulturo.
 
-# Lingva Tipologio kaj Universaloj
+## Lingva Tipologio kaj Universaloj
 
 Lingva tipologio kaj universaloj estas lingvistikaj studoareoj, kiuj fokusiĝas sur la klasifikado de lingvoj kaj identigado de komunaj trajtoj tra lingvoj. Tiuj kampoj helpas lingvistojn kompreni la diversecon kaj similarecojn en la lingvoj de la mondo.
 
@@ -232,3 +232,243 @@ Lingva tipologio kaj universaloj estas lingvistikaj studoareoj, kiuj fokusiĝas 
    - **Interlingvaj Studoj:** Komparaj studoj inter lingvoj povas malkovri ne nur universalajn aspektojn de lingvo, sed ankaŭ la grandegan diversecon en kiel lingvoj strukturas signifon, sonon kaj sintakson.
 
 Lingva tipologio kaj universaloj estas fundamentaj por kompreni la naturon de la homa lingvo en ĝenerala senco. Ili provizas ensciojn en la kognitivaj kaj komunikaj kapabloj de homoj kaj ludas esencan rolon en lingvistikaj teorioj, lingva komparo, kaj la kompreno de la evoluo kaj diverseco de lingvo kiel fundamenta aspekto de la homa historio kaj kulturo.
+
+## Kompula Lingvistiko kaj Prilaborado de Naturlingvoj
+
+Kompula Lingvistiko (KL) kaj Prilaborado de Naturlingvoj (PNL) estas interligitaj kampoj, kiuj kunigas lingvistikon, komputikon, kaj artecintelecon por ebligi komputilojn prilabori kaj kompreni homan lingvon.
+
+1. **Bazoj de Kompula Lingvistiko:**
+   - **Definicio:** Kompula lingvistiko implikas la uzon de komputilaj metodoj kaj algoritmoj por prilabori kaj analizi lingvajn datumojn. Ĝi celas simuli homan komprenon kaj generadon de lingvo per komputiloj.
+   - **Ŝlosilaj Areoj:** KL inkluzivas sintakson (strukturo de vortoj kaj frazoj), semantikon (signifo de vortoj kaj frazoj), kaj pragmatikon (konteksta uzo de lingvo). Ĝi ankaŭ implikas fonetikon kaj fonologion por prilabori parolon.
+   - **Iloj kaj Teknikoj:** KL uzas diversajn ilojn kiel ekzemple parsiloj, lernajn modelojn de maŝinlernado, kaj statistikajn metodojn por analizi kaj interpreti lingvon. Ĝi ankaŭ inkluzivas la evoluigon de korpusoj (grandaj, strukturitaj tekstaroj) por lingva modelado kaj analizo.
+
+2. **Aplikaĵoj en Prilaborado de Naturlingvoj:**
+   - **Maŝina Tradukado:** PNL ebligas tradukadon inter lingvoj, ekzempligite per iloj kiel Google Traduki. Ĝi implikas komplikajn procezojn de kompreno kaj generado de teksto en malsamaj lingvoj.
+   - **Parola Rekono kaj Sintezo:** Teknologioj de PNL energias voĉaktivajn helpantojn kiel Siri kaj Alexa, konvertante parolon al teksto kaj reciproke.
+   - **Sentoanalizo:** Uzata en merkatigo kaj observado de sociaj amaskomunikiloj, ĉi tio implikas analizon de tekstaj datumoj por kompreni publikan opinion kaj emociajn tonojn.
+   - **Informaj Eltiro:** PNL estas uzata por eltrairi utilan informon el grandaj dataroj, ekzemple identigi gravajn entojn kaj rilatojn en teksto, kio estas esenca en kampoj kiel komerca inteligenteco kaj jura analizo.
+   - **Surbazaj kaj Virtualaj Helpantoj:** PNL ebligas la kreadon de surbazaj kaj virtualaj helpantoj, kiuj povas kompreni kaj respondi al homaj demandoj en natura maniero.
+
+3. **Estontaj Direktoj kaj Defioj:**
+   - **Traktado de Diverseco kaj Komplekseco:** Unu el la plej grandaj defioj en PNL estas trakti la inherentan diversecon kaj kompleksecon de la homa lingvo, inkluzive de idiomoj, metaforoj, kaj varia sintakso.
+   - **Kontekstokompreno:** Migrigi la kapablon de PNL-sistemoj kompreni la kontekston kaj plenumi pli homan racionadon.
+   - **Multlingveco kaj Malriĉaj Lingvoj:** Expandi la kapablojn de PNL-sistemoj por labori kun pli vasta gamo de lingvoj, precipe tiuj kun limigitaj komputilaj rimedoj.
+   - **Etikaj Konsideroj:** Trakti problemojn kiel ekzemple privatecon, partiancon en lingvaj modeloj, kaj etikan uzon de PNL en observado kaj datanalizo.
+   - **Integri Transdisciplinajn Sciojn:** Enkorpigi sciojn el psikologio, antropologio, kaj aliaj kampoj por plibonigi la komprenon kaj modeladon de lingvo.
+
+Kompula lingvistiko kaj prilaborado de naturlingvoj estas rapide evoluantaj kampoj. Ili havas profundan efikon pri la maniero, kiel ni interagas kun teknologio, kaj estas integraj al la disvolviĝo de inteligentaj sistemoj, kiuj povas efike komuniki kun homoj.
+
+## Lingvaj Malsanoj kaj Patologioj
+
+Lingvaj malsanoj kaj patologioj implikas malfacilaĵojn en kompreno kaj/aŭ uzo de parolita, skribita, kaj/aŭ aliaj simbolsistemoj. La studo de ĉi tiuj malsanoj estas kritika por evoluigi efikajn diagnozajn ilojn kaj terapistrategiojn.
+
+1. **Tipoj de Lingvaj Malsanoj:**
+   - **Evoluaj Malsanoj:** Tio inkluzivas lingvajn difektojn, kiuj ne rilatas al konata neŭrologia aŭ senzoria kaŭzo. Ekzemploj estas Specifa Lingva Difekto (SLD) kaj Evoluaj Disleksio.
+   - **Akiritaj Malsanoj:** Pro cerba damaĝo, tiuj malsanoj inkluzivas afazio (afektanta parolitan lingvon), aleksio (influi legadon), kaj afrafio (influi skribadon). Apopleksio estas oftan kaŭzon de tiaj malsanoj.
+   - **Neŭroevoluaj Malsanoj:** Tio inkluzivas Malsanojn de la Autisma Spektro (MAS) kaj TDAH, kie lingvaj malfacilaĵoj estas parto de pli larĝaj kognitivaj aŭ kondutaj defioj.
+   - **Parolsone Malsanaj Malsanoj:** Tioj implikas malfacilaĵon en artikulado (produktado de parolsonoj) aŭ fonologiaj procesoj (sonaj skemoj).
+
+2. **Lingvistikaj Aliroj al Diagnozo kaj Terapio:**
+   - **Diagnozo:** Lingvika analizo estas esenca en diagnozado de lingvaj malsanoj. Tio inkluzivas analizon de fonetiko kaj fonologio (parolsono), morfologio kaj sintakso (gramatiko), semantiko (signifo), kaj pragmatiko (lingva uzo en kunteksto). Normigitaj testoj kaj observaj analizoj estas ofte uzataj.
+   - **Terapio kaj Intervekajĝoj:** Terapiaj aliroj varias laŭ la malsano. Por infanoj kun evoluaj malsanoj, parolsone terapio ofte fokusiĝas sur plibonigado de komunika kapabloj per celaj agadoj. Por akiritaj malsanoj, kiel afazio, terapio povas inkluzivi retrajnadon de lingvaj kapabloj kaj uzo de alternativaj komunikilmetodoj.
+   - **Rolo de Teknologio:** Teknologiaj iloj, kiel parolsone-generaciaj aparatoj kaj programaro-aplikaĵoj, kreskante uzatas en terapio, precipe por individuoj kun severaj komunikaj malfacilaĵoj.
+
+3. **Kazstudoj kaj Esplorado pri Lingvaj Patologioj:**
+   - **Kazstudoj:** Detalaj kazstudoj pri individuoj kun specifaj lingvaj malsanoj liveras envidojn en la naturo de ĉi tiuj malsanoj kaj ilia efiko en ĉiutaga vivo. Ekzemple, studoj pri pacientoj kun afazio signife antaŭenigis nian komprenon de kiel lingvo estas organizita en la cerbo.
+   - **Neŭrosciencaj Esploradoj:** Modernaj neŭrofotojnaj teknikoj, kiel fMRI kaj PET-skanoj, ebligas al esploristoj studi cerban agadon rilatan al la prilaboro de lingvo, kontribuante al nia kompreno pri la neŭrologiaj fundamentoj de lingvaj malsanoj.
+   - **Genetika kaj Evoluaj Esploradoj:** Kreskas esplorado pri la genetikaj faktoroj, kiuj kontribuas al evoluaj lingvaj malsanoj. Studoj pri la lingva disvolviĝo en tipaj infanoj ankaŭ provizas bazon por kompreno de atipika lingva disvolviĝo.
+
+Lingvaj malsanoj kaj patologioj estas komplikaj kaj multflankaj, kaj postulas interdisciplinan aliron por efika administro kaj terapio. Avancoj en lingvistiko, neŭroscienco, kaj teknologio daŭre plibonigas nian komprenon kaj kapablon subteni individuojn kun ĉi tiuj defioj.
+
+## Lingva Dokumentado kaj Minacataj Lingvoj
+
+Lingva dokumentado kaj la studo de minacataj lingvoj estas gravaj areoj en lingvistiko, kiu fokusiĝas pri registri, analizi, kaj konservi lingvojn, kiuj riskas malaperi.
+
+1. **La Graveco de Lingva Dokumentado:**
+   - **Konservi Lingvan Diversecon:** Lingva dokumentado estas vitala por konservi la lingvan diversecon de la mondo. Ĉiu lingvo reflektas unikajn manierojn pensi, kulturan historion, kaj sciosistemojn.
+   - **Kontribuoj al Lingvistiko:** Dokumenti lingvojn, precipe malpli konatajn aŭ minacatajn, kontribuas al nia kompreno pri la kapablecoj kaj diversecoj de la homa lingvo. Ĝi povas elmontri novajn lingvistikajn trajtojn kaj modelojn, kiujn oni ne rimarkis en bone studitaj lingvoj.
+   - **Kultura kaj Historia Valoro:** Lingvoj estas deponejoj de kultura heredaĵo kaj tradicioj. La dokumentado de lingvoj helpas konservi tiujn kulturajn identecojn por estontaj generacioj.
+
+2. **Metodoj kaj Etiko de Kampa Esplorado:**
+   - **Kampaj Teknikoj:** Lingva dokumentado implikas diversajn teknikojn, inkluzive de sonregistraĵoj kaj videaĵoj de parolado, kolekto de tekstoj kaj rakontoj, kaj kompilado de vortaroj kaj gramatikoj. Lingvistoj ofte kunlaboras kun denaskaj parolantoj por kolekti datumojn.
+   - **Kunlaboro kun la Komunumo:** Etika kampaj esploro implikas kunlaboradon kun la lingva komunumo. Estas grava atingi informitan konsenton, certigi partoprenon de la komunumo, kaj respekti lokajn kutimojn kaj kredojn.
+   - **Datala Administrado kaj Kunhavigo:** Etikaj konsideroj etendiĝas ankaŭ al la stoko, traktado, kaj kunhavigo de datumoj. Lingvistoj devas esti singardaj pri la privateco kaj deziroj de la komunumo, precipe pri sensenciaj aŭ sanktaj aspektoj de la lingvo aŭ kulturo.
+
+3. **Revivaj Aproboj por Minacataj Lingvoj:**
+   - **Partopreno de la Komunumo:** Revivaj provoj estas plej efikaj, kiam ili implikas la lingvan komunumon. Tio povas inkluzivi lecionojn pri la lingvo, enprofundiĝajn programojn, kaj la uzon de medio kaj teknologio por fariĝigi la lingvon.
+   - **Edukaj Programoj:** La enkonduko de minacataj lingvoj en lerneja kurrikulo kaj la kreado de edukaj materialoj en tiuj lingvoj povas helpi pri la revivado.
+   - **Politiko kaj Subteno:** Gubernaj kaj instituciaj subtenoj estas gravaj. Tio inkluzivas financadon de lingvaj programoj, la legan rekonon de lingvoj, kaj politikojn, kiuj promocias plurlingvecon.
+   - **Dokumentado kiel Ilo:** Lingva dokumentado provizas rimedojn, kiuj povas esti kritikaj por instrui kaj lerni la lingvon. Vortaroj, gramatikoj, kaj sonregistraĵoj estas valoraj por lernantoj kaj edukistoj.
+   - **Teknologiaj Helpiloj:** Teknologio, inkluzive de movilaj aplikoj, retaj kursoj, kaj sociaj mesaĝoj, provizas novajn vojojn por homoj lerni kaj uzi minacatajn lingvojn.
+
+Lingva dokumentado kaj revivado estas esencaj por konservi la lingvan kaj kulturan diversecon de la mondo. Ili ne nur temas pri konservado de lingvoj por akademia studo, sed pri daŭrigo de la kultura identeco kaj heredaĵo de komunumoj. Ĉi tiujn entreprenojn kontribuas al pli riĉa, pli diversa kompreno pri la homa sperto.
+
+## Lingva Kampa Esplorado: Kolektado de Datumoj
+
+Lingva kampa esplorado estas ĉefa metodo de datumokolekto en lingvistiko, precipe en la studo de malpli konataj aŭ ne dokumentitaj lingvoj. Ĝi implikas rektan interagadon kun denaskaj parolantoj kaj immerĝiĝon en la lingva medio.
+
+1. **Teknikoj kaj Ilaroj por Lingva Kampa Esplorado:**
+   - **Direkta Observado kaj Registrado:** Lingvistoj ofte registras naturan paroladon en diversaj kuntekstoj - konversacioj, rakontoj, ritualeco - uzante audio kaj videa ekipaĵo. Tio helpas registri la lingvon, kiel ĝi estas vere uzata.
+   - **Intervjuoj kaj Ellicitado:** Strukturitaj kaj duonstrukturitaj intervjuoj estas kutimaj, kie lingvistoj petas de parolantoj specifajn lingvistikajn informojn, kiel vortlistojn aŭ respondojn al certaj situacioj.
+   - **Demandolisto kaj Enketoj:** Ili estas uzataj por kolekti specifajn lingvistikajn datumojn aŭ por kompreni atitudon kontraŭ la lingvo.
+   - **Partoprenanta Observado:** Vivado en la komunumo kaj partopreno en ĉiutagaj agadoj provizas enrigardon en kiel la lingvo estas uzata en kunteksto.
+   - **Teknologiaj Iloj:** Moderna kampa esplorado ofte uzas softvarojn por datuma analizo (kiel fonetika analizo aŭ korpusa administrado) kaj ciferecajn aparatojn por alta-kvalitaj registradoj.
+
+2. **Laborado kun Lingvaj Komunumoj:**
+   - **Konstruado de Rilatoj:** Sukcesa kampa esplorado postulas konstrui fidon kaj kunlaboran rilaton kun la komunumo. Tio implikas respekti lokajn kutimojn, esti sentema al la bezonoj kaj zorgoj de la komunumo, kaj ofte, lerni la lingvon iel.
+   - **Etikaj Konsideroj:** Lingvistoj devas certigi, ke ilia laboro respektas la rajtojn kaj dignon de membroj de la komunumo. Tio inkluzivas akiri informitan konsenton por registroj kaj esti klara pri la celoj kaj eblaj uzoj de la esplorado.
+   - **Partopreno de la Komunumo:** Engaĝi la komunumon en la esplorprocezo povas esti profitiga. Komunumaj membroj povas esti trejnataj en lingva dokumentado, kontribuante al la konservado de sia lingvo.
+
+3. **Kolekto, Analizo, kaj Konservado de Datumoj:**
+   - **Kolekto:** Datumokolekto povas varii de natura paroladataĵo al pli strukturita ellicitado. Ĝi ofte inkluzivas diversajn parolstilojn kaj kuntekstojn por havi kompreensivan scion pri la lingvo.
+   - **Analizo:** La kolektitaj datumoj estas analizataj por kompreni diversajn aspektojn de la lingvo, kiel fonetiko, fonologio, morfologio, sintakso, semantiko, kaj pragmatiko. Tiu analizo estas gravas por evoluigi gramatikojn, vortarojn, kaj lernajn materialojn pri la lingvo.
+   - **Konservado kaj Alirebleco:** Certigi longperspektivan konservadon kaj alireblecon de datumoj estas ŝlosila aspekto de kampa esplorado. Tio ofte inkluzivas arkivadon de datumoj en formatoj alireblaj al tiel la lingvista komunumo kaj la komunumo de parolantoj. Ciferaj arkivoj kaj deponejoj estas ĉiam pli uzataj por tiu celo.
+
+Lingva kampa esplorado estas esenca por la profunda studo de lingvoj, precipe tiuj, kiuj ne estas larĝe parolataj aŭ ne sufiĉe dokumentitaj. Ĝi provizas valorajn datumojn ne nur por akademika esplorado, sed ankaŭ por la konservado kaj revivado de lingvoj.
+
+## Aplikata Lingvistiko: Lingva Edukado kaj Politiko
+
+Aplikata lingvistiko estas fako, kiu aplikas lingvan esploradon kaj teorion por solvi praktikajn problemojn en realaj medioj. Tio inkluzivas areojn kiel lingva edukado, lingva politiko, kaj la aplikadon de lingvistiko en juraj kaj kriminalistikaj kuntekstoj.
+
+1. **Metodologioj de Lingvista Edukado:**
+   - **Aliroj al Lingva Edukado:** Tio inkluzivas tradiciajn metodojn, kiel gramatiko-tradukado, same kiel pli komunikajn alirojn, kiuj fokusiĝas sur la uzo de lingvo en realaj situacioj. Pli lastatempaj metodoj inkluzivas taskbazan lernadon kaj enhavon kaj lingvon integritan lernadon (CLIL).
+   - **Teorio de Dua Lingvo-Akiriĝo (SLA):** Scioj el SLA-esplorado informas lernadmetodojn. Ĉefaj konceptoj inkluzivas la rolon de enigo, interago, kaj reakcioj en la lingvolerno, same kiel la gravecon de la socio-kultura konteksto de lernantoj.
+   - **Teknologio en Lingva Edukado:** Moderna lingva instruado pli kaj pli utiligas ciferecajn ilojn, kiel lingvolernajn aplikaĵojn, retajn platformojn, kaj virtuajn klasĉambrojn por plibonigi lernajn spertojn.
+
+2. **Lingva Politiko kaj Planado:**
+   - **Lingva Politiko:** Tio rilatas al la decidoj faritaj de oficialaj instancoj pri la uzado de lingvoj en difinita komunumo aŭ lando. Tio povas inkluzivi politikojn pri naciaj aŭ oficialaj lingvoj, lingva edukado, kaj la konservado de minoritataj lingvoj.
+   - **Lingva Planado:** Implikas klopodojn por evoluigi kaj efektivigi lingvajn politikojn. Tio inkluzivas status-planadon (difini la oficialan statuson de lingvoj), korpus-planadon (evoluigi rimedojn kaj normojn por lingvo, kiel vortaroj kaj gramatikoj), kaj akiro-planadon (promocii la lernadon de lingvo).
+   - **Multlingveco kaj Lingvaj Rajtoj:** Lingva politiko ofte traktas temojn de multlingveco kaj lingvaj rajtoj, balancante la bezonojn de diversaj lingvaj komunumoj, precipe en lingve diversegaj socioj.
+
+3. **Lingvistiko en Juraj kaj Kriminalistikaj Kuntekstoj:**
+   - **Kriminalistika Lingvistiko:** Tiu areo implikas la aplikon de lingva scio al la jura sistemo. Tio inkluzivas la analizon de lingva uzo en juraj kuntekstoj, kiel identigi verkiston aŭ interpreti la signifon de skribaj aŭ parlaj lingvaj esprimoj en jura disputo.
+   - **Lingvo kaj la Leĝo:** Lingvistiko povas helpi klarecigi lingvon en jura dokumentoj, certigi precizan interpretadon en juĝejoj, kaj helpi kompreni komunika dinamiko en jura medio.
+   - **Faka Atestado:** Foje lingvistoj provizas fakan atestadon en juraj aferoj, precipe en areoj kiel varmarkojnaj disputoj, malamo parolon, plagion, kaj la analizon de minacaj aŭ trompaj komunikadoj.
+
+Aplikata lingvistiko trarompas la breĉon inter lingva teorio kaj praktika apliko, ludante ŝlosilan rolon en traktado de realaj lingvo-relataj problemoj. Ĝi ampleksas larĝan spektron de agadoj kaj disciplinoj, ĉiuj kontribuante al nia kompreno kaj administrado de la rolo de lingvo en socio.
+
+## La Estonteco de Lingvistiko
+
+La estonteco de lingvistiko estas pretigita esti formita per teknologiaj avancoj, interdisciplinaj kunlaboroj, kaj kreskanta rekono de la rolo de lingvo en solvo de mondaj problemoj.
+
+1. **Ekrilataj Tendencoj kaj Teknologioj en Lingvistiko:**
+   - **Teknologia Integriĝo:** La pliigita uzo de arteca intelekto kaj maŝinlernado en lingva esplorado transformas la manieron, kiel ni analizas lingvon. Teknologioj kiel natura lingvoprocigo (NLP), parolrekonado, kaj komputila modeligo ebligas pli sofiĉan analizon kaj komprenon de lingvaj strukturoj kaj uzo.
+   - **Granda Dateno kaj Korpusa Lingvistiko:** La havebleco de grand-skaloj lingvaj datumaroj ebligas pli kompleksajn studojn pri lingvouzo kaj ŝanĝoj tra la tempo. Analizo de grandaj datumoj povas eltrovi ŝablonojn kaj tendencojn en lingvo, kiujn antaŭe malfacile detektis.
+   - **Neŭro- kaj Psikolingvistiko:** Avancoj en cerb-bildigo-teknologioj kiel fMRI provizas pli profundajn sciojn pri la neŭrologiaj subtrukturoj de lingvotraktado kaj akiro.
+
+2. **Interdisciplinaj Konektoj:**
+   - **Kognitika Scienco kaj Psikologio:** La rilato inter lingvo kaj kogno restas chefa esplora areo, precipe pri kompreno kiel lingvo formas penson kaj reciproke.
+   - **Sociosciencoj kaj Humansciencoj:** Lingvistiko pli kaj pli interligas kun disciplinoj kiel antropologio, sociologio, kaj filozofio, esplorante la rolon de lingvo en kulturo, socio, kaj individua identeco. Tio inkluzivas studojn pri lingvo kaj sekso, lingvo kaj potenco, kaj lingvo en cifereca komunikado.
+   - **Kompjuterscienco kaj Inĝenierarto:** Kunlaboro kun ĉi tiuj fakoj estas esenca en la disvolvo de rafinaj lingvaj teknologioj, de plibonigo de maŝina tradukado ĝis evoluo de pli naturaj homa-komputila interago.
+
+3. **La Rolo de Lingvistiko en Solvado de Mondaj Defioj:**
+   - **Konservado kaj Diverseco de Lingvoj:** Dum mondigo prezentas minacojn al lingva diverseco, lingvistiko ludas gravegan rolon en dokumentado kaj konservado de endanĝerigitaj lingvoj. Tio estas vitala por konservi kulturan heredaĵon kaj la intelektan diversecon de la mondo.
+   - **Edukado kaj Legkapablo:** Lingvistiko kontribuas al pli efikaj lingvaj edukstrategioj, kaj por denaskaj lingvoj kaj por dua lingvoadkiraĵo. Tio havas implikaĵojn pri la tutmondaj legkapabligrado kaj kvalito de edukado.
+   - **Komunikado kaj Misinformado:** En epoko de tutmonda cifereca komunikado, lingvistiko helpas kompreni kaj navigi problemojn de misinformado, interkultura komunikado, kaj la dinamiko de cifereca discurso.
+   - **Alirebleco kaj Inkluziveco:** Lingva esplorado estas instrumentala en disvolvo de teknologioj kaj strategioj por fari informon kaj komunikadon alirebla al ĉiuj, inkluzive de homoj kun parol- kaj aŭskultmanko.
+
+La estonteco de lingvistiko estas vigla kaj multdimensia, etendante sian efikon por trakti gravajn tutmondajn problemojn dum pliprofundigado de nia kompreno pri la fundamenta naturo de lingvo. Ĉi tiu estonta vojo ne nur rilatas al antaŭenigo de scio ene de la fako, sed ankaŭ rilatas al apliko de tiu scio en maniero, kiu havas signifan efikon sur socioj kaj individuoj tutmondaj.
+
+## Terminaro
+
+**Foniko:** La studo de la fizikaj sonoj de la homa parolo.
+
+**Fonologio:** La studo de la modeloj kaj organizo de parolsonoj en lingvo.
+
+**Morfologio:** La branĉo de lingvistiko kiu studas la strukturon kaj formon de vortoj, inkluzive de la formado de multenombro, tempoj, kaj aliaj gramatikaj aspektoj.
+
+**Sintakso:** La studo de la reguloj kaj principoj kiuj regas la strukturon de frazoj en lingvo.
+
+**Semantiko:** La areo de lingvistiko koncernanta la signifojn de vortoj kaj frazoj.
+
+**Pragmatiko:** La studo de kiel kunteksto kaj situacio influas la interpretadon de signifo en lingvo.
+
+**Diskursa Analizo:** La analizo de lingvouzo en tekstoj aŭ konversacio, trans la nivelo de frazo.
+
+**Sociolingvistiko:** La studo de kiel lingvo varias kaj ŝanĝas en sociaj grupoj kaj komunumoj.
+
+**Psiĥolingvistiko:** La studo de la psikologiaj kaj neŭrobiologiaj faktoroj kiuj ebligas homojn akiri, uzi, kaj kompreni lingvon.
+
+**Aplikata Lingvistiko:** La aplikado de lingvistikaj metodoj kaj teorioj por solvi praktikajn problemojn, kiel ekzemple en lingva edukado kaj traduko.
+
+**Historia Lingvistiko:** La studo de kiel lingvoj ŝanĝiĝas tra la tempo.
+
+**Priskriba Lingvistiko:** La studo de kiel lingvoj estas uzataj en praktiko, sen juĝoj pri ĝusteco aŭ superioreco.
+
+**Preskriba Lingvistiko:** Aliro al lingvistiko kiu difinas regulojn por kio estas konsiderata 'ĝusta' uzo de lingvo.
+
+**Komputila Lingvistiko:** La studo de kiel komputiloj povas esti uzataj por kompreni kaj manipuli la homan lingvon.
+
+**Naturlingva Prilaboro (NLP):** La uzo de algoritmoj por prilabori kaj kompreni la homan lingvon.
+
+**Fonemo:** La plej eta sono-unuo en lingvo kiu povas distingi signifon.
+
+**Morfemo:** La plej eta gramatika unuo en lingvo; vorto aŭ parto de vorto kiu ne povas esti disdividita en pli eta signifaj partoj.
+
+**Sintaksarbo:** Skemo uzata por prezenti la gramatikan strukturon de frazo, montrante la rilatojn inter vortoj kaj frazoj.
+
+**Dulingveco:** La kapablo paroli kaj kompreni du lingvojn flue.
+
+**Lingva Akirado:** La proceso per kiu homoj lernas komuniki en lingvo, kutime fokuse pri la unua lingva akirado ĉe infanoj.
+
+## Ofte Demandataj Demandoj
+
+1. **Kio estas lingvistiko?**
+   - Lingvistiko estas la scienca studo de lingvo, inkluzive de ĝia strukturo, uzo, kaj disvolviĝo.
+
+2. **Kiom da lingvoj estas en la mondo?**
+   - Ĉirkaŭe 7,000 lingvoj estas parolataj tra la mondo hodiaŭ.
+
+3. **Kio estas la diferenco inter lingvo kaj dialekto?**
+   - La distingo estas ofte socipolitika anstataŭ pure lingvistika. Ĝenerale, lingvo estas dialekto kun armeo kaj mararmeo.
+
+4. **Ĉu lingvistiko povas helpi lerni lingvojn?**
+   - Jes, kompreni la sciencon de lingvistiko povas provizi enigojn pri la strukturo kaj funkcio de lingvoj, helpante en ilia lernado.
+
+5. **Kio estas la plej malfacila lingvo lerni?**
+   - Malfacileco estas subjektiva kaj dependas de la denaskulo. Por anglaparolantoj, lingvoj kiel mandarino, araba, kaj japana ofte konsideriĝas defiaj pro gravaj diferencoj en skribaj sistemoj, gramatiko, kaj fonologio.
+
+6. **Kio estas mortinta lingvo?**
+   - Mortinta lingvo estas tiu, kiu ne havas pluajn denaskulojn, ekzemple la latina.
+
+7. **Kio estas kreola lingvo?**
+   - Kreola estas stabila, plenvalorlingvo kiu originas el miksaĵo de du aŭ pli lingvoj, kutime evoluante en kontekstoj de koloniigo aŭ komerco.
+
+8. **Kion studas 'fonetiko'?**
+   - Fonetiko studas la fizikajn sonojn de la homa parolo, inkluzive de kiel ili estas produktataj, transdonataj, kaj perceptataj.
+
+9. **Kio estas morfologio en lingvistiko?**
+   - Morfologio estas la studo de la interna strukturo de vortoj kaj kiel ili estas formitaj el pli malgrandaj unuoj nomataj morfemoj.
+
+10. **Kio estas la diferenco inter sintakso kaj semantiko?**
+    - Sintakso estas la studo de la strukturo de frazoj kaj la reguloj kiuj regas la formadon de frazoj, dum semantiko traktas la signifojn de vortoj kaj frazoj.
+
+11. **Kial estas grave konservi lingvojn?**
+    - Konservi lingvojn estas grave por gardi kulturan diversecon, protekti prahan scion kaj historion, kaj kompreni homan kognadon.
+
+12. **Kio estas fonemo?**
+    - Fonemo estas la plej eta sono-unuo en lingvo kiu povas ŝanĝi la signifon de vorto (ekzemple, /p/ kaj /b/ en 'pat' kaj 'bat').
+
+13. **Kio estas sociolingvistiko?**
+    - Sociolingvistiko studas la rilaton inter lingvo kaj socio, inkluzive de kiel lingvo varias kaj ŝanĝiĝas en malsamaj sociaj kuntekstoj kaj grupoj.
+
+14. **Kiel lingvo influas penson?**
+    - Tiu koncepto, konata kiel lingva relativeco, sugestas ke la lingvo, kiun oni parolas, povas influenci kiel oni pensas kaj perceptas la mondon.
+
+15. **Kio estas lingvaj universaloj?**
+    - Lingvaj universaloj estas trajtoj aŭ karakterizaĵoj kiuj estas komunaj al ĉiuj homaj lingvoj, kiel ekzemple la ekzisto de substantivoj kaj verboj.
+
+16. **Kio estas la diferenco inter priskripta kaj preskripta lingvistiko?**
+    - Priskripta lingvistiko celas priskribi kiel lingvo estas efektive uzata, sen juĝoj pri ĝusteco, dum preskripta lingvistiko provas starigi regulojn pri kiel lingvo devus esti uzata.
+
+17. **Kio estas komputila lingvistiko?**
+    - Komputila lingvistiko estas la studo de kiel komputiloj povas esti uzataj por prilabori kaj analizi la homan lingvon.
+
+18. **Ĉu bestoj povas havi lingvon?**
+    - Dum bestoj komunikas, iliaj komunikaj sistemoj mankas multajn trajtojn de homa lingvo, kiel ekzemple kompleksa sintakso kaj ĝenerativeco.
+
+19. **Kio estas pidĝina lingvo?**
+    - Pidĝina estas simpligita formo de parolo kiu disvolviĝas kiel komunikilo inter parolantoj de malsamaj lingvoj, ofte por komercado.
+
+20. **Kio estas parolproblemo?**
+    - Parolproblemo rilatas al iu kondiĉo kiu influas la kapablon de persono produkti sonojn por krei vortojn, ofte influante komunikadon.
