@@ -270,9 +270,7 @@
 - **Observational Evidence**: In the 1920s, astronomer Edwin Hubble observed that galaxies are moving away from us, with farther galaxies receding faster, suggesting that the universe is expanding.
 - **Implications**: The expansion of the universe implies that it was denser and hotter in the past. This observation is a cornerstone of the Big Bang Theory.
 - **Accelerating Expansion**: Recent observations have shown that the expansion of the universe is not just continuing but accelerating. This acceleration is attributed to a mysterious force called dark energy.
-- **Measuring Expansion**: The rate of expansion, known as the Hubble constant, is a key parameter in cosmology. However, there is currently a discrepancy between measurements of
-
- the Hubble constant from distant (early universe) and local (late universe) observations, leading to ongoing debates and research in the field.
+- **Measuring Expansion**: The rate of expansion, known as the Hubble constant, is a key parameter in cosmology. However, there is currently a discrepancy between measurements of the Hubble constant from distant (early universe) and local (late universe) observations, leading to ongoing debates and research in the field.
 
 **Conclusion**: Cosmology and the Big Bang Theory provide a framework for understanding the universe's birth and its subsequent evolution. The cosmic microwave background acts as a relic of the universe's infancy, offering invaluable clues about the early universe's conditions. The continued study of the universe's expansion, especially the intriguing acceleration driven by dark energy, remains one of the most active areas of research in astrophysics. These studies not only deepen our understanding of the cosmos but also raise profound questions about its ultimate fate and the nature of the fundamental components of the universe.
 
@@ -368,9 +366,7 @@
 - **Significant Efforts**: Notable projects include the SETI Institute's Allen Telescope Array and Breakthrough Listen, one of the most comprehensive searches, using powerful telescopes to survey the million closest stars, the center of our galaxy, and the nearest 100 galaxies.
 
 ### Future Missions and Possibilities
-- **Upcoming Space Missions**: Future missions like the James Webb Space Telescope, the European Extremely Large Telescope, and missions to Mars, Europa, and Enceladus aim to search for biosignatures or life's chemical traces in the atmospheres of exoplanets or on the
-
- surfaces of moons and planets within our solar system.
+- **Upcoming Space Missions**: Future missions like the James Webb Space Telescope, the European Extremely Large Telescope, and missions to Mars, Europa, and Enceladus aim to search for biosignatures or life's chemical traces in the atmospheres of exoplanets or on the surfaces of moons and planets within our solar system.
 - **Exoplanet Exploration**: Advanced telescopes will enable the detailed study of exoplanet atmospheres, searching for signs of life, such as the presence of oxygen, methane, or other organic molecules.
 - **Robotic Explorers**: Robotic missions to Mars, Europa (Jupiter’s moon), and Enceladus (Saturn’s moon) are particularly exciting. Mars rovers are analyzing soil and rocks for past or present life signs. Europa and Enceladus have subsurface oceans that may harbor life, and future missions aim to explore these environments.
 - **Astrobiology Research**: Research continues in understanding life’s adaptability, which helps in identifying potential extraterrestrial habitats. Studies in extreme Earth environments, from deep-sea vents to polar ice caps, guide scientists in formulating hypotheses about life elsewhere.

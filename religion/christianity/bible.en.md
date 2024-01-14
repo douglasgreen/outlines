@@ -260,9 +260,7 @@ The historical books of the Hebrew Bible, spanning from Joshua to Esther, provid
 - **God’s Sovereignty:** Throughout these narratives, God’s sovereignty in guiding and disciplining His people is a central theme.
 - **Hope and Restoration:** Especially in the post-exilic books (Ezra, Nehemiah, Esther), there is a focus on the themes of hope, restoration, and God’s faithfulness to His promises.
 
-In conclusion, the historical books from Joshua to Esther provide a rich tapestry of stories and lessons,
-
- detailing Israel's journey from conquest to kingdom, division, exile, and return. They reflect on the nation's successes and failures, always pointing back to their relationship with God.
+In conclusion, the historical books from Joshua to Esther provide a rich tapestry of stories and lessons, detailing Israel's journey from conquest to kingdom, division, exile, and return. They reflect on the nation's successes and failures, always pointing back to their relationship with God.
 
 ## Wisdom Literature: Job, Psalms, Proverbs, Ecclesiastes, and Song of Solomon
 

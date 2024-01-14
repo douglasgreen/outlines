@@ -329,9 +329,7 @@ Vim's help system is an extensive and invaluable resource for both beginners and
    - Help topics are displayed in a split window, allowing you to keep your work visible while referring to the documentation.
 
 2. **Navigating Within Help**:
-   - Vim's
-
- help files are hyperlinked, similar to web pages. You can jump to a linked topic by positioning the cursor over a hyperlink (which is often highlighted and underlined) and pressing `Ctrl-]`. To go back to the previous topic, press `Ctrl-o`.
+   - Vim's help files are hyperlinked, similar to web pages. You can jump to a linked topic by positioning the cursor over a hyperlink (which is often highlighted and underlined) and pressing `Ctrl-]`. To go back to the previous topic, press `Ctrl-o`.
    - You can also use the usual Vim navigation commands (`h`, `j`, `k`, `l`, `Ctrl-f`, `Ctrl-b`) to move around within a help file.
 
 3. **Closing the Help Window**:

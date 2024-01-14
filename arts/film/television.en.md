@@ -290,9 +290,7 @@ The advent of the Internet Age has revolutionized the television landscape, part
 
 5. **Impact on Advertising and Revenue Models**: The rise of streaming services has disrupted traditional advertising-based revenue models. Many streaming platforms operate on subscription-based models, offering ad-free viewing experiences. This change has forced advertisers and marketers to find new ways to reach audiences, such as through product placements within shows or advertising on streaming platforms that do offer ad-supported content.
 
-6. **Viewer Data and Personalization**: Streaming services collect vast amounts
-
- of data on viewer preferences and behaviors, which they use to personalize content recommendations and develop targeted marketing strategies. This data-driven approach allows for a more customized viewing experience, increasing viewer engagement and satisfaction.
+6. **Viewer Data and Personalization**: Streaming services collect vast amounts of data on viewer preferences and behaviors, which they use to personalize content recommendations and develop targeted marketing strategies. This data-driven approach allows for a more customized viewing experience, increasing viewer engagement and satisfaction.
 
 7. **Challenges for Traditional Broadcasters**: Traditional broadcasters are responding to the shift by launching their own streaming platforms, such as NBC's Peacock, CBS All Access (rebranded as Paramount+), and HBO Max. These platforms are a way for traditional networks to enter the streaming market, offering their content libraries alongside new, original productions.
 

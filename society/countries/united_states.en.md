@@ -624,9 +624,7 @@ The Modern Era in the United States, particularly from the 1960s onwards, was ma
 6. **Advancements in Technology and Media**:
    - Innovations in technology, particularly in computing and telecommunications, began reshaping daily life. The era also saw the rise of new forms of media, influencing public opinion and culture.
 
-The Modern Era in the United States was a period of dramatic change, characterized by questioning traditional authority, challenging social norms, and significant shifts in
-
- public attitudes and policies. The Vietnam War not only had profound implications for American foreign policy but also deeply influenced domestic politics and culture. The various social and cultural movements that emerged during this time reflected a society in flux, grappling with issues of equality, freedom, and the role of government. These movements laid the groundwork for ongoing debates and reforms in the ensuing decades, highlighting the dynamic and evolving nature of American society.
+The Modern Era in the United States was a period of dramatic change, characterized by questioning traditional authority, challenging social norms, and significant shifts in public attitudes and policies. The Vietnam War not only had profound implications for American foreign policy but also deeply influenced domestic politics and culture. The various social and cultural movements that emerged during this time reflected a society in flux, grappling with issues of equality, freedom, and the role of government. These movements laid the groundwork for ongoing debates and reforms in the ensuing decades, highlighting the dynamic and evolving nature of American society.
 
 ## The Turn of the Century
 
