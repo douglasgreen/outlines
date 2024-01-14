@@ -192,6 +192,9 @@ Outlines written by ChatGPT-4 on various subjects.
 ## Society
   * [Sociology](society/sociology.en.md)
 
+### Countries
+  * [United States](society/countries/united_states.en.md) ([Esperanto](society/countries/united_states.eo.md))
+
 ## Sports
   * [Sports](sports/sports.en.md)
 
