@@ -196,6 +196,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [United States](society/countries/united_states.en.md) ([Esperanto](society/countries/united_states.eo.md))
 
 ### Regions
+  * [Africa](society/regions/africa.en.md)
   * [Europe](society/regions/europe.en.md)
 
 ## Sports
