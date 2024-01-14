@@ -124,6 +124,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [German Grammar](language/german/grammar.en.md)
   * [German Vocabulary](language/german/vocabulary.en.md)
 
+### Greek
+  * [Classical Greek](language/greek/classical_greek.en.md)
+
 ### Italian
   * [Italian Grammar](language/italian/grammar.en.md)
 
