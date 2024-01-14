@@ -151,6 +151,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Algebra](mathematics/algebra.en.md)
   * [Calculus](mathematics/calculus.en.md)
   * [Discrete Mathematics](mathematics/discrete_mathematics.en.md)
+  * [Game Theory](mathematics/game_theory.en.md)
   * [Geometry](mathematics/geometry.en.md)
   * [Mathematics](mathematics/mathematics.en.md)
   * [Probability](mathematics/probability.en.md)
