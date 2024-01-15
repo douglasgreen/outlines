@@ -43,9 +43,6 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Databases](computing/databases/databases.en.md)
   * [MySQL](computing/databases/mysql.en.md)
 
-### Data Science
-  * [XML](computing/data_science/xml.en.md)
-
 ### Internet
   * [Internet Security](computing/internet/security.en.md)
   * [Search Engines](computing/internet/search_engines.en.md)
@@ -89,6 +86,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Hypertext Transfer Protocol](computing/web_development/http.en.md)
   * [Symfony](computing/web_development/symfony.en.md)
   * [WebPack](computing/web_development/webpack.en.md)
+  * [XML](computing/web_development/xml.en.md)
 
 ## Games
   * [History of Video Games](games/history_of_video_games.en.md)
