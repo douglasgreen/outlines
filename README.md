@@ -88,6 +88,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [WebPack](computing/web_development/webpack.en.md)
   * [XML](computing/web_development/xml.en.md)
 
+## Education
+  * [Education](education/education.en.md)
+
 ## Games
   * [History of Video Games](games/history_of_video_games.en.md)
 
