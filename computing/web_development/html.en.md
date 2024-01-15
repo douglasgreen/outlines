@@ -226,7 +226,6 @@ The basic syntax for creating a hyperlink is:
 ### Absolute vs. Relative Linking
 
 1. **Absolute Linking:** This involves specifying the full URL of the resource you are linking to. It includes the protocol (`http://` or `https://`), domain name, and path to the resource. Absolute links are used to link to external sites or resources.
-
    Example:
 
    ```html
@@ -234,7 +233,6 @@ The basic syntax for creating a hyperlink is:
    ```
 
 2. **Relative Linking:** This involves linking to a resource within the same website. Instead of specifying a full URL, you provide the path from the current file to the target file. Relative links are convenient for navigating within the same site because they do not require the full URL.
-
    Example:
 
    ```html
@@ -246,7 +244,6 @@ The basic syntax for creating a hyperlink is:
 ### Linking to External Websites and Email Addresses
 
 - **External Websites:** To link to an external website, you use an absolute URL. It's also a good practice to open external links in a new browser tab using the `target="_blank"` attribute.
-
   Example:
 
   ```html
@@ -254,7 +251,6 @@ The basic syntax for creating a hyperlink is:
   ```
 
 - **Email Addresses:** To create a link that opens the user's email client to send an email, use the `mailto:` scheme in the `href` attribute.
-
   Example:
 
   ```html
@@ -272,7 +268,6 @@ Incorporating images into web pages is a fundamental aspect of web design. HTML 
 ### Inserting and Aligning Images
 
 - **Inserting Images:** The `<img>` tag is used to insert images into an HTML page. This tag is self-closing, meaning it doesn't require an end tag. The `src` (source) attribute is used to specify the path to the image file.
-
   Example:
 
   ```html
@@ -280,7 +275,6 @@ Incorporating images into web pages is a fundamental aspect of web design. HTML 
   ```
 
 - **Aligning Images:** In modern HTML, alignment is typically handled using CSS (Cascading Style Sheets). However, for basic alignment, you can use attributes like `align` within the `<img>` tag or style attributes. For more precise control, CSS properties such as `float`, `display`, and `margin` are used.
-
   Example with basic HTML:
 
   ```html
@@ -305,7 +299,6 @@ Incorporating images into web pages is a fundamental aspect of web design. HTML 
 ### Image Maps and Accessibility
 
 - **Image Maps:** HTML allows for the creation of image maps, where different areas of an image can be linked to different destinations. This is done using the `<map>` tag in conjunction with the `<area>` tag. Each `<area>` specifies a clickable region and its corresponding link.
-
   Example:
 
   ```html
@@ -366,7 +359,6 @@ This code creates a table with two columns (Name and Email) and two rows of data
   - **Colspan:** Merges cells horizontally. For example, `<td colspan="2">` merges a cell with the one next to it for two columns.
 
 - **Table Styling:** While basic styling can be done with HTML attributes like `bgcolor` for background color, modern practices recommend using CSS for styling tables. CSS provides more flexibility and options, such as setting borders, padding, colors, and even hover effects.
-
   Example with CSS:
 
   ```css
@@ -405,7 +397,6 @@ HTML forms are a vital component of web pages, enabling users to enter and submi
 ### Creating HTML Forms
 
 - **Form Tag (`<form>`):** The container for all the form elements. It has attributes like `action` (the URL where the form data is sent upon submission) and `method` (how data is sent - typically `GET` or `POST`).
-
   Example:
 
   ```html
@@ -417,7 +408,6 @@ HTML forms are a vital component of web pages, enabling users to enter and submi
 - **Input Elements:** The `<input>` tag is a versatile form element used to collect user data. Other elements like `<textarea>`, `<select>`, and `<button>` are also commonly used in forms.
 
 - **Labels (`<label>`):** Important for accessibility; they associate text with form controls. Using the `for` attribute in the label tag links it to the specific form element by ID.
-
   Example:
 
   ```html
@@ -448,7 +438,6 @@ HTML forms are a vital component of web pages, enabling users to enter and submi
 ### Form Validation and Accessibility
 
 - **Form Validation:** Ensures that the user enters data in the correct format. HTML5 includes built-in validation attributes like `required`, `min`, `max`, `pattern` (a regular expression), and type-specific validations like email format in the `email` type input.
-
   Example:
 
   ```html
@@ -507,7 +496,6 @@ HTML provides a range of options for advanced text formatting, allowing develope
    - For multiple lines of code, `<pre>` (preformatted text) combined with `<code>` is often used. The `<pre>` tag respects both spaces and line breaks.
 
 3. **Preformatted Text:** The `<pre>` tag is used when you want your text to be displayed exactly as it's written in the HTML file, preserving spaces and line breaks.
-
    Example:
 
    ```html
@@ -521,14 +509,12 @@ HTML provides a range of options for advanced text formatting, allowing develope
 ### HTML Entities and Character References
 
 - **HTML Entities:** Sometimes it's necessary to display characters that have a special meaning in HTML (like `<`, `>`, and `&`). HTML entities are used for these characters. They start with an `&` and end with a `;`.
-
   For example:
   - `&lt;` represents the `<` sign.
   - `&gt;` represents the `>` sign.
   - `&amp;` represents the `&` sign.
 
 - **Character References:** Apart from standard entities, HTML supports a wide range of character references (including symbols, mathematical signs, and various special characters). They can be referred to by their named entity or by their numeric code.
-
   For example:
   - `&copy;` or `&#169;` represents the copyright symbol ©.
   - `&euro;` or `&#8364;` represents the Euro symbol €.
@@ -613,7 +599,6 @@ selector {
 ### Inline, Internal, and External CSS
 
 1. **Inline CSS:** CSS directly within the HTML element, using the `style` attribute. It only affects the element it is applied to.
-
    Example:
 
    ```html
@@ -621,7 +606,6 @@ selector {
    ```
 
 2. **Internal (Embedded) CSS:** CSS within the `<style>` tag in the `<head>` section of the HTML document. It affects all elements on the page that match the selectors used in the style block.
-
    Example:
 
    ```html
@@ -631,7 +615,6 @@ selector {
    ```
 
 3. **External CSS:** CSS written in a separate file (with a `.css` extension) and linked to the HTML document using the `<link>` tag in the `<head>` section. This is the most efficient way to style a website, especially as it grows in size and complexity.
-
    Example:
 
    ```html
@@ -953,7 +936,6 @@ Integrating HTML with JavaScript is crucial for creating dynamic and interactive
    - **Functions:** Writing functions to execute blocks of code.
    - **Conditions:** Using if-else statements for decision making.
    - **Loops:** Using for, while loops for repetitive tasks.
-
    Example:
    ```javascript
    function greet(name) {
@@ -990,7 +972,6 @@ Integrating HTML with JavaScript is crucial for creating dynamic and interactive
 1. **Adding Event Listeners:**
    - JavaScript allows you to respond to events like clicks, mouse movements, key presses, etc.
    - Use `addEventListener()` to attach an event listener to an element.
-
    Example:
    ```javascript
    document.getElementById("myButton").addEventListener("click", function() {

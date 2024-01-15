@@ -45,17 +45,14 @@ Setting up MySQL involves several key steps, which can vary depending on the ope
     -   Download the Installer: Go to the MySQL official website and download the MySQL installer for Windows.
     -   Run the Installer: Follow the prompts in the MySQL Installation Wizard. Choose the appropriate setup type (e.g., Full, Developer, Server only).
     -   Install: The wizard will guide you through the process, including installing required components like Visual Studio Tools.
-
-    macOS:
+2.  macOS:
     -   Download the DMG file: Obtain the DMG file for macOS from the MySQL website.
     -   Install MySQL: Open the downloaded file and follow the on-screen instructions.
     -   System Preferences: After installation, MySQL can be controlled from the System Preferences pane.
-
-    Linux (Debian/Ubuntu):
+3.  Linux (Debian/Ubuntu):
     -   Repository Setup: Import the MySQL APT repository to your system. You can find the APT repository package on the MySQL website.
     -   Install MySQL: Update package information from the MySQL APT repository with `sudo apt-get update`, then install MySQL with `sudo apt-get install mysql-server`.
-
-    Linux (Red Hat/CentOS):
+4.  Linux (Red Hat/CentOS):
     -   Repository Setup: Download and add the MySQL YUM repository to your system from the MySQL website.
     -   Install MySQL: Update your YUM package index and install MySQL with `sudo yum install mysql-server`.
 
@@ -142,17 +139,21 @@ MySQL is known for its reliability and ease of use. Here's a basic overview of s
 
 -   Creating a Table:
 
+        ```sql
         CREATE TABLE table_name (
             column1 datatype,
             column2 datatype,
             column3 datatype,
             ...
         );
+        ```
 
 -   Inserting Data:
 
+        ```sql
         INSERT INTO table_name (column1, column2, column3, ...)
         VALUES (value1, value2, value3, ...);
+        ```
 
 -   Querying Data: `SELECT column1, column2 FROM table_name WHERE condition;`
 
@@ -164,10 +165,12 @@ MySQL is known for its reliability and ease of use. Here's a basic overview of s
 
 -   Joining Tables:
 
+        ```sql
         SELECT columns
         FROM table1
         INNER JOIN table2
         ON table1.column_name = table2.column_name;
+        ```
 
 These operations are the foundation for interacting with a MySQL database. For more complex operations, MySQL offers a wide range of advanced functions and features. It's important to have a good understanding of SQL (Structured Query Language) to effectively use MySQL. Additionally, always ensure that your database is properly secured and backed up when performing operations.
 
@@ -217,21 +220,27 @@ CRUD stands for Create, Read, Update, and Delete. These are the four basic opera
 
 To create a new table:
 
+    ```sql
     CREATE TABLE students (
         id INT AUTO_INCREMENT PRIMARY KEY,
         name VARCHAR(100),
         age INT
     );
+    ```
 
 To insert data into the table:
 
+    ```sql
     INSERT INTO students (name, age) VALUES ('Alice', 22);
+    ```
 
 ### Read
 
 To read data from a table:
 
+    ```sql
     SELECT * FROM students;
+    ```
 
 This query retrieves all columns from the 'students' table. You can also select specific columns.
 
@@ -239,7 +248,9 @@ This query retrieves all columns from the 'students' table. You can also select 
 
 To update existing data:
 
+    ```sql
     UPDATE students SET age = 23 WHERE name = 'Alice';
+    ```
 
 This changes the age of the student named Alice to 23.
 
@@ -247,7 +258,9 @@ This changes the age of the student named Alice to 23.
 
 To delete data from a table:
 
+    ```sql
     DELETE FROM students WHERE name = 'Alice';
+    ```
 
 This removes the record of the student named Alice.
 
@@ -301,10 +314,12 @@ Advanced SQL techniques in MySQL enhance data manipulation and analysis, allowin
 
 -   Syntax Example:
 
+        ```sql
         SELECT columns
         FROM table1
         INNER JOIN table2
         ON table1.column_name = table2.column_name;
+        ```
 
 ##### Subqueries
 
@@ -317,9 +332,11 @@ Advanced SQL techniques in MySQL enhance data manipulation and analysis, allowin
 
 -   Syntax Example:
 
+        ```sql
         SELECT column_name
         FROM table1
         WHERE column_name IN (SELECT column_name FROM table2);
+        ```
 
 #### 2. Aggregation and Grouping
 
@@ -331,8 +348,10 @@ Advanced SQL techniques in MySQL enhance data manipulation and analysis, allowin
 
 -   Usage Example:
 
+        ```sql
         SELECT AVG(column_name)
         FROM table;
+        ```
 
 ##### Grouping
 
@@ -344,9 +363,11 @@ Advanced SQL techniques in MySQL enhance data manipulation and analysis, allowin
 
 -   Syntax Example:
 
+        ```sql
         SELECT column_name, COUNT(*)
         FROM table
         GROUP BY column_name;
+        ```
 
 #### 3. Advanced Query Techniques
 
@@ -368,7 +389,9 @@ Creating Users:
 
 -   To create a new user in MySQL, the `CREATE USER` statement is used. This statement allows you to specify the username, host, and authentication details. For example:
 
+        ```sql
         CREATE USER 'username'@'host' IDENTIFIED BY 'password';
+        ```
 
 -   The 'host' specifies where the user can connect from. It can be a specific IP, `%` for any host, or `localhost`.
 
@@ -386,7 +409,9 @@ Granting Privileges:
 
 -   MySQL uses a privilege system to control access to databases and tables. The `GRANT` statement is used to give privileges to users.
 
+        ```sql
         GRANT SELECT, INSERT ON mydb.* TO 'username'@'host';
+        ```
 
 -   This example grants SELECT and INSERT privileges on all tables in the 'mydb' database to the specified user.
 
@@ -656,21 +681,21 @@ Replication in MySQL is a process that allows you to maintain multiple copies of
 
 ### Setting Up Replication
 
-1.  Choosing the Master and Slave(s): Identify which MySQL server will act as the master and which will be the slave(s).
+Choosing the Master and Slave(s): Identify which MySQL server will act as the master and which will be the slave(s).
 
-    Configuring the Master:
+1.  Configuring the Master:
 
     -   Configure the master to log changes to its binary log file, which the slave will read to replicate changes.
     -   Assign a unique server ID.
     -   Create a replication user account with the necessary privileges.
 
-    Configuring the Slave(s):
+2.  Configuring the Slave(s):
 
     -   Assign a unique server ID.
     -   Configure slave to connect to the master's replication user account.
     -   Specify the master's binary log file and the position at which the slave should start replicating.
 
-    Starting Replication:
+3.  Starting Replication:
 
     -   Start the slave replication process using the `START SLAVE` command.
     -   Verify the replication status with `SHOW SLAVE STATUS`.
@@ -688,18 +713,18 @@ Replication in MySQL is a process that allows you to maintain multiple copies of
     -   `SHOW SLAVE STATUS`: Provides detailed information on the slave replication status.
     -   MySQL Enterprise Monitor: A more advanced tool for monitoring MySQL servers including replication health.
 
-    Managing Replication:
+2.  Managing Replication:
     -   Handling replication errors: Identifying and resolving issues like data inconsistencies or connection problems.
     -   Promoting a slave to a master: Useful in failover scenarios or scaling operations.
     -   Backup and recovery: Regular backups are essential, and understanding how to restore a slave from a backup is crucial for maintaining replication integrity.
 
-    Performance Tuning:
+3.  Performance Tuning:
     -   Adjusting settings like replication delay or choosing between row-based and statement-based replication can optimize performance.
 
-    Scaling:
+4.  Scaling:
     -   Adding more slaves to distribute read load and increase redundancy.
 
-    High Availability Setups:
+5.  High Availability Setups:
     -   Implementing failover mechanisms and ensuring seamless switchover in case of master failure.
 
 In conclusion, MySQL replication is a powerful feature for ensuring data availability and scalability. Proper setup, understanding the types of replication, and effective monitoring and management are key to leveraging its full potential.

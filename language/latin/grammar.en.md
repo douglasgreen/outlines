@@ -159,13 +159,11 @@ Example:
 #### Types of Adjectives
 
 1.  First/Second Declension Adjectives: These adjectives have separate masculine, feminine, and neuter forms. They are often listed in dictionaries in the masculine nominative singular form, followed by the feminine and neuter forms.
-
     Example:
 
     -   "bonus, bona, bonum" (good) - masculine, feminine, neuter.
 
 2.  Third Declension Adjectives: These have a single form for both masculine and feminine, and a separate neuter form. They are more variable in their endings.
-
     Example:
 
     -   "fortis, forte" (strong/brave) - masculine/feminine, neuter.

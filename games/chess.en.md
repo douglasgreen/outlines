@@ -25,6 +25,7 @@ The chessboard is an 8x8 grid with alternating light and dark squares. Each play
 
 - **Back Row**: From left to right (from each player's perspective), the pieces are arranged: rook, knight, bishop, queen, king, bishop, knight, rook. The queen is placed on her own color (white queen on a white square, black queen on a black square).
 - **Pawns**: The second row (or rank) is filled with pawns.
+  test
 
 Players move their pieces across the board with the white player typically making the first move. The positioning and movement of pieces are critical, as they determine the strategy and outcome of the game. Chess is a game of infinite possibilities and profound complexity, a mental battle that tests strategic thinking, foresight, and adaptability.
 

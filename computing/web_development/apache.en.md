@@ -418,7 +418,9 @@ A rewrite rule in Apache typically consists of a `RewriteRule` directive, which 
 
 Syntax:
 
+    ```apacheconf
     RewriteRule pattern substitution [flags]
+    ```
 
 Important Components:
 
@@ -430,7 +432,9 @@ Important Components:
 
 Simple Redirection: Redirecting from an old page to a new page.
 
+    ```apacheconf
     RewriteRule ^oldpage\.html$ newpage.html [R=301,L]
+    ```
 
 -   This rule permanently redirects (301) requests from `oldpage.html` to `newpage.html`.
 -   Rewriting to a Script: Sending all requests to a single script for processing.

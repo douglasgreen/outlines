@@ -78,20 +78,25 @@ JavaScript is a versatile and widely-used programming language primarily for web
 
 -   Expressions: Combinations of variables, values, and operators, which computes to a value.
 
+        ```javascript
         let result = (x * y) + 10; // Expression
+        ```
 
 ### 3. Control Structures: If-Else, Switch
 
 -   If-Else: Used to execute code blocks based on a condition.
 
+        ```javascript
         if (x > y) {
           console.log("x is greater");
         } else {
           console.log("y is greater");
         }
+        ```
 
 -   Switch: Used for multiple conditions based on a single variable or expression.
 
+        ```javascript
         switch(expression) {
           case value1:
             // code block
@@ -102,30 +107,37 @@ JavaScript is a versatile and widely-used programming language primarily for web
           default:
             // code block
         }
+        ```
 
 ### 4. Loops: For, While, Do-While
 
 -   For Loop: Executes a block of code a number of times.
 
+        ```javascript
         for (let i = 0; i < 5; i++) {
           console.log(i);
         }
+        ```
 
 -   While Loop: Executes as long as a specified condition is true.
 
+        ```javascript
         let i = 0;
         while (i < 5) {
           console.log(i);
           i++;
         }
+        ```
 
 -   Do-While Loop: Executes the code block once, before checking the condition, and then repeats the loop as long as the condition is true.
 
+        ```javascript
         let i = 0;
         do {
           console.log(i);
           i++;
         } while (i < 5);
+        ```
 
 Understanding these basics lays the foundation for more complex JavaScript programming, including functions, events, and manipulating the DOM in web pages.
 
@@ -137,21 +149,27 @@ JavaScript, being a versatile and widely-used programming language for web devel
 
 Functions in JavaScript are blocks of reusable code designed to perform a specific task. They are defined using the `function` keyword, followed by a name, a set of parentheses `()`, and a block of code enclosed in curly braces `{}`.
 
+    ```javascript
     function greet() {
         console.log("Hello World!");
     }
+    ```
 
 You can invoke a function by using its name followed by parentheses:
 
+    ```javascript
     greet(); // Outputs: Hello World!
+    ```
 
 ### Function Parameters and Return Values
 
 Functions can take parameters, which are variables used to pass data into the function. They can also return a value using the `return` statement.
 
+    ```javascript
     function add(a, b) {
         return a + b;
     }
+    ```
 
 Here, `a` and `b` are parameters, and the function returns their sum.
 
@@ -164,6 +182,7 @@ Scope in JavaScript determines the accessibility of variables. There are mainly 
 
 Closure is a feature in JavaScript where an inner function has access to the outer (enclosing) function's variables. It allows a function to retain access to its lexical scope even when the function is executing outside its original scope.
 
+    ```javascript
     function outerFunction() {
         let outerVariable = "I am outside!";
 
@@ -176,12 +195,15 @@ Closure is a feature in JavaScript where an inner function has access to the out
 
     const inner = outerFunction();
     inner(); // Outputs: I am outside!
+    ```
 
 ### Arrow Functions
 
 Arrow functions, introduced in ES6, offer a concise syntax for writing functions. They are anonymous and change the way `this` behaves.
 
+    ```javascript
     const multiply = (a, b) => a * b;
+    ```
 
 They are particularly useful for short functions and when using functions as arguments, like in callbacks.
 
@@ -378,6 +400,7 @@ Asynchronous JavaScript is a way of handling operations that take some time to c
 
 -   Example:
 
+        ```javascript
         function getData(url, callback) {
           fetch(url)
             .then(response => response.json())
@@ -387,6 +410,7 @@ Asynchronous JavaScript is a way of handling operations that take some time to c
         getData('https://api.example.com/data', data => {
           console.log(data);
         });
+        ```
 
 -   Limitations: Callbacks can lead to "callback hell" or "pyramid of doom," where multiple nested callbacks make the code hard to read and maintain.
 
@@ -403,10 +427,12 @@ Asynchronous JavaScript is a way of handling operations that take some time to c
 
 -   Example:
 
+        ```javascript
         fetch('https://api.example.com/data')
           .then(response => response.json())
           .then(data => console.log(data))
           .catch(error => console.error('Error:', error));
+        ```
 
 ### 3. Async/Await
 
@@ -416,6 +442,7 @@ Asynchronous JavaScript is a way of handling operations that take some time to c
 
 -   Example:
 
+        ```javascript
         async function fetchData() {
           try {
             let response = await fetch('https://api.example.com/data');
@@ -426,6 +453,7 @@ Asynchronous JavaScript is a way of handling operations that take some time to c
           }
         }
         fetchData();
+        ```
 
 -   Benefits: This makes the code look cleaner and more readable, especially for complex chains of asynchronous operations.
 
@@ -468,6 +496,7 @@ Working with APIs and AJAX in JavaScript is an essential skill for modern web de
 
 Here's a basic example of how you might use the Fetch API to make a GET request to a RESTful service and process the response:
 
+    ```javascript
     fetch('https://api.example.com/data')
       .then(response => {
         if (!response.ok) {
@@ -481,6 +510,7 @@ Here's a basic example of how you might use the Fetch API to make a GET request 
       .catch(error => {
         console.error('There was a problem with your fetch operation:', error);
       });
+    ```
 
 This code sends a request to `https://api.example.com/data`, waits for the response, parses the JSON data, and logs it to the console. It also includes error handling for network issues or if the response is not OK.
 
@@ -652,6 +682,7 @@ React introduced Hooks in version 16.8, which allow functional components to man
 
 Example:
 
+    ```javascript
     import React, { useState, useContext } from 'react';
 
     const MyComponent = () => {
@@ -662,6 +693,7 @@ Example:
         // JSX code using count and theme
       );
     };
+    ```
 
 ### 4. Introduction to Redux and Vuex
 
@@ -775,7 +807,7 @@ Security in JavaScript is a critical aspect of web development, as JavaScript is
     -   Validating and Sanitizing Input: Validate input on both client and server sides. Sanitize the data to ensure it conforms to the expected format.
     -   Content Security Policy (CSP): Implement CSP headers to restrict sources of executable scripts.
 
-    CSRF Prevention:
+2.  CSRF Prevention:
     -   Anti-CSRF Tokens: Use server-generated, unique tokens that are passed with each request and validated server-side.
     -   SameSite Cookie Attribute: Utilize the `SameSite` attribute in cookies to restrict their sending to same-site contexts.
 
@@ -789,7 +821,7 @@ Security in JavaScript is a critical aspect of web development, as JavaScript is
     -   Secure Attribute: Set the `Secure` attribute on cookies to ensure they are sent only over HTTPS.
     -   HttpOnly Attribute: Use the `HttpOnly` attribute to prevent access to cookie values via JavaScript. This is particularly important for session cookies.
 
-    Strict Transport Security: Implement HTTP Strict Transpt Security (HSTS) to force clients to always use HTTPS.
+2.  Strict Transport Security: Implement HTTP Strict Transpt Security (HSTS) to force clients to always use HTTPS.
 
 By addressing these areas, developers can significantly enhance the security of their JavaScript applications and protect against common threats. It's important to stay updated with the latest security practices and vulnerabilities in the JavaScript ecosystem.
 

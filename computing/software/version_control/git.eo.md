@@ -671,7 +671,6 @@ Git estas tre personaigebla, permesante al uzantoj plifaciligi sian laborfluon p
 
 #### Kreado de Git Alikodoj
 1. **Simplaj Alikodoj**: Vi povas krei alikodon por Git-komando per redaktado de la Git-agordodokumento (`~/.gitconfig`) aŭ per uzo de la `git config` komando.
-
    Ekzemplo: Por krei alikodon por `git status`, vi povas ruli:
    ```
    git config --global alias.st status
@@ -679,7 +678,6 @@ Git estas tre personaigebla, permesante al uzantoj plifaciligi sian laborfluon p
    Nun, `git st` plenumos `git status`.
 
 2. **Komplikaj Alikodoj**: Alikodoj ankaŭ povas esti pli komplikaj, kombinante plurajn komandojn aŭ enkondukante novan funkcion.
-
    Ekzemplo: Por detala vidigo de protokolo, vi povus agordi:
    ```
    git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
@@ -817,9 +815,7 @@ Git estas versatila ilo kiu kapablas trakti projektojn de ajna grandeco. Tamen, 
 
 ### Konkludo
 
-Administri grandajn projektojn per Git postulas atentan planadon kaj
-
- la ĝustan kompletanaron de iloj. Per optimumigo de via laborfluo, uzado de Git LFS por grandaj dosieroj, kaj aplikado de strategioj por trakti grandajn deponejojn, vi povas konservi efikecon kaj efikecon eĉ en vastaj kodbazoj. Tiaj praktikoj ne nur helpas administri la kodbazon, sed ankaŭ certigas, ke la sperto de la programistoj restas glata kaj produktiva.
+Administri grandajn projektojn per Git postulas atentan planadon kaj la ĝustan kompletanaron de iloj. Per optimumigo de via laborfluo, uzado de Git LFS por grandaj dosieroj, kaj aplikado de strategioj por trakti grandajn deponejojn, vi povas konservi efikecon kaj efikecon eĉ en vastaj kodbazoj. Tiaj praktikoj ne nur helpas administri la kodbazon, sed ankaŭ certigas, ke la sperto de la programistoj restas glata kaj produktiva.
 
 ## Integrado de Git kun Aliaj Ilaroj
 

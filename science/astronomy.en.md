@@ -115,9 +115,7 @@
 
 ### Comparison of Terrestrial Planets
 - **Atmospheric Composition**: Earth's atmosphere is rich in nitrogen and oxygen, supporting life. Venus has a thick atmosphere with extreme greenhouse effects, while Mars and Mercury have thin atmospheres, offering little protection from solar radiation.
-- **Surface Conditions**: Earth has liquid water and a dynamic surface with tectonic activity.
-
- Venus' surface is hot and volcanic, while Mars has a cold, desert-like surface with signs of past water flow. Mercury, being closest to the Sun, has a barren, heavily cratered surface with extreme temperature variations.
+- **Surface Conditions**: Earth has liquid water and a dynamic surface with tectonic activity. Venus' surface is hot and volcanic, while Mars has a cold, desert-like surface with signs of past water flow. Mercury, being closest to the Sun, has a barren, heavily cratered surface with extreme temperature variations.
 - **Geological Activity**: Earth is geologically active with volcanoes and tectonic movements. Mars shows evidence of past volcanic activity, but is currently less active. Venus, while geologically similar to Earth, has a surface reshaped by volcanic activity. Mercury has no significant geological activity now.
 - **Magnetic Fields**: Earth has a strong magnetic field providing protection from solar and cosmic radiation. Mercury has a weak magnetic field, while Venus and Mars have almost none, affecting their atmospheres and surface conditions.
 - **Potential for Life**: Earth is the only terrestrial planet where life is known to exist. Mars has been the focus of the search for past microbial life due to evidence of ancient rivers and lakes. Venus and Mercury are considered inhospitable for life as we know it.

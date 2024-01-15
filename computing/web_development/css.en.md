@@ -286,7 +286,6 @@ Web fonts allow you to use a wider range of typefaces than the standard ones pre
    - Select the desired font from the service.
    - Include a link to the font in your HTML `<head>` or at the top of your CSS file.
    - Specify the font in your CSS using the `font-family` property.
-
    HTML example:
 
    ```html
@@ -1005,7 +1004,6 @@ CSS preprocessors are scripting languages that extend the default capabilities o
 ### Features of Sass and Less
 
 1. **Variables**: Both Sass and Less allow the use of variables to store colors, font stacks, or any CSS value. This makes it easy to update values across the project.
-
    Sass:
    ```scss
    $primary-color: blue;
@@ -1023,7 +1021,6 @@ CSS preprocessors are scripting languages that extend the default capabilities o
    ```
 
 2. **Mixins**: Mixins are reusable blocks of code, helping to avoid code duplication.
-
    Sass:
    ```scss
    @mixin border-radius($radius) {

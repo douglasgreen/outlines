@@ -274,7 +274,6 @@ Software management is a fundamental aspect of maintaining a Linux system. It in
     -   **YUM (Yellowdog Updater, Modified)** / **DNF**: Used by Red Hat-based distributions like Fedora and CentOS. They use `.rpm` packages.
     -   **Pacman**: The package manager for Arch Linux.
     -   **zypper**: Used by openSUSE.
-
     Each of these package managers has a unique syntax, but they all perform the same basic functions.
 
 2.  **Repositories**: Repositories are servers hosting a large collection of software packages. They are the sources from which package managers download and install software. Repositories ensure that you get the latest and safest version of the software, vetted by your Linux distribution's maintainers.

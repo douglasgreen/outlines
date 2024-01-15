@@ -87,7 +87,9 @@ Syntax refers to the rules that define the structure of a program. Different pro
 
 Writing your first program usually involves a simple task like printing a line of text. For example, a classic first program is the "Hello, World!" program. Here's how you might write it in Python:
 
+    ```python
     print("Hello, World!")
+    ```
 
 In this example, `print` is a function that outputs whatever is inside the parentheses to the screen. `"Hello, World!"` is a string, a type of data in programming.
 
@@ -288,7 +290,7 @@ Databases are a fundamental part of modern computing, and understanding them inv
     -   Column-Family Stores: Optimized for queries over large datasets, and store columns of data together, instead of rows.
     -   Graph Databases: Designed for data whose relations are well represented as a graph and are excellent for understanding relationships between data points.
 
-    Use Cases: NoSQL is often used in big data applications and real-time web applications. It's suitable for applications that require rapid growth, flexible schema design, and the efficient handling of large volumes of unstructured data.
+2.  Use Cases: NoSQL is often used in big data applications and real-time web applications. It's suitable for applications that require rapid growth, flexible schema design, and the efficient handling of large volumes of unstructured data.
 
 In summary, understanding databases involves grasping the structured approach of traditional relational databases and SQL, as well as the more flexible and scalable NoSQL alternatives. Each has its strengths and is chosen based on the specific needs of the application and the nature of the data being handled.
 
@@ -478,12 +480,11 @@ Cloud computing is a transformative technology that has revolutionized the way b
     -   Resource Pooling: The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand.
     -   Rapid Elasticity: Capabilities can be elastically provisioned and released to scale rapidly outward and inward commensurate with demand.
     -   Measured Service: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts).
-
-    Service Models:
+2.  Service Models:
     -   Infrastructure as a Service (IaaS): Provides fundamental computing resources like physical or virtual machines, storage, and networking.
     -   Platform as a Service (PaaS): Offers the runtime environment for applications, development, and deployment tools.
     -   Software as a Service (SaaS): Delivers software applications over the internet.
-2.  Deployment Models:
+3.  Deployment Models:
     -   Public Cloud: Services offered over the public internet and available to anyone who wants to purchase them.
     -   Private Cloud: Infrastructure operated solely for a single organization.
     -   Hybrid Cloud: A combination of public and private clouds, bound together by technology that allows data and applications to be shared between them.

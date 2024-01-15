@@ -673,7 +673,6 @@ Git is highly customizable, allowing users to streamline their workflow by setti
 
 #### Creating Git Aliases
 1. **Simple Aliases**: You can create an alias for a Git command by editing the Git configuration file (`~/.gitconfig`) or by using the `git config` command.
-   
    Example: To create an alias for `git status`, you can run:
    ```
    git config --global alias.st status
@@ -681,7 +680,6 @@ Git is highly customizable, allowing users to streamline their workflow by setti
    Now, `git st` will execute `git status`.
 
 2. **Complex Aliases**: Aliases can also be more complex, combining multiple commands or introducing new functionality.
-
    Example: For a detailed log view, you might set:
    ```
    git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
