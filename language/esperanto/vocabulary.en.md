@@ -3543,6 +3543,8 @@
 
 ## Ĉ
 * Ĉeĥio - Czechia
+* Ĉeĥoslovakio - Czechoslovakia
+* Ĉilio - Chile
 * Ĉinio - China
 
 ## ĉ
@@ -3564,12 +3566,10 @@
 * ĉesi - to cease, stop
 * ĉevalo - horse
 * ĉeĥa - Czech
-* ĉeĥoslovakio - Czechoslovakia
 * ĉi - this, here (prefix)
 * ĉia - every kind of
 * ĉiam - always
 * ĉielo - sky
-* ĉilio - Chile
 * ĉina - Chinese
 * ĉio - everything
 * ĉirkaŭ - around
@@ -3583,12 +3583,14 @@
 * ĉiutaga - everyday
 * ĉu - whether, if
 
+## Ĝ
+* Ĝenevo - Geneva
+
 ## ĝ
 * ĝardeno - garden
 * ĝenerala - general
 * ĝenerale - generally
 * ĝeneralo - general (military)
-* ĝenevo - Geneva
 * ĝenro - genre
 * ĝi - it
 * ĝia - its
