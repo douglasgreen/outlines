@@ -1,30 +1,45 @@
 # Esperanto Vocabulary
 
 ## A
+* Afganio - Afghanistan
+* Afrikamerikano - African American
 * Afriko - Africa
+* Afro - Afro (hairstyle)
+* Agosteno - Augustine
+* Albanio - Albania
 * Alberto - Albert
-* Alpoj - Alps
+* Aleksandro - Alexander
+* Amerikano - American (person)
 * Ameriko - America
+* Anaksimandro - Anaximander
+* Andoro - Andorra
 * Anglio - England
-* Argentino - Argentina
+* Argentino - Argentine
+* Aristotelo - Aristotle
 * Arizono - Arizona
 * Armenio - Armenia
 * Ateno - Athens
 * Azio - Asia
 * Aŭstralio - Australia
 * Aŭstrio - Austria
+* Aŭstro - Austrian
 
 ## B
+* Balkano - Balkan
 * Barato - India
 * Barcelono - Barcelona
 * Bavario - Bavaria
 * Belgio - Belgium
 * Berlino - Berlin
 * Berno - Bern
+* Biblio - Bible
+* Bosnio - Bosnia
 * Brazilo - Brazil
 * Bretonio - Brittany
 * Britio - Britain
-* Budapeŝto - Budapest (capital of Hungary)
+* Brito - Briton
+* Budapeŝto - Budapest
+* Bulgario - Bulgaria
 
 ## D
 * Danio - Denmark
@@ -32,33 +47,55 @@
 ## E
 * Eduardo - Edward
 * Egiptio - Egypt
-* Esperantistoj - Esperantists
+* Epicurano - Epicurean
+* Epicurismo - Epicureanism
+* Epikteto - Epictetus
+* Esperantisto - Esperanto speaker
+* Esperantistoj - Esperanto speakers
+* Esperanto - Esperanto
+* Euripido - Euripides
+* Eŭropano - European (person)
 * Eŭropo - Europe
+* Eŭrozono - Eurozone
 
 ## F
 * Finnlando - Finland
 * Francio - France
 * Francisko - Francis
+* Frankfurto - Frankfurt
 * Frederiko - Frederick
 
 ## G
+* Galileo - Galileo
+* Gento - Ghent
 * Georgo - George
 * Germanio - Germany
+* Germano - German (person)
 * Germanujo - Germany
 * Grekio - Greece
+* Greko - Greek (person)
 
 ## H
 * Hamburgo - Hamburg
+* Helena - Helen
 * Henriko - Henry
+* Heraklito - Heraclitus
+* Hercegovino - Herzegovina
 * Hindio - India
 * Hispanio - Spain
+* Holivudo - Hollywood
+* Homero - Homer
 * Hungario - Hungary
+* Hungaro - Hungarian (person)
 
 ## I
-* Interreto - internet
+* Irako - Iraq
 * Irano - Iran
 * Irlando - Ireland
-* Israelo - Israel
+* Islamano - Muslim
+* Islamismo - Islamism
+* Islamo - Islam
+* Israelo - Israeli (noun)
 * Italio - Italy
 
 ## J
@@ -66,7 +103,9 @@
 * Jerusalemo - Jerusalem
 * Jesuo - Jesus
 * Johano - John
+* Jorko - York
 * Jozefo - Joseph
+* Judo - Jew
 * Jugoslavio - Yugoslavia
 * Jupitero - Jupiter
 
@@ -74,40 +113,59 @@
 * Kalifornio - California
 * Kanado - Canada
 * Karlo - Charles
+* Karolino - Carolina
 * Kolombio - Colombia
 * Kongo - Congo
+* Koperniko - Copernicus
+* Kosovo - Kosovo
+* Kristanismo - Christianity
+* Kristano - Christian
 * Kristo - Christ
 * Kroatio - Croatia
+* Kroato - Croat
 
 ## L
+* Latino - Latin
+* Leonardo - Leonardo
 * Litovio - Lithuania
+* Liĥtenŝtejno - Liechtenstein
 * Londono - London
 
 ## M
 * Madrido - Madrid
-* Mario - Mario
-* Marso - March
+* Makedonio - Macedonia
+* Mario - Mary
+* Marso - Mars
+* Mateo - Matthew
+* Mediteraneo - Mediterranean
 * Meksiko - Mexico
+* Mezepoko - Middle Ages
+* Mezoriento - Middle East
 * Milano - Milan
+* Misisipo - Mississippi
 * Moldavio - Moldova
+* Monako - Monaco
+* Montenegro - Montenegro
 * Moskvo - Moscow
 * Munkeno - Munich
 
 ## N
 * Napoleono - Napoleon
 * Nederlando - Netherlands
-* Nombroj - Numbers (Book of Numbers)
+* Nobelo - Nobel
 * Nordameriko - North America
 * Norvegio - Norway
+* Novembro - November
 * Novjorko - New York
 
 ## P
-* PIV - Plena Ilustrita Vortaro (a comprehensive illustrated dictionary of Esperanto)
 * Pakistano - Pakistani
 * Parizo - Paris
 * Paŭlo - Paul
+* Pensilvanio - Pennsylvania
 * Peruo - Peru
 * Petro - Peter
+* Platono - Plato
 * Pollando - Poland
 * Portugalio - Portugal
 * Prago - Prague
@@ -115,6 +173,8 @@
 
 ## R
 * Rejno - Rhine
+* Renesanco - Renaissance
+* Romiano - Roman (citizen of Rome)
 * Romo - Rome
 * Rumanio - Romania
 * Rusio - Russia
@@ -122,724 +182,1271 @@
 ## S
 * Saksio - Saxony
 * Serbio - Serbia
+* Serbo - Serb
+* Skandinavio - Scandinavia
 * Skotlando - Scotland
 * Slovakio - Slovakia
+* Slovako - Slovak (noun)
+* Slovenio - Slovenia
+* Sofoklo - Sophocles
+* Sokrato - Socrates
 * Sovetunio - Soviet Union
+* Stoicismo - Stoicism
+* Stoiko - Stoic
 * Sudameriko - South America
+* Sudano - Sudanese
 * Svedio - Sweden
 * Svislando - Switzerland
 
 ## T
 * Teksaso - Texas
 * Tokio - Tokyo
+* Tomaso - Thomas
 * Transilvanio - Transylvania
 * Turkio - Turkey
+* Turko - Turk
 
 ## U
-* UEA - Universal Esperanto Association
 * Ukrainio - Ukraine
-* Usono - United States (USA)
+* Usonano - American (person)
+* Usono - USA
 
 ## V
 * Varsovio - Warsaw
+* Vatikano - Vatican
+* Vaŝingtono - Washington
 * Venecio - Venice
+* Versajlo - Versailles
 * Vieno - Vienna
 * Vikipedio - Wikipedia
 * Vilhelmo - William
+* Virgilio - Virgil
 
 ## Z
-* Zamenhof - Zamenhof (the creator of Esperanto)
+* Zamenhof - [Zamenhof (referring to L. L. Zamenhof, the creator of Esperanto)]
 * Zuriko - Zurich
 
 ## a
 * abatejo - abbey
-* acida - acidic
+* abolicio - abolition
+* absoluta - absolute
+* abstrakta - abstract
+* acida - sour
 * acido - acid
+* adaptado - adaptation
+* adaptebla - adaptable
+* adapti - to adapt
+* adaptiĝi - to adapt oneself
+* adaptiĝo - adaptation (process of adapting oneself)
+* administaro - administration (body of administrators)
 * administra - administrative
-* administrado - administration
+* administrado - administration (act of administering)
 * administranto - administrator
 * administre - administratively
+* administri - to administer
+* administro - administrator
+* adopti - to adopt
+* advokati - to advocate
 * advokato - lawyer
+* advoki - to advocate
 * aero - air
+* afazio - aphasia
+* afekti - to affect
 * afero - matter, affair
+* afikso - affix
 * afrika - African
 * agado - action, activity
+* aganto - agent
 * agi - to act
-* agnoski - to recognize, acknowledge
-* ago - action, deed
+* agila - agile
+* agnoski - to recognize
+* ago - act, action
+* agordado - tuning
+* agordi - to tune
+* agordo - tuning, agreement
 * agrikultura - agricultural
 * agrikulturo - agriculture
-* ajn - any
+* agrokultura - agricultural
+* ajn - (suffix meaning "whatever", "ever")
 * ajna - any
 * akademia - academic
+* akademika - academic
 * akademio - academy
+* akceli - to accelerate
+* akcento - accent
+* akceptado - acceptance
 * akcepti - to accept
-* akiri - to acquire, to obtain
+* akcepto - acceptance
+* akirado - acquisition
+* akiri - to acquire
+* akiriĝo - acquisition (process of acquiring)
+* akiro - acquisition
 * akompani - to accompany
 * akra - sharp
+* aksidentale - accidentally
 * akso - axis
 * aktiva - active
+* aktive - actively
 * aktiveco - activity
+* aktivigi - to activate
 * aktivulo - activist
 * akto - act
 * aktorino - actress
 * aktoro - actor
 * aktuala - current
-* akva - aquatic, watery
+* akustika - acoustic
+* akva - aquatic, water (adjective)
 * akvo - water
-* al - to
+* al - to, towards
 * albumo - album
 * aldona - additional
 * aldone - additionally
 * aldoni - to add
 * aldono - addition
-* aleksandro - Alexander
 * alfabeto - alphabet
+* algoritmo - algorithm
 * alia - other
-* aliancano - alien (extraterrestrial)
+* alianca - allied
+* aliancano - ally
 * alianco - alliance
-* alie - elsewhere
+* alie - otherwise
 * aliflanke - on the other hand
-* aliro - access, approach
+* alikodo - alias
+* alirebla - accessible
+* alirebleco - accessibility
+* alireblo - accessibility
+* aliro - access
 * aliĝi - to join
 * alkoholo - alcohol
 * almenaŭ - at least
+* alpoj - Alps
 * alporti - to bring
-* alta - tall, high
+* alta - high
 * altaro - altar
-* alte - high
-* altebenaĵo - plateau
+* alte - high (adverb)
+* altebenaĵo - highland
 * alteco - height
+* altega - very high
 * altitudo - altitude
-* altlernejo - high school
-* alto - height
-* aludi - to refer to
+* altiĝi - to rise
+* altlernejo - higher education institution
+* alto - high (adjective)
+* aludi - to allude
 * alveni - to arrive
 * alveno - arrival
 * alvoko - call
 * alŝuti - to upload
+* amaskomunikilo - mass media
 * amatora - amateur
+* ambai - both
 * ambaŭ - both
+* ambicio - ambition
+* amendamento - amendment
+* amendo - amendment
 * amerika - American
 * ami - to love
 * amiko - friend
 * amo - love
-* ampleksa - extensive, comprehensive
-* ampleksi - to expand
+* ampleksa - extensive
+* ampleksi - to embrace
+* amplekso - extent
+* amuzindustrio - entertainment industry
+* analitika - analytical
+* analizi - to analyze
 * analizo - analysis
-* angla - English (the language)
+* aneksado - annexation
+* angla - English
 * anglalingva - English-speaking
-* angle - in English
-* angulo - angle
+* angsto - angst
+* angulo - angle, corner
 * animalo - animal
-* animo - soul
+* animo - soul, spirit
 * ankaŭ - also
 * ankoraŭ - still, yet
 * ano - member
 * anonci - to announce
+* anotacia - annotation
 * anstataŭ - instead of
-* anstataŭe - instead
+* anstataŭe - alternatively
 * anstataŭi - to replace
 * anstataŭigi - to replace
 * anstataŭigo - replacement
 * antaŭ - before, in front of
-* antaŭa - previous, former
-* antaŭe - previously, before
+* antaŭa - previous
+* antaŭdifini - to predefine
+* antaŭdiro - prediction
+* antaŭe - before, previously
+* antaŭen - forward
+* antaŭenigi - to promote, to advance
+* antaŭi - to precede
+* antaŭjuĝo - prejudice
+* antaŭspeco - prototype
+* antaŭsupozo - presumption
+* antaŭvidebla - foreseeable
+* anti - against
 * antikva - ancient
+* antropologio - anthropology
 * aparato - apparatus, device
-* aparta - separate, distinct
-* aparte - especially, particularly
+* aparta - separate
+* aparte - separately, particularly
 * aparteni - to belong
-* apenaŭ - hardly, barely
+* apartigado - separation
+* apartigi - to separate
+* apartigo - separation
+* apenaŭ - hardly, scarcely
 * aperi - to appear
 * apero - appearance
+* aplikado - application (process)
+* aplikaĵo - application (software)
+* aplikaĵokodo - application code
+* apliki - to apply
+* apliko - application (software)
 * apogi - to support
 * aprilo - April
-* apud - near, next to
-* apuda - nearby
+* aprobo - approval
+* apud - beside, next to
+* apuda - adjacent
 * araba - Arabic
 * aranĝi - to arrange
 * aranĝo - arrangement
-* arbara - savage, wild
+* arbara - forest (adjective)
 * arbaro - forest
+* arbitra - arbitrary
 * arbo - tree
+* arbodigramo - tree diagram
+* areala - areal
 * areo - area
+* argumentado - arguing
+* argumentante - arguing
+* argumenti - to argue
 * argumento - argument
 * arkeologia - archaeological
 * arkitekto - architect
 * arkitekturo - architecture
 * arkivi - to archive
 * arkivo - archive
-* arko - arc
-* armena - Armenian
+* arko - arch, bow
+* arkta - arctic
+* armena - Armenian (adjective)
 * armeo - army
 * armilo - weapon
-* aro - group, collection
-* arondismento - district
+* aro - set, group
+* arondismento - district, borough
 * arta - artistic
+* artefari - to fabricate
 * artefarita - artificial
 * artikolo - article
+* artikula - joint
+* artikulado - articulation
+* artistika - artistic
 * artisto - artist
 * arto - art
-* arĝenta - silver
+* arĝenta - silver (adjective)
+* arĥiduko - archduke
 * asembleo - assembly
-* aserti - to assert, to claim
+* asertante - asserting
+* aserti - to assert
 * aserto - assertion
+* asocii - to associate
 * asocio - association
-* aspekti - to appear
-* aspekto - aspect, appearance
+* aspekti - to look, to appear
+* aspekto - aspect
 * asteroido - asteroid
 * astronomio - astronomy
 * astronomo - astronomer
 * ataki - to attack
 * atako - attack
+* ataraksio - ataraxia
 * atendi - to wait
+* atendo - waiting
+* atenta - attentive
 * atento - attention
-* atingi - to reach, to attain
+* atestado - attestation
+* atesto - attestation, certificate
+* atingaĵo - achievement
+* atingi - to achieve
+* atingo - achievement
+* atlantika - Atlantic
 * atribui - to attribute
-* au - or
+* avancaĵo - advance, forefront
+* avanci - to advance
+* avanciĝo - advancement
+* avanco - advance
+* avantaĝo - advantage
 * aviadilo - airplane
 * azia - Asian
+* aĉetado - purchasing
 * aĉeti - to buy
-* aĝa - elderly, aged
+* aĝa - old
 * aĝi - to age
 * aĝo - age
 * aĵo - thing
 * aŭ - or
 * aŭgusto - August
+* aŭskultanto - listener
+* aŭsterigo - austerity
 * aŭstra - Austrian
+* aŭtentikeco - authenticity
 * aŭto - car
+* aŭtobusa - bus (adjective)
+* aŭtobuso - bus
+* aŭtomate - automatically
+* aŭtomatigado - automation
+* aŭtomatigi - to automate
+* aŭtomatigo - automation
+* aŭtomobila - automotive
 * aŭtonoma - autonomous
 * aŭtoritato - authority
 * aŭtoro - author
 * aŭtovojo - highway
 
 ## b
+* balancante - balancing
 * baldaŭ - soon
-* baloto - vote, ballot
-* bando - band
+* baloto - ballot
+* balotrajto - voting right
+* balta - Baltic
+* bando - band, gang
+* banka - bank (adjective)
+* bankado - banking
 * banko - bank
-* baro - barrier
+* bariero - barrier
+* baro - bar (in music or measures)
 * baroka - baroque
-* baseno - basin, pool
-* batali - to fight, to battle
+* baseno - basin
+* batali - to fight
 * batalo - battle
 * baza - basic
-* baziĝi - to be based
+* bazaĵo - basis, fundamental
+* bazi - to base
+* baziĝi - to be based on
 * bazo - base
-* be - to be (infinitive form)
-* bei - to beg
 * beko - beak
 * bela - beautiful
+* beleco - beauty
 * belga - Belgian
+* berlina - Berlin (adjective)
 * besto - animal
 * bezoni - to need
 * bezono - need
 * biblia - biblical
-* biblio - library
 * biblioteko - library
-* bieno - property, estate
+* bieno - farm, estate
+* bildigo - depiction
 * bildo - picture, image
+* bileto - ticket
+* binara - binary
+* bioetiko - bioethics
 * biografio - biography
+* biologia - biological
+* bioteknologio - biotechnology
 * birdo - bird
-* bis - again
+* bis - encore (in music or theatre)
+* bizanca - Byzantine
 * blanka - white
 * blazono - coat of arms
+* blobo - blob
+* bloka - block (adjective)
+* bloko - block
 * blua - blue
+* bojkoto - boycott
 * bona - good
 * bone - well
+* boneco - goodness
+* bono - good
+* bonstato - well-being
 * bonvoli - to be willing
-* bordo - border
+* bordo - edge, shore
+* bostona - Boston (adjective)
+* branĉa - branch (adjective)
+* branĉado - branching
+* branĉiĝo - branching off
 * branĉo - branch
 * brita - British
-* brito - Briton
 * bruna - brown
-* brusto - chest
-* bulo - fraudster, scammer
-* burgo - town, borough
+* brusto - chest, breast
+* bulo - bubble
+* burgo - castle
 
 ## c
-* celi - to aim, to target
-* celo - goal, objective
+* cedi - to yield, concede
+* cela - targeting
+* celado - aiming
+* celante - aiming
+* celbranĉo - target branch
+* celcelo - target goal
+* celi - to aim
+* celo - goal, aim
 * censo - census
 * cent - hundred
-* cento - hundred
+* cento - hundred (as a noun)
 * centra - central
-* centre - center
+* centraligi - to centralize
+* centre - centrally
+* centri - to center
+* centrigi - to centralize
 * centro - center
+* ceramiko - ceramics
+* cerba - cerebral
+* cerbo - brain
 * ceremonio - ceremony
 * certa - certain
 * certe - certainly
-* cetera - etcetera
-* cetere - moreover, furthermore
-* cifero - numeral, digit
+* certeco - certainty
+* certigado - assurance
+* certigante - assuring
+* certigi - to assure
+* certiĝi - to make sure
+* cetera - other, remaining
+* cetere - besides, moreover
+* chefa - chief
+* cifereca - digital
+* cifero - digit, figure
+* ciklo - cycle
 * cirklo - circle
-* citaĵo - citation, quotation
+* citaĵo - quotation
 * civila - civil
+* civilizacio - civilization
+* civilizo - civilization
+* civitana - civic
+* civitaneco - citizenship
 * civitano - citizen
-* co - company
 
 ## d
-* da - (preposition indicating quantity)
+* da - of (used with quantities)
 * dana - Danish
 * danco - dance
-* danke - thank you
+* danke - thanks to
 * danko - thanks
-* datiĝi - to date from
+* dateno - data
+* datiĝi - to be dated
 * dato - date
-* datreveno - date of return
-* daŭra - continuous
-* daŭre - continuously, still
-* daŭri - to continue
+* datreveno - anniversary
+* datumbazo - database
+* datumo - data
+* datumokolekto - data collection
+* daŭra - lasting
+* daŭre - continuously
+* daŭrebla - sustainable
+* daŭrema - durable
+* daŭri - to last
+* daŭriga - continuing
 * daŭrigi - to continue
+* daŭripova - sustainable
+* daŭro - duration
 * de - of, from
+* debato - debate
 * decembro - December
+* decidemo - decisiveness
 * decidi - to decide
 * decido - decision
+* decisiva - decisive
 * dediĉi - to dedicate
+* dediĉo - dedication
+* dedukto - deduction
+* defaŭlta - default
 * defendi - to defend
 * defendo - defense
+* defia - defiant
+* defiante - defying
+* defii - to defy
+* definicio - definition
+* defio - challenge
 * dek - ten
+* deklaracio - declaration
 * deklari - to declare
 * deklaro - declaration
 * deklivo - slope
+* dekonstruado - deconstruction
 * dekreto - decree
-* dekstra - right (opposite of left)
-* demando - question, demand
-* demeti - to remove
+* dekstra - right (direction)
+* delegito - delegate
+* demandi - to ask
+* demando - question
+* demetado - dethronement
+* demeti - to take off
 * demokratia - democratic
 * demokratio - democracy
+* denaska - native
+* denaskulo - native
 * denove - again
 * densa - dense
 * departemento - department
+* dependante - depending
+* depende - depending on
+* dependeco - dependency
 * dependi - to depend
+* deponejo - depot, repository
+* derivaĵo - derivative
+* derivi - to derive
+* destino - destiny
+* detala - detailed
 * detalo - detail
+* detekti - to detect
+* determini - to determine
 * detrui - to destroy
-* deveni - to originate, to come from
+* deveni - to originate
 * deveno - origin
-* devi - must, to have to
-* deviga - mandatory, obligatory
-* devigi - to compel, force
+* devi - must, have to
+* deviga - obligatory
+* devigi - to compel, to oblige
+* dezajno - design
 * dezerto - desert
-* deziri - to desire, wish
+* deziri - to wish, to desire
 * deziro - desire
-* dia - godly, divine
+* dia - divine
+* diagnozo - diagnosis
+* diagramo - diagram
+* dialektika - dialectical
+* dialektiko - dialectics
 * dialekto - dialect
+* dialogo - dialogue
 * diametro - diameter
+* difekto - defect
 * diferenco - difference
-* difina - to define
+* difina - definitive
 * difini - to define
 * difino - definition
+* difo - difference
+* diglozio - diglossia
+* digno - dignity
 * diino - goddess
-* dika - thick, fat
+* dika - thick
+* dimensio - dimension
+* dinamika - dynamic
+* dinamiko - dynamics
 * dinastio - dynasty
 * dio - god
 * diplomo - diploma
 * direkto - direction
 * direktoro - director
-* diri - to say, to tell
-* disde - since
-* disko - disc
+* diri - to say
+* disa - various, diverse
+* disciplino - discipline
+* disde - since, from
+* disigado - division
+* disigo - division
+* disiĝi - to disintegrate
+* disiĝo - disintegration
+* disko - disc, record
+* diskriminacio - discrimination
+* diskurso - discourse
+* diskuti - to discuss
 * diskuto - discussion
-* disponi - to have at one's disposal
+* disponi - to dispose, to have at one's disposal
+* disputo - dispute
+* disrompi - to break apart
 * distanco - distance
 * distingi - to distinguish
-* distrikta - district
+* distingo - distinction
+* distribui - to distribute
+* distribuo - distribution
+* distrikta - district (adjective)
 * distrikto - district
+* disvastigo - dissemination
+* disvastiĝi - to spread
+* disvastiĝo - spread, proliferation
+* disvolva - developmental
+* disvolvada - developmental
+* disvolvado - development
+* disvolvadparadigmo - development paradigm
+* disvolvanto - developer
+* disvolvi - to develop
+* disvolviĝi - to evolve
+* disvolviĝo - evolution
+* disvolvo - development
 * diversa - diverse
+* diverseca - diverse
+* diverseco - diversity
+* diversega - very diverse
+* diverĝi - to diverge
+* diverĝo - divergence
 * dividi - to divide
-* do - therefore, so
+* divido - division
+* dizajni - to design
+* do - so, therefore
 * doktoro - doctor
 * doktrino - doctrine
+* dokumentado - documentation
+* dokumenti - to document
 * dokumento - document
 * dolaro - dollar
-* domaro - domain
+* doloro - pain
+* domaro - complex of buildings
+* domina - dominant
+* dominaĵo - dominance
+* domini - to dominate
 * domo - house
-* donaco - donation
+* donaco - gift
 * doni - to give
+* donitaĵo - given, donation
 * dorso - back
 * dosiero - file
+* dosierujo - file folder
 * dramo - drama
+* draste - drastically
 * du - two
 * dua - second
 * dudek - twenty
 * dufoje - twice
+* duismo - dualism
 * duko - duke
-* dum - during, while
-* dume - meanwhile
+* dum - during
+* dume - while, meanwhile
+* dungado - employment, hiring
 * duobla - double
+* duolingveco - bilingualism
 * duoninsulo - peninsula
 * duono - half
 
 ## e
-* ebenaĵo - plane, flat surface
+* ebenaĵo - plain, flatland
 * ebla - possible
-* eble - possibly, maybe
+* eble - possibly
 * ebleco - possibility
-* ebli - to enable, to make possible
-* ebligi - to enable, to make possible
-* eco - eco
+* ebli - to be possible
+* ebligante - enabling
+* ebligi - to enable
+* eco - trait, characteristic
+* eduka - educational
 * edukado - education
-* edziniĝi - to get married
+* eduko - education
+* edziniĝi - to get married (for a woman)
 * edzino - wife
-* edziĝi - to get married
+* edziĝi - to get married (for a man)
 * edzo - husband
-* efika - effective
+* efektiva - effective
+* efektive - effectively
+* efektivigi - to implement
+* efekto - effect
+* efika - efficient
+* efike - efficiently
+* efikeco - efficiency
+* efiki - to affect
 * efiko - effect
 * egala - equal
-* egali - to equalize
+* egaleco - equality
+* egali - to equal
 * ege - extremely
 * egipta - Egyptian
-* ejo - place, location
-* ek - start (prefix indicating the beginning)
+* ejo - place
+* ek - prefix indicating the start of an action
 * ekde - since
-* ekesti - to emerge, to come into being
-* eki - to start
+* ekesti - to arise
+* eki - to start, begin
 * eklabori - to start working
-* eklezia - ecclesiastical, church-related
+* eklezia - ecclesiastical
 * eklezio - church
+* ekologia - ecological
 * ekonomia - economic
+* ekonomie - economically
+* ekonomika - economic
 * ekonomio - economy
 * ekoregiono - ecoregion
-* eksa - former, ex-
+* ekosistemo - ecosystem
+* eksa - former
+* ekspansio - expansion
 * ekspedicio - expedition
+* eksperimentado - experimentation
 * eksperimento - experiment
 * eksplodo - explosion
+* ekspluatema - exploitative
 * ekspozicio - exhibition
-* ekster - outside, external
-* ekstera - external, outside
-* ekstere - outside
+* ekspresionismo - Expressionism
+* ekster - outside of
+* ekstera - external
+* ekstere - outside, externally
 * eksterlanda - foreign
+* eksterlande - abroad
+* ekstrema - extreme
 * ekvacio - equation
-* ekzameno - examination
+* ekvilibri - to balance
+* ekvilibro - equilibrium
+* ekzameni - to examine
+* ekzameno - exam
+* ekzekutiva - executive
+* ekzekuto - execution
+* ekzempla - exemplary
 * ekzemple - for example
-* ekzemplero - specimen
+* ekzemplero - copy, specimen
+* ekzempligi - to exemplify
 * ekzemplo - example
-* ekzista - existing
+* ekzista - existential
+* ekzistado - existence
+* ekzistenca - existential
+* ekzistencialismo - Existentialism
+* ekzistencisma - existentialist (adjective)
+* ekzistencismo - existentialism
+* ekzistencista - existentialist (noun)
 * ekzisti - to exist
 * ekzisto - existence
 * el - out of, from
+* eldona - publishing
 * eldonejo - publishing house
 * eldoni - to publish
 * eldonisto - publisher
-* eldono - publication
-* elekta - to choose, to elect
+* eldono - edition
+* elekta - elective
 * elekti - to choose, to elect
-* elekto - election, choice
-* elektra - electrical
+* elekto - election
+* elektora - electoral
+* elektoro - elector
+* elektra - electric
 * elemento - element
-* eliri - to exit
-* elstara - outstanding, excellent
-* emi - to be inclined to
-* en - in, into
+* eliri - to exit, to go out
+* elmontri - to demonstrate
+* elparolado - speech
+* elspezo - expense
+* elstara - outstanding
+* elstari - to stand out
+* eltrovi - to discover
+* elŝutado - downloading
+* elŝuti - to download
+* elŝuto - download
+* emancipatio - emancipation
+* emancipo - emancipation
+* emerĝi - to emerge
+* emfazante - emphasizing
+* emfazi - to emphasize
+* emfazo - emphasis
+* emi - to tend, to be inclined
+* emocia - emotional
+* empiria - empirical
+* empirikisto - empiricist
+* empirismo - empiricism
+* emuli - to emulate
+* en - in
 * enciklopedio - encyclopedia
-* ene - inside
+* ene - inside, within
 * energio - energy
+* enfronti - to confront
+* engaĝi - to engage
+* engaĝiĝi - to get involved
+* engaĝiĝo - engagement, involvement
 * enhavi - to contain
 * enhavo - content
+* enigi - to input
+* enigo - input
 * enirejo - entrance
 * eniri - to enter
-* enketo - survey
+* enketo - inquiry, survey
+* enkondukante - introducing
 * enkonduki - to introduce
 * enkonduko - introduction
-* enlanda - inland, domestic
+* enkonstrui - to build in
+* enkorpigi - to embody
+* enkorporado - incorporation
+* enlanda - domestic, inland
 * enloĝanto - inhabitant
+* enmeti - to insert
+* enmigranto - immigrant
+* enscio - consciousness
+* entenado - containing
 * enteni - to contain
-* entrepreno - enterprise, business
-* entute - altogether, in total
+* ento - entity
+* entrepreno - enterprise
+* entute - in total
 * episkopo - bishop
-* epoko - era, epoch
+* epistemologio - epistemology
+* epoko - era
 * erao - era
 * eraro - error
-* ero - unit, element
-* escepte - except for, except
+* ero - element, piece
+* escepte - except
 * escepto - exception
+* esenca - essential
+* esence - essentially
+* esenco - essence
 * eseo - essay
-* esperanta - Esperanto (adjective form)
+* esperanta - Esperanto (adjective)
 * esperante - in Esperanto
-* esperantista - Esperantist
-* esperantisto - Esperantist (a person who speaks or advocates for Esperanto)
-* esperanto - Esperanto (the constructed international auxiliary language)
+* esperantista - relating to Esperanto enthusiasts
 * esperi - to hope
 * espero - hope
-* esplorado - exploration
+* esplorado - research
+* esplorante - exploring
 * esplori - to explore
-* esploristo - explorer, researcher
-* esploro - exploration
+* esploristo - researcher
+* esploro - research
 * esprimi - to express
 * esprimo - expression
+* establado - establishment
 * establi - to establish
-* estero - ester
+* estado - state
+* estante - being
+* estero - abroad
+* estetiko - aesthetics
 * esti - to be
-* estiĝi - to originate, to arise
-* estonta - future
-* estraro - leadership, administration
-* estri - to reign
-* estro - leader, manager
-* eta - small, tiny
-* etaĝo - floor
-* etendiĝi - to stretch, to extend
+* estigi - to cause
+* estiĝi - to come into being
+* estonta - future (adjective)
+* estonteco - future (as a time period)
+* estonto - future (adj.)
+* estraro - board, committee
+* estri - to lead, to manage
+* estro - leader, chief
+* eta - small
+* etaĝo - floor, story
+* etendantaĵa - extending
+* etendante - extending
+* etendaĵo - extension
+* etendi - to extend
+* etendiĝi - to be extended
+* eterna - eternal
+* etika - ethical
+* etikeda - etiquette (adjective)
+* etikedo - label
+* etiketanto - labelling
+* etiko - ethics
 * etna - ethnic
+* etnia - ethnic
+* etnika - ethnic
 * etno - ethnic group
 * evangelio - gospel
 * evento - event
 * eventuale - possibly
 * evidente - evidently
 * eviti - to avoid
-* evitinda - avoidable
+* evitinda - to be avoided
+* evolua - evolutionary
+* evoluado - evolution
 * evolui - to evolve
+* evoluigi - to evolve, to develop
+* evoluigo - development, evolution
 * evoluo - evolution
+* evoluolinio - evolutionary line
 * eĉ - even
+* eŭdemonio - eudaimonia
 * eŭropa - European
 
 ## f
+* fabrikado - manufacturing
 * fabriko - factory
+* facila - easy
 * facile - easily
+* faciligante - facilitating
+* faciligi - to facilitate
 * fajro - fire
-* fako - field, discipline
+* faka - professional, expert
+* fako - field, subject
 * fakte - in fact
 * fakto - fact
 * faktoro - factor
-* fakulo - expert, specialist
+* fakulo - expert
+* falado - falling
 * fali - to fall
+* faligo - felling, knocking down
 * falo - fall
 * fama - famous
-* familia - family
+* familia - family (adjective)
 * familio - family
 * famiĝi - to become famous
+* famoze - famously
 * far - to do, to make
-* fare - by (indicating the agent of an action)
+* farante - doing
+* fare - by, through
 * fari - to do, to make
 * fariĝi - to become
 * fasado - facade
+* fascina - fascinating
 * favore - favorably
 * fazo - phase
 * februaro - February
 * federacia - federal
 * federacio - federation
+* federalismo - federalism
+* federalista - federalist
+* federalisto - federalist
+* feliĉo - happiness
 * fenestro - window
 * fenomeno - phenomenon
-* fermi - to close, shut
+* fenomenologia - phenomenological
+* fenomenologio - phenomenology
+* fera - iron (adj.)
+* ferio - vacation, holiday
+* fermi - to close
 * fermita - closed
-* fervoja - railway
+* fervoja - railway (adjective)
 * fervojo - railway
+* fervojvojo - railway
+* festi - to celebrate
 * festivalo - festival
-* festo - festival, celebration
+* festo - celebration, party
+* feŭdismo - feudalism
+* fichte - Fichte
+* fideleco - fidelity, loyalty
+* fidi - to trust
+* fido - faith, trust
 * figuro - figure
 * fiksa - fixed
-* file - son
+* fiksbranĉo - fixed branch
 * filino - daughter
-* filmo - film
+* filmindustrio - film industry
+* filmo - film, movie
 * filo - son
+* filozofa - philosophical
 * filozofia - philosophical
 * filozofio - philosophy
+* filozofisto - philosopher
 * filozofo - philosopher
 * fina - final
 * financa - financial
-* fine - finally
+* financado - financing
+* financi - to finance
+* fine - at the end
 * finfine - finally, at last
-* fini - to finish, to end
-* finiĝi - to end, to finish
+* fini - to finish
+* finiĝi - to come to an end
 * fino - end
 * fizika - physical
+* fizikalismo - physicalism
 * fizikisto - physicist
 * fiziko - physics
+* fiŝkaptado - fishing
 * fiŝo - fish
 * flago - flag
 * flandra - Flemish
-* flanka - lateral, side
-* flanke - sideways
-* flanko - side
+* flanka - side (adjective)
+* flanke - on the side
+* flanko - side, flank
 * flava - yellow
+* fleksa - flexible
+* fleksebleco - flexibility
 * flora - floral
+* florado - flowering
+* flori - to flourish
 * floro - flower
 * flughaveno - airport
 * flugilo - wing
 * flugo - flight
 * flui - to flow
 * fluo - flow
-* foje - sometimes, at times
-* fojo - time (occurrence)
+* foje - sometimes
+* fojo - time (as in occasion)
+* foko - seal (animal)
+* fokusa - focal
+* fokusi - to focus
+* fokusiĝi - to be focused
+* fokuso - focus
 * folio - leaf
+* fonda - deep
 * fondaĵo - foundation
 * fondi - to found, to establish
-* fondo - background, fund
+* fondinto - founder
+* fondo - bottom, base
+* fonemo - phoneme
+* fonetika - phonetic
+* fonetiko - phonetics
+* fonologia - phonological
+* fonologio - phonology
+* fontkodo - source code
 * fonto - source
-* for - away
-* forigi - to remove, to delete
-* foriri - to leave
+* for - away, off
+* fora - distant
+* forigi - to remove
+* forigo - removal
+* foriri - to leave, to go away
+* foriro - departure
 * forlasi - to leave, to abandon
+* formado - formation
+* formala - formal
 * formale - formally
+* formante - forming
+* formato - format
 * formi - to form
-* formo - form
+* formiĝo - formation
+* formo - form, shape
+* formuli - to formulate
 * formulo - formula
+* forpelado - expulsion
 * forta - strong
-* forte - strongly, firmly
+* forte - strongly
 * fortikaĵo - fortress
-* forto - strength, force
+* forto - strength
 * foto - photo
+* fotografaĵo - photograph
 * franca - French
-* france - French (adverb)
-* franco - French person
-* frankfurto - Frankfurt
+* france - in French
+* franco - franc
+* frankfurta - Frankfurt (adjective)
 * fratino - sister
 * frato - brother
-* frazo - sentence, phrase
-* frekventi - to attend, to frequent
-* fremda - foreign
+* frazo - sentence
+* frekventi - to frequent
+* fremda - foreign, strange
+* freŝa - fresh
+* frondo - leaf
 * fronto - front
 * frua - early
 * frue - early
 * frukto - fruit
 * fundamenta - fundamental
-* fundamento - basis
-* funkcii - to function, to work
+* fundamentale - fundamentally
+* fundamento - foundation
+* funkcia - functional
+* funkcieco - functionality
+* funkcii - to function
+* funkciistaro - staff, group of officials
 * funkcio - function
-* futbalo - football (soccer)
-* fuĝi - to escape
+* futbalo - football, soccer
+* fuĝi - to flee, to escape
 
 ## g
+* gajnante - gaining
 * gajni - to win, to earn
 * galaksio - galaxy
-* gamo - game (as in a set of games)
+* gama - gamma
+* gamo - range, spectrum
+* garanti - to guarantee
+* gardi - to guard, to watch
 * gaso - gas
-* gazeto - newspaper
+* gastigi - to host
+* gazetaro - press, journalism
+* gazeto - newspaper, journal
 * geedziĝo - marriage
 * geedzoj - married couple
+* genealogia - genealogical
 * generacio - generation
+* generado - generation, generating
 * generalo - general
+* genetika - genetic
 * genro - genre
-* gento - people, nation
 * geografia - geographical
 * geografio - geography
+* geopolitika - geopolitical
 * gepatroj - parents
 * germana - German
 * germane - in German
-* germano - German (a person)
-* gimnazio - gymnasium
+* gimnazio - gymnasium, secondary school
 * glaĉero - glacier
+* globa - global
 * golfo - gulf
 * gotika - Gothic
 * grado - degree
-* grafikisto - graphic designer
+* graduala - gradual
+* grafika - graphic
+* grafikisto - graphic artist
 * graflando - county
-* grafo - graph
+* grafo - count (title)
+* gramatika - grammatical
+* gramatike - grammatically
 * gramatiko - grammar
 * granda - big, large
-* grandeco - size, greatness
-* grandega - enormous
+* grandeco - size
+* grandega - huge
+* grandparte - largely
 * grava - important
-* grave - seriously, importantly
-* graveco - gravity, importance
+* grave - seriously
+* graveco - importance, seriousness
+* gravega - very important
 * gravi - to matter
 * greka - Greek
 * griza - gray
-* grundo - ground
+* grundo - ground, soil
+* grupa - group (adjective)
+* grupigi - to group
 * grupo - group
 * guberniestro - governor
-* gubernio - government
-* gvidanto - guide, leader
-* gvidi - to guide
-* gvido - guide
+* gubernio - province, region
+* gusto - taste
+* gvidado - guidance
+* gvidanto - leader
+* gvidi - to lead
+* gvido - guidance
 
 ## h
-* halo - halo
-* havaĵo - possession
-* haveno - haven, harbor
+* halo - hall
+* harmonio - harmony
+* havaĵo - possession, property
+* haveno - harbor, port
 * havi - to have
-* havigi - to provide, to obtain
+* havigi - to provide, to supply
 * hebrea - Hebrew
-* hejma - domestic
+* hejma - home (adjective)
+* hejme - at home
 * hejmo - home
 * hela - bright, clear
-* helena - Greek
+* helenisma - Hellenistic
+* heliocentrisma - heliocentric
+* helpante - helping
+* helpanto - helper
 * helpi - to help
 * helpo - help
-* herbejo - herb garden
+* herbejo - meadow, pasture
 * heredaĵo - heritage
-* heredo - heritage, inheritance
+* heredo - inheritance
+* hermeneŭtiko - hermeneutics
 * heroo - hero
-* himno - anthem
-* hinda - Indian
+* hierarkia - hierarchical
+* hierarĥio - hierarchy
+* himno - hymn
+* hinda - Indian (adjective)
+* hipotetika - hypothetical
+* hipotezi - to hypothesize
 * hispana - Spanish
 * hispane - in Spanish
 * historia - historical
 * historie - historically
 * historiisto - historian
 * historio - history
-* ho - oh
+* ho - oh (expression of emotion)
 * hodiaŭ - today
 * hodiaŭa - today's
 * homa - human
-* homaro - mankind, humanity
+* homaro - humanity
+* homcentra - human-centered
 * homo - human, person
-* honora - honorable
+* honora - honorary
 * honori - to honor
 * honoro - honor
 * horo - hour
 * hospitalo - hospital
 * hotelo - hotel
+* humanismo - humanism
+* humanisto - humanist
 * hundo - dog
 * hungara - Hungarian
 * hungare - in Hungarian
-* hungaro - Hungarian
 
 ## i
-* ia - some
-* iam - sometime, at some time
-* iama - former, erstwhile
-* iau - someone, somebody (indefinite pronoun)
+* ia - some kind of
+* iam - sometime
+* iama - former
+* ideala - ideal
+* idealismo - idealism
+* idealisto - idealist
+* idealo - ideal
+* identeco - identity
+* identigi - to identify
 * ideo - idea
-* ido - idea
+* ideologia - ideological
+* ideologio - ideology
+* ido - offspring, child
+* igante - making
 * igi - to make, to cause
+* ignori - to ignore
+* ilaro - toolkit, set of tools
 * ili - they
 * ilia - their
+* ililo - tool
 * ilo - tool
+* ilustri - to illustrate
+* impakto - impact
+* imperativa - imperative (adjective)
+* imperativo - imperative (noun)
 * imperia - imperial
 * imperiestro - emperor
 * imperio - empire
-* ina - feminine
+* implicaĵo - implication
+* implikaĵo - implication
+* impliki - to imply
+* implikiĝo - involvement
+* impostado - taxation
+* imposto - tax
+* impozi - to impose
+* ina - female
 * incendio - fire, conflagration
+* indekso - index
 * indiki - to indicate
+* indikilo - indicator
 * indiko - indication, sign
+* indirekta - indirect
+* individua - individual
+* individuismo - individualism
 * individuo - individual
 * indiĝena - indigenous
 * indiĝeno - indigenous person
+* indoeŭropa - Indo-European
 * industria - industrial
+* industriigo - industrialization
 * industrio - industry
-* infana - infant
+* infana - childish, infant
 * infano - child
+* influa - influential
+* influante - influencing
+* influeci - to influence
 * influi - to influence
 * influo - influence
+* influplenca - influential
 * informi - to inform
 * informo - information
-* iniciato - initiation
+* infrastrukturo - infrastructure
+* inherenta - inherent
+* inicialigi - to initialize
+* iniciato - initiative
 * inkludi - to include
-* inkluzive - including
+* inkluzi - to include
+* inkluziva - inclusive
+* inkluzive - inclusively
+* inkluziveco - inclusiveness
 * inkluzivi - to include
-* ino - woman
+* ino - female
+* inovado - innovation
+* inovo - innovation
 * insekto - insect
+* inspiri - to inspire
+* instalado - installation
+* instali - to install
+* instalilo - installer
+* instigi - to instigate, to encourage
 * institucio - institution
-* instruado - education
+* instruado - teaching
 * instrui - to teach
 * instruisto - teacher
 * instrumento - instrument
-* insularo - island
+* instruo - teaching, instruction
+* insularo - archipelago
 * insulo - island
+* integra - integral
+* integrado - integration
+* integreco - integrity
+* integri - to integrate
+* integrigi - to integrate
+* integriĝi - to integrate
+* integriĝo - integration
+* integro - integration
+* intelekta - intellectual
+* intelekto - intellect
+* inteligenta - intelligent
+* inteligenteco - intelligence
+* intenco - intention
+* intensa - intense
 * inter - between, among
 * interagado - interaction
+* interagi - to interact
+* interago - interaction
 * interalie - among other things
+* interdisciplina - interdisciplinary
 * interesa - interesting
 * interesiĝi - to be interested
 * intereso - interest
+* interfaco - interface
+* interfaso - interface
 * interkonsento - agreement
+* interkultura - intercultural
+* interligi - to interconnect
 * interna - internal
 * internacia - international
+* internaĵo - interior
 * interne - internally
 * interno - interior
+* interplekti - to interweave
+* interpretado - interpretation
+* interpreti - to interpret
+* interpreto - interpretation
+* interreto - internet
 * intertempe - in the meantime
+* interveno - intervention
 * intervjuo - interview
+* interŝanĝi - to exchange
+* interŝanĝo - exchange
+* intrinseke - intrinsically
+* invado - invasion
+* invento - invention
+* investado - investing, investment
 * inviti - to invite
+* inĝenierio - engineering
+* inĝenieristiko - engineering science
 * inĝeniero - engineer
 * io - something
 * iom - some, a little
@@ -847,88 +1454,112 @@
 * iri - to go
 * irlanda - Irish
 * islama - Islamic
-* islamano - Muslim
-* islamo - Islam
-* israela - Israeli
+* islamika - Islamic
+* israela - Israeli (adjective)
 * itala - Italian
-* iu - someone, someone (indefinite pronoun)
+* iu - someone, some
+* izoli - to isolate
+* izolismo - isolationism
+* iĝante - becoming
 * iĝi - to become
 
 ## j
-* ja - indeed, certainly
+* ja - indeed, actually
 * jam - already
 * januaro - January
 * japana - Japanese
-* japane - in a Japanese way
-* jara - yearly, annual
-* jaraĝa - middle-aged
+* japane - in Japanese
+* jara - year (adjective)
+* jaraĝa - yearly, annual
 * jarcento - century
 * jardeko - decade
 * jare - yearly, annually
 * jaro - year
-* jc - etc. (abbreviation for "kaj cetera," which means "and so on")
-* je - (preposition with various uses)
-* jen - behold, here is/are
-* jena - such
+* je - at, in (preposition with various meanings)
+* jen - behold, here is
+* jena - that (adjective)
 * jes - yes
 * juda - Jewish
-* judo - Jew
+* jugoslavia - Yugoslavia
 * julio - July
 * juna - young
 * junio - June
 * junularo - youth
-* junulo - youth
-* juristo - lawyer
-* juro - oath, pledge
+* junulo - young person
+* jura - legal
+* juristo - jurist, lawyer
+* juro - law, right
+* jursistemo - legal system
+* justeco - justice
+* juĝa - judicial
+* juĝejo - courthouse
 * juĝisto - judge
+* juĝo - judgment
 
 ## k
 * kadro - frame, cadre
+* kafka - Kafka
 * kaj - and
 * kalendaro - calendar
-* kalia - potassium (chemical element)
 * kalkuli - to calculate
+* kalkulo - calculation
+* kampa - rural, field
 * kampanjo - campaign
 * kampara - rural
-* kamparano - villager
-* kampo - field
+* kamparano - peasant, farmer
+* kampo - field, area
 * kanada - Canadian
-* kanalo - channel
+* kanalo - channel, canal
 * kandidato - candidate
 * kanti - to sing
 * kantistino - female singer
 * kantisto - singer
 * kanto - song
-* kantono - canton (an administrative division in some countries)
+* kantono - canton
 * kapabli - to be able
 * kapablo - ability
 * kapelo - chapel
+* kapitalisma - capitalist
+* kapitalismo - capitalism
 * kapitano - captain
 * kapo - head
-* kapti - to capture
+* kapti - to capture, to catch
 * karakteriza - characteristic
-* karaktero - character
+* karakterizaĵo - characteristic
+* karakterizi - to characterize
+* karakteriziĝi - to be characterized
+* karakteriĝi - to be characterized
+* karaktero - character, personality
 * kardinalo - cardinal
 * kariero - career
+* kartlibro - cardbook
 * kastelo - castle
+* katalizilo - catalyst
 * katalogo - catalog
 * kataluna - Catalan
 * katedralo - cathedral
+* kategoriala - categorical
 * kategorio - category
 * kato - cat
 * katolika - Catholic
 * kavaliro - knight
 * kazo - case
+* kazstudo - case study
+* kaŝado - hiding
+* kaŝejo - hiding place
+* kaŝi - to hide
+* kaŝo - hiding
+* kaŭzaĵo - cause
 * kaŭzi - to cause
 * kaŭzo - cause
-* ke - that
+* ke - that (conjunction)
 * kelka - some, several
 * kelkfoje - sometimes
 * kemia - chemical
 * kemiisto - chemist
 * kemio - chemistry
-* kerno - core
-* kia - what kind of, what
+* kerno - core, kernel
+* kia - what kind of
 * kial - why
 * kialo - reason
 * kiam - when
@@ -939,499 +1570,824 @@
 * kio - what
 * kiom - how much, how many
 * kirko - church
-* kiu - who
+* kiu - who, which
+* kiuj - who, which (plural)
 * klara - clear
 * klare - clearly
-* klarigi - to clarify
+* klareco - clarity
+* klarigi - to clarify, to explain
 * klarigo - explanation
+* klasifikado - classification
+* klasifiki - to classify
 * klasika - classical
 * klaso - class
+* kliento - client
 * klimato - climate
-* klopodi - to strive, to endeavor
+* klimatŝanĝo - climate change
+* kloni - to clone
+* klopodi - to endeavor, to try
 * klopodo - effort
 * klorido - chloride
 * klubo - club
+* kluca - crucial, key
 * knabino - girl
 * knabo - boy
 * kodo - code
+* kodrevizio - code revision
+* kognado - cognition
+* kognitika - cognitive
+* kognitiva - cognitive
+* kohereco - coherence
+* kolapso - collapse
 * kolegio - college
 * kolekti - to collect
+* kolektiva - collective
 * kolekto - collection
+* kollegio - college, institute
 * kolo - neck
-* kolombo - pigeon
+* kolombo - dove, pigeon
+* kolonia - colonial
+* koloniano - colonial
+* koloniigo - colonization
+* koloniisto - colonist
 * kolonio - colony
+* kolonizado - colonization
 * kolono - column
 * koloro - color
-* komarko - comma
+* komandlinia - command line (adjective)
+* komandlinio - command line
+* komando - command
+* kombinante - combining
+* kombini - to combine
+* kombino - combination
 * komedio - comedy
-* komenca - initial, beginning
-* komence - at the beginning, initially
+* komenca - initial
+* komence - at the beginning
 * komenci - to begin
 * komenciĝi - to begin, to start
+* komenciĝo - beginning
 * komenco - beginning
+* komenti - to comment
+* komento - comment
 * komerca - commercial
+* komercado - trade, commerce
 * komercisto - merchant, trader
-* komerco - commerce, trade
+* komerco - commerce
 * komisiono - commission
 * komitato - committee
+* komito - committee
 * kompanio - company
+* kompara - comparative
 * kompare - compared to
+* kompari - to compare
+* komparo - comparison
 * kompleksa - complex
+* komplekseco - complexity
 * kompleta - complete
 * komplete - completely
+* komplika - complicated
+* komplikeco - complexity
+* kompliki - to complicate
+* komponento - component
 * komponi - to compose
 * komponisto - composer
-* kompreneble - of course
+* komprenado - understanding
+* komprenebla - understandable
+* kompreneble - of course, understandably
 * kompreni - to understand
+* kompreno - understanding
+* kompromiso - compromise
+* kompula - compulsive
+* komputado - computing
+* komputila - computer (adjective)
 * komputilo - computer
 * komuna - common
-* komune - commonly
+* komune - commonly, together
+* komunika - communicative
 * komunikado - communication
+* komuniki - to communicate
+* komunismo - communism
 * komunista - communist
+* komunuma - communal
 * komunumo - community
 * koncentrejo - concentration camp
+* koncentriĝi - to concentrate
 * koncepto - concept
-* koncerna - concerning, related
+* koncerna - concerning, regarding
+* koncerni - to concern
+* koncerniĝi - to be concerned
 * koncerto - concert
 * koncilio - council
 * kondiĉo - condition
+* kondukante - leading
 * konduki - to lead
 * konduto - behavior
+* konekteco - connectivity
+* konekto - connection
+* konfederacio - confederation
 * konferenco - conference
+* konfeso - confession
+* konfidenco - confidence
+* konfigurado - configuration
+* konfirma - confirmatory
+* konfirmaĵo - confirmation
+* konfirmi - to confirm
+* konfirmo - confirmation
 * konflikto - conflict
+* konforme - in accordance
+* konfrontiĝo - confrontation
+* konfronto - confrontation
 * kongreso - congress
+* kongrui - to coincide, to agree
 * koni - to know
+* konkerado - conquest
 * konkeri - to conquer
 * konkero - conquest
-* konkurso - competition
+* konkludo - conclusion
+* konkurado - competition
+* konkurenca - competitive
+* konkurso - contest
+* konscia - conscious
+* konscio - consciousness
+* konsekvencisma - consequentialism
+* konsekvenco - consequence
 * konsenti - to agree
-* konservi - to preserve, to conserve
+* konsento - consent
+* konservado - preservation
+* konservi - to conserve, to preserve
 * konsideri - to consider
+* konsidero - consideration
+* konsili - to advise
 * konsilio - council
 * konsilo - advice
 * konsisti - to consist
-* konsistigi - to consist of
+* konsistigi - to constitute, to make up
 * konstanta - constant
+* konstante - constantly
 * konstelacio - constellation
+* konstitua - constitutional (adj.)
+* konstitucia - constitutional
 * konstitucio - constitution
-* konstruado - construction, building
+* konstituo - constitution
+* konstrua - construction (adj.)
+* konstruado - construction
 * konstruaĵo - building
-* konstrui - to build
-* konstruo - building, construction
+* konstrui - to construct, to build
+* konstruo - construction
+* konsumi - to consume
 * kontakto - contact
+* konteksta - contextual
+* konteksto - context
+* kontinenta - continental
 * kontinento - continent
+* kontinua - continuous
 * kontrakto - contract
+* kontrakulturo - counterculture
+* kontraste - in contrast
+* kontrasti - to contrast
+* kontrasto - contrast
 * kontraŭ - against
+* kontraŭa - opposing
+* kontraŭdiro - contradiction
+* kontraŭe - on the contrary
 * kontraŭi - to oppose
+* kontraŭstaro - opposition
+* kontraŭterorisma - counter-terrorism
+* kontribuante - contributing
+* kontribuanto - contributor
 * kontribui - to contribute
 * kontribuo - contribution
-* kontroli - to control
-* kontrolo - control
+* kontrolado - control, monitoring
+* kontroli - to control, to monitor
+* kontrolo - control, monitoring
+* konvencio - convention
+* konversacia - conversational
+* konversacio - conversation
+* konverĝo - convergence
 * koordinato - coordinate
+* kopernika - Copernican
 * kopio - copy
 * korea - Korean
+* korekto - correction
 * koro - heart
 * korpo - body
-* korto - courtyard
+* korpusa - corpus (adj.)
+* kortezo - court
+* korto - court, yard
+* kortumo - court, courtroom
+* korupto - corruption
+* kosma - cosmic
+* kosmo - cosmos, space
+* kosmologio - cosmology
 * kovri - to cover
 * kreado - creation
-* kredi - to believe, to credit
-* kredo - belief, faith
+* kreante - creating
+* kredi - to believe
+* krediti - to credit
+* kredo - belief
 * krei - to create
 * kreo - creation
+* kreola - Creole
 * kreski - to grow
 * kresko - growth
+* kriminalistika - criminological
 * krimo - crime
 * kristana - Christian
-* kristanismo - Christianity
-* kristano - Christian
 * kriterio - criterion
+* kritika - critical
+* kritiki - to criticize
 * kritikisto - critic
 * kritiko - criticism
 * krizo - crisis
-* kroato - Croat
-* krom - besides, except
-* krome - besides, additionally
+* krom - except, besides
+* krome - moreover, furthermore
 * krono - crown
+* kronologia - chronological
+* krozado - cruising
 * kruco - cross
+* kruda - raw, crude
 * kruro - leg
-* ktp - etc. (abbreviation)
+* ktp - etc. (abbreviation for "kaj tiel plu" meaning "and so forth")
 * kuba - Cuban
 * kubo - cube
+* kuirarto - culinary arts
+* kuko - cake
+* kulmino - culmination, climax
 * kultura - cultural
+* kulturaĵo - cultural item
+* kulture - culturally
 * kulturo - culture
 * kun - with
 * kune - together
-* kunigi - to unite
-* kuniĝi - to join
-* kunlaboranto - collaborator
+* kunhavi - to have together, to share
+* kunhavigi - to make share
+* kunhavigo - sharing
+* kunigi - to unite, to join
+* kunigo - unification, joining
+* kuniĝi - to unite, to come together
+* kunlabora - collaborative
+* kunlaborado - collaboration
+* kunlaboranto - collaborator, coworker
 * kunlabori - to collaborate
 * kunlaboro - collaboration
 * kunveno - meeting
-* kuracisto - doctor
+* kuracado - treatment, healing
+* kuracisto - doctor, physician
+* kuraĝigi - to encourage
+* kuro - course, run
+* kurrikulo - curriculum
 * kurso - course
-* kutima - customary, usual
+* kurteno - curtain
+* kutima - usual
 * kutime - usually
-* kutimo - custom
-* kuŝi - to lie down
-* kvadrata - square
+* kutimo - habit, custom
+* kuŝi - to lie (down)
+* kvadrata - square (adjective)
 * kvalito - quality
 * kvankam - although
 * kvanto - quantity
 * kvar - four
 * kvara - fourth
-* kvartalo - district, neighborhood
-* kvazaŭ - as if, as though
+* kvartalo - quarter, district
+* kvazaŭ - as if
 * kvin - five
 * kvina - fifth
+* kvinono - fifth
+* kvoto - quota
 
 ## l
 * la - the
+* labora - labor (adjective)
+* laborado - laboring, work
+* laborante - working
 * laboratorio - laboratory
+* laborfluo - workflow
+* laborforto - workforce
 * labori - to work
-* laboristo - worker
+* laboristo - worker, laborer
+* laborloko - workplace
 * laboro - work
+* laborodirekto - work direction
+* laborperdo - job loss
+* labortekniko - work technique
+* laborujo - work environment
 * lago - lake
-* landlimo - border
+* landlimo - border, boundary
 * lando - country
+* lango - tongue, language
+* lanĉi - to launch
+* lanĉo - launch
 * larĝa - wide
-* lasi - to leave, to let
+* larĝe - widely
+* lasi - to let, to leave
 * lasta - last
+* lastatempa - recent
 * lastatempe - recently
+* laste - lately
 * latina - Latin
-* latino - Latin
 * latitudo - latitude
 * laŭ - according to
-* laŭlonge - lengthwise
+* laŭdo - praise
+* laŭlonge - along
 * legebla - readable
 * legendo - legend
 * legi - to read
+* leksika - lexical
+* leksikografio - lexicography
 * leksikono - lexicon
+* lenso - lens
 * leono - lion
 * lernado - learning
-* lernanto - learner
-* lerneja - school
+* lernanto - learner, student
+* lerneja - school (adjective)
 * lernejo - school
 * lerni - to learn
 * lerno - learning
 * lernolibro - textbook
-* letero - letter (correspondence)
+* letero - letter
+* levado - lifting
+* levi - to lift
+* leviĝi - to rise
+* leviĝo - rising
+* levo - lift
+* leĝaro - legislation
+* leĝdona - legislative
 * leĝo - law
 * li - he
 * lia - his
 * libera - free
+* libere - freely
 * libereco - freedom
-* liberigi - to liberate
+* liberigi - to liberate, to free
 * liberigo - liberation
+* liberta - libertarian
 * libro - book
-* ligi - to connect
-* ligilo - link, connection
+* lidero - leader
+* ligi - to tie, to bind
+* ligilo - link
 * ligna - wooden
 * ligno - wood
-* ligo - league, association
+* ligo - league, bond
+* limigi - to limit
+* limigo - limitation
+* limiĝi - to be limited
 * limo - limit, boundary
 * lingva - linguistic
+* lingvista - linguist
+* lingvistika - linguistic
+* lingvistiko - linguistics
+* lingvisto - linguist
 * lingvo - language
+* lingvouzo - language use
+* linia - linear
 * linio - line
+* lipo - lip
+* listigi - to list
+* listigo - listing
 * listo - list
 * literatura - literary
 * literaturo - literature
-* litero - letter (written character)
-* litova - Lithuanian
+* litero - letter (of the alphabet)
+* litova - Lithuanian (adjective)
+* liverado - delivery
 * liveri - to deliver
+* logi - to lure, to entice
+* logika - logical
+* logiko - logic
 * loka - local
+* loke - locally
+* loki - to place
 * loko - place, location
 * longa - long
-* longe - for a long time
+* longe - long (adverb)
 * longo - length
-* loĝantaro - population
+* loĝado - living, residing
+* loĝantaro - population, inhabitants
 * loĝanto - inhabitant
 * loĝdenso - population density
-* loĝejo - residence, dwelling
-* loĝi - to live
-* loĝloko - dwelling place
-* lucerno - lantern
+* loĝejo - dwelling, residence
+* loĝi - to live, to reside
+* loĝloko - place of residence
+* ludante - playing
 * ludi - to play
 * ludo - game
-* lui - to rent
+* lui - to rent, to hire
 * lukto - struggle, fight
+* lulilo - cradle
+* lumigado - lighting
 * lumo - light
 * luno - moon
 * luterana - Lutheran
 
 ## m
+* machiavelli - Machiavelli
 * majo - May
 * majstro - master
-* malalta - low, short
+* malalta - low
 * malamiko - enemy
 * malantaŭ - behind
 * malaperi - to disappear
+* malavantaĝo - disadvantage
 * malbona - bad
-* maldekstra - left
+* malbono - evil
+* maldekstra - left (direction)
 * maldekstre - to the left
-* male - wrong, incorrectly
+* male - on the contrary
+* malespero - despair
 * malfacila - difficult
+* malfacilaĵo - difficulty
 * malfacile - difficultly
+* malfacileco - difficulty
+* malfari - to undo
 * malferma - open
+* malfermante - opening
 * malfermi - to open
-* malfermita - open
-* malfermiĝi - to open up
+* malfermita - opened
+* malfermiĝi - to open (intransitive)
+* malforta - weak
 * malfrua - late
 * malfrue - late
 * malgranda - small
-* malgraŭ - despite, in spite of
+* malgraŭ - despite
 * malhela - dark
-* malhelpi - to hinder, obstruct
-* maljuna - old
-* malkovri - to uncover, to reveal
+* malhelpi - to hinder, to obstruct
+* maljuna - old (not young)
+* maljusteco - injustice
+* malkaŝi - to reveal
+* malkongrui - to be incongruent
+* malkonstruado - deconstruction
+* malkovri - to discover
 * malkovro - discovery
+* malkresko - decrease
 * mallarĝa - narrow
 * malliberejo - prison
 * mallonga - short
-* mallonge - shortly
+* mallonge - in short
 * mallongigo - abbreviation
-* malmulta - few, little
+* malmulta - few
 * malmulte - little, not much
-* malnova - old
+* malnecesa - unnecessary
+* malnova - old, ancient
 * malofte - rarely
-* malpermesa - forbidden
+* malpermesa - prohibited
 * malpermesi - to prohibit
+* malpermeso - prohibition
+* malpeza - light (weight)
+* malplena - empty
 * malpli - less
+* malpliigi - to reduce, to lessen
+* malprofunda - shallow
 * malproksima - distant
+* malpura - dirty
+* malrapida - slow
 * malriĉa - poor
+* malriĉeco - poverty
 * malsama - different
+* malsameco - difference
+* malsami - to differ
 * malsano - illness, disease
-* malsupra - upper, superior
+* malsupra - lower
 * malsupre - below
+* maltrankvilo - anxiety
 * malvarma - cold
 * malvenko - defeat
+* malĝusta - incorrect
+* managado - management
 * maniero - manner, way
+* manifesta - manifest, evident
+* manifestiĝo - manifestation
+* manipuli - to manipulate
 * manki - to lack, to be missing
-* manko - lack, absence
+* manko - lack, shortage
 * mano - hand
 * manuskripto - manuscript
 * manĝaĵo - food
 * manĝi - to eat
-* manĝo - meal
+* manĝo - meal, food
 * mapo - map
-* mara - marine
-* marborda - seaside
-* marbordo - seaside
+* mara - marine, sea
+* marborda - coastal
+* marbordo - coast, seashore
+* marino - marina
+* markado - marking
+* markante - marking
 * marki - to mark
 * marko - mark, brand
-* markolo - marker
-* marnivelo - seagull
+* markolo - neck
+* marmoro - marble
+* marnivelo - sea level
 * maro - sea
 * marto - March
-* marĉo - marsh
+* marĉo - marsh, swamp
+* marŝado - marching
+* marŝi - to march
+* masiva - massive
 * masklo - male
 * maso - mass
+* masproduktado - mass production
 * matematika - mathematical
 * matematikisto - mathematician
 * matematiko - mathematics
-* mateo - Matthew
+* materiala - material (adjective)
+* materialismo - materialism
 * materialo - material
+* materio - matter
+* maŝina - machine (adjective)
+* maŝinlernado - machine learning
 * maŝino - machine
 * medalo - medal
-* media - media
+* media - media (adjective)
+* medicina - medicinal, medical
 * medicino - medicine
-* medio - medium, environment
-* mediteranea - Mediterranean
+* medio - environment, medium
+* mediteranea - Mediterranean (adjective)
+* mekanismo - mechanism
 * meksika - Mexican
-* mem - oneself, himself, herself, itself, themselves
+* mem - self
+* membreco - membership
 * membro - member
+* membroŝtato - member state
+* memkonscio - self-consciousness
+* memori - to remember
 * memoro - memory
-* memstara - self-sufficient
+* memregado - self-government
+* memregistaro - self-government
+* memstara - independent
+* memstare - independently
 * mencii - to mention
-* menciindi - to mention
+* menciindi - worth mentioning
 * mencio - mention
+* mensa - mental
+* menso - mind
+* merkantilista - mercantilist
 * merkato - market
 * mesaĝo - message
+* metadatumo - metadata
+* metafizika - metaphysical
+* metafiziko - metaphysics
+* metaforo - metaphor
 * metalo - metal
 * meti - to put, to place
-* metio - occupation
+* metio - trade, profession
 * metodo - method
+* metodologio - methodology
 * metro - meter
-* metroo - metro, subway
-* meza - middle, average
-* meze - in the middle, midst
+* metroo - subway, metro
+* meza - average, middle
+* meze - in the middle
 * mezepoka - medieval
-* mezepoko - Middle Ages
-* mezlernejo - middle school
-* mezo - middle, center
+* mezlernejo - secondary school
+* mezo - middle
 * mezuro - measurement
-* mi - I, me
+* mi - I
 * mia - my
 * migrado - migration
+* migri - to migrate
+* migrinto - migrant
+* mikroŝtato - microstate
+* miksaĵo - mixture
 * mil - thousand
-* milda - gentle
+* milda - mild
 * miliono - million
 * milita - military
 * militisto - soldier
 * milito - war
 * milo - mile
-* min - me
-* minaca - threatening
+* min - less
+* minaca - menacing, threatening
+* minaci - to threaten
+* minaco - threat
+* minimumigi - to minimize
 * ministerio - ministry
 * ministro - minister
+* minoritato - minority
 * minuto - minute
+* misilo - missile
+* misinformado - misinformation
 * misio - mission
 * mito - myth
+* mitologia - mythological
 * mitologio - mythology
+* mobiligo - mobilization
+* modelado - modeling
 * modelo - model
 * moderna - modern
+* moderneco - modernity
+* modernigo - modernization
+* modernismo - modernism
+* modifi - to modify
+* modo - mode, fashion
+* mola - soft
+* momenta - momentary
 * momento - moment
+* monarkio - monarchy
 * monato - month
 * monaĥejo - monastery
 * monaĥo - monk
-* monda - global, worldwide
+* monda - world, global
+* mondampleksiĝo - globalization
+* mondia - global, world
+* mondiĝo - globalization
 * mondmilito - world war
 * mondo - world
-* monero - currency
+* monero - coin
+* monitorado - monitoring
 * mono - money
+* monopolio - monopoly
 * montara - mountainous
 * montaro - mountain range
 * monteto - hill
 * monto - mountain
+* montrante - showing
 * montri - to show
-* montriĝi - to appear
+* montrilo - indicator
+* montriĝi - to be shown
 * monumento - monument
+* morala - moral
+* moraleco - morality
+* moralo - morale
+* morfemo - morpheme
+* morfologia - morphological
+* morfologio - morphology
 * morta - dead
 * morti - to die
-* mortiga - deadly
+* mortiga - deadly, lethal
 * mortigi - to kill
 * mortinta - deceased
 * morto - death
 * motivo - motive
-* motoro - engine
+* motoro - motor, engine
 * movado - movement
 * movi - to move
-* moviĝi - to move
+* moviĝi - to move, to be in motion
+* moviĝo - movement
 * movo - movement
-* multa - much, many
+* mozaiko - mosaic
+* multa - many, much
 * multaj - many
-* multe - much, many
+* multe - a lot, much
+* multega - enormous, very much
+* multflanka - multifaceted, multilateral
+* multkultura - multicultural
+* multkulturo - multiculturalism
+* multlingva - multilingual
+* multlingveco - multilingualism
 * multnombra - numerous
+* multo - a lot, much
 * municipa - municipal
 * municipo - municipality
 * murdi - to murder
 * murdo - murder
 * muro - wall
+* muslima - Muslim
 * muzeo - museum
 * muzika - musical
 * muzikisto - musician
 * muziko - music
 
 ## n
-* na - our
 * nacia - national
+* naciismo - nationalism
 * nacio - nation
 * najbara - neighboring
 * naski - to give birth
+* naskiĝejo - birthplace
 * naskiĝi - to be born
+* naskiĝloko - birthplace
 * naskiĝo - birth
 * naskiĝurbo - birthplace
-* natria - sodium
+* natria - sodium (adjective)
 * natura - natural
 * nature - naturally
+* naturisma - naturist, naturalistic
+* naturlingvo - natural language
 * naturo - nature
-* navo - ship
+* navigado - navigation
+* navigi - to navigate
+* navo - ship, nave
 * nazia - Nazi
 * naŭ - nine
-* ne - not
+* ne - no, not
 * necesa - necessary
+* necese - necessarily
+* necesi - to need
 * nederlanda - Dutch
+* neevitebla - inevitable
+* nefizika - non-physical
+* negoco - business
+* neintence - unintentionally
 * nek - neither, nor
+* neklara - unclear
 * nekonata - unknown
+* nenia - no kind of
 * neniam - never
 * neniu - no one, nobody
-* nepre - surely, definitely
+* nepre - necessarily, absolutely
+* neprezebla - priceless
 * nesto - nest
+* neŝanĝebla - unchangeable
+* neŭrologia - neurological
+* neŭroscienco - neuroscience
+* neŭtraleco - neutrality
 * ni - we
 * nia - our
+* nietzsche - Nietzsche
 * nigra - black
 * nivelo - level
-* no - no
 * nokto - night
+* nomada - nomadic
 * nombro - number
-* nome - name
+* nombroj - numbers
+* nome - namely
 * nomi - to name
-* nomiĝi - to be named
+* nomiĝi - to be called, to be named
 * nomo - name
-* nomumi - to nominate
-* norda - northern
-* norde - in the north
+* nomumi - to appoint
+* norda - north, northern
+* norde - north
 * nordo - north
-* nordokcidenta - northwestern
-* nordokcidento - northwest
-* nordorienta - northeastern
-* nordoriente - northeastern
+* nordokcidenta - northwest (adjective)
+* nordokcidento - northwest (noun)
+* nordorienta - northeast (adjective)
+* nordoriente - northeast (adverb)
 * nordoriento - northeast
-* norma - normal
+* norma - standard
 * normala - normal
 * normo - norm, standard
 * norvega - Norwegian
-* noti - to note, observe
+* noti - to note
 * noto - note
 * nova - new
 * novaĵo - news
-* novelo - novel
-* novembro - November
-* nu - well
+* novelo - novella, short story
+* nu - well (expression)
+* nuanco - nuance
 * nuklea - nuclear
+* nuligi - to annul, to cancel
 * numero - number
 * nun - now
 * nuna - current, present
-* nune - now
-* nuntempa - contemporary, present-day
+* nune - now, at present
+* nuntempa - contemporary
 * nuntempe - currently, nowadays
 * nur - only
-* nura - only
-* nutraĵo - food
+* nura - mere, only
+* nutraĵo - food, nourishment
 
 ## o
+* objekta - objective (adjective)
+* objektiva - objective
 * objekto - object
+* observado - observation
 * observatorio - observatory
+* observi - to observe
 * oceano - ocean
+* oferti - to offer
 * oficejo - office
 * oficiala - official
 * oficiale - officially
 * oficiro - officer
-* ofico - office
-* ofta - frequent, common
+* ofico - office, function
+* ofta - often
 * ofte - often
 * ok - eight
-* okazaĵo - event
-* okaze - on occasion
-* okazi - to happen
-* okazo - occasion, event
+* okazaĵo - event, occurrence
+* okaze - on the occasion of
+* okazi - to occur, to happen
+* okazo - occasion, opportunity
 * okcidenta - western
 * okcidente - in the west, westward
 * okcidento - west
 * oktobro - October
 * okulo - eye
 * okupi - to occupy
-* okupiĝi - to be occupied with, to engage in
+* okupiĝi - to occupy oneself, to be engaged in
 * ol - than
 * oleo - oil
-* omaĝe - in homage, as a tribute
+* omaĝe - in homage
+* ombro - shadow
 * ondo - wave
 * oni - one, people, they (impersonal pronoun)
+* opcie - optionally
+* opcio - option
 * operacio - operation
 * opero - opera
-* opinii - to think, to have an opinion
+* opinii - to think, to opine
 * opinio - opinion
+* opozicio - opposition
+* optimumigo - optimization
 * ora - golden, gold
 * orbita - orbital
 * orbito - orbit
-* ordeno - order
+* ordeno - order (as in a decoration)
 * ordinara - ordinary
-* ordo - order
+* ordo - order (organization)
 * ordoni - to order, command
-* ordono - order
+* ordono - order, command
+* oregona - Oregon (adjective)
 * organika - organic
 * organismo - organism
-* organiza - organized
+* organiza - organize (adjective)
 * organizaĵo - organization
 * organizi - to organize
 * organizo - organization
@@ -1440,42 +2396,61 @@
 * orienta - eastern
 * oriente - in the east, eastward
 * oriento - east
-* origina - original
+* origina - original (adjective)
 * originala - original
-* originalo - original
+* originalo - original (noun)
 * origine - originally
+* origini - to originate
 * origino - origin
 * orkestro - orchestra
 * oro - gold
-* ortodoksa - Orthodox
+* ortodoksa - orthodox
+* otomana - Ottoman
 * ovo - egg
 
 ## p
 * paca - peaceful
+* paciento - patient
+* pacifika - pacific
 * paco - peace
 * pagi - to pay
+* pakaĵadministrilo - package manager
+* pakaĵo - package, baggage
 * palaco - palace
+* palato - palate
+* pandemio - pandemic
 * papo - pope
+* paradozo - paradox
+* paralela - parallel
 * parametro - parameter
+* pardonpeto - apology
 * parenco - relative
 * parko - park
 * parlamenta - parliamentary
 * parlamentano - parliamentarian
 * parlamento - parliament
-* paro - pair, couple
-* parola - spoken
+* paro - pair
+* parola - verbal, oral
 * parolado - speech
+* parolanto - speaker
 * paroli - to speak
-* parolo - speech
+* parolo - speech, word
+* parolproblemo - speech problem
+* parolterapio - speech therapy
 * paroĥo - parish
 * parte - partly
+* partia - partial, biased
+* partigi - to divide, to share
 * partio - party
 * parto - part
+* partoprenanto - participant
 * partopreni - to participate
 * partopreno - participation
-* pasi - to pass, to spend (time)
+* pasi - to pass
 * pasigi - to spend (time)
+* pasinteco - past
 * pastro - priest
+* patologio - pathology
 * patrino - mother
 * patro - father
 * patrono - patron
@@ -1483,687 +2458,1152 @@
 * paŝo - step
 * peco - piece
 * pejzaĝo - landscape
+* penado - striving, effort
+* peno - effort
+* pensado - thinking
+* pensanto - thinker
 * pensi - to think
 * penso - thought
+* pensulo - thinker
+* pentrado - painting
 * pentraĵo - painting
 * pentristo - painter
-* per - through, by means of
+* per - by, through
+* percepti - to perceive
+* percepto - perception
 * perdi - to lose
 * perdo - loss
-* pere - through, by means of
+* pere - through
 * perei - to perish
+* perfekta - perfect
 * periodo - period
+* permesante - permitting
 * permesi - to permit, to allow
 * permeso - permission
 * persa - Persian
+* persisteco - persistence
 * persona - personal
+* personaigo - personification
+* personigi - to personify
+* personigo - personification
 * persono - person
-* peti - to request, to ask
+* perspektivo - perspective
+* perturbo - disturbance
+* peti - to request
 * peto - request
+* petolaĵo - prank, mischief
 * peza - heavy
 * pezo - weight
 * piano - piano
+* pidĝina - pidgin
+* piediri - to walk
 * piedo - foot
-* pino - pine (tree)
-* pinto - peak, summit
+* pino - pine
+* pinto - peak, tip
+* pioniri - to pioneer
 * pioniro - pioneer
-* placo - place, square
+* placo - square (public)
+* planado - planning
 * planedo - planet
-* planlingvo - planned language
+* plani - to plan
+* planlingvo - constructed language
 * plano - plan
 * planto - plant
-* plato - dish, plate
+* platformo - platform
+* plato - plate, dish
 * plej - most
 * plejmulto - majority
-* plejparte - mostly, mainly
+* plejparte - mostly
 * plejparto - majority
 * plena - full
 * plene - fully
+* plenigi - to fill
 * plenkreskulo - adult
-* plenumi - to fulfill, to accomplish
+* plenumi - to fulfill, to carry out
+* plenumo - fulfillment
+* plezuro - pleasure
 * pli - more
-* plia - more, additional
+* plia - further, additional
+* plibona - better
+* pliboni - to improve
+* plibonigante - improving
 * plibonigi - to improve
+* plibonigo - improvement
 * plie - furthermore
+* plifaciligi - to facilitate
+* plifortigi - to strengthen
+* pligrandi - to enlarge
+* pligrandigi - to enlarge
+* pligrandiĝi - to enlarge, to grow
+* pligrandiĝo - enlargement
+* pliigi - to increase
+* pliiĝi - to rise, to increase
+* pliiĝo - rise, increase
 * plimulto - majority
 * plu - further, more
-* plua - further, additional
-* plue - furthermore
-* plumaro - feathers, plumage
-* pluraj - several, many
+* plua - additional
+* plue - further, moreover
+* plumaro - plumage
+* plura - several
+* pluraj - several
 * plurfoje - several times
 * plus - plus
 * pluvi - to rain
-* po - per (a prefix indicating distribution)
+* po - per (in expressions of rate)
 * poemo - poem
 * poeto - poet
 * poezio - poetry
 * pola - Polish
+* polarizado - polarization
+* polarizo - polarization
+* polemiko - polemic
 * polico - police
 * politika - political
+* politike - politically
 * politikisto - politician
 * politiko - politics
 * polo - pole
 * ponto - bridge
 * popola - popular
 * popolnombrado - census
-* popolo - people, population
+* popolo - people, nation
+* populacio - population
 * populara - popular
+* popularigi - to popularize
 * por - for
 * pordego - gate
 * pordo - door
 * portalo - portal
-* porti - to wear, to carry
+* porti - to carry
 * portreto - portrait
 * portugala - Portuguese
 * posedaĵo - possession
-* posedi - to possess, to own
+* posedi - to possess
 * posedo - possession
-* post - after, behind
-* posta - later
-* poste - later
-* posteno - post, position
-* posteulo - descendant
+* post - after
+* posta - subsequent
+* poste - afterwards
+* posteno - position, post
+* posteulo - successor
+* postmodernismo - postmodernism
+* postulante - demanding
 * postuli - to demand, to require
 * postulo - demand, requirement
+* potenca - powerful
+* potencialo - potential
 * potenco - power
+* potencstrukturo - power structure
 * povi - to be able, can
 * povo - power
 * pozicio - position
 * pozitiva - positive
-* poŝto - mail
+* pozitivismo - positivism
+* pozitivisto - positivist
+* poŝto - mail, post
+* pragmatika - pragmatic
+* pragmatiko - pragmatics
 * praktika - practical
 * praktiko - practice
+* praulo - ancestor
+* prava - right, correct
+* pravigi - to justify
 * precipe - especially
 * preciza - precise
 * precize - precisely
+* precizeco - precision
 * prefere - preferably
 * preferi - to prefer
+* premi - to press
 * premio - prize, award
 * premo - pressure
+* prenado - taking
 * preni - to take
+* preno - taking
+* preparado - preparation
 * prepari - to prepare
 * preskaŭ - almost
-* prezenta - to present
-* prezentado - presentation
+* preskripta - prescriptive
+* preta - ready
+* pretigi - to prepare, to make ready
+* prezenceco - presence
+* prezenta - present (adjective)
+* prezentado - presentation (act of presenting)
+* prezentante - presenting
+* prezentanto - presenter
 * prezenti - to present
-* prezento - presentation
+* prezidanto - chairman, president
 * prezidento - president
 * prezidi - to preside
 * preĝejo - church
 * pri - about, concerning
+* prilaborado - processing, working on
+* prilabori - to work on, to process
+* prilaboro - processing, work
 * principo - principle
 * princo - prince
-* printempo - spring
+* printempo - spring (season)
+* pripensi - to consider, to ponder
+* priskriba - descriptive
 * priskribi - to describe
 * priskribo - description
+* priskripta - descriptive
 * privata - private
-* pro - for the sake of, because of
+* privateco - privacy
+* privi - to deprive
+* prizorga - caring
+* prizorgado - care, taking care of
+* prizorgi - to take care of
+* prizorgo - care
+* pro - because of, due to
+* problemeca - problematic
 * problemo - problem
 * proceso - process
 * procezo - process
+* proclamatio - proclamation
+* produkta - productive
 * produktado - production
 * produkti - to produce
+* produktiveco - productivity
 * produkto - product
 * profesia - professional
 * profesoro - professor
-* profiti - to profit
+* profiti - to profit, benefit
+* profitiga - profitable
+* profito - profit
 * profunda - deep
+* profunde - deeply
+* profundigi - to deepen
+* programa - programmatic
+* programado - programming
+* programaro - software
+* programisto - programmer
 * programo - program
+* progresado - progression
+* progresi - to progress
+* progreso - progress
+* prohibicio - prohibition
+* projekta - project (adjective)
+* projektdosierujo - project directory
+* projekthistorio - project history
 * projekto - project
-* proksima - near, close
-* proksime - nearby, close
+* proksima - close, near
+* proksime - near, closely
 * proksimume - approximately
+* promesi - to promise
+* promeso - promise
+* promocii - to promote
 * prononco - pronunciation
-* proponi - to propose
+* propagando - propaganda
+* proponi - to propose, to suggest
 * propono - proposal
-* propra - own
-* propreco - property
+* propra - own, personal
+* propreco - property, characteristic
+* prosperi - to prosper
+* prospero - prosperity
+* protektado - protection
 * protekti - to protect
 * protekto - protection
 * protesto - protest
-* provi - to try, to attempt
+* protokolo - protocol
+* provante - trying
+* provi - to try
 * provinco - province
+* provizante - providing
 * provizi - to provide
-* provo - attempt, trial
+* provizo - provision, supply
+* provo - attempt, test
+* prunti - to lend, to borrow
 * pruvi - to prove
 * pruvo - proof
+* psikolingvistiko - psycholinguistics
+* psikologia - psychological
+* psikologio - psychology
 * publika - public
 * publikigi - to publish
+* publikigo - publication
 * publiko - public
 * punkto - point
-* pura - pure
+* pura - clean
+* pure - purely
+* purigado - cleaning
+* puŝado - pushing
+* puŝi - to push
+* puŝo - push
 
 ## r
+* racia - rational
+* racio - reason
+* racionalismo - rationalism
+* racionalisto - rationalist
+* racionalo - rational
+* radika - radical
+* radikala - radical
+* radikale - radically
 * radiko - root
 * radio - radio
-* rajti - to be right, to have the right
-* rajto - right (legal)
-* rakonti - to tell, narrate
-* rakonto - story, tale
-* rando - edge, border
+* rajti - to have the right, to be entitled
+* rajto - right (as in a legal right)
+* rakonti - to tell, to narrate
+* rakonto - story
+* rando - edge, rim
 * rango - rank
-* rapida - fast
-* rapide - quickly
+* rapida - rapid, fast
+* rapide - rapidly
+* rapideco - speed
 * raporti - to report
 * raporto - report
+* rasa - racial
 * raso - race
+* ratifiko - ratification
+* re - again, re-
 * reakcio - reaction
 * reala - real
-* realigi - to realize
+* realaĵo - reality
+* realigi - to realize, to make real
+* realismo - realism
+* realo - real (noun)
+* reciproke - reciprocally
+* redaktado - editing
+* redaktante - editing
 * redakti - to edit
 * redaktoro - editor
+* redukti - to reduce
+* redukto - reduction
+* referenca - referential
+* referenciado - referencing
 * referenco - reference
+* referendumo - referendum
+* referi - to refer
+* reflektante - reflecting
+* reflekti - to reflect
+* reformi - to reform
 * reformo - reform
-* regado - rule, reign
-* reganto - ruler
-* regi - to rule
+* regado - ruling, governance
+* reganto - ruler, governor
+* regi - to rule, to govern
+* regiona - regional
 * regiono - region
 * registara - governmental
 * registaro - government
+* registrado - registration
+* registrante - registering
+* registri - to register
+* registro - registry, register
 * regno - kingdom
+* regula - regular
+* regularo - regulation
 * regule - regularly
-* regulo - rule
-* rekta - straight
+* regulo - rule, regulation
+* reiri - to go back
+* rekono - recognition
+* rekonstruado - reconstruction
+* rekonstrui - to reconstruct
+* rekonstruo - reconstruction
+* rekta - direct
 * rekte - directly
-* relative - relative
+* rekuperado - recovery
+* rekuperi - to recover
+* relative - relatively
+* relativismo - relativism
 * religia - religious
 * religio - religion
+* renesanca - Renaissance (adjective)
 * renkonti - to meet
+* renkontiĝi - to meet, to come together
 * renoma - renowned
+* renovebla - renewable
+* renovigi - to renovate, to renew
+* renverso - overthrow, reversal
+* reponejo - repository, depot
+* repozitorio - repository
+* reprezentado - representation
 * reprezenti - to represent
 * reprodukta - reproductive
+* resaniĝo - recovery (from illness)
+* reseti - to reset
+* reskribi - to rewrite
+* respekti - to respect
+* respektiva - respective
 * respektive - respectively
-* respondi - to respond
+* responde - in response
+* respondeca - responsible
+* respondeco - responsibility
+* respondi - to answer, to respond
 * respondo - response
+* respublikana - Republican
 * respubliko - republic
-* restaĵo - residue, remainder
+* restaĵo - remainder, residue
 * resti - to remain, to stay
-* resto - remainder, rest
+* resto - rest, remainder
 * restoracio - restaurant
+* restrukturado - restructuring
+* restrukturi - to restructure
+* resumante - summarizing
+* resumi - to summarize
+* resumo - summary
+* resurso - resource
+* reta - network (adjective)
+* retadreso - email address
 * retejo - website
-* reto - net, network
-* reveni - to return
-* reveno - income, revenue
+* reto - network
+* returne - in return
+* reunuiĝo - reunion
+* revalutado - revaluation
+* reveni - to return, to come back
+* reveno - return
+* reviva - reviving
+* revivado - revival
+* revivigi - to revive
+* revivigo - revival
+* revizi - to revise
+* revizio - revision
+* revizohistorio - revision history
+* revolucia - revolutionary
+* revoluciigi - to revolutionize
+* revoluciiĝi - to undergo a revolution
 * revolucio - revolution
 * revuo - magazine, review
-* rezigni - to resign
+* rezervo - reserve
+* rezigni - to resign, to give up
+* rezisti - to resist
+* rezisto - resistance
+* rezonado - reasoning
 * rezulte - as a result
 * rezulti - to result
+* rezultigante - resulting
 * rezulto - result
 * reĝa - royal
 * reĝimo - regime
 * reĝino - queen
-* reĝisoro - director (in film or theater)
+* reĝisoro - director (in film, theater)
 * reĝlando - kingdom
 * reĝo - king
 * ribelo - rebellion
 * ricevi - to receive
 * rifuzi - to refuse
-* rigardi - to look
+* rifuzo - refusal
+* rigardante - looking at
+* rigardi - to look at
+* rigida - rigid
+* rigora - rigorous
 * rilata - related
-* rilate - in relation to, regarding
-* rilati - to relate, to be related
+* rilate - relating to
+* rilati - to relate
 * rilato - relationship
-* rimarki - to notice
-* rimarkinda - remarkable
-* rimedo - means, resource
+* rimarkebla - remarkable
+* rimarki - to notice, to observe
+* rimarkinda - noteworthy
+* rimedo - remedy, means
 * ringo - ring
-* rivereto - stream
+* riparado - repair, fixing
+* ripari - to repair, to fix
+* riparo - repair
+* ripeti - to repeat
+* riski - to risk
+* ritmo - rhythm
+* rivelante - revealing
+* rivereto - small river, stream
 * rivero - river
 * riĉa - rich
-* ro - wheel
+* riĉeco - richness, wealth
+* ro - dew
 * roboto - robot
-* rojo - red
 * roko - rock
 * rolo - role
-* rolulo - role
+* rolulo - character (in a story, play, etc.)
+* romana - Roman
+* romanca - Romance (as in languages or culture)
+* romanika - Romanesque
 * romano - novel
-* romia - Roman
-* romiano - Roman
+* romia - Roman (pertaining to Rome)
 * romkatolika - Roman Catholic
-* rondo - round
+* rompi - to break
+* rompo - break, fracture
+* rondo - circle, round
+* rosa - pink
+* rugi - to roar
+* ruinigi - to ruin
 * ruino - ruin
+* ruli - to roll
+* rumania - Romanian
+* rura - rural
 * rusa - Russian
 * ruse - in Russian
+* rusia - Russian (adjective)
 * ruĝa - red
 
 ## s
-* salo - living room
+* salo - salt
 * sama - same
-* same - same
-* samkiel - as, like
-* samloke - at the same place
-* samnoma - homonymous, having the same name
-* samtempe - simultaneously, at the same time
+* same - similarly
+* samkiel - just as, like
+* samloke - in the same place
+* samnoma - having the same name
+* samtempe - simultaneously
+* sana - healthy
 * sango - blood
+* sanitara - sanitary
 * sankta - holy, sacred
 * sanktulo - saint
 * sano - health
+* sanzorgado - health care
+* sartre - Sartre
 * satelito - satellite
 * savi - to save
+* saĝeco - wisdom
+* scenejo - stage, scene
 * sceno - scene
 * scienca - scientific
 * sciencisto - scientist
 * scienco - science
-* scii - to know, to be aware of
+* scii - to know
+* sciigo - notification
+* scio - knowledge
 * se - if
 * sed - but
 * seka - dry
 * sekcio - section
+* sekego - drought
 * sekreta - secret
 * sekretario - secretary
 * seksa - sexual
+* seksega - sexy
 * sekso - sex
 * sektoro - sector
+* sekureca - security (adjective)
 * sekureco - security
-* sekva - following, next
+* sekurigi - to secure, to ensure
+* sekurkopio - backup
+* sekva - next, following
+* sekvado - following
+* sekvante - following
 * sekve - consequently
 * sekvi - to follow
-* sekvo - consequence, sequence
+* sekvilo - follower
+* sekviĝi - to be followed
+* sekvo - consequence
 * semajno - week
+* semantika - semantic
+* semantiko - semantics
 * seminario - seminar
+* semo - seed
 * sen - without
+* senato - senate
 * senco - sense, meaning
 * sendependa - independent
+* sendepende - independently
 * sendependeco - independence
+* sendependo - independence
 * sendi - to send
+* senfina - endless
+* senhejmiĝo - homelessness
 * senkolora - colorless
+* senlaboreco - unemployment
+* senlaboro - unemployment
+* senlima - limitless
+* senperforta - nonviolent
+* senprecedenca - unprecedented
+* senprobleme - without problems
+* sensa - sensible, meaningful
+* senso - sense
+* sentema - sensitive
 * senti - to feel
-* sento - feeling, sense
+* sento - feeling
 * sep - seven
 * septembro - September
-* serbo - Serbian (person)
+* serba - Serbian
 * serio - series
 * servi - to serve
+* servila - servile
+* servilo - server
 * servo - service
+* serĉado - searching
 * serĉi - to search
+* serĉo - search
 * ses - six
+* severa - severe
 * sezono - season
 * seĝo - chair
-* si - oneself, herself, himself, itself, themselves (reflexive pronoun)
-* sia - his, her, its, their (reflexive possessive pronoun)
-* siavice - in addition
-* sidejo - headquarters
+* sfero - sphere
+* shakespeare - Shakespeare
+* si - oneself (reflexive pronoun)
+* sia - his/her/its/their own
+* siavice - in turn
+* sidada - sitting
+* sidejo - seat, headquarters
 * signifa - significant
-* signifi - to mean
-* signifo - meaning
-* signo - sign, symbol
+* signife - significantly
+* signifi - to mean, to signify
+* signifo - meaning, significance
+* signo - sign
+* silico - silicon
+* simbola - symbolic
+* simboligante - symbolizing
+* simboligi - to symbolize
+* simbolismo - symbolism
 * simbolo - symbol
 * simila - similar
 * simile - similarly
-* simili - to resemble, to be similar
+* simili - to resemble
 * simpla - simple
 * simple - simply
-* sinjoro - mister, sir
-* sinteno - intention
+* simpligado - simplification
+* simpligi - to simplify
+* sinjoro - Mr., sir
+* sinkronigi - to synchronize
+* sintaksa - syntactic
+* sintakso - syntax
+* sintaktika - syntactical
+* sinteno - attitude, stance
 * sintezo - synthesis
+* sistema - systematic
+* sistematika - systematic
 * sistemo - system
 * situacio - situation
-* situi - to be situated
+* situi - to be situated, to be located
 * situo - situation
-* skolo - school
+* skemo - scheme
+* skepticismo - skepticism
+* skeptikeco - skepticism
+* skeptiko - skeptic
+* sklava - slave, enslaved
+* sklaveco - slavery
+* sklavo - slave
+* skolastiko - scholasticism
+* skolo - school (historical, philosophical)
 * skriba - written
+* skribado - writing
 * skribe - in writing
 * skribi - to write
 * skribo - writing
+* skripto - script
+* skulptado - sculpting
 * skulptisto - sculptor
-* slovaka - Slovak
-* slovako - Slovak
-* so - so
+* slava - Slavic
+* slovaka - Slovak (adjective)
 * socia - social
 * socialisma - socialist
 * socialismo - socialism
-* societo - society
+* societo - society, small society
 * socio - society
-* sola - alone, solitary
+* sociolekto - sociolect
+* sociolingvistiko - sociolinguistics
+* sociologio - sociology
+* socipolitika - socio-political
+* sofistiki - to sophisticate
+* sola - alone, sole
 * soldato - soldier
 * sole - solely
+* solvado - solving
 * solvi - to solve
 * solvo - solution
-* somera - summer
+* somera - summer (adjective)
 * somero - summer
+* sona - sonic, sound (adjective)
+* soneto - sonnet
 * sono - sound
+* sonregistraĵo - sound recording
+* sonĝo - dream
 * sovetia - Soviet
 * spaco - space
 * speciala - special
 * speciale - especially
+* specialigi - to specialize
 * specifa - specific
+* specife - specifically
+* specifi - to specify
 * specio - species
 * speco - species, type
-* spektaklo - show, performance
+* spektaklo - spectacle, show
+* spektro - spectrum
+* spero - hope
 * sperti - to experience
 * sperto - experience
+* spinoza - Spinoza
+* spira - spiraling
 * spiri - to breathe
+* spirito - spirit
 * spite - despite
 * sporto - sport
-* stacidomo - train station
+* spurado - tracking
+* spuri - to trace, to track
+* stabila - stable
+* stabileco - stability
+* stacidomo - railway station
 * stacio - station
+* stadado - staying, staying put
+* stadi - to stay, to stand
+* stadio - stadium, stage
 * stari - to stand
-* starigi - to establish, to found
+* starigante - setting up
+* starigi - to set up, to erect
+* statistika - statistical
 * statistiko - statistics
-* stato - state (as in political entity)
+* stato - state (condition)
 * statuo - statue
 * statuso - status
 * stelo - star
+* stila - stylish
 * stilo - style
+* stimuli - to stimulate
+* stoki - to store
+* stoko - stock
+* strategia - strategic
+* strategio - strategy
 * strato - street
+* strebado - striving
+* strebo - effort, striving
 * strio - stripe
+* struktura - structural
+* strukturi - to structure
+* strukturigi - to structure
 * strukturo - structure
-* studado - study
+* studado - studying
 * studento - student
 * studi - to study
-* studo - study
-* sub - under
-* suba - lower, beneath
-* sube - below, under
-* subskribi - to subscribe
+* studio - studio
+* studo - study (noun)
+* sub - under, beneath
+* suba - lower
+* subdosierujo - subdirectory
+* sube - below
+* subjekta - subjective
+* subjektiva - subjective
+* subjektiveco - subjectivity
+* subjekto - subject
+* subkompreni - to understand, to grasp
+* subpremo - oppression
+* subskribi - to sign
+* subskribo - subscription
 * subspecio - subspecies
 * substanco - substance
+* substantivo - noun
+* substrekigi - to underline
+* subtenado - support
 * subteni - to support
 * subteno - support
 * subtera - underground
-* subŝtato - state (as in political entity)
+* subŝtato - substate
 * suda - southern
-* sudano - Sudanese
-* sude - in the south
-* suden - suddenly
+* sude - in the south, southward
+* suden - to the south
 * sudo - south
-* sudokcidenta - southwestern
-* sudokcidento - southwest
-* sudorienta - southeastern
+* sudokcidenta - southwest (adjective)
+* sudokcidento - southwest (noun)
+* sudorienta - southeast
 * sudoriento - southeast
 * suferi - to suffer
-* sufiĉe - enough, sufficiently
+* sufiĉe - sufficiently
 * sufiĉi - to suffice
+* sugestante - suggesting
 * sugesti - to suggest
 * sukcesa - successful
 * sukcese - successfully
 * sukcesi - to succeed
 * sukceso - success
-* sume - in total, in sum
-* sumo - sum
+* sume - in total
+* sumo - sum, amount
 * suno - sun
-* super - above, on top of
-* supera - upper, higher
-* superi - to surpass, exceed
+* super - over, above
+* supera - superior
+* superi - to overcome, to surpass
+* superpotenco - superpower
+* superpremi - to suppress
+* superrigardo - overview
 * supozeble - presumably
 * supozi - to suppose
-* supra - above, upper
-* supre - above, on top
-* sur - on, upon
+* supra - upper, above
+* supre - above, up
+* suprema - supreme
+* sur - on
+* surbaza - based on
 * surbaze - based on
 * surfaco - surface
+* suspendo - suspension
 * sveda - Swedish
 * svisa - Swiss
 
 ## t
-* tabelo - table
+* tabako - tobacco
+* tabelo - table, chart
+* tabulo - board, panel
+* taga - daily
 * tago - day
-* taksi - to taxi, to take a taxi
+* taksi - to estimate
+* takso - assessment, estimation
 * tamen - however, nevertheless
+* tapeto - tapestry
+* tapiserio - tapestry
 * tasko - task
-* tavolo - table
+* tavolo - layer
 * taĉmento - detachment
 * taŭga - suitable
+* teama - team (adjective)
+* teamano - team member
 * teamo - team
 * teatra - theatrical
-* teatraĵo - play (theatrical)
+* teatraĵo - play, drama
 * teatro - theater
 * teknika - technical
 * tekniko - technique
+* teknologia - technological
 * teknologio - technology
+* teksta - textual
 * teksto - text
+* telefono - telephone
+* telekomunikado - telecommunication
 * teleskopo - telescope
-* televida - television
+* televida - television (adjective)
 * televido - television
-* temi - to be about, to concern
-* temo - theme
+* tema - thematic
+* temi - to be about
+* temo - theme, topic
+* tempa - temporal
 * temperaturo - temperature
 * templo - temple
 * tempo - time
-* tendaro - tent
+* tendaro - camp
 * tendenco - tendency
-* teni - to hold, to keep
+* teni - to hold
+* tensio - tension
+* teo - tea
+* teologia - theological
 * teologio - theology
 * teologo - theologian
+* teoria - theoretical
 * teorio - theory
-* tera - terrestrial
+* tera - terrestrial, earthly
+* terapio - therapy
 * tereno - terrain
 * teritorio - territory
-* termino - term, deadline
+* terminalo - terminal
+* termino - term
 * tero - earth, ground
-* testamento - will (legal document)
-* tia - such
-* tial - therefore, so
-* tiam - then
-* tiama - at that time
-* tian - such
+* terorismo - terrorism
+* terorista - terrorist
+* testado - testing
+* testamento - testament, will
+* testi - to test
+* testo - test
+* tia - such, like that
+* tial - therefore
+* tiam - then, at that time
+* tiama - of that time
+* tian - such, of such kind
 * tie - there
 * tiea - of that place
 * tiel - so, thus
-* tien - there
-* ties - their, its
-* time - sometimes
-* tio - that
+* tien - there, to there
+* ties - of his/hers/its
+* time - timidly, fearfully
+* timo - fear
+* tio - that (thing)
 * tiom - so much
 * tipa - typical
 * tipe - typically
 * tipo - type
+* tipologia - typological
+* tipologio - typology
+* tiri - to pull
+* tiro - pull, shot
 * titolo - title
-* tiu - that
+* tiu - that (person or thing)
+* tiuj - those
 * tiutempe - at that time
-* tombejo - cemetery, graveyard
+* tombejo - cemetery
 * tombo - tomb
 * tono - tone
+* totala - total
 * tra - through
+* tracado - tracing
 * tradicia - traditional
 * tradicio - tradition
+* tradukado - translation
 * traduki - to translate
 * tradukisto - translator
 * traduko - translation
-* trafi - to hit, strike
+* trafi - to hit, to reach
 * trafiko - traffic
+* tragedio - tragedy
 * trajno - train
-* trajto - trait
-* traktado - treatment
-* trakti - to treat, handle
-* trakto - tract, treatment
+* trajta - trait (adjective)
+* trajto - trait, feature
+* trako - track
+* traktado - treatment, handling
+* traktante - treating, handling
+* traktato - treaty
+* trakti - to treat, to handle
+* trakto - tract, treatise
+* trankvileco - tranquility
 * trans - across, through
-* transdoni - to transmit, transfer
-* transiri - to cross
+* transdoni - to transfer
+* transforma - transformative
+* transformi - to transform
+* transformiĝo - transformation
+* transformo - transformation
+* transiri - to cross over
+* transiro - transition
 * translokiĝi - to relocate
 * transpreni - to take over
 * trapasi - to pass through
+* travivi - to experience, to live through
 * tre - very
+* trejnado - training
+* trejni - to train
 * tri - three
 * tria - third
 * tribo - tribe
-* tribunalo - court
+* tribunalo - tribunal, court
 * tro - too, too much
 * trono - throne
 * tropika - tropical
+* troproduktado - overproduction
+* trovebli - findable
 * trovi - to find
-* trovita - found
-* troviĝi - to be found
+* trovita - found (past participle of find)
+* troviĝi - to be found, to be located
 * truo - hole
 * trupo - troop, group
-* tuj - immediately, right away
+* tuj - immediately
+* tuja - immediate
+* tumulta - tumultuous
+* tumulto - tumult
+* turisma - touristic
 * turismo - tourism
 * turka - Turkish
-* turko - Turk
+* turmento - torment
+* turniĝopunkto - turning point
 * turo - tower
 * tuta - whole, entire
 * tute - completely, entirely
 * tutmonda - worldwide
 * tutmonde - worldwide
-* tuto - whole
+* tuto - entirety, whole
 
 ## u
+* unia - unitary
 * unika - unique
 * unio - union
 * universala - universal
-* universitata - university
+* universale - universally
+* universalismo - universalism
+* universalo - universal
+* universitata - university (adjective)
 * universitato - university
 * universo - universe
 * unu - one
 * unua - first
 * unuafoje - for the first time
-* unue - firstly, first
-* unuiĝi - to unite
-* unuiĝo - union
-* ununura - unique
+* unue - firstly
+* unufoje - once
+* unui - to unite
+* unuigi - to unify
+* unuiĝi - to unite, to come together
+* unuiĝo - union, unification
+* ununura - only, sole
 * unuo - unit
-* unuopa - unique, singular
-* unusola - single
+* unuopa - individual, single
+* unusola - only, sole
 * urba - urban
-* urbego - metropolis
+* urbana - urban
+* urbego - large city, metropolis
 * urbestro - mayor
 * urbeto - small town
 * urbo - city
 * urbocentro - city center
 * urbodomo - city hall
+* urĝa - urgent
 * usona - American
 * utila - useful
-* uzado - usage, use
+* utilitarismo - utilitarianism
+* utilo - utility, use
+* uzado - use, usage
+* uzante - using
+* uzantinterfaco - user interface
+* uzantnomo - username
+* uzanto - user
+* uzebla - usable
 * uzi - to use
 * uzita - used
-* uzo - use
+* uzo - use, usage
+* uzokazo - use case
 
 ## v
+* validi - to be valid
 * valo - valley
 * valora - valuable
 * valoro - value
-* varia - various
-* variaĵo - variety
+* varia - varied, various
+* variado - variation
+* variaĵo - variant
 * varii - to vary
+* vario - variety
 * varma - warm
-* varo - merchandise
-* vasta - vast, wide
-* vaste - widely, broadly
-* vd - etc. (abbreviation for "kaj aliaj," which means "and others")
+* varo - goods
+* varsovia - Warsaw (adjective)
+* vasta - vast
+* vaste - widely
+* vasteco - vastness
+* vazalo - vassal
 * vendi - to sell
 * veni - to come
-* venki - to win
+* venki - to win, to conquer
 * venko - victory
 * vento - wind
 * vera - true
 * verbo - verb
 * verda - green
 * vere - truly, really
-* verkaro - work (literary or artistic)
-* verki - to write
-* verkisto - writer, author
-* verko - work, piece (of art or literature)
+* verkaro - complete works (of a writer, artist, etc.)
+* verki - to write, to compose
+* verkisto - writer
+* verko - work (as in a literary or artistic work)
 * vero - truth
+* versatila - versatile
+* versikontrolo - version control
 * versio - version
+* versionado - versioning
 * verso - verse
-* verŝajne - probably, likely
-* vesto - clothing
-* veturi - to travel, ride
+* verŝajne - probably
+* vestigado - investigation
+* vesto - clothing, garment
+* vetera - veteran
+* veturi - to travel, to ride
 * veturilo - vehicle
 * vi - you
 * via - your
-* vico - line, row
+* vico - row, line, turn
 * vicprezidanto - vice president
-* vida - life, living
+* vicprezidento - vice president
+* vida - visual
 * videbla - visible
-* videbli - visible
+* videbli - to be seen
 * vidi - to see
-* vidindaĵo - sight, spectacle
-* vido - sight, vision
+* vidindaĵo - sight, something worth seeing
+* vido - view, sight
 * vidpunkto - viewpoint
 * viena - Viennese
+* vigla - lively, vigorous
 * viktimo - victim
 * vilaĝano - villager
-* vilaĝeto - villager
+* vilaĝeto - small village
 * vilaĝo - village
 * vino - wine
-* vintra - winter
+* vintra - winter (adjective)
 * vintro - winter
 * vira - male
-* virgulino - virgin
+* virgulino - virgin, maiden
 * virina - female
 * virino - woman
-* viro - man (human)
-* viva - alive
+* viro - man
+* virte - virtually
+* virteco - virtue
+* virto - virtue
+* virtuala - virtual
+* vitala - vital
+* viva - alive, live
+* vivado - living, life
+* vivbilanco - life balance
 * vivi - to live
+* vivmaniero - lifestyle
 * vivo - life
+* vivstilo - lifestyle
 * vizaĝo - face
 * viziti - to visit
 * vizito - visit
+* vizuala - visual
+* vjetnama - Vietnamese
 * vojaĝi - to travel
 * vojaĝo - journey, travel
-* vojo - way, path
-* voli - to want, to wish
-* volo - will, desire
+* vojo - road, way
+* vokala - vowel
+* voli - to want
+* volo - will
 * volumo - volume
+* vorta - verbal, word (adjective)
 * vortaro - dictionary
+* vortformado - word formation
 * vorto - word
+* vortordo - word order
+* vortprovizo - vocabulary
 * vosto - tail
+* voĉa - vocal
+* voĉdona - voting
+* voĉdonanto - voter
+* voĉdoni - to vote
+* voĉdono - vote
+* voĉdonrajto - right to vote
+* voĉi - to voice
 * voĉo - voice
 
 ## z
-* zono - zone
+* zono - zone, belt
 * zorgi - to care
+* zorgo - care, concern
 
 ## Ĉ
-* Ĉeĥio - Czech Republic
-* Ĉeĥoslovakio - Czechoslovakia
-* Ĉilio - Chile
+* Ĉeĥio - Czechia
 * Ĉinio - China
 
 ## ĉ
 * ĉambro - room
 * ĉapitro - chapter
 * ĉar - because
-* ĉe - at
+* ĉe - at, near
 * ĉeesti - to attend
 * ĉeesto - presence
 * ĉefa - chief, main
-* ĉefe - chiefly, mainly
+* ĉefe - mainly
 * ĉefepiskopo - archbishop
 * ĉefministro - prime minister
 * ĉefo - chief, leader
 * ĉefurbo - capital city
+* ĉefverko - masterpiece
 * ĉefvojo - main road
-* ĉelo - cell, key
-* ĉesi - to stop, cease
+* ĉelo - cell
+* ĉesi - to cease, stop
 * ĉevalo - horse
-* ĉeĥa - Czech (adjective)
-* ĉi - this, these (prefix indicating proximity)
+* ĉeĥa - Czech
+* ĉeĥoslovakio - Czechoslovakia
+* ĉi - this, here (prefix)
+* ĉia - every kind of
 * ĉiam - always
 * ĉielo - sky
+* ĉilio - Chile
 * ĉina - Chinese
 * ĉio - everything
 * ĉirkaŭ - around
-* ĉirkaŭa - surrounding
+* ĉirkaŭa - surrounding (adjective)
 * ĉirkaŭaĵo - surroundings
-* ĉiu - every, each
+* ĉirkaŭe - around
+* ĉiu - each, every
 * ĉiuj - all
-* ĉiujare - every year
-* ĉiutaga - daily
+* ĉiujare - annually
+* ĉiujn - all (accusative)
+* ĉiutaga - everyday
 * ĉu - whether, if
-
-## Ĝ
-* Ĝenevo - Geneva
 
 ## ĝ
 * ĝardeno - garden
 * ĝenerala - general
 * ĝenerale - generally
+* ĝeneralo - general (military)
+* ĝenevo - Geneva
 * ĝenro - genre
 * ĝi - it
 * ĝia - its
 * ĝis - until
+* ĝisdatigi - to update
+* ĝisdatigo - update
 * ĝui - to enjoy
-* ĝusta - correct
-* ĝuste - exactly, correctly
+* ĝusta - correct, right
+* ĝuste - correctly, justly
+* ĝusteco - correctness, justice
 
 ## ĵ
 * ĵazo - jazz
 * ĵurnalisto - journalist
-* ĵurnalo - journal
+* ĵurnalo - newspaper
 * ĵus - just, recently
 
 ## ŝ
@@ -2171,16 +3611,32 @@
 * ŝafo - sheep
 * ŝajne - seemingly, apparently
 * ŝajni - to seem
+* ŝalti - to turn on, to switch on
+* ŝanco - chance, opportunity
+* ŝanĝado - changing
+* ŝanĝante - changing
+* ŝanĝepoka - epoch-making, revolutionary
 * ŝanĝi - to change
-* ŝanĝiĝi - to change
+* ŝanĝiĝi - to change, to transform
+* ŝanĝiĝo - change, transformation
 * ŝanĝo - change
-* ŝati - to like, appreciate
+* ŝati - to like, to be fond of
 * ŝi - she
-* ŝia - her
-* ŝin - her
+* ŝia - her (possessive)
+* ŝin - her (object)
 * ŝipo - ship
-* ŝoseo - highway
-* ŝtato - state
-* ŝtona - stony
+* ŝirmilo - shield, screen
+* ŝlosa - locking
+* ŝlosila - key (adjective)
+* ŝlosilo - key
+* ŝoseo - highway, main road
+* ŝovi - to push
+* ŝovo - shove
+* ŝtalo - steel
+* ŝtate - in a state (manner)
+* ŝtatestro - head of state
+* ŝtato - state (nation)
+* ŝtona - stone (adjective)
 * ŝtono - stone
 * ŝuldi - to owe
+* ŝuldo - debt
