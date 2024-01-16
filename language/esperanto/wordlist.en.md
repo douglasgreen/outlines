@@ -17,12 +17,12 @@ advoki - to advocate
 afazio - aphasia
 afekti - to affect
 afero - matter, affair
-afganio - Afghanistan
+Afganio - Afghanistan
 afikso - affix
 afrika - African
-afrikamerikano - African American
-afriko - Africa
-afro - Afro (hairstyle)
+Afrikamerikano - African American
+Afriko - Africa
+Afro - Afro (hairstyle)
 agado - action, activity
 aganto - agent
 agila - agile
@@ -31,7 +31,7 @@ ago - act, action
 agordado - tuning
 agordi - to tune
 agordo - tuning, agreement
-agosteno - (skip, not an Esperanto word)
+Agosteno - Augustine
 agrikulturo - agriculture
 agrokultura - agricultural
 ajna - any
@@ -53,7 +53,7 @@ aktive - actively
 aktivigi - to activate
 akustika - acoustic
 akvo - water
-albanio - Albania
+Albanio - Albania
 aldona - additional
 aldone - additionally
 aldoni - to add
@@ -83,21 +83,21 @@ amendamento - amendment
 amendo - amendment
 america - (skip, not an Esperanto word)
 amerika - American
-amerikano - American (person)
-ameriko - America
+Amerikano - American (person)
+Ameriko - America
 amo - love
 ampleksa - extensive
 ampleksi - to embrace
 amplekso - extent
 amuzindustrio - entertainment industry
-anaksimandro - Anaximander
+Anaksimandro - Anaximander
 analitika - analytical
 analizi - to analyze
 analizo - analysis
-andoro - Andorra
+Andoro - Andorra
 aneksado - annexation
 angla - English
-anglio - England
+Anglio - England
 angsto - angst
 animo - soul, spirit
 anotacia - annotation
@@ -147,7 +147,7 @@ argumentante - arguing
 argumenti - to argue
 argumento - argument
 arĥiduko - archduke
-aristotelo - Aristotle
+Aristotelo - Aristotle
 arkitekturo - architecture
 arko - arch, bow
 arkta - arctic
@@ -186,8 +186,8 @@ aŭ - or
 aurelio - (skip, not an Esperanto word)
 aŭskultanto - listener
 aŭsterigo - austerity
-aŭstrio - Austria
-aŭstro - Austrian
+Aŭstrio - Austria
+Aŭstro - Austrian
 aŭtentikeco - authenticity
 aŭtobusa - bus (adjective)
 aŭtobuso - bus
@@ -205,15 +205,15 @@ avanci - to advance
 avanco - advance
 avantaĝo - advantage
 azia - Asian
-azio - Asia
+Azio - Asia
 balancante - balancing
-balkano - Balkan
+Balkano - Balkan
 balotrajto - voting right
 balta - Baltic
 banka - bank (adjective)
 bankado - banking
 banko - bank
-barato - India
+Barato - India
 bariero - barrier
 batali - to fight
 batalo - battle
@@ -224,11 +224,11 @@ bazi - to base
 bazo - base
 beleco - beauty
 berlina - Berlin (adjective)
-berlino - Berlin
+Berlino - Berlin
 besto - animal
 bezoni - to need
 bezono - need
-biblio - Bible
+Biblio - Bible
 bildigo - depiction
 bileto - ticket
 binara - binary
@@ -247,7 +247,7 @@ boneco - goodness
 bone - well
 bono - good
 bonstato - well-being
-bosnio - Bosnia
+Bosnio - Bosnia
 bostona - Boston (adjective)
 branĉa - branch (adjective)
 branĉado - branching
@@ -255,8 +255,8 @@ branĉiĝo - branching off
 branĉo - branch
 branco - (skip, not an Esperanto word)
 bri - (skip, not an Esperanto word)
-britio - Britain
-bulgario - Bulgaria
+Britio - Britain
+Bulgario - Bulgaria
 ĉapitro - chapter
 ĉar - because
 ĉe - at, near
@@ -266,7 +266,7 @@ cedi - to yield, concede
 ĉefe - mainly
 ĉefo - chief, leader
 ĉefverko - masterpiece
-ĉeĥio - Czechia
+Ĉeĥio - Czechia
 celado - aiming
 celante - aiming
 cela - targeting
@@ -293,7 +293,7 @@ chefa - chief
 ĉiam - always
 cifereca - digital
 ciklo - cycle
-ĉinio - China
+Ĉinio - China
 ĉio - everything
 ĉirkaŭe - around
 cirklo - circle
@@ -313,7 +313,7 @@ code - (skip, not an Esperanto word)
 columbi - (skip, not an Esperanto word)
 ĉu - whether, if
 dana - Danish
-danio - Denmark
+Danio - Denmark
 da - of (used with quantities)
 dateno - data
 dato - date
@@ -581,9 +581,9 @@ enscio - consciousness
 entenado - containing
 ento - entity
 entrepreno - enterprise
-epicurano - Epicurean
-epicurismo - Epicureanism
-epikteto - Epictetus
+Epicurano - Epicurean
+Epicurismo - Epicureanism
+Epikteto - Epictetus
 episkopo - bishop
 epistemologio - epistemology
 epoko - era
@@ -623,11 +623,11 @@ etiko - ethics
 etnia - ethnic
 etnika - ethnic
 eŭdemonio - eudaimonia
-euripido - Euripides
+Euripido - Euripides
 eŭropa - European
-eŭropano - European (person)
-eŭropo - Europe
-eŭrozono - Eurozone
+Eŭropano - European (person)
+Eŭropo - Europe
+Eŭrozono - Eurozone
 evento - event
 eviti - to avoid
 evoluado - evolution
@@ -752,7 +752,7 @@ forte - strongly
 forto - strength
 fotografaĵo - photograph
 franca - French
-francio - France
+Francio - France
 frankfurta - Frankfurt (adjective)
 frazo - sentence
 frekvo - (skip, not an Esperanto word)
@@ -771,7 +771,7 @@ funkcio - function
 fuzia - (skip, not an Esperanto word)
 gajnante - gaining
 galilei - (skip, not an Esperanto word)
-galileo - Galileo
+Galileo - Galileo
 gama - gamma
 gamo - range, spectrum
 garantii - (skip, not an Esperanto word)
@@ -793,7 +793,7 @@ geografio - geography
 geopolitika - geopolitical
 george - (skip, not an Esperanto word)
 germana - German
-germanio - Germany
+Germanio - Germany
 ĝia - its
 ĝi - it
 ĝisdatigi - to update
@@ -820,8 +820,8 @@ gravega - very important
 grave - seriously
 gravi - to matter
 greka - Greek
-grekio - Greece
-greko - Greek (person)
+Grekio - Greece
+Greko - Greek (person)
 grice - (skip, not an Esperanto word)
 grupa - group (adjective)
 grupigi - to group
@@ -844,8 +844,8 @@ heliocentrisma - heliocentric
 helpante - helping
 helpanto - helper
 helpi - to help
-heraklito - Heraclitus
-hercegovino - Herzegovina
+Heraklito - Heraclitus
+Hercegovino - Herzegovina
 heredaĵo - heritage
 hermeneŭtiko - hermeneutics
 hierarĥio - hierarchy
@@ -854,22 +854,22 @@ hierarkio - (skip, not an Esperanto word)
 hipotetika - hypothetical
 hipotezi - to hypothesize
 hispana - Spanish
-hispanio - Spain
+Hispanio - Spain
 historia - historical
 historie - historically
 historio - history
-holivudo - Hollywood
+Holivudo - Hollywood
 homa - human
 homaro - humanity
 homcentra - human-centered
-homero - Homer
+Homero - Homer
 homo - human, person
 hugo - (skip, not an Esperanto word)
 humanismo - humanism
 humanisto - humanist
 hume - (skip, not an Esperanto word)
 hungara - Hungarian
-hungario - Hungary
+Hungario - Hungary
 hunga - (skip, not an Esperanto word)
 ideala - ideal
 idealismo - idealism
@@ -994,27 +994,27 @@ invento - invention
 investado - investing, investment
 ion - (skip, not an Esperanto word)
 io - something
-irako - Iraq
+Irako - Iraq
 iri - to go
 islama - Islamic
 islamika - Islamic
 islamismo - Islamism
 itala - Italian
-italio - Italy
+Italio - Italy
 iu - someone, some
 izolismo - isolationism
 izoli - to isolate
 jackso - (skip, not an Esperanto word)
 jane - (skip, not an Esperanto word)
 japana - Japanese
-japanio - Japan
+Japanio - Japan
 jarcento - century
 jardeko - decade
 jaro - year
 jea - (skip, not an Esperanto word)
 je - at, in (preposition with various meanings)
 jefferso - (skip, not an Esperanto word)
-jorko - York
+Jorko - York
 juĝa - judicial
 juĝejo - courthouse
 juĝo - judgment
@@ -1027,12 +1027,12 @@ justeco - justice
 kadro - frame, cadre
 kafka - Kafka
 kaj - and
-kalifornio - California
+Kalifornio - California
 kalkulo - calculation
 kampanjo - campaign
 kampa - rural, field
 kampo - field, area
-kanado - Canada
+Kanado - Canada
 kandidato - candidate
 kapabli - to be able
 kapablo - ability
@@ -1043,7 +1043,7 @@ karakterizaĵo - characteristic
 karakteriziĝi - to be characterized
 karakterizi - to characterize
 karaktero - character, personality
-karolino - Carolina
+Karolino - Carolina
 kartlibro - cardbook
 kaŝado - hiding
 kaŝejo - hiding place
@@ -1245,7 +1245,7 @@ konverĝo - convergence
 konversacia - conversational
 konversacio - conversation
 kopernika - Copernican
-koperniko - Copernicus
+Koperniko - Copernicus
 kopio - copy
 korekto - correction
 koro - heart
@@ -1258,7 +1258,7 @@ ko - (skip, not an Esperanto word)
 kosma - cosmic
 kosmo - cosmos, space
 kosmologio - cosmology
-kosovo - Kosovo
+Kosovo - Kosovo
 kotona - (skip, not an Esperanto word)
 krasho - (skip, not an Esperanto word)
 kreado - creation
@@ -1273,13 +1273,13 @@ kreski - to grow
 kresko - growth
 kriminalistika - criminological
 kristana - Christian
-kristanismo - Christianity
+Kristanismo - Christianity
 kritika - critical
 kritikisto - critic
 kritiki - to criticize
 kritiko - criticism
 krizo - crisis
-kroatio - Croatia
+Kroatio - Croatia
 kronologia - chronological
 krozado - cruising
 kruda - raw, crude
@@ -1365,7 +1365,7 @@ leĝo - law
 leksika - lexical
 leksikografio - lexicography
 lenso - lens
-leonardo - Leonardo
+Leonardo - Leonardo
 lernado - learning
 lernanto - learner, student
 lerna - (skip, not an Esperanto word)
@@ -1389,7 +1389,7 @@ lidero - leader
 ligi - to tie, to bind
 ligo - league, bond
 li - he
-liĥtenŝtejno - Liechtenstein
+Liĥtenŝtejno - Liechtenstein
 limiĝi - to be limited
 limigi - to limit
 limigo - limitation
@@ -1433,7 +1433,7 @@ lumigado - lighting
 machiavelli - Machiavelli
 maci - (skip, not an Esperanto word)
 madiso - (skip, not an Esperanto word)
-makedonio - Macedonia
+Makedonio - Macedonia
 malalta - low
 malavantaĝo - disadvantage
 malbona - bad
@@ -1520,9 +1520,9 @@ medicina - medicinal, medical
 medicino - medicine
 medio - environment, medium
 mediteranea - Mediterranean (adjective)
-mediteraneo - Mediterranean
+Mediteraneo - Mediterranean
 mekanismo - mechanism
-meksiko - Mexico
+Meksiko - Mexico
 membreco - membership
 membro - member
 membroŝtato - member state
@@ -1545,9 +1545,9 @@ metodologio - methodology
 metodo - method
 meza - average, middle
 mezepoka - medieval
-mezepoko - Middle Ages
+Mezepoko - Middle Ages
 mezo - middle
-mezoriento - Middle East
+Mezoriento - Middle East
 mia - my
 migrado - migration
 migrinto - migrant
@@ -1568,7 +1568,7 @@ minoriti - (skip, not an Esperanto word)
 misilo - missile
 misinformado - misinformation
 misio - mission
-misisipo - Mississippi
+Misisipo - Mississippi
 mitologia - mythological
 mitologio - mythology
 mobiligo - mobilization
@@ -1583,7 +1583,7 @@ modo - mode, fashion
 mola - soft
 momenta - momentary
 momento - moment
-monako - Monaco
+Monako - Monaco
 monarkio - monarchy
 mondampleksiĝo - globalization
 monda - world, global
@@ -1593,7 +1593,7 @@ mondmilito - world war
 mondo - world
 monitorado - monitoring
 monopolio - monopoly
-montenegro - Montenegro
+Montenegro - Montenegro
 montgomerio - (skip, not an Esperanto word)
 monto - mountain
 montrante - showing
@@ -1667,7 +1667,7 @@ nigra - black
 nikolai - (skip, not an Esperanto word)
 nivelo - level
 ni - we
-nobelo - Nobel
+Nobelo - Nobel
 nomada - nomadic
 nombro - number
 nomi - to name
@@ -1676,9 +1676,9 @@ norda - north, northern
 nordo - north
 nordoriento - northeast
 normo - norm, standard
-norvegio - Norway
+Norvegio - Norway
 nova - new
-novjorko - New York
+Novjorko - New York
 nuanco - nuance
 nuklea - nuclear
 nuligi - to annul, to cancel
@@ -1732,7 +1732,7 @@ pandemio - pandemic
 paradozo - paradox
 paralela - parallel
 pardonpeto - apology
-parizo - Paris
+Parizo - Paris
 parlamento - parliament
 parolado - speech
 parolago - (skip, not an Esperanto word)
@@ -1762,7 +1762,7 @@ penado - striving, effort
 peno - effort
 pensado - thinking
 pensanto - thinker
-pensilvanio - Pennsylvania
+Pensilvanio - Pennsylvania
 pensi - to think
 penso - thought
 pensulo - thinker
@@ -1797,7 +1797,7 @@ planedo - planet
 plani - to plan
 plantaci - (skip, not an Esperanto word)
 platformo - platform
-platono - Plato
+Platono - Plato
 plejmulto - majority
 plejparte - mostly
 plena - full
@@ -1834,14 +1834,14 @@ polemiko - polemic
 politika - political
 politike - politically
 politiko - politics
-pollando - Poland
+Pollando - Poland
 popolo - people, nation
 populacio - population
 populara - popular
 popularigi - to popularize
 por - for
 portugala - Portuguese
-portugalio - Portugal
+Portugalio - Portugal
 posedi - to possess
 posedo - possession
 post - after
@@ -2054,7 +2054,7 @@ religia - religious
 religio - religion
 reli - (skip, not an Esperanto word)
 renesanca - Renaissance (adjective)
-renesanco - Renaissance
+Renesanco - Renaissance
 renkontiĝi - to meet, to come together
 renkonti - to meet
 renovebla - renewable
@@ -2144,9 +2144,9 @@ romana - Roman
 romanca - Romance (as in languages or culture)
 romanika - Romanesque
 romano - novel
-romiano - Roman (citizen of Rome)
+Romiano - Roman (citizen of Rome)
 romia - Roman (pertaining to Rome)
-romo - Rome
+Romo - Rome
 rompi - to break
 rompo - break, fracture
 rosa - pink
@@ -2154,11 +2154,11 @@ rugi - to roar
 ruinigi - to ruin
 ruli - to roll
 rumania - Romanian
-rumanio - Romania
+Rumanio - Romania
 rura - rural
 rusa - Russian
 rusia - Russian (adjective)
-rusio - Russia
+Rusio - Russia
 ŝablono - template
 saĝeco - wisdom
 ŝajni - to seem
@@ -2230,7 +2230,7 @@ sento - feeling
 sen - without
 septembro - September
 serba - Serbian
-serbio - Serbia
+Serbio - Serbia
 serĉado - searching
 serĉi - to search
 serĉo - search
@@ -2275,7 +2275,7 @@ sistematika - systematic
 sistemo - system
 situacio - situation
 situi - to be situated, to be located
-skandinavio - Scandinavia
+Skandinavio - Scandinavia
 skemo - scheme
 skepticismo - skepticism
 skeptikeco - skepticism
@@ -2294,8 +2294,8 @@ slava - Slavic
 ŝlosa - locking
 ŝlosila - key (adjective)
 ŝlosilo - key
-slovakio - Slovakia
-slovenio - Slovenia
+Slovakio - Slovakia
+Slovenio - Slovenia
 socia - social
 societo - society, small society
 sociolekto - sociolect
@@ -2304,8 +2304,8 @@ sociologio - sociology
 socio - society
 socipolitika - socio-political
 sofistiki - to sophisticate
-sofoklo - Sophocles
-sokrato - Socrates
+Sofoklo - Sophocles
+Sokrato - Socrates
 sokri - (skip, not an Esperanto word)
 sola - alone, sole
 soldato - soldier
@@ -2321,7 +2321,7 @@ sono - sound
 sonregistraĵo - sound recording
 sourcetree - (skip, not an Esperanto word)
 sovetia - Soviet
-sovetunio - Soviet Union
+Sovetunio - Soviet Union
 ŝovi - to push
 ŝovo - shove
 spaco - space
@@ -2363,8 +2363,8 @@ stila - stylish
 stilo - style
 stimuli - to stimulate
 ŝti - (skip, not an Esperanto word)
-stoicismo - Stoicism
-stoiko - Stoic
+Stoicismo - Stoicism
+Stoiko - Stoic
 stoki - to store
 stoko - stock
 ŝtona - stone (adjective)
@@ -2424,8 +2424,8 @@ sur - on
 suspendo - suspension
 susta - (skip, not an Esperanto word)
 sveda - Swedish
-svedio - Sweden
-svislando - Switzerland
+Svedio - Sweden
+Svislando - Switzerland
 tabako - tobacco
 tabulo - board, panel
 taga - daily
@@ -2445,7 +2445,7 @@ teamo - team
 tekniko - technique
 teknologia - technological
 teknologio - technology
-teksaso - Texas
+Teksaso - Texas
 teksta - textual
 teksto - text
 telefono - telephone
@@ -2489,7 +2489,7 @@ tiro - pull, shot
 titolo - title
 tiuj - those
 tiu - that (person or thing)
-tomaso - Thomas
+Tomaso - Thomas
 tono - tone
 totala - total
 tracado - tracing
@@ -2561,8 +2561,8 @@ urba - urban
 urbo - city
 urĝa - urgent
 usona - American
-usonano - American (person)
-usono - USA
+Usonano - American (person)
+Usono - USA
 utila - useful
 utilitarismo - utilitarianism
 utilo - utility, use
@@ -2587,10 +2587,10 @@ vario - variety
 varo - goods
 varsovia - Warsaw (adjective)
 vasco - (skip, not an Esperanto word)
-vaŝingtono - Washington
+Vaŝingtono - Washington
 vasta - vast
 vasteco - vastness
-vatikano - Vatican
+Vatikano - Vatican
 vazalo - vassal
 veni - to come
 venko - victory
@@ -2602,7 +2602,7 @@ verkisto - writer
 verki - to write, to compose
 verko - work (as in a literary or artistic work)
 vero - truth
-versajlo - Versailles
+Versajlo - Versailles
 verŝajne - probably
 versatila - versatile
 versiki - (skip, not an Esperanto word)
@@ -2622,11 +2622,11 @@ videbli - to be seen
 vidi - to see
 vido - view, sight
 vidpunkto - viewpoint
-vieno - Vienna
+Vieno - Vienna
 vigla - lively, vigorous
 viktimo - victim
 vinci - (skip, not an Esperanto word)
-virgilio - Virgil
+Virgilio - Virgil
 virino - woman
 virteco - virtue
 virte - virtually
