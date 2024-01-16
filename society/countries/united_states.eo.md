@@ -2,8 +2,7 @@
 
 ## La Tero Antaŭ la Tempo
 
-### **La Geografio de Norda Ameriko**
-
+### La Geografio de Norda Ameriko
 Norda Ameriko, vasta kaj diverseca kontinento, karakteriĝas per larĝa gamo de geografiaj trajtoj, kiuj influis homan agadon ekde antikvaj tempoj. Ĉefaj aspektoj inkluzivas:
 
 1. **Montoj**: La Montoj Rokitaj kaj la Montoj Apalaĉaj, signifaj naturaj barieroj, influis migradon kaj loĝadskemojn.
@@ -12,8 +11,7 @@ Norda Ameriko, vasta kaj diverseca kontinento, karakteriĝas per larĝa gamo de 
 4. **Marbordaj Regionoj**: La Pacifika kaj Atlantika marbordoj provizis riĉajn marajn rimedojn kaj estis gravaj por komerco kaj interago inter diversaj grupoj.
 5. **Diversaj Klimatoj**: De la arktaj kondiĉoj en la nordo ĝis la tropikaj klimatoj en la sudo, tiuj varioj subtenis diversecan gamon de vivmanieroj kaj kulturoj.
 
-### **Kulturoj de la Native American Antaŭ Eŭropa Kontakto**
-
+### Kulturoj de la Native American Antaŭ Eŭropa Kontakto
 Antaŭ eŭropa kontakto, Norda Ameriko estis hejmo al riĉa tapiŝo de Native American kulturoj, ĉiu adaptita al siaj specifaj medioj. Gravaj aspektoj inkluzivas:
 
 1. **Diverseco de Kulturoj**: Ne ekzistis monolita "Native American" kulturo; triboj forte diferenciĝis laŭ lingvo, socia strukturo, kaj tradicioj.
@@ -27,8 +25,7 @@ Kompreni la geografian kaj kulturian diversecon de Norda Ameriko antaŭ eŭropa 
 
 ## Epoko de Esplorado
 
-### **Fruaj Eŭropaj Esploristoj**
-
+### Fruaj Eŭropaj Esploristoj
 La Epoko de Esplorado, etendantaĝis de la 15-a ĝis la 17-a jarcentoj, estis periodo markita de vasta transoceana esplorado, ĉefe kondukita de eŭropaj potencoj. Ĉi tiu epoko fundamentale ŝanĝis la kurson de la monda historio. Ĉefaj esploristoj kaj iliaj kontribuoj inkluzivas:
 
 1. **Christopher Columbus (1492)**: Financita de Hispanio, la vojaĝoj de Columbus trans la Atlantika Oceano kondukis al la eŭropa kono de la amerikaj kontinentoj, kvankam li kredis, ke li atingis Azion.
@@ -38,8 +35,7 @@ La Epoko de Esplorado, etendantaĝis de la 15-a ĝis la 17-a jarcentoj, estis pe
 5. **Hernán Cortés (1519-1521)** kaj **Francisco Pizarro (1532-1533)**: Iliaj konkeradoj de la Azteka kaj Inka imperioj, respektive, estis ŝlosilaj en la ekspansio de hispana influo en Ameriko.
 6. **Jacques Cartier (1534-1542)**: Liaj esploradoj starigis la fundamentojn por francaj postuloj en Norda Ameriko, precipe en Kanado.
 
-### **Influo sur Indiĝenaj Populacioj**
-
+### Influo sur Indiĝenaj Populacioj
 La alveno de eŭropaj esploristoj havis profundajn kaj ofte devastigajn efikojn sur indiĝenaj populacioj en Ameriko:
 
 1. **Malsano**: Eŭropanoj alportis kun si malsanojn kiel variolo, influenco, kaj morbiloj, al kiuj la indiĝenaj amerikanoj havis neniun imunecon. Ĉi tiuj malsanoj ekstermis indiĝenajn populaciojn, kun kelkaj taksoj sugestante malaltigon de ĝis 90% en kelkaj regionoj.
@@ -55,16 +51,14 @@ La Epoko de Esplorado estis periodo de signifa ŝanĝo kaj kultura interŝanĝo,
 
 La kolonizado kaj vestigado de tio, kio fariĝus la Unuiĝintaj Ŝtatoj, komenciĝis en la fruaj 17-a jarcento, kun la establado de eŭropaj kolonioj ĉe la orienta marbordo de Norda Ameriko. Ĉi tiu periodo starigis la fundamentojn por la evoluo de la Unuiĝintaj Ŝtatoj.
 
-### **La Dek Tri Kolonioj**
-
+### La Dek Tri Kolonioj
 1. **Kolonioj de Nov- Anglio (Masaĉuseco, Konektikuto, Rod-Insulo, Nov-Hampŝiro)**: Karakterizitaj per malgrandaj farmoj, fiŝkaptado, kaj komerco, ĉi tiuj kolonioj estis ĉefe loĝataj de anglaj Puritanoj serĉantaj religian liberecon.
 2. **Mezaj Kolonioj (Nov-Jorko, Nov-Ĵerzejo, Pensilvanio, Delavero)**: Konataj pro religia kaj kultura diverseco, ĉi tiuj kolonioj havis mikson de agrikulturo kaj komerco. Pensilvanio, fondita de Vilhelmo Penn kiel rifuĝejo por Kvakeroj, estis signifa pro sia tolerema medio.
 3. **Sudaj Kolonioj (Marilando, Virginio, Norda Karolino, Suda Karolino, Georgio)**: Dominis per plantaci-agrikulturo, precipe tabako kaj poste kotono, ĉi tiuj kolonioj grave dependis de sklava laboro.
 4. **Modeloj de Vestigado**: Ekaj vestiĝoj ofte batalis kun malfacilaĵoj kiel malsano kaj manĝvaroj. Kun la tempo, kolonioj kreskis kaj pligrandiĝis, starigante stabilajn ekonomiojn kaj registarojn.
 5. **Kolonie Registaroj**: Ĉiu kolonio havis sian propran registaron, kutime kun guberniestro kaj kolonia parlamento, reflektante diversajn gradojn de memregado.
 
-### **Kolonia Vivo kaj Ekonomio**
-
+### Kolonia Vivo kaj Ekonomio
 1. **Ekonomiaj Agadoj**:
    - **Nov- Anglio**: Ekonomio bazita sur fiŝkaptado, ŝipkonstruo, kaj komerco. Farmado en malgrandskalo estis ĉeestanta, sed la ŝtona tereno limigis agrikulturajn ekspansiojn.
    - **Mezaj Kolonioj**: Konataj kiel la "panbakisto", ili produktis grandajn kvantojn de tritiko kaj aliaj grajnoj. Ili ankaŭ havis signifan prezencecon en produktado kaj komerco.
@@ -95,8 +89,7 @@ Resumante, la kolonizado kaj vestigado de la Dek Tri Kolonioj estis markitaj de 
 
 La Amerika Revolucio estis gravan ĉapitron en la historio, markante la leviĝon de la Unuiĝintaj Ŝtatoj kiel sendependa nacio. Ĉi tiu periodo estis karakterizita per pliiĝantaj tensioj inter la dek tri amerikaj kolonioj kaj la brita registaro, kondukante al plenekreskita milito por sendependeco.
 
-### **Kialoj de la Amerika Revolucio**
-
+### Kialoj de la Amerika Revolucio
 1. **Impostado Sen Reprezentado**:
    - Post la Franca kaj Indiana Milito, Britio enmetis serion de impostoj (kiel la Ŝtampada Leĝo kaj la Leĝoj de Townshend) sur la kolonioj por rekompenci militajn ŝuldojn. La kolonioj protestis kontraŭ ĉi tiuj impostoj, kreante la frazon "neniu impostado sen reprezentado," ĉar ili ne havis reprezentadon en la brita parlamento.
 
@@ -112,8 +105,7 @@ La Amerika Revolucio estis gravan ĉapitron en la historio, markante la leviĝon
 5. **Neprezeblaj Leĝoj**:
    - Responde al la Bostona Teo-Festo, Britio pasis la Devigajn Leĝojn (konataj en Ameriko kiel la Neprezeblaj Leĝoj), kiu plu inflamis kolonian opozicion.
 
-### **Ĉefaj Figuroj kaj Eventoj**
-
+### Ĉefaj Figuroj kaj Eventoj
 1. **Ĉefaj Figuroj**:
    - **George Washington**: Komandanto de la Kontinenta Armeo.
    - **Thomas Jefferson**: Ĉefa aŭtoro de la Deklaracio de Sendependeco.
@@ -135,8 +127,7 @@ La Vojo al Sendependeco ne estis nur sekvado de eventoj, sed transformiĝo de pe
 
 La periodo post la Amerika Revolucio estis kritika por formi la estonton de la Unuiĝintaj Ŝtatoj. La redaktado de la Konstitucio kaj la sekvo de debatoj inter Federalistoj kaj Anti-Federalistoj estis centraj en ĉi tiu proceso, starigante la fundamentojn por la politika sistemo de la nacio kaj gvidaj principoj.
 
-### **Redaktado de la Konstitucio**
-
+### Redaktado de la Konstitucio
 1. **Artikoloj de Konfederacio**: La komenca registra dokumento, la Artikoloj de Konfederacio, montriĝis ne sufiĉe efika, ĉefe pro ĝia malforta centra registaro.
 
 2. **Konstitucia Konvencio (1787)**: Delegitoj renkontiĝis en Filadelfio por revizi la Artikolojn, sed fine decidis verki novan konstitucion. Ĉefaj figuroj inkludis James Madison, George Washington, kaj Benjamin Franklin.
@@ -151,8 +142,7 @@ La periodo post la Amerika Revolucio estis kritika por formi la estonton de la U
    - Inkludis sistemon de kontrolado kaj ekvilibrigoj por malhelpi, ke unu branco iĝu tro potenca.
    - La Konstitucio estis dizajnita esti vivanta dokumento, permesanta amendojn.
 
-### **La Federalistaj kaj Anti-Federalistaj Debatoj**
-
+### La Federalistaj kaj Anti-Federalistaj Debatoj
 1. **Federalistoj**:
    - Gviditaj de figuroj kiel Alexander Hamilton, James Madison, kaj John Jay, Federalistoj subtenis fortan centran registaron.
    - Ili argumentis, ke forta centra registaro estis necesaj por konservi ordon kaj gardi la union.
@@ -179,8 +169,7 @@ La procezo de redaktado de la Konstitucio kaj la postaj debatoj estis fundamenta
 
 La frua 19-a jarcento en la Unuiĝintaj Ŝtatoj estis markita per signifa teritoria ekspansio kaj akompanantaj konfliktoj. Ĉi tiu periodo vidis la nacion disiĝi okcidenten, kio havis profunden signifon por ambaŭ koloniistoj kaj indiĝenaj amerikanoj.
 
-### **Okcidenta Ekspansio**
-
+### Okcidenta Ekspansio
 1. **Aĉetado de Luisiano (1803)**:
    - La Usono akiris vastan teritorion de Francio, duobligante sian grandon. Ĉi tiu aĉeto, negocita de Prezidanto Thomas Jefferson, malfermis vastajn areojn por esplorado kaj loĝado.
 
@@ -199,8 +188,7 @@ La frua 19-a jarcento en la Unuiĝintaj Ŝtatoj estis markita per signifa terito
 6. **Oregona Vojo kaj Aŭskulta Fajroruŝo de Kalifornio**:
    - Masaj migradoj, kiel tiuj sur la Oregona Vojo kaj al Kalifornio dum la Ora Fajro-Ruŝo (1848-1855), ekzempligis la okcidentan moviĝon de koloniistoj.
 
-### **Forpelado de Indiĝenaj Amerikanoj**
-
+### Forpelado de Indiĝenaj Amerikanoj
 1. **Leĝo pri Forpelado de Indiĝenaj Amerikanoj (1830)**:
    - Ĉi tiu politiko, subtenita de Prezidanto Andrew Jackson, kondukis al la forca forloko de miloj da indiĝenaj amerikanoj, plej notinde la ĉerokioj, de iliaj geavojlandoj en la sudo-oriento al areoj okcidente de la Misisipo Rivero, en kio iĝis konata kiel la Vojo de Larmoj.
 
@@ -222,8 +210,7 @@ La epoko de ekspansio kaj konflikto en Usono estis periodo de drama ŝanĝo kaj 
 
 La epoko de la Civita Milito, etendiĝanta de frua ĝis meza 19-a jarcento, estis definema periodo en la historio de Ameriko, markita per disastroza konflikto kiu testis la idealojn de la nacio kaj ĝian mem ekziston.
 
-### **Kialoj de la Civita Milito**
-
+### Kialoj de la Civita Milito
 1. **Sklaveco**:
    - La centra problemo kondukanta al la Civita Milito. La ekonomio de la suda ŝtato forte dependis de sklaveco, dum la nordaj ŝtatoj, kie sklaveco estis plejparte aboliciita, opiniis kontraŭ ĝia ekspansio en novaj teritorioj.
 
@@ -239,8 +226,7 @@ La epoko de la Civita Milito, etendiĝanta de frua ĝis meza 19-a jarcento, esti
 5. **Elekto de Abraham Lincoln (1860)**:
    - La elekto de Lincoln, sen iu subteno de la suda ŝtato, kondukis al la secesio de dek unu sudad ŝtatoj kaj la formado de la Konfederaciaj Ŝtatoj de Ameriko.
 
-### **Ĉefaj Bataloj de la Civita Milito**
-
+### Ĉefaj Bataloj de la Civita Milito
 1. **Fort Sumter (1861)**:
    - La unuaj pafadoj de la Civita Milito okazis ĉe Fort Sumter en Sud-Karolino, markante la komencan de la konflikto.
 
@@ -259,8 +245,7 @@ La epoko de la Civita Milito, etendiĝanta de frua ĝis meza 19-a jarcento, esti
 6. **Appomattox Court House (1865)**:
    - La kapitulaco de Sud-Ĝeneralo Lee al Unia Ĝeneralo Ulysses S. Grant efike finis la Civitan Militon.
 
-### **Emancipo kaj Rekonstruo**
-
+### Emancipo kaj Rekonstruo
 1. **Emancipation Proclamation (1863)**:
    - Eldonita de Prezidanto Lincoln, ĉi tiu proklamo deklaris ĉiujn sklavojn en teritorioj tenataj de la Konfederacio libera, montrante ŝanĝon en la celo de la milito, inkluzive de la abolicio de sklaveco.
 
@@ -287,8 +272,7 @@ La epoko de la Civita Milito estis transforma periodo en la historio de Ameriko.
 
 La Industria Revolucio, etendiĝanta de la malfrua 18-a ĝis la frua 20-a jarcento, markis periodon de profunda ekonomia, teknologia, kaj socia ŝanĝo en Usono. Ĉi tiu epoko vidis la transiron de mana laboro kaj agrokultur-bazitaj ekonomioj al industrie kaj mekanisme organizitaj sistemoj de produktado.
 
-### **Leviĝo de la Industrio**
-
+### Leviĝo de la Industrio
 1. **Ŝanĝo de Agrokultura al Industria Ekonomio**:
    - Usono spertis ŝanĝon de ĉefe agrokultura socio al unu centrigita ĉirkaŭ industriaj fabrikado, precipe en la Nordoriento kaj Mezokcidento.
 
@@ -304,8 +288,7 @@ La Industria Revolucio, etendiĝanta de la malfrua 18-a ĝis la frua 20-a jarcen
 5. **Kapitalismo kaj Kresko de Negocoj**:
    - La periodo vidis la leviĝon de gravaj komercaj figuroj kaj monopolioj (kiel John D. Rockefeller en nafto, Andrew Carnegie en ŝtalo, kaj J.P. Morgan en financo) kaj la aperon de moderna kapitalismo.
 
-### **Teknologiaj Avancoj**
-
+### Teknologiaj Avancoj
 1. **Inovoj en Fabrikado**:
    - La disvolvo de maŝinaron, kiel ekzemple la kotona gin fare de Eli Whitney, revoluciiĝis la agrikulturon kaj fabrikadon.
    - La montagolinio, pionirita de Henry Ford en la aŭtomobila industrio, draste pliigis produktadefikecon.
@@ -328,8 +311,7 @@ La Industria Revolucio kaj la kunvenanta ondo de inovado havis profundan efikon 
 
 La Epoko de Progresado, etendantaĵaĵanta de la 1890-aj jaroj ĝis la 1920-aj jaroj, estis tempo de signifaj sociaj, politikaj, kaj ekonomiaj reformoj en Usono. Ĉi tiu periodo karakteriĝis per ĝenerala kredo ke registara interveno estis necesaj por korekti la maljustecojn kaj neefikaĵojn de la Industria Epoko.
 
-### **Sociaj Reformoj**
-
+### Sociaj Reformoj
 1. **Laboro-Reformoj**:
    - **Infana Laboro**: La batalo kontraŭ infana laboro kondukis al leĝoj kiuj limigis aŭ malpermesis la dungadon de infanoj en industrioj.
    - **Laboraj Kondiĉoj**: Reformoj fokusis pri plibonigo de laboraj kondiĉoj, inkluzive de reduktado de laborhoroj (kia establado de la ok-hora labortago) kaj la implementado de sekurec-normoj.
@@ -349,8 +331,7 @@ La Epoko de Progresado, etendantaĵaĵanta de la 1890-aj jaroj ĝis la 1920-aj j
 6. **Leĝoj Kontraŭ Monopolioj**:
    - Leĝaro kiel la Sherman-Leĝo kontraŭ Monopolioj (1890) kaj la Clayton-Leĝo kontraŭ Monopolioj (1914) celis disrompi monopoliojn kaj restaŭri konkurencajn merkatojn.
 
-### **La Batalo por la Balotrajto de Virinoj**
-
+### La Batalo por la Balotrajto de Virinoj
 1. **Frueaj Movadoj**:
    - La virina balotrajto-movado havis siajn radikojn en la mezo de la 19-a jarcento, gajnante impulson post la Seneca Falls-Kunveno de 1848.
 
@@ -369,8 +350,7 @@ La Epoko de Progresado estis tempo de granda transformiĝo en amerika socio. Ĝi
 
 La frua 20-a jarcento markis signifan ŝanĝon en la rolo de Usono sur la monda scenejo, karakterizita per ĝia implikiĝo en la Unua Mondmilito kaj la posta epoko de kultura kaj ekonomia prospero konata kiel la Ruganta Duondudekjardekoj.
 
-### **Unua Mondmilito**
-
+### Unua Mondmilito
 1. **Neŭtraleco al Partopreno**:
    - Komence, Usono konservis neŭtralecon, kiel propugnita de Prezidanto Woodrow Wilson. Tamen, pluraj faktoroj, inkluzive de senlima germana submarŝipatako kaj la Zimmermann-Telegramego (kiu malkaŝis germanan proponon pri milita alianco kun Meksiko), kondukis al la enirejo de Usono en la militon en 1917 sur la flanko de la Alianculoj.
 
@@ -383,8 +363,7 @@ La frua 20-a jarcento markis signifan ŝanĝon en la rolo de Usono sur la monda 
 4. **Paco de Versajlo kaj Ligo de Nacioj**:
    - Prezidanto Wilson ludis ŝlosilan rolon en la Pariza Pacokonferenco. Lia Kvardek Kvin Punktoj skizis planon por postmilita paco, propugnante la kreadon de la Ligo de Nacioj. Tamen, la Usona Senato finfine rifuzis la Traktaton de Versajlo kaj Usono neniam aliĝis al la Ligo.
 
-### **La Rugantaj Duondudekjardekoj**
-
+### La Rugantaj Duondudekjardekoj
 1. **Ekonomia Prospero**:
    - La dekado vidis substancan ekonomian kreskon, stimulitan de industria ekspansio, teknologiaj avancoj, kaj la leviiĝo de konsumista kulturo.
 
@@ -409,8 +388,7 @@ iaj kaj kulturaj ŝanĝoj, prezentante la scenejon por la defioj kaj inovoj de l
 
 La Granda Malriĉeco, ekde 1929 kaj dum la 1930-aj jaroj, estis la plej severa ekonomia krizo en la historio de la industrializitaj nacioj. Ĝi havis profundajn efikojn tiel sur la usona ekonomio kiel ankaŭ sur la socio.
 
-### **Kialoj de la Granda Malriĉeco**
-
+### Kialoj de la Granda Malriĉeco
 1. **Krasho de la Ŝtormerkato de 1929**:
    - La rapida falado de akcioprezoj en oktobro 1929 ofte estas citita kiel la komenco de la Granda Malriĉeco. Tiu ĉi krasho malkuraĝigis konsumantaron kaj komercajn konfidencojn kaj kondukis al severa kontraho en elspezoj kaj investado.
 
@@ -429,8 +407,7 @@ La Granda Malriĉeco, ekde 1929 kaj dum la 1930-aj jaroj, estis la plej severa e
 6. **Mondaj Ekonomiaj Problemoj**:
    - La usona ekonomika krizo havis tutmondan efikon, speciale en Eŭropo, kie multaj landoj ankoraŭ rekovradiĝis de la Unua Mondmilito kaj dependis de usonaj pruntoj kaj investadoj.
 
-### **Efikoj de la Granda Malriĉeco**
-
+### Efikoj de la Granda Malriĉeco
 1. **Senlaboro**:
    - La niveloj de senlaboro leviĝis, atingante tiel altan kiel 25% dum la plej malbonaj jaroj de la Malriĉeco.
 
@@ -440,8 +417,7 @@ La Granda Malriĉeco, ekde 1929 kaj dum la 1930-aj jaroj, estis la plej severa e
 3. **Socia kaj Kultura Efiko**:
    - La Granda Malriĉeco havis signifajn sociajn kaj psikologiajn efikojn sur la usonanoj. Ĝi ŝanĝis familajn dinamikojn kaj kondukis al generacio markita per ŝparemecon kaj forta laboretiko.
 
-### **La Nova Projekto**
-
+### La Nova Projekto
 1. **Respondo de Roosevelt**:
    - Prezidanto Franklin D. Roosevelt Nova Projekto estis serio de programoj, publika laborprojektoj, financaj reformoj, kaj regularoj enkondukita en la 1930-aj jaroj, celanta provizi subtenon, rebonigon, kaj reformon.
 
@@ -459,8 +435,7 @@ La Granda Malriĉeco kaj la Nova Projekto estis difinaj momentoj en la usona his
 
 La Dua Mondmilito, kiu daŭris de 1939 ĝis 1945, estis monda konflikto kiu implikis la plej multajn naciojn de la mondo, inkluzive de ĉiuj grandaj potencoj, fine formante du opoziciajn militajn aliancojn: la Aliancanoj kaj la Akso. Ĝi estis la plej vasta kaj mortiga milito en la historio.
 
-### **Hejmlando kaj Eksterlande**
-
+### Hejmlando kaj Eksterlande
 1. **Eniĝo de Usono en la Milito**:
    - Unue, Usono konservis pozicion de neŭtraleco. Tamen, la japana atako sur Pearl Harbor la 7-an de decembro 1941 kondukis al Usono deklarante militon kontraŭ Japanio kaj poste kontraŭ Germanio kaj Italio, aliĝante al la Aliancanoj.
 
@@ -476,8 +451,7 @@ La Dua Mondmilito, kiu daŭris de 1939 ĝis 1945, estis monda konflikto kiu impl
 5. **Propagando kaj Publika Moralo**:
    - La registaro kaj amaskomunikiloj ludis ŝlosilan rolon en konservado de publik-subteno por la milita strebado tra propagando kaj informadaj kampanjoj.
 
-### **Postmilita Impakto**
-
+### Postmilita Impakto
 1. **Ekonomia Kresko**:
    - La fino de la milito alportis ekonomian kreskon al Usono, markitan per konsumanta elspezo kaj konstrua ŝanĝiĝo, parte pro revenantaj soldatoj kaj la avantaĝoj de la G.I. Ligo (Veteran-Subtena Leĝo).
 
@@ -504,8 +478,7 @@ La Dua Mondmilito profundigis la kurson de la 20-a jarcento, remodelante la poli
 
 La Malvarma Milito, kiu daŭris de la malfruaj 1940-aj jaroj ĝis la fruaj 1990-aj jaroj, estis periodo de geopolitika tensio inter Usono (kaj ties aliancanoj) kaj Sovet-Unio (kaj ties aliancanoj). Tiu epoko karakteriĝis per politikaj, ideologiaj, militaj, kaj ekonomiaj bataloj, sed ĝi ne atingis rektan grandskalan bataladon inter la du superpotencoj.
 
-### **Konfrontoj kun Sovet-Unio**
-
+### Konfrontoj kun Sovet-Unio
 1. **Ideologia Disigado**:
    - La Malvarma Milito baziĝis sur la ideologia konflikto inter kapitalismo (gvidita de Usono) kaj komunismo (gvidita de Sovet-Unio).
 
@@ -524,8 +497,7 @@ La Malvarma Milito, kiu daŭris de la malfruaj 1940-aj jaroj ĝis la fruaj 1990-
 6. **Détente**:
    - La 1970-aj jaroj vidis periodon de détente (malkasigo de tensioj), inkluzive de armilaj kontrolakordoj kiel SALT I kaj II (Strategiaj Armo Limigoj).
 
-### **La Kosma Kuro**
-
+### La Kosma Kuro
 1. **Konkurso por Kosma Supereco**:
    - La Kosma Kuro estis signifa aspekto de la Malvarma Milito, reflektante la teknologian kaj ideologian konkurson inter Usono kaj Sovet-Unio.
 
@@ -547,8 +519,7 @@ La Malvarma Milito signife influis mondan politikon, militstrategiojn, teknologi
 
 La Movado por Civilaj Rajtoj en Usono, ĉefe dum la 1950-aj kaj 1960-aj jaroj, estis gravtima periodo en la historio de la nacio. Ĝi estis markita per larĝe disvastigita, organizita, kaj ofte senperforta agado celanta fini rasisman apartigadon kaj diskriminacion kontraŭ afro-amerikanoj kaj sekurigi juran rekonecon kaj federan protekton de iliaj civitane rajtoj.
 
-### **Ĉefaj Figuroj kaj Eventoj**
-
+### Ĉefaj Figuroj kaj Eventoj
 1. **Rosa Parks kaj la Bojkoto de la Montgomeria Aŭtobusa Kompanio (1955-1956)**:
    - La rifuzo de Rosa Parks cedi sian sidlokon en apartigita aŭtobuso en Montgomerio, Alabamo, kondukis al jara bojkoto de la aŭtobusa sistemo, organizita de Martin Luther King Jr., kiu fariĝis katalizilo por la nacia movado por civilaj rajtoj.
 
@@ -570,8 +541,7 @@ La Movado por Civilaj Rajtoj en Usono, ĉefe dum la 1950-aj kaj 1960-aj jaroj, e
 7. **Marŝadoj de Selmo al Montgomerio (1965)**:
    - Tioj marŝadoj, organizitaj por postuli voĉdonrajtojn, enfrontis violentan kontraŭstaron kaj kondukis al pli granda publika subteno por la movado.
 
-### **Leĝaro kaj Efiko**
-
+### Leĝaro kaj Efiko
 1. **Leĝo pri Civilaj Rajtoj de 1964**:
    - Tiu historia leĝaro malpermesis diskriminacion bazitan sur raso, koloro, religio, sekso, aŭ nacia origino. Ĝi finis malsaman aplikon de voĉdonrajto postuloj kaj rasan apartigon en lernejoj, laborlokoj, kaj servoj al la ĝenerala publiko.
 
@@ -591,8 +561,7 @@ La Movado por Civilaj Rajtoj estis transforma periodo en la historio de Usono, k
 
 La Moderna Epoko en Usono, precipe de la 1960-aj jaroj, estis markita per gravaj sociaj, politikaj, kaj kulturaj ŝanĝoj. Estis periodo de intensa konflikto kaj transformo, kiel ilustras la Vjetnama Milito kaj diversaj sociaj movadoj.
 
-### **La Vjetnama Milito**
-
+### La Vjetnama Milito
 1. **Fono kaj Partopreno**:
    - La Vjetnama Milito estis longdaŭra konflikto de la malfruaj 1950-aj jaroj ĝis 1975, kun rektea usona milita partopreno altiĝanta en la 1960-aj jaroj. Ĝi estis parto de la pli larĝa regiona konflikto konata kiel la Dua Indokitana Milito kaj estis manifestiĝo de la Malvarma Milito inter Usono kaj Sovetunio.
 
@@ -608,8 +577,7 @@ La Moderna Epoko en Usono, precipe de la 1960-aj jaroj, estis markita per gravaj
    - Usono ekis retiri trupojn en la fruaj 1970-aj jaroj, kaj la milito finiĝis en 1975 kun la falo de Saigon.
    - La milito havis gravajn efikojn sur usona socio kaj politiko, inkluzive de malfidado al la registaro (kreita per eventoj kiel la Pentagonaj Papiroj kaj la Watergate-skandalo), ŝanĝoj en militaj politikoj, kaj revizito de eksterlanda politiko.
 
-### **Sociaj kaj Kulturaj Ŝanĝoj**
-
+### Sociaj kaj Kulturaj Ŝanĝoj
 1. **Movado por Civilaj Rajtoj**:
    - Daŭrigante de la antaŭa jardeko, la lukto por rasa egaleco restis grava problemo, kondukante al pliaj leĝfaraj atingoj kaj sociaj ŝanĝoj.
 
@@ -636,8 +604,7 @@ ikoj. La Vjetnama Milito ne nur havis profundajn implikaĵojn por usona ekstera 
 
 La renverso de la jarcento, montrante la transiron de la 20-a al la 21-a jarcento, estis periodo karakterizita per rapidaj teknologiaj progresoj kaj gravaj politikaj ŝanĝoj. Tiu epoko starigis la scenejon por la moderna mondo, kiel ni konas ĝin hodiaŭ.
 
-### **Teknologiaj Avancoj**
-
+### Teknologiaj Avancoj
 1. **La Difitala Revolucio**:
    - La malfruaj 20-a kaj fruaj 21-a jarcentoj vidis la akseleron de la difitala revolucio. La disvastiĝo de persona komputilo, la alveno de la interreto, kaj la disvolviĝo de mova teknologio transformis kiel homoj komunikas, atingas informon, kaj kondukas negocojn.
 
@@ -653,8 +620,7 @@ La renverso de la jarcento, montrante la transiron de la 20-a al la 21-a jarcent
 5. **Spaca Esplorado**:
    - Daŭra esplorado de la spaco, inkluzive de misioj al Marso kaj la disvolviĝo de la Internacia Spacstacio, emfazis daŭrantajn progresojn en aerospatia teknologio.
 
-### **Politikaj Ŝanĝoj**
-
+### Politikaj Ŝanĝoj
 1. **Mondampleksiĝo**:
    - La renverso de la jarcento estis markita per kreskanta mondampleksiĝo. La mondo iĝis pli interligita ekonomie, kulture, kaj politike, parte pro teknologiaj progresoj.
 
@@ -676,8 +642,7 @@ La renverso de la jarcento estis periodo de transiro, markita per la kunveno de 
 
 La 21-a jarcento estas markita per kompleksaj tutmondaj defioj kaj signifaj ŝancoj, kiuj reformatas la socipolitikan kaj ekonomian pejzaĝon tutmonde. Du kritikaj fokusejoj estis la daŭra minaco de terorismo kaj la evolua naturo de ekonomiaj defioj kaj ŝancoj.
 
-### **Terorismo kaj Hejma Sekureco**
-
+### Terorismo kaj Hejma Sekureco
 1. **Mondo Post la 11-a de Septembro**:
    - La teroristaj atakoj de la 11-a de septembro 2001 havis profundan efikon, kondukante al tutmonda revalutado de sekurecaj politikoj. Usono kaj multaj aliaj landoj signife restrukturis sian aliron al nacia kaj internacia sekureco.
 
@@ -693,8 +658,7 @@ La 21-a jarcento estas markita per kompleksaj tutmondaj defioj kaj signifaj ŝan
 5. **Ekvilibro inter Sekureco kaj Civitanaj Liberecoj**:
    - La pliigita fokuso sur sekureco levis zorgojn pri la ekvilibro inter protektado de civitanoj kaj konservado de civitanaj liberecoj kaj privateco. Temoj kiel amasa observado kaj la uzo de senpilotaj atakaviadiloj estis punktoj de kontestoj.
 
-### **Ekonomiaj Defioj kaj Ŝancoj**
-
+### Ekonomiaj Defioj kaj Ŝancoj
 1. **Mondiĝo**:
    - La 21-a jarcento vidis plian akceliĝon en mondiĝo, kun pliigita interligiteco de merkatoj kaj internacia komerco. Tio alportis ekonomian kreskon sed ankaŭ defiojn kiel laborlokeĝo kaj zorgojn pri ekonomia malegaleco.
 
@@ -721,8 +685,7 @@ Here is the translation of your text into Esperanto:
 
 La usona politiko, precipe en lastaj jaroj, estas markita de kompleksaj dinamikoj, kiuj reflektas la evoluantan naturon de ĝia politika sistemo kaj la rezultojn de ĝiaj prezidantaj elektoj.
 
-### **La Usona Politika Sistemo**
-
+### La Usona Politika Sistemo
 1. **Federacia Strukturo**:
    - La Unuigitaj Ŝtatoj funkcias sub federacia sistemo, kie potenco estas dividita inter la nacia (federala) registaro kaj ŝtataj registaroj. Tiu ĉi sistemo permesas ekvilibron de potenco kaj akomodas regionajn diferencojn.
 
@@ -738,8 +701,7 @@ La usona politiko, precipe en lastaj jaroj, estas markita de kompleksaj dinamiko
 5. **Rolo de la Konstitucio**:
    - La usona Konstitucio, kun siaj amendoj, estas la supera juro de la lando. Ĝi priskribas la strukturon de la registaro, la rajtojn de civitanoj, kaj la federacian sistemon de registarado.
 
-### **Lastaj Prezidantaj Elektoj**
-
+### Lastaj Prezidantaj Elektoj
 1. **Kreskanta Polarizo**:
    - Lastaj elektoj reflektis kreskantan politikan polarizon en la lando, kun kandidatoj kaj partioj ofte havantaj forte kontrastajn politikojn kaj ideologiojn.
 
@@ -761,8 +723,7 @@ La politikaj dinamikoj en la Unuigitaj Ŝtatoj, precipe en la kunteksto de lasta
 
 Amerika kulturo, diverseca kaj dinamika, reflektas la kompleksan historion de la lando kaj ĝian rolon kiel konglomeraĵo de mondiaj influoj. Tiu riĉeco estas aparte videbla en ĝia muziko, arto, literaturo, populara kulturo, kaj medio.
 
-### **Muziko, Arto, kaj Literaturo**
-
+### Muziko, Arto, kaj Literaturo
 1. **Muziko**:
    - Ameriko estis brutojo por multaj muzikaj ĝenroj. Ĝazo, naskiĝinta en Nov-Orleano, simboligas la multkulturan bazon de Ameriko. Bluso, kampara muziko, rok 'n' rolo, hip-hop, kaj rap ankaŭ originis en Usono kaj havis mondiajn influojn. Artistoj kiel Louis Armstrong, Elvis Presley, Bob Dylan, kaj Beyoncé iĝis internaciaj ikonoj.
 
@@ -772,8 +733,7 @@ Amerika kulturo, diverseca kaj dinamika, reflektas la kompleksan historion de la
 3. **Literaturo**:
    - La usona literaturo, reflektante la diversajn spertojn kaj identecojn de la lando, inkluzivas kontribuojn de figuroj kiel Mark Twain, Ernest Hemingway, Toni Morrison, kaj Maya Angelou. Ĝi etendiĝas tra diversaj stiloj kaj temoj, de la transcendentalismo de Ralph Waldo Emerson kaj Henry David Thoreau ĝis la nuntempaj verkoj esplorantaj identecon, rasojn, kaj sociajn demandojn.
 
-### **Populara Kulturo kaj Medio**
-
+### Populara Kulturo kaj Medio
 1. **Televido kaj Filmo**:
    - Holivudo havis profundan efikon sur la monda amuzindustrio tra la produktado de filmoj kaj televidaj serioj. Ĝenroj kiel okcidentanoj, sciencfikcio, kaj Holivudaj sukcesfilmaj produktadoj estas kulture signifaj. La Usono ankaŭ gvidas en la kreado de reta enhavo, formante kiel mondiaj spektantoj konsumas median.
 
@@ -800,8 +760,7 @@ acio kaj ĝian daŭran engaĝiĝon kun mondiaj demandoj. De la artistikaj esprim
 
 Kiam ni rigardas al la estonteco, fariĝas esenca kompreni la nunajn defiojn, kiujn nia socio enfrontas, kaj konsideri la eblajn antaŭdirojn kaj eblojn, kiuj povas formi la venontajn jarojn. Tiu antaŭenrigardanta perspektivo helpas pri preparado kaj adaptiĝo al la evoluanta monda pejzaĝo.
 
-### **Nunaj Defioj**
-
+### Nunaj Defioj
 1. **Klimatŝanĝo kaj Ekologiaj Problemoj**:
    - Eble la plej premanta defio estas la efiko de klimatŝanĝo, kiu prezentas gravajn riskojn al ekosistemoj, ekonomioj, kaj komunumoj. Problemoj kiel pliiĝantaj marniveloj, ekstremaj veteraj eventoj, kaj biodiversecoperdo postulas urĝan atenton kaj agon.
 
@@ -820,8 +779,7 @@ Kiam ni rigardas al la estonteco, fariĝas esenca kompreni la nunajn defiojn, ki
 6. **Geopolitikaj Nedankonteksaĵoj**:
    - Daŭrantaj konfliktoj, rifuĝantkrizoj, kaj la ŝanĝiĝanta potenca bilanco en la mondo prezentas kompleksajn defiojn, kiuj postulas nuancitajn kaj kunlaborajn internaciajn alirojn.
 
-### **Estontaj Antaŭdiroj kaj Eblajcoj**
-
+### Estontaj Antaŭdiroj kaj Eblajcoj
 1. **Susta Disvolviĝo kaj Verdaj Teknologioj**:
    - Pligrandigita foko sur susta disvolviĝo ekzistas. Inovoj en verdaj teknologioj, regenera energio, kaj sosta urboplanado prezentas eblecon por pli ekologiaj kaj efikaj socioj.
 
