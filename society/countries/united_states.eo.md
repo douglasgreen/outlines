@@ -20,9 +20,7 @@ Antaŭ eŭropa kontakto, Nord-Ameriko estis hejmo al riĉa tapeto de indiĝenaj 
 2. **Adapto al Medio**: Triboj disvolvis unikajn vivmanierojn taŭgajn al siaj lokaj medioj. Ekzemple, la Irokezoj en la Nordoriento disvolvis agrikulturon, dum la Ebenaĵaj Indianoj estis ĉefe nomadaj ĉasistoj.
 3. **Komerco kaj Komunikado**: Ekzistis ampleksaj komerc-retoj tra la kontinento, faciligante la interŝanĝon de varoj, ideoj, kaj kulturaj praktikoj.
 4. **Spirita Kredo kaj Praktikoj**: Indiĝena amerika spiriteco estis profunde konektita al la natura mondo, kun forta emfazo sur la graveco de vivi en harmonio kun naturo.
-5. **Politikaj Strukturoj**: Socia organizado variis de lozaj bandoj de nom
-
-adaj familioj ĝis strukturitaj ĉefdomoj kaj kompleksaj federacioj kiel la Irokeza Konfederacio.
+5. **Politikaj Strukturoj**: Socia organizado variis de lozaj bandoj de nom adaj familioj ĝis strukturitaj ĉefdomoj kaj kompleksaj federacioj kiel la Irokeza Konfederacio.
 6. **Novigoj kaj Atingoj**: Indiĝenaj Amerikanoj faris signifajn kontribuojn en agrikulturo (ekz., evoluigo de maizo), inĝenierado (ekz., konstruado de montetoj), kaj ekologio (ekz., kontrolita brulado por teradministrado).
 
 Kompreni la geografian kaj kulturan diversecon de Nord-Ameriko antaŭ eŭropa kontakto estas kruciala por kompreni la historion de la kontinento. La interagado inter la variaj pejzaĝoj kaj la indiĝenaj popoloj formis kompleksan kaj dinamikan antaŭ-kolumban epokon, riĉan je kulturaj kaj mediaj interagoj.
