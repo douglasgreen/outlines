@@ -69,7 +69,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Vim](computing/software/text_editors/vim.en.md)
 
 #### Version Control
-  * [Version Control](computing/software/version_control/git.en.md) ([Esperanto](computing/software/version_control/git.eo.md))
+  * [Version Control](computing/software/version_control/git.en.md)
 
 ### Software Design
   * [Design Patterns](computing/software_design/design_patterns.en.md)
@@ -108,7 +108,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Language
   * [Constructed Language](language/constructed_language.en.md)
-  * [Linguistics](language/linguistics.en.md) ([Esperanto](language/linguistics.eo.md))
+  * [Linguistics](language/linguistics.en.md)
 
 ### English
   * [English Grammar](language/english/grammar.en.md)
@@ -199,7 +199,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Sociology](society/sociology.en.md)
 
 ### Countries
-  * [United States](society/countries/united_states.en.md) ([Esperanto](society/countries/united_states.eo.md))
+  * [United States](society/countries/united_states.en.md)
 
 ### Regions
   * [Africa](society/regions/africa.en.md)
