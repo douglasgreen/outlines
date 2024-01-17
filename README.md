@@ -12,6 +12,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Television](arts/film/television.en.md)
 
 ## Business
+  * [Accounting](business/accounting.en.md)
   * [Economics](business/economics.en.md)
   * [Personal Productivity](business/personal_productivity.en.md)
 
