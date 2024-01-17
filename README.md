@@ -210,6 +210,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Africa](society/regions/africa.en.md)
   * [Europe](society/regions/europe.en.md)
 
+### States
+  * [Florida](society/states/florida.en.md)
+
 ## Sports
   * [Sports](sports/sports.en.md)
 
