@@ -178,6 +178,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Psychology
   * [Decision Making](psychology/decision_making.en.md)
+  * [Problem Solving](psychology/problem_solving.en.md)
   * [Psychology](psychology/psychology.en.md)
 
 ## Religion
