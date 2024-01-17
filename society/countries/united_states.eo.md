@@ -569,9 +569,7 @@ La Moderna Epoko en Usono, precipe ekde la 1960-aj jaroj, estis markita per sign
 
 2. **Eskalado kaj Batalo**:
    - Usona involviĝo eskaladis sub Prezidentoj Kennedy kaj Johnson, sekvante la kredon en la Dominoteorio, kiu asertis, ke la falo de unu Sudorient-Azia nacio al komunismo kondukos al la falo de ĝiaj najbaroj.
-   - La milito estis
-
- karakterizita per vastaj aerbombadaj kampanjoj, kiel Operacio Rolling Thunder, kaj signifaj terbataloj, inkluzive de la Tet-Ofensivo.
+   - La milito estis karakterizita per vastaj aerbombadaj kampanjoj, kiel Operacio Rolling Thunder, kaj signifaj terbataloj, inkluzive de la Tet-Ofensivo.
 
 3. **Kontraŭ-Milita Movado**:
    - La milito spronis vastan proteston en Usono, precipe inter pli junaj usonanoj. La kontraŭ-milita movado fariĝis signifa parto de la pli larĝa kontraŭkulturo de la 1960-aj jaroj.
@@ -828,9 +826,7 @@ Antaŭrigardante, la estonteco tenas miksaĵon de defioj kaj ŝancoj. Kiel ĉi t
 
 **Libereco**: La stato de esti libera en socio de subpremaj restriktoj impostitaj de aŭtoritato sur iu ajn vivmaniero, konduto, aŭ politikaj vidpunktoj.
 
-**Fandujo**: Metaforo por heterogena socio iĝanta pli
-
- homogena, kun la malsamaj elementoj "fandiĝantaj kune" en harmonian tuton kun komuna kulturo.
+**Fandujo**: Metaforo por heterogena socio iĝanta pli homogena, kun la malsamaj elementoj "fandiĝantaj kune" en harmonian tuton kun komuna kulturo.
 
 **Respublikana kaj Demokrata Partioj**: La du ĉefaj nuntempaj politikaj partioj en Usono.
 
