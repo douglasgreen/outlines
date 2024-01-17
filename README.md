@@ -199,7 +199,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Sociology](society/sociology.en.md)
 
 ### Countries
-  * [United States](society/countries/united_states.en.md)
+  * [United States](society/countries/united_states.en.md) ([Esperanto](society/countries/united_states.eo.md))
 
 ### Regions
   * [Africa](society/regions/africa.en.md)
