@@ -36,7 +36,7 @@ Financial statements are critical tools for assessing a company's financial heal
 
 The balance sheet is a snapshot of a company's financial position at a specific point in time. It lists all the company's assets, liabilities, and shareholders' equity, and is based on the fundamental equation:
 
-\[ \text{Assets} = \text{Liabilities} + \text{Shareholders' Equity} \]
+$`\text{Assets} = \text{Liabilities} + \text{Shareholders' Equity}`$
 
 - **Assets**: These are resources owned by the company that have economic value, such as cash, inventory, property, and equipment. Assets are typically divided into current assets (which can be converted into cash within a year) and non-current assets (long-term investments and property).
 
@@ -52,7 +52,7 @@ Also known as the profit and loss statement, the income statement shows a compan
 
 The basic structure of an income statement is:
 
-\[ \text{Net Income} = \text{(Revenues + Gains)} - \text{(Expenses + Losses)} \]
+$`\text{Net Income} = \text{(Revenues + Gains)} - \text{(Expenses + Losses)}`$
 
 - **Revenues**: This is the income earned from the company's core business activities, like sales of goods or services.
 
