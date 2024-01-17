@@ -92,6 +92,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Education](education/education.en.md)
 
 ## Games
+  * [Chess](games/chess.en.md)
   * [History of Video Games](games/history_of_video_games.en.md)
 
 ## Health
