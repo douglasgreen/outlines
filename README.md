@@ -169,6 +169,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Philosophy
   * [Ethics](philosophy/ethics.en.md)
+  * [Logic](philosophy/logic.en.md)
   * [Ontology](philosophy/ontology.en.md)
   * [Paradoxes](philosophy/paradoxes.en.md)
   * [Philosophy](philosophy/philosophy.en.md)
