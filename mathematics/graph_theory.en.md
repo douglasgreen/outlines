@@ -10,7 +10,7 @@ Graph theory's origin can be traced back to the 18th century with the work of th
 
 ### 1.2 Basic Definitions and Terminology
 
-**Graph:** A graph \( G \) is a set of vertices (or nodes) \( V \) and a set of edges \( E \) that connect pairs of vertices. In formal terms, \( G = (V, E) \).
+**Graph:** A graph $`G`$ is a set of vertices (or nodes) $`V`$ and a set of edges $`E`$ that connect pairs of vertices. In formal terms, $`G = (V, E)`$.
 
 **Vertex (Node):** A fundamental unit in a graph, representing an entity or a location.
 
@@ -54,13 +54,13 @@ Graph theory is built on several foundational concepts that are crucial for unde
 
 - **Edges:** Edges are the connections between the vertices. An edge connects two vertices, symbolizing a relationship or interaction between them. The nature of this relationship can vary greatly depending on the context.
 
-- **Graphs:** A graph is a collection of vertices and edges. Formally, a graph \( G \) is an ordered pair \( G = (V, E) \) where \( V \) is a set of vertices and \( E \) is a set of edges. Each edge is a pair \((v, w)\) where \( v, w \in V \).
+- **Graphs:** A graph is a collection of vertices and edges. Formally, a graph $`G`$ is an ordered pair $`G = (V, E)`$ where $`V`$ is a set of vertices and $`E`$ is a set of edges. Each edge is a pair \((v, w)\) where $`v, w \in V`$.
 
 ### 2.2 Types of Graphs
 
 Graphs can be classified into several types based on their characteristics:
 
-- **Undirected Graphs:** In an undirected graph, edges have no direction. The edge \((v, w)\) is identical to \((w, v)\); it simply indicates a two-way relationship between \( v \) and \( w \).
+- **Undirected Graphs:** In an undirected graph, edges have no direction. The edge \((v, w)\) is identical to \((w, v)\); it simply indicates a two-way relationship between $`v`$ and $`w`$.
 
 - **Directed Graphs (Digraphs):** In a directed graph, each edge has a direction, shown as an arrow. Here, \((v, w)\) is not the same as \((w, v)\). These graphs are useful for representing one-way relationships, like a follower on social media, or web page links.
 
@@ -72,7 +72,7 @@ Graphs can be classified into several types based on their characteristics:
 
 Graphs can be represented in various ways, each with its own advantages:
 
-- **Adjacency Matrix:** An adjacency matrix is a 2D array of size \( V \times V \) where \( V \) is the number of vertices in the graph. The element at row \( i \) and column \( j \) indicates whether there is an edge from vertex \( i \) to vertex \( j \). In an undirected graph, the adjacency matrix is symmetric. This representation is space-inefficient for sparse graphs (graphs with few edges compared to the number of vertices) but allows for quick access to check if an edge exists between two vertices.
+- **Adjacency Matrix:** An adjacency matrix is a 2D array of size $`V \times V`$ where $`V`$ is the number of vertices in the graph. The element at row $`i`$ and column $`j`$ indicates whether there is an edge from vertex $`i`$ to vertex $`j`$. In an undirected graph, the adjacency matrix is symmetric. This representation is space-inefficient for sparse graphs (graphs with few edges compared to the number of vertices) but allows for quick access to check if an edge exists between two vertices.
 
 - **Adjacency List:** An adjacency list represents a graph as an array of lists, one for each vertex. Each list describes the set of neighbors of a vertex in the graph. This representation is more space-efficient for sparse graphs and makes it easy to iterate over the neighbors of a vertex. However, checking for the existence of a specific edge can be slower than with an adjacency matrix.
 
@@ -106,7 +106,7 @@ Connectivity is a key property for analyzing network robustness and communicatio
 
 - **Planar Graphs:** A graph is planar if it can be drawn on a plane without any of its edges crossing each other. This property is significant in various applications, like circuit board design and geography.
 
-- **Euler’s Formula:** For a connected planar graph, Euler's Formula states that \( V - E + F = 2 \), where \( V \) is the number of vertices, \( E \) is the number of edges, and \( F \) is the number of faces (including the outer, infinite face). This formula is foundational in the study of planar graphs and has implications in topology and geometry.
+- **Euler’s Formula:** For a connected planar graph, Euler's Formula states that $`V - E + F = 2`$, where $`V`$ is the number of vertices, $`E`$ is the number of edges, and $`F`$ is the number of faces (including the outer, infinite face). This formula is foundational in the study of planar graphs and has implications in topology and geometry.
 
 Euler’s Formula also leads to other interesting results, such as the fact that any planar graph must have a vertex of degree 5 or less, which is a critical concept in graph coloring and planarity testing.
 
@@ -122,7 +122,7 @@ Trees and spanning trees are fundamental concepts in graph theory, particularly 
 
 - **Properties of Trees:**
   - **Minimum Connectivity:** A tree is minimally connected, which means removing any edge would disconnect the graph.
-  - **Number of Edges:** In a tree with \( N \) vertices, there are always \( N-1 \) edges.
+  - **Number of Edges:** In a tree with $`N`$ vertices, there are always $`N-1`$ edges.
   - **Leaf Nodes:** A leaf is a vertex with a degree of 1. Every tree has at least two leaves unless it is a trivial tree (a single vertex with no edges).
   - **Rooted Trees:** A rooted tree is a tree in which one vertex has been designated the root; this concept is used extensively in data structures and algorithms.
 
@@ -220,8 +220,8 @@ Shortest path problems are central to graph theory and have extensive applicatio
 
 - **How it Works:**
   - Initialize distances as in Dijkstra's Algorithm.
-  - Relax all edges \( |V| - 1 \) times (where \( |V| \) is the number of vertices). To relax an edge means to update the distance to a vertex if a shorter path is found.
-  - After \( |V| - 1 \) iterations, check for negative cycles by attempting to relax edges again. If any distance is updated, the graph contains a negative cycle.
+  - Relax all edges $`|V| - 1`$ times (where $`|V|`$ is the number of vertices). To relax an edge means to update the distance to a vertex if a shorter path is found.
+  - After $`|V| - 1`$ iterations, check for negative cycles by attempting to relax edges again. If any distance is updated, the graph contains a negative cycle.
 
 - **Characteristics:**
   - Capable of handling negative weights.
@@ -365,14 +365,14 @@ Planar graphs are a special category of graphs in graph theory with unique prope
 - **Definition:** A graph is planar if it can be drawn on a plane without any of its edges crossing. This means for every pair of edges in the graph, their only common point can be the end vertices they share.
 
 - **Properties:**
-  - **Euler's Formula:** For a connected planar graph with \( V \) vertices, \( E \) edges, and \( F \) faces, Euler's formula states \( V - E + F = 2 \).
-  - **Edge Constraint:** A planar graph with \( V \) vertices (\( V \geq 3 \)) has at most \( 3V - 6 \) edges. This constraint helps in identifying non-planar graphs.
+  - **Euler's Formula:** For a connected planar graph with $`V`$ vertices, $`E`$ edges, and $`F`$ faces, Euler's formula states $`V - E + F = 2`$.
+  - **Edge Constraint:** A planar graph with $`V`$ vertices ($`V \geq 3`$) has at most $`3V - 6`$ edges. This constraint helps in identifying non-planar graphs.
   - **Planar Subgraphs:** Any subgraph of a planar graph is also planar.
-  - **Non-planarity:** If a graph contains a subgraph homeomorphic to \( K_{3,3} \) (the utility graph) or \( K_5 \) (the complete graph on five vertices), it is non-planar.
+  - **Non-planarity:** If a graph contains a subgraph homeomorphic to $`K_{3,3}`$ (the utility graph) or $`K_5`$ (the complete graph on five vertices), it is non-planar.
 
 ### 10.2 Kuratowski's Theorem
 
-- **Kuratowski's Theorem:** This fundamental theorem in the theory of planar graphs states that a graph is planar if and only if it does not contain a subgraph that is homeomorphic to \( K_{3,3} \) or \( K_5 \).
+- **Kuratowski's Theorem:** This fundamental theorem in the theory of planar graphs states that a graph is planar if and only if it does not contain a subgraph that is homeomorphic to $`K_{3,3}`$ or $`K_5`$.
   - **Homeomorphic:** A graph is homeomorphic to another if it can be obtained by a series of vertex insertions on an edge (i.e., subdividing an edge).
   - Kuratowski's theorem provides a crucial tool for proving the non-planarity of a graph.
 
@@ -405,7 +405,7 @@ Both algorithms are fundamental in network design, like designing telecommunicat
 
 ### 11.2 Topological Sorting
 
-- **Overview:** Topological sorting is used in directed acyclic graphs (DAGs) to linearly order the vertices such that for every directed edge from vertex \( u \) to vertex \( v \), \( u \) precedes \( v \) in the order.
+- **Overview:** Topological sorting is used in directed acyclic graphs (DAGs) to linearly order the vertices such that for every directed edge from vertex $`u`$ to vertex $`v`$, $`u`$ precedes $`v`$ in the order.
 
 - **Applications:** Crucial in scenarios where certain tasks must precede others, such as in task scheduling, course prerequisite planning, and assembly processes.
 
@@ -527,7 +527,7 @@ Random graphs are a fundamental concept in graph theory and probability, offerin
   - **G(n, M) Model:** Consists of n vertices and exactly M edges, with the edges distributed uniformly at random among all possible pairs of vertices.
 
 - **Properties:**
-  - As \( p \) (in the G(n, p) model) or \( M \) (in the G(n, M) model) increases, the graph transitions from a collection of small disconnected subgraphs to a large connected graph.
+  - As $`p`$ (in the G(n, p) model) or $`M`$ (in the G(n, M) model) increases, the graph transitions from a collection of small disconnected subgraphs to a large connected graph.
   - The model is used to study phase transitions, such as the emergence of a giant connected component.
 
 ### 14.3 Properties and Applications
@@ -643,7 +643,7 @@ Topological graph theory is a branch of graph theory that studies the embedding 
 ### 17.2 Graph Minors and Robertson-Seymour Theorem
 
 - **Graph Minors:**
-  - A graph \( H \) is a minor of another graph \( G \) if \( H \) can be formed from \( G \) by deleting vertices and edges and/or contracting edges.
+  - A graph $`H`$ is a minor of another graph $`G`$ if $`H`$ can be formed from $`G`$ by deleting vertices and edges and/or contracting edges.
   - The study of minors is important in understanding the structure of large graphs and has applications in algorithm design.
 
 - **Robertson-Seymour Theorem:**
@@ -679,11 +679,11 @@ Graphs play a crucial role in combinatorics, a branch of mathematics concerned w
 - **Overview:** Ramsey Theory, a branch of combinatorics, deals with conditions under which order must appear. It is best known for its "party problem," which explores the minimum number of guests that must be invited so that some number of them know each other or are mutual strangers.
 
 - **Ramsey's Theorem in Graphs:**
-  - States that for any given integers \( c \) and \( r \), there is a number \( R(c, r) \) such that if the vertices of a complete graph of order \( R(c, r) \) are colored with \( c \) different colors, there is a monochromatic complete subgraph of order \( r \).
+  - States that for any given integers $`c`$ and $`r`$, there is a number $`R(c, r)`$ such that if the vertices of a complete graph of order $`R(c, r)`$ are colored with $`c`$ different colors, there is a monochromatic complete subgraph of order $`r`$.
 
 ### 18.3 Extremal Graph Theory
 
-- **Extremal Graph Theory:** This area of graph theory focuses on understanding the maximal or minimal properties of graphs under certain constraints. For example, what is the maximum number of edges in a graph with \( n \) vertices that does not contain a triangle?
+- **Extremal Graph Theory:** This area of graph theory focuses on understanding the maximal or minimal properties of graphs under certain constraints. For example, what is the maximum number of edges in a graph with $`n`$ vertices that does not contain a triangle?
 
 - **Applications:**
   - Used to solve problems related to the structure of graphs and networks.
