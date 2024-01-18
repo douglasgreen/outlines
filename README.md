@@ -11,6 +11,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Movies](arts/film/movies.en.md)
   * [Television](arts/film/television.en.md)
 
+### Music
+  * [Music](arts/music/music.en.md)
+
 ## Business
   * [Accounting](business/accounting.en.md)
   * [Economics](business/economics.en.md)
