@@ -164,8 +164,8 @@ Symbolic logic, also known as formal logic, is a subfield of logic where symbols
 
 In symbolic logic, logical forms and relations are represented using a variety of symbols. These symbols serve as shorthand for longer logical expressions and allow for more efficient and clearer reasoning. Key symbols include:
 
-- **Propositional Variables:** Letters like \( P, Q, R \) represent simple, indivisible propositions.
-- **Logical Connectives:** Symbols such as \( \land \) (and), \( \lor \) (or), \( \neg \) (not), \( \rightarrow \) (implies), and \( \leftrightarrow \) (if and only if) connect propositions to form more complex expressions.
+- **Propositional Variables:** Letters like $`P, Q, R`$ represent simple, indivisible propositions.
+- **Logical Connectives:** Symbols such as $`\land`$ (and), $`\lor`$ (or), $`\neg`$ (not), $`\rightarrow`$ (implies), and $`\leftrightarrow`$ (if and only if) connect propositions to form more complex expressions.
 - **Parentheses:** Used to indicate the scope and precedence of operations, much like in mathematics.
 
 These symbols form the alphabet of symbolic logic, creating a universal language that transcends linguistic barriers.
@@ -187,7 +187,7 @@ Predicate logic, or predicate calculus, extends propositional logic by dealing w
 Key elements of predicate logic include:
 
 - **Predicates:** Functions that return true or false, depending on the input values. They are often expressed as verbs or verb phrases in natural language.
-- **Quantifiers:** Symbols that specify the quantity of subjects to which the predicate applies. The two main quantifiers are the universal quantifier (\( \forall \)) and the existential quantifier (\( \exists \)).
+- **Quantifiers:** Symbols that specify the quantity of subjects to which the predicate applies. The two main quantifiers are the universal quantifier ($`\forall`$) and the existential quantifier ($`\exists`$).
 - **Variables and Constants:** Variables represent an unspecified member of the domain, while constants refer to specific, defined members.
 
 Predicate logic allows for more nuanced expression and analysis of logical statements, particularly in mathematics and computer science, where the structure of statements and the relations between their components are crucial.
