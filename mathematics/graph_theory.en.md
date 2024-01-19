@@ -4,11 +4,11 @@
 
 Graph theory, a significant field of mathematics and computer science, has been pivotal in solving various complex problems across numerous disciplines. This introduction delves into the historical background, fundamental definitions, and the broad importance and applications of graph theory.
 
-### 1.1 Historical Background
+### Historical Background
 
 Graph theory's origin can be traced back to the 18th century with the work of the famous Swiss mathematician Leonhard Euler. In 1736, Euler addressed the Königsberg Bridge Problem, which revolved around the city of Königsberg, split by the Pregel River and connected by seven bridges. The challenge was to devise a walk through the city that would cross each bridge once and only once. Euler's approach to solving this problem laid the foundation for graph theory. He abstracted the problem into a network of nodes (representing landmasses) and edges (representing bridges), thereby creating one of the first instances of a graph. Euler's work demonstrated that the solution to the problem did not depend on the physical layout of the bridges but rather on the abstract relationships between the bridges and landmasses.
 
-### 1.2 Basic Definitions and Terminology
+### Basic Definitions and Terminology
 
 **Graph:** A graph $`G`$ is a set of vertices (or nodes) $`V`$ and a set of edges $`E`$ that connect pairs of vertices. In formal terms, $`G = (V, E)`$.
 
@@ -28,7 +28,7 @@ Graph theory's origin can be traced back to the 18th century with the work of th
 
 **Complete Graph:** A graph in which every pair of vertices is connected by an edge.
 
-### 1.3 Importance and Applications of Graph Theory
+### Importance and Applications of Graph Theory
 
 Graph theory is incredibly versatile and has become an essential tool in various fields:
 
@@ -48,7 +48,7 @@ Graph theory's ability to model complex relationships and structures simplifies 
 
 Graph theory is built on several foundational concepts that are crucial for understanding the more complex topics in the field. These include the basic components of graphs and the various ways they can be structured and represented.
 
-### 2.1 Vertices, Edges, and Graphs
+### Vertices, Edges, and Graphs
 
 - **Vertices (or Nodes):** Vertices are the fundamental units in a graph. They can represent various entities depending on the application, such as cities in a transportation network, computers in a network, or people in social networks.
 
@@ -56,7 +56,7 @@ Graph theory is built on several foundational concepts that are crucial for unde
 
 - **Graphs:** A graph is a collection of vertices and edges. Formally, a graph $`G`$ is an ordered pair $`G = (V, E)`$ where $`V`$ is a set of vertices and $`E`$ is a set of edges. Each edge is a pair \((v, w)\) where $`v, w \in V`$.
 
-### 2.2 Types of Graphs
+### Types of Graphs
 
 Graphs can be classified into several types based on their characteristics:
 
@@ -68,7 +68,7 @@ Graphs can be classified into several types based on their characteristics:
 
 - **Multigraphs:** Multigraphs allow for multiple edges between the same pair of vertices. They are useful in situations where the relationships between entities can take on several different forms or states.
 
-### 2.3 Representing Graphs
+### Representing Graphs
 
 Graphs can be represented in various ways, each with its own advantages:
 
@@ -82,7 +82,7 @@ These fundamental concepts form the building blocks of graph theory, setting the
 
 In graph theory, understanding various properties and parameters is essential to analyze and interpret different types of graphs. These properties provide insights into the structure and characteristics of graphs. Let's discuss some key concepts:
 
-### 3.1 Degree of a Vertex
+### Degree of a Vertex
 
 - **Degree:** The degree of a vertex in a graph is the number of edges incident to (connected to) the vertex. In an undirected graph, this is simply the count of how many edges touch the vertex. For directed graphs, the degree can be split into two types:
   - **In-Degree:** The number of incoming edges to a vertex.
@@ -90,7 +90,7 @@ In graph theory, understanding various properties and parameters is essential to
 
 The degree concept is fundamental in many graph algorithms and properties, such as finding isolated vertices (vertices with a degree of 0) or leaves in a tree (vertices with a degree of 1).
 
-### 3.2 Paths, Cycles, and Connectivity
+### Paths, Cycles, and Connectivity
 
 - **Path:** A path in a graph is a sequence of vertices where each adjacent pair is connected by an edge. The length of a path is often defined by the number of edges it contains.
 
@@ -102,7 +102,7 @@ The degree concept is fundamental in many graph algorithms and properties, such 
 
 Connectivity is a key property for analyzing network robustness and communication potential in graph structures.
 
-### 3.3 Planar Graphs and Euler’s Formula
+### Planar Graphs and Euler’s Formula
 
 - **Planar Graphs:** A graph is planar if it can be drawn on a plane without any of its edges crossing each other. This property is significant in various applications, like circuit board design and geography.
 
@@ -116,7 +116,7 @@ These properties and parameters are crucial for understanding the deeper aspects
 
 Trees and spanning trees are fundamental concepts in graph theory, particularly important in fields like network design, algorithm development, and database theory. Let's explore these concepts in detail.
 
-### 4.1 Definition and Properties of Trees
+### Definition and Properties of Trees
 
 - **Definition of a Tree:** A tree is a type of graph that is connected and acyclic. This means a tree is a set of vertices connected by edges, where any two vertices are connected by exactly one path, and there are no cycles or loops.
 
@@ -126,13 +126,13 @@ Trees and spanning trees are fundamental concepts in graph theory, particularly 
   - **Leaf Nodes:** A leaf is a vertex with a degree of 1. Every tree has at least two leaves unless it is a trivial tree (a single vertex with no edges).
   - **Rooted Trees:** A rooted tree is a tree in which one vertex has been designated the root; this concept is used extensively in data structures and algorithms.
 
-### 4.2 Spanning Trees and Minimum Spanning Trees
+### Spanning Trees and Minimum Spanning Trees
 
 - **Spanning Tree:** A spanning tree of a graph is a subgraph that includes all the vertices of the original graph and is itself a tree. Every connected graph has at least one spanning tree.
 
 - **Minimum Spanning Tree (MST):** Among the spanning trees of a weighted graph, the one with the minimum total edge weight is called the minimum spanning tree. MSTs are crucial in optimizing network designs, such as in telecommunications, water supply networks, and electrical grids.
 
-### 4.3 Algorithms for Finding Spanning Trees
+### Algorithms for Finding Spanning Trees
 
 Several algorithms exist for finding spanning trees and minimum spanning trees in graphs:
 
@@ -150,7 +150,7 @@ Understanding trees and spanning trees is crucial for the study of graph theory 
 
 Graph traversal is a cornerstone of graph theory and computing, used to visit, inspect, or update each vertex in a graph. The two primary methods of traversal are Depth-First Search (DFS) and Breadth-First Search (BFS), each with unique characteristics and applications.
 
-### 5.1 Depth-First Search (DFS)
+### Depth-First Search (DFS)
 
 - **Overview:** DFS explores as far as possible along each branch before backtracking. It dives deep into a graph by visiting a vertex's neighbor, then one of that neighbor's neighbors, and so on.
 
@@ -165,7 +165,7 @@ Graph traversal is a cornerstone of graph theory and computing, used to visit, i
   - It can be less memory efficient than BFS, especially on deep graphs.
   - Useful for pathfinding in scenarios where the target is expected to be deep within the graph.
 
-### 5.2 Breadth-First Search (BFS)
+### Breadth-First Search (BFS)
 
 - **Overview:** BFS explores the graph level by level, starting at the root node and expanding outward, visiting neighbors of all the visited vertices.
 
@@ -180,7 +180,7 @@ Graph traversal is a cornerstone of graph theory and computing, used to visit, i
   - It's more memory-efficient on wide graphs with many shallow neighbors.
   - Ideal for finding the shortest path on unweighted graphs or the closest nodes to a given source.
 
-### 5.3 Applications of Graph Traversal
+### Applications of Graph Traversal
 
 - **Pathfinding:** Both DFS and BFS can be used to find a path between two vertices in a graph.
 
@@ -200,7 +200,7 @@ Graph traversal techniques are not only fundamental to understanding and working
 
 Shortest path problems are central to graph theory and have extensive applications in fields like transportation, telecommunications, and network design. They focus on finding the shortest or least costly path between vertices in a graph. Three fundamental algorithms used to solve these problems are Dijkstra’s Algorithm, the Bellman-Ford Algorithm, and the Floyd-Warshall Algorithm.
 
-### 6.1 Dijkstra’s Algorithm
+### Dijkstra’s Algorithm
 
 - **Overview:** Dijkstra's Algorithm is used for finding the shortest paths from a single source vertex to all other vertices in a graph with non-negative edge weights.
 
@@ -214,7 +214,7 @@ Shortest path problems are central to graph theory and have extensive applicatio
   - Typically implemented using a priority queue.
   - Not suitable for graphs with negative edge cycles.
 
-### 6.2 Bellman-Ford Algorithm
+### Bellman-Ford Algorithm
 
 - **Overview:** The Bellman-Ford Algorithm calculates shortest paths from a single source vertex to all other vertices in a weighted graph, and it can handle negative edge weights.
 
@@ -228,7 +228,7 @@ Shortest path problems are central to graph theory and have extensive applicatio
   - Slower than Dijkstra’s Algorithm for graphs without negative weights.
   - Can detect negative cycles in the graph.
 
-### 6.3 Floyd-Warshall Algorithm
+### Floyd-Warshall Algorithm
 
 - **Overview:** The Floyd-Warshall Algorithm is used for finding shortest paths in a weighted graph with positive or negative edge weights (but no negative cycles). Unlike the previous two, it computes the shortest paths between all pairs of vertices.
 
@@ -248,7 +248,7 @@ Shortest path algorithms are not only fundamental in graph theory but also have 
 
 Network flows and matching are key concepts in graph theory with significant applications in optimization, computer networks, and operations research. These topics deal with the movement and allocation of resources in a network.
 
-### 7.1 Max Flow-Min Cut Theorem
+### Max Flow-Min Cut Theorem
 
 - **Max Flow-Min Cut Theorem:** This theorem is a fundamental result in network flow theory. It states that the maximum amount of flow passing from the source to the sink in a network is equal to the capacity of the smallest (minimum) cut that separates the source and sink.
 
@@ -257,7 +257,7 @@ Network flows and matching are key concepts in graph theory with significant app
   - **Max Flow:** The greatest possible flow from the source (start point) to the sink (endpoint) that the network can support.
   - **Min Cut:** A partition of the vertices into two disjoint subsets such that the source is in one subset and the sink is in the other, minimizing the total capacity of the edges crossing the subsets.
 
-### 7.2 Ford-Fulkerson Algorithm
+### Ford-Fulkerson Algorithm
 
 - **Overview:** The Ford-Fulkerson Algorithm is a method to compute the maximum flow in a flow network.
 
@@ -271,7 +271,7 @@ Network flows and matching are key concepts in graph theory with significant app
   - It uses the concept of residual graphs and can handle networks with loops and multiple sources and sinks.
   - The efficiency of the algorithm depends on how the augmenting paths are selected.
 
-### 7.3 Matching in Bipartite Graphs
+### Matching in Bipartite Graphs
 
 - **Bipartite Graphs:** A bipartite graph is a graph whose vertices can be divided into two disjoint sets such that every edge connects a vertex in one set to a vertex in the other set. No edge in the graph connects vertices within the same set.
 
@@ -289,7 +289,7 @@ Network flows and matching problems are crucial in the study and application of 
 
 Eulerian and Hamiltonian graphs are two important classes of graphs in graph theory, each defined by specific types of paths and circuits they contain. Understanding these concepts is crucial for various applications in computer science, mathematics, and operational research.
 
-### 8.1 Euler Paths and Circuits
+### Euler Paths and Circuits
 
 - **Euler Path:** An Euler path in a graph is a path that visits every edge exactly once. An Euler path does not necessarily have to start and end at the same vertex.
 
@@ -299,7 +299,7 @@ Eulerian and Hamiltonian graphs are two important classes of graphs in graph the
   - A connected graph has an Euler circuit if and only if every vertex has an even degree.
   - A connected graph has an Euler path but not an Euler circuit if and only if it has exactly two vertices of odd degree.
 
-### 8.2 Hamiltonian Paths and Circuits
+### Hamiltonian Paths and Circuits
 
 - **Hamiltonian Path:** A Hamiltonian path in a graph is a path that visits each vertex exactly once. Unlike an Euler path, it concerns vertices, not edges.
 
@@ -307,7 +307,7 @@ Eulerian and Hamiltonian graphs are two important classes of graphs in graph the
 
 - **Conditions for Existence:** There are no simple necessary and sufficient conditions like in Euler’s case. However, the existence of Hamiltonian paths and circuits in a graph is linked to the graph’s structure. Theorems like Dirac's theorem and Ore's theorem provide sufficient conditions for the existence of Hamiltonian cycles in certain types of graphs.
 
-### 8.3 Algorithms and Applications
+### Algorithms and Applications
 
 - **Algorithms for Eulerian Paths and Circuits:**
   - The Fleury’s Algorithm and Hierholzer's Algorithm are used to find Euler paths and circuits. Fleury’s Algorithm is simpler but less efficient, while Hierholzer's Algorithm is more efficient but complex.
@@ -325,7 +325,7 @@ Both Eulerian and Hamiltonian graphs play a pivotal role in the study of graph t
 
 Graph coloring is an important concept in graph theory, dealing with the assignment of colors to elements of a graph under certain constraints. The chromatic number is a key parameter in graph coloring. These concepts have practical applications in scheduling, resource allocation, and problem-solving in various fields.
 
-### 9.1 Basic Concepts of Graph Coloring
+### Basic Concepts of Graph Coloring
 
 - **Vertex Coloring:** The most common form of graph coloring is vertex coloring, where each vertex of a graph is assigned a color in such a way that no two adjacent vertices (vertices connected by an edge) share the same color.
 
@@ -335,7 +335,7 @@ Graph coloring is an important concept in graph theory, dealing with the assignm
 
 The primary goal in graph coloring is to minimize the number of colors used while meeting the coloring constraints.
 
-### 9.2 Chromatic Number and Its Computation
+### Chromatic Number and Its Computation
 
 - **Chromatic Number:** The chromatic number of a graph is the smallest number of colors needed to color the vertices of the graph so that no two adjacent vertices share the same color.
 
@@ -344,7 +344,7 @@ The primary goal in graph coloring is to minimize the number of colors used whil
   - For special types of graphs, such as bipartite graphs or planar graphs, the chromatic number can be determined more easily. For instance, the chromatic number is 2 for bipartite graphs.
   - Heuristic and approximation algorithms are often used for general graphs.
 
-### 9.3 Applications of Graph Coloring
+### Applications of Graph Coloring
 
 - **Scheduling Problems:** Graph coloring can model scheduling problems, where each time slot is a color, and tasks or people to be scheduled are vertices in a graph.
 
@@ -360,7 +360,7 @@ Graph coloring and the concept of the chromatic number are not only mathematical
 
 Planar graphs are a special category of graphs in graph theory with unique properties and significant theoretical and practical implications. Understanding these graphs is essential in fields like geography, computer network design, and topology.
 
-### 10.1 Definitions and Properties
+### Definitions and Properties
 
 - **Definition:** A graph is planar if it can be drawn on a plane without any of its edges crossing. This means for every pair of edges in the graph, their only common point can be the end vertices they share.
 
@@ -370,13 +370,13 @@ Planar graphs are a special category of graphs in graph theory with unique prope
   - **Planar Subgraphs:** Any subgraph of a planar graph is also planar.
   - **Non-planarity:** If a graph contains a subgraph homeomorphic to $`K_{3,3}`$ (the utility graph) or $`K_5`$ (the complete graph on five vertices), it is non-planar.
 
-### 10.2 Kuratowski's Theorem
+### Kuratowski's Theorem
 
 - **Kuratowski's Theorem:** This fundamental theorem in the theory of planar graphs states that a graph is planar if and only if it does not contain a subgraph that is homeomorphic to $`K_{3,3}`$ or $`K_5`$.
   - **Homeomorphic:** A graph is homeomorphic to another if it can be obtained by a series of vertex insertions on an edge (i.e., subdividing an edge).
   - Kuratowski's theorem provides a crucial tool for proving the non-planarity of a graph.
 
-### 10.3 Coloring of Planar Graphs
+### Coloring of Planar Graphs
 
 - **Four Color Theorem:** This famous theorem in graph theory states that any planar graph can be colored with no more than four colors, such that no two adjacent vertices have the same color.
   - The theorem implies that four colors are sufficient for any map coloring where the regions on the map are represented by vertices of a graph.
@@ -389,7 +389,7 @@ Planar graphs are a cornerstone in the study of graph theory due to their unique
 
 Advanced graph algorithms are sophisticated techniques used in computer science and operations research to solve complex problems involving networks and relationships. These algorithms often focus on optimization, ordering, and efficiency in processing graph data.
 
-### 11.1 Kruskal's and Prim's Algorithms
+### Kruskal's and Prim's Algorithms
 
 - **Kruskal's Algorithm:**
   - **Purpose:** Used for finding a Minimum Spanning Tree (MST) for a weighted graph.
@@ -403,7 +403,7 @@ Advanced graph algorithms are sophisticated techniques used in computer science 
 
 Both algorithms are fundamental in network design, like designing telecommunication networks, electrical grids, and in solving various optimization problems.
 
-### 11.2 Topological Sorting
+### Topological Sorting
 
 - **Overview:** Topological sorting is used in directed acyclic graphs (DAGs) to linearly order the vertices such that for every directed edge from vertex $`u`$ to vertex $`v`$, $`u`$ precedes $`v`$ in the order.
 
@@ -411,7 +411,7 @@ Both algorithms are fundamental in network design, like designing telecommunicat
 
 - **Implementation:** Often implemented using Depth-First Search (DFS), where vertices are pushed onto a stack upon the completion of all their adjacent vertices.
 
-### 11.3 Algorithm Complexity Analysis
+### Algorithm Complexity Analysis
 
 - **Overview:** Complexity analysis evaluates the efficiency of an algorithm in terms of time and space used.
 
@@ -429,7 +429,7 @@ Advanced graph algorithms play a vital role in solving real-world problems that 
 
 Graphs are a pivotal concept in computer science, serving as both fundamental data structures and powerful tools for modeling and solving complex problems. Their versatility allows them to be employed in various domains, from database design to networking.
 
-### 12.1 Data Structures for Graphs
+### Data Structures for Graphs
 
 - **Adjacency Matrix:**
   - A two-dimensional array where cells indicate whether an edge exists between a pair of vertices.
@@ -445,7 +445,7 @@ Graphs are a pivotal concept in computer science, serving as both fundamental da
   - A simple list of edges, where each edge is represented as a pair (or tuple) of vertices.
   - Not as efficient for fast access or modification but can be useful for compact representation of a graph and for graph algorithms that iterate over edges.
 
-### 12.2 Graphs in Database Design
+### Graphs in Database Design
 
 - **Graph Databases:**
   - Databases that use graph structures for semantic queries, with nodes, edges, and properties to represent and store data.
@@ -458,7 +458,7 @@ Graphs are a pivotal concept in computer science, serving as both fundamental da
 - **Normalization and Schema Design:**
   - Graph theory principles assist in optimizing database schema by analyzing relationships and dependencies between tables (entities).
 
-### 12.3 Graphs in Networking
+### Graphs in Networking
 
 - **Network Topology:**
   - Graphs represent the layout of networks, with nodes as routers/switches/hubs and edges as the communication links.
@@ -476,7 +476,7 @@ In summary, graphs in computer science are indispensable for representing comple
 
 Graphs are integral to the study and analysis of social networks, providing a framework for understanding complex relationships and interactions among individuals or entities. They offer insights into the structure, dynamics, and influential elements within social networks.
 
-### 13.1 Social Network Analysis
+### Social Network Analysis
 
 - **Overview:** Social Network Analysis (SNA) uses graph theory to analyze social structures. In this context, individuals or entities are represented as vertices, and their relationships or interactions are represented as edges.
 
@@ -485,7 +485,7 @@ Graphs are integral to the study and analysis of social networks, providing a fr
   - **Betweenness Centrality:** Reflects the frequency at which a node appears on the shortest paths between other nodes. It identifies nodes that serve as bridges within the network.
   - **Closeness Centrality:** Indicates how close a node is to all other nodes in the network, identifying how quickly information can spread from that node to others.
 
-### 13.2 Clustering Coefficients
+### Clustering Coefficients
 
 - **Definition:** The clustering coefficient of a node in a social network graph measures the likelihood that the node's neighbors are also connected. It quantifies the degree to which nodes in a graph tend to cluster together.
 
@@ -493,7 +493,7 @@ Graphs are integral to the study and analysis of social networks, providing a fr
   - **Local Clustering Coefficient:** Pertains to individual nodes, measuring the proportion of links among the node’s neighbors divided by the number of links that could possibly exist between them.
   - **Global Clustering Coefficient:** Provides an overall indication of the clustering in the entire network, often calculated as the average of the local clustering coefficients.
 
-### 13.3 Community Detection Algorithms
+### Community Detection Algorithms
 
 - **Purpose:** Community detection algorithms aim to identify clusters or groups within social networks where nodes are more densely connected to each other than to the rest of the network.
 
@@ -510,7 +510,7 @@ Graphs in social networks enable the analysis of complex relational patterns and
 
 Random graphs are a fundamental concept in graph theory and probability, offering insights into the behavior of networks under random conditions. They are extensively used in various scientific fields to model and understand complex systems.
 
-### 14.1 Introduction to Random Graphs
+### Introduction to Random Graphs
 
 - **Definition:** A random graph is a graph that is formed by some random process, meaning its edge set is determined by some probability distribution.
 
@@ -520,7 +520,7 @@ Random graphs are a fundamental concept in graph theory and probability, offerin
 
 - **Analysis:** The study of random graphs typically involves probability theory and statistical mechanics, focusing on the properties that emerge as the size of the graph grows.
 
-### 14.2 Erdős–Rényi Model
+### Erdős–Rényi Model
 
 - **Overview:** The Erdős–Rényi model is one of the most well-known models for generating random graphs. It has two variants:
   - **G(n, p) Model:** Consists of n vertices where each pair of vertices is connected by an edge with independent probability p.
@@ -530,7 +530,7 @@ Random graphs are a fundamental concept in graph theory and probability, offerin
   - As $`p`$ (in the G(n, p) model) or $`M`$ (in the G(n, M) model) increases, the graph transitions from a collection of small disconnected subgraphs to a large connected graph.
   - The model is used to study phase transitions, such as the emergence of a giant connected component.
 
-### 14.3 Properties and Applications
+### Properties and Applications
 
 - **Properties of Random Graphs:**
   - **Degree Distribution:** Often follows a binomial or Poisson distribution, especially in the Erdős–Rényi model.
@@ -548,7 +548,7 @@ Random graphs provide a valuable framework for analyzing and understanding the p
 
 In operational research, graphs are powerful tools for modeling and solving various optimization problems. Their ability to represent complex relationships and constraints makes them indispensable in planning, decision-making, and efficiency improvement across numerous fields.
 
-### 15.1 Graph Optimization Problems
+### Graph Optimization Problems
 
 - **Overview:** Graph optimization problems involve finding the best solution from a finite set of feasible solutions. Common optimization problems in graphs include finding the shortest path, the minimum spanning tree, the maximum flow, and the optimal matching.
 
@@ -558,7 +558,7 @@ In operational research, graphs are powerful tools for modeling and solving vari
   - **Maximum Flow Problems:** Such as the Ford-Fulkerson algorithm, used in telecommunications, traffic networks, and supply chain management.
   - **Traveling Salesman Problem (TSP):** Seeks the shortest possible route that visits a set of locations once and returns to the origin point.
 
-### 15.2 Heuristic Methods
+### Heuristic Methods
 
 - **Definition:** Heuristic methods provide practical, efficient solutions to complex graph optimization problems, especially when an exact solution is not feasible due to the problem's size or complexity.
 
@@ -570,7 +570,7 @@ In operational research, graphs are powerful tools for modeling and solving vari
 
 - **Applications:** Heuristics are particularly useful in solving NP-hard problems like the Traveling Salesman Problem, where traditional optimization methods are impractical.
 
-### 15.3 Case Studies and Applications
+### Case Studies and Applications
 
 - **Transportation and Logistics:**
   - Optimizing routes for delivery trucks, reducing travel time and fuel consumption.
@@ -594,7 +594,7 @@ Graphs in operational research not only provide a theoretical framework for addr
 
 Algebraic graph theory is a branch of mathematics in which algebraic methods are applied to study graphs. This field particularly focuses on the relationship between graph properties and algebraic characteristics of various matrices and algebraic structures associated with graphs.
 
-### 16.1 Matrices in Graph Theory
+### Matrices in Graph Theory
 
 - **Adjacency Matrix:**
   - A square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph.
@@ -608,7 +608,7 @@ Algebraic graph theory is a branch of mathematics in which algebraic methods are
   - Defined as the difference between the degree matrix and the adjacency matrix.
   - It is a key tool in studying various properties of the graph, like connectivity and spanning trees.
 
-### 16.2 Spectral Graph Theory
+### Spectral Graph Theory
 
 - **Overview:** Spectral graph theory studies the properties of graphs in relation to the characteristic spectrum (eigenvalues) of matrices such as the adjacency matrix or Laplacian matrix of the graph.
 
@@ -616,7 +616,7 @@ Algebraic graph theory is a branch of mathematics in which algebraic methods are
   - The eigenvalues of these matrices can provide insightful information about the graph, such as the number of connected components, the presence of bipartite structures, and graph expansion properties.
   - It is used in clustering, network analysis, and the study of random walks on graphs.
 
-### 16.3 Graph Homomorphisms
+### Graph Homomorphisms
 
 - **Definition:** A graph homomorphism is a mapping between two graphs that respects their structures. Specifically, it is a function between the vertex sets of two graphs that maps adjacent vertices to adjacent vertices.
 
@@ -630,7 +630,7 @@ Algebraic graph theory bridges the gap between graph theory and abstract algebra
 
 Topological graph theory is a branch of graph theory that studies the embedding of graphs in surfaces and the properties that are preserved under such embeddings. It explores how the arrangement of a graph affects its properties and how these properties relate to the topology of the surface in which the graph is embedded.
 
-### 17.1 Embeddings and Maps
+### Embeddings and Maps
 
 - **Embeddings:**
   - An embedding of a graph in a surface is a representation of the graph on that surface in such a way that its edges intersect only at their common vertices.
@@ -640,7 +640,7 @@ Topological graph theory is a branch of graph theory that studies the embedding 
   - In topological graph theory, a map refers to a specific embedding of a graph into a surface, typically a 2-dimensional sphere or plane.
   - This concept is crucial in problems like the four-color theorem, which deals with the coloring of planar maps.
 
-### 17.2 Graph Minors and Robertson-Seymour Theorem
+### Graph Minors and Robertson-Seymour Theorem
 
 - **Graph Minors:**
   - A graph $`H`$ is a minor of another graph $`G`$ if $`H`$ can be formed from $`G`$ by deleting vertices and edges and/or contracting edges.
@@ -650,7 +650,7 @@ Topological graph theory is a branch of graph theory that studies the embedding 
   - Also known as the Graph Minor Theorem, it states that the set of all graphs is well-quasi-ordered under the graph minor relation.
   - This theorem has profound implications in graph theory and computer science, particularly in algorithmic graph theory, as it leads to the development of efficient algorithms for many graph problems.
 
-### 17.3 Topological Indices and Applications
+### Topological Indices and Applications
 
 - **Topological Indices:**
   - These are numerical values associated with the structure of a graph that describe its topology. Examples include the Wiener index, Randić index, and Zagreb indices.
@@ -666,7 +666,7 @@ Topological graph theory provides a unique perspective on graph theory by incorp
 
 Graphs play a crucial role in combinatorics, a branch of mathematics concerned with counting, arrangement, and structure in sets. The study of graphs in combinatorics involves using graph-theoretical concepts to solve combinatorial problems and vice versa.
 
-### 18.1 Pigeonhole Principle in Graphs
+### Pigeonhole Principle in Graphs
 
 - **Pigeonhole Principle:** This fundamental principle states that if more items are put into fewer containers, then at least one container must contain more than one item. In the context of graphs, this principle can be applied to prove the existence of certain properties.
 
@@ -674,14 +674,14 @@ Graphs play a crucial role in combinatorics, a branch of mathematics concerned w
   - For example, in any group of six people, there are either three people who all know each other or three who are all strangers to each other. In graph terms, this translates to saying that in any graph with six vertices, there is a clique of size 3 or an independent set of size 3.
   - It is also used in proving bounds and existence theorems in graph theory, such as in the proof of the Erdős–Szekeres theorem.
 
-### 18.2 Ramsey Theory
+### Ramsey Theory
 
 - **Overview:** Ramsey Theory, a branch of combinatorics, deals with conditions under which order must appear. It is best known for its "party problem," which explores the minimum number of guests that must be invited so that some number of them know each other or are mutual strangers.
 
 - **Ramsey's Theorem in Graphs:**
   - States that for any given integers $`c`$ and $`r`$, there is a number $`R(c, r)`$ such that if the vertices of a complete graph of order $`R(c, r)`$ are colored with $`c`$ different colors, there is a monochromatic complete subgraph of order $`r`$.
 
-### 18.3 Extremal Graph Theory
+### Extremal Graph Theory
 
 - **Extremal Graph Theory:** This area of graph theory focuses on understanding the maximal or minimal properties of graphs under certain constraints. For example, what is the maximum number of edges in a graph with $`n`$ vertices that does not contain a triangle?
 
@@ -695,7 +695,7 @@ Graph theory in combinatorics provides a rich framework for solving problems rel
 
 Graph theory has seen significant advancements in recent years, driven by the increasing complexity of problems in computer science, big data, and various interdisciplinary fields. These advancements have led to the development of new algorithms, techniques, and applications.
 
-### 19.1 Emerging Algorithms and Techniques
+### Emerging Algorithms and Techniques
 
 - **Algorithmic Improvements:** There have been developments in algorithms for classic problems like shortest paths, maximum flows, and graph colorings, making them more efficient and scalable.
 
@@ -705,7 +705,7 @@ Graph theory has seen significant advancements in recent years, driven by the in
 
 - **Parallel and Distributed Graph Algorithms:** The rise of multi-core and distributed computing has led to the development of algorithms that leverage parallelism for faster processing of large graphs.
 
-### 19.2 Graph Theory in Big Data
+### Graph Theory in Big Data
 
 - **Graph Databases:** Graph databases like Neo4j are gaining popularity for managing complex and connected data. They are especially useful in social network analysis, recommendation systems, and fraud detection.
 
@@ -713,7 +713,7 @@ Graph theory has seen significant advancements in recent years, driven by the in
 
 - **Graph-Based Machine Learning:** There's a growing interest in graph-based machine learning models, including graph neural networks, for tasks like node classification, link prediction, and graph generation.
 
-### 19.3 Interdisciplinary Applications
+### Interdisciplinary Applications
 
 - **Epidemiology:** Graph theory is used to model the spread of diseases across networks, helping in understanding and controlling epidemics.
 
@@ -729,7 +729,7 @@ The recent advances in graph theory showcase its evolving nature and its expandi
 
 Graph theory, as a dynamic and rapidly evolving field, continues to expand its influence across various scientific and technological domains. Its future is marked by exciting research trends and potential applications in emerging fields.
 
-### 20.1 Current Research Trends
+### Current Research Trends
 
 - **Algorithmic Enhancements:** Ongoing research is focusing on developing more efficient, scalable, and robust algorithms, particularly for large and dynamic graphs.
 
@@ -739,7 +739,7 @@ Graph theory, as a dynamic and rapidly evolving field, continues to expand its i
 
 - **Interdisciplinary Approach:** Graph theory is increasingly being applied in interdisciplinary research, combining with fields such as biology, sociology, and physics, to solve complex real-world problems.
 
-### 20.2 Potential Applications in Emerging Fields
+### Potential Applications in Emerging Fields
 
 - **Biological Networks:** Graph theory can provide insights into the complex networks of interactions in genomics, proteomics, and metabolic pathways.
 
@@ -749,7 +749,7 @@ Graph theory, as a dynamic and rapidly evolving field, continues to expand its i
 
 - **Environmental Science:** Graph theory can be instrumental in modeling climate change impacts, ecological networks, and sustainability studies.
 
-### 20.3 Conclusion and Future Perspectives
+### Conclusion and Future Perspectives
 
 - **Holistic Approach:** The future of graph theory lies in a holistic approach that blends theoretical advancements with practical applications. This synergy is crucial for addressing the increasingly complex and interconnected challenges of the modern world.
 
