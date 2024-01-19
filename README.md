@@ -228,4 +228,5 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Technological Singularity](technology/technological_singularity.en.md)
 
 ## Writing
+  * [Technical Writing](writing/technical_writing.en.md)
   * [Writing With ChatGPT](writing/writing_with_chatgpt.en.md)
