@@ -107,16 +107,6 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Diseases
   * [COVID-19](health/diseases/covid-19.en.md)
 
-## Recreation
-
-### Food
-  * [Chocolate](recreation/food/chocolate.en.md)
-  * [Wine](recreation/food/wine.en.md)
-
-### Games
-  * [Chess](recreation/games/chess.en.md)
-  * [History of Video Games](recreation/games/history_of_video_games.en.md)
-
 ## Science
   * [Anatomy and Physiology](science/anatomy.en.md)
   * [Astronomoy](science/astronomy.en.md)
@@ -212,15 +202,25 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Politics
   * [Politics](society/politics/politics.en.md)
 
+### Recreation
+
+#### Food
+  * [Chocolate](society/recreation/food/chocolate.en.md)
+  * [Wine](society/recreation/food/wine.en.md)
+
+#### Games
+  * [Chess](society/recreation/games/chess.en.md)
+  * [History of Video Games](society/recreation/games/history_of_video_games.en.md)
+
+#### Sports
+  * [Sports](society/recreation/sports/sports.en.md)
+
 ### Religion
   * [Religion](society/religion/religion.en.md)
 
 #### Christianity
   * [Bible](society/religion/christianity/bible.en.md)
   * [History of Christianity](society/religion/christianity/history_of_christianity.en.md)
-
-## Sports
-  * [Sports](sports/sports.en.md)
 
 ## World
 
