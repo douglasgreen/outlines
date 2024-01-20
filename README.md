@@ -168,8 +168,8 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Probability](mathematics/probability.en.md)
   * [Statistics](mathematics/statistics.en.md)
 
-## Mythology
-  * [Mythology](mythology/mythology.en.md)
+## Myths
+  * [Mythology](myths/mythology.en.md)
 
 ## Philosophy
   * [Ethics](philosophy/ethics.en.md)
