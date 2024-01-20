@@ -26,7 +26,6 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Business
   * [Accounting](business/accounting.en.md)
-  * [Economics](business/economics.en.md)
   * [Personal Productivity](business/personal_productivity.en.md)
 
 ### Project Management
@@ -152,6 +151,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Technological Singularity](science/technology/technological_singularity.en.md)
 
 ## Society
+  * [Economics](society/economics.en.md)
   * [Sociology](society/sociology.en.md)
 
 ### Education
