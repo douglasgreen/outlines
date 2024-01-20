@@ -101,10 +101,6 @@ Outlines written by ChatGPT-4 on various subjects.
   * [WebPack](computers/web_development/webpack.en.md)
   * [XML](computers/web_development/xml.en.md)
 
-## Games
-  * [Chess](games/chess.en.md)
-  * [History of Video Games](games/history_of_video_games.en.md)
-
 ## Health
   * [Health](health/health.en.md)
 
@@ -116,6 +112,10 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Food
   * [Chocolate](recreation/food/chocolate.en.md)
   * [Wine](recreation/food/wine.en.md)
+
+### Games
+  * [Chess](recreation/games/chess.en.md)
+  * [History of Video Games](recreation/games/history_of_video_games.en.md)
 
 ## Science
   * [Anatomy and Physiology](science/anatomy.en.md)
