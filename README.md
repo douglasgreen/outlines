@@ -208,18 +208,6 @@ Outlines written by ChatGPT-4 on various subjects.
 ## Society
   * [Sociology](society/sociology.en.md)
 
-### Countries
-  * [China](writing/technical_writing.en.md)
-  * [India](society/countries/india.en.md)
-  * [United States](society/countries/united_states.en.md) ([Esperanto](society/countries/united_states.eo.md))
-
-### Regions
-  * [Africa](society/regions/africa.en.md)
-  * [Europe](society/regions/europe.en.md)
-
-### States
-  * [Florida](society/states/florida.en.md)
-
 ## Sports
   * [Sports](sports/sports.en.md)
 
@@ -227,6 +215,22 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Aviation](technology/aviation.en.md)
   * [History of Invention](technology/history_of_invention.en.md)
   * [Technological Singularity](technology/technological_singularity.en.md)
+
+## World
+
+### Countries
+  * [China](world/countries/china.en.md)
+  * [India](world/countries/india.en.md)
+
+#### United States
+  * [United States](world/countries/united_states/united_states.en.md) ([Esperanto](world/countries/united_states/united_states.eo.md))
+
+##### States
+  * [Florida](world/countries/united_states/states/florida.en.md)
+
+### Regions
+  * [Africa](world/regions/africa.en.md)
+  * [Europe](world/regions/europe.en.md)
 
 ## Writing
   * [Technical Writing](writing/technical_writing.en.md)
