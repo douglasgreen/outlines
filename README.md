@@ -37,14 +37,6 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Artificial Intelligence](computers/artificial_intelligence/artificial_intelligence.en.md)
   * [Machine Learning](computers/artificial_intelligence/machine_learning.en.md)
 
-### Computer Networking
-  * [Computer Networking](computers/computer_networking/computer_networking.en.md)
-
-### Computer Programming
-  * [Code Reviews](computers/computer_programming/code_reviews.en.md)
-  * [Object-Oriented Programming](computers/computer_programming/oop.en.md)
-  * [Programming Paradigms](computers/computer_programming/programming_paradigms.en.md)
-
 ### Computer Science
   * [Algorithms](computers/computer_science/algorithms.en.md)
   * [Computation Theory](computers/computer_science/computation_theory.en.md)
@@ -61,6 +53,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Search Engines](computers/internet/search_engines.en.md)
   * [Web Browsers](computers/internet/web_browsers.en.md)
 
+### Networking
+  * [Computer Networking](computers/networking/computer_networking.en.md)
+
 ### Operating Systems
   * [Virtualization](computers/operating_systems/virtualization.en.md)
 
@@ -71,10 +66,15 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Windows
   * [Microsoft Windows](computers/operating_systems/windows/microsoft_windows.en.md)
 
-### Programming Languages
-  * [JavaScript](computers/programming_languages/javascript.en.md)
-  * [PHP](computers/programming_languages/php.en.md)
-  * [Programming Languages](computers/programming_languages/programming_languages.en.md)
+### Programming
+  * [Code Reviews](computers/programming/code_reviews.en.md)
+  * [Object-Oriented Programming](computers/programming/oop.en.md)
+  * [Programming Paradigms](computers/programming/programming_paradigms.en.md)
+
+#### Programming Languages
+  * [JavaScript](computers/programming/languages/javascript.en.md)
+  * [PHP](computers/programming/languages/php.en.md)
+  * [Programming Languages](computers/programming/languages/programming_languages.en.md)
 
 ### Software
 
