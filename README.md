@@ -2,23 +2,17 @@
 Outlines written by ChatGPT-4 on various subjects.
 
 ## Arts
-
-### Architecture
-  * [Architecture](arts/architecture/architecture.en.md)
-
-### Film
-  * [Anime](arts/film/anime.en.md)
-  * [Movies](arts/film/movies.en.md)
-  * [Television](arts/film/television.en.md)
+  * [Anime](arts/anime.en.md)
+  * [Architecture](arts/architecture.en.md)
+  * [Movies](arts/movies.en.md)
+  * [Music](arts/music.en.md)
+  * [Television](arts/television.en.md)
 
 ### Literature
   * [Fantasy Fiction](arts/literature/fantasy_fiction.en.md)
   * [Horror Fiction](arts/literature/horror_fiction.en.md)
   * [Science Fiction](arts/literature/science_fiction.en.md)
   * [William Shakespeare](arts/literature/william_shakespeare.en.md)
-
-### Music
-  * [Music](arts/music/music.en.md)
 
 ### Writing
   * [Technical Writing](arts/writing/technical_writing.en.md)
