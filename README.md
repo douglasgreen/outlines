@@ -101,12 +101,6 @@ Outlines written by ChatGPT-4 on various subjects.
   * [WebPack](computers/web_development/webpack.en.md)
   * [XML](computers/web_development/xml.en.md)
 
-## Health
-  * [Health](health/health.en.md)
-
-### Diseases
-  * [COVID-19](health/diseases/covid-19.en.md)
-
 ## Science
   * [Anatomy and Physiology](science/anatomy.en.md)
   * [Astronomoy](science/astronomy.en.md)
@@ -125,6 +119,12 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Mathematics](science/math/mathematics.en.md)
   * [Probability](science/math/probability.en.md)
   * [Statistics](science/math/statistics.en.md)
+
+## Medicine
+  * [Health](science/medicine/health.en.md)
+
+### Diseases
+  * [COVID-19](science/medicine/diseases/covid-19.en.md)
 
 ### Meteorology
   * [Climate Change](science/meteorology/climate_change.en.md)
