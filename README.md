@@ -3,6 +3,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Arts
   * [Architecture](arts/architecture.en.md)
+  * [Arts](arts/arts.en.md)
   * [Movies](arts/movies.en.md)
   * [Music](arts/music.en.md)
   * [Television](arts/television.en.md)
