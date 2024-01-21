@@ -24,7 +24,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Accounting](business/accounting.en.md)
   * [Personal Productivity](business/personal_productivity.en.md)
 
-### Project Management
+### Management
   * [Software Project Management](business/management/software_project.en.md)
 
 ## Computers
@@ -66,7 +66,7 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Object-Oriented Programming](computers/programming/oop.en.md)
   * [Paradigms](computers/programming/paradigms.en.md)
 
-#### Programming Languages
+#### Languages
   * [JavaScript](computers/programming/languages/javascript.en.md)
   * [PHP](computers/programming/languages/php.en.md)
 
@@ -101,8 +101,9 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Physics](science/physics.en.md)
   * [Psychology](science/psychology.en.md)
   * [Science](science/science.en.md)
+  * [Space Exploration](science/space_exploration.en.md)
 
-### Mathematics
+### Math
   * [Algebra](science/math/algebra.en.md)
   * [Calculus](science/math/calculus.en.md)
   * [Discrete Mathematics](science/math/discrete_mathematics.en.md)
@@ -113,10 +114,10 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Probability](science/math/probability.en.md)
   * [Statistics](science/math/statistics.en.md)
 
-## Medicine
+### Medicine
   * [Health](science/medicine/health.en.md)
 
-### Diseases
+#### Diseases
   * [COVID-19](science/medicine/diseases/covid-19.en.md)
 
 ### Meteorology
@@ -199,6 +200,8 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Games
   * [Chess](society/recreation/games/chess.en.md)
   * [History of Video Games](society/recreation/games/history_of_video_games.en.md)
+
+### Religion
 
 #### Christianity
   * [Bible](society/religion/christianity/bible.en.md)
