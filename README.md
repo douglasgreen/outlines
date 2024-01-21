@@ -182,6 +182,11 @@ Outlines written by ChatGPT-4 on various subjects.
   * [Spanish Grammar](society/language/spanish/grammar.en.md)
   * [Spanish Vocabulary](society/language/spanish/vocabulary.en.md)
 
+### Law
+
+#### Crime
+  * [Piracy](society/law/crime/piracy.en.md)
+
 ### Myths
   * [Mythology](society/myths/mythology.en.md)
 
