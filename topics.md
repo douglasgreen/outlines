@@ -13,6 +13,7 @@
 * Ancient Rome - done
 * Android Operating System
 * Animals
+* Animals - heading
 * Animated Movies
 * Anime - done
 * Anthropology
@@ -75,7 +76,7 @@
 * Chinese Language
 * Chinese Vocabulary
 * Chocolate - done
-* Christianity
+* Christianity - heading
 * Cities
 * Cities of the World
 * Classical Greek - done
@@ -118,8 +119,10 @@
 * Corporations
 * Cosmology
 * Countries
+* Countries - heading
 * Countries of the World
 * COVID-19 - done
+* Crime - heading
 * Critical Thinking
 * Cryptography - done
 * C. S. Lewis's Chronicles of Narnia Series
@@ -153,6 +156,7 @@
 * Dinosaurs
 * Discrete Mathematics - done
 * Disease
+* Diseases - heading
 * Docker
 * Doctor Who TV Series
 * Dog Breeds
@@ -208,6 +212,7 @@
 * Florida Geography
 * Flowers
 * Food & Drink
+* Food - heading
 * France
 * French Grammar - done
 * French Language
@@ -216,6 +221,7 @@
 * Future of Technology
 * Game of Thrones TV Series
 * Games
+* Games - heading
 * Game Theory - done
 * Genetics
 * Geography
@@ -242,6 +248,7 @@
 * Herbs
 * Historic Battles
 * History
+* History - heading
 * History of Africa
 * History of Ancient Greece
 * History of Ancient Rome
@@ -292,6 +299,7 @@
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
 * Internet
+* Internet - heading
 * Internet of Things
 * Internet Security - done
 * Inventors and Inventions
@@ -317,7 +325,7 @@
 * Korean War
 * Kubernetes
 * Language Acquisition
-* Languages - done
+* Language - heading
 * Large Language Models (LLMs)
 * Latin Grammar - done
 * Latin Language
@@ -335,6 +343,7 @@
 * Linux Shell
 * Lisp Programming
 * Literature
+* Literature - heading
 * Logical Fallacies
 * Logic - done
 * Lord of the Rings Movies
@@ -342,6 +351,7 @@
 * Mac OS X
 * Making a Constructed Language
 * Management
+* Management - heading
 * Manufacturing
 * Marketing
 * Marvel Cinematic Universe Movies
@@ -351,11 +361,11 @@
 * Matrix Movies
 * Measurement
 * Medicine
+* Medicine - heading
 * Meditation
 * Men's Clothing and Fashion
 * Men's Fitness
 * Mental Health
-* Meteorology
 * Mexican Food
 * Microservices
 * Microsoft Windows - done
@@ -392,9 +402,9 @@
 * Ontological Engineering
 * Ontology - done
 * Operating Systems
+* Operating Systems - heading
 * Painters and Paintings
 * Painting
-* Programming Paradigms - done
 * Paradoxes - done
 * Peoples
 * Personal Finance
@@ -424,8 +434,10 @@
 * Probability - done
 * Problem Solving - done
 * Professional Wrestlers
-* Programming Languages
+* Programming - heading
+* Programming Languages - done
 * Programming Paradigms
+* Programming Paradigms - done
 * Project Management
 * Prolog Programming
 * Psychology - done
@@ -436,8 +448,10 @@
 * Quran
 * Reading
 * Real Estate
+* Recreation - heading
 * Refactoring
 * Regions
+* Regions - heading
 * Regular Expressions
 * Relationships
 * Relativity Theory
@@ -480,9 +494,11 @@
 * Software Compilers
 * Software Debugging
 * Software Design
+* Software Design - heading
 * Software Development
 * Software Development Methodologies
 * Software Engineering
+* Software - heading
 * Software Optimization
 * Software Privacy
 * Software Project Management - done
@@ -498,6 +514,7 @@
 * Sports - done
 * Star Trek
 * Star Wars
+* States - heading
 * States of the United States
 * Statistics - done
 * Stock Market
@@ -513,11 +530,13 @@
 * Technical Writing - done
 * Technological Singularity - done
 * Technology
+* Technology - heading
 * Television - done
 * Tennis Players
 * Terminator Movies
 * Test-Driven Development
 * Text Editors
+* Text Editors - heading
 * Theater
 * The Matrix Movies
 * Theology
@@ -543,6 +562,7 @@
 * User Experience (UX) Design
 * Vagrant
 * Version Control - done
+* Version Control - heading
 * Vietnam War
 * Vim - done
 * Virtualization - done
@@ -555,6 +575,7 @@
 * Web Browsers - done
 * Web Design
 * Web Development
+* Web Development - heading
 * Web Internationalization
 * WebPack - done
 * Web Standards
