@@ -91,11 +91,11 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Web Development
 * [Apache Web Server](computers/web_development/apache.en.md)
 * [Cascading Style Sheets](computers/web_development/css.en.md)
+* [Extensible Markup Language](computers/web_development/xml.en.md)
 * [Hypertext Markup Language](computers/web_development/html.en.md)
 * [Hypertext Transfer Protocol](computers/web_development/http.en.md)
 * [Symfony](computers/web_development/symfony.en.md)
 * [WebPack](computers/web_development/webpack.en.md)
-* [XML](computers/web_development/xml.en.md)
 
 ## Science
 * [Anatomy and Physiology](science/anatomy.en.md)

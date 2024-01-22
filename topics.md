@@ -1,4 +1,5 @@
 * Accounting - done
+* Africa - done
 * Agile Software Development
 * Agriculture
 * Alcoholic Drinks
@@ -7,6 +8,9 @@
 * American Football Players
 * American Literature
 * American National Parks
+* Anatomy and Physiology - done
+* Ancient Greece - done
+* Ancient Rome - done
 * Android Operating System
 * Animals
 * Animated Movies
@@ -17,11 +21,10 @@
 * Apocryphal Literature
 * Arachnids
 * Architecture - done
-* Art
 * Artificial Intelligence - done
-* Arts & Entertainment
+* Arts - done
 * Asia
-* Astronomy
+* Astronomy - done
 * Australia
 * Authors and Novels
 * Automated Testing - done
@@ -33,7 +36,7 @@
 * Bash Scripting
 * Basketball
 * Basketball Players
-* Bats
+* Bats - in process
 * Bayesian Statistics
 * Beatles
 * Beer
@@ -49,6 +52,7 @@
 * Bootstrap Framework
 * Botany
 * Buddhism
+* Business - done
 * Business & Economics
 * Business Law
 * Business Leadership
@@ -57,7 +61,7 @@
 * Camping
 * C and C++ Programming
 * Capitalism
-* Cascading Style Sheets (CSS)
+* Cascading Style Sheets (CSS) - done
 * Catholicism
 * Cats
 * Censorship
@@ -74,6 +78,7 @@
 * Christianity
 * Cities
 * Cities of the World
+* Classical Greek - done
 * Clean Code
 * Climate Change - done
 * Clojure Programming
@@ -89,10 +94,11 @@
 * Comic Strip Authors
 * Comic Strips
 * Commodities Market
-* Communication
+* Communication - in process
 * Composer for PHP
 * Composers and Compositions
 * Computational Linguistics
+* Computation Theory - done
 * Computer File Formats
 * Computer Gaming
 * Computer Graphics
@@ -100,12 +106,12 @@
 * Computer Networking
 * Computer Programming
 * Computer Science - done
+* Computers - done
 * Computer Security
 * Computer Software
-* Computing
 * Concurrent Programming
 * Conservation/Biodiversity
-* Constructed Languages
+* Constructed Language - done
 * Content Management Systems (CMSs)
 * Cooking
 * Copied from flashcards
@@ -126,8 +132,8 @@
 * Database Design Patterns
 * Database Management
 * Databases - done
-* Data Engineering
 * Data Compression
+* Data Engineering
 * Data Science
 * Data Structures
 * Data Visualization
@@ -158,12 +164,13 @@
 * E-Commerce
 * Economics - done
 * Economists
-* Education - done
 * Educational Psychology
+* Education - done
 * Electrical Engineering
 * Electric Vehicles
 * Electron Software Framework
 * Email
+* Energy - in process
 * English Grammar - done
 * English Literature
 * Enterprise Application Architecture
@@ -171,15 +178,17 @@
 * Environmentalism
 * Environmental Science
 * Epistemology
+* Esperanto Grammar - done
 * Esperanto Language
 * Esperanto Vocabulary - done
 * Ethical Hacking
 * Ethics - done
 * Ethics of Technology
 * European Union
+* Europe - done
 * Evolution
 * Exercise
-* Extensible Markup Language (XML)
+* Extensible Markup Language (XML) - done
 * Famous Artists
 * Famous Authors
 * Famous Bands
@@ -195,10 +204,12 @@
 * Fishes
 * Fitness
 * Flashcards
+* Florida - done
 * Florida Geography
 * Flowers
 * Food & Drink
 * France
+* French Grammar - done
 * French Language
 * French Vocabulary - done
 * Functional Programming
@@ -211,6 +222,7 @@
 * Geologic Periods
 * Geometry - done
 * George R. R. Martin's Game of Thrones Series
+* German Grammar - done
 * German Language
 * German Vocabulary - done
 * Germany
@@ -236,10 +248,12 @@
 * History of Asia
 * History of Canada
 * History of China
+* History of Christianity - done
 * History of Computing
 * History of Europe
 * History of Florida
 * History of India
+* History of Invention - done
 * History of Japan
 * History of Latin America
 * History of Mathematics
@@ -264,8 +278,8 @@
 * Human Bones
 * Human Muscles
 * Human Resources
-* Hypertext Markup Language (HTML)
-* Hypertext Transfer Protocol (HTTP)
+* Hypertext Markup Language (HTML) - done
+* Hypertext Transfer Protocol (HTTP) - done
 * India - done
 * Indian Food
 * Information Science
@@ -281,10 +295,11 @@
 * Internet of Things
 * Internet Security - done
 * Inventors and Inventions
-* Investing
+* Investing - in process
 * Iraq War
 * Isaac Asimov's Foundation Series
 * Islam
+* Italian Grammar - done
 * Italian Language
 * Italian Vocabulary
 * Italy
@@ -292,6 +307,7 @@
 * Japanese Language
 * Japanese Vocabulary
 * Java Programming
+* JavaScript - done
 * JavaScript Frameworks
 * JavaScript Programming
 * J. R. R. Tolkien's Lord of the Rings Series
@@ -300,9 +316,10 @@
 * Knowledge Management
 * Korean War
 * Kubernetes
-* Language
 * Language Acquisition
+* Languages - done
 * Large Language Models (LLMs)
+* Latin Grammar - done
 * Latin Language
 * Latin Vocabulary - done
 * Law - done
@@ -313,12 +330,13 @@
 * Lifestyle & Personal Development
 * Linear Algebra
 * Linguistics - done
-* Linux and Linux Commands
+* Linux Commands - done
+* Linux - done
 * Linux Shell
 * Lisp Programming
 * Literature
-* Logic - done
 * Logical Fallacies
+* Logic - done
 * Lord of the Rings Movies
 * Machine Learning - done
 * Mac OS X
@@ -346,6 +364,7 @@
 * Mobile Computing
 * Mobile Web Development
 * Money
+* Movies - done
 * Music - done
 * Music Genres
 * Music Theory
@@ -356,8 +375,10 @@
 * NASA
 * Native Americans
 * Natural Language Processing
+* Networking - done
 * Network Protocols
 * Neuroscience
+* New Testament - done
 * New Zealand
 * Node.js and Node Package Manager (NPM)
 * Norse Mythology
@@ -369,9 +390,11 @@
 * Object-Oriented Programming - done
 * Online Learning
 * Ontological Engineering
+* Ontology - done
 * Operating Systems
 * Painters and Paintings
 * Painting
+* Programming Paradigms - done
 * Paradoxes - done
 * Peoples
 * Personal Finance
@@ -383,11 +406,11 @@
 * Philosophy - done
 * Philosophy of Mathematics
 * Philosophy of Science
-* PHP Programming
+* PHP - done
 * PHPUnit
 * Physicists
 * Physics - done
-* Pirates
+* Piracy - done
 * Pirates of the Caribbean Movies
 * Plants
 * Poetry
@@ -399,6 +422,7 @@
 * Positive Psychology
 * Precious Metals
 * Probability - done
+* Problem Solving - done
 * Professional Wrestlers
 * Programming Languages
 * Programming Paradigms
@@ -406,7 +430,7 @@
 * Prolog Programming
 * Psychology - done
 * Psychology of Software Development
-* Python Programming
+* Python - in process
 * Quantum Computing - done
 * Quantum Mechanics
 * Quran
@@ -419,7 +443,6 @@
 * Relativity Theory
 * Religion - done
 * Religion & Spirituality
-* Renewable Energy
 * Reptiles
 * Responsive Design
 * REST APIs
@@ -442,6 +465,7 @@
 * Scrum Methodology
 * Sculpture
 * Search Engine Optimization (SEO)
+* Search Engines - done
 * Self-Driving Vehicles
 * Set Theory
 * Sherlock Holmes
@@ -450,7 +474,7 @@
 * Socialism and Communism
 * Social Issues/Inequality
 * Social Media
-* Society
+* Society - in process
 * Sociology - done
 * Software Architecture - done
 * Software Compilers
@@ -466,7 +490,9 @@
 * Software Testing - done
 * Solar System
 * South America
+* Space Exploration - done
 * Spain
+* Spanish Grammar - done
 * Spanish Language
 * Spanish Vocabulary - done
 * Sports - done
@@ -480,7 +506,7 @@
 * Studying
 * Superstition
 * Sustainable Living
-* Symfony and Symfony Components
+* Symfony - done
 * System Administration
 * Systems Theory
 * Tea
@@ -508,7 +534,8 @@
 * Unified Modeling Language (UML) - needs diagrams
 * United Nations
 * United States Civil War
-* United States Constitution
+* United States Constitution - in process
+* United States - done
 * United States Presidents
 * Unit Testing
 * Urban Planning
@@ -517,8 +544,8 @@
 * Vagrant
 * Version Control - done
 * Vietnam War
-* Vim Editor
-* Virtual Machines
+* Vim - done
+* Virtualization - done
 * Vue.js
 * War in Afghanistan
 * Weather - done
@@ -529,11 +556,13 @@
 * Web Design
 * Web Development
 * Web Internationalization
+* WebPack - done
 * Web Standards
 * William Shakespeare - done
 * Wine - done
 * Wireless Networks
 * WordPress
+* World - done
 * World War I
 * World War II
 * World Wide Web
@@ -543,5 +572,6 @@
 * Writing Non-Fiction
 * Writing Software Project Documentation
 * Writing User Stories
+* Writing With ChatGPT - done
 * Yoga
 * Zoology
