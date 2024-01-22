@@ -68,6 +68,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Languages](computers/programming/languages.en.md)
 * [Object-Oriented Programming](computers/programming/oop.en.md)
 * [Paradigms](computers/programming/paradigms.en.md)
+* [Unified Modeling Language](computers/programming/uml.en.md)
 
 #### Languages
 * [JavaScript](computers/programming/languages/javascript.en.md)
