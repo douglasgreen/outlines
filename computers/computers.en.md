@@ -168,7 +168,7 @@ Networking in the context of computers refers to the practice of connecting mult
 1. **Definition and Purpose**: A computer network is a collection of interconnected computers that can exchange data and share resources. Networks can range from small setups in a home or office to vast global networks.
 
 2. **Types of Networks**:
-   - **Local Area Network (LAN)**: A network limited to a small area, like a single building or campus. 
+   - **Local Area Network (LAN)**: A network limited to a small area, like a single building or campus.
    - **Wide Area Network (WAN)**: A network that covers a broad area, such as a network of business branches across a city or country.
    - **Personal Area Network (PAN)**: A network for personal devices, typically within a range of a few meters.
 
@@ -958,4 +958,62 @@ In sum, the realm of computing is a testament to human ingenuity and a reflectio
 
 ## Frequently Asked Questions
 
-Write a list of the top twenty frequently asked questions about computers and give a brief answer to each.
+1. **What is a computer?**
+   - A computer is an electronic device that manipulates information, or data, capable of performing a wide range of tasks according to a set of instructions called programs.
+
+2. **How does a computer work?**
+   - A computer works by combining the operations of its hardware and software. It processes data input, executes instructions from software, and outputs results.
+
+3. **What are the main components of a computer?**
+   - The main components include the Central Processing Unit (CPU), memory (RAM), storage device (hard drive or SSD), motherboard, power supply, and input/output devices.
+
+4. **What is the difference between hardware and software?**
+   - Hardware refers to the physical components of a computer, while software refers to the programs and operating systems that run on the hardware.
+
+5. **What is an operating system?**
+   - An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs.
+
+6. **How do I keep my computer secure?**
+   - Keep your computer secure by installing antivirus software, keeping your software up to date, using strong, unique passwords, and avoiding clicking on suspicious links.
+
+7. **What is cloud computing?**
+   - Cloud computing is the delivery of computing services over the internet (“the cloud”), including servers, storage, databases, networking, software, and more.
+
+8. **What is AI?**
+   - Artificial Intelligence (AI) is a branch of computer science dealing with the simulation of intelligent behavior in computers, enabling them to perform tasks that typically require human intelligence.
+
+9. **What is machine learning?**
+   - Machine Learning is a subset of AI where computers have the ability to learn and improve from experience without being explicitly programmed.
+
+10. **What is a network?**
+    - A network in computing is a group of two or more computer systems linked together to share resources and exchange information.
+
+11. **How do I back up my computer data?**
+    - Data can be backed up using external storage devices, cloud storage services, or dedicated backup software.
+
+12. **What is the difference between RAM and storage?**
+    - RAM (Random Access Memory) is temporary memory used by the CPU to store data for running programs, while storage (like HDDs or SSDs) is where data is permanently stored.
+
+13. **What is a VPN?**
+    - A VPN, or Virtual Private Network, is a service that encrypts your internet connection and routes it through a server in another location, masking your IP address and protecting your online identity.
+
+14. **What is the Internet of Things (IoT)?**
+    - The Internet of Things refers to the growing network of physical devices that are connected to the internet, allowing them to collect and share data.
+
+15. **What are cookies in a web browser?**
+    - Cookies are small pieces of data stored by a web browser that keep track of your interactions with specific websites, often used to remember your preferences and login information.
+
+16. **What is a motherboard in a computer?**
+    - The motherboard is the main circuit board of a computer to which all other components connect, including the CPU, memory, and storage.
+
+17. **How do I clean my computer from viruses?**
+    - To clean your computer from viruses, use antivirus software to scan and remove malware, and consider resetting your system to its original state if the infection is severe.
+
+18. **What is a GPU?**
+    - A GPU, or Graphics Processing Unit, is a specialized processor designed to accelerate graphics rendering.
+
+19. **What is blockchain technology?**
+    - Blockchain is a decentralized, distributed ledger technology that records transactions across multiple computers in a way that is secure, transparent, and tamper-resistant.
+
+20. **How does Wi-Fi work?**
+    - Wi-Fi is a technology that uses radio waves to provide wireless high-speed internet and network connections. A wireless adapter in your device communicates with a router, which is connected to the internet.
