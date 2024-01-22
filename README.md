@@ -218,6 +218,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [New Testament](society/religion/christianity/new_testament.en.md)
 
 ## World
+* [World](world/world.en.md)
 
 ### Countries
 * [China](world/countries/china.en.md)
