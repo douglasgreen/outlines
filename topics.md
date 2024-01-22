@@ -1,32 +1,32 @@
-* Accounting
+* Accounting - done
 * Agile Software Development
 * Agriculture
 * Alcoholic Drinks
-* Algebra
-* Algorithms
+* Algebra - done
+* Algorithms - done
 * American Football Players
 * American Literature
 * American National Parks
 * Android Operating System
 * Animals
 * Animated Movies
-* Anime
+* Anime - done
 * Anthropology
-* Apache Web Server
+* Apache Web Server - done
 * API Development
 * Apocryphal Literature
 * Arachnids
-* Architecture
+* Architecture - done
 * Art
-* Artificial Intelligence
+* Artificial Intelligence - done
 * Arts & Entertainment
 * Asia
 * Astronomy
 * Australia
 * Authors and Novels
-* Automated Testing
-* Automobiles
-* Aviation
+* Automated Testing - done
+* Automobiles - done
+* Aviation - done
 * Back to the Future Movies
 * Baseball
 * Baseball Players
@@ -37,10 +37,10 @@
 * Bayesian Statistics
 * Beatles
 * Beer
-* Bible
+* Bible - done
 * Big Data
 * Biologists
-* Biology
+* Biology - done
 * Biotechnology
 * Birds
 * Black Mirror Episodes
@@ -53,7 +53,7 @@
 * Business Law
 * Business Leadership
 * Business Strategy
-* Calculus
+* Calculus - done
 * Camping
 * C and C++ Programming
 * Capitalism
@@ -61,26 +61,26 @@
 * Catholicism
 * Cats
 * Censorship
-* Chemistry
+* Chemistry - done
 * Chemists
-* Chess
+* Chess - done
 * Chess Players
 * Chief Executive Officers
-* China
+* China - done
 * Chinese Food
 * Chinese Language
 * Chinese Vocabulary
-* Chocolate
+* Chocolate - done
 * Christianity
 * Cities
 * Cities of the World
 * Clean Code
-* Climate Change
+* Climate Change - done
 * Clojure Programming
 * Clothing
 * Cloud Computing
 * Code Refactoring
-* Code Reviews
+* Code Reviews - done
 * Coffee
 * Cognitive Biases
 * Comic Book Characters
@@ -99,7 +99,7 @@
 * Computer Hardware
 * Computer Networking
 * Computer Programming
-* Computer Science
+* Computer Science - done
 * Computer Security
 * Computer Software
 * Computing
@@ -113,9 +113,9 @@
 * Cosmology
 * Countries
 * Countries of the World
-* COVID-19
+* COVID-19 - done
 * Critical Thinking
-* Cryptography
+* Cryptography - done
 * C. S. Lewis's Chronicles of Narnia Series
 * Cultural Studies
 * Curriculum Development
@@ -125,7 +125,8 @@
 * Database Design
 * Database Design Patterns
 * Database Management
-* Databases
+* Databases - done
+* Data Engineering
 * Data Compression
 * Data Science
 * Data Structures
@@ -133,18 +134,18 @@
 * Data Warehousing
 * Debugging
 * Debugging Software
-* Decision Making
+* Decision Making - done
 * Declarative Programming
 * Democracy
 * Demography
 * Dental Hygiene
 * Design Antipatterns
-* Design Patterns
+* Design Patterns - done
 * DevOps
 * Differential Equations
 * Digital Photography
 * Dinosaurs
-* Discrete Mathematics
+* Discrete Mathematics - done
 * Disease
 * Docker
 * Doctor Who TV Series
@@ -155,15 +156,15 @@
 * Drones (Unmanned Aerial Vehicles)
 * Dungeons and Dragons
 * E-Commerce
-* Economics
+* Economics - done
 * Economists
-* Education
+* Education - done
 * Educational Psychology
 * Electrical Engineering
 * Electric Vehicles
 * Electron Software Framework
 * Email
-* English Grammar
+* English Grammar - done
 * English Literature
 * Enterprise Application Architecture
 * Entrepreneurship
@@ -171,9 +172,9 @@
 * Environmental Science
 * Epistemology
 * Esperanto Language
-* Esperanto Vocabulary
+* Esperanto Vocabulary - done
 * Ethical Hacking
-* Ethics
+* Ethics - done
 * Ethics of Technology
 * European Union
 * Evolution
@@ -184,7 +185,7 @@
 * Famous Bands
 * Famous Philosophers
 * Fantasy Creatures
-* Fantasy Fiction
+* Fantasy Fiction - done
 * Fast and Furious Movies
 * Federal Reserve
 * Film
@@ -199,32 +200,32 @@
 * Food & Drink
 * France
 * French Language
-* French Vocabulary
+* French Vocabulary - done
 * Functional Programming
 * Future of Technology
 * Game of Thrones TV Series
 * Games
-* Game Theory
+* Game Theory - done
 * Genetics
 * Geography
 * Geologic Periods
-* Geometry
+* Geometry - done
 * George R. R. Martin's Game of Thrones Series
 * German Language
-* German Vocabulary
+* German Vocabulary - done
 * Germany
 * Git
 * GitLab
 * Golf Players
 * Go Programming
-* Graph Theory
+* Graph Theory - done
 * Greek Language
 * Greek Mythology
 * Greek Vocabulary
 * Gulf War
 * Harry Potter Books
 * Harry Potter Movies
-* Health
+* Health - done
 * Healthy Diet
 * Herbs
 * Historic Battles
@@ -250,14 +251,14 @@
 * History of South America
 * History of Technology
 * History of Television
-* History of the Middle East
+* History of the Middle East - done
 * History of the United Kingdom
 * History of the United States
-* History of the World
-* History of Video Games
+* History of the World - done
+* History of Video Games - done
 * History of War
 * Horror Creatures
-* Horror Fiction
+* Horror Fiction - done
 * H. P. Lovecraft
 * Human Anatomy
 * Human Bones
@@ -265,7 +266,7 @@
 * Human Resources
 * Hypertext Markup Language (HTML)
 * Hypertext Transfer Protocol (HTTP)
-* India
+* India - done
 * Indian Food
 * Information Science
 * Information Technology
@@ -278,7 +279,7 @@
 * Intellectual Property Law
 * Internet
 * Internet of Things
-* Internet Security
+* Internet Security - done
 * Inventors and Inventions
 * Investing
 * Iraq War
@@ -303,23 +304,23 @@
 * Language Acquisition
 * Large Language Models (LLMs)
 * Latin Language
-* Latin Vocabulary
-* Law
+* Latin Vocabulary - done
+* Law - done
 * Laws of Computing
 * Learning Methods
 * Life in Ancient Rome
 * Life in the Middle Ages
 * Lifestyle & Personal Development
 * Linear Algebra
-* Linguistics
+* Linguistics - done
 * Linux and Linux Commands
 * Linux Shell
 * Lisp Programming
 * Literature
-* Logic
+* Logic - done
 * Logical Fallacies
 * Lord of the Rings Movies
-* Machine Learning
+* Machine Learning - done
 * Mac OS X
 * Making a Constructed Language
 * Management
@@ -328,7 +329,7 @@
 * Marvel Cinematic Universe Movies
 * Materials Science
 * Mathematicians
-* Mathematics
+* Mathematics - done
 * Matrix Movies
 * Measurement
 * Medicine
@@ -339,18 +340,18 @@
 * Meteorology
 * Mexican Food
 * Microservices
-* Microsoft Windows
+* Microsoft Windows - done
 * Miscellaneous
 * Mobile App Development
 * Mobile Computing
 * Mobile Web Development
 * Money
-* Music
+* Music - done
 * Music Genres
 * Music Theory
-* MySQL
+* MySQL - done
 * Mystery Fiction
-* Mythology
+* Mythology - done
 * Nanotechnology
 * NASA
 * Native Americans
@@ -365,48 +366,48 @@
 * Nuclear Technology
 * Number Theory
 * Nutrition
-* Object-Oriented Programming
+* Object-Oriented Programming - done
 * Online Learning
 * Ontological Engineering
 * Operating Systems
 * Painters and Paintings
 * Painting
-* Paradoxes
+* Paradoxes - done
 * Peoples
 * Personal Finance
 * Personality Types
-* Personal Productivity
+* Personal Productivity - done
 * Pets
 * Philosophers
 * Philosophical Schools
-* Philosophy
+* Philosophy - done
 * Philosophy of Mathematics
 * Philosophy of Science
 * PHP Programming
 * PHPUnit
 * Physicists
-* Physics
+* Physics - done
 * Pirates
 * Pirates of the Caribbean Movies
 * Plants
 * Poetry
 * Poets
 * Political Ideologies
-* Politics
+* Politics - done
 * Pollution/Air Quality
 * Popular Bands
 * Positive Psychology
 * Precious Metals
-* Probability
+* Probability - done
 * Professional Wrestlers
 * Programming Languages
 * Programming Paradigms
 * Project Management
 * Prolog Programming
-* Psychology
+* Psychology - done
 * Psychology of Software Development
 * Python Programming
-* Quantum Computing
+* Quantum Computing - done
 * Quantum Mechanics
 * Quran
 * Reading
@@ -416,7 +417,7 @@
 * Regular Expressions
 * Relationships
 * Relativity Theory
-* Religion
+* Religion - done
 * Religion & Spirituality
 * Renewable Energy
 * Reptiles
@@ -434,8 +435,8 @@
 * Sacred Books
 * Sales & Marketing
 * Sass and Other CSS Preprocessors
-* Science
-* Science Fiction
+* Science - done
+* Science Fiction - done
 * Science & Nature
 * Scientists and Discoveries
 * Scrum Methodology
@@ -450,8 +451,8 @@
 * Social Issues/Inequality
 * Social Media
 * Society
-* Sociology
-* Software Architecture
+* Sociology - done
+* Software Architecture - done
 * Software Compilers
 * Software Debugging
 * Software Design
@@ -460,19 +461,19 @@
 * Software Engineering
 * Software Optimization
 * Software Privacy
-* Software Project Management
+* Software Project Management - done
 * Software Requirements Specifications
-* Software Testing
+* Software Testing - done
 * Solar System
 * South America
 * Spain
 * Spanish Language
-* Spanish Vocabulary
-* Sports
+* Spanish Vocabulary - done
+* Sports - done
 * Star Trek
 * Star Wars
 * States of the United States
-* Statistics
+* Statistics - done
 * Stock Market
 * Stoicism
 * Structured Query Language (SQL)
@@ -483,10 +484,10 @@
 * System Administration
 * Systems Theory
 * Tea
-* Technical Writing
-* Technological Singularity
+* Technical Writing - done
+* Technological Singularity - done
 * Technology
-* Television
+* Television - done
 * Tennis Players
 * Terminator Movies
 * Test-Driven Development
@@ -504,7 +505,7 @@
 * Trees
 * Trigonometry
 * Typescript
-* Unified Modeling Language (UML)
+* Unified Modeling Language (UML) - needs diagrams
 * United Nations
 * United States Civil War
 * United States Constitution
@@ -514,25 +515,23 @@
 * Usability
 * User Experience (UX) Design
 * Vagrant
-* Version Control
-* Version Control Systems (VCSs)
+* Version Control - done
 * Vietnam War
 * Vim Editor
 * Virtual Machines
 * Vue.js
 * War in Afghanistan
-* Weather
+* Weather - done
 * Web Accessibility
 * Web Analytics
 * WebAssembly
-* Web Browsers
+* Web Browsers - done
 * Web Design
 * Web Development
 * Web Internationalization
 * Web Standards
-* William Shakespeare
-* William Shakespeare Plays
-* Wine
+* William Shakespeare - done
+* Wine - done
 * Wireless Networks
 * WordPress
 * World War I
@@ -542,7 +541,6 @@
 * Writing
 * Writing Fiction
 * Writing Non-Fiction
-* Writing Non-Fiction Books
 * Writing Software Project Documentation
 * Writing User Stories
 * Yoga
