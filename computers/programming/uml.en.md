@@ -154,6 +154,21 @@ graph TB
 - Use Cases: Borrow Book, Return Book, Catalogue Book (Librarian), Pay Fines (Member).
 - Associations: Member connected to Borrow, Return, and Pay Fines; Librarian to Catalogue Book.
 
+```mermaid
+graph TB
+    actor1[Member]
+    actor2[Librarian]
+    usecase1[Borrow Book]
+    usecase2[Return Book]
+    usecase3[Catalogue Book]
+    usecase4[Pay Fines]
+
+    actor1-->usecase1
+    actor1-->usecase2
+    actor1-->usecase4
+    actor2-->usecase3
+```
+
 Use Case Diagrams are invaluable for ensuring a mutual understanding of system functionalities between developers and stakeholders. They serve as a foundation for more detailed system design and are integral in the planning phases of a software project.
 
 ## Class Diagrams
