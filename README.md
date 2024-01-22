@@ -187,6 +187,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Spanish Vocabulary](society/language/spanish/vocabulary.en.md)
 
 ### Law
+ * [United States Constitution](society/law/us_constitution.en.md)
 
 #### Crime
 * [Piracy](society/law/crime/piracy.en.md)

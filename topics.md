@@ -553,7 +553,7 @@
 * Unified Modeling Language (UML) - needs diagrams
 * United Nations
 * United States Civil War
-* United States Constitution - in process
+* United States Constitution - done
 * United States - done
 * United States Presidents
 * Unit Testing
