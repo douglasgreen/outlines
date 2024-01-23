@@ -5,6 +5,7 @@
 * Alcoholic Drinks
 * Algebra - done
 * Algorithms - done
+* Amazon Rainforest
 * American Football Players
 * American Literature
 * American National Parks
@@ -20,6 +21,7 @@
 * API Development
 * Apocryphal Literature
 * Arachnids
+* Architectural Patterns
 * Architecture - done
 * Artificial Intelligence - done
 * Arts - done
@@ -123,6 +125,7 @@
 * COVID-19 - done
 * Crime - heading
 * Critical Thinking
+* Crocodilians
 * Cryptography - done
 * C. S. Lewis's Chronicles of Narnia Series
 * Cultural Studies
@@ -175,7 +178,6 @@
 * Energy - in process
 * English Grammar - done
 * English Literature
-* Enterprise Application Architecture
 * Entrepreneurship
 * Environmentalism
 * Environmental Science
@@ -188,6 +190,7 @@
 * Ethics of Technology
 * European Union
 * Europe - done
+* Everglades
 * Evolution
 * Exercise
 * Extensible Markup Language (XML) - done
@@ -219,6 +222,7 @@
 * Game of Thrones TV Series
 * Games - heading
 * Game Theory - done
+* Gender
 * Genetics
 * Geography
 * Geologic Periods
@@ -273,6 +277,7 @@
 * History of the World - done
 * History of Video Games - done
 * History of War
+* Holocaust
 * Horror Creatures
 * Horror Fiction - done
 * H. P. Lovecraft
@@ -322,6 +327,8 @@
 * Knowledge Management
 * Korean War
 * Kubernetes
+* Labor
+* Lakes
 * Language Acquisition
 * Languages of the World - heading
 * Large Language Models (LLMs)
@@ -330,6 +337,7 @@
 * Latin Vocabulary - done
 * Law - done
 * Laws of Computing
+* Leadership
 * Learning Methods
 * Life in Ancient Rome
 * Life in the Middle Ages
@@ -364,11 +372,13 @@
 * Mexican Food
 * Microservices
 * Microsoft Windows - done
+* Military Strategy
 * Miscellaneous
 * Mobile App Development
 * Mobile Computing
 * Mobile Web Development
 * Money
+* Mountains
 * Movies - done
 * Music - done
 * Music Genres
@@ -391,9 +401,11 @@
 * North America
 * NoSQL
 * Nuclear Technology
+* Nuclear War
 * Number Theory
 * Nutrition
 * Object-Oriented Programming - done
+* Oceans
 * Online Learning
 * Ontological Engineering
 * Ontology - done
@@ -457,6 +469,7 @@
 * REST APIs
 * Rhetoric
 * Rick and Morty TV Series
+* Rivers
 * Robert Jordan's Wheel of Time Series
 * Robotics
 * Role-Playing Games
@@ -478,7 +491,9 @@
 * Set Theory
 * Sherlock Holmes
 * Shopping
+* Silicon Valley
 * Slang and Colloquialisms
+* Snakes
 * Socialism and Communism
 * Social Issues/Inequality
 * Social Media
