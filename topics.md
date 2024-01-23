@@ -190,7 +190,6 @@
 * Ethics of Technology
 * European Union
 * Europe - done
-* Everglades
 * Evolution
 * Exercise
 * Extensible Markup Language (XML) - done
