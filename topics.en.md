@@ -115,7 +115,6 @@
 * Constructed Language - done
 * Content Management Systems (CMSs)
 * Cooking
-* Copied from flashcards
 * Corporations
 * Cosmology
 * Countries
