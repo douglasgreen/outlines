@@ -492,8 +492,7 @@
 * Software Architecture - done
 * Software Compilers
 * Software Debugging
-* Software Design
-* Software Design - heading
+* Software Design - in process
 * Software Development
 * Software Development Methodologies
 * Software Engineering

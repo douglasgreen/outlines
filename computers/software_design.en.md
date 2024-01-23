@@ -5,7 +5,7 @@
 Give an introduction to software design, while discussing the following topics:
 * The Evolution of Software Design
 * Importance in the Modern World
-* Overview of the Book
+* Overview of the Discussion
 
 ## Fundamental Principles of Software Design
 
