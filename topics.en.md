@@ -37,7 +37,7 @@
 * Bash Scripting
 * Basketball
 * Basketball Players
-* Bats - in process
+* Bats - done
 * Bayesian Statistics
 * Beatles
 * Beer
