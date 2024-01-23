@@ -1,3 +1,4 @@
+* Abstract Algebra
 * Accounting - done
 * Africa - done
 * Agile Software Development
@@ -6,10 +7,12 @@
 * Algebra - done
 * Algorithms - done
 * Amazon Rainforest
+* American Football
 * American Football Players
 * American Literature
 * American National Parks
 * Anatomy and Physiology - done
+* Ancient Egypt
 * Ancient Greece - done
 * Ancient Rome - done
 * Android Operating System
@@ -32,6 +35,7 @@
 * Automated Testing - done
 * Automobiles - done
 * Autonomous Vehicles
+* Auto Racing
 * Aviation - done
 * Back to the Future Movies
 * Baseball
@@ -45,6 +49,7 @@
 * Beer
 * Bible - done
 * Big Data
+* Biochemistry
 * Biologists
 * Biology - done
 * Biotechnology
@@ -59,6 +64,7 @@
 * Business & Economics
 * Business Law
 * Business Leadership
+* Business Math
 * Business Strategy
 * Calculus - done
 * Camping
@@ -68,6 +74,7 @@
 * Catholicism
 * Cats
 * Censorship
+* Cheeses
 * Chemistry - done
 * Chemists
 * Chess - done
@@ -100,6 +107,7 @@
 * Comic Strips
 * Commodities Market
 * Communication - in process
+* Complex Analysis
 * Composer for PHP
 * Composers and Compositions
 * Computational Linguistics
@@ -163,21 +171,27 @@
 * Dog Breeds
 * Dogs
 * Domain-Driven Design
+* Drawing
 * Driving Safety
 * Drones (Unmanned Aerial Vehicles)
 * Dungeons and Dragons
+* Eastern Philosophy
 * E-Commerce
+* Econometrics
 * Economics - done
 * Economists
 * Educational Psychology
 * Education - done
 * Electrical Engineering
+* Electric Circuits and Devices
 * Electric Vehicles
+* Electromagnetics
 * Electron Software Framework
 * Email
 * Energy - in process
 * English Grammar - done
 * English Literature
+* English Vocabulary
 * Entrepreneurship
 * Environmentalism
 * Environmental Science
@@ -221,8 +235,10 @@
 * Game of Thrones TV Series
 * Games - heading
 * Game Theory - done
+* Gardening
 * Gender
 * Genetics
+* Geocaching
 * Geography
 * Geologic Periods
 * Geometry - done
@@ -233,6 +249,7 @@
 * Germany
 * Git
 * GitLab
+* Golf
 * Golf Players
 * Go Programming
 * Graph Theory - done
@@ -245,6 +262,7 @@
 * Health - done
 * Healthy Diet
 * Herbs
+* Hinduism
 * Historic Battles
 * History - heading
 * History of Africa
@@ -259,7 +277,6 @@
 * History of Florida
 * History of India
 * History of Invention - done
-* History of Japan
 * History of Latin America
 * History of Mathematics
 * History of Mexico
@@ -277,6 +294,7 @@
 * History of Video Games - done
 * History of War
 * Holocaust
+* Home Repair
 * Horror Creatures
 * Horror Fiction - done
 * H. P. Lovecraft
@@ -314,6 +332,7 @@
 * Italian Vocabulary
 * Italy
 * James Bond Movies
+* Japan
 * Japanese Language
 * Japanese Vocabulary
 * Java Programming
@@ -357,10 +376,13 @@
 * Management - heading
 * Manufacturing
 * Marketing
+* Martial Arts
 * Marvel Cinematic Universe Movies
+* Massage
 * Materials Science
 * Mathematicians
 * Mathematics - done
+* Matrices
 * Matrix Movies
 * Measurement
 * Medicine - heading
@@ -377,6 +399,7 @@
 * Mobile Computing
 * Mobile Web Development
 * Money
+* Motorcycles
 * Mountains
 * Movies - done
 * Music - done
@@ -410,6 +433,8 @@
 * Ontology - done
 * Open Source
 * Operating Systems - heading
+* Operations Research
+* Optics
 * Painters and Paintings
 * Painting
 * Paradoxes - done
@@ -418,6 +443,7 @@
 * Personality Types
 * Personal Productivity - done
 * Pets
+* Pharmacology
 * Philosophers
 * Philosophical Schools
 * Philosophy - done
@@ -512,6 +538,7 @@
 * Software Testing - done
 * Solar System
 * South America
+* South Korea
 * Space Exploration - done
 * Spain
 * Spanish Grammar - done
@@ -532,12 +559,14 @@
 * Symfony - done
 * System Administration
 * Systems Theory
+* T'ai Chi and QiGong
 * Tea
 * Technical Writing - done
 * Technological Singularity - done
 * Technology - heading
 * Television - done
 * Tennis Players
+* Tensor Calculus
 * Terminator Movies
 * Test-Driven Development
 * Text Editors - heading
@@ -545,6 +574,7 @@
 * The Matrix Movies
 * Theology
 * Theory of Computation
+* Thermodynamics
 * The Simpsons TV Series
 * Time
 * Time Management
@@ -553,7 +583,7 @@
 * Transport
 * Travel
 * Travel & Tourism
-* Trees
+* Trees and Shrubs
 * Trigonometry
 * Typescript
 * Unified Modeling Language (UML) - needs diagrams
@@ -561,12 +591,14 @@
 * United States Civil War
 * United States Constitution - done
 * United States - done
+* United States Government
 * United States Presidents
 * Unit Testing
 * Urban Planning
 * Usability
 * User Experience (UX) Design
 * Vagrant
+* Vectors
 * Version Control - done
 * Vietnam War
 * Vim - done
