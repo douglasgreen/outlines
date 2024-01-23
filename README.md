@@ -107,6 +107,11 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Science](science/science.en.md)
 * [Space Exploration](science/space_exploration.en.md)
 
+### Biology
+
+#### Animals
+* [Bats](science/biology/animals/bats.en.md)
+
 ### Math
 * [Algebra](science/math/algebra.en.md)
 * [Calculus](science/math/calculus.en.md)
