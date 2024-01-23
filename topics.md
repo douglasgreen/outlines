@@ -12,7 +12,6 @@
 * Ancient Greece - done
 * Ancient Rome - done
 * Android Operating System
-* Animals
 * Animals - heading
 * Animated Movies
 * Anime - done
@@ -30,6 +29,7 @@
 * Authors and Novels
 * Automated Testing - done
 * Automobiles - done
+* Autonomous Vehicles
 * Aviation - done
 * Back to the Future Movies
 * Baseball
@@ -89,6 +89,7 @@
 * Code Reviews - done
 * Coffee
 * Cognitive Biases
+* Cold War
 * Color Theory
 * Comic Book Characters
 * Comic Book Secret Identities
@@ -118,9 +119,7 @@
 * Cooking
 * Corporations
 * Cosmology
-* Countries
-* Countries - heading
-* Countries of the World
+* Countries of the World - heading
 * COVID-19 - done
 * Crime - heading
 * Critical Thinking
@@ -155,7 +154,6 @@
 * Digital Photography
 * Dinosaurs
 * Discrete Mathematics - done
-* Disease
 * Diseases - heading
 * Docker
 * Doctor Who TV Series
@@ -211,8 +209,7 @@
 * Florida - done
 * Florida Geography
 * Flowers
-* Food & Drink
-* Food - heading
+* Food & Drink - heading
 * France
 * French Grammar - done
 * French Language
@@ -220,7 +217,6 @@
 * Functional Programming
 * Future of Technology
 * Game of Thrones TV Series
-* Games
 * Games - heading
 * Game Theory - done
 * Genetics
@@ -247,7 +243,6 @@
 * Healthy Diet
 * Herbs
 * Historic Battles
-* History
 * History - heading
 * History of Africa
 * History of Ancient Greece
@@ -283,12 +278,16 @@
 * H. P. Lovecraft
 * Human Anatomy
 * Human Bones
+* Human-Computer Interaction
 * Human Muscles
 * Human Resources
+* Human Rights
 * Hypertext Markup Language (HTML) - done
 * Hypertext Transfer Protocol (HTTP) - done
 * India - done
 * Indian Food
+* Industrial Revolution
+* Information Privacy
 * Information Science
 * Information Technology
 * Information Technology Companies
@@ -298,7 +297,6 @@
 * Insects
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
-* Internet
 * Internet - heading
 * Internet of Things
 * Internet Security - done
@@ -325,7 +323,7 @@
 * Korean War
 * Kubernetes
 * Language Acquisition
-* Language - heading
+* Languages of the World - heading
 * Large Language Models (LLMs)
 * Latin Grammar - done
 * Latin Language
@@ -342,7 +340,6 @@
 * Linux - done
 * Linux Shell
 * Lisp Programming
-* Literature
 * Literature - heading
 * Logical Fallacies
 * Logic - done
@@ -350,7 +347,6 @@
 * Machine Learning - done
 * Mac OS X
 * Making a Constructed Language
-* Management
 * Management - heading
 * Manufacturing
 * Marketing
@@ -360,7 +356,6 @@
 * Mathematics - done
 * Matrix Movies
 * Measurement
-* Medicine
 * Medicine - heading
 * Meditation
 * Men's Clothing and Fashion
@@ -387,6 +382,7 @@
 * Natural Language Processing
 * Networking - done
 * Network Protocols
+* Neural Networks/Deep Learning
 * Neuroscience
 * New Testament - done
 * New Zealand
@@ -401,7 +397,7 @@
 * Online Learning
 * Ontological Engineering
 * Ontology - done
-* Operating Systems
+* Open Source
 * Operating Systems - heading
 * Painters and Paintings
 * Painting
@@ -450,8 +446,7 @@
 * Real Estate
 * Recreation - heading
 * Refactoring
-* Regions
-* Regions - heading
+* Regions of the World - heading
 * Regular Expressions
 * Relationships
 * Relativity Theory
@@ -480,7 +475,6 @@
 * Sculpture
 * Search Engine Optimization (SEO)
 * Search Engines - done
-* Self-Driving Vehicles
 * Set Theory
 * Sherlock Holmes
 * Shopping
@@ -499,7 +493,6 @@
 * Software Engineering
 * Software - heading
 * Software Optimization
-* Software Privacy
 * Software Project Management - done
 * Software Requirements Specifications
 * Software Testing - done
@@ -513,11 +506,11 @@
 * Sports - done
 * Star Trek
 * Star Wars
-* States - heading
-* States of the United States
+* States of the United States - heading
 * Statistics - done
 * Stock Market
 * Stoicism
+* Streaming Services
 * Structured Query Language (SQL)
 * Studying
 * Superstition
@@ -528,20 +521,20 @@
 * Tea
 * Technical Writing - done
 * Technological Singularity - done
-* Technology
 * Technology - heading
 * Television - done
 * Tennis Players
 * Terminator Movies
 * Test-Driven Development
-* Text Editors
 * Text Editors - heading
 * Theater
 * The Matrix Movies
 * Theology
 * Theory of Computation
 * The Simpsons TV Series
+* Time
 * Time Management
+* Time Series
 * Topology
 * Transport
 * Travel
@@ -561,19 +554,19 @@
 * User Experience (UX) Design
 * Vagrant
 * Version Control - done
-* Version Control - heading
 * Vietnam War
 * Vim - done
 * Virtualization - done
+* Virtual Reality/Augmented Reality
 * Vue.js
 * War in Afghanistan
 * Weather - done
 * Web Accessibility
 * Web Analytics
+* Web Applications
 * WebAssembly
 * Web Browsers - done
 * Web Design
-* Web Development
 * Web Development - heading
 * Web Internationalization
 * WebPack - done
