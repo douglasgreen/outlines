@@ -89,6 +89,7 @@
 * Code Reviews - done
 * Coffee
 * Cognitive Biases
+* Color Theory
 * Comic Book Characters
 * Comic Book Secret Identities
 * Comics
