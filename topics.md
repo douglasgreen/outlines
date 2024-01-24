@@ -23,6 +23,7 @@
 * Apache Web Server - done
 * API Development
 * Apocryphal Literature
+* Apple macOS
 * Arachnids
 * Architectural Patterns
 * Architecture - done
@@ -56,6 +57,7 @@
 * Birds
 * Black Mirror Episodes
 * Blockchain and Cryptocurrencies
+* Board Games
 * Bond Market
 * Bootstrap Framework
 * Botany
@@ -70,6 +72,7 @@
 * Camping
 * C and C++ Programming
 * Capitalism
+* Card Games
 * Cascading Style Sheets (CSS) - done
 * Catholicism
 * Cats
@@ -82,13 +85,13 @@
 * Chief Executive Officers
 * China - done
 * Chinese Food
-* Chinese Language
+* Chinese Grammar
 * Chinese Vocabulary
 * Chocolate - done
 * Christianity - heading
 * Cities
 * Cities of the World
-* Classical Greek - done
+* Classical Greek Grammar - done
 * Clean Code
 * Climate Change - done
 * Clojure Programming
@@ -161,6 +164,8 @@
 * Design Antipatterns
 * Design Patterns - done
 * DevOps
+* Dice Games
+* Diets
 * Differential Equations
 * Digital Photography
 * Dinosaurs
@@ -197,7 +202,6 @@
 * Environmental Science
 * Epistemology
 * Esperanto Grammar - done
-* Esperanto Language
 * Esperanto Vocabulary - done
 * Ethical Hacking
 * Ethics - done
@@ -228,7 +232,6 @@
 * Food & Drink - heading
 * France
 * French Grammar - done
-* French Language
 * French Vocabulary - done
 * Functional Programming
 * Future of Technology
@@ -244,7 +247,6 @@
 * Geometry - done
 * George R. R. Martin's Game of Thrones Series
 * German Grammar - done
-* German Language
 * German Vocabulary - done
 * Germany
 * Git
@@ -253,14 +255,13 @@
 * Golf Players
 * Go Programming
 * Graph Theory - done
-* Greek Language
+* Greek Grammar
 * Greek Mythology
 * Greek Vocabulary
 * Gulf War
 * Harry Potter Books
 * Harry Potter Movies
 * Health - done
-* Healthy Diet
 * Herbs
 * Hinduism
 * Historic Battles
@@ -319,6 +320,7 @@
 * Insects
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
+* Intelligence
 * Internet - heading
 * Internet of Things
 * Internet Security - done
@@ -328,12 +330,11 @@
 * Isaac Asimov's Foundation Series
 * Islam
 * Italian Grammar - done
-* Italian Language
 * Italian Vocabulary
 * Italy
 * James Bond Movies
 * Japan
-* Japanese Language
+* Japanese Grammar
 * Japanese Vocabulary
 * Java Programming
 * JavaScript - done
@@ -351,7 +352,6 @@
 * Languages of the World - heading
 * Large Language Models (LLMs)
 * Latin Grammar - done
-* Latin Language
 * Latin Vocabulary - done
 * Law - done
 * Laws of Computing
@@ -371,7 +371,6 @@
 * Logic - done
 * Lord of the Rings Movies
 * Machine Learning - done
-* Mac OS X
 * Making a Constructed Language
 * Management - heading
 * Manufacturing
@@ -385,6 +384,7 @@
 * Matrices
 * Matrix Movies
 * Measurement
+* Medical Terminology
 * Medicine - heading
 * Meditation
 * Men's Clothing and Fashion
@@ -392,6 +392,7 @@
 * Mental Health
 * Mexican Food
 * Microservices
+* Microsoft Windows 11
 * Microsoft Windows - done
 * Military Strategy
 * Miscellaneous
@@ -469,7 +470,6 @@
 * Professional Wrestlers
 * Programming - heading
 * Programming Languages - done
-* Programming Paradigms
 * Programming Paradigms - done
 * Project Management
 * Prolog Programming
@@ -484,6 +484,7 @@
 * Recreation - heading
 * Refactoring
 * Regions of the World - heading
+* Regression Analysis
 * Regular Expressions
 * Relationships
 * Relativity Theory
@@ -542,7 +543,6 @@
 * Space Exploration - done
 * Spain
 * Spanish Grammar - done
-* Spanish Language
 * Spanish Vocabulary - done
 * Sports - done
 * Star Trek
