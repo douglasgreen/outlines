@@ -163,6 +163,7 @@
 * Demography
 * Dental Hygiene
 * Design Antipatterns
+* Design Pattern Implementation in PHP
 * Design Patterns - done
 * DevOps
 * Dice Games
@@ -235,6 +236,7 @@
 * French Grammar - done
 * French Vocabulary - done
 * Functional Programming
+* Functional Programming in PHP
 * Future of Technology
 * Game of Thrones TV Series
 * Games - heading
@@ -373,6 +375,7 @@
 * Logic - done
 * Lord of the Rings Movies
 * Machine Learning - done
+* Machine Learning in Python
 * Making a Constructed Language
 * Management - heading
 * Manufacturing
@@ -429,6 +432,7 @@
 * Nuclear War
 * Number Theory
 * Nutrition
+* Object-Oriented Programming and Namespaces in PHP
 * Object-Oriented Programming - done
 * Oceans
 * Online Learning
@@ -635,5 +639,6 @@
 * Writing Software Project Documentation
 * Writing User Stories
 * Writing With ChatGPT - done
+* XML Processing in PHP
 * Yoga
 * Zoology
