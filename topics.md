@@ -70,7 +70,6 @@
 * Business Strategy
 * Calculus - done
 * Camping
-* C and C++ Programming
 * Capitalism
 * Card Games
 * Cascading Style Sheets (CSS) - done
@@ -134,6 +133,8 @@
 * Cosmology
 * Countries of the World - heading
 * COVID-19 - done
+* C Programming
+* C++ Programming
 * Crime - heading
 * Critical Thinking
 * Crocodilians
@@ -340,6 +341,7 @@
 * JavaScript - done
 * JavaScript Frameworks
 * JavaScript Programming
+* jQuery Programming
 * J. R. R. Tolkien's Lord of the Rings Series
 * Judaism
 * Jurassic Park Movies
@@ -531,7 +533,7 @@
 * Software Design - in process
 * Software Development
 * Software Development Methodologies
-* Software Engineering
+* Software Engineering - done
 * Software - heading
 * Software Optimization
 * Software Project Management - done

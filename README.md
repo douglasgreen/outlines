@@ -37,6 +37,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Networking](computers/networking.en.md)
 * [Software Architecture](computers/software_architecture.en.md)
 * [Software Design](computers/software_design.en.md)
+* [Software Engineering](computers/software_engineering.en.md)
 * [Software Testing](computers/software_testing.en.md)
 
 ### Artificial Intelligence
