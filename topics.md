@@ -119,7 +119,7 @@
 * Computer Graphics
 * Computer Hardware
 * Computer Networking
-* Computer Programming
+* Computer Programming - done
 * Computer Science - done
 * Computers - done
 * Computer Security
