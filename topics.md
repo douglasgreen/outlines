@@ -352,8 +352,7 @@
 * Kubernetes
 * Labor
 * Lakes
-* Language Acquisition
-* Languages of the World - heading
+* Language - in process
 * Large Language Models (LLMs)
 * Latin Grammar - done
 * Latin Vocabulary - done
