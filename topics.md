@@ -330,7 +330,7 @@
 * Internet of Things
 * Internet Security - done
 * Inventors and Inventions
-* Investing - in process
+* Investing - done
 * Iraq War
 * Isaac Asimov's Foundation Series
 * Islam
