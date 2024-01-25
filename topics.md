@@ -236,7 +236,9 @@
 * French Grammar - done
 * French Vocabulary - done
 * Functional Programming
+* Functional Programming in JavaScript
 * Functional Programming in PHP
+* Functional Programming in Python
 * Future of Technology
 * Game of Thrones TV Series
 * Games - heading
@@ -433,6 +435,8 @@
 * Nutrition
 * Object-Oriented Programming and Namespaces in PHP - in process
 * Object-Oriented Programming - done
+* Object-Oriented Programming in JavaScript
+* Object-Oriented Programming in Python
 * Oceans
 * Online Learning
 * Ontological Engineering
