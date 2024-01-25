@@ -432,7 +432,7 @@
 * Nuclear War
 * Number Theory
 * Nutrition
-* Object-Oriented Programming and Namespaces in PHP
+* Object-Oriented Programming and Namespaces in PHP - in process
 * Object-Oriented Programming - done
 * Oceans
 * Online Learning
@@ -475,14 +475,13 @@
 * Probability - done
 * Problem Solving - done
 * Professional Wrestlers
-* Programming - heading
 * Programming Languages - done
 * Programming Paradigms - done
 * Project Management
 * Prolog Programming
 * Psychology - done
 * Psychology of Software Development
-* Python - in process
+* Python Programming - in process
 * Quantum Computing - done
 * Quantum Mechanics
 * Quran
@@ -630,7 +629,7 @@
 * WordPress
 * World - done
 * World War I
-* World War II
+* World War II - done
 * World Wide Web
 * Wrestling
 * Writing
