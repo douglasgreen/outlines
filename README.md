@@ -35,6 +35,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Computers](computers/computers.en.md)
 * [Computer Science](computers/computer_science.en.md)
 * [Databases](computers/databases.en.md)
+* [Mobile Computing](computers/mobile_computing.en.md)
 * [Networking](computers/networking.en.md)
 * [Programming](computers/programming.en.md)
 * [Software Architecture](computers/software_architecture.en.md)

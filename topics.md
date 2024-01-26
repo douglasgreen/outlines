@@ -403,7 +403,7 @@
 * Military Strategy
 * Miscellaneous
 * Mobile App Development
-* Mobile Computing - in process
+* Mobile Computing - done
 * Mobile Web Development
 * Money
 * Motorcycles
