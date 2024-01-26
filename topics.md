@@ -572,7 +572,7 @@
 * Tea
 * Technical Writing - done
 * Technological Singularity - done
-* Technology - in process
+* Technology - done
 * Television - done
 * Tennis Players
 * Tensor Calculus

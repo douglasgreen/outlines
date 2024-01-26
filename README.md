@@ -113,6 +113,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Psychology](science/psychology.en.md)
 * [Science](science/science.en.md)
 * [Space Exploration](science/space_exploration.en.md)
+* [Technology](science/technology.en.md)
 
 ### Biology
 
