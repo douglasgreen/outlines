@@ -343,7 +343,7 @@
 * Japanese Vocabulary
 * Java Programming
 * JavaScript - done
-* JavaScript Frameworks
+* JavaScript Frameworks - in process
 * JavaScript Programming
 * jQuery Programming
 * J. R. R. Tolkien's Lord of the Rings Series
@@ -403,7 +403,7 @@
 * Military Strategy
 * Miscellaneous
 * Mobile App Development
-* Mobile Computing
+* Mobile Computing - in process
 * Mobile Web Development
 * Money
 * Motorcycles
