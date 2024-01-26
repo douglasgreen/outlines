@@ -95,6 +95,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Software Testing
 * [Automated Testing](computers/software_testing/automated.en.md)
+* [Unit Testing](computers/software_testing/unit_testing.en.md)
 
 ### Web Development
 * [Apache Web Server](computers/web_development/apache.en.md)

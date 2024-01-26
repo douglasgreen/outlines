@@ -124,7 +124,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 1. **Classes**:
    - A class is a blueprint for creating objects. It defines a type by bundling data and methods that operate on that data.
    - In PHP, a class is defined using the `class` keyword followed by the class name.
-
    Example:
    ```php
    class Car {
@@ -135,7 +134,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 2. **Objects**:
    - An object is an instance of a class. When a class is defined, no memory is allocated until an object is created from the class.
    - An object of a class is created using the `new` keyword.
-
    Example:
    ```php
    $myCar = new Car();
@@ -145,7 +143,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 1. **Properties**:
    - Properties are variables that belong to a class. They represent the state or attributes of an object.
    - In PHP, properties are declared within a class with access modifiers like `public`, `private`, or `protected`.
-
    Example:
    ```php
    class Car {
@@ -156,7 +153,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 2. **Methods**:
    - Methods are functions defined inside a class. They define the behavior of an object.
    - A method in a class can access its own properties and other methods.
-
    Example:
    ```php
    class Car {
@@ -170,7 +166,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 1. **'new' Keyword**:
    - The `new` keyword is used to create an instance of a class (i.e., an object).
    - When you create an object, PHP allocates memory for it and returns a reference to it.
-
    Example:
    ```php
    $myCar = new Car();
@@ -180,7 +175,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
    - A constructor is a special method automatically called when an object is created.
    - It is commonly used to initialize properties of the class.
    - In PHP, a constructor is defined using the `__construct()` method.
-
    Example:
    ```php
    class Car {
@@ -201,7 +195,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" 
 
 2. **Object Context**:
    - When you use `$this` in a method, you're working in the context of the object. This means that `$this->property` will refer to the property of the current instance of the class.
-
    Example:
    ```php
    class Car {
@@ -278,7 +271,6 @@ These access modifiers are the primary tools for implementing encapsulation in P
 1. **Using Encapsulation in a Class**:
    - Define properties as private or protected.
    - Use public methods to provide access to those properties.
-
    Example:
    ```php
    class Product {
@@ -326,7 +318,6 @@ Inheritance is another cornerstone of Object-Oriented Programming (OOP), playing
 1. **Using the `extends` Keyword**:
    - In PHP, inheritance is implemented using the `extends` keyword.
    - A child class inherits all public and protected properties and methods from the parent class.
-
    Example:
    ```php
    class Vehicle {
@@ -350,7 +341,6 @@ Inheritance is another cornerstone of Object-Oriented Programming (OOP), playing
 
 2. **Implementation**:
    - Overridden methods in the child class will be used instead of those in the parent class.
-
    Example:
    ```php
    class Vehicle {
@@ -407,7 +397,6 @@ Polymorphism, another fundamental concept in Object-Oriented Programming (OOP), 
 2. **Method Overriding** (Dynamic Polymorphism):
    - Method overriding occurs when a subclass provides a specific implementation for a method that already exists in its parent class.
    - This allows the child class to modify or extend the behavior of the parent class methods.
-
    Example:
    ```php
    class Animal {
@@ -431,7 +420,6 @@ Polymorphism, another fundamental concept in Object-Oriented Programming (OOP), 
 2. **Abstract Methods**:
    - Abstract methods are declared in an abstract class, but they must be implemented in all subclasses.
    - These methods do not have a body in the abstract class; they only provide the method signature.
-
    Example:
    ```php
    abstract class Animal {
@@ -452,7 +440,6 @@ Polymorphism, another fundamental concept in Object-Oriented Programming (OOP), 
 
 2. **Usage**:
    - Interfaces are used to provide a common interface for different classes. They enhance polymorphism and ensure that certain methods are present in the classes that implement the interfaces.
-
    Example:
    ```php
    interface SoundMaker {
@@ -619,7 +606,6 @@ Exception handling is a crucial aspect of writing robust and error-resistant Obj
 
 3. **Finally Block** (optional):
    - The `finally` block always executes, regardless of whether an exception was thrown or caught. It's typically used for cleanup code.
-
    Example:
    ```php
    try {
@@ -639,7 +625,6 @@ Exception handling is a crucial aspect of writing robust and error-resistant Obj
 
 2. **Implementation**:
    - Custom exceptions allow you to add additional properties and methods to provide more information about the exception or to handle it in a specific way.
-
    Example:
    ```php
    class MyCustomException extends Exception {
@@ -695,7 +680,6 @@ Design patterns in Object-Oriented Programming (OOP) are reusable solutions to c
 2. **Implementation**:
    - Make the constructor private to prevent direct construction calls.
    - Create a static method that acts as a constructor.
-
    Example:
    ```php
    class Singleton {
@@ -722,7 +706,6 @@ Design patterns in Object-Oriented Programming (OOP) are reusable solutions to c
 2. **Implementation**:
    - Define an interface or abstract class for creating an object.
    - Let subclasses decide which class to instantiate.
-
    Example:
    ```php
    interface Product {
@@ -760,7 +743,6 @@ Design patterns in Object-Oriented Programming (OOP) are reusable solutions to c
 2. **Implementation**:
    - Define a family of algorithms as separate classes, all implementing a common interface.
    - The client class can then use different algorithms interchangeably.
-
    Example:
    ```php
    interface Strategy {
@@ -800,7 +782,6 @@ Design patterns in Object-Oriented Programming (OOP) are reusable solutions to c
 2. **Implementation**:
    - The subject class maintains a list of observers and provides methods to add or remove them.
    - Observers are notified of changes in the subject.
-
    Example:
    ```php
    interface Observer {
@@ -898,7 +879,6 @@ Namespaces in PHP are a language feature introduced in PHP 5.3. They are crucial
 
 4. **Importing and Aliasing Functions and Constants**:
    - Similar to classes, functions and constants from other namespaces can be imported and aliased using the `use function` and `use const` syntax.
-
    Example:
    ```php
    use function MyProject\myFunction;
@@ -974,7 +954,6 @@ Namespaces in PHP are a versatile feature that can be used to structure and orga
 2. **Declaration and Access**:
    - Sub-namespaces are declared using a backslash (`\`) within the namespace declaration.
    - To access a class within a sub-namespace, you need to either use its fully qualified name or import it with the `use` keyword.
-
    Example:
    ```php
    namespace MyProject\Database;
