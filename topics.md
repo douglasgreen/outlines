@@ -195,7 +195,7 @@
 * Electromagnetics
 * Electron Software Framework
 * Email
-* Energy - in process
+* Energy - done
 * English Grammar - done
 * English Literature
 * English Vocabulary
@@ -435,7 +435,7 @@
 * Nuclear War
 * Number Theory
 * Nutrition
-* Object-Oriented Programming and Namespaces in PHP - in process
+* Object-Oriented Programming and Namespaces in PHP - done
 * Object-Oriented Programming - done
 * Object-Oriented Programming in JavaScript
 * Object-Oriented Programming in Python
@@ -536,12 +536,12 @@
 * Socialism and Communism
 * Social Issues/Inequality
 * Social Media
-* Society - in process
+* Society - done
 * Sociology - done
 * Software Architecture - done
 * Software Compilers
 * Software Debugging
-* Software Design - in process
+* Software Design - done
 * Software Development
 * Software Development Methodologies
 * Software Engineering - done
