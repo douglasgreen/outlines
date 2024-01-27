@@ -25,7 +25,6 @@ Science fiction as a distinct literary genre began to take shape in the late 19t
 
 **Conclusion:**
 The birth of science fiction was a gradual process, influenced by advancements in science and technology, as well as shifts in social and philosophical thought. Early works by authors like Mary Shelley, Jules Verne, and H.G. Wells not only defined the genre but also set a foundation for the exploration of themes that continue to resonate in science fiction today. This chapter aims to provide a comprehensive understanding of how these elements came together to give birth to a genre that continues to captivate the imagination of readers and viewers alike.
-Explain The Birth of Science Fiction, while exploring early science fiction works, influences, and defining the genre.
 
 ## Golden Age of Sci-Fi in Science Fiction
 
