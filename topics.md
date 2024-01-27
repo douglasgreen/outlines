@@ -346,7 +346,7 @@
 * Japanese Vocabulary
 * Java Programming
 * JavaScript - done
-* JavaScript Frameworks - in process
+* JavaScript Frameworks - done
 * JavaScript Programming
 * jQuery Programming
 * J. R. R. Tolkien's Lord of the Rings Series
