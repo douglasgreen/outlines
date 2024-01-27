@@ -156,6 +156,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Technological Singularity](science/technology/technological_singularity.en.md)
 
 ## Society
+* [Communication](society/communication.en.md)
 * [Economics](society/economics.en.md)
 * [Education](society/education.en.md)
 * [Law](society/law.en.md)

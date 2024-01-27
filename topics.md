@@ -108,7 +108,7 @@
 * Comic Strip Authors
 * Comic Strips
 * Commodities Market
-* Communication - in process
+* Communication - done
 * Complex Analysis
 * Composer for PHP
 * Composers and Compositions
@@ -232,6 +232,7 @@
 * Florida Geography
 * Flowers
 * Food & Drink - heading
+* Food Safety
 * France
 * French Grammar - done
 * French Vocabulary - done
