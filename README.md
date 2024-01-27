@@ -229,6 +229,7 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Games
 * [Chess](society/recreation/games/chess.en.md)
 * [History of Video Games](society/recreation/games/history_of_video_games.en.md)
+* [Role-Playing Games](society/recreation/games/role_playing_games.en.md)
 
 ### Religion
 
