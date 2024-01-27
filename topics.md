@@ -170,7 +170,7 @@
 * Diets
 * Differential Equations
 * Digital Photography
-* Dinosaurs
+* Dinosaurs - in process
 * Discrete Mathematics - done
 * Diseases - heading
 * Docker
@@ -523,6 +523,7 @@
 * Sculpture
 * Search Engine Optimization (SEO)
 * Search Engines - done
+* Secret Agents and Spycraft
 * Set Theory
 * Sherlock Holmes
 * Shopping
