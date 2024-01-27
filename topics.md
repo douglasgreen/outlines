@@ -170,7 +170,7 @@
 * Diets
 * Differential Equations
 * Digital Photography
-* Dinosaurs - in process
+* Dinosaurs - done
 * Discrete Mathematics - done
 * Diseases - heading
 * Docker
@@ -312,6 +312,7 @@
 * Human Rights
 * Hypertext Markup Language (HTML) - done
 * Hypertext Transfer Protocol (HTTP) - done
+* Illegal Drugs
 * India - done
 * Indian Food
 * Industrial Revolution
@@ -437,6 +438,7 @@
 * Object-Oriented Programming - done
 * Object-Oriented Programming in JavaScript
 * Object-Oriented Programming in Python
+* Oceanic Life
 * Oceans
 * Online Learning
 * Ontological Engineering
