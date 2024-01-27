@@ -78,6 +78,7 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Languages
 * [JavaScript](computers/programming/languages/javascript.en.md)
 * [PHP](computers/programming/languages/php.en.md)
+* [Python](computers/programming/languages/python.en.md)
 
 ##### JavaScript
 * [Frameworks](computers/programming/languages/javascript/frameworks.en.md)

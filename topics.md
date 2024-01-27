@@ -488,7 +488,7 @@
 * Prolog Programming
 * Psychology - done
 * Psychology of Software Development
-* Python Programming - in process
+* Python Programming - done
 * Quantum Computing - done
 * Quantum Mechanics
 * Quran
