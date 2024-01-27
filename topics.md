@@ -356,7 +356,7 @@
 * Kubernetes
 * Labor
 * Lakes
-* Language - in process
+* Language - done
 * Large Language Models (LLMs)
 * Latin Grammar - done
 * Latin Vocabulary - done

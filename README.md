@@ -159,6 +159,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Communication](society/communication.en.md)
 * [Economics](society/economics.en.md)
 * [Education](society/education.en.md)
+* [Language](society/language.en.md)
 * [Law](society/law.en.md)
 * [Philosophy](society/philosophy.en.md)
 * [Politics](society/politics.en.md)
