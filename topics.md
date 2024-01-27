@@ -180,7 +180,7 @@
 * Domain-Driven Design
 * Drawing
 * Driving Safety
-* Drones (Unmanned Aerial Vehicles)
+* Drones (Unmanned Aerial Vehicles) - in process
 * Dungeons and Dragons
 * Eastern Philosophy
 * E-Commerce
