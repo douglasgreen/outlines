@@ -154,12 +154,16 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Problem Solving](science/psychology/problem_solving.en.md)
 
 ### Technology
-* [Automobiles](science/technology/automobiles.en.md)
-* [Aviation](science/technology/aviation.en.md)
-* [Drones](science/technology/drones.en.md)
 * [Energy](science/technology/energy.en.md)
 * [History of Invention](science/technology/history_of_invention.en.md)
 * [Technological Singularity](science/technology/singularity.en.md)
+
+#### Transportation
+* [Automobiles](science/technology/transportation/automobiles.en.md)
+* [Aviation](science/technology/transportation/aviation.en.md)
+
+##### Aviation
+* [Drones](science/technology/transportation/aviation/drones.en.md)
 
 ## Society
 * [Communication](society/communication.en.md)
