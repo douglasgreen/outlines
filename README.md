@@ -132,7 +132,7 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Mathematics
 * [Algebra](science/mathematics/algebra.en.md)
 * [Calculus](science/mathematics/calculus.en.md)
-* [Discrete Mathematics](science/mathematics/discrete_mathematics.en.md)
+* [Discrete Mathematics](science/mathematics/discrete.en.md)
 * [Game Theory](science/mathematics/game_theory.en.md)
 * [Geometry](science/mathematics/geometry.en.md)
 * [Graph Theory](science/mathematics/graph_theory.en.md)
