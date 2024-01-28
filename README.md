@@ -177,6 +177,16 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Religion](society/religion.en.md)
 * [Society](society/society.en.md)
 * [Sociology](society/sociology.en.md)
+* [Sports](society/sports.en.md)
+
+### Food
+* [Chocolate](society/food/chocolate.en.md)
+* [Wine](society/food/wine.en.md)
+
+### Games
+* [Chess](society/games/chess.en.md)
+* [History of Video Games](society/games/history_of_video_games.en.md)
+* [Role-Playing Games](society/games/role_playing_games.en.md)
 
 ### History
 * [Ancient Greece](society/history/ancient_greece.en.md)
@@ -188,36 +198,30 @@ Outlines written by ChatGPT-4 on various subjects.
 * [World War II](society/history/wars/world_war_ii.en.md)
 
 ### Languages
+* [Classical Greek](society/languages/classical_greek.en.md)
 * [Constructed Language](society/languages/constructed.en.md)
+* [English Grammar](society/languages/english.en.md)
+* [Esperanto Grammar](society/languages/esperanto.en.md)
+* [French Grammar](society/languages/french.en.md)
+* [German Grammar](society/languages/german.en.md)
+* [Italian Grammar](society/languages/italian.en.md)
+* [Latin Grammar](society/languages/latin.en.md)
 * [Linguistics](society/languages/linguistics.en.md)
-
-#### English
-* [English Grammar](society/languages/english/grammar.en.md)
+* [Spanish Grammar](society/languages/spanish.en.md)
 
 #### Esperanto
-* [Esperanto Grammar](society/languages/esperanto/grammar.en.md)
 * [Esperanto Vocabulary](society/languages/esperanto/vocabulary.en.md)
 
 #### French
-* [French Grammar](society/languages/french/grammar.en.md)
 * [French Vocabulary](society/languages/french/vocabulary.en.md)
 
 #### German
-* [German Grammar](society/languages/german/grammar.en.md)
 * [German Vocabulary](society/languages/german/vocabulary.en.md)
 
-#### Greek
-* [Classical Greek](society/languages/greek/classical.en.md)
-
-#### Italian
-* [Italian Grammar](society/languages/italian/grammar.en.md)
-
 #### Latin
-* [Latin Grammar](society/languages/latin/grammar.en.md)
 * [Latin Vocabulary](society/languages/latin/vocabulary.en.md)
 
 #### Spanish
-* [Spanish Grammar](society/languages/spanish/grammar.en.md)
 * [Spanish Vocabulary](society/languages/spanish/vocabulary.en.md)
 
 ### Law
@@ -231,18 +235,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Logic](society/philosophy/logic.en.md)
 * [Ontology](society/philosophy/ontology.en.md)
 * [Paradoxes](society/philosophy/paradoxes.en.md)
-
-### Recreation
-* [Sports](society/recreation/sports.en.md)
-
-#### Food
-* [Chocolate](society/recreation/food/chocolate.en.md)
-* [Wine](society/recreation/food/wine.en.md)
-
-#### Games
-* [Chess](society/recreation/games/chess.en.md)
-* [History of Video Games](society/recreation/games/history_of_video_games.en.md)
-* [Role-Playing Games](society/recreation/games/role_playing_games.en.md)
 
 ### Religion
 

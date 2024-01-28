@@ -500,7 +500,6 @@
 * Quran
 * Reading
 * Real Estate
-* Recreation - heading
 * Refactoring
 * Regions of the World - heading
 * Regression Analysis
