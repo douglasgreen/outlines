@@ -213,7 +213,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [World War II](society/history/wars/world_war_ii.en.md)
 
 ### Law
- * [Constitution](society/law/constitution.en.md)
+* [Constitution](society/law/constitution.en.md)
 
 #### Crime
 * [Piracy](society/law/crime/piracy.en.md)
