@@ -188,7 +188,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Role-Playing Games](society/games/rpgs.en.md)
 
 #### Video Games
-* [History of Video Games](society/games/video_games/history.en.md)
+* [History of Video Games](society/games/video/history.en.md)
 
 ### History
 * [Ancient Greece](society/history/ancient_greece.en.md)
