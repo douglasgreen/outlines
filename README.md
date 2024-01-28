@@ -129,6 +129,10 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Bats](science/biology/animals/bats.en.md)
 * [Dinosaurs](science/biology/animals/dinosaurs.en.md)
 
+### Environment
+* [Climate Change](science/environment/climate_change.en.md)
+* [Weather](science/environment/weather.en.md)
+
 ### Mathematics
 * [Algebra](science/mathematics/algebra.en.md)
 * [Calculus](science/mathematics/calculus.en.md)
@@ -144,10 +148,6 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Diseases
 * [COVID-19](science/medicine/diseases/covid-19.en.md)
-
-### Meteorology
-* [Climate Change](science/meteorology/climate_change.en.md)
-* [Weather](science/meteorology/weather.en.md)
 
 ### Psychology
 * [Decision Making](science/psychology/decision_making.en.md)
