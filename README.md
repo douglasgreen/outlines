@@ -185,7 +185,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [History of the World](society/history/world.en.md)
 
 #### War
-* [World War II](society/history/war/world_war_ii.en.md)
+* [World War II](society/history/wars/world_war_ii.en.md)
 
 ### Language
 * [Constructed Language](society/language/constructed.en.md)
