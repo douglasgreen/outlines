@@ -81,6 +81,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [JavaScript](computers/programming/languages/javascript.en.md)
 * [PHP](computers/programming/languages/php.en.md)
 * [Python](computers/programming/languages/python.en.md)
+* [Extensible Markup Language (XML)](computers/programming/languages/xml.en.md)
 
 ##### JavaScript
 * [Frameworks](computers/programming/languages/javascript/frameworks.en.md)
@@ -105,10 +106,9 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Web Development
 * [Apache Web Server](computers/web_development/apache.en.md)
-* [Cascading Style Sheets](computers/web_development/css.en.md)
-* [Extensible Markup Language](computers/web_development/xml.en.md)
-* [Hypertext Markup Language](computers/web_development/html.en.md)
-* [Hypertext Transfer Protocol](computers/web_development/http.en.md)
+* [Cascading Style Sheets (CSS)](computers/web_development/css.en.md)
+* [Hypertext Markup Language (HTML)](computers/web_development/html.en.md)
+* [Hypertext Transfer Protocol (HTTP)](computers/web_development/http.en.md)
 * [Symfony](computers/web_development/symfony.en.md)
 * [WebPack](computers/web_development/webpack.en.md)
 
