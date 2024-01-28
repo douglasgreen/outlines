@@ -153,7 +153,7 @@
 * Data Compression
 * Data Engineering
 * Data Science
-* Data Structures
+* Data Structures - in process
 * Data Visualization
 * Data Warehousing
 * Debugging
@@ -235,7 +235,7 @@
 * Flowers
 * Food & Drink - heading
 * Food Safety
-* Formal Languages - in process
+* Formal Language - in process
 * France
 * French Grammar - done
 * French Vocabulary - done
