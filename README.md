@@ -250,12 +250,12 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Europe](world/europe.en.md)
 * [World](world/world.en.md)
 
-### Countries
-* [China](world/countries/china.en.md)
-* [India](world/countries/india.en.md)
-* [United States](world/countries/united_states.en.md) ([Esperanto](world/countries/united_states.eo.md))
+### Asia
+* [China](world/asia/china.en.md)
+* [India](world/asia/india.en.md)
+
+### North America
+* [United States](world/north_america/united_states.en.md) ([Esperanto](world/north_america/united_states.eo.md))
 
 #### United States
-
-##### States
-* [Florida](world/countries/united_states/states/florida.en.md)
+* [Florida](world/north_america/united_states/florida.en.md)

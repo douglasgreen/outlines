@@ -16,7 +16,7 @@
 * Ancient Greece - done
 * Ancient Rome - done
 * Android Operating System
-* Animals - heading
+* Animals - in process
 * Animated Movies
 * Anime - done
 * Anthropology
@@ -30,7 +30,7 @@
 * Architecture - done
 * Artificial Intelligence - done
 * Arts - done
-* Asia
+* Asia - in process
 * Astronomy - done
 * Australia
 * Authors and Novels
@@ -88,7 +88,7 @@
 * Chinese Grammar
 * Chinese Vocabulary
 * Chocolate - done
-* Christianity - heading
+* Christianity - in process
 * Cities
 * Cities of the World
 * Civil War
@@ -134,7 +134,6 @@
 * Cooking
 * Corporations
 * Cosmology
-* Countries of the World - heading
 * COVID-19 - done
 * C Programming
 * C++ Programming
@@ -435,7 +434,7 @@
 * New Zealand
 * Node.js and Node Package Manager (NPM)
 * Norse Mythology
-* North America
+* North America - in process
 * NoSQL
 * Nuclear Technology
 * Nuclear War
