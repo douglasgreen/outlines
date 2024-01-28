@@ -164,10 +164,37 @@ Outlines written by ChatGPT-4 on various subjects.
 ##### Aviation
 * [Drones](science/technology/transportation/aviation/drones.en.md)
 
+## Languages
+* [Classical Greek](languages/classical_greek.en.md)
+* [Constructed Language](languages/constructed.en.md)
+* [English Grammar](languages/english.en.md)
+* [Esperanto Grammar](languages/esperanto.en.md)
+* [French Grammar](languages/french.en.md)
+* [German Grammar](languages/german.en.md)
+* [Italian Grammar](languages/italian.en.md)
+* [Latin Grammar](languages/latin.en.md)
+* [Languages](languages/languages.en.md)
+* [Linguistics](languages/linguistics.en.md)
+* [Spanish Grammar](languages/spanish.en.md)
+
+#### Esperanto
+* [Esperanto Vocabulary](languages/esperanto/vocabulary.en.md)
+
+#### French
+* [French Vocabulary](languages/french/vocabulary.en.md)
+
+#### German
+* [German Vocabulary](languages/german/vocabulary.en.md)
+
+#### Latin
+* [Latin Vocabulary](languages/latin/vocabulary.en.md)
+
+#### Spanish
+* [Spanish Vocabulary](languages/spanish/vocabulary.en.md)
+
 ## Society
 * [Communication](society/communication.en.md)
 * [Education](society/education.en.md)
-* [Languages](society/languages.en.md)
 * [Law](society/law.en.md)
 * [Mythology](society/mythology.en.md)
 * [Philosophy](society/philosophy.en.md)
@@ -196,33 +223,6 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Wars
 * [World War II](society/history/wars/world_war_ii.en.md)
-
-### Languages
-* [Classical Greek](society/languages/classical_greek.en.md)
-* [Constructed Language](society/languages/constructed.en.md)
-* [English Grammar](society/languages/english.en.md)
-* [Esperanto Grammar](society/languages/esperanto.en.md)
-* [French Grammar](society/languages/french.en.md)
-* [German Grammar](society/languages/german.en.md)
-* [Italian Grammar](society/languages/italian.en.md)
-* [Latin Grammar](society/languages/latin.en.md)
-* [Linguistics](society/languages/linguistics.en.md)
-* [Spanish Grammar](society/languages/spanish.en.md)
-
-#### Esperanto
-* [Esperanto Vocabulary](society/languages/esperanto/vocabulary.en.md)
-
-#### French
-* [French Vocabulary](society/languages/french/vocabulary.en.md)
-
-#### German
-* [German Vocabulary](society/languages/german/vocabulary.en.md)
-
-#### Latin
-* [Latin Vocabulary](society/languages/latin/vocabulary.en.md)
-
-#### Spanish
-* [Spanish Vocabulary](society/languages/spanish/vocabulary.en.md)
 
 ### Law
  * [Constitution](society/law/constitution.en.md)
