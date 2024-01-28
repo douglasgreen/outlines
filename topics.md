@@ -618,7 +618,7 @@
 * Virtual Reality/Augmented Reality
 * Vue.js
 * War in Afghanistan
-* Wars - heading
+* Wars - in process
 * Weather - done
 * Web Accessibility
 * Web Analytics
