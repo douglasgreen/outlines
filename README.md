@@ -246,6 +246,8 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Drones](technology/transportation/aviation/drones.en.md)
 
 ## World
+* [Africa](world/africa.en.md)
+* [Europe](world/europe.en.md)
 * [World](world/world.en.md)
 
 ### Countries
@@ -257,7 +259,3 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ##### States
 * [Florida](world/countries/united_states/states/florida.en.md)
-
-### Regions
-* [Africa](world/regions/africa.en.md)
-* [Europe](world/regions/europe.en.md)

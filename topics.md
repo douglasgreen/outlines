@@ -501,7 +501,6 @@
 * Reading
 * Real Estate
 * Refactoring
-* Regions of the World - heading
 * Regression Analysis
 * Regular Expressions
 * Relationships
