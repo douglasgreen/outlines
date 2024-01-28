@@ -619,7 +619,7 @@
 * Virtualization - done
 * Virtual Reality/Augmented Reality
 * Vue.js
-* War - heading
+* Wars - heading
 * War in Afghanistan
 * Weather - done
 * Web Accessibility
