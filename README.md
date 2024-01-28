@@ -73,7 +73,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Languages](computers/programming/languages.en.md)
 * [Software Design](computers/programming/software_design.en.md)
 * [Software Testing](computers/programming/software_testing.en.md)
-* [Unified Modeling Language](computers/programming/uml.en.md)
 
 #### Languages
 * [JavaScript](computers/programming/languages/javascript.en.md)
@@ -91,6 +90,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Design Patterns](computers/programming/software_design/design_patterns.en.md)
 * [Object-Oriented Programming (OOP)](computers/programming/software_design/oop.en.md)
 * [Paradigms](computers/programming/software_design/paradigms.en.md)
+* [Unified Modeling Language (UML)](computers/programming/software_design/uml.en.md)
 
 #### Software Testing
 * [Automated Testing](computers/programming/software_testing/automated.en.md)
