@@ -25,6 +25,7 @@
 * Apocryphal Literature
 * Apple macOS
 * Arachnids
+* Archaeology
 * Architectural Patterns
 * Architecture - done
 * Artificial Intelligence - done
@@ -180,7 +181,7 @@
 * Domain-Driven Design
 * Drawing
 * Driving Safety
-* Drones (Unmanned Aerial Vehicles) - in process
+* Drones - done
 * Dungeons and Dragons
 * Eastern Philosophy
 * E-Commerce
@@ -213,6 +214,7 @@
 * Evolution
 * Exercise
 * Extensible Markup Language (XML) - done
+* Extraterrestrial Life
 * Famous Artists
 * Famous Authors
 * Famous Bands
@@ -231,9 +233,9 @@
 * Florida - done
 * Florida Geography
 * Flowers
-* Formal Languages
 * Food & Drink - heading
 * Food Safety
+* Formal Languages - in process
 * France
 * French Grammar - done
 * French Vocabulary - done
