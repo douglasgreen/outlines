@@ -450,7 +450,7 @@
 * Ontological Engineering
 * Ontology - done
 * Open Source
-* Operating Systems - heading
+* Operating Systems - in process
 * Operations Research
 * Optics
 * Painters and Paintings
