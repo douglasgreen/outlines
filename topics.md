@@ -599,7 +599,7 @@
 * Time Management
 * Time Series
 * Topology
-* Transport
+* Transportation - heading
 * Travel
 * Travel & Tourism
 * Trees and Shrubs
@@ -620,6 +620,7 @@
 * Virtualization - done
 * Virtual Reality/Augmented Reality
 * Vue.js
+* War - heading
 * War in Afghanistan
 * Weather - done
 * Web Accessibility

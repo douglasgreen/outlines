@@ -183,7 +183,9 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Ancient Rome](society/history/ancient_rome.en.md)
 * [History of the Middle East](society/history/middle_east.en.md)
 * [History of the World](society/history/world.en.md)
-* [World War II](society/history/world_war_ii.en.md)
+
+#### War
+* [World War II](society/history/war/world_war_ii.en.md)
 
 ### Language
 * [Constructed Language](society/language/constructed.en.md)
