@@ -53,11 +53,6 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Databases
 * [MySQL](computers/databases/mysql.en.md)
 
-### Internet
-* [Internet Security](computers/internet/security.en.md)
-* [Search Engines](computers/internet/search_engines.en.md)
-* [Web Browsers](computers/internet/web_browsers.en.md)
-
 ### Operating Systems
 * [Linux](computers/operating_systems/linux.en.md)
 * [Virtualization](computers/operating_systems/virtualization.en.md)
@@ -65,6 +60,13 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Linux
 * [Linux Commands](computers/operating_systems/linux/commands.en.md)
+
+### Networking
+
+#### Internet
+* [Internet Security](computers/networking/internet/security.en.md)
+* [Search Engines](computers/networking/internet/search_engines.en.md)
+* [Web Browsers](computers/networking/internet/web_browsers.en.md)
 
 ### Programming
 * [Code Reviews](computers/programming/code_reviews.en.md)
