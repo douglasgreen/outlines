@@ -260,7 +260,7 @@
 * German Grammar - done
 * German Vocabulary - done
 * Germany
-* Git
+* Git - done
 * GitLab
 * Golf
 * Golf Players
@@ -613,7 +613,6 @@
 * User Experience (UX) Design
 * Vagrant
 * Vectors
-* Version Control - done
 * Video Games - heading
 * Vietnam War
 * Vim - done

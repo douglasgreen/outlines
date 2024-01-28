@@ -98,10 +98,8 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Unit Testing](computers/programming/software_testing/unit_testing.en.md)
 
 ### Software
+* [Git](computers/software/git.en.md)
 * [Vim](computers/software/vim.en.md)
-
-#### Version Control
-* [Version Control](computers/software/version_control/git.en.md)
 
 ### Web Development
 * [Apache Web Server](computers/web_development/apache.en.md)
