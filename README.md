@@ -116,6 +116,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Astronomoy](science/astronomy.en.md)
 * [Biology](science/biology.en.md)
 * [Chemistry](science/chemistry.en.md)
+* [Health](science/health.en.md)
 * [Mathematics](science/mathematics.en.md)
 * [Physics](science/physics.en.md)
 * [Psychology](science/psychology.en.md)
@@ -144,7 +145,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Statistics](science/mathematics/statistics.en.md)
 
 ### Medicine
-* [Health](science/medicine/health.en.md)
 
 #### Diseases
 * [COVID-19](science/medicine/diseases/covid-19.en.md)
