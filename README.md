@@ -110,6 +110,34 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Symfony](computers/web_development/symfony.en.md)
 * [WebPack](computers/web_development/webpack.en.md)
 
+## Languages
+* [Classical Greek](languages/classical_greek.en.md)
+* [Constructed Language](languages/constructed.en.md)
+* [English Grammar](languages/english.en.md)
+* [Esperanto Grammar](languages/esperanto.en.md)
+* [French Grammar](languages/french.en.md)
+* [German Grammar](languages/german.en.md)
+* [Italian Grammar](languages/italian.en.md)
+* [Latin Grammar](languages/latin.en.md)
+* [Languages](languages/languages.en.md)
+* [Linguistics](languages/linguistics.en.md)
+* [Spanish Grammar](languages/spanish.en.md)
+
+#### Esperanto
+* [Esperanto Vocabulary](languages/esperanto/vocabulary.en.md)
+
+#### French
+* [French Vocabulary](languages/french/vocabulary.en.md)
+
+#### German
+* [German Vocabulary](languages/german/vocabulary.en.md)
+
+#### Latin
+* [Latin Vocabulary](languages/latin/vocabulary.en.md)
+
+#### Spanish
+* [Spanish Vocabulary](languages/spanish/vocabulary.en.md)
+
 ## Science
 * [Anatomy and Physiology](science/anatomy.en.md)
 * [Astronomoy](science/astronomy.en.md)
@@ -121,7 +149,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Psychology](science/psychology.en.md)
 * [Science](science/science.en.md)
 * [Space Exploration](science/space_exploration.en.md)
-* [Technology](science/technology.en.md)
 
 ### Biology
 
@@ -151,46 +178,6 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Psychology
 * [Decision Making](science/psychology/decision_making.en.md)
 * [Problem Solving](science/psychology/problem_solving.en.md)
-
-### Technology
-* [Energy](science/technology/energy.en.md)
-* [History of Invention](science/technology/history_of_invention.en.md)
-* [Technological Singularity](science/technology/singularity.en.md)
-
-#### Transportation
-* [Automobiles](science/technology/transportation/automobiles.en.md)
-* [Aviation](science/technology/transportation/aviation.en.md)
-
-##### Aviation
-* [Drones](science/technology/transportation/aviation/drones.en.md)
-
-## Languages
-* [Classical Greek](languages/classical_greek.en.md)
-* [Constructed Language](languages/constructed.en.md)
-* [English Grammar](languages/english.en.md)
-* [Esperanto Grammar](languages/esperanto.en.md)
-* [French Grammar](languages/french.en.md)
-* [German Grammar](languages/german.en.md)
-* [Italian Grammar](languages/italian.en.md)
-* [Latin Grammar](languages/latin.en.md)
-* [Languages](languages/languages.en.md)
-* [Linguistics](languages/linguistics.en.md)
-* [Spanish Grammar](languages/spanish.en.md)
-
-#### Esperanto
-* [Esperanto Vocabulary](languages/esperanto/vocabulary.en.md)
-
-#### French
-* [French Vocabulary](languages/french/vocabulary.en.md)
-
-#### German
-* [German Vocabulary](languages/german/vocabulary.en.md)
-
-#### Latin
-* [Latin Vocabulary](languages/latin/vocabulary.en.md)
-
-#### Spanish
-* [Spanish Vocabulary](languages/spanish/vocabulary.en.md)
 
 ## Society
 * [Communication](society/communication.en.md)
@@ -244,6 +231,19 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ##### Bible
 * [New Testament](society/religion/christianity/bible/new_testament.en.md)
+
+## Technology
+* [Energy](technology/energy.en.md)
+* [History of Invention](technology/history_of_invention.en.md)
+* [Technological Singularity](technology/singularity.en.md)
+* [Technology](technology/technology.en.md)
+
+### Transportation
+* [Automobiles](technology/transportation/automobiles.en.md)
+* [Aviation](technology/transportation/aviation.en.md)
+
+#### Aviation
+* [Drones](technology/transportation/aviation/drones.en.md)
 
 ## World
 * [World](world/world.en.md)
