@@ -564,7 +564,7 @@
 * Sports - done
 * Star Trek
 * Star Wars
-* States of the United States - heading
+* States of the United States
 * Statistics - done
 * Stock Market
 * Stoicism
