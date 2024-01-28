@@ -234,7 +234,7 @@
 * Florida - done
 * Florida Geography
 * Flowers
-* Food & Drink - heading
+* Food & Drink - in process
 * Food Safety
 * Formal Language - done
 * France
@@ -246,7 +246,7 @@
 * Functional Programming in Python
 * Future of Technology
 * Game of Thrones TV Series
-* Games - heading
+* Games - in process
 * Game Theory - done
 * Gardening
 * Gender
@@ -276,7 +276,6 @@
 * Herbs
 * Hinduism
 * Historic Battles
-* History - heading
 * History of Africa
 * History of Ancient Greece
 * History of Ancient Rome
@@ -302,6 +301,7 @@
 * History of the Middle East - done
 * History of the United Kingdom
 * History of the United States
+* History of the World - done
 * History of the World - done
 * History of Video Games - done
 * History of War
@@ -333,7 +333,7 @@
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
 * Intelligence
-* Internet - heading
+* Internet - in process
 * Internet of Things
 * Internet Security - done
 * Inventors and Inventions
@@ -378,14 +378,14 @@
 * Linux - done
 * Linux Shell
 * Lisp Programming
-* Literature - heading
+* Literature - in process
 * Logical Fallacies
 * Logic - done
 * Lord of the Rings Movies
 * Machine Learning - done
 * Machine Learning in Python
 * Making a Constructed Language
-* Management - heading
+* Management - in process
 * Manufacturing
 * Marketing
 * Martial Arts
@@ -617,8 +617,8 @@
 * Virtualization - done
 * Virtual Reality/Augmented Reality
 * Vue.js
-* Wars - heading
 * War in Afghanistan
+* Wars - heading
 * Weather - done
 * Web Accessibility
 * Web Analytics
