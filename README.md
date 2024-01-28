@@ -159,7 +159,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Drones](science/technology/drones.en.md)
 * [Energy](science/technology/energy.en.md)
 * [History of Invention](science/technology/history_of_invention.en.md)
-* [Technological Singularity](science/technology/technological_singularity.en.md)
+* [Technological Singularity](science/technology/singularity.en.md)
 
 ## Society
 * [Communication](society/communication.en.md)
