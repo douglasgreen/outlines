@@ -91,6 +91,7 @@
 * Christianity - heading
 * Cities
 * Cities of the World
+* Civil War
 * Classical Greek Grammar - done
 * Clean Code
 * Climate Change - done
@@ -127,6 +128,7 @@
 * Computer Software
 * Concurrent Programming
 * Conservation/Biodiversity
+* Constitution - done
 * Constructed Language - done
 * Content Management Systems (CMSs)
 * Cooking
@@ -263,6 +265,7 @@
 * Golf
 * Golf Players
 * Go Programming
+* Government
 * Graph Theory - done
 * Greek Grammar
 * Greek Mythology
@@ -439,9 +442,9 @@
 * Number Theory
 * Nutrition
 * Object-Oriented Programming and Namespaces in PHP - done
-* Object-Oriented Programming (OOP) - done
 * Object-Oriented Programming in JavaScript
 * Object-Oriented Programming in Python
+* Object-Oriented Programming (OOP) - done
 * Oceanic Life
 * Oceans
 * Online Learning
@@ -481,6 +484,7 @@
 * Popular Bands
 * Positive Psychology
 * Precious Metals
+* Presidents
 * Probability - done
 * Problem Solving - done
 * Professional Wrestlers
@@ -585,7 +589,6 @@
 * Tensor Calculus
 * Terminator Movies
 * Test-Driven Development
-* Text Editors - heading
 * Theater
 * The Matrix Movies
 * Theology
@@ -604,11 +607,7 @@
 * Typescript
 * Unified Modeling Language (UML) - needs diagrams
 * United Nations
-* United States Civil War
-* United States Constitution - done
 * United States - done
-* United States Government
-* United States Presidents
 * Unit Testing - done
 * Urban Planning
 * Usability
