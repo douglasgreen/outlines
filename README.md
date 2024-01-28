@@ -71,7 +71,6 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Programming
 * [Code Reviews](computers/programming/code_reviews.en.md)
 * [Languages](computers/programming/languages.en.md)
-* [Object-Oriented Programming](computers/programming/oop.en.md)
 * [Paradigms](computers/programming/paradigms.en.md)
 * [Software Design](computers/programming/software_design.en.md)
 * [Software Testing](computers/programming/software_testing.en.md)
@@ -91,6 +90,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Software Design
 * [Design Patterns](computers/programming/software_design/design_patterns.en.md)
+* [Object-Oriented Programming (OOP)](computers/programming/software_design/oop.en.md)
 
 #### Software Testing
 * [Automated Testing](computers/programming/software_testing/automated.en.md)
