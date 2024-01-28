@@ -168,6 +168,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Education](society/education.en.md)
 * [Language](society/language.en.md)
 * [Law](society/law.en.md)
+* [Mythology](society/mythology.en.md)
 * [Philosophy](society/philosophy.en.md)
 * [Politics](society/politics.en.md)
 * [Religion](society/religion.en.md)
@@ -219,9 +220,6 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Crime
 * [Piracy](society/law/crime/piracy.en.md)
-
-### Myths
-* [Mythology](society/myths/mythology.en.md)
 
 ### Philosophy
 * [Ethics](society/philosophy/ethics.en.md)
