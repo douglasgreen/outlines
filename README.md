@@ -140,6 +140,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Science
 * [Anatomy and Physiology](science/anatomy.en.md)
+* [Animals](science/biology/animals.en.md)
 * [Astronomoy](science/astronomy.en.md)
 * [Biology](science/biology.en.md)
 * [Chemistry](science/chemistry.en.md)

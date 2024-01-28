@@ -16,7 +16,7 @@
 * Ancient Greece - done
 * Ancient Rome - done
 * Android Operating System
-* Animals - in process
+* Animals - done
 * Animated Movies
 * Anime - done
 * Anthropology
@@ -141,6 +141,7 @@
 * Critical Thinking
 * Crocodilians
 * Cryptography - done
+* Cryptozoology
 * C. S. Lewis's Chronicles of Narnia Series
 * Cultural Studies
 * Curriculum Development
