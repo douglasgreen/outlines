@@ -129,15 +129,15 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Bats](science/biology/animals/bats.en.md)
 * [Dinosaurs](science/biology/animals/dinosaurs.en.md)
 
-### Math
-* [Algebra](science/math/algebra.en.md)
-* [Calculus](science/math/calculus.en.md)
-* [Discrete Mathematics](science/math/discrete_mathematics.en.md)
-* [Game Theory](science/math/game_theory.en.md)
-* [Geometry](science/math/geometry.en.md)
-* [Graph Theory](science/math/graph_theory.en.md)
-* [Probability](science/math/probability.en.md)
-* [Statistics](science/math/statistics.en.md)
+### Mathematics
+* [Algebra](science/mathematics/algebra.en.md)
+* [Calculus](science/mathematics/calculus.en.md)
+* [Discrete Mathematics](science/mathematics/discrete_mathematics.en.md)
+* [Game Theory](science/mathematics/game_theory.en.md)
+* [Geometry](science/mathematics/geometry.en.md)
+* [Graph Theory](science/mathematics/graph_theory.en.md)
+* [Probability](science/mathematics/probability.en.md)
+* [Statistics](science/mathematics/statistics.en.md)
 
 ### Medicine
 * [Health](science/medicine/health.en.md)
