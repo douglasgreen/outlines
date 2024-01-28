@@ -31,7 +31,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Software Project Management](business/management/software_project.en.md)
 
 ## Computers
-* [Artificial Intelligence](computers/artificial_intelligence.en.md)
 * [Computers](computers/computers.en.md)
 * [Computer Science](computers/computer_science.en.md)
 * [Databases](computers/databases.en.md)
@@ -39,18 +38,18 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Networking](computers/networking.en.md)
 * [Programming](computers/programming.en.md)
 * [Software Architecture](computers/software_architecture.en.md)
-* [Software Design](computers/software_design.en.md)
 * [Software Engineering](computers/software_engineering.en.md)
 * [Software Testing](computers/software_testing.en.md)
 
-### Artificial Intelligence
-* [Machine Learning](computers/artificial_intelligence/machine_learning.en.md)
-
 ### Computer Science
 * [Algorithms](computers/computer_science/algorithms.en.md)
+* [Artificial Intelligence](computers/computer_science/artificial_intelligence.en.md)
 * [Computation Theory](computers/computer_science/computation_theory.en.md)
 * [Cryptography](computers/computer_science/cryptography.en.md)
 * [Quantum Computing](computers/computer_science/quantum_computing.en.md)
+
+#### Artificial Intelligence
+* [Machine Learning](computers/computer_science/artificial_intelligence/machine_learning.en.md)
 
 ### Databases
 * [MySQL](computers/databases/mysql.en.md)
@@ -73,6 +72,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Languages](computers/programming/languages.en.md)
 * [Object-Oriented Programming](computers/programming/oop.en.md)
 * [Paradigms](computers/programming/paradigms.en.md)
+* [Software Design](computers/programming/software_design.en.md)
 * [Unified Modeling Language](computers/programming/uml.en.md)
 
 #### Languages
@@ -86,6 +86,9 @@ Outlines written by ChatGPT-4 on various subjects.
 ##### PHP
 * [Object-Oriented Programming in PHP](computers/programming/languages/php/oop_in_php.en.md)
 
+#### Software Design
+* [Design Patterns](computers/programming/software_design/design_patterns.en.md)
+
 ### Software
 
 #### Text Editors
@@ -93,9 +96,6 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Version Control
 * [Version Control](computers/software/version_control/git.en.md)
-
-### Software Design
-* [Design Patterns](computers/software_design/design_patterns.en.md)
 
 ### Software Testing
 * [Automated Testing](computers/software_testing/automated.en.md)

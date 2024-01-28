@@ -218,7 +218,6 @@ A PDA reads input symbols one by one and uses the stack to keep track of informa
 ### Designing PDA for CFGs
 
 - **Examples and Methodologies**: To design a PDA for a given CFG, the key idea is to use the stack to simulate the derivations of the grammar. For each production rule in the CFG, the PDA will have transitions that push the right-hand side of the rule onto the stack when the left-hand side is at the top of the stack. The PDA starts with the start symbol of the grammar on the stack and tries to replace symbols on the stack with input symbols, effectively simulating a parse of the input.
-
   For example, for the CFG with rules S → aSb | ε, a PDA can be designed with transitions that push 'Sb' onto the stack when it sees an 'a' in the input and 'S' at the top of the stack, and another transition that pops 'b' from the stack when it sees a 'b' in the input.
 
 - **Methodologies**: The general methodology for designing a PDA from a CFG involves:
@@ -323,7 +322,6 @@ Lexical analysis is the first phase of the compiler design process, where the so
 ### Design of Lexical Analyzers
 
 - **Regular Expressions to DFA**: The design of lexical analyzers often involves converting regular expressions (which define the syntax of token patterns) into deterministic finite automata (DFA). This conversion is facilitated by algorithms such as Thompson's construction (for converting regular expressions to nondeterministic finite automata, NFA) followed by the subset construction algorithm (for converting NFA to DFA). The DFA can then efficiently recognize token patterns by transitioning between states based on the input characters.
-
   For example, a regular expression defining an identifier might be something like `[a-zA-Z_][a-zA-Z0-9_]*`, which can be converted into a DFA that recognizes strings starting with a letter or underscore, followed by any number of letters, digits, or underscores.
 
 ### Tools for Lexical Analysis
