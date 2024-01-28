@@ -33,16 +33,12 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Computers
 * [Computers](computers/computers.en.md)
-* [Computer Science](computers/computer_science.en.md)
-* [Databases](computers/databases.en.md)
 * [Mobile Computing](computers/mobile_computing.en.md)
-* [Networking](computers/networking.en.md)
-* [Programming](computers/programming.en.md)
 
 ### Computer Science
 * [Algorithms](computers/computer_science/algorithms.en.md)
-* [Artificial Intelligence](computers/computer_science/artificial_intelligence.en.md)
 * [Computation Theory](computers/computer_science/computation_theory.en.md)
+* [Computer Science](computers/computer_science/computer_science.en.md)
 * [Cryptography](computers/computer_science/cryptography.en.md)
 * [Formal Languages](computers/computer_science/formal_languages.en.md)
 * [Quantum Computing](computers/computer_science/quantum_computing.en.md)
@@ -50,20 +46,23 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Software Engineering](computers/computer_science/software_engineering.en.md)
 
 #### Artificial Intelligence
+* [Artificial Intelligence](computers/computer_science/artificial_intelligence/artificial_intelligence.en.md)
 * [Machine Learning](computers/computer_science/artificial_intelligence/machine_learning.en.md)
 
 ### Databases
+* [Databases](computers/databases/databases.en.md)
 * [MySQL](computers/databases/mysql.en.md)
 
 ### Operating Systems
-* [Linux](computers/operating_systems/linux.en.md)
-* [Virtualization](computers/operating_systems/virtualization.en.md)
 * [Microsoft Windows](computers/operating_systems/windows.en.md)
+* [Virtualization](computers/operating_systems/virtualization.en.md)
 
 #### Linux
+* [Linux](computers/operating_systems/linux/linux.en.md)
 * [Linux Commands](computers/operating_systems/linux/commands.en.md)
 
 ### Networking
+* [Networking](computers/networking/networking.en.md)
 
 #### Internet
 * [Internet Security](computers/networking/internet/security.en.md)
@@ -72,18 +71,17 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Programming
 * [Code Reviews](computers/programming/code_reviews.en.md)
-* [Languages](computers/programming/languages.en.md)
-* [Software Design](computers/programming/software_design.en.md)
-* [Software Testing](computers/programming/software_testing.en.md)
+* [Programming](computers/programming/programming.en.md)
 
 #### Languages
-* [JavaScript](computers/programming/languages/javascript.en.md)
-* [PHP](computers/programming/languages/php.en.md)
-* [Python](computers/programming/languages/python.en.md)
 * [Extensible Markup Language (XML)](computers/programming/languages/xml.en.md)
+* [PHP](computers/programming/languages/php.en.md)
+* [Programming Languages](computers/programming/languages/languages.en.md)
+* [Python](computers/programming/languages/python.en.md)
 
 ##### JavaScript
 * [Frameworks](computers/programming/languages/javascript/frameworks.en.md)
+* [JavaScript](computers/programming/languages/javascript/javascript.en.md)
 
 ##### PHP
 * [Object-Oriented PHP](computers/programming/languages/php/oop.en.md)
@@ -92,10 +90,12 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Design Patterns](computers/programming/software_design/design_patterns.en.md)
 * [Object-Oriented Programming (OOP)](computers/programming/software_design/oop.en.md)
 * [Paradigms](computers/programming/software_design/paradigms.en.md)
+* [Software Design](computers/programming/software_design/software_design.en.md)
 * [Unified Modeling Language (UML)](computers/programming/software_design/uml.en.md)
 
 #### Software Testing
 * [Automated Testing](computers/programming/software_testing/automated.en.md)
+* [Software Testing](computers/programming/software_testing/software_testing.en.md)
 * [Unit Testing](computers/programming/software_testing/unit_testing.en.md)
 
 ### Software
@@ -111,49 +111,53 @@ Outlines written by ChatGPT-4 on various subjects.
 * [WebPack](computers/web_development/webpack.en.md)
 
 ## Languages
-* [Classical Greek](languages/classical_greek.en.md)
 * [Constructed Language](languages/constructed.en.md)
-* [English Grammar](languages/english.en.md)
-* [Esperanto Grammar](languages/esperanto.en.md)
-* [French Grammar](languages/french.en.md)
-* [German Grammar](languages/german.en.md)
-* [Italian Grammar](languages/italian.en.md)
-* [Latin Grammar](languages/latin.en.md)
 * [Languages](languages/languages.en.md)
 * [Linguistics](languages/linguistics.en.md)
-* [Spanish Grammar](languages/spanish.en.md)
 
-#### Esperanto
+### English
+* [English Grammar](languages/english/english.en.md)
+
+### Esperanto
+* [Esperanto Grammar](languages/esperanto/esperanto.en.md)
 * [Esperanto Vocabulary](languages/esperanto/vocabulary.en.md)
 
-#### French
+### French
+* [French Grammar](languages/french/french.en.md)
 * [French Vocabulary](languages/french/vocabulary.en.md)
 
-#### German
+### German
+* [German Grammar](languages/german/german.en.md)
 * [German Vocabulary](languages/german/vocabulary.en.md)
 
-#### Latin
+### Greek
+* [Classical Greek](languages/greek/classical_greek.en.md)
+
+### Italian
+* [Italian Grammar](languages/italian/italian.en.md)
+
+### Latin
+* [Latin Grammar](languages/latin/latin.en.md)
 * [Latin Vocabulary](languages/latin/vocabulary.en.md)
 
-#### Spanish
+### Spanish
+* [Spanish Grammar](languages/spanish/spanish.en.md)
 * [Spanish Vocabulary](languages/spanish/vocabulary.en.md)
 
 ## Science
 * [Anatomy and Physiology](science/anatomy.en.md)
-* [Animals](science/biology/animals.en.md)
 * [Astronomoy](science/astronomy.en.md)
-* [Biology](science/biology.en.md)
 * [Chemistry](science/chemistry.en.md)
 * [Health](science/health.en.md)
-* [Mathematics](science/mathematics.en.md)
 * [Physics](science/physics.en.md)
-* [Psychology](science/psychology.en.md)
 * [Science](science/science.en.md)
 * [Space Exploration](science/space_exploration.en.md)
 
 ### Biology
+* [Biology](science/biology/biology.en.md)
 
 #### Animals
+* [Animals](science/biology/animals/animals.en.md)
 * [Bats](science/biology/animals/bats.en.md)
 * [Dinosaurs](science/biology/animals/dinosaurs.en.md)
 
@@ -168,6 +172,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Game Theory](science/mathematics/game_theory.en.md)
 * [Geometry](science/mathematics/geometry.en.md)
 * [Graph Theory](science/mathematics/graph_theory.en.md)
+* [Mathematics](science/mathematics/mathematics.en.md)
 * [Probability](science/mathematics/probability.en.md)
 * [Statistics](science/mathematics/statistics.en.md)
 
@@ -179,15 +184,13 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Psychology
 * [Decision Making](science/psychology/decision_making.en.md)
 * [Problem Solving](science/psychology/problem_solving.en.md)
+* [Psychology](science/psychology/psychology.en.md)
 
 ## Society
 * [Communication](society/communication.en.md)
 * [Education](society/education.en.md)
-* [Law](society/law.en.md)
 * [Mythology](society/mythology.en.md)
-* [Philosophy](society/philosophy.en.md)
 * [Politics](society/politics.en.md)
-* [Religion](society/religion.en.md)
 * [Society](society/society.en.md)
 * [Sociology](society/sociology.en.md)
 * [Sports](society/sports.en.md)
@@ -214,6 +217,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Law
 * [Constitution](society/law/constitution.en.md)
+* [Law](society/law/law.en.md)
 
 #### Crime
 * [Piracy](society/law/crime/piracy.en.md)
@@ -223,14 +227,16 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Logic](society/philosophy/logic.en.md)
 * [Ontology](society/philosophy/ontology.en.md)
 * [Paradoxes](society/philosophy/paradoxes.en.md)
+* [Philosophy](society/philosophy/philosophy.en.md)
 
 ### Religion
+* [Religion](society/religion/religion.en.md)
 
 #### Christianity
-* [Bible](society/religion/christianity/bible.en.md)
 * [History of Christianity](society/religion/christianity/history.en.md)
 
 ##### Bible
+* [Bible](society/religion/christianity/bible/bible.en.md)
 * [New Testament](society/religion/christianity/bible/new_testament.en.md)
 
 ## Technology
@@ -241,9 +247,9 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Transportation
 * [Automobiles](technology/transportation/automobiles.en.md)
-* [Aviation](technology/transportation/aviation.en.md)
 
 #### Aviation
+* [Aviation](technology/transportation/aviation/aviation.en.md)
 * [Drones](technology/transportation/aviation/drones.en.md)
 
 ## World
@@ -256,7 +262,8 @@ Outlines written by ChatGPT-4 on various subjects.
 * [India](world/asia/india.en.md)
 
 ### North America
-* [United States](world/north_america/united_states.en.md) ([Esperanto](world/north_america/united_states.eo.md))
 
 #### United States
+* [United States](world/north_america/united_states/united_states.en.md)
+** [Esperanto](world/north_america/united_states/united_states.eo.md)
 * [Florida](world/north_america/united_states/florida.en.md)
