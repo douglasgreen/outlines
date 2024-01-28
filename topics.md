@@ -137,7 +137,7 @@
 * COVID-19 - done
 * C Programming
 * C++ Programming
-* Crime - heading
+* Crime - in process
 * Critical Thinking
 * Crocodilians
 * Cryptography - done
@@ -174,7 +174,7 @@
 * Digital Photography
 * Dinosaurs - done
 * Discrete Mathematics - done
-* Diseases - heading
+* Diseases - in process
 * Docker
 * Doctor Who TV Series
 * Dog Breeds
