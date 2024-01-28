@@ -85,7 +85,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Frameworks](computers/programming/languages/javascript/frameworks.en.md)
 
 ##### PHP
-* [Object-Oriented Programming in PHP](computers/programming/languages/php/oop_in_php.en.md)
+* [Object-Oriented PHP](computers/programming/languages/php/oop.en.md)
 
 #### Software Design
 * [Design Patterns](computers/programming/software_design/design_patterns.en.md)
