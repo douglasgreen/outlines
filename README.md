@@ -39,7 +39,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Programming](computers/programming.en.md)
 * [Software Architecture](computers/software_architecture.en.md)
 * [Software Engineering](computers/software_engineering.en.md)
-* [Software Testing](computers/software_testing.en.md)
 
 ### Computer Science
 * [Algorithms](computers/computer_science/algorithms.en.md)
@@ -73,6 +72,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Object-Oriented Programming](computers/programming/oop.en.md)
 * [Paradigms](computers/programming/paradigms.en.md)
 * [Software Design](computers/programming/software_design.en.md)
+* [Software Testing](computers/programming/software_testing.en.md)
 * [Unified Modeling Language](computers/programming/uml.en.md)
 
 #### Languages
@@ -89,6 +89,10 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Software Design
 * [Design Patterns](computers/programming/software_design/design_patterns.en.md)
 
+#### Software Testing
+* [Automated Testing](computers/programming/software_testing/automated.en.md)
+* [Unit Testing](computers/programming/software_testing/unit_testing.en.md)
+
 ### Software
 
 #### Text Editors
@@ -96,10 +100,6 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Version Control
 * [Version Control](computers/software/version_control/git.en.md)
-
-### Software Testing
-* [Automated Testing](computers/software_testing/automated.en.md)
-* [Unit Testing](computers/software_testing/unit_testing.en.md)
 
 ### Web Development
 * [Apache Web Server](computers/web_development/apache.en.md)
