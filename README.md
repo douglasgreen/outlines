@@ -169,7 +169,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Communication](society/communication.en.md)
 * [Economics](society/economics.en.md)
 * [Education](society/education.en.md)
-* [Language](society/languages.en.md)
+* [Languages](society/languages.en.md)
 * [Law](society/law.en.md)
 * [Mythology](society/mythology.en.md)
 * [Philosophy](society/philosophy.en.md)
@@ -187,7 +187,7 @@ Outlines written by ChatGPT-4 on various subjects.
 #### War
 * [World War II](society/history/wars/world_war_ii.en.md)
 
-### Language
+### Languages
 * [Constructed Language](society/languages/constructed.en.md)
 * [Linguistics](society/languages/linguistics.en.md)
 
