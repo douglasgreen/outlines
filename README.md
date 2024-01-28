@@ -24,6 +24,7 @@ Outlines written by ChatGPT-4 on various subjects.
 ## Business
 * [Accounting](business/accounting.en.md)
 * [Business](business/business.en.md)
+* [Economics](business/economics.en.md)
 * [Investing](business/investing.en.md)
 * [Personal Productivity](business/personal_productivity.en.md)
 
@@ -165,7 +166,6 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Society
 * [Communication](society/communication.en.md)
-* [Economics](society/economics.en.md)
 * [Education](society/education.en.md)
 * [Languages](society/languages.en.md)
 * [Law](society/law.en.md)
