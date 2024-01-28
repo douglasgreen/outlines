@@ -596,7 +596,7 @@
 * Time Management
 * Time Series
 * Topology
-* Transportation - heading
+* Transportation - in process
 * Travel
 * Travel & Tourism
 * Trees and Shrubs
@@ -611,7 +611,7 @@
 * User Experience (UX) Design
 * Vagrant
 * Vectors
-* Video Games - heading
+* Video Games - in process
 * Vietnam War
 * Vim - done
 * Virtualization - done
