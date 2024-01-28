@@ -188,37 +188,37 @@ Outlines written by ChatGPT-4 on various subjects.
 * [World War II](society/history/wars/world_war_ii.en.md)
 
 ### Language
-* [Constructed Language](society/language/constructed.en.md)
-* [Linguistics](society/language/linguistics.en.md)
+* [Constructed Language](society/languages/constructed.en.md)
+* [Linguistics](society/languages/linguistics.en.md)
 
 #### English
-* [English Grammar](society/language/english/grammar.en.md)
+* [English Grammar](society/languages/english/grammar.en.md)
 
 #### Esperanto
-* [Esperanto Grammar](society/language/esperanto/grammar.en.md)
-* [Esperanto Vocabulary](society/language/esperanto/vocabulary.en.md)
+* [Esperanto Grammar](society/languages/esperanto/grammar.en.md)
+* [Esperanto Vocabulary](society/languages/esperanto/vocabulary.en.md)
 
 #### French
-* [French Grammar](society/language/french/grammar.en.md)
-* [French Vocabulary](society/language/french/vocabulary.en.md)
+* [French Grammar](society/languages/french/grammar.en.md)
+* [French Vocabulary](society/languages/french/vocabulary.en.md)
 
 #### German
-* [German Grammar](society/language/german/grammar.en.md)
-* [German Vocabulary](society/language/german/vocabulary.en.md)
+* [German Grammar](society/languages/german/grammar.en.md)
+* [German Vocabulary](society/languages/german/vocabulary.en.md)
 
 #### Greek
-* [Classical Greek](society/language/greek/classical.en.md)
+* [Classical Greek](society/languages/greek/classical.en.md)
 
 #### Italian
-* [Italian Grammar](society/language/italian/grammar.en.md)
+* [Italian Grammar](society/languages/italian/grammar.en.md)
 
 #### Latin
-* [Latin Grammar](society/language/latin/grammar.en.md)
-* [Latin Vocabulary](society/language/latin/vocabulary.en.md)
+* [Latin Grammar](society/languages/latin/grammar.en.md)
+* [Latin Vocabulary](society/languages/latin/vocabulary.en.md)
 
 #### Spanish
-* [Spanish Grammar](society/language/spanish/grammar.en.md)
-* [Spanish Vocabulary](society/language/spanish/vocabulary.en.md)
+* [Spanish Grammar](society/languages/spanish/grammar.en.md)
+* [Spanish Vocabulary](society/languages/spanish/vocabulary.en.md)
 
 ### Law
  * [Constitution](society/law/constitution.en.md)
