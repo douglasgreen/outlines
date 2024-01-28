@@ -1,4 +1,4 @@
-# Language
+# Languages
 
 ## Introduction to Languages
 
