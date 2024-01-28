@@ -116,6 +116,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Astronomoy](science/astronomy.en.md)
 * [Biology](science/biology.en.md)
 * [Chemistry](science/chemistry.en.md)
+* [Mathematics](science/mathematics.en.md)
 * [Physics](science/physics.en.md)
 * [Psychology](science/psychology.en.md)
 * [Science](science/science.en.md)
@@ -135,7 +136,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Game Theory](science/math/game_theory.en.md)
 * [Geometry](science/math/geometry.en.md)
 * [Graph Theory](science/math/graph_theory.en.md)
-* [Mathematics](science/math/mathematics.en.md)
 * [Probability](science/math/probability.en.md)
 * [Statistics](science/math/statistics.en.md)
 
