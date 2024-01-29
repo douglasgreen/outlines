@@ -30,7 +30,7 @@
 * Architecture - done
 * Artificial Intelligence - done
 * Arts - done
-* Asia - in process
+* Asia - done
 * Astronomy - done
 * Australia
 * Authors and Novels
@@ -169,6 +169,7 @@
 * Design Pattern Implementation in PHP
 * Design Patterns - done
 * DevOps
+* Diagramming
 * Dice Games
 * Diets
 * Differential Equations

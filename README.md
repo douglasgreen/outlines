@@ -258,6 +258,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [World](world/world.en.md)
 
 ### Asia
+* [Asia](world/asia/asia.en.md)
 * [China](world/asia/china.en.md)
 * [India](world/asia/india.en.md)
 
