@@ -188,12 +188,14 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## Society
 * [Communication](society/communication.en.md)
-* [Education](society/education.en.md)
 * [Mythology](society/mythology.en.md)
 * [Politics](society/politics.en.md)
 * [Society](society/society.en.md)
 * [Sociology](society/sociology.en.md)
 * [Sports](society/sports.en.md)
+
+### Education
+* [Education](society/education/education.en.md)
 
 ### Food
 * [Chocolate](society/food/chocolate.en.md)
