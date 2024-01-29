@@ -1,5 +1,7 @@
-# Video games
-* ### Introduction
+# Video Games
+
+## Introduction
+Give an introduction to video games, while discussing the following topics:
 * Overview of video games
 * Importance in popular culture
 * Evolution of gaming technology
