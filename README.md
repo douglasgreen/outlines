@@ -197,6 +197,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Education
 * [Education](society/education/education.en.md)
+* [E-Learning](society/education/e_learning.en.md)
 
 ### Food
 * [Chocolate](society/food/chocolate.en.md)

@@ -193,7 +193,7 @@
 * Economists
 * Educational Psychology
 * Education - done
-* E-Learning - in process
+* E-Learning - done
 * Electrical Engineering
 * Electric Circuits and Devices
 * Electric Vehicles
