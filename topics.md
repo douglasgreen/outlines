@@ -176,7 +176,7 @@
 * Digital Photography
 * Dinosaurs - done
 * Discrete Mathematics - done
-* Diseases - in process
+* Diseases - done
 * Docker
 * Doctor Who TV Series
 * Dog Breeds

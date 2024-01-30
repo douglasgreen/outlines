@@ -180,6 +180,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Diseases
 * [COVID-19](science/medicine/diseases/covid-19.en.md)
+* [Diseases](science/medicine/diseases/diseases.en.md)
 
 ### Psychology
 * [Decision Making](science/psychology/decision_making.en.md)
