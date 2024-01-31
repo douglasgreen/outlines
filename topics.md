@@ -166,7 +166,8 @@
 * Demography
 * Dental Hygiene
 * Design Antipatterns
-* Design Pattern Implementation in PHP
+* Design Patterns in JavaScript
+* Design Patterns in PHP
 * Design Patterns - done
 * DevOps
 * Diagramming
@@ -444,7 +445,7 @@
 * Number Theory
 * Nutrition
 * Object-Oriented Programming and Namespaces in PHP - done
-* Object-Oriented Programming in JavaScript
+* Object-Oriented Programming in JavaScript - in process
 * Object-Oriented Programming in Python
 * Object-Oriented Programming (OOP) - done
 * Oceanic Life
