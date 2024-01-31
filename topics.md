@@ -435,7 +435,7 @@
 * Neuroscience
 * New Testament - done
 * New Zealand
-* Node.js and Node Package Manager (NPM) - in process
+* Node.js and Node Package Manager (NPM) - done
 * Norse Mythology
 * North America - in process
 * NoSQL
