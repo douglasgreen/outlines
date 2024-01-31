@@ -166,9 +166,9 @@
 * Demography
 * Dental Hygiene
 * Design Antipatterns
+* Design Patterns - done
 * Design Patterns in JavaScript
 * Design Patterns in PHP
-* Design Patterns - done
 * DevOps
 * Diagramming
 * Dice Games
@@ -216,6 +216,7 @@
 * Ethics of Technology
 * European Union
 * Europe - done
+* Event-Driven Programming in JavaScript
 * Evolution
 * Exercise
 * Extensible Markup Language (XML) - done
