@@ -338,6 +338,7 @@
 * Intelligence
 * Internet - in process
 * Internet of Things
+* Internet Protocols - done
 * Internet Security - done
 * Inventors and Inventions
 * Investing - done
@@ -430,7 +431,6 @@
 * Native Americans
 * Natural Language Processing
 * Networking - done
-* Network Protocols
 * Neural Networks/Deep Learning
 * Neuroscience
 * New Testament - done
@@ -619,6 +619,7 @@
 * Vim - done
 * Virtualization - done
 * Virtual Reality/Augmented Reality
+* Visual Studio Code
 * Vue.js
 * War in Afghanistan
 * Wars - in process
