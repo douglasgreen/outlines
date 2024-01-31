@@ -446,7 +446,7 @@
 * Number Theory
 * Nutrition
 * Object-Oriented Programming and Namespaces in PHP - done
-* Object-Oriented Programming in JavaScript - in process
+* Object-Oriented Programming in JavaScript - done
 * Object-Oriented Programming in Python
 * Object-Oriented Programming (OOP) - done
 * Oceanic Life
