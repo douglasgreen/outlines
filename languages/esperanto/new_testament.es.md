@@ -47,3 +47,21 @@ Raĥel plorante pro siaj infanoj;
 Sed kiam Herodo mortis, jen, anĝelo de la Eternulo aperis en sonĝo al Jozefo en Egiptujo, dirante, "Leviĝu kaj prenu la infaneton kaj lian patrinon, kaj iru en la landon de Izrael, ĉar tiuj, kiuj serĉis la vivon de la infaneto, estas mortintaj."
 
 Li leviĝis kaj prenis la infaneton kaj lian patrinon, kaj venis en la landon de Izrael. Sed kiam li aŭdis, ke Arkelaŭo regas super Judujo anstataŭ lia patro, Herodo, li timis iri tien. Avertite en sonĝo, li retiriĝis en la regionon de Galileo, kaj venis kaj loĝis en urbo nomata Nazareto; por ke plenumiĝu tio, kio estis dirita tra la profetoj, ke li estos nomata Nazaretano.
+
+### Ĉapitro 3
+
+En tiuj tagoj, Johano la Baptisto venis, predikante en la dezerto de Judujo, dirante, "Pentu, ĉar la Regno de la Ĉielo estas proksima!" Ĉar ĉi tiu estas tiu, pri kiu parolis Jesaja la profeto, dirante,
+"La voĉo de iu krianta en la dezerto,
+preparu la vojon de la Sinjoro!
+Egaldigu liajn padojn!"
+
+Nun Johano mem portis vestaĵon faritan el kamelharo kun ledzono ĉirkaŭ sia talio. Lia manĝaĵo estis akridoj kaj sovaĝa mielo. Tiam homoj el Jerusalemo, el ĉiuj Judujo, kaj el ĉiuj regionoj ĉirkaŭ la Jordanio eliris al li. Ili estis baptitaj de li en la Jordano, konfesante siajn pekojn.
+
+Sed kiam li vidis multajn el la Fariseoj kaj Sadukeoj venantajn por lia bapto, li diris al ili, "Vi idoj de vipuroj, kiu avertis vin fuĝi de la venonta kolero? Tial produktu frukton dignan de pento! Ne pensu en vi mem, 'Ni havas Abrahamon kiel nian patron,' ĉar mi diras al vi, ke Dio povas levi infanojn al Abrahamo el ĉi tiuj ŝtonoj. Jam nun la hakilo kuŝas ĉe la radiko de la arboj. Tial ĉiu arbo, kiu ne produktas bonan frukton, estas dehakita kaj ĵetita en la fajron.
+
+"Mi vere baptas vin per akvo por pento, sed tiu, kiu venas post mi, estas pli potenca ol mi, kies sandalojn mi ne estas inda porti. Li baptos vin per la Sankta Spirito. Lia ventumilo estas en lia mano, kaj li plene purigos sian draŝejon. Li kolektos sian tritikon en la grenejon, sed la pajlon li bruligos per nestingebla fajro."
+
+Tiam Jesuo venis el Galileo al la Jordano al Johano, por esti baptita de li. Sed Johano volus malhelpi lin, dirante, "Mi bezonas esti baptita de vi, kaj vi venas al mi?"
+
+Sed Jesuo, respondante, diris al li, "Permesu nun, ĉar tio estas la taŭga maniero por ni plenumi ĉiun justecon." Tiam li permesis lin.
+Jesuo, kiam li estis baptita, tuj eliris el la akvo: kaj jen, la ĉieloj malfermiĝis al li. Li vidis la Spiriton de Dio malsupreniri kiel kolombo, kaj veni sur lin. Jen, voĉo el la ĉieloj diris, "Ĉi tiu estas mia amata Filo, kun kiu mi estas bone kontenta."
