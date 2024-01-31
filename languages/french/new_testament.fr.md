@@ -21,3 +21,47 @@ Et on lui donnera le nom d'Emmanuel”,
 ce qui se traduit par : “Dieu avec nous”.
 
 Joseph, s'étant réveillé de son sommeil, fit comme l'ange du Seigneur lui avait commandé, et prit sa femme chez lui ; et il ne la connut point jusqu'à ce qu'elle eût enfanté son fils premier-né. Et il lui donna le nom de Jésus.
+
+### Chapitre 2
+
+Lorsque Jésus naquit à Bethléem de Judée, au temps du roi Hérode, voici, des mages venus d'Orient arrivèrent à Jérusalem, disant : « Où est le roi des Juifs qui vient de naître ? Car nous avons vu son étoile à l'Orient, et nous sommes venus l'adorer. » Lorsque le roi Hérode l'entendit, il fut troublé, et tout Jérusalem avec lui. Ayant assemblé tous les principaux prêtres et les scribes du peuple, il s'enquit auprès d'eux où devait naître le Christ. Ils lui dirent : « À Bethléem de Judée, car il est écrit par le prophète :
+'Toi, Bethléem, terre de Juda,
+tu n'es certes pas la moindre parmi les principales villes de Juda,
+car de toi sortira un chef
+qui paîtra mon peuple Israël.' »
+
+Alors Hérode, ayant fait appeler secrètement les mages, s'informa soigneusement auprès d'eux du temps où l'étoile était apparue. Puis il les envoya à Bethléem, en disant : « Allez et renseignez-vous avec précision sur le petit enfant. Et quand vous l'aurez trouvé, faites-le-moi savoir, afin que moi aussi, j'aille l'adorer. »
+
+Eux, ayant entendu le roi, s'en allèrent ; et voici, l'étoile qu'ils avaient vue à l'Orient allait devant eux jusqu'à ce qu'elle vînt se placer au-dessus de l'endroit où se trouvait le petit enfant. Quand ils virent l'étoile, ils se réjouirent d'une très grande joie. Ils entrèrent dans la maison, virent le petit enfant avec Marie, sa mère, se prosternèrent et l'adorèrent. Puis, ouvrant leurs trésors, ils lui offrirent des présents : de l'or, de l'encens et de la myrrhe. Et ayant été avertis en songe de ne pas retourner vers Hérode, ils regagnèrent leur pays par un autre chemin.
+
+Après leur départ, voici, un ange du Seigneur apparut en songe à Joseph, disant : « Lève-toi, prends le petit enfant et sa mère, fuis en Égypte, et restes-y jusqu'à ce que je te parle ; car Hérode cherchera le petit enfant pour le faire périr. »
+
+Il se leva, prit de nuit le petit enfant et sa mère, et se retira en Égypte. Il y resta jusqu'à la mort d'Hérode, pour que s'accomplisse ce que le Seigneur avait dit par le prophète : « D'Égypte, j'ai appelé mon fils. »
+
+Alors Hérode, voyant qu'il avait été joué par les mages, se mit dans une grande colère, et envoya tuer tous les enfants mâles qui étaient à Bethléem et dans tout son territoire, de deux ans et au-dessous, d'après le temps qu'il avait soigneusement appris des mages. Alors s'accomplit ce qui avait été annoncé par Jérémie le prophète :
+« Une voix fut entendue à Rama,
+des pleurs et de grandes lamentations ;
+Rachel pleurant ses enfants,
+et ne voulant pas être consolée,
+parce qu'ils ne sont plus. »
+
+Mais, lorsque Hérode fut mort, voici, un ange du Seigneur apparut en songe à Joseph, en Égypte, disant : « Lève-toi, prends le petit enfant et sa mère, et va dans le pays d'Israël, car ceux qui en voulaient à la vie du petit enfant sont morts. »
+
+Il se leva, prit le petit enfant et sa mère, et rentra dans le pays d'Israël. Mais, ayant appris qu'Archélaüs régnait sur la Judée à la place de son père Hérode, il craignit de s'y rendre ; et, averti en songe, il se retira dans la région de Galilée, et vint habiter dans une ville appelée Nazareth, afin que s'accomplisse ce qui avait été dit par les prophètes : « Il sera appelé Nazaréen. »
+
+### Chapitre 3
+
+En ces jours-là, Jean le Baptiste vint, prêchant dans le désert de Judée, et disant : « Repentez-vous, car le royaume des Cieux est proche ! » Car c'est lui qui avait été annoncé par le prophète Isaïe, disant :
+« Une voix de celui qui crie dans le désert :
+Préparez le chemin du Seigneur,
+rendez droits ses sentiers ! »
+
+Jean portait lui-même un vêtement de poils de chameau, avec une ceinture de cuir autour de ses reins. Sa nourriture était des sauterelles et du miel sauvage. Alors, Jérusalem, toute la Judée, et toute la région autour du Jourdain sortaient vers lui. Ils étaient baptisés par lui dans le Jourdain, confessant leurs péchés.
+
+Mais lorsqu'il vit beaucoup de Pharisiens et de Sadducéens venir à son baptême, il leur dit : « Engeance de vipères, qui vous a avertis de fuir la colère à venir ? Produisez donc des fruits dignes de la repentance ! Et ne prétendez pas dire en vous-mêmes : 'Nous avons Abraham pour père', car je vous dis que de ces pierres-ci, Dieu peut susciter des enfants à Abraham. Déjà la cognée est mise à la racine des arbres. Tout arbre donc qui ne produit pas de bon fruit est coupé et jeté au feu.
+
+« Moi, je vous baptise dans l'eau en vue de la repentance, mais celui qui vient après moi est plus puissant que moi, et je ne suis pas digne de porter ses sandales. Lui, il vous baptisera dans le Saint-Esprit. Il a sa pelle à vanner en main, et il nettoiera son aire ; il amassera son blé dans le grenier, mais il brûlera la paille dans un feu qui ne s'éteint pas. »
+
+Alors Jésus vint de Galilée au Jourdain vers Jean, pour être baptisé par lui. Mais Jean voulait l'en empêcher, disant : « C'est moi qui ai besoin d'être baptisé par toi, et toi, tu viens à moi ? »
+
+Mais Jésus, répondant, lui dit : « Laisse faire maintenant, car il est convenable pour nous d'accomplir ainsi toute justice. » Alors il le laissa faire. Jésus, une fois baptisé, remonta aussitôt de l'eau : et voici, les cieux s'ouvrirent à lui. Il vit l'Esprit de Dieu descendant comme une colombe et venant sur lui. Et voici, une voix des cieux dit : « Celui-ci est mon Fils bien-aimé, en qui je trouve ma joie. »

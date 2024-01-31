@@ -62,7 +62,7 @@ But when he saw many of the Pharisees and Sadducees coming for his baptism, he s
 
 “I indeed baptize you in water for repentance, but he who comes after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you in the Holy Spirit. His winnowing fork is in his hand, and he will thoroughly cleanse his threshing floor. He will gather his wheat into the barn, but the chaff he will burn up with unquenchable fire.”
 
-Then Jesus came from Galilee to the Jordan‡ to John, to be baptized by him. But John would have hindered him, saying, “I need to be baptized by you, and you come to me?”
+Then Jesus came from Galilee to the Jordan to John, to be baptized by him. But John would have hindered him, saying, “I need to be baptized by you, and you come to me?”
 
 But Jesus, answering, said to him, “Allow it now, for this is the fitting way for us to fulfill all righteousness.” Then he allowed him.
 Jesus, when he was baptized, went up directly from the water: and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove, and coming on him. Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”
@@ -96,7 +96,7 @@ to them light has dawned.”
 
 From that time, Jesus began to preach, and to say, “Repent! For the Kingdom of Heaven is at hand.”
 
-Walking by the sea of Galilee, he‡ saw two brothers: Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen. He said to them, “Come after me, and I will make you fishers for men.”
+Walking by the sea of Galilee, he saw two brothers: Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen. He said to them, “Come after me, and I will make you fishers for men.”
 
 They immediately left their nets and followed him. Going on from there, he saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them. They immediately left the boat and their father, and followed him.
 
