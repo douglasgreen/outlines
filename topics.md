@@ -224,7 +224,6 @@
 * Famous Artists
 * Famous Authors
 * Famous Bands
-* Famous Philosophers
 * Fantasy Creatures
 * Fantasy Fiction - done
 * Fast and Furious Movies
@@ -466,7 +465,7 @@
 * Personality Types
 * Pets
 * Pharmacology
-* Philosophers
+* Philosophers - in process
 * Philosophical Schools
 * Philosophy - done
 * Philosophy of Mathematics
