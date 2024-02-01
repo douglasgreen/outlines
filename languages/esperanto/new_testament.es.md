@@ -100,3 +100,45 @@ Paŝante apud la maro de Galileo, li vidis du fratojn: Simonon, kiu estas nomata
 Ili tuj lasis siajn retojn kaj sekvis lin. Irinte de tie, li vidis du aliajn fratojn, Jakobon filon de Zebedeo, kaj Johanon lian fraton, en la boato kun Zebedeo ilia patro, riparante siajn retojn. Li vokis ilin. Ili tuj lasis la boaton kaj sian patron, kaj sekvis lin.
 
 Jesuo iris ĉirkaŭe en ĉiuj Galileo, instruante en iliaj sinagogoj, predikante la Bonan Novaĵon de la Regno, kaj sanigante ĉiun malsanon kaj ĉiun malsaniĝon inter la popolo. La raporto pri li eliris en ĉiuj Sirio. Ili alportis al li ĉiujn, kiuj estis malsanaj, turmentitaj de diversaj malsanoj kaj turmentoj, posedataj de demonoj, epilepsiuloj, kaj paralizuloj; kaj li sanigis ilin. Grandaj homamasoj el Galileo, Dekapolo, Jerusalemo, Judujo, kaj el trans la Jordanio sekvis lin.
+
+### Ĉapitro 5
+
+Vidante la homamasojn, li supreniris sur la monton. Kiam li sidiĝis, liaj disĉiploj venis al li. Li malfermis sian buŝon kaj instruis ilin, dirante,
+"Feliĉaj la spirite malriĉaj,
+ĉar ilia estas la Regno de la Ĉielo.
+Feliĉaj tiuj, kiuj ploras,
+ĉar ili estos konsolitaj.
+Feliĉaj la mildaj,
+ĉar ili heredos la teron.
+Feliĉaj tiuj, kiuj malsatas kaj soifas je justeco,
+ĉar ili estos satigitaj.
+Feliĉaj la kompatemaj,
+ĉar ili ricevos kompaton.
+Feliĉaj la kormalpuraj,
+ĉar ili vidos Dion.
+Feliĉaj la pacigantoj,
+ĉar ili estos nomitaj infanoj de Dio.
+Feliĉaj tiuj, kiuj estas persekutitaj pro justeco,
+ĉar ilia estas la Regno de la Ĉielo.
+
+"Feliĉaj vi, kiam homoj riproĉas vin, persekutas vin, kaj malvere diras ĉiajn malbonaĵojn kontraŭ vi, pro mi. Ĝoju kaj estu ege ĝojaj, ĉar granda estas via rekompenco en la ĉielo. Ĉar tiel ili persekutis la profetojn, kiuj estis antaŭ vi.
+
+"Vi estas la salo de la tero, sed se la salo perdis sian guston, per kio ĝi estos salita? Ĝi tiam taŭgas por nenio, krom esti ĵetita eksteren kaj piedpremita sub la piedoj de homoj.
+
+Vi estas la lumo de la mondo. Urbo situanta sur monteto ne povas esti kaŝita. Ne ankaŭ vi lumigas lampon kaj metas ĝin sub mezurkorbon, sed sur stangon; kaj ĝi brilas al ĉiuj, kiuj estas en la domo. Same, lasu vian lumon brili antaŭ homoj, ke ili vidu viajn bonajn farojn kaj gloru vian Patron, kiu estas en la ĉielo.
+
+"Ne pensu, ke mi venis detrui la leĝon aŭ la profetojn. Mi ne venis detrui, sed plenumi. Ĉar vere mi diras al vi, ĝis la ĉielo kaj la tero preterpasos, eĉ ne unu plej malgranda litero aŭ unu peceto de plumstrio forpasos de la leĝo, ĝis ĉio estos plenumita. Tial, kiu ajn rompos unu el ĉi tiuj plej malgrandaj ordonoj kaj instruos aliajn tiel fari, estos nomita la plej malgranda en la Regno de la Ĉielo; sed kiu ajn faros kaj instruos ilin, estos nomita granda en la Regno de la Ĉielo. Ĉar mi diras al vi, ke se via justeco ne superas tiun de la skribistoj kaj Fariseoj, vi tute ne eniros en la Regnon de la Ĉielo.
+
+"Vi aŭdis, ke estis dirite al la antikvuloj, 'Vi ne mortigos;' kaj 'Kiu ajn mortigos, estos danĝere al la juĝo.' Sed mi diras al vi, ke ĉiu, kiu senkaŭze koleras kontraŭ sia frato, estos danĝere al la juĝo. Kiu ajn diros al sia frato, 'Raca!' estos danĝere al la konsilio. Kiu ajn diros, 'Vi malsaĝulo!' estos danĝere al la fajro de Gehena.
+
+"Se do vi oferas vian donacon ĉe la altaro, kaj tie memoras, ke via frato havas ion kontraŭ vi, lasu vian donacon tie antaŭ la altaro, kaj iru vian vojon. Unue rekonsiliĝu kun via frato, kaj tiam venu kaj oferu vian donacon. Konsentu rapide kun via kontraŭulo dum vi estas kun li sur la vojo; por ke eble la akuzanto ne transdonu vin al la juĝisto, kaj la juĝisto al la oficisto, kaj vi estu ĵetita en prizonon. Vere mi diras al vi, vi neniom eliros de tie, ĝis vi pagos la lastan kvanton.
+
+"Vi aŭdis, ke estis dirite, 'Vi ne adultu;' sed mi diras al vi, ke ĉiu, kiu rigardas virinon por deziri ŝin, jam adultis kun ŝi en sia koro. Se via dekstra okulo estas alloga por vi, elŝiru ĝin kaj ĵetu ĝin for de vi. Ĉar estas pli utila por vi, ke unu el viaj membroj pereu, ol ke via tuta korpo estu ĵetita en Gehenan. Se via dekstra mano estas alloga por vi, detranĉu ĝin, kaj ĵetu ĝin for de vi. Ĉar estas pli utila por vi, ke unu el viaj membroj pereu, ol ke via tuta korpo estu ĵetita en Gehenan.
+
+"Ankaŭ estis dirite, 'Kiu ajn forsendas sian edzinon, donu al ŝi skribon de eksedziĝo,' sed mi diras al vi, ke kiu ajn forsendas sian edzinon, krom pro seksa malĉasteco, igas ŝin adultulino; kaj kiu ajn edziĝas al ŝi, kiam ŝi estas forsendita, adultas.
+
+"Denove vi aŭdis, ke estis dirite al la antikvuloj, 'Vi ne faros falsajn ĵurojn, sed plenumos al la Eternulo viajn ĵurojn,' sed mi diras al vi, tute ne ĵuru: nek per la ĉielo, ĉar ĝi estas la trono de Dio; nek per la tero, ĉar ĝi estas la piedbenketo de liaj piedoj; nek per Jerusalemo, ĉar ĝi estas la urbo de la granda Reĝo. Ne ĵuru ankaŭ per via kapo, ĉar vi ne povas fari unu haron blanka aŭ nigra. Sed via 'Jes' estu 'Jes,' kaj via 'Ne,' 'Ne.' Kio estas pli ol ĉi tiuj, estas de la malbonulo.
+
+"Vi aŭdis, ke estis dirite, 'Okulo por okulo, kaj dento por dento.' Sed mi diras al vi, ne rezistu al la malbonulo; sed se iu frapas vin sur via dekstra vango, turnu al li ankaŭ la alian. Se iu volas procesi kontraŭ vi kaj preni vian tunikon, lasu al li ankaŭ vian mantelon. Se iu devigas vin iri unu mejlon, iru kun li du. Donu al tiu, kiu petas de vi, kaj ne turnu vin for de tiu, kiu deziras pruntepreni de vi.
+
+"Vi aŭdis, ke estis dirite, 'Vi amos vian proksimulon kaj malamos vian malamikon.' Sed mi diras al vi, amu viajn malamikojn, benadu tiujn, kiuj malbenas vin, faru bonon al tiuj, kiuj malamas vin, kaj preĝu por tiuj, kiuj misuzas vin kaj persekutas vin, por ke vi estu infanoj de via Patro, kiu estas en la ĉielo. Ĉar li igas sian sunon leviĝi sur la malbonuloj kaj la bonuloj, kaj sendas pluvon sur la justulojn kaj la maljustulojn. Ĉar se vi amas tiujn, kiuj amas vin, kian rekompenson vi havas? Ĉu eĉ la impostistoj ne faras la samon? Se vi nur salutas viajn amikojn, kion pli vi faras ol aliaj? Ĉu eĉ la impostistoj ne faras la samon? Tial vi estu perfektaj, kiel via Patro en la ĉielo estas perfekta.

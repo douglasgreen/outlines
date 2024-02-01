@@ -96,3 +96,46 @@ Ambulans autem iuxta mare Galilaeae vidit duos fratres, Simonem qui vocatur Petr
 Illi continuo relicta retia secuti sunt eum. Et progressus inde vidit alios duos fratres, Iacobum Zebedaei et Ioannem fratrem eius, in navi cum Zebedaeo patre eorum reficientes retia sua, et vocavit eos. Illi statim, relicta navi et patre suo, secuti sunt eum.
 
 Et circumibat Iesus totam Galilaeam, docens in synagogis eorum et praedicans evangelium regni et sanans omnem languorem et omnem infirmitatem in populo. Et exiit fama eius in totam Syriam; et obtulerunt ei omnes male habentes, variis languoribus et tormentis comprehensos, et qui daemonia habebant, et lunaticos, et paralyticos, et curavit eos. Et secutae sunt eum turbae multae de Galilaea et Decapoli et Hierosolymis et Iudaea et de trans Iordane.
+
+### Caput 5
+
+Videns autem turbas, ascendit in montem. Et cum sedisset, accesserunt ad eum discipuli eius. Et aperiens os suum docebat eos dicens:
+
+"Beati pauperes spiritu,
+quoniam ipsorum est regnum caelorum.
+Beati qui lugent,
+quoniam ipsi consolabuntur.
+Beati mites,
+quoniam ipsi hereditabunt terram.
+Beati qui esuriunt et sitiunt iustitiam,
+quoniam ipsi saturabuntur.
+Beati misericordes,
+quoniam ipsi misericordiam consequentur.
+Beati mundo corde,
+quoniam ipsi Deum videbunt.
+Beati pacifici,
+quoniam filii Dei vocabuntur.
+Beati qui persecutionem patiuntur propter iustitiam,
+quoniam ipsorum est regnum caelorum.
+
+Beati estis cum maledixerint vobis homines et persecuti vos fuerint et dixerint omne malum adversum vos mentientes propter me. Gaudete et exsultate, quoniam merces vestra copiosa est in caelis. Sic enim persecuti sunt prophetas qui fuerunt ante vos.
+
+Vos estis sal terrae. Si autem sal evanuerit, in quo salietur? Ad nihilum valet ultra, nisi ut mittatur foras et conculcetur ab hominibus.
+
+Vos estis lux mundi. Non potest civitas abscondi supra montem posita. Neque accendunt lucernam et ponunt eam sub modio, sed super candelabrum, et lucet omnibus qui in domo sunt. Sic luceat lux vestra coram hominibus, ut videant opera vestra bona et glorificent Patrem vestrum qui in caelis est.
+
+Nolite putare quoniam veni solvere legem aut prophetas. Non veni solvere, sed adimplere. Amen dico vobis, donec transeat caelum et terra, iota unum aut unus apex non praeteribit a lege, donec omnia fiant. Qui ergo solverit unum de mandatis istis minimis et docuerit sic homines, minimus vocabitur in regno caelorum; qui autem fecerit et docuerit, hic magnus vocabitur in regno caelorum. Dico enim vobis, nisi abundaverit iustitia vestra plus quam scribarum et Pharisaeorum, non intrabitis in regnum caelorum.
+
+Audistis quia dictum est antiquis: 'Non occides;' et: 'Quicumque occiderit, reus erit iudicio.' Ego autem dico vobis quia omnis qui irascitur fratri suo sine causa reus erit iudicio. Qui autem dixerit fratri suo 'Raca,' reus erit concilio. Qui autem dixerit 'Stulte,' reus erit gehennae ignis.
+
+Si ergo offers munus tuum ad altare et ibi recordatus fueris quod frater tuus habet aliquid adversum te, relinque ibi munus tuum ante altare et vade prius reconciliari fratri tuo, et tunc veniens offeres munus tuum. Esto consentiens adversario tuo cito dum es in via cum eo, ne forte tradat te adversarius iudici, et iudex te tradat ministro, et in carcerem mittaris. Amen dico tibi, non exies inde donec reddas novissimum quadrantem.
+
+Audistis quia dictum est: 'Non moechaberis.' Ego autem dico vobis quia omnis qui videt mulierem ad concupiscendum eam iam moechatus est eam in corde suo. Si oculus tuus dexter scandalizat te, erue eum et proice abs te. Expedit enim tibi ut pereat unum membrorum tuorum quam totum corpus tuum mittatur in gehennam. Et si dextera manus tua scandalizat te, abscide eam et proice abs te. Expedit enim tibi ut pereat unum membrorum tuorum quam totum corpus tuum eat in gehennam.
+
+Dictum est autem: 'Quicumque dimiserit uxorem suam, det illi libellum repudii.' Ego autem dico vobis quia omnis qui dimittit uxorem suam, praeterquam ob causam fornicationis, facit eam moechari; et qui dimissam duxerit, adulterat.
+
+Iterum audistis quia dictum est antiquis: 'Non peierabis, reddes autem Domino iuramenta tua.' Ego autem dico vobis non iurare omnino, neque per caelum, quia thronus Dei est, neque per terram, quia scabellum pedum eius est, neque per Ierosolymam, quia civitas est magni Regis. Neque per caput tuum iuraveris, quia non potes unum capillum album aut nigrum facere. Sit autem sermo vester 'Est, est,' 'Non, non'; quod autem his abundantius est, a Malo est.
+
+Audistis quia dictum est: 'Oculum pro oculo et dentem pro dente.' Ego autem dico vobis non resistere malo; sed si quis te percusserit in dexteram maxillam tuam, praebe illi et alteram. Et ei qui vult tecum iudicio contendere et tunicam tuam tollere, dimitte ei et pallium. Et quicumque te angariaverit mille passus, vade cum eo duo. Da ei qui te rogat, et a te volenti mutuari ne avertaris.
+
+Audistis quia dictum est: 'Diliges proximum tuum et odio habebis inimicum tuum.' Ego autem dico vobis: Diligite inimicos vestros, benedicite his qui vos maledicunt, benefacite his qui vos oderunt, et orate pro persequentibus et calumniantibus vos, ut sitis filii Patris vestri qui in caelis est; qui solem suum oriri facit super malos et bonos et pluit super iustos et iniustos. Si enim diligatis eos qui vos diligunt, quam mercedem habebitis? Nonne et publicani hoc faciunt? Et si salutaveritis fratres vestros tantum, quid amplius facitis? Nonne et ethnici hoc faciunt? Estote ergo vos perfecti, sicut et Pater vester caelestis perfectus est.

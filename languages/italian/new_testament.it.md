@@ -103,3 +103,46 @@ Camminando lungo il mare di Galilea, vide due fratelli: Simone, chiamato Pietro,
 Subito lasciarono le reti e lo seguirono. Procedendo oltre, vide altri due fratelli, Giacomo figlio di Zebedeo, e Giovanni suo fratello, nella barca con Zebedeo loro padre, che rattoppavano le loro reti. Li chiamò. Subito lasciarono la barca e il loro padre, e lo seguirono.
 
 Gesù andava in giro per tutta la Galilea, insegnando nelle loro sinagoghe, predicando il Vangelo del Regno, e guarendo ogni malattia e ogni infermità tra il popolo. La sua fama si diffuse in tutta la Siria. Gli portavano tutti quelli che stavano male, afflitti da varie malattie e tormenti, indemoniati, epilettici e paralitici; e li guariva. Grandi folle dalla Galilea, dalla Decapoli, da Gerusalemme, dalla Giudea e da oltre il Giordano lo seguivano.
+
+### Capitolo 5
+
+Vedendo le folle, Gesù salì sul monte. Quando si fu seduto, i suoi discepoli si avvicinarono a lui. Aprì la bocca e li insegnò, dicendo:
+
+"Beati i poveri in spirito,
+perché di loro è il Regno dei Cieli.
+Beati coloro che sono in lutto,
+perché saranno consolati.
+Beati i miti,
+perché erediteranno la terra.
+Beati coloro che hanno fame e sete di giustizia,
+perché saranno saziati.
+Beati i misericordiosi,
+perché otterranno misericordia.
+Beati i puri di cuore,
+perché vedranno Dio.
+Beati gli operatori di pace,
+perché saranno chiamati figli di Dio.
+Beati coloro che sono perseguitati per causa della giustizia,
+perché di loro è il Regno dei Cieli.
+
+Beati voi quando vi insulteranno, vi perseguiteranno e, mentendo, diranno ogni sorta di male contro di voi per causa mia. Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli. Così infatti hanno perseguitato i profeti che sono stati prima di voi.
+
+Voi siete il sale della terra; ma se il sale perde il suo sapore, con che cosa sarà reso salato? Non è più buono a nulla se non a essere gettato via e calpestato dagli uomini.
+
+Voi siete la luce del mondo. Una città posta sopra un monte non può essere nascosta. Neppure si accende una lampada per metterla sotto il moggio, ma sul candelabro; e fa luce a tutti quelli che sono nella casa. Così risplenda la vostra luce davanti agli uomini, affinché vedano le vostre buone opere e glorifichino il Padre vostro che è nei cieli.
+
+Non pensate che io sia venuto ad abolire la legge o i profeti; non sono venuto ad abolire, ma a compiere. In verità vi dico: fino a quando non saranno passati il cielo e la terra, non passerà un solo iota o un solo trattino della legge, senza che tutto sia compiuto. Chiunque dunque violerà uno solo di questi minimi comandamenti, e insegnerà agli altri a fare lo stesso, sarà chiamato minimo nel Regno dei Cieli; ma chi li osserverà e insegnerà, sarà chiamato grande nel Regno dei Cieli. Poiché vi dico che se la vostra giustizia non supera quella degli scribi e dei farisei, non entrerete affatto nel Regno dei Cieli.
+
+Avete udito che fu detto agli antichi: 'Non uccidere'; e chiunque ucciderà sarà sottoposto a giudizio. Ma io vi dico che chiunque si adira contro il proprio fratello senza motivo sarà sottoposto a giudizio. E chiunque dirà al proprio fratello 'Raca' sarà sottoposto al sinedrio; e chiunque dirà 'Stolto' sarà sottoposto al fuoco della Geenna.
+
+Se dunque presenti la tua offerta sull'altare e lì ti ricordi che tuo fratello ha qualcosa contro di te, lascia lì la tua offerta davanti all'altare e va' prima a riconciliarti con tuo fratello; poi vieni a presentare la tua offerta. Mettiti d'accordo in fretta con il tuo avversario mentre sei ancora sulla via con lui, affinché l'avversario non ti consegni al giudice, e il giudice all'ufficiale di giustizia, e tu non sia gettato in prigione. In verità ti dico che non ne uscirai finché non avrai pagato fino all'ultimo centesimo.
+
+Avete udito che fu detto: 'Non commetterai adulterio'. Ma io vi dico che chiunque guarda una donna per desiderarla, ha già commesso adulterio con lei nel suo cuore. Se il tuo occhio destro ti è motivo di scandalo, cavalo e gettalo via da te; è meglio per te che uno dei tuoi membri perisca, piuttosto che tutto il tuo corpo sia gettato nella Geenna. E se la tua mano destra ti è motivo di scandalo, tagliala e gettala via da te; è meglio per te che uno dei tuoi membri perisca, piuttosto che tutto il tuo corpo vada nella Geenna.
+
+Fu detto anche: 'Chi ripudia la propria moglie, le dia l'atto di ripudio'. Ma io vi dico che chiunque ripudia la propria moglie, eccetto in caso di unione illegittima, la fa diventare adultera; e chi sposa una ripudiata commette adulterio.
+
+Avete udito che fu detto agli antichi: 'Non giurare il falso, ma adempi ai tuoi giuramenti verso il Signore'. Ma io vi dico di non giurare affatto: né per il cielo, perché è il trono di Dio; né per la terra, perché è lo sgabello dei suoi piedi; né per Gerusalemme, perché è la città del grande Re. Non giurare neppure per il tuo capo, perché non puoi rendere bianco o nero un solo capello. Sia invece il vostro parlare: 'Sì, sì'; 'No, no'; ciò che va oltre proviene dal maligno.
+
+Avete udito che fu detto: 'Occhio per occhio, e dente per dente'. Ma io vi dico di non resistere al male; anzi, se qualcuno ti percuote sulla guancia destra, porgigli anche l'altra. E se qualcuno vuole portarti in giudizio e toglierti la tunica, lasciagli anche il mantello. E se qualcuno ti costringe a fare un miglio, fanne due con lui. Da' a chi ti chiede, e non voltare le spalle a chi desidera da te un prestito.
+
+Avete udito che fu detto: 'Ama il tuo prossimo e odia il tuo nemico'. Ma io vi dico: amate i vostri nemici e pregate per quelli che vi perseguitano, affinché siate figli del vostro Padre che è nei cieli; perché egli fa sorgere il suo sole sui malvagi e sui buoni, e manda la pioggia sui giusti e sugli ingiusti. Se infatti amate coloro che vi amano, quale ricompensa avrete? Non fanno anche i pubblicani lo stesso? E se salutate solo i vostri fratelli, che fate di più? Non fanno così anche i pagani? Siate dunque perfetti, come è perfetto il vostro Padre celeste.

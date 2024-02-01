@@ -100,3 +100,45 @@ Andando junto al mar de Galilea, vio a dos hermanos: Simón, llamado Pedro, y An
 Ellos dejaron al instante las redes y le siguieron. Pasando de allí, vio a otros dos hermanos, Santiago hijo de Zebedeo, y Juan su hermano, en la barca con Zebedeo su padre, remendando sus redes. Los llamó. Y ellos, dejando al instante la barca y a su padre, le siguieron.
 
 Jesús recorría toda Galilea, enseñando en sus sinagogas, predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia entre el pueblo. Su fama se extendió por toda Siria; y le traían todos los que estaban enfermos, afligidos por diversas enfermedades y tormentos, endemoniados, lunáticos y paralíticos; y los sanaba. Y le seguían grandes multitudes de Galilea, Decápolis, Jerusalén, Judea y de la región al otro lado del Jordán.
+
+### Capítulo 5
+
+Al ver las multitudes, subió al monte. Y cuando se hubo sentado, sus discípulos se acercaron a él. Entonces abrió su boca y les enseñaba, diciendo:
+“Bienaventurados los pobres de espíritu,
+porque de ellos es el reino de los cielos.
+Bienaventurados los que lloran,
+porque ellos recibirán consolación.
+Bienaventurados los mansos,
+porque ellos heredarán la tierra.
+Bienaventurados los que tienen hambre y sed de justicia,
+porque ellos serán saciados.
+Bienaventurados los misericordiosos,
+porque ellos alcanzarán misericordia.
+Bienaventurados los de limpio corazón,
+porque ellos verán a Dios.
+Bienaventurados los pacificadores,
+porque ellos serán llamados hijos de Dios.
+Bienaventurados los que padecen persecución por causa de la justicia,
+porque de ellos es el reino de los cielos.
+
+“Bienaventurados seréis cuando os injurien, os persigan y digan todo género de mal contra vosotros falsamente, por mi causa. Alegraos y regocijaos, porque vuestro galardón es grande en los cielos; pues así persiguieron a los profetas que fueron antes de vosotros.
+
+“Vosotros sois la sal de la tierra; pero si la sal se desvaneciere, ¿con qué será salada? No sirve más para nada, sino para ser echada fuera y hollada por los hombres.
+
+Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder. Ni se enciende una lámpara y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en casa. Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos.
+
+“No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir. Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido. Por tanto, cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseñe a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los haga y los enseñe, éste será llamado grande en el reino de los cielos. Porque os digo que si vuestra justicia no fuere mayor que la de los escribas y fariseos, no entraréis en el reino de los cielos.
+
+“Oísteis que fue dicho a los antiguos: ‘No matarás’; y cualquiera que mate estará en peligro del juicio. Pero yo os digo que cualquiera que se enoje con su hermano sin causa, estará en peligro del juicio; y cualquiera que diga a su hermano: ‘Raca’, estará en peligro del concilio; y cualquiera que le diga: ‘Necio’, estará en peligro del fuego del infierno.
+
+“Por tanto, si traes tu ofrenda al altar, y allí te acuerdas de que tu hermano tiene algo contra ti, deja allí tu ofrenda delante del altar, y ve, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda. Ponte de acuerdo con tu adversario pronto, mientras estás con él en el camino; no sea que el adversario te entregue al juez, y el juez al alguacil, y seas echado en prisión. De cierto te digo que no saldrás de allí, hasta que hayas pagado el último cuadrante.
+
+“Oísteis que fue dicho: ‘No cometerás adulterio’; pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón. Por tanto, si tu ojo derecho te es ocasión de caer, sácalo y échalo de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno. Y si tu mano derecha te es ocasión de caer, córtala y échala de ti; pues mejor te es que se pierda uno de tus miembros, y no que todo tu cuerpo sea echado al infierno.
+
+“También fue dicho: ‘Cualquiera que repudie a su mujer, déle carta de divorcio’; pero yo os digo que cualquiera que repudia a su mujer, salvo por causa de fornicación, la hace cometer adulterio; y cualquiera que se casa con la repudiada comete adulterio.
+
+“Oísteis además que fue dicho a los antiguos: ‘No jurarás falsamente, sino cumplirás al Señor tus juramentos’; pero yo os digo: No juréis en ninguna manera; ni por el cielo, porque es el trono de Dios; ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del gran Rey. Ni por tu cabeza jurarás, porque no puedes hacer blanco o negro un solo cabello. Pero sea vuestro hablar: ‘Sí, sí’; ‘No, no’; porque lo que es más de esto, de mal procede.
+
+“Oísteis que fue dicho: ‘Ojo por ojo, y diente por diente’; pero yo os digo: No resistáis al mal; antes bien, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra. Y al que quiera ponerte a pleito y quitarte la túnica, déjale también el manto. Y a cualquiera que te obligue a llevar carga por una milla, ve con él dos. Al que te pida, dale; y al que quiera tomar de ti prestado, no le vuelvas la espalda.
+
+“Oísteis que fue dicho: ‘Amarás a tu prójimo y aborrecerás a tu enemigo’; pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os odian, y orad por los que os ultrajan y os persiguen; para que seáis hijos de vuestro Padre que está en los cielos; porque él hace salir su sol sobre malos y buenos, y llover sobre justos e injustos. Porque si amáis a los que os aman, ¿qué recompensa tenéis? ¿No hacen lo mismo también los publicanos? Y si saludáis a vuestros hermanos solamente, ¿qué hacéis de más? ¿No hacen lo mismo también los gentiles? Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto.

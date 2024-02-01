@@ -98,3 +98,45 @@ Als er am Meer von Galiläa entlangging, sah er zwei Brüder, Simon, der Petrus 
 Sogleich verließen sie ihre Netze und folgten ihm nach. Von dort ging er weiter und sah zwei andere Brüder, Jakobus, den Sohn des Zebedäus, und Johannes, seinen Bruder, im Boot mit ihrem Vater Zebedäus, wie sie ihre Netze flickten. Und er rief sie. Sogleich verließen sie das Boot und ihren Vater und folgten ihm nach.
 
 Und Jesus zog durch ganz Galiläa, lehrte in ihren Synagogen, predigte das Evangelium des Reiches und heilte jede Krankheit und jedes Gebrechen unter dem Volk. Und die Kunde von ihm verbreitete sich in ganz Syrien. Und sie brachten alle Kranken zu ihm, die mit mancherlei Krankheiten und Qualen behaftet waren, Besessene, Epileptiker und Gelähmte, und er heilte sie. Und große Volksmengen aus Galiläa, den Zehn Städten, Jerusalem, Judäa und von jenseits des Jordans folgten ihm.
+
+### Kapitel 5
+
+Als er die Volksmenge sah, ging er auf einen Berg. Und als er sich gesetzt hatte, kamen seine Jünger zu ihm. Und er tat seinen Mund auf, lehrte sie und sprach:
+„Selig sind die geistlich Armen,
+denn ihrer ist das Himmelreich.
+Selig sind, die da Leid tragen,
+denn sie sollen getröstet werden.
+Selig sind die Sanftmütigen,
+denn sie werden das Erdreich besitzen.
+Selig sind, die da hungern und dürsten nach der Gerechtigkeit,
+denn sie sollen satt werden.
+Selig sind die Barmherzigen,
+denn ihnen wird Barmherzigkeit widerfahren.
+Selig sind, die reinen Herzens sind,
+denn sie werden Gott schauen.
+Selig sind die Friedfertigen,
+denn sie werden Gottes Kinder heißen.
+Selig sind, die um der Gerechtigkeit willen verfolgt werden,
+denn ihrer ist das Himmelreich.
+
+Selig seid ihr, wenn euch die Menschen um meinetwillen schmähen und verfolgen und lügnerisch allerlei Böses gegen euch reden. Freut euch und frohlocket, denn euer Lohn ist groß im Himmel. Denn so haben sie die Propheten verfolgt, die vor euch gewesen sind.
+
+Ihr seid das Salz der Erde. Wenn aber das Salz kraftlos wird, womit soll man salzen? Es ist zu nichts mehr nütze, als dass man es hinauswirft und dass es von den Menschen zertreten wird.
+
+Ihr seid das Licht der Welt. Eine Stadt, die auf einem Berge liegt, kann nicht verborgen sein. Man zündet auch nicht ein Licht an und setzt es unter einen Scheffel, sondern auf einen Leuchter; und es leuchtet allen, die im Hause sind. So lasst euer Licht leuchten vor den Menschen, damit sie eure guten Werke sehen und euren Vater im Himmel preisen.
+
+Ihr sollt nicht meinen, dass ich gekommen bin, das Gesetz oder die Propheten aufzulösen. Ich bin nicht gekommen aufzulösen, sondern zu erfüllen. Denn wahrlich, ich sage euch: Bis Himmel und Erde vergehen, wird nicht der kleinste Buchstabe noch ein Tüpfelchen vom Gesetz vergehen, bis dass alles geschehen ist. Wer nun eines von diesen kleinsten Geboten auflöst und die Menschen so lehrt, der wird der Kleinste heißen im Himmelreich; wer es aber tut und lehrt, der wird groß heißen im Himmelreich. Denn ich sage euch: Wenn eure Gerechtigkeit nicht besser ist als die der Schriftgelehrten und Pharisäer, werdet ihr nicht in das Himmelreich kommen.
+
+Ihr habt gehört, dass zu den Alten gesagt ist: ‚Du sollst nicht töten‘; und wer tötet, soll des Gerichts schuldig sein. Ich aber sage euch: Jeder, der seinem Bruder zürnt, wird des Gerichts schuldig sein. Und wer zu seinem Bruder sagt: ‚Raka!‘, der ist des Hohen Rates schuldig; wer aber sagt: ‚Du Narr!‘, der ist des höllischen Feuers schuldig.
+
+Wenn du nun deine Gabe zum Altar bringst und dir dort einfällt, dass dein Bruder etwas gegen dich hat, so lass deine Gabe dort vor dem Altar und geh hin, versöhne dich zuerst mit deinem Bruder, und dann komm und opfere deine Gabe. Sei willfährig gegen deinen Gegner schnell, während du noch mit ihm auf dem Wege bist, damit der Gegner dich nicht dem Richter überantworte, und der Richter dich dem Gerichtsdiener übergebe, und du ins Gefängnis geworfen werdest. Wahrlich, ich sage dir: Du wirst von dort nicht herauskommen, bis du den letzten Heller bezahlt hast.
+
+Ihr habt gehört, dass gesagt ist: ‚Du sollst nicht ehebrechen‘. Ich aber sage euch: Wer eine Frau ansieht, sie zu begehren, der hat schon mit ihr die Ehe gebrochen in seinem Herzen. Wenn dich aber dein rechtes Auge ärgert, reiß es aus und wirf es von dir. Denn es ist dir besser, dass eines deiner Glieder verderbe, und nicht dein ganzer Leib in die Hölle geworfen werde. Und wenn dich deine rechte Hand ärgert, so hau sie ab und wirf sie von dir. Denn es ist dir besser, dass eines deiner Glieder verderbe, und nicht dein ganzer Leib in die Hölle geworfen werde.
+
+Es ist auch gesagt: ‚Wer sich von seiner Frau scheidet, der soll ihr einen Scheidebrief geben‘. Ich aber sage euch: Wer sich von seiner Frau scheidet, es sei denn wegen Unzucht, der macht, dass sie die Ehe bricht; und wer eine Geschiedene heiratet, der bricht die Ehe.
+
+Ihr habt weiter gehört, dass zu den Alten gesagt ist: ‚Du sollst keinen falschen Eid schwören und sollst dem Herrn deine Eide halten‘. Ich aber sage euch, dass ihr überhaupt nicht schwören sollt, weder bei dem Himmel, denn er ist Gottes Thron, noch bei der Erde, denn sie ist seiner Füße Schemel, noch bei Jerusalem, denn es ist die Stadt des großen Königs. Auch bei deinem Haupt sollst du nicht schwören, denn du kannst kein einziges Haar weiß oder schwarz machen. Euer Ja sei ein Ja, euer Nein ein Nein; was darüber ist, das ist vom Übel.
+
+Ihr habt gehört, dass gesagt ist: ‚Auge um Auge, Zahn um Zahn‘. Ich aber sage euch, dass ihr nicht widerstreben sollt dem Übel; sondern, wenn dir jemand einen Streich gibt auf deinen rechten Backen, dem biete den anderen auch dar. Und wenn jemand mit dir rechten will und dir deinen Rock nehmen, dem lass auch den Mantel. Und wer dich zwingt, eine Meile mitzugehen, mit dem geh zwei. Gib dem, der dich bittet, und wende dich nicht ab von dem, der von dir borgen will.
+
+Ihr habt gehört, dass gesagt ist: ‚Du sollst deinen Nächsten lieben und deinen Feind hassen.‘ Ich aber sage euch: Liebt eure Feinde und bittet für die, die euch verfolgen, auf dass ihr Kinder seid eures Vaters im Himmel; denn er lässt seine Sonne aufgehen über Böse und Gute und lässt regnen über Gerechte und Ungerechte. Denn wenn ihr liebt, die euch lieben, welchen Lohn habt ihr? Tun nicht auch die Zöllner dasselbe? Und wenn ihr nur eure Brüder grüßt, was tut ihr Besonderes? Tun nicht auch die Heiden dasselbe? Darum sollt ihr vollkommen sein, wie euer himmlischer Vater vollkommen ist.

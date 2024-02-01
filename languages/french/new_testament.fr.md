@@ -100,3 +100,46 @@ Comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, app
 Aussitôt, ils laissèrent leurs filets et le suivirent. De là, avançant, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, qui étaient dans une barque avec Zébédée, leur père, et raccommodaient leurs filets. Il les appela. Eux aussi, laissant aussitôt la barque et leur père, le suivirent.
 
 Jésus parcourait toute la Galilée, enseignant dans leurs synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple. Sa renommée se répandit dans toute la Syrie, et on lui amenait tous les malades, atteints de diverses maladies et tourments, possédés, épileptiques, paralytiques ; et il les guérissait. De grandes foules le suivirent, de la Galilée, de la Décapole, de Jérusalem, de la Judée, et d'au-delà du Jourdain.
+
+### Chapitre 5
+
+Voyant les foules, il monta sur la montagne. Et lorsqu'il se fut assis, ses disciples s'approchèrent de lui. Puis, ouvrant la bouche, il les enseigna, en disant :
+
+« Heureux les pauvres en esprit,
+car le royaume des Cieux est à eux.
+Heureux ceux qui pleurent,
+car ils seront consolés.
+Heureux les doux,
+car ils hériteront de la terre.
+Heureux ceux qui ont faim et soif de la justice,
+car ils seront rassasiés.
+Heureux les miséricordieux,
+car ils obtiendront miséricorde.
+Heureux les cœurs purs,
+car ils verront Dieu.
+Heureux les artisans de paix,
+car ils seront appelés fils de Dieu.
+Heureux ceux qui sont persécutés pour la justice,
+car le royaume des Cieux est à eux.
+
+Heureux serez-vous, lorsque les hommes vous insulteront, vous persécuteront et diront faussement de vous toute sorte de mal, à cause de moi. Réjouissez-vous et soyez dans l'allégresse, car votre récompense sera grande dans les cieux ; c'est ainsi qu'ils ont persécuté les prophètes qui étaient avant vous.
+
+Vous êtes le sel de la terre. Mais si le sel perd sa saveur, avec quoi la lui rendra-t-on ? Il ne sert plus qu'à être jeté dehors et foulé aux pieds par les hommes.
+
+Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. Et on n'allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le chandelier, et elle éclaire tous ceux qui sont dans la maison. Ainsi, que votre lumière luise devant les hommes, afin qu'ils voient vos bonnes œuvres, et qu'ils glorifient votre Père qui est dans les cieux.
+
+Ne croyez pas que je sois venu abolir la loi ou les prophètes. Je ne suis pas venu abolir, mais accomplir. Car, je vous le dis, en vérité, tant que le ciel et la terre ne passeront pas, pas un iota, pas un trait de lettre de la loi ne passera, jusqu'à ce que tout soit accompli. Celui donc qui supprimera l'un de ces plus petits commandements, et enseignera aux hommes à faire de même, sera appelé le plus petit dans le royaume des Cieux ; mais celui qui les fera et les enseignera, celui-là sera appelé grand dans le royaume des Cieux. Car je vous dis que si votre justice ne surpasse celle des scribes et des pharisiens, vous n'entrerez point dans le royaume des Cieux.
+
+Vous avez entendu qu'il a été dit aux anciens : Tu ne tueras point ; et celui qui tuera sera passible du jugement. Mais moi, je vous dis que quiconque se met en colère contre son frère sans une cause sera passible du jugement. Et celui qui dira à son frère : Raca ! sera passible du sanhédrin ; et celui qui lui dira : Insensé ! sera passible de la géhenne de feu.
+
+Si donc tu présentes ton offrande à l'autel, et que là tu te souviennes que ton frère a quelque chose contre toi, laisse là ton offrande devant l'autel, et va d'abord te réconcilier avec ton frère, puis viens présenter ton offrande. Accorde-toi promptement avec ton adversaire, pendant que tu es en chemin avec lui, de peur que l'adversaire ne te livre au juge, et le juge au garde, et que tu ne sois jeté en prison. Je te le dis en vérité, tu ne sortiras de là que lorsque tu auras payé jusqu'au dernier quadrain.
+
+Vous avez entendu qu'il a été dit : Tu ne commettras point d'adultère. Mais moi, je vous dis que quiconque regarde une femme pour la convoiter a déjà commis l'adultère avec elle dans son cœur. Si ton œil droit est pour toi une occasion de chute, arrache-le et jette-le loin de toi ; car il est avantageux pour toi qu'un seul de tes membres périsse, et que ton corps entier ne soit pas jeté dans la géhenne. Et si ta main droite est pour toi une occasion de chute, coupe-la et jette-la loin de toi ; car il est avantageux pour toi qu'un seul de tes membres périsse, et que ton corps entier n'aille pas dans la géhenne.
+
+Il a été dit : Si quelqu'un répudie sa femme, qu'il lui donne une lettre de divorce. Mais moi, je vous dis que quiconque répudie sa femme, sauf pour cause d'infidélité, l'expose à devenir adultère ; et celui qui épouse une femme répudiée commet un adultère.
+
+Vous avez encore entendu qu'il a été dit aux anciens : Tu ne parjureras point, mais tu t'acquitteras envers le Seigneur de ce que tu as juré. Mais moi, je vous dis de ne pas jurer du tout : ni par le ciel, car c'est le trône de Dieu ; ni par la terre, car c'est son marchepied ; ni par Jérusalem, car c'est la ville du grand Roi. Ne jure pas non plus par ta tête, car tu ne peux rendre blanc ou noir un seul cheveu. Que votre parole soit oui, oui, non, non ; ce qu'on y ajoute vient du malin.
+
+Vous avez entendu qu'il a été dit : Œil pour œil, et dent pour dent. Mais moi, je vous dis de ne pas résister au méchant. Si quelqu'un te frappe sur la joue droite, présente-lui aussi l'autre. Si quelqu'un veut plaider contre toi et prendre ta tunique, laisse-lui encore ton manteau. Si quelqu'un te force à faire un mille, fais-en deux avec lui. Donne à celui qui te demande, et ne te détourne pas de celui qui veut emprunter de toi.
+
+Vous avez entendu qu'il a été dit : Tu aimeras ton prochain, et tu haïras ton ennemi. Mais moi, je vous dis : Aimez vos ennemis, bénissez ceux qui vous maudissent, faites du bien à ceux qui vous haïssent, et priez pour ceux qui vous maltraitent et vous persécutent, afin que vous soyez fils de votre Père qui est dans les cieux ; car il fait lever son soleil sur les méchants et sur les bons, et il fait pleuvoir sur les justes et sur les injustes. Si vous aimez ceux qui vous aiment, quelle récompense méritez-vous ? Les publicains aussi n'en font-ils pas autant ? Et si vous saluez seulement vos frères, que faites-vous d'extraordinaire ? Les païens aussi n'en font-ils pas autant ? Soyez donc parfaits, comme votre Père céleste est parfait.
