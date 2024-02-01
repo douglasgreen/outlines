@@ -65,3 +65,38 @@ Mais lorsqu'il vit beaucoup de Pharisiens et de Sadducéens venir à son baptêm
 Alors Jésus vint de Galilée au Jourdain vers Jean, pour être baptisé par lui. Mais Jean voulait l'en empêcher, disant : « C'est moi qui ai besoin d'être baptisé par toi, et toi, tu viens à moi ? »
 
 Mais Jésus, répondant, lui dit : « Laisse faire maintenant, car il est convenable pour nous d'accomplir ainsi toute justice. » Alors il le laissa faire. Jésus, une fois baptisé, remonta aussitôt de l'eau : et voici, les cieux s'ouvrirent à lui. Il vit l'Esprit de Dieu descendant comme une colombe et venant sur lui. Et voici, une voix des cieux dit : « Celui-ci est mon Fils bien-aimé, en qui je trouve ma joie. »
+
+### Chapitre 4
+
+Alors Jésus fut conduit par l'Esprit dans le désert, pour être tenté par le diable. Après avoir jeûné quarante jours et quarante nuits, il eut faim. Le tentateur s'approcha et lui dit : « Si tu es Fils de Dieu, ordonne que ces pierres deviennent des pains. »
+
+Mais il répondit : « Il est écrit : 'L'homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu.' »
+
+Ensuite, le diable l'emmena dans la ville sainte, le plaça sur le haut du temple, et lui dit : « Si tu es Fils de Dieu, jette-toi en bas, car il est écrit :
+'Il donnera des ordres à ses anges à ton sujet', et,
+'Ils te porteront sur leurs mains,
+afin que ton pied ne heurte pas contre une pierre.' »
+
+Jésus lui dit : « Il est aussi écrit : 'Tu ne tenteras point le Seigneur, ton Dieu.' »
+
+Puis, le diable l'emmena sur une montagne très haute, lui montra tous les royaumes du monde et leur gloire, et lui dit : « Je te donnerai tout cela, si tu te prosternes et m'adores. »
+
+Alors Jésus lui dit : « Arrière, Satan ! Car il est écrit : 'Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul.' »
+
+Alors le diable le laissa, et voici, des anges vinrent et le servirent.
+
+Lorsque Jésus apprit que Jean avait été livré, il se retira en Galilée. Quittant Nazareth, il vint habiter à Capernaüm, située au bord de la mer, dans le territoire de Zabulon et de Nephthali, afin que s'accomplisse ce qui avait été annoncé par le prophète Isaïe :
+« Le pays de Zabulon et le pays de Nephthali,
+vers la mer, au-delà du Jourdain,
+la Galilée des Gentils,
+le peuple qui était assis dans les ténèbres a vu une grande lumière ;
+et sur ceux qui étaient assis dans la région et l'ombre de la mort,
+la lumière s'est levée. »
+
+Dès lors, Jésus commença à prêcher et à dire : « Repentez-vous, car le royaume des Cieux est proche. »
+
+Comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient un filet dans la mer, car ils étaient pêcheurs. Il leur dit : « Suivez-moi, et je vous ferai pêcheurs d'hommes. »
+
+Aussitôt, ils laissèrent leurs filets et le suivirent. De là, avançant, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, qui étaient dans une barque avec Zébédée, leur père, et raccommodaient leurs filets. Il les appela. Eux aussi, laissant aussitôt la barque et leur père, le suivirent.
+
+Jésus parcourait toute la Galilée, enseignant dans leurs synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple. Sa renommée se répandit dans toute la Syrie, et on lui amenait tous les malades, atteints de diverses maladies et tourments, possédés, épileptiques, paralytiques ; et il les guérissait. De grandes foules le suivirent, de la Galilée, de la Décapole, de Jérusalem, de la Judée, et d'au-delà du Jourdain.

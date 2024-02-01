@@ -67,3 +67,39 @@ Ma quando vide molti dei Farisei e dei Sadducei venire per il suo battesimo, dis
 Poi Gesù venne dalla Galilea al Giordano da Giovanni, per essere battezzato da lui. Ma Giovanni avrebbe voluto impedirglielo, dicendo: "Ho bisogno di essere battezzato da te, e tu vieni da me?"
 
 Ma Gesù, rispondendo, disse a lui: "Lascia fare ora, perché conviene che adempiamo così tutta giustizia." Allora egli lo permise. Gesù, quando fu battezzato, risalì subito dall'acqua: ed ecco, i cieli gli si aprirono. Vide lo Spirito di Dio scendere come una colomba e venire su di lui. Ed ecco, una voce dal cielo disse: "Questo è il mio Figlio amato, nel quale mi sono compiaciuto."
+
+### Capitolo 4
+
+Allora Gesù fu condotto dallo Spirito nel deserto per essere tentato dal diavolo. Dopo aver digiunato quaranta giorni e quaranta notti, in seguito ebbe fame. Il tentatore si avvicinò e gli disse: "Se sei Figlio di Dio, comanda che queste pietre diventino pane."
+
+Ma egli rispose: "Sta scritto: 'L'uomo non vivrà di solo pane, ma di ogni parola che esce dalla bocca di Dio.'"
+
+Poi il diavolo lo portò nella santa città, lo pose sul punto più alto del tempio e gli disse: "Se sei Figlio di Dio, gettati giù, perché sta scritto:
+'Comanderà ai suoi angeli riguardo a te' e
+'Sulle loro mani ti porteranno,
+affinché il tuo piede non urti contro una pietra.'"
+
+Gesù gli disse: "È scritto anche: 'Non metterai alla prova il Signore, tuo Dio.'"
+
+Di nuovo, il diavolo lo portò su un monte altissimo e gli mostrò tutti i regni del mondo e la loro gloria. E gli disse: "Ti darò tutte queste cose se ti prostrerai e mi adorerai."
+
+Allora Gesù gli disse: "Vattene, Satana! Perché sta scritto: 'Adorerai il Signore, tuo Dio, e a lui solo renderai culto.'"
+
+Allora il diavolo lo lasciò, ed ecco, angeli vennero e lo servirono.
+
+Ora, quando Gesù seppe che Giovanni era stato arrestato, si ritirò in Galilea. Lasciata Nazaret, venne ad abitare a Cafarnao, che è sul mare, nel territorio di Zabulon e di Neftali, affinché si adempisse ciò che era stato detto per mezzo del profeta Isaia:
+
+"La terra di Zabulon e la terra di Neftali,
+verso il mare, oltre il Giordano,
+Galilea delle genti,
+il popolo che sedeva nelle tenebre ha visto una grande luce;
+e su quelli che sedevano nella regione e ombra della morte,
+la luce è sorta."
+
+Da quel momento, Gesù cominciò a predicare e a dire: "Pentitevi! Perché il Regno dei Cieli è vicino."
+
+Camminando lungo il mare di Galilea, vide due fratelli: Simone, chiamato Pietro, e Andrea, suo fratello, che gettavano la rete in mare; perché erano pescatori. Disse loro: "Seguitemi, e vi farò pescatori di uomini."
+
+Subito lasciarono le reti e lo seguirono. Procedendo oltre, vide altri due fratelli, Giacomo figlio di Zebedeo, e Giovanni suo fratello, nella barca con Zebedeo loro padre, che rattoppavano le loro reti. Li chiamò. Subito lasciarono la barca e il loro padre, e lo seguirono.
+
+Gesù andava in giro per tutta la Galilea, insegnando nelle loro sinagoghe, predicando il Vangelo del Regno, e guarendo ogni malattia e ogni infermità tra il popolo. La sua fama si diffuse in tutta la Siria. Gli portavano tutti quelli che stavano male, afflitti da varie malattie e tormenti, indemoniati, epilettici e paralitici; e li guariva. Grandi folle dalla Galilea, dalla Decapoli, da Gerusalemme, dalla Giudea e da oltre il Giordano lo seguivano.

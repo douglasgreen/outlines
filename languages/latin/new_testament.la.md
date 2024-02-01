@@ -64,3 +64,35 @@ Videns autem multos Pharisaeorum et Sadducaeorum venientes ad baptismum suum, di
 Tunc venit Iesus a Galilaea ad Iordanem ad Ioannem, ut baptizaretur ab eo. Ioannes autem prohibebat eum dicens: "Ego a te debeo baptizari, et tu venis ad me?"
 
 Respondens autem Iesus dixit ei: "Sine modo; sic enim decet nos implere omnem iustitiam." Tunc dimisit eum. Baptizatus autem Iesus, confestim ascendit de aqua: et ecce aperti sunt ei caeli, et vidit Spiritum Dei descendentem sicut columbam et venientem super se. Et ecce vox de caelis dicens: "Hic est Filius meus dilectus, in quo mihi complacui."
+
+### Caput 4
+
+Tunc Iesus ductus est in desertum a Spiritu ut tentaretur a diabolo. Et cum ieiunasset quadraginta dies et quadraginta noctes, postea esuriit. Et accedens temptator dixit ei: "Si Filius Dei es, dic ut lapides isti panes fiant."
+
+Qui respondens dixit: "Scriptum est: 'Non in solo pane vivet homo, sed in omni verbo quod procedit de ore Dei.'"
+
+Tunc diabolus assumit eum in sanctam civitatem et statuit eum super pinnaculum templi, et dicit illi: "Si Filius Dei es, mitte te deorsum. Scriptum est enim: 'Angelis suis mandavit de te,' et, 'In manibus tollent te, ne forte offendas ad lapidem pedem tuum.'"
+
+Iesus dixit ei: "Rursum scriptum est: 'Non tentabis Dominum Deum tuum.'"
+
+Iterum diabolus assumit eum in montem excelsum valde et ostendit ei omnia regna mundi et gloriam eorum, et dixit illi: "Haec omnia tibi dabo si cadens adoraveris me."
+
+Tunc dicit ei Iesus: "Vade retro, Satana! Scriptum est enim: 'Dominum Deum tuum adorabis et illi soli servies.'"
+
+Tunc reliquit eum diabolus, et ecce angeli accesserunt et ministrabant ei.
+
+Audito autem Iesu quod Ioannes traditus esset, secessit in Galilaeam. Et relicta Nazareth, venit et habitavit in Capharnaum maritimam, in finibus Zabulon et Nephthalim, ut adimpleretur quod dictum est per Isaiam prophetam dicentem:
+
+"Terra Zabulon et terra Nephthalim,
+via maris, trans Iordanen,
+Galilaea gentium,
+populus qui sedebat in tenebris, lucem vidit magnam,
+et sedentibus in regione et umbra mortis, lux orta est eis."
+
+Ex illo tempore coepit Iesus praedicare et dicere: "Paenitentiam agite, adpropinquavit enim regnum caelorum."
+
+Ambulans autem iuxta mare Galilaeae vidit duos fratres, Simonem qui vocatur Petrus, et Andream fratrem eius, mittentes rete in mare; erant enim piscatores. Et dicit eis: "Venite post me, et faciam vos fieri piscatores hominum."
+
+Illi continuo relicta retia secuti sunt eum. Et progressus inde vidit alios duos fratres, Iacobum Zebedaei et Ioannem fratrem eius, in navi cum Zebedaeo patre eorum reficientes retia sua, et vocavit eos. Illi statim, relicta navi et patre suo, secuti sunt eum.
+
+Et circumibat Iesus totam Galilaeam, docens in synagogis eorum et praedicans evangelium regni et sanans omnem languorem et omnem infirmitatem in populo. Et exiit fama eius in totam Syriam; et obtulerunt ei omnes male habentes, variis languoribus et tormentis comprehensos, et qui daemonia habebant, et lunaticos, et paralyticos, et curavit eos. Et secutae sunt eum turbae multae de Galilaea et Decapoli et Hierosolymis et Iudaea et de trans Iordane.

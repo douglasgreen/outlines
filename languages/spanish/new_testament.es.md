@@ -65,3 +65,38 @@ Entonces Jesús vino desde Galilea al Jordán a Juan, para ser bautizado por él
 
 Mas Jesús, respondiendo, le dijo: "Permítelo ahora, porque así conviene que cumplamos toda justicia." Entonces le permitió.
 Jesús, cuando fue bautizado, subió del agua inmediatamente; y he aquí, los cielos le fueron abiertos, y vio al Espíritu de Dios que descendía como paloma y venía sobre él. Y he aquí, una voz de los cielos decía: "Este es mi Hijo amado, en quien tengo complacencia."
+
+### Capítulo 4
+
+Entonces Jesús fue llevado por el Espíritu al desierto para ser tentado por el diablo. Después de haber ayunado cuarenta días y cuarenta noches, tuvo hambre. El tentador se acercó y le dijo: “Si eres el Hijo de Dios, ordena que estas piedras se conviertan en pan.”
+
+Pero él respondió: “Está escrito: 'No sólo de pan vivirá el hombre, sino de toda palabra que sale de la boca de Dios.’”
+
+Luego el diablo lo llevó a la ciudad santa. Lo puso en el pináculo del templo, y le dijo: “Si eres el Hijo de Dios, tírate abajo, pues está escrito:
+‘Él mandará a sus ángeles acerca de ti’, y,
+‘En sus manos te sostendrán,
+para que no tropieces con tu pie en piedra.’”
+
+Jesús le dijo: “También está escrito: 'No tentarás al Señor tu Dios.’”
+
+De nuevo, el diablo lo llevó a un monte muy alto y le mostró todos los reinos del mundo y su gloria. Y le dijo: “Todo esto te daré, si te postras y me adoras.”
+
+Entonces Jesús le dijo: “¡Apártate, Satanás! Porque está escrito: 'Al Señor tu Dios adorarás, y a él solo servirás.’”
+
+Entonces el diablo lo dejó, y he aquí, ángeles vinieron y le servían.
+
+Cuando Jesús oyó que Juan había sido entregado, se retiró a Galilea. Dejando Nazaret, fue y habitó en Capernaúm, que está junto al mar, en la región de Zabulón y Neftalí, para que se cumpliera lo dicho por el profeta Isaías, diciendo:
+“La tierra de Zabulón y la tierra de Neftalí,
+camino del mar, al otro lado del Jordán,
+Galilea de los gentiles,
+el pueblo que estaba sentado en tinieblas vio gran luz;
+y a los que estaban sentados en región y sombra de muerte,
+luz les resplandeció.”
+
+Desde entonces Jesús comenzó a predicar, y a decir: “¡Arrepentíos, porque el reino de los cielos está cerca!”
+
+Andando junto al mar de Galilea, vio a dos hermanos: Simón, llamado Pedro, y Andrés, su hermano, que echaban la red en el mar; porque eran pescadores. Y les dijo: “Venid en pos de mí, y os haré pescadores de hombres.”
+
+Ellos dejaron al instante las redes y le siguieron. Pasando de allí, vio a otros dos hermanos, Santiago hijo de Zebedeo, y Juan su hermano, en la barca con Zebedeo su padre, remendando sus redes. Los llamó. Y ellos, dejando al instante la barca y a su padre, le siguieron.
+
+Jesús recorría toda Galilea, enseñando en sus sinagogas, predicando el evangelio del reino, y sanando toda enfermedad y toda dolencia entre el pueblo. Su fama se extendió por toda Siria; y le traían todos los que estaban enfermos, afligidos por diversas enfermedades y tormentos, endemoniados, lunáticos y paralíticos; y los sanaba. Y le seguían grandes multitudes de Galilea, Decápolis, Jerusalén, Judea y de la región al otro lado del Jordán.

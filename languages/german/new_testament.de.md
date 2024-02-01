@@ -63,3 +63,38 @@ Dann kam Jesus aus Galiläa an den Jordan zu Johannes, um sich von ihm taufen zu
 
 Jesus aber antwortete und sprach zu ihm: „Lass es jetzt zu; denn so gebührt es uns, alle Gerechtigkeit zu erfüllen.“ Da ließ er es zu.
 Und als Jesus getauft war, stieg er sogleich aus dem Wasser; und siehe, der Himmel tat sich ihm auf, und er sah den Geist Gottes wie eine Taube herabsteigen und auf ihn kommen. Und siehe, eine Stimme aus den Himmeln sprach: „Dies ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe.“
+
+### Kapitel 4
+
+Dann wurde Jesus vom Geist in die Wüste geführt, um vom Teufel versucht zu werden. Als er vierzig Tage und vierzig Nächte gefastet hatte, hungerte ihn danach. Der Versucher kam und sagte zu ihm: „Wenn du Gottes Sohn bist, so befiehl, dass diese Steine Brot werden.“
+
+Er aber antwortete: „Es steht geschrieben: ‚Der Mensch lebt nicht vom Brot allein, sondern von jedem Wort, das aus dem Mund Gottes geht.‘“
+
+Dann nahm ihn der Teufel mit in die heilige Stadt, stellte ihn auf die Zinne des Tempels und sprach zu ihm: „Wenn du Gottes Sohn bist, so stürz dich hinab; denn es steht geschrieben:
+‚Er wird seinen Engeln deinetwegen befehlen‘, und:
+‚Sie werden dich auf den Händen tragen,
+damit du deinen Fuß nicht an einen Stein stößt.‘“
+
+Jesus sagte zu ihm: „Wiederum steht geschrieben: ‚Du sollst den Herrn, deinen Gott, nicht versuchen.‘“
+
+Wiederum nahm ihn der Teufel mit auf einen sehr hohen Berg und zeigte ihm alle Reiche der Welt und ihre Herrlichkeit und sprach zu ihm: „Das alles will ich dir geben, wenn du niederfällst und mich anbetest.“
+
+Da sprach Jesus zu ihm: „Weiche von mir, Satan! Denn es steht geschrieben: ‚Du sollst den Herrn, deinen Gott, anbeten und ihm allein dienen.‘“
+
+Daraufhin verließ ihn der Teufel, und siehe, Engel kamen und dienten ihm.
+
+Als aber Jesus hörte, dass Johannes überliefert worden war, zog er sich nach Galiläa zurück. Und er verließ Nazareth, kam und wohnte in Kapernaum, das am Meer liegt, im Gebiet von Sebulon und Naftali, damit erfüllt würde, was durch den Propheten Jesaja gesagt ist:
+„Das Land Sebulon und das Land Naftali,
+am Weg zum Meer, jenseits des Jordans,
+Galiläa der Heiden:
+Das Volk, das in der Finsternis saß, hat ein großes Licht gesehen;
+und denen, die saßen im Land und Schatten des Todes,
+ist ein Licht aufgegangen.“
+
+Von da an begann Jesus zu predigen und zu sagen: „Tut Buße! Denn das Himmelreich ist nahe herbeigekommen.“
+
+Als er am Meer von Galiläa entlangging, sah er zwei Brüder, Simon, der Petrus genannt wird, und Andreas, seinen Bruder, die ein Netz ins Meer warfen; denn sie waren Fischer. Und er sprach zu ihnen: „Folgt mir nach, und ich will euch zu Menschenfischern machen.“
+
+Sogleich verließen sie ihre Netze und folgten ihm nach. Von dort ging er weiter und sah zwei andere Brüder, Jakobus, den Sohn des Zebedäus, und Johannes, seinen Bruder, im Boot mit ihrem Vater Zebedäus, wie sie ihre Netze flickten. Und er rief sie. Sogleich verließen sie das Boot und ihren Vater und folgten ihm nach.
+
+Und Jesus zog durch ganz Galiläa, lehrte in ihren Synagogen, predigte das Evangelium des Reiches und heilte jede Krankheit und jedes Gebrechen unter dem Volk. Und die Kunde von ihm verbreitete sich in ganz Syrien. Und sie brachten alle Kranken zu ihm, die mit mancherlei Krankheiten und Qualen behaftet waren, Besessene, Epileptiker und Gelähmte, und er heilte sie. Und große Volksmengen aus Galiläa, den Zehn Städten, Jerusalem, Judäa und von jenseits des Jordans folgten ihm.

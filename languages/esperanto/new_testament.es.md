@@ -65,3 +65,38 @@ Tiam Jesuo venis el Galileo al la Jordano al Johano, por esti baptita de li. Sed
 
 Sed Jesuo, respondante, diris al li, "Permesu nun, ĉar tio estas la taŭga maniero por ni plenumi ĉiun justecon." Tiam li permesis lin.
 Jesuo, kiam li estis baptita, tuj eliris el la akvo: kaj jen, la ĉieloj malfermiĝis al li. Li vidis la Spiriton de Dio malsupreniri kiel kolombo, kaj veni sur lin. Jen, voĉo el la ĉieloj diris, "Ĉi tiu estas mia amata Filo, kun kiu mi estas bone kontenta."
+
+### Ĉapitro 4
+
+Tiam Jesuo estis kondukita de la Spirito en la dezerton por esti tentata de la diablo. Kiam li fastis kvardek tagojn kaj kvardek noktojn, poste li malsatis. La tentanto venis kaj diris al li, "Se vi estas la Filo de Dio, ordonu, ke ĉi tiuj ŝtonoj fariĝu pano."
+
+Sed li respondis, "Estas skribite, 'Homo ne vivos per pano sole, sed per ĉiu vorto, kiu eliras el la buŝo de Dio.'"
+
+Tiam la diablo prenis lin en la sanktan urbon. Li starigis lin sur la pinton de la templo, kaj diris al li, "Se vi estas la Filo de Dio, ĵetu vin mem malsupren, ĉar estas skribite,
+'Li ordonos siajn anĝelojn pri vi,' kaj,
+'Sur siaj manoj ili portos vin,
+por ke vi ne frapu vian piedon kontraŭ ŝtonon.'"
+
+Jesuo diris al li, "Denove, estas skribite, 'Vi ne provos la Sinjoron, vian Dion.'"
+
+Denove, la diablo prenis lin al ekstreme alta monto, kaj montris al li ĉiujn regnojn de la mondo kaj ilian gloron. Li diris al li, "Mi donos al vi ĉiujn ĉi tiujn aferojn, se vi falos kaj adoros min."
+
+Tiam Jesuo diris al li, "Iru malantaŭen min, Satano! Ĉar estas skribite, 'Vi adoros la Sinjoron, vian Dion, kaj nur al Li vi servos.'"
+
+Tiam la diablo forlasis lin, kaj jen, anĝeloj venis kaj servis lin.
+
+Nun kiam Jesuo aŭdis, ke Johano estis transdonita, li retiriĝis en Galileon. Lasante Nazareton, li venis kaj loĝis en Kapernaumo, kiu estas apud la maro, en la regiono de Zebuluno kaj Naftali, por ke plenumiĝu tio, kio estis parolita per Jesaja la profeto, dirante,
+"La lando de Zebuluno kaj la lando de Naftali,
+al la maro, trans la Jordanon,
+Galileo de la Gentoj,
+la popolo, kiu sidis en mallumo, vidis grandan lumon;
+al tiuj, kiuj sidis en la regiono kaj ombro de morto,
+al ili lumo aperis."
+
+De tiu tempo, Jesuo komencis prediki, kaj diri, "Pentu! Ĉar la Regno de la Ĉielo estas proksima."
+
+Paŝante apud la maro de Galileo, li vidis du fratojn: Simonon, kiu estas nomata Petro, kaj Andreon, lian fraton, ĵetantajn reton en la maron; ĉar ili estis fiŝkaptistoj. Li diris al ili, "Venu post mi, kaj mi faros vin fiŝkaptistoj de homoj."
+
+Ili tuj lasis siajn retojn kaj sekvis lin. Irinte de tie, li vidis du aliajn fratojn, Jakobon filon de Zebedeo, kaj Johanon lian fraton, en la boato kun Zebedeo ilia patro, riparante siajn retojn. Li vokis ilin. Ili tuj lasis la boaton kaj sian patron, kaj sekvis lin.
+
+Jesuo iris ĉirkaŭe en ĉiuj Galileo, instruante en iliaj sinagogoj, predikante la Bonan Novaĵon de la Regno, kaj sanigante ĉiun malsanon kaj ĉiun malsaniĝon inter la popolo. La raporto pri li eliris en ĉiuj Sirio. Ili alportis al li ĉiujn, kiuj estis malsanaj, turmentitaj de diversaj malsanoj kaj turmentoj, posedataj de demonoj, epilepsiuloj, kaj paralizuloj; kaj li sanigis ilin. Grandaj homamasoj el Galileo, Dekapolo, Jerusalemo, Judujo, kaj el trans la Jordanio sekvis lin.
