@@ -141,7 +141,7 @@ Ihr habt gehört, dass gesagt ist: ‚Auge um Auge, Zahn um Zahn‘. Ich aber sa
 
 Ihr habt gehört, dass gesagt ist: ‚Du sollst deinen Nächsten lieben und deinen Feind hassen.‘ Ich aber sage euch: Liebt eure Feinde und bittet für die, die euch verfolgen, auf dass ihr Kinder seid eures Vaters im Himmel; denn er lässt seine Sonne aufgehen über Böse und Gute und lässt regnen über Gerechte und Ungerechte. Denn wenn ihr liebt, die euch lieben, welchen Lohn habt ihr? Tun nicht auch die Zöllner dasselbe? Und wenn ihr nur eure Brüder grüßt, was tut ihr Besonderes? Tun nicht auch die Heiden dasselbe? Darum sollt ihr vollkommen sein, wie euer himmlischer Vater vollkommen ist.
 
-### Kapitel 5
+### Kapitel 6
 
 Seid darauf bedacht, eure Almosen nicht vor den Menschen zu tun, um von ihnen gesehen zu werden, sonst habt ihr keinen Lohn bei eurem Vater im Himmel. Wenn ihr also Barmherzigkeit übt, posaunt nicht vor euch her, wie es die Heuchler in den Synagogen und auf den Straßen tun, um von den Menschen geehrt zu werden. Wahrlich, ich sage euch, sie haben ihren Lohn bereits erhalten. Wenn du aber Barmherzigkeit übst, lass deine linke Hand nicht wissen, was deine rechte tut, damit deine Barmherzigkeit im Verborgenen bleibt, und dein Vater, der im Verborgenen sieht, wird dir offen vergelten.
 
@@ -156,4 +156,16 @@ Und führe uns nicht in Versuchung,
 sondern erlöse uns von dem Bösen.
 Denn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. Amen.
 
+Denn wenn ihr den Menschen ihre Verfehlungen vergebt, wird auch euer himmlischer Vater euch vergeben. Wenn ihr aber den Menschen ihre Verfehlungen nicht vergebt, wird auch euer Vater eure Verfehlungen nicht vergeben.
 
+Wenn ihr fastet, macht nicht ein finsteres Gesicht wie die Heuchler. Sie verstellen ihr Gesicht, damit sie von den Menschen als Fastende erkannt werden. Wahrlich, ich sage euch, sie haben ihren Lohn schon erhalten. Wenn du fastest, salbe dein Haupt und wasche dein Gesicht, damit du nicht von den Menschen als Fastender erkannt wirst, sondern nur von deinem Vater, der im Verborgenen ist; und dein Vater, der im Verborgenen sieht, wird es dir vergelten.
+
+Sammelt euch nicht Schätze auf Erden, wo Motten und Rost zerstören und wo Diebe einbrechen und stehlen. Sammelt euch aber Schätze im Himmel, wo weder Motten noch Rost zerstören und wo Diebe nicht einbrechen noch stehlen. Denn wo euer Schatz ist, da wird auch euer Herz sein.
+
+Die Lampe des Leibes ist das Auge. Wenn dein Auge klar ist, wird dein ganzer Leib licht sein. Wenn aber dein Auge schlecht ist, wird dein ganzer Leib finster sein. Wenn nun das Licht in dir Finsternis ist, wie groß ist dann die Finsternis!
+
+Niemand kann zwei Herren dienen. Denn entweder wird er den einen hassen und den anderen lieben, oder er wird sich an den einen halten und den anderen verachten. Ihr könnt nicht Gott dienen und dem Mammon. Darum sage ich euch: Sorgt euch nicht um euer Leben, was ihr essen oder trinken werdet; noch um euren Leib, was ihr anziehen werdet. Ist nicht das Leben mehr als die Nahrung und der Leib mehr als die Kleidung? Schaut auf die Vögel des Himmels; sie säen nicht, sie ernten nicht, sie sammeln nicht in Scheunen; und euer himmlischer Vater ernährt sie doch. Seid ihr nicht viel mehr wert als sie?
+
+Wer von euch kann durch Sorgen seinem Leben eine Spanne hinzufügen? Und warum sorgt ihr euch um die Kleidung? Betrachtet die Lilien des Feldes, wie sie wachsen; sie arbeiten nicht, sie spinnen nicht; und ich sage euch, dass selbst Salomo in all seiner Pracht nicht gekleidet war wie eine von ihnen. Wenn Gott aber das Gras des Feldes, das heute steht und morgen in den Ofen geworfen wird, so kleidet, wird er euch nicht viel mehr kleiden, ihr Kleingläubigen?
+
+Darum sorgt euch nicht und sagt nicht: Was werden wir essen? Was werden wir trinken? Womit werden wir uns kleiden? Denn nach all diesen Dingen trachten die Heiden. Euer himmlischer Vater weiß, dass ihr all dies benötigt. Trachtet zuerst nach dem Reich Gottes und nach seiner Gerechtigkeit, und all dies wird euch hinzugefügt werden. Sorgt euch also nicht um den morgigen Tag, denn der morgige Tag wird für das Seine sorgen. Es ist genug, dass jeder Tag seine eigene Plage hat.

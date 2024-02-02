@@ -191,3 +191,4 @@ For yours is the Kingdom, the power, and the glory forever. Amen.’
 
 When Jesus had finished saying these things, the multitudes were astonished at his teaching, for he taught them with authority, and not like the scribes.
 
+
