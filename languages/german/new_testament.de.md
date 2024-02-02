@@ -140,3 +140,20 @@ Ihr habt weiter gehört, dass zu den Alten gesagt ist: ‚Du sollst keinen falsc
 Ihr habt gehört, dass gesagt ist: ‚Auge um Auge, Zahn um Zahn‘. Ich aber sage euch, dass ihr nicht widerstreben sollt dem Übel; sondern, wenn dir jemand einen Streich gibt auf deinen rechten Backen, dem biete den anderen auch dar. Und wenn jemand mit dir rechten will und dir deinen Rock nehmen, dem lass auch den Mantel. Und wer dich zwingt, eine Meile mitzugehen, mit dem geh zwei. Gib dem, der dich bittet, und wende dich nicht ab von dem, der von dir borgen will.
 
 Ihr habt gehört, dass gesagt ist: ‚Du sollst deinen Nächsten lieben und deinen Feind hassen.‘ Ich aber sage euch: Liebt eure Feinde und bittet für die, die euch verfolgen, auf dass ihr Kinder seid eures Vaters im Himmel; denn er lässt seine Sonne aufgehen über Böse und Gute und lässt regnen über Gerechte und Ungerechte. Denn wenn ihr liebt, die euch lieben, welchen Lohn habt ihr? Tun nicht auch die Zöllner dasselbe? Und wenn ihr nur eure Brüder grüßt, was tut ihr Besonderes? Tun nicht auch die Heiden dasselbe? Darum sollt ihr vollkommen sein, wie euer himmlischer Vater vollkommen ist.
+
+### Kapitel 5
+
+Seid darauf bedacht, eure Almosen nicht vor den Menschen zu tun, um von ihnen gesehen zu werden, sonst habt ihr keinen Lohn bei eurem Vater im Himmel. Wenn ihr also Barmherzigkeit übt, posaunt nicht vor euch her, wie es die Heuchler in den Synagogen und auf den Straßen tun, um von den Menschen geehrt zu werden. Wahrlich, ich sage euch, sie haben ihren Lohn bereits erhalten. Wenn du aber Barmherzigkeit übst, lass deine linke Hand nicht wissen, was deine rechte tut, damit deine Barmherzigkeit im Verborgenen bleibt, und dein Vater, der im Verborgenen sieht, wird dir offen vergelten.
+
+Wenn ihr betet, sollt ihr nicht wie die Heuchler sein, denn sie lieben es, in den Synagogen und an den Straßenecken stehend zu beten, damit sie von den Menschen gesehen werden. Wahrlich, ich sage euch, sie haben ihren Lohn bereits erhalten. Wenn du aber betest, geh in deine Kammer, schließ die Tür und bete zu deinem Vater im Verborgenen; und dein Vater, der im Verborgenen sieht, wird dir offen vergelten. Beim Beten sollt ihr nicht leere Wiederholungen gebrauchen wie die Heiden, die meinen, sie würden um ihres vielen Redens willen erhört. Seid ihnen nicht gleich, denn euer Vater weiß, was ihr bedürft, bevor ihr ihn bittet. Betet daher so:
+Unser Vater im Himmel, geheiligt werde dein Name.
+Dein Reich komme.
+Dein Wille geschehe, wie im Himmel, so auf Erden.
+Unser tägliches Brot gib uns heute.
+Und vergib uns unsere Schulden,
+wie auch wir unseren Schuldnern vergeben haben.
+Und führe uns nicht in Versuchung,
+sondern erlöse uns von dem Bösen.
+Denn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit. Amen.
+
+

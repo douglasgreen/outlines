@@ -142,3 +142,32 @@ Vi estas la lumo de la mondo. Urbo situanta sur monteto ne povas esti kaŝita. N
 "Vi aŭdis, ke estis dirite, 'Okulo por okulo, kaj dento por dento.' Sed mi diras al vi, ne rezistu al la malbonulo; sed se iu frapas vin sur via dekstra vango, turnu al li ankaŭ la alian. Se iu volas procesi kontraŭ vi kaj preni vian tunikon, lasu al li ankaŭ vian mantelon. Se iu devigas vin iri unu mejlon, iru kun li du. Donu al tiu, kiu petas de vi, kaj ne turnu vin for de tiu, kiu deziras pruntepreni de vi.
 
 "Vi aŭdis, ke estis dirite, 'Vi amos vian proksimulon kaj malamos vian malamikon.' Sed mi diras al vi, amu viajn malamikojn, benadu tiujn, kiuj malbenas vin, faru bonon al tiuj, kiuj malamas vin, kaj preĝu por tiuj, kiuj misuzas vin kaj persekutas vin, por ke vi estu infanoj de via Patro, kiu estas en la ĉielo. Ĉar li igas sian sunon leviĝi sur la malbonuloj kaj la bonuloj, kaj sendas pluvon sur la justulojn kaj la maljustulojn. Ĉar se vi amas tiujn, kiuj amas vin, kian rekompenson vi havas? Ĉu eĉ la impostistoj ne faras la samon? Se vi nur salutas viajn amikojn, kion pli vi faras ol aliaj? Ĉu eĉ la impostistoj ne faras la samon? Tial vi estu perfektaj, kiel via Patro en la ĉielo estas perfekta.
+
+### Ĉapitro 6
+
+Zorgu, ke vi ne faru viajn bonfarajn donacojn antaŭ homoj, por esti vidataj de ili, alie vi ne havos rekompenson de via Patro, kiu estas en la ĉielo. Tial, kiam vi faras kompatindajn agojn, ne sonigu trumpeton antaŭ vi mem, kiel la hipokrituloj faras en la sinagogoj kaj en la stratoj, por ke ili ricevu gloron de homoj. Plej certe mi diras al vi, ili jam ricevis sian rekompenson. Sed kiam vi faras kompatindajn agojn, ne lasu vian maldekstran manon scii, kion faras via dekstra mano, por ke viaj kompatindaj agoj estu en sekreto; tiam via Patro, kiu vidas en sekreto, rekompencos vin malferme.
+
+Kiam vi preĝas, vi ne estu kiel la hipokrituloj, ĉar ili amas stari kaj preĝi en la sinagogoj kaj en la anguloj de la stratoj, por ke ili estu vidataj de homoj. Plej certe, mi diras al vi, ili jam ricevis sian rekompenson. Sed vi, kiam vi preĝas, eniru en vian internan ĉambron, kaj ferminte vian pordon, preĝu al via Patro, kiu estas en sekreto; kaj via Patro, kiu vidas en sekreto, rekompencos vin malferme. Preĝante, ne uzadu vajnajn ripetadojn kiel la Gentoj; ĉar ili pensas, ke ili estos aŭditaj pro sia multe parolado. Tial ne estu kiel ili, ĉar via Patro scias, kion vi bezonas antaŭ ol vi petas lin. Preĝu jene:
+"Patro nia, kiu estas en la ĉielo, sanktigata estu via nomo.
+Venu via regno.
+Fariĝu via volo, kiel en la ĉielo, tiel ankaŭ sur la tero.
+Donu al ni hodiaŭ nian ĉiutagan panon.
+Kaj pardonu al ni niajn ŝuldojn,
+kiel ankaŭ ni pardonas al niaj ŝuldantoj.
+Kaj ne konduku nin en tenton,
+sed liberigu nin de la malbonulo.
+Ĉar via estas la regno kaj la potenco kaj la gloro eterne. Amen.'
+
+Ĉar se vi pardonas al homoj iliajn ofendojn, via ĉiela Patro ankaŭ pardonos al vi. Sed se vi ne pardonas al homoj iliajn ofendojn, ankaŭ via Patro ne pardonos viajn ofendojn.
+
+Krome, kiam vi fastas, ne estu kiel la hipokrituloj, kun malgajaj vizaĝoj. Ĉar ili defiguras siajn vizaĝojn, por ke ili estu vidataj de homoj kiel fastantaj. Plej certe mi diras al vi, ili jam ricevis sian rekompenson. Sed vi, kiam vi fastas, ŝmiru vian kapon kaj lavu vian vizaĝon, por ke vi ne estu vidata de homoj kiel fastanta, sed de via Patro, kiu estas en sekreto; kaj via Patro, kiu vidas en sekreto, rekompencos vin.
+
+Ne amasigu por vi trezorojn sur la tero, kie tineo kaj rusto konsumas, kaj kie ŝtelistoj trarompas kaj ŝtelas; sed amasigu por vi trezorojn en la ĉielo, kie nek tineo nek rusto konsumas, kaj kie ŝtelistoj ne trarompas nek ŝtelas; ĉar kie via trezoro estas, tie ankaŭ via koro estos.
+
+La lampo de la korpo estas la okulo. Se do via okulo estas sana, via tuta korpo estos plena de lumo. Sed se via okulo estas malbona, via tuta korpo estos plena de mallumo. Se do la lumo, kiu estas en vi, estas mallumo, kiom granda estas la mallumo!
+
+Neniu povas servi du mastrojn, ĉar aŭ li malamos la unu kaj amos la alian, aŭ li estos sindona al la unu kaj malŝatos la alian. Vi ne povas servi kaj Dion kaj Mamonon. Tial mi diras al vi, ne maltrankviliĝu pri via vivo: kion vi manĝos, aŭ kion vi trinkos; nek pri via korpo, kion vi surmetos. Ĉu la vivo ne estas pli ol manĝaĵo, kaj la korpo pli ol vestaĵo? Rigardu la birdojn de la ĉielo, ke ili ne semas, nek rikoltas, nek kolektas en grenejojn. Via ĉiela Patro nutras ilin. Ĉu vi ne multe pli valoras ol ili?
+
+Kiu el vi, maltrankviliĝante, povas aldoni unu momenton al sia vivdaŭro? Kial vi maltrankviliĝas pri vestaĵo? Konsideru la liliojn de la kampo, kiel ili kreskas. Ili ne laboras, nek fadenas, tamen mi diras al vi, ke eĉ Salomono en ĉiuj siaj gloraj vestoj ne estis vestita kiel unu el ĉi tiuj. Sed se Dio tiel vestas la herbon de la kampo, kiu hodiaŭ ekzistas kaj morgaŭ estas ĵetita en la fornon, ĉu ne multe pli vestos vin, vi de malmulta fido?
+
+Tial ne maltrankviliĝu, dirante, 'Kion ni manĝos?' aŭ 'Kion ni trinkos?' aŭ 'Kion ni surmetos?' Ĉar la Gentoj serĉas ĉiujn ĉi tiujn aferojn; ĉar via ĉiela Patro scias, ke vi bezonas ĉiujn ĉi tiujn aferojn. Sed unue serĉu la Regnon de Dio kaj lian justecon; kaj ĉiuj ĉi tiuj aferoj estos aldonitaj al vi. Tial ne maltrankviliĝu pri morgaŭ, ĉar morgaŭ maltrankviliĝos pri si mem. Sufiĉas al la tago ĝia propra malbono.

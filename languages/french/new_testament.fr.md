@@ -143,3 +143,32 @@ Vous avez encore entendu qu'il a été dit aux anciens : Tu ne parjureras point,
 Vous avez entendu qu'il a été dit : Œil pour œil, et dent pour dent. Mais moi, je vous dis de ne pas résister au méchant. Si quelqu'un te frappe sur la joue droite, présente-lui aussi l'autre. Si quelqu'un veut plaider contre toi et prendre ta tunique, laisse-lui encore ton manteau. Si quelqu'un te force à faire un mille, fais-en deux avec lui. Donne à celui qui te demande, et ne te détourne pas de celui qui veut emprunter de toi.
 
 Vous avez entendu qu'il a été dit : Tu aimeras ton prochain, et tu haïras ton ennemi. Mais moi, je vous dis : Aimez vos ennemis, bénissez ceux qui vous maudissent, faites du bien à ceux qui vous haïssent, et priez pour ceux qui vous maltraitent et vous persécutent, afin que vous soyez fils de votre Père qui est dans les cieux ; car il fait lever son soleil sur les méchants et sur les bons, et il fait pleuvoir sur les justes et sur les injustes. Si vous aimez ceux qui vous aiment, quelle récompense méritez-vous ? Les publicains aussi n'en font-ils pas autant ? Et si vous saluez seulement vos frères, que faites-vous d'extraordinaire ? Les païens aussi n'en font-ils pas autant ? Soyez donc parfaits, comme votre Père céleste est parfait.
+
+### Chapitre 6
+
+Veillez à ne pas faire vos œuvres de charité devant les hommes, pour être vus par eux, sinon vous n'aurez pas de récompense de la part de votre Père qui est dans les cieux. Ainsi, lorsque vous faites des œuvres de miséricorde, ne sonnez pas de la trompette devant vous, comme le font les hypocrites dans les synagogues et dans les rues, afin d'être glorifiés par les hommes. Je vous le dis en vérité, ils ont reçu leur récompense. Mais toi, quand tu fais des œuvres de miséricorde, que ta main gauche ne sache pas ce que fait ta droite, afin que tes œuvres de miséricorde soient secrètes, et ton Père, qui voit dans le secret, te le rendra.
+
+Lorsque vous priez, ne soyez pas comme les hypocrites, car ils aiment à prier debout dans les synagogues et aux coins des rues, afin d'être vus des hommes. Je vous le dis en vérité, ils ont reçu leur récompense. Mais toi, quand tu pries, entre dans ta chambre, ferme ta porte et prie ton Père qui est là dans le lieu secret ; et ton Père, qui voit dans le secret, te le rendra. En priant, n'usez pas de vaines répétitions comme les païens, qui s'imaginent qu'à force de paroles ils seront exaucés. Ne leur ressemblez pas, car votre Père sait de quoi vous avez besoin, avant que vous le lui demandiez. Priez donc ainsi :
+Notre Père qui es aux cieux, que ton nom soit sanctifié.
+Que ton règne vienne.
+Que ta volonté soit faite sur la terre comme au ciel.
+Donne-nous aujourd'hui notre pain quotidien.
+Pardonne-nous nos offenses,
+comme nous pardonnons aussi à ceux qui nous ont offensés.
+Ne nous soumets pas à la tentation,
+mais délivre-nous du mal.
+Car c'est à toi qu'appartiennent le règne, la puissance et la gloire, pour les siècles des siècles. Amen.
+
+Car si vous pardonnez aux hommes leurs fautes, votre Père céleste vous pardonnera aussi. Mais si vous ne pardonnez pas aux hommes, votre Père ne vous pardonnera pas vos fautes.
+
+Lorsque vous jeûnez, ne prenez pas un air triste comme les hypocrites. Ils se défigurent le visage pour montrer aux hommes qu'ils jeûnent. Je vous le dis en vérité, ils ont reçu leur récompense. Mais toi, lorsque tu jeûnes, parfume ta tête et lave ton visage, afin de ne pas montrer aux hommes que tu jeûnes, mais à ton Père qui est dans le secret ; et ton Père, qui voit dans le secret, te le rendra.
+
+Ne vous amassez pas des trésors sur la terre, où la mite et la rouille détruisent, et où les voleurs percent et dérobent ; mais amassez-vous des trésors dans le ciel, où ni la mite ni la rouille ne détruisent, et où les voleurs ne percent ni ne dérobent ; car là où est ton trésor, là sera aussi ton cœur.
+
+L'œil est la lampe du corps. Si donc ton œil est en bon état, tout ton corps sera lumineux. Mais si ton œil est en mauvais état, tout ton corps sera dans les ténèbres. Si donc la lumière qui est en toi est ténèbres, combien grandes sont ces ténèbres !
+
+Nul ne peut servir deux maîtres. Car, ou il haïra l'un et aimera l'autre, ou il s'attachera à l'un et méprisera l'autre. Vous ne pouvez servir Dieu et Mammon. C'est pourquoi je vous dis : Ne vous inquiétez pas pour votre vie de ce que vous mangerez, ni pour votre corps, de quoi vous serez vêtus. La vie n'est-elle pas plus que la nourriture, et le corps plus que le vêtement ? Regardez les oiseaux du ciel : ils ne sèment ni ne moissonnent, et ils n'amassent rien dans des greniers, et votre Père céleste les nourrit. Ne valez-vous pas beaucoup plus qu'eux ?
+
+Qui d'entre vous, par ses inquiétudes, peut ajouter une coudée à la durée de sa vie ? Et pourquoi vous inquiéter au sujet des vêtements ? Considérez comment croissent les lis des champs : ils ne travaillent ni ne filent. Cependant, je vous dis que Salomon même, dans toute sa gloire, n'était pas vêtu comme l'un d'eux. Si donc Dieu revêt ainsi l'herbe des champs, qui existe aujourd'hui et qui demain sera jetée au four, ne fera-t-il pas bien plus pour vous, gens de peu de foi ?
+
+Ne vous inquiétez donc pas, en disant : Que mangerons-nous ? ou : Que boirons-nous ? ou : De quoi serons-nous vêtus ? Car ce sont là toutes choses que recherchent les païens. Votre Père céleste sait que vous en avez besoin. Cherchez premièrement le royaume et la justice de Dieu, et toutes ces choses vous seront données par-dessus le marché. Ne vous inquiétez donc pas du lendemain, car le lendemain s'inquiétera de lui-même. À chaque jour suffit sa peine.
