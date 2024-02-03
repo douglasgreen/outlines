@@ -155,7 +155,7 @@
 * Data Compression
 * Data Engineering
 * Data Science
-* Data Structures - in process
+* Data Structures - done
 * Data Visualization
 * Data Warehousing
 * Debugging
