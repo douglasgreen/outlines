@@ -88,7 +88,7 @@
 * Chinese Grammar
 * Chinese Vocabulary
 * Chocolate - done
-* Christianity - in process
+* Christianity - done
 * Cities
 * Cities of the World
 * Civil War

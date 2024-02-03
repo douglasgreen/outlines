@@ -240,6 +240,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Religion](society/religion/religion.en.md)
 
 #### Christianity
+* [Christianity](society/religion/christianity/christianity.en.md)
 * [History of Christianity](society/religion/christianity/history.en.md)
 
 ##### Bible
