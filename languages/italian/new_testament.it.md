@@ -146,3 +146,33 @@ Avete udito che fu detto agli antichi: 'Non giurare il falso, ma adempi ai tuoi 
 Avete udito che fu detto: 'Occhio per occhio, e dente per dente'. Ma io vi dico di non resistere al male; anzi, se qualcuno ti percuote sulla guancia destra, porgigli anche l'altra. E se qualcuno vuole portarti in giudizio e toglierti la tunica, lasciagli anche il mantello. E se qualcuno ti costringe a fare un miglio, fanne due con lui. Da' a chi ti chiede, e non voltare le spalle a chi desidera da te un prestito.
 
 Avete udito che fu detto: 'Ama il tuo prossimo e odia il tuo nemico'. Ma io vi dico: amate i vostri nemici e pregate per quelli che vi perseguitano, affinché siate figli del vostro Padre che è nei cieli; perché egli fa sorgere il suo sole sui malvagi e sui buoni, e manda la pioggia sui giusti e sugli ingiusti. Se infatti amate coloro che vi amano, quale ricompensa avrete? Non fanno anche i pubblicani lo stesso? E se salutate solo i vostri fratelli, che fate di più? Non fanno così anche i pagani? Siate dunque perfetti, come è perfetto il vostro Padre celeste.
+
+### Capitolo 6
+
+Fate attenzione a non praticare le vostre opere di carità davanti agli uomini per essere ammirati da loro, altrimenti non avrete ricompensa presso il Padre vostro che è nei cieli. Perciò, quando fai opere di misericordia, non suonare la tromba davanti a te, come fanno gli ipocriti nelle sinagoghe e nelle strade, per essere glorificati dagli uomini. Vi dico in verità, hanno già ricevuto la loro ricompensa. Ma quando fai opere di misericordia, non sappia la tua mano sinistra ciò che fa la tua destra, affinché le tue opere di misericordia siano in segreto; e il tuo Padre, che vede nel segreto, ti ricompenserà apertamente.
+
+Quando pregate, non siate come gli ipocriti, perché amano pregare stando in piedi nelle sinagoghe e agli angoli delle piazze, per essere visti dagli uomini. In verità vi dico, hanno già ricevuto la loro ricompensa. Ma tu, quando preghi, entra nella tua stanza, chiudi la porta e prega il Padre tuo che è nel segreto; e il Padre tuo, che vede nel segreto, ti ricompenserà. Nel pregare, non usate molte parole come i pagani, che pensano di essere ascoltati per il loro molto parlare. Non siate dunque simili a loro, perché il Padre vostro sa di che cosa avete bisogno prima che glielo chiediate. Pregate così:
+
+"Padre nostro che sei nei cieli, sia santificato il tuo nome.
+Venga il tuo regno.
+Sia fatta la tua volontà, come in cielo così in terra.
+Dacci oggi il nostro pane quotidiano.
+E rimetti a noi i nostri debiti,
+come anche noi li rimettiamo ai nostri debitori.
+E non ci indurre in tentazione,
+ma liberaci dal maligno.
+Poiché tuo è il regno, la potenza e la gloria nei secoli. Amen."
+
+Perché se perdonate agli uomini le loro colpe, anche il Padre vostro celeste vi perdonerà; ma se non perdonate agli uomini, neanche il Padre vostro perdonerà le vostre colpe.
+
+Quando digiunate, non siate cupi come gli ipocriti; perché si sfigurano la faccia per far vedere agli uomini di digiunare. In verità vi dico, hanno già ricevuto la loro ricompensa. Ma tu, quando digiuni, unge il tuo capo e lava il tuo viso, affinché non appaia agli uomini che digiuni, ma al Padre tuo che è nel segreto; e il Padre tuo, che vede nel segreto, ti ricompenserà.
+
+Non accumulate per voi tesori sulla terra, dove la tigna e la ruggine consumano e dove i ladri scassinano e rubano; ma accumulate per voi tesori in cielo, dove né la tigna né la ruggine consumano e dove i ladri non scassinano né rubano; perché dove è il tuo tesoro, lì sarà anche il tuo cuore.
+
+La lampada del corpo è l'occhio. Se dunque il tuo occhio è sano, tutto il tuo corpo sarà pieno di luce; ma se il tuo occhio è cattivo, tutto il tuo corpo sarà pieno di tenebre. Se dunque la luce che è in te è tenebra, quanto grande sarà la tenebra!
+
+Nessuno può servire due padroni; perché o odierà l'uno e amerà l'altro, oppure sarà fedele all'uno e disprezzerà l'altro. Non potete servire Dio e Mammona. Perciò vi dico: non siate ansiosi per la vostra vita, di quello che mangerete o berrete, né per il vostro corpo, di quello che indosserete. Non è la vita più del cibo e il corpo più del vestito? Guardate gli uccelli del cielo: non seminano, non mietono e non raccolgono nei granai; eppure il Padre vostro celeste li nutre. Non valete voi forse più di loro?
+
+"Chi di voi, per quanto si dia pensiero, può aggiungere un solo istante alla durata della sua vita? Perché vi preoccupate per il vestiario? Osservate come crescono i gigli del campo: non faticano e non filano; eppure vi dico che neanche Salomone, con tutta la sua gloria, fu vestito come uno di questi. Ora, se Dio veste così l'erba del campo, che oggi c'è e domani viene gettata nel forno, non farà molto di più per voi, gente di poca fede?
+
+Non siate dunque ansiosi, dicendo: 'Che cosa mangeremo?', 'Che cosa berremo?' o 'Con che cosa ci vestiremo?' Perché tutte queste cose sono quelle che i pagani cercano; il Padre vostro celeste infatti sa che ne avete bisogno. Cercate piuttosto il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in aggiunta. Non siate dunque ansiosi per il domani, perché il domani avrà le sue preoccupazioni. A ogni giorno basta la sua pena."

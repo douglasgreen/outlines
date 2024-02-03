@@ -142,3 +142,32 @@ Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede e
 “Oísteis que fue dicho: ‘Ojo por ojo, y diente por diente’; pero yo os digo: No resistáis al mal; antes bien, a cualquiera que te hiera en la mejilla derecha, vuélvele también la otra. Y al que quiera ponerte a pleito y quitarte la túnica, déjale también el manto. Y a cualquiera que te obligue a llevar carga por una milla, ve con él dos. Al que te pida, dale; y al que quiera tomar de ti prestado, no le vuelvas la espalda.
 
 “Oísteis que fue dicho: ‘Amarás a tu prójimo y aborrecerás a tu enemigo’; pero yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os odian, y orad por los que os ultrajan y os persiguen; para que seáis hijos de vuestro Padre que está en los cielos; porque él hace salir su sol sobre malos y buenos, y llover sobre justos e injustos. Porque si amáis a los que os aman, ¿qué recompensa tenéis? ¿No hacen lo mismo también los publicanos? Y si saludáis a vuestros hermanos solamente, ¿qué hacéis de más? ¿No hacen lo mismo también los gentiles? Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto.
+
+### Capítulo 6
+
+“Tened cuidado de no practicar vuestra justicia delante de los hombres para ser vistos por ellos; de otra manera, no tendréis recompensa de vuestro Padre que está en los cielos. Por tanto, cuando hagas limosna, no toques trompeta delante de ti, como hacen los hipócritas en las sinagogas y en las calles, para ser glorificados por los hombres. De cierto os digo, que ya tienen su recompensa. Pero cuando tú hagas limosna, no sepa tu izquierda lo que hace tu derecha, para que tu limosna sea en secreto; y tu Padre que ve en lo secreto te recompensará en público.
+
+“Cuando oréis, no seáis como los hipócritas, porque les gusta orar de pie en las sinagogas y en las esquinas de las calles para ser vistos por los hombres. De cierto os digo que ya tienen su recompensa. Pero tú, cuando ores, entra en tu aposento y, cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público. Al orar, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán oídos. No os hagáis, pues, semejantes a ellos; porque vuestro Padre sabe de qué cosas tenéis necesidad antes de que vosotros le pidáis. Orad, pues, de esta manera:
+‘Padre nuestro que estás en los cielos, santificado sea tu nombre.
+Venga tu reino.
+Hágase tu voluntad, como en el cielo, así también en la tierra.
+Danos hoy nuestro pan de cada día.
+Y perdónanos nuestras deudas,
+como también nosotros perdonamos a nuestros deudores.
+Y no nos metas en tentación,
+sino líbranos del malo.
+Porque tuyo es el reino, el poder y la gloria por siempre. Amén.’
+
+“Porque si perdonáis a los hombres sus ofensas, vuestro Padre celestial también os perdonará a vosotros. Pero si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas.
+
+“Cuando ayunéis, no seáis austeros, como los hipócritas, que desfiguran sus rostros para mostrar a los hombres que ayunan. De cierto os digo que ya tienen su recompensa. Pero tú, cuando ayunes, unge tu cabeza y lava tu rostro, para no mostrar a los hombres que ayunas, sino a tu Padre que está en lo secreto; y tu Padre, que ve en lo secreto, te recompensará.
+
+“No os hagáis tesoros en la tierra, donde la polilla y el orín corrompen, y donde ladrones minan y hurtan; sino haceos tesoros en el cielo, donde ni la polilla ni el orín corrompen, y donde ladrones no minan ni hurtan; porque donde esté vuestro tesoro, allí estará también vuestro corazón.”
+
+"La lámpara del cuerpo es el ojo. Si, pues, tu ojo es sano, todo tu cuerpo estará lleno de luz. Pero si tu ojo es malo, todo tu cuerpo estará lleno de oscuridad. Así que, si la luz que hay en ti es oscuridad, ¡cuán grande será la oscuridad!
+
+"Nadie puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o se adherirá al uno y despreciará al otro. No podéis servir a Dios y a las riquezas. Por tanto, os digo: No os afanéis por vuestra vida, qué comeréis o qué beberéis; ni por vuestro cuerpo, qué vestiréis. ¿No es la vida más que el alimento, y el cuerpo más que el vestido? Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta. ¿No valéis vosotros mucho más que ellas?
+
+"¿Quién de vosotros, por mucho que se afane, puede añadir un codo a su estatura? ¿Y por qué os afanáis por el vestido? Considerad los lirios del campo, cómo crecen. No trabajan, ni hilan; pero os digo que ni aun Salomón, con toda su gloria, se vistió como uno de ellos. Y si la hierba del campo, que hoy es, y mañana se echa en el horno, Dios así la viste, ¿no hará mucho más por vosotros, hombres de poca fe?
+
+"Por tanto, no os afanéis, diciendo: '¿Qué comeremos?', '¿Qué beberemos?' o '¿Con qué nos vestiremos?' Porque los gentiles buscan todas estas cosas; pero vuestro Padre celestial sabe que tenéis necesidad de todas ellas. Mas buscad primero el reino de Dios y su justicia, y todas estas cosas os serán añadidas. Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su propio afán. Basta a cada día su propio mal.

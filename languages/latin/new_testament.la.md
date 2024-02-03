@@ -139,3 +139,33 @@ Iterum audistis quia dictum est antiquis: 'Non peierabis, reddes autem Domino iu
 Audistis quia dictum est: 'Oculum pro oculo et dentem pro dente.' Ego autem dico vobis non resistere malo; sed si quis te percusserit in dexteram maxillam tuam, praebe illi et alteram. Et ei qui vult tecum iudicio contendere et tunicam tuam tollere, dimitte ei et pallium. Et quicumque te angariaverit mille passus, vade cum eo duo. Da ei qui te rogat, et a te volenti mutuari ne avertaris.
 
 Audistis quia dictum est: 'Diliges proximum tuum et odio habebis inimicum tuum.' Ego autem dico vobis: Diligite inimicos vestros, benedicite his qui vos maledicunt, benefacite his qui vos oderunt, et orate pro persequentibus et calumniantibus vos, ut sitis filii Patris vestri qui in caelis est; qui solem suum oriri facit super malos et bonos et pluit super iustos et iniustos. Si enim diligatis eos qui vos diligunt, quam mercedem habebitis? Nonne et publicani hoc faciunt? Et si salutaveritis fratres vestros tantum, quid amplius facitis? Nonne et ethnici hoc faciunt? Estote ergo vos perfecti, sicut et Pater vester caelestis perfectus est.
+
+### Caput 6
+
+Videte ne iustitiam vestram faciatis coram hominibus ut videamini ab eis; alioquin mercedem non habebitis apud Patrem vestrum qui in caelis est. Cum ergo facis eleemosynam, noli tuba canere ante te, sicut hypocritae faciunt in synagogis et in vicis, ut honorificentur ab hominibus. Amen dico vobis, receperunt mercedem suam. Te autem faciente eleemosynam, nesciat sinistra tua quid faciat dextera tua, ut sit eleemosyna tua in abscondito; et Pater tuus, qui videt in abscondito, reddet tibi.
+
+Cum oratis, non eritis sicut hypocritae, qui amant in synagogis et in angulis platearum stantes orare, ut videantur ab hominibus. Amen dico vobis, receperunt mercedem suam. Tu autem cum oras, intra in cubiculum tuum et clauso ostio, ora Patrem tuum in abscondito; et Pater tuus, qui videt in abscondito, reddet tibi. Orantes autem, nolite multum loqui sicut gentes; putant enim quia in multiloquio suo exaudiantur. Nolite ergo assimilari eis; scit enim Pater vester quid opus sit vobis antequam petatis eum. Sic ergo orabitis:
+“Pater noster, qui es in caelis,
+sanctificetur nomen tuum.
+Adveniat regnum tuum.
+Fiat voluntas tua, sicut in caelo et in terra.
+Panem nostrum quotidianum da nobis hodie.
+Et dimitte nobis debita nostra,
+sicut et nos dimittimus debitoribus nostris.
+Et ne nos inducas in tentationem,
+sed libera nos a Malo.
+Quia tuum est regnum, et potestas, et gloria in saecula. Amen.”
+
+Si enim dimiseritis hominibus peccata eorum, dimittet et vobis Pater vester caelestis; si autem non dimiseritis hominibus, neque Pater vester dimittet peccata vestra.
+
+Cum autem ieiunatis, nolite fieri sicut hypocritae, tristes. Exterminant enim facies suas ut appareant hominibus ieiunantes. Amen dico vobis, receperunt mercedem suam. Tu autem cum ieiunas, unge caput tuum et faciem tuam lava, ne videaris hominibus ieiunans, sed Patri tuo qui est in abscondito; et Pater tuus, qui videt in abscondito, reddet tibi.
+
+Nolite thesaurizare vobis thesauros in terra, ubi tinea et rubigo exterminant, et ubi fures effodiunt et furantur; thesaurizate autem vobis thesauros in caelo, ubi neque tinea neque rubigo exterminat, et ubi fures non effodiunt nec furantur; ubi enim est thesaurus tuus, ibi erit et cor tuum.
+
+Lucerna corporis est oculus. Si ergo oculus tuus simplex fuerit, totum corpus tuum lucidum erit. Si autem oculus tuus nequam fuerit, totum corpus tuum tenebrosum erit. Si ergo lux quae in te est tenebrae sunt, quantae sunt tenebrae!
+
+Nemo potest duobus dominis servire: aut enim unum odiet et alterum diliget, aut uni adhaerebit et alterum contemnet. Non potestis Deo servire et Mammonae. Ideo dico vobis, nolite solliciti esse animae vestrae quid manducetis, neque corpori vestro quid induamini. Nonne anima plus est quam esca, et corpus plus quam vestimentum? Respicite volatilia caeli, quoniam non serunt neque metunt neque congregant in horrea; et Pater vester caelestis pascit illa. Nonne vos magis pluris estis illis?
+
+Quis autem vestrum cogitans potest adicere ad staturam suam cubitum unum? Et de vestimento quid solliciti estis? Considerate lilia agri quomodo crescunt: non laborant neque nent. Dico autem vobis, quia ne Solomon in omni gloria sua vestitus est sicut unum ex istis. Si autem fenum agri, quod hodie est et cras in clibanum mittitur, Deus sic vestit, quanto magis vos, modicae fidei?
+
+Nolite ergo solliciti esse dicentes: 'Quid manducabimus?' aut 'Quid bibemus?' aut 'Quo vestiemur?' Haec enim omnia gentes quaerunt. Scit enim Pater vester caelestis quia his omnibus indigetis. Sed quaerite primum regnum Dei et iustitiam eius, et haec omnia adicientur vobis. Nolite ergo solliciti esse in crastinum; crastinus enim dies sollicitus erit sibi ipsi. Sufficit diei malitia sua.
