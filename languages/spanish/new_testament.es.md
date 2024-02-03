@@ -171,3 +171,21 @@ Porque tuyo es el reino, el poder y la gloria por siempre. Amén.’
 "¿Quién de vosotros, por mucho que se afane, puede añadir un codo a su estatura? ¿Y por qué os afanáis por el vestido? Considerad los lirios del campo, cómo crecen. No trabajan, ni hilan; pero os digo que ni aun Salomón, con toda su gloria, se vistió como uno de ellos. Y si la hierba del campo, que hoy es, y mañana se echa en el horno, Dios así la viste, ¿no hará mucho más por vosotros, hombres de poca fe?
 
 "Por tanto, no os afanéis, diciendo: '¿Qué comeremos?', '¿Qué beberemos?' o '¿Con qué nos vestiremos?' Porque los gentiles buscan todas estas cosas; pero vuestro Padre celestial sabe que tenéis necesidad de todas ellas. Mas buscad primero el reino de Dios y su justicia, y todas estas cosas os serán añadidas. Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su propio afán. Basta a cada día su propio mal.
+
+### Capítulo 7
+
+"No juzguéis, para que no seáis juzgados. Porque con el juicio con que juzgáis, seréis juzgados; y con la medida con que medís, os será medido. ¿Y por qué miras la paja que está en el ojo de tu hermano, y no consideras la viga que está en tu propio ojo? ¿O cómo dirás a tu hermano: 'Déjame sacar la paja de tu ojo', y he aquí la viga en el ojo tuyo? ¡Hipócrita! Saca primero la viga de tu propio ojo, y entonces verás claramente para sacar la paja del ojo de tu hermano.
+
+"No deis lo santo a los perros, ni echéis vuestras perlas delante de los cerdos, no sea que las pisoteen, y se vuelvan y os despedacen.
+
+"Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá. Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá. ¿Qué hombre hay de vosotros, que si su hijo le pide pan, le dará una piedra? ¿O si le pide un pescado, le dará una serpiente? Si vosotros, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará cosas buenas a los que le pidan? Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas.
+
+"Entrad por la puerta estrecha; porque ancha es la puerta, y espacioso el camino que lleva a la perdición, y muchos son los que entran por ella. ¡Cuán estrecha es la puerta, y angosto el camino que lleva a la vida, y pocos son los que la hallan!
+
+"Guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, pero por dentro son lobos rapaces. Por sus frutos los conoceréis. ¿Acaso se recogen uvas de los espinos, o higos de los abrojos? Así, todo buen árbol da buenos frutos, pero el árbol malo da frutos malos. Un buen árbol no puede dar frutos malos, ni un árbol malo dar frutos buenos. Todo árbol que no da buen fruto, es cortado y echado al fuego. Así que, por sus frutos los conoceréis.
+
+"No todo el que me dice: 'Señor, Señor', entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos. Muchos me dirán en aquel día: 'Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre echamos fuera demonios, y en tu nombre hicimos muchos milagros?' Y entonces les declararé: 'Nunca os conocí; apartaos de mí, los que practicáis la iniquidad.'
+
+"Por tanto, todo aquel que oye estas palabras mías y las pone en práctica, será comparado a un hombre prudente que edificó su casa sobre la roca. Descendió la lluvia, vinieron las inundaciones, soplaron los vientos y azotaron aquella casa; y no cayó, porque estaba fundada sobre la roca. Y todo aquel que oye estas palabras mías y no las pone en práctica, será comparado a un hombre insensato que edificó su casa sobre la arena. Descendió la lluvia, vinieron las inundaciones, soplaron los vientos y azotaron aquella casa; y cayó, y grande fue su caída."
+
+Cuando Jesús terminó de decir estas cosas, las multitudes estaban asombradas de su enseñanza, pues les enseñaba con autoridad, y no como los escribas.

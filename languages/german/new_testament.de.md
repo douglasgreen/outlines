@@ -169,3 +169,21 @@ Niemand kann zwei Herren dienen. Denn entweder wird er den einen hassen und den 
 Wer von euch kann durch Sorgen seinem Leben eine Spanne hinzufügen? Und warum sorgt ihr euch um die Kleidung? Betrachtet die Lilien des Feldes, wie sie wachsen; sie arbeiten nicht, sie spinnen nicht; und ich sage euch, dass selbst Salomo in all seiner Pracht nicht gekleidet war wie eine von ihnen. Wenn Gott aber das Gras des Feldes, das heute steht und morgen in den Ofen geworfen wird, so kleidet, wird er euch nicht viel mehr kleiden, ihr Kleingläubigen?
 
 Darum sorgt euch nicht und sagt nicht: Was werden wir essen? Was werden wir trinken? Womit werden wir uns kleiden? Denn nach all diesen Dingen trachten die Heiden. Euer himmlischer Vater weiß, dass ihr all dies benötigt. Trachtet zuerst nach dem Reich Gottes und nach seiner Gerechtigkeit, und all dies wird euch hinzugefügt werden. Sorgt euch also nicht um den morgigen Tag, denn der morgige Tag wird für das Seine sorgen. Es ist genug, dass jeder Tag seine eigene Plage hat.
+
+### Kapitel 7
+
+Richtet nicht, damit ihr nicht gerichtet werdet. Denn mit welchem Gericht ihr richtet, werdet ihr gerichtet werden; und mit welchem Maß ihr messt, wird euch gemessen werden. Warum siehst du den Splitter im Auge deines Bruders, aber den Balken in deinem eigenen Auge nimmst du nicht wahr? Oder wie kannst du zu deinem Bruder sagen: ‚Lass mich den Splitter aus deinem Auge ziehen‘, und siehe, der Balken ist in deinem eigenen Auge? Du Heuchler, zieh zuerst den Balken aus deinem eigenen Auge, und dann wirst du klar sehen, um den Splitter aus dem Auge deines Bruders zu ziehen.
+
+Gebt das Heilige nicht den Hunden, und werft eure Perlen nicht vor die Schweine, damit sie diese nicht mit ihren Füßen zertreten und sich umwenden und euch zerreißen.
+
+Bittet, und es wird euch gegeben; sucht, und ihr werdet finden; klopft an, und es wird euch geöffnet. Denn jeder, der bittet, empfängt; und wer sucht, findet; und wer anklopft, dem wird geöffnet. Oder welcher Mensch ist unter euch, der, wenn sein Sohn ihn um Brot bittet, ihm einen Stein geben wird? Oder wenn er um einen Fisch bittet, ihm eine Schlange geben wird? Wenn ihr nun, die ihr böse seid, euren Kindern gute Gaben zu geben wisst, wie viel mehr wird euer Vater im Himmel denen Gutes geben, die ihn bitten! Alles nun, was ihr wollt, dass euch die Menschen tun, das tut auch ihr ihnen; denn das ist das Gesetz und die Propheten.
+
+Geht ein durch die enge Pforte; denn weit ist das Tor und breit der Weg, der zur Verdammnis führt, und viele sind, die darauf wandeln. Wie eng ist die Pforte und schmal der Weg, der zum Leben führt, und wenige sind, die ihn finden!
+
+Hütet euch vor falschen Propheten, die in Schafskleidern zu euch kommen, inwendig aber reißende Wölfe sind. An ihren Früchten werdet ihr sie erkennen. Liest man etwa Trauben von Dornen oder Feigen von Disteln? So bringt jeder gute Baum gute Früchte hervor, aber ein fauler Baum bringt schlechte Früchte hervor. Ein guter Baum kann keine schlechten Früchte tragen, und ein fauler Baum kann keine guten Früchte tragen. Jeder Baum, der keine gute Frucht bringt, wird abgehauen und ins Feuer geworfen. Darum werdet ihr sie an ihren Früchten erkennen.
+
+Nicht jeder, der zu mir sagt: ‚Herr, Herr‘, wird in das Himmelreich eingehen, sondern der, der den Willen meines Vaters im Himmel tut. Viele werden an jenem Tag zu mir sagen: ‚Herr, Herr, haben wir nicht in deinem Namen geweissagt, in deinem Namen Dämonen ausgetrieben und in deinem Namen viele Wunder getan?‘ Dann werde ich ihnen bekennen: Ich habe euch nie gekannt; weicht von mir, ihr Übeltäter.
+
+Jeder also, der diese meine Worte hört und sie tut, der wird einem klugen Mann gleich sein, der sein Haus auf den Fels baute. Der Regen fiel nieder, die Fluten kamen, und die Winde wehten und stürmten gegen jenes Haus; und es fiel nicht, denn es war auf den Felsen gegründet. Und jeder, der diese meine Worte hört und sie nicht tut, wird einem törichten Mann gleich sein, der sein Haus auf den Sand baute. Der Regen fiel nieder, die Fluten kamen, und die Winde wehten und schlugen an jenes Haus; und es fiel, und sein Fall war groß.
+
+Als Jesus diese Worte beendet hatte, waren die Menschenmenge über seine Lehre erstaunt, denn er lehrte sie mit Autorität und nicht wie ihre Schriftgelehrten.

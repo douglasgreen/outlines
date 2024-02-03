@@ -171,3 +171,21 @@ Neniu povas servi du mastrojn, ĉar aŭ li malamos la unu kaj amos la alian, aŭ
 Kiu el vi, maltrankviliĝante, povas aldoni unu momenton al sia vivdaŭro? Kial vi maltrankviliĝas pri vestaĵo? Konsideru la liliojn de la kampo, kiel ili kreskas. Ili ne laboras, nek fadenas, tamen mi diras al vi, ke eĉ Salomono en ĉiuj siaj gloraj vestoj ne estis vestita kiel unu el ĉi tiuj. Sed se Dio tiel vestas la herbon de la kampo, kiu hodiaŭ ekzistas kaj morgaŭ estas ĵetita en la fornon, ĉu ne multe pli vestos vin, vi de malmulta fido?
 
 Tial ne maltrankviliĝu, dirante, 'Kion ni manĝos?' aŭ 'Kion ni trinkos?' aŭ 'Kion ni surmetos?' Ĉar la Gentoj serĉas ĉiujn ĉi tiujn aferojn; ĉar via ĉiela Patro scias, ke vi bezonas ĉiujn ĉi tiujn aferojn. Sed unue serĉu la Regnon de Dio kaj lian justecon; kaj ĉiuj ĉi tiuj aferoj estos aldonitaj al vi. Tial ne maltrankviliĝu pri morgaŭ, ĉar morgaŭ maltrankviliĝos pri si mem. Sufiĉas al la tago ĝia propra malbono.
+
+### Ĉapitro 7
+
+"Ne juĝu, por ke vi ne estu juĝataj. Ĉar per kia juĝo vi juĝas, vi estos juĝataj; kaj per kia mezuro vi mezuras, al vi estos remezurita. Kial vi vidas la trabon en la okulo de via frato, sed ne konsideras la trabon en via propra okulo? Aŭ kiel vi diros al via frato, 'Permesu, ke mi forigu la trabon el via okulo,' kaj jen, la trabo estas en via propra okulo? Vi hipokritulo! Unue forigu la trabon el via propra okulo, kaj tiam vi povos klare vidi por forigi la trabon el la okulo de via frato.
+
+"Ne donu tion, kio estas sankta, al la hundoj, nek ĵetu viajn perlojn antaŭ la porkojn, por ke ili eble ne piedpremu ilin sub siaj piedoj, kaj turnu sin kaj disŝiru vin.
+
+"Petu, kaj ĝi estos donita al vi. Serĉu, kaj vi trovos. Frapu, kaj ĝi estos malfermita por vi. Ĉar ĉiu, kiu petas, ricevas. Kiu serĉas, trovas. Kaj al tiu, kiu frapas, ĝi estos malfermita. Aŭ kiu estas inter vi, kiu, se lia filo petas panon, donos al li ŝtonon? Aŭ se li petas fiŝon, kiu donos al li serpenton? Se do vi, estante malbonaj, scias doni bonajn donacojn al viaj infanoj, kiom pli via Patro, kiu estas en la ĉielo, donos bonajn aferojn al tiuj, kiuj petas lin! Tial, kion ajn vi deziras, ke homoj faru al vi, faru ankaŭ tiel al ili; ĉar tio estas la leĝo kaj la profetoj.
+
+"Eniru tra la mallarĝa pordego; ĉar la pordego estas larĝa kaj la vojo estas vasta, kiu kondukas al pereo, kaj multaj estas, kiuj eniras tra ĝi. Kiel mallarĝa estas la pordego kaj restrikta la vojo, kiu kondukas al la vivo! Kaj malmultaj estas, kiuj ĝin trovas.
+
+"Zorgu pri falsaj profetoj, kiuj venas al vi en ŝafaj vestoj, sed interne estas rabemaj lupoj. Laŭ iliaj fruktoj vi konos ilin. Ĉu oni kolektas vinberojn el dornoj aŭ figojn el kardoj? Same, ĉiu bona arbo produktas bonajn fruktojn, sed la korupta arbo produktas malbonajn fruktojn. Bona arbo ne povas produkti malbonajn fruktojn, nek korupta arbo produkti bonajn fruktojn. Ĉiu arbo, kiu ne kreskigas bonajn fruktojn, estas dehakita kaj ĵetita en la fajron. Tial laŭ iliaj fruktoj vi konos ilin.
+
+Ne ĉiu, kiu diras al mi, 'Sinjoro, Sinjoro,' eniros en la Regnon de la Ĉielo, sed tiu, kiu faras la volon de mia Patro, kiu estas en la ĉielo. Multaj diros al mi en tiu tago, 'Sinjoro, Sinjoro, ĉu ni ne profetis en via nomo, en via nomo elĵetis demonojn, kaj en via nomo faris multajn potencajn farojn?' Tiam mi diros al ili, 'Mi neniam konis vin. Foriru de mi, vi, kiuj laboras maljustecon.'
+
+Tial ĉiu, kiu aŭdas ĉi tiujn miajn vortojn kaj ilin faras, estos komparata al saĝa viro, kiu konstruis sian domon sur roko. La pluvo falis, la inundoj venis, kaj la ventoj blovis kaj batis kontraŭ tiu domo; kaj ĝi ne falis, ĉar ĝi estis fondita sur roko. Ĉiu, kiu aŭdas ĉi tiujn miajn vortojn kaj ilin ne faras, estos simila al malsaĝa viro, kiu konstruis sian domon sur sablo. La pluvo falis, la inundoj venis, kaj la ventoj blovis kaj batis kontraŭ tiu domo; kaj ĝi falis — kaj ĝia falo estis granda.
+
+Kiam Jesuo finis diri ĉi tiujn aferojn, la homamasoj miris pri lia instruado, ĉar li instruis ilin kun aŭtoritato, kaj ne kiel la skribistoj.

@@ -176,3 +176,21 @@ Nessuno può servire due padroni; perché o odierà l'uno e amerà l'altro, oppu
 "Chi di voi, per quanto si dia pensiero, può aggiungere un solo istante alla durata della sua vita? Perché vi preoccupate per il vestiario? Osservate come crescono i gigli del campo: non faticano e non filano; eppure vi dico che neanche Salomone, con tutta la sua gloria, fu vestito come uno di questi. Ora, se Dio veste così l'erba del campo, che oggi c'è e domani viene gettata nel forno, non farà molto di più per voi, gente di poca fede?
 
 Non siate dunque ansiosi, dicendo: 'Che cosa mangeremo?', 'Che cosa berremo?' o 'Con che cosa ci vestiremo?' Perché tutte queste cose sono quelle che i pagani cercano; il Padre vostro celeste infatti sa che ne avete bisogno. Cercate piuttosto il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in aggiunta. Non siate dunque ansiosi per il domani, perché il domani avrà le sue preoccupazioni. A ogni giorno basta la sua pena."
+
+### Capitolo 7
+
+"Non giudicate, affinché non siate giudicati. Perché con il giudizio con cui giudicate, sarete giudicati; e con la misura con cui misurate, vi sarà misurato. Perché vedi la pagliuzza nell'occhio del tuo fratello, ma non ti accorgi della trave che è nel tuo occhio? O come dirai al tuo fratello: 'Lascia che tolga la pagliuzza dal tuo occhio', mentre ecco, la trave è nel tuo occhio? Ipocrita, togli prima la trave dal tuo occhio, e allora vedrai chiaramente per togliere la pagliuzza dall'occhio del tuo fratello.
+
+Non date ciò che è santo ai cani, né gettate le vostre perle davanti ai porci, affinché non le calpestino con i loro piedi, e poi si voltino a sbranarvi.
+
+Chiedete e vi sarà dato; cercate e troverete; bussate e vi sarà aperto. Perché chiunque chiede riceve; chi cerca trova; e a chi bussa sarà aperto. Chi di voi, se il figlio gli chiede del pane, gli darà una pietra? O se gli chiede un pesce, gli darà un serpente? Se voi dunque, pur essendo malvagi, sapete dare cose buone ai vostri figli, quanto più il Padre vostro che è nei cieli darà cose buone a coloro che glielo chiedono! Tutto ciò dunque che volete che gli uomini facciano a voi, anche voi fatelo a loro; perché questa è la legge e i profeti.
+
+Entrate per la porta stretta; perché larga è la porta e spaziosa la via che conduce alla perdizione, e molti sono quelli che entrano per essa. Quanto è stretta la porta e angusta la via che conduce alla vita! E pochi sono quelli che la trovano.
+
+Guardatevi dai falsi profeti, che vengono a voi in vesti di pecora, ma dentro sono lupi rapaci. Dai loro frutti li riconoscerete. Si raccolgono forse uva dalle spine o fichi dai rovi? Così, ogni albero buono produce frutti buoni, ma l'albero cattivo produce frutti cattivi. Un albero buono non può produrre frutti cattivi, né un albero cattivo produrre frutti buoni. Ogni albero che non produce buon frutto viene tagliato e gettato nel fuoco. Dunque, dai loro frutti li riconoscerete.
+
+Non chiunque mi dice: 'Signore, Signore', entrerà nel Regno dei Cieli, ma chi fa la volontà del Padre mio che è nei cieli. Molti mi diranno in quel giorno: 'Signore, Signore, non abbiamo noi profetizzato nel tuo nome, e nel tuo nome scacciato demoni, e fatto nel tuo nome molti miracoli?' E allora dichiarerò loro: 'Non vi ho mai conosciuti; allontanatevi da me, voi operatori di iniquità.'"
+
+Chiunque dunque ascolta queste mie parole e le mette in pratica sarà paragonato a un uomo saggio che ha costruito la sua casa sulla roccia. Discese la pioggia, vennero le inondazioni, soffiarono i venti e si abbatterono su quella casa; ma essa non cadde, perché era fondata sulla roccia. Chiunque ascolta queste mie parole e non le mette in pratica sarà paragonato a un uomo stolto che ha costruito la sua casa sulla sabbia. Discese la pioggia, vennero le inondazioni, soffiarono i venti e si abbatterono su quella casa; ed essa cadde, e grande fu la sua rovina."
+
+Quando Gesù ebbe finito di dire queste cose, le folle rimasero stupite del suo insegnamento, perché egli insegnava loro come uno che ha autorità, e non come gli scribi.

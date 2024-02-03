@@ -169,3 +169,21 @@ Nemo potest duobus dominis servire: aut enim unum odiet et alterum diliget, aut 
 Quis autem vestrum cogitans potest adicere ad staturam suam cubitum unum? Et de vestimento quid solliciti estis? Considerate lilia agri quomodo crescunt: non laborant neque nent. Dico autem vobis, quia ne Solomon in omni gloria sua vestitus est sicut unum ex istis. Si autem fenum agri, quod hodie est et cras in clibanum mittitur, Deus sic vestit, quanto magis vos, modicae fidei?
 
 Nolite ergo solliciti esse dicentes: 'Quid manducabimus?' aut 'Quid bibemus?' aut 'Quo vestiemur?' Haec enim omnia gentes quaerunt. Scit enim Pater vester caelestis quia his omnibus indigetis. Sed quaerite primum regnum Dei et iustitiam eius, et haec omnia adicientur vobis. Nolite ergo solliciti esse in crastinum; crastinus enim dies sollicitus erit sibi ipsi. Sufficit diei malitia sua.
+
+### Caput 7
+
+"Nolite iudicare, ut non iudicemini. In quo enim iudicio iudicaveritis, iudicabimini; et in qua mensura mensi fueritis, remetietur vobis. Quid autem vides festucam in oculo fratris tui, trabem autem in oculo tuo non vides? Aut quomodo dicis fratri tuo: 'Sine, eiciam festucam de oculo tuo,' et ecce, trabs in oculo tuo est? Hypocrita, eice primum trabem de oculo tuo, et tunc perspicies ut eicias festucam de oculo fratris tui.
+
+"Nolite dare sanctum canibus neque mittatis margaritas vestras ante porcos, ne forte conculcent eas pedibus suis, et conversi disrumpant vos.
+
+"Petite, et dabitur vobis; quaerite, et invenietis; pulsate, et aperietur vobis. Omnis enim qui petit accipit; et qui quaerit invenit; et pulsanti aperietur. Quis ex vobis hominum, si filius eius petierit panem, numquid lapidem porriget ei? Aut si piscem petierit, numquid serpentem porriget ei? Si ergo vos, cum sitis mali, nostis bona dona dare filiis vestris, quanto magis Pater vester qui in caelis est dabit bona petentibus se! Omnia ergo quaecumque vultis ut faciant vobis homines, et vos facite illis; haec est enim lex et prophetae.
+
+"Intrate per angustam portam; quia lata porta et spatiosa via quae ducit ad perditionem, et multi sunt qui intrant per eam. Quam angusta porta et arcta via quae ducit ad vitam, et pauci sunt qui inveniunt eam!
+
+"Attendite a falsis prophetis, qui veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces. Ex fructibus eorum cognoscetis eos. Numquid colligunt de spinis uvas aut de tribulis ficus? Sic omnis arbor bona fructus bonos facit, sed arbor mala fructus malos facit. Non potest arbor bona fructus malos facere, neque arbor mala fructus bonos facere. Omnis arbor quae non facit fructum bonum exciditur et in ignem mittitur. Igitur ex fructibus eorum cognoscetis eos.
+
+"Non omnis qui dicit mihi: 'Domine, Domine,' intrabit in regnum caelorum, sed qui facit voluntatem Patris mei qui in caelis est. Multi dicent mihi in illa die: 'Domine, Domine, nonne in nomine tuo prophetavimus, et in nomine tuo daemonia eiecimus, et in nomine tuo virtutes multas fecimus?' Et tunc confitebor illis: 'Numquam novi vos; discedite a me, qui operamini iniquitatem.'"
+
+Omnis ergo qui audit haec verba mea et facit ea, assimilabo eum viro sapienti, qui aedificavit domum suam supra petram. Et descendit pluvia, et venerunt flumina, et flaverunt venti et impetum fecerunt in domum illam; et non cecidit, quia fundata erat super petram. Omnis autem qui audit haec verba mea et non facit ea, similabitur viro stulto, qui aedificavit domum suam super arenam. Et descendit pluvia, et venerunt flumina, et flaverunt venti et irruerunt in domum illam; et cecidit, et fuit ruina eius magna.
+
+Cum autem Iesus finisset hos sermones, turbae mirabantur super doctrina eius, quia docebat eos sicut potestatem habens, et non sicut scribae.
