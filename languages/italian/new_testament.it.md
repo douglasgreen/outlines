@@ -194,3 +194,23 @@ Non chiunque mi dice: 'Signore, Signore', entrerà nel Regno dei Cieli, ma chi f
 Chiunque dunque ascolta queste mie parole e le mette in pratica sarà paragonato a un uomo saggio che ha costruito la sua casa sulla roccia. Discese la pioggia, vennero le inondazioni, soffiarono i venti e si abbatterono su quella casa; ma essa non cadde, perché era fondata sulla roccia. Chiunque ascolta queste mie parole e non le mette in pratica sarà paragonato a un uomo stolto che ha costruito la sua casa sulla sabbia. Discese la pioggia, vennero le inondazioni, soffiarono i venti e si abbatterono su quella casa; ed essa cadde, e grande fu la sua rovina."
 
 Quando Gesù ebbe finito di dire queste cose, le folle rimasero stupite del suo insegnamento, perché egli insegnava loro come uno che ha autorità, e non come gli scribi.
+
+### Capitolo 8
+
+Quando scese dal monte, grandi folle lo seguirono. Ed ecco, un lebbroso si avvicinò e lo adorò, dicendo: "Signore, se vuoi, puoi rendermi puro." Gesù stese la mano, lo toccò e disse: "Lo voglio, sii reso puro." E subito la sua lebbra fu guarita. Gesù gli disse: "Guarda di non dirlo a nessuno; ma va', mostrati al sacerdote e presenta l'offerta che Mosè ha comandato, come testimonianza per loro."
+
+Quando entrò a Cafarnao, un centurione si avvicinò a lui, pregandolo e dicendo: "Signore, il mio servo giace in casa paralizzato, soffrendo terribilmente." Gesù gli disse: "Verrò e lo guarirò." Ma il centurione rispose: "Signore, non sono degno che tu entri sotto il mio tetto. Ma di' soltanto una parola e il mio servo sarà guarito. Anch'io sono un uomo sotto autorità, con soldati sotto di me. Dico a questo: 'Vai,' ed egli va; e a un altro: 'Vieni,' ed egli viene; e al mio servo: 'Fai questo,' ed egli lo fa."
+
+Quando Gesù lo udì, si meravigliò e disse a quelli che lo seguivano: "In verità vi dico, in nessuno in Israele ho trovato una fede così grande. E vi dico che molti verranno da oriente e occidente e siederanno a tavola con Abramo, Isacco e Giacobbe nel Regno dei Cieli, mentre i figli del Regno saranno gettati fuori nelle tenebre esterne; là sarà pianto e stridore di denti." Poi Gesù disse al centurione: "Va', e ti sia fatto come hai creduto." E in quell'ora il servo fu guarito.
+
+Entrato nella casa di Pietro, Gesù vide la suocera di lui che giaceva a letto con la febbre. Toccò la sua mano, e la febbre la lasciò. Ella si alzò e cominciò a servirlo. Venuta la sera, gli portarono molti indemoniati. Egli scacciò gli spiriti con una parola e guarì tutti i malati, affinché si adempisse ciò che era stato detto per mezzo del profeta Isaia: "Egli ha preso le nostre infermità e si è caricato delle nostre malattie."
+
+Ora, vedendo le grandi folle intorno a sé, Gesù diede ordine di passare all'altra riva.
+
+Un dottore della legge si avvicinò e gli disse: "Maestro, ti seguirò dovunque tu vada." Gesù gli rispose: "Le volpi hanno tane e gli uccelli del cielo nidi, ma il Figlio dell'uomo non ha dove posare il capo."
+
+Un altro dei suoi discepoli gli disse: "Signore, permettimi di andare prima a seppellire mio padre." Ma Gesù gli disse: "Seguimi, e lascia che i morti seppelliscano i loro morti."
+
+Quando egli salì sulla barca, i suoi discepoli lo seguirono. Ed ecco, si scatenò sul mare una tempesta così violenta che le onde coprivano la barca; ma egli dormiva. I discepoli si avvicinarono e lo svegliarono, dicendo: "Salvaci, Signore! Stiamo per morire!" Ed egli disse loro: "Perché avete paura, o gente di poca fede?" Poi si alzò, sgridò il vento e il mare, e si fece una grande calma. Gli uomini si meravigliarono, dicendo: "Che tipo di uomo è questo, che anche il vento e il mare gli obbediscono?"
+
+Quando giunse all'altra riva, nel paese dei Geraseni, lo incontrarono due indemoniati che uscivano dai sepolcri, estremamente feroci, tanto che nessuno poteva passare da quella strada. Ed ecco, gridarono: "Che c'è tra noi e te, Gesù, Figlio di Dio? Sei venuto qui per tormentarci prima del tempo?" Ora, a una certa distanza da loro, c'era un grande branco di porci al pascolo. I demoni lo supplicavano, dicendo: "Se ci scacci, permettici di andare in quel branco di porci." Ed egli disse loro: "Andate!" Uscirono e si gettarono nel branco di porci; ed ecco, tutto il branco si precipitò giù per il dirupo nel mare e morì nelle acque. Quelli che li pascolavano fuggirono, andarono in città e raccontarono tutto, incluso ciò che era accaduto agli indemoniati. Ed ecco, tutta la città uscì incontro a Gesù e, quando lo videro, lo pregarono di allontanarsi dai loro territori.

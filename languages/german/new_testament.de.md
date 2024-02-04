@@ -187,3 +187,25 @@ Nicht jeder, der zu mir sagt: ‚Herr, Herr‘, wird in das Himmelreich eingehen
 Jeder also, der diese meine Worte hört und sie tut, der wird einem klugen Mann gleich sein, der sein Haus auf den Fels baute. Der Regen fiel nieder, die Fluten kamen, und die Winde wehten und stürmten gegen jenes Haus; und es fiel nicht, denn es war auf den Felsen gegründet. Und jeder, der diese meine Worte hört und sie nicht tut, wird einem törichten Mann gleich sein, der sein Haus auf den Sand baute. Der Regen fiel nieder, die Fluten kamen, und die Winde wehten und schlugen an jenes Haus; und es fiel, und sein Fall war groß.
 
 Als Jesus diese Worte beendet hatte, waren die Menschenmenge über seine Lehre erstaunt, denn er lehrte sie mit Autorität und nicht wie ihre Schriftgelehrten.
+
+### Kapitel 8
+
+Als er von dem Berg herabstieg, folgten ihm große Menschenmengen. Und siehe, ein Aussätziger kam zu ihm und warf sich vor ihm nieder und sagte: „Herr, wenn du willst, kannst du mich reinigen.“ Jesus streckte seine Hand aus, berührte ihn und sprach: „Ich will. Werde rein.“ Und sogleich wurde sein Aussatz gereinigt. Jesus sagte zu ihm: „Sieh zu, dass du es niemandem sagst; aber geh hin, zeige dich dem Priester und bringe das Opfer dar, das Mose angeordnet hat, ihnen zum Zeugnis.“
+
+Als er nach Kapernaum hineinging, trat ein Hauptmann zu ihm und bat ihn und sprach: „Herr, mein Knecht liegt zu Hause gelähmt und leidet große Qualen.“ Jesus sprach zu ihm: „Ich will kommen und ihn heilen.“ Der Hauptmann antwortete: „Herr, ich bin nicht würdig, dass du unter mein Dach trittst. Sprich nur ein Wort, so wird mein Knecht gesund. Denn auch ich bin ein Mann unter Befehlsgewalt und habe Soldaten unter mir. Und ich sage zu diesem: ‚Geh!‘, und er geht; und zu einem anderen: ‚Komm!‘, und er kommt; und zu meinem Knecht: ‚Tu dies!‘, und er tut’s.“
+
+Als Jesus das hörte, verwunderte er sich und sagte zu denen, die ihm folgten: „Wahrlich, ich sage euch, solch großen Glauben habe ich in Israel nicht gefunden. Ich sage euch, viele werden von Osten und Westen kommen und mit Abraham, Isaak und Jakob im Himmelreich zu Tisch sitzen, aber die Kinder des Reiches werden hinaus in die äußerste Finsternis geworfen werden; da wird Heulen und Zähneknirschen sein.“ Zu dem Hauptmann sagte Jesus: „Geh hin; dir geschehe, wie du geglaubt hast.“ Und sein Diener wurde in derselben Stunde geheilt.
+
+Als Jesus in das Haus des Petrus kam, sah er dessen Schwiegermutter fieberkrank daniederliegen. Er berührte ihre Hand, und das Fieber verließ sie. Und sie stand auf und diente ihm. Als es Abend wurde, brachte man viele Besessene zu ihm. Er trieb die Geister mit einem Wort aus und heilte alle Kranken, damit erfüllt würde, was durch den Propheten Jesaja gesagt wurde: „Er nahm unsere Schwachheiten und trug unsere Krankheiten.“
+
+Als Jesus die großen Volksmengen um sich sah, befahl er, an das andere Ufer zu fahren.
+
+Ein Schriftgelehrter trat zu ihm und sagte: „Meister, ich will dir folgen, wohin du auch gehst.“ Jesus sagte zu ihm: „Die Füchse haben Höhlen und die Vögel des Himmels Nester, aber der Menschensohn hat keinen Ort, wo er sein Haupt hinlegen kann.“
+
+Ein anderer, einer seiner Jünger, sagte zu ihm: „Herr, erlaube mir zuerst, hinzugehen und meinen Vater zu begraben.“ Aber Jesus sagte zu ihm: „Folge mir nach, und lass die Toten ihre Toten begraben.“
+
+Als er in ein Boot stieg, folgten ihm seine Jünger. Und siehe, ein heftiger Sturm erhob sich auf dem See, sodass die Wellen das Boot bedeckten; er aber schlief. Die Jünger traten zu ihm, weckten ihn auf und sagten: „Herr, rette uns! Wir kommen um!“ Er sagte zu ihnen: „Warum habt ihr Angst, ihr Kleingläubigen?“ Dann stand er auf, bedrohte die Winde und das Meer, und es trat eine große Stille ein. Die Männer staunten und sagten: „Was für ein Mensch ist das, dass ihm sogar die Winde und das Meer gehorchen?“
+
+Als er ans andere Ufer, in das Gebiet der Gergesener, kam, begegneten ihm dort zwei von Dämonen Besessene, die aus den Grabmälern kamen, überaus furchteinflößend, sodass niemand diesen Weg passieren konnte. Und siehe, sie schrien: „Was haben wir mit dir zu tun, Jesus, Sohn Gottes? Bist du hierhergekommen, um uns vor der Zeit zu quälen?“ Es war weit von ihnen entfernt eine große Herde Schweine am Fressen. Die Dämonen baten ihn: „Wenn du uns austreibst, erlaube uns, in die Herde Schweine zu fahren.“ Er sagte zu ihnen: „Geht!“ Sie fuhren aus und in die Herde Schweine; und siehe, die ganze Herde Schweine stürzte sich den Abhang hinunter ins Meer und kam in den Wassern um. Die Hirten flohen und gingen in die Stadt und berichteten alles, auch was mit den Besessenen geschehen war. Und siehe, die ganze Stadt zog hinaus, Jesus entgegen. Als sie ihn sahen, baten sie ihn, ihr Gebiet zu verlassen.
+
+
