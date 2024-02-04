@@ -337,7 +337,7 @@
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
 * Intelligence
-* Internet - in process
+* Internet - done
 * Internet of Things
 * Internet Protocols - done
 * Internet Security - done

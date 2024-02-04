@@ -670,4 +670,62 @@ The future of the internet holds immense potential to further revolutionize our 
 
 ## Frequently Asked Questions
 
-Write a list of the top twenty frequently asked questions about internet and give a brief answer to each.
+1. **What is the Internet?**
+   - The Internet is a global network of computers and other electronic devices that allows users to share information and communicate with each other.
+
+2. **How does the Internet work?**
+   - The Internet works by using a set of standardized protocols such as TCP/IP to connect millions of networks and devices, allowing data to be transmitted across the globe.
+
+3. **What is an IP address?**
+   - An IP address is a unique string of numbers separated by periods that identifies each computer or device connected to the Internet.
+
+4. **What is the difference between the Internet and the World Wide Web?**
+   - The Internet is the infrastructure that connects networks and devices, while the World Wide Web (WWW) is a service built on top of the Internet, providing access to websites and web pages.
+
+5. **What is a URL?**
+   - A URL (Uniform Resource Locator) is the address of a specific webpage or file on the Internet.
+
+6. **What is a domain name?**
+   - A domain name is a human-readable address of a website, which is translated into an IP address by the Domain Name System (DNS) to locate the website on the Internet.
+
+7. **What is broadband?**
+   - Broadband is a high-speed Internet connection that is always on and faster than the traditional dial-up access.
+
+8. **What is Wi-Fi?**
+   - Wi-Fi is a wireless networking technology that allows computers and other devices to communicate over a wireless signal, providing Internet access without the need for physical wires.
+
+9. **What is a browser?**
+   - A browser is a software application used to access and view websites and navigate the World Wide Web.
+
+10. **What is an ISP?**
+    - An ISP (Internet Service Provider) is a company that provides individuals and organizations access to the Internet.
+
+11. **What is cloud computing?**
+    - Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software—over the Internet to offer flexible resources, rapid innovation, and economies of scale.
+
+12. **What is cybersecurity?**
+    - Cybersecurity involves protecting computer systems, networks, and data from digital attacks, unauthorized access, or damage.
+
+13. **What is encryption?**
+    - Encryption is the process of converting information or data into a code, especially to prevent unauthorized access.
+
+14. **What are cookies?**
+    - Cookies are small files stored on a user's computer by websites to remember information about the user, such as login details or browsing history.
+
+15. **What is SEO?**
+    - SEO (Search Engine Optimization) is the practice of increasing the quantity and quality of traffic to your website through organic search engine results.
+
+16. **What is social media?**
+    - Social media refers to websites and applications that enable users to create and share content or to participate in social networking.
+
+17. **What is e-commerce?**
+    - E-commerce refers to the buying and selling of goods or services using the Internet, and the transfer of money and data to execute these transactions.
+
+18. **What is a VPN?**
+    - A VPN (Virtual Private Network) extends a private network across a public network, allowing users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+
+19. **What is IoT?**
+    - IoT (Internet of Things) refers to the network of physical objects ("things") that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet.
+
+20. **What is net neutrality?**
+    - Net neutrality is the principle that Internet service providers should treat all data on the Internet equally, and not discriminate or charge differently by user, content, website, platform, application, or method of communication.

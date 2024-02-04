@@ -66,6 +66,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Networking](computers/networking/networking.en.md)
 
 #### Internet
+* [Internet](computers/networking/internet/internet.en.md)
 * [Protocols](computers/networking/internet/protocols.en.md)
 * [Security](computers/networking/internet/security.en.md)
 * [Search Engines](computers/networking/internet/search_engines.en.md)
