@@ -190,9 +190,15 @@ Cum autem Iesus finisset hos sermones, turbae mirabantur super doctrina eius, qu
 
 ### Caput 8
 
-Cum descendisset de monte, secutae sunt eum turbae multae. Et ecce leprosus veniens adorabat eum dicens: "Domine, si vis, potes me mundare." Extendens Iesus manum tetigit eum dicens: "Volo, mundare." Et confestim lepra eius mundata est. Et ait illi Iesus: "Vide nemini dixeris; sed vade, ostende te sacerdoti, et offer munus quod praecepit Moses, in testimonium illis."
+Cum descendisset de monte, secutae sunt eum turbae multae. Et ecce leprosus veniens adorabat eum dicens: "Domine, si vis, potes me mundare."
 
-Cum autem introisset Capharnaum, accessit ad eum centurio rogans eum et dicens: "Domine, puer meus iacet in domo paralyticus, graviter torquetur." Et ait illi Iesus: "Ego veniam et curabo eum." Respondens autem centurio ait: "Domine, non sum dignus ut intres sub tectum meum; sed tantum dic verbo, et sanabitur puer meus. Nam et ego homo sum sub potestate, habens sub me milites, et dico huic: 'Vade,' et vadit; et alii: 'Veni,' et venit; et servo meo: 'Fac hoc,' et facit."
+Extendens Iesus manum tetigit eum dicens: "Volo, mundare." Et confestim lepra eius mundata est. Et ait illi Iesus: "Vide nemini dixeris; sed vade, ostende te sacerdoti, et offer munus quod praecepit Moses, in testimonium illis."
+
+Cum autem introisset Capharnaum, accessit ad eum centurio rogans eum et dicens: "Domine, puer meus iacet in domo paralyticus, graviter torquetur."
+
+Et ait illi Iesus: "Ego veniam et curabo eum."
+
+Respondens autem centurio ait: "Domine, non sum dignus ut intres sub tectum meum; sed tantum dic verbo, et sanabitur puer meus. Nam et ego homo sum sub potestate, habens sub me milites, et dico huic: 'Vade,' et vadit; et alii: 'Veni,' et venit; et servo meo: 'Fac hoc,' et facit."
 
 Audiens autem Iesus miratus est et sequentibus se dixit: "Amen dico vobis, non inveni tantam fidem in Israel. Dico autem vobis quod multi ab oriente et occidente venient et recumbent cum Abraham et Isaac et Iacob in regno caelorum, filii autem regni eicientur in tenebras exteriores; ibi erit fletus et stridor dentium." Et Iesus centurioni dixit: "Vade, et sicut credidisti fiat tibi." Et sanatus est puer in illa hora.
 
@@ -200,12 +206,24 @@ Cum autem Iesus venisset in domum Petri, vidit socrum eius iacentem et febricita
 
 Iesus autem videns turbas multas circa se, iussit ire trans fretum.
 
-Et accedens unus scriba dixit illi: "Magister, sequar te quocumque ieris." Et dicit ei Iesus: "Vulpes foveas habent et volucres caeli nidos, Filius autem hominis non habet ubi caput reclinet."
+Et accedens unus scriba dixit illi: "Magister, sequar te quocumque ieris."
 
-Alius autem de discipulis eius dixit ei: "Domine, permitte me primum ire et sepelire patrem meum." Iesus autem dixit ei: "Sequere me, et dimitte mortuos sepelire mortuos suos."
+Et dicit ei Iesus: "Vulpes foveas habent et volucres caeli nidos, Filius autem hominis non habet ubi caput reclinet."
 
-Cum in navem ascendisset, secuti sunt eum discipuli eius. Et ecce, motus magnus factus est in mari, ita ut navis operiretur fluctibus; ipse vero dormiebat. Et accesserunt ad eum discipuli eius et suscitaverunt eum dicentes: "Domine, salva nos, perimus!" Et dicit eis: "Quid timidi estis, modicae fidei?" Tunc surgens imperavit ventis et mari, et facta est tranquillitas magna. Homines autem mirati sunt dicentes: "Qualis est hic, quia et venti et mare oboediunt ei?"
+Alius autem de discipulis eius dixit ei: "Domine, permitte me primum ire et sepelire patrem meum."
 
-Cum autem venisset trans fretum in regionem Gerasenorum, occurrerunt ei duo daemoniaci de monumentis exeuntes, valde feroces, ita ut nemo posset transire per viam illam. Et ecce clamaverunt dicentes: "Quid nobis et tibi, Iesu, Fili Dei? Venisti huc ante tempus nos torquere?" Erat autem longe ab illis grex porcorum multorum pascens. Daemonia autem rogabant eum dicentes: "Si eicis nos, mitte nos in gregem porcorum." Et ait illis: "Ite." Exeuntes autem abierunt in gregem porcorum; et ecce, impetu facto, universa grex porcorum praecipitavit se de praeceps in mare et mortua sunt in aquis. Pastores autem fugerunt et, venientes in civitatem, nuntiaverunt omnia, et de his qui daemonia habuerant. Et ecce, tota civitas exivit obviam Iesu; et viso eo, rogaverunt ut transiret a finibus eorum.
+Iesus autem dixit ei: "Sequere me, et dimitte mortuos sepelire mortuos suos."
+
+Cum in navem ascendisset, secuti sunt eum discipuli eius. Et ecce, motus magnus factus est in mari, ita ut navis operiretur fluctibus; ipse vero dormiebat. Et accesserunt ad eum discipuli eius et suscitaverunt eum dicentes: "Domine, salva nos, perimus!"
+
+Et dicit eis: "Quid timidi estis, modicae fidei?" Tunc surgens imperavit ventis et mari, et facta est tranquillitas magna.
+
+Homines autem mirati sunt dicentes: "Qualis est hic, quia et venti et mare oboediunt ei?"
+
+Cum autem venisset trans fretum in regionem Gerasenorum, occurrerunt ei duo daemoniaci de monumentis exeuntes, valde feroces, ita ut nemo posset transire per viam illam. Et ecce clamaverunt dicentes: "Quid nobis et tibi, Iesu, Fili Dei? Venisti huc ante tempus nos torquere?" Erat autem longe ab illis grex porcorum multorum pascens. Daemonia autem rogabant eum dicentes: "Si eicis nos, mitte nos in gregem porcorum."
+
+Et ait illis: "Ite."
+
+Exeuntes autem abierunt in gregem porcorum; et ecce, impetu facto, universa grex porcorum praecipitavit se de praeceps in mare et mortua sunt in aquis. Pastores autem fugerunt et, venientes in civitatem, nuntiaverunt omnia, et de his qui daemonia habuerant. Et ecce, tota civitas exivit obviam Iesu; et viso eo, rogaverunt ut transiret a finibus eorum.
 
 

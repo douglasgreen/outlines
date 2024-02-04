@@ -192,9 +192,15 @@ Kiam Jesuo finis diri ĉi tiujn aferojn, la homamasoj miris pri lia instruado, �
 
 ### Ĉapitro 8
 
-Kiam li malsupreniris de la monto, grandaj homamasoj sekvis lin. Jen, leprulo venis al li kaj adoris lin, dirante, "Sinjoro, se vi volas, vi povas purigi min." Jesuo etendis sian manon kaj tuŝis lin, dirante, "Mi volas. Estu purigita." Tuj lia lepro estis purigita. Jesuo diris al li, "Vidu, ke vi diru al neniu; sed iru, montru vin al la pastro, kaj oferu la donacon, kiun Moseo ordonis, kiel ateston al ili."
+Kiam li malsupreniris de la monto, grandaj homamasoj sekvis lin. Jen, leprulo venis al li kaj adoris lin, dirante, "Sinjoro, se vi volas, vi povas purigi min."
 
-Kiam li venis en Kapernaumon, centestro venis al li, petante helpon, dirante, "Sinjoro, mia servisto kuŝas en la domo paralizita, terure turmentita." Jesuo diris al li, "Mi venos kaj resanigos lin." La centestro respondis, "Sinjoro, mi ne estas inda, ke vi venu sub mian tegmenton. Nur diru la vorton, kaj mia servisto estos resanigita. Ĉar ankaŭ mi estas homo sub aŭtoritato, havante sub mi soldatojn. Mi diras al ĉi tiu, 'Iru,' kaj li iras; kaj al alia, 'Venu,' kaj li venas; kaj al mia servisto, 'Faru ĉi tion,' kaj li faras ĝin."
+Jesuo etendis sian manon kaj tuŝis lin, dirante, "Mi volas. Estu purigita." Tuj lia lepro estis purigita. Jesuo diris al li, "Vidu, ke vi diru al neniu; sed iru, montru vin al la pastro, kaj oferu la donacon, kiun Moseo ordonis, kiel ateston al ili."
+
+Kiam li venis en Kapernaumon, centestro venis al li, petante helpon, dirante, "Sinjoro, mia servisto kuŝas en la domo paralizita, terure turmentita."
+
+Jesuo diris al li, "Mi venos kaj resanigos lin."
+
+La centestro respondis, "Sinjoro, mi ne estas inda, ke vi venu sub mian tegmenton. Nur diru la vorton, kaj mia servisto estos resanigita. Ĉar ankaŭ mi estas homo sub aŭtoritato, havante sub mi soldatojn. Mi diras al ĉi tiu, 'Iru,' kaj li iras; kaj al alia, 'Venu,' kaj li venas; kaj al mia servisto, 'Faru ĉi tion,' kaj li faras ĝin."
 
 Kiam Jesuo aŭdis ĝin, li miris kaj diris al tiuj, kiuj sekvis, "Plej certe mi diras al vi, mi ne trovis tiel grandan fidon, eĉ ne en Izraelo. Mi diras al vi, ke multaj venos el la oriento kaj la okcidento, kaj sidos kun Abrahamo, Isaako, kaj Jakobo en la Regno de la Ĉielo, sed la infanoj de la Regno estos ĵetitaj en la eksteran mallumon. Tie estos plorado kaj grincado de dentoj." Jesuo diris al la centestro, "Iru via vojo. Estu farite al vi kiel vi kredis." Lia servisto estis resanigita en tiu horo.
 
@@ -202,10 +208,22 @@ Kiam Jesuo venis en la domon de Petro, li vidis lian bopatrinon kuŝanta malsana
 
 Nun kiam Jesuo vidis grandajn homamasojn ĉirkaŭ li, li donis la ordonon foriri al la alia flanko.
 
-Skribisto venis kaj diris al li, "Instruisto, mi sekvos vin kien ajn vi iros." Jesuo diris al li, "La vulpoj havas truojn kaj la birdoj de la ĉielo havas nestojn, sed la Filo de Homo ne havas kie kuŝi sian kapon."
+Skribisto venis kaj diris al li, "Instruisto, mi sekvos vin kien ajn vi iros."
 
-Alia el liaj disĉiploj diris al li, "Sinjoro, permesu al mi unue iri kaj enterigi mian patron." Sed Jesuo diris al li, "Sekvu min, kaj lasu la mortintojn enterigi siajn proprajn mortintojn."
+Jesuo diris al li, "La vulpoj havas truojn kaj la birdoj de la ĉielo havas nestojn, sed la Filo de Homo ne havas kie kuŝi sian kapon."
 
-Kiam li eniris en boaton, liaj disĉiploj sekvis lin. Jen, furioza ŝtormo leviĝis sur la maro, tiel ke la ondoj kovris la boaton; sed li dormis. La disĉiploj venis al li kaj vekis lin, dirante, "Savu nin, Sinjoro! Ni pereas!" Li diris al ili, "Kial vi timas, ho vi de malmulta fido?" Tiam li leviĝis, mallaŭdis la venton kaj la maron, kaj fariĝis granda kvieto. La viroj miris, dirante, "Kia homo estas ĉi tiu, ke eĉ la vento kaj la maro obeas lin?"
+Alia el liaj disĉiploj diris al li, "Sinjoro, permesu al mi unue iri kaj enterigi mian patron."
 
-Kiam li alvenis al la alia flanko, en la landon de la Gergezenoj, du posedatoj de demonoj renkontis lin tie, elirante el la tomboj, ekstreme furiozaj, tiel ke neniu povis preterpasi tiun vojon. Jen, ili ekkriis, dirante, "Kion ni havas komunon kun vi, Jesuo, Filo de Dio? Ĉu vi venis ĉi tien por turmenti nin antaŭ la tempo?" Nun tie paŝtiĝis grego da multaj porkoj malproksime de ili. La demonoj petegis lin, dirante, "Se vi elĵetas nin, permesu al ni foriri en la gregon de porkoj." Li diris al ili, "Iru!" Ili eliris kaj eniris en la gregon de porkoj; kaj jen, la tuta grego da porkoj kuris malsupren de la klifo en la maron kaj mortis en la akvo. Tiuj, kiuj paŝtis ilin, forkuris kaj iris en la urbon kaj rakontis ĉion, inkluzive tion, kio okazis al la posedatoj de demonoj. Jen, la tuta urbo elvenis por renkonti Jesuon. Kiam ili vidis lin, ili petegis, ke li foriru de iliaj limoj.
+Sed Jesuo diris al li, "Sekvu min, kaj lasu la mortintojn enterigi siajn proprajn mortintojn."
+
+Kiam li eniris en boaton, liaj disĉiploj sekvis lin. Jen, furioza ŝtormo leviĝis sur la maro, tiel ke la ondoj kovris la boaton; sed li dormis. La disĉiploj venis al li kaj vekis lin, dirante, "Savu nin, Sinjoro! Ni pereas!"
+
+Li diris al ili, "Kial vi timas, ho vi de malmulta fido?" Tiam li leviĝis, mallaŭdis la venton kaj la maron, kaj fariĝis granda kvieto.
+
+La viroj miris, dirante, "Kia homo estas ĉi tiu, ke eĉ la vento kaj la maro obeas lin?"
+
+Kiam li alvenis al la alia flanko, en la landon de la Gergezenoj, du posedatoj de demonoj renkontis lin tie, elirante el la tomboj, ekstreme furiozaj, tiel ke neniu povis preterpasi tiun vojon. Jen, ili ekkriis, dirante, "Kion ni havas komunon kun vi, Jesuo, Filo de Dio? Ĉu vi venis ĉi tien por turmenti nin antaŭ la tempo?" Nun tie paŝtiĝis grego da multaj porkoj malproksime de ili. La demonoj petegis lin, dirante, "Se vi elĵetas nin, permesu al ni foriri en la gregon de porkoj."
+
+Li diris al ili, "Iru!"
+
+Ili eliris kaj eniris en la gregon de porkoj; kaj jen, la tuta grego da porkoj kuris malsupren de la klifo en la maron kaj mortis en la akvo. Tiuj, kiuj paŝtis ilin, forkuris kaj iris en la urbon kaj rakontis ĉion, inkluzive tion, kio okazis al la posedatoj de demonoj. Jen, la tuta urbo elvenis por renkonti Jesuon. Kiam ili vidis lin, ili petegis, ke li foriru de iliaj limoj.

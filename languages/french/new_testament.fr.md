@@ -193,9 +193,15 @@ Lorsque Jésus eut achevé ces discours, les foules étaient frappées de sa doc
 
 ### Chapitre 8
 
-Lorsqu'il descendit de la montagne, de grandes foules le suivirent. Voici, un lépreux vint à lui, se prosterna devant lui et dit : « Seigneur, si tu le veux, tu peux me rendre pur. » Jésus tendit la main, le toucha et dit : « Je le veux, sois pur. » Aussitôt, sa lèpre fut nettoyée. Jésus lui dit : « Ne le dis à personne, mais va te montrer au prêtre et offre le don que Moïse a prescrit, cela leur servira de témoignage. »
+Lorsqu'il descendit de la montagne, de grandes foules le suivirent. Voici, un lépreux vint à lui, se prosterna devant lui et dit : « Seigneur, si tu le veux, tu peux me rendre pur. »
 
-Lorsqu'il entra à Capernaüm, un centurion vint à lui, le suppliant et disant : « Seigneur, mon serviteur est couché à la maison, paralysé, et souffre terriblement. » Jésus lui dit : « Je viendrai le guérir. » Le centurion répondit : « Seigneur, je ne suis pas digne que tu entres sous mon toit, mais dis seulement une parole et mon serviteur sera guéri. Car moi aussi, je suis un homme soumis à autorité, ayant des soldats sous mes ordres. Je dis à l'un : 'Va', et il va ; à un autre : 'Viens', et il vient ; et à mon serviteur : 'Fais cela', et il le fait. »
+Jésus tendit la main, le toucha et dit : « Je le veux, sois pur. » Aussitôt, sa lèpre fut nettoyée. Jésus lui dit : « Ne le dis à personne, mais va te montrer au prêtre et offre le don que Moïse a prescrit, cela leur servira de témoignage. »
+
+Lorsqu'il entra à Capernaüm, un centurion vint à lui, le suppliant et disant : « Seigneur, mon serviteur est couché à la maison, paralysé, et souffre terriblement. »
+
+Jésus lui dit : « Je viendrai le guérir. »
+
+Le centurion répondit : « Seigneur, je ne suis pas digne que tu entres sous mon toit, mais dis seulement une parole et mon serviteur sera guéri. Car moi aussi, je suis un homme soumis à autorité, ayant des soldats sous mes ordres. Je dis à l'un : 'Va', et il va ; à un autre : 'Viens', et il vient ; et à mon serviteur : 'Fais cela', et il le fait. »
 
 Entendant cela, Jésus fut dans l'admiration et dit à ceux qui le suivaient : « Je vous le dis en vérité, une telle foi, même en Israël, je ne l'ai pas trouvée. Je vous le dis, beaucoup viendront de l'est et de l'ouest et prendront place avec Abraham, Isaac et Jacob dans le royaume des cieux, mais les fils du royaume seront jetés dans les ténèbres extérieures. Là, il y aura des pleurs et des grincements de dents. » Puis Jésus dit au centurion : « Va, qu'il te soit fait selon ta foi. » Et à cette heure même, le serviteur fut guéri.
 
@@ -203,10 +209,22 @@ Lorsque Jésus entra dans la maison de Pierre, il vit sa belle-mère couchée et
 
 Voyant une grande foule autour de lui, Jésus donna l'ordre de passer de l'autre côté.
 
-Un scribe s'approcha et lui dit : « Maître, je te suivrai partout où tu iras. » Jésus lui dit : « Les renards ont des tanières, et les oiseaux du ciel des nids, mais le Fils de l'homme n'a pas où reposer sa tête. »
+Un scribe s'approcha et lui dit : « Maître, je te suivrai partout où tu iras. »
 
-Un autre de ses disciples lui dit : « Seigneur, permets-moi d'aller d'abord enterrer mon père. » Mais Jésus lui dit : « Suis-moi, et laisse les morts enterrer leurs morts. »
+Jésus lui dit : « Les renards ont des tanières, et les oiseaux du ciel des nids, mais le Fils de l'homme n'a pas où reposer sa tête. »
 
-Lorsqu'il monta dans la barque, ses disciples le suivirent. Et voici, une grande tempête se leva sur la mer, au point que la barque était couverte par les vagues ; mais lui, il dormait. Les disciples s'approchèrent et le réveillèrent en disant : « Seigneur, sauve-nous ! Nous périssons ! » Il leur dit : « Pourquoi avez-vous peur, gens de peu de foi ? » Puis, s'étant levé, il menaça les vents et la mer, et il se fit un grand calme. Les hommes furent étonnés et dirent : « Quel est donc cet homme, que même les vents et la mer lui obéissent ? »
+Un autre de ses disciples lui dit : « Seigneur, permets-moi d'aller d'abord enterrer mon père. »
 
-Lorsqu'il arriva de l'autre côté, dans le pays des Géraséniens, deux démoniaques, sortant des sépulcres, vinrent à sa rencontre, extrêmement féroces, au point que personne ne pouvait passer par ce chemin. Et voici, ils s'écrièrent : « Qu'y a-t-il entre nous et toi, Jésus, Fils de Dieu ? Es-tu venu ici pour nous tourmenter avant le temps ? » Or, il y avait loin d'eux un grand troupeau de porcs en train de paître. Les démons le supplièrent, disant : « Si tu nous chasses, envoie-nous dans le troupeau de porcs. » Il leur dit : « Allez ! » Ils sortirent et entrèrent dans les porcs ; et voici, tout le troupeau se précipita du haut de l'escarpement dans la mer et mourut dans les eaux. Ceux qui les faisaient paître s'enfuirent, allèrent dans la ville et rapportèrent tout, y compris ce qui s'était passé avec les démoniaques. Et voici, toute la ville sortit à la rencontre de Jésus ; et quand ils le virent, ils le supplièrent de quitter leur territoire.
+Mais Jésus lui dit : « Suis-moi, et laisse les morts enterrer leurs morts. »
+
+Lorsqu'il monta dans la barque, ses disciples le suivirent. Et voici, une grande tempête se leva sur la mer, au point que la barque était couverte par les vagues ; mais lui, il dormait. Les disciples s'approchèrent et le réveillèrent en disant : « Seigneur, sauve-nous ! Nous périssons ! »
+
+Il leur dit : « Pourquoi avez-vous peur, gens de peu de foi ? » Puis, s'étant levé, il menaça les vents et la mer, et il se fit un grand calme.
+
+Les hommes furent étonnés et dirent : « Quel est donc cet homme, que même les vents et la mer lui obéissent ? »
+
+Lorsqu'il arriva de l'autre côté, dans le pays des Géraséniens, deux démoniaques, sortant des sépulcres, vinrent à sa rencontre, extrêmement féroces, au point que personne ne pouvait passer par ce chemin. Et voici, ils s'écrièrent : « Qu'y a-t-il entre nous et toi, Jésus, Fils de Dieu ? Es-tu venu ici pour nous tourmenter avant le temps ? » Or, il y avait loin d'eux un grand troupeau de porcs en train de paître. Les démons le supplièrent, disant : « Si tu nous chasses, envoie-nous dans le troupeau de porcs. »
+
+Il leur dit : « Allez ! »
+
+Ils sortirent et entrèrent dans les porcs ; et voici, tout le troupeau se précipita du haut de l'escarpement dans la mer et mourut dans les eaux. Ceux qui les faisaient paître s'enfuirent, allèrent dans la ville et rapportèrent tout, y compris ce qui s'était passé avec les démoniaques. Et voici, toute la ville sortit à la rencontre de Jésus ; et quand ils le virent, ils le supplièrent de quitter leur territoire.

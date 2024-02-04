@@ -193,9 +193,15 @@ When Jesus had finished saying these things, the multitudes were astonished at h
 
 ### Chapter 8
 
-When he came down from the mountain, great multitudes followed him. Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.” Jesus stretched out his hand and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed. Jesus said to him, “See that you tell nobody; but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”
+When he came down from the mountain, great multitudes followed him. Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.”
 
-When he came into Capernaum, a centurion came to him, asking him for help, saying, “Lord, my servant lies in the house paralyzed, grievously tormented.” Jesus said to him, “I will come and heal him.” The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed. For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”
+Jesus stretched out his hand and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed. Jesus said to him, “See that you tell nobody; but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”
+
+When he came into Capernaum, a centurion came to him, asking him for help, saying, “Lord, my servant lies in the house paralyzed, grievously tormented.”
+
+Jesus said to him, “I will come and heal him.”
+
+The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed. For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”
 
 When Jesus heard it, he marveled and said to those who followed, “Most certainly I tell you, I haven’t found so great a faith, not even in Israel. I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven, but the children of the Kingdom will be thrown out into the outer darkness. There will be weeping and gnashing of teeth.” Jesus said to the centurion, “Go your way. Let it be done for you as you have believed.” His servant was healed in that hour.
 
@@ -203,12 +209,63 @@ When Jesus came into Peter’s house, he saw his wife’s mother lying sick with
 
 Now when Jesus saw great multitudes around him, he gave the order to depart to the other side.
 
-A scribe came and said to him, “Teacher, I will follow you wherever you go.” Jesus said to him, “The foxes have holes and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.”
+A scribe came and said to him, “Teacher, I will follow you wherever you go.”
 
-Another of his disciples said to him, “Lord, allow me first to go and bury my father.” But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”
+Jesus said to him, “The foxes have holes and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.”
 
-When he got into a boat, his disciples followed him. Behold, a violent storm came up on the sea, so much that the boat was covered with the waves; but he was asleep. The disciples came to him and woke him up, saying, “Save us, Lord! We are dying!” He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm. The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”
+Another of his disciples said to him, “Lord, allow me first to go and bury my father.”
+
+But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”
+
+When he got into a boat, his disciples followed him. Behold, a violent storm came up on the sea, so much that the boat was covered with the waves; but he was asleep. The disciples came to him and woke him up, saying, “Save us, Lord! We are dying!”
+
+He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.
+
+The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”
 
 When he came to the other side, into the country of the Gergesenes, two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way. Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?” Now there was a herd of many pigs feeding far away from them. The demons begged him, saying, “If you cast us out, permit us to go away into the herd of pigs.”
-He said to them, “Go!” They came out and went into the herd of pigs; and behold, the whole herd of pigs rushed down the cliff into the sea and died in the water. Those who fed them fled and went away into the city and told everything, including what happened to those who were possessed with demons. Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders.
+
+He said to them, “Go!”
+
+They came out and went into the herd of pigs; and behold, the whole herd of pigs rushed down the cliff into the sea and died in the water. Those who fed them fled and went away into the city and told everything, including what happened to those who were possessed with demons. Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders.
+
+### Chapter 9
+
+He entered into a boat and crossed over, and came into his own city. Behold, they brought to him a man who was paralyzed, lying on a bed. Jesus, seeing their faith, said to the paralytic, “Son, cheer up! Your sins are forgiven you.”
+
+Behold, some of the scribes said to themselves, “This man blasphemes.”
+
+Jesus, knowing their thoughts, said, “Why do you think evil in your hearts? For which is easier, to say, ‘Your sins are forgiven;’ or to say, ‘Get up, and walk’? But that you may know that the Son of Man has authority on earth to forgive sins—” (then he said to the paralytic), “Get up, and take up your mat, and go to your house.”
+
+He arose and departed to his house. But when the multitudes saw it, they marveled and glorified God, who had given such authority to men.
+
+As Jesus passed by from there, he saw a man called Matthew sitting at the tax collection office. He said to him, “Follow me.” He got up and followed him. As he sat in the house, behold, many tax collectors and sinners came and sat down with Jesus and his disciples. When the Pharisees saw it, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?”
+
+When Jesus heard it, he said to them, “Those who are healthy have no need for a physician, but those who are sick do. But you go and learn what this means: ‘I desire mercy, and not sacrifice,’ for I came not to call the righteous, but sinners to repentance.”
+
+Then John’s disciples came to him, saying, “Why do we and the Pharisees fast often, but your disciples don’t fast?”
+
+Jesus said to them, “Can the friends of the bridegroom mourn as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast. No one puts a piece of unshrunk cloth on an old garment; for the patch would tear away from the garment, and a worse hole is made. Neither do people put new wine into old wine skins, or else the skins would burst, and the wine be spilled, and the skins ruined. No, they put new wine into fresh wine skins, and both are preserved.”
+
+While he told these things to them, behold, a ruler came and worshiped him, saying, “My daughter has just died, but come and lay your hand on her, and she will live.”
+
+Jesus got up and followed him, as did his disciples. Behold, a woman who had a discharge of blood for twelve years came behind him, and touched the fringe of his garment; for she said within herself, “If I just touch his garment, I will be made well.”
+
+But Jesus, turning around and seeing her, said, “Daughter, cheer up! Your faith has made you well.” And the woman was made well from that hour.
+
+When Jesus came into the ruler’s house and saw the flute players and the crowd in noisy disorder, he said to them, “Make room, because the girl isn’t dead, but sleeping.”
+
+They were ridiculing him. But when the crowd was sent out, he entered in, took her by the hand, and the girl arose. The report of this went out into all that land.
+
+As Jesus passed by from there, two blind men followed him, calling out and saying, “Have mercy on us, son of David!” When he had come into the house, the blind men came to him. Jesus said to them, “Do you believe that I am able to do this?”
+
+They told him, “Yes, Lord.”
+
+Then he touched their eyes, saying, “According to your faith be it done to you.” Then their eyes were opened. Jesus strictly commanded them, saying, “See that no one knows about this.” But they went out and spread abroad his fame in all that land.
+
+As they went out, behold, a mute man who was demon possessed was brought to him. When the demon was cast out, the mute man spoke. The multitudes marveled, saying, “Nothing like this has ever been seen in Israel!”
+
+But the Pharisees said, “By the prince of the demons, he casts out demons.”
+
+Jesus went about all the cities and the villages, teaching in their synagogues and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people. But when he saw the multitudes, he was moved with compassion for them because they were harassed and scattered, like sheep without a shepherd. Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few. Pray therefore that the Lord of the harvest will send out laborers into his harvest.”
 

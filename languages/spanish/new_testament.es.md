@@ -192,9 +192,15 @@ Cuando Jesús terminó de decir estas cosas, las multitudes estaban asombradas d
 
 ### Capítulo 8
 
-Cuando descendió del monte, grandes multitudes le siguieron. Y he aquí, un leproso se acercó y le adoró, diciendo: "Señor, si quieres, puedes limpiarme." Jesús extendió la mano, lo tocó y dijo: "Quiero, sé limpio." E inmediatamente su lepra fue limpiada. Jesús le dijo: "Mira, no se lo digas a nadie; pero ve, muéstrate al sacerdote y presenta la ofrenda que Moisés mandó, como testimonio para ellos."
+Cuando descendió del monte, grandes multitudes le siguieron. Y he aquí, un leproso se acercó y le adoró, diciendo: "Señor, si quieres, puedes limpiarme."
 
-Cuando entró en Capernaúm, se le acercó un centurión, rogándole y diciendo: "Señor, mi criado yace en casa paralítico, gravemente atormentado." Jesús le dijo: "Yo iré y lo sanaré." El centurión respondió: "Señor, no soy digno de que entres bajo mi techo. Solo di la palabra y mi criado sanará. Porque también yo soy hombre bajo autoridad, y tengo soldados bajo mis órdenes. A uno le digo: 'Ve', y va; y al otro: 'Ven', y viene; y a mi criado: 'Haz esto', y lo hace."
+Jesús extendió la mano, lo tocó y dijo: "Quiero, sé limpio." E inmediatamente su lepra fue limpiada. Jesús le dijo: "Mira, no se lo digas a nadie; pero ve, muéstrate al sacerdote y presenta la ofrenda que Moisés mandó, como testimonio para ellos."
+
+Cuando entró en Capernaúm, se le acercó un centurión, rogándole y diciendo: "Señor, mi criado yace en casa paralítico, gravemente atormentado."
+
+Jesús le dijo: "Yo iré y lo sanaré."
+
+El centurión respondió: "Señor, no soy digno de que entres bajo mi techo. Solo di la palabra y mi criado sanará. Porque también yo soy hombre bajo autoridad, y tengo soldados bajo mis órdenes. A uno le digo: 'Ve', y va; y al otro: 'Ven', y viene; y a mi criado: 'Haz esto', y lo hace."
 
 Al oír esto, Jesús se maravilló y dijo a los que le seguían: "De cierto os digo que ni aun en Israel he hallado tanta fe. Os digo que muchos vendrán del oriente y del occidente y se sentarán con Abraham, Isaac y Jacob en el reino de los cielos, pero los hijos del reino serán echados a las tinieblas exteriores. Allí será el llanto y el crujir de dientes." Entonces Jesús dijo al centurión: "Vete, y como has creído, te sea hecho." Y su criado fue sanado en esa misma hora.
 
@@ -202,10 +208,22 @@ Cuando Jesús entró en la casa de Pedro, vio a la suegra de este postrada y con
 
 Viendo Jesús las grandes multitudes que le rodeaban, mandó pasar al otro lado.
 
-Un escriba se acercó y le dijo: "Maestro, te seguiré adondequiera que vayas." Jesús le dijo: "Las zorras tienen guaridas y las aves del cielo nidos, pero el Hijo del Hombre no tiene dónde recostar su cabeza."
+Un escriba se acercó y le dijo: "Maestro, te seguiré adondequiera que vayas."
 
-Otro de sus discípulos le dijo: "Señor, permíteme primero ir y enterrar a mi padre." Pero Jesús le dijo: "Sígueme, y deja que los muertos entierren a sus muertos."
+Jesús le dijo: "Las zorras tienen guaridas y las aves del cielo nidos, pero el Hijo del Hombre no tiene dónde recostar su cabeza."
 
-Cuando él subió a la barca, sus discípulos le siguieron. Y he aquí, se levantó en el mar una tempestad tan grande que las olas cubrían la barca; pero él dormía. Los discípulos se acercaron a él y le despertaron, diciendo: “¡Señor, sálvanos, que perecemos!” Él les dijo: “¿Por qué tenéis miedo, hombres de poca fe?” Entonces se levantó, reprendió a los vientos y al mar, y se hizo una gran calma. Los hombres se maravillaron, diciendo: “¿Qué clase de hombre es este, que hasta los vientos y el mar le obedecen?”
+Otro de sus discípulos le dijo: "Señor, permíteme primero ir y enterrar a mi padre."
 
-Cuando llegó al otro lado, al país de los gergesenos, le salieron al encuentro dos endemoniados que venían de los sepulcros, tan fieros que nadie podía pasar por aquel camino. Y he aquí, clamaron diciendo: “¿Qué tenemos que ver contigo, Jesús, Hijo de Dios? ¿Has venido aquí a atormentarnos antes de tiempo?” Había a cierta distancia de ellos una gran manada de cerdos paciendo. Los demonios le rogaron diciendo: “Si nos echas fuera, permítenos ir a la manada de cerdos.” Él les dijo: “Id.” Salieron y se fueron a la manada de cerdos; y he aquí, toda la manada se precipitó por el despeñadero al mar y perecieron en las aguas. Los que los apacentaban huyeron, y yendo a la ciudad, contaron todo, incluido lo de los endemoniados. Y he aquí, toda la ciudad salió al encuentro de Jesús; y cuando le vieron, le rogaron que se marchara de sus contornos.
+Pero Jesús le dijo: "Sígueme, y deja que los muertos entierren a sus muertos."
+
+Cuando él subió a la barca, sus discípulos le siguieron. Y he aquí, se levantó en el mar una tempestad tan grande que las olas cubrían la barca; pero él dormía. Los discípulos se acercaron a él y le despertaron, diciendo: “¡Señor, sálvanos, que perecemos!”
+
+Él les dijo: “¿Por qué tenéis miedo, hombres de poca fe?” Entonces se levantó, reprendió a los vientos y al mar, y se hizo una gran calma.
+
+Los hombres se maravillaron, diciendo: “¿Qué clase de hombre es este, que hasta los vientos y el mar le obedecen?”
+
+Cuando llegó al otro lado, al país de los gergesenos, le salieron al encuentro dos endemoniados que venían de los sepulcros, tan fieros que nadie podía pasar por aquel camino. Y he aquí, clamaron diciendo: “¿Qué tenemos que ver contigo, Jesús, Hijo de Dios? ¿Has venido aquí a atormentarnos antes de tiempo?” Había a cierta distancia de ellos una gran manada de cerdos paciendo. Los demonios le rogaron diciendo: “Si nos echas fuera, permítenos ir a la manada de cerdos.”
+
+Él les dijo: “Id.”
+
+Salieron y se fueron a la manada de cerdos; y he aquí, toda la manada se precipitó por el despeñadero al mar y perecieron en las aguas. Los que los apacentaban huyeron, y yendo a la ciudad, contaron todo, incluido lo de los endemoniados. Y he aquí, toda la ciudad salió al encuentro de Jesús; y cuando le vieron, le rogaron que se marchara de sus contornos.
