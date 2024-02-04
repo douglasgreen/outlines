@@ -222,6 +222,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [History of the World](society/history/world.en.md)
 
 #### Wars
+* [Wars](society/history/wars/wars.en.md)
 * [World War II](society/history/wars/world_war_ii.en.md)
 
 ### Law

@@ -134,6 +134,10 @@
 * Cooking
 * Corporations
 * Cosmology
+* Countries of Africa
+* Countries of Asia
+* Countries of Europe
+* Countries of South America
 * COVID-19 - done
 * C Programming
 * C++ Programming
@@ -298,6 +302,7 @@
 * History of Movies
 * History of Music
 * History of Philosophy
+* History of Religion
 * History of Science
 * History of South America
 * History of Technology
@@ -623,7 +628,7 @@
 * Visual Studio Code
 * Vue.js
 * War in Afghanistan
-* Wars - in process
+* Wars - done
 * Weather - done
 * Web Accessibility
 * Web Analytics
