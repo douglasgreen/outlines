@@ -228,3 +228,43 @@ Lorsqu'il arriva de l'autre côté, dans le pays des Géraséniens, deux démoni
 Il leur dit : « Allez ! »
 
 Ils sortirent et entrèrent dans les porcs ; et voici, tout le troupeau se précipita du haut de l'escarpement dans la mer et mourut dans les eaux. Ceux qui les faisaient paître s'enfuirent, allèrent dans la ville et rapportèrent tout, y compris ce qui s'était passé avec les démoniaques. Et voici, toute la ville sortit à la rencontre de Jésus ; et quand ils le virent, ils le supplièrent de quitter leur territoire.
+
+### Chapitre 9
+
+Il monta dans une barque, traversa la mer et vint dans sa propre ville. Voici, on lui amena un paralytique couché sur un lit. Jésus, voyant leur foi, dit au paralytique : « Prends courage, mon fils, tes péchés sont pardonnés. »
+
+Voilà que quelques scribes se dirent en eux-mêmes : « Cet homme blasphème. »
+
+Jésus, connaissant leurs pensées, dit : « Pourquoi avez-vous de mauvaises pensées dans vos cœurs ? Car, lequel est le plus facile, de dire : 'Tes péchés sont pardonnés', ou de dire : 'Lève-toi et marche' ? Mais afin que vous sachiez que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés » (alors il dit au paralytique) : « Lève-toi, prends ton lit, et va dans ta maison. »
+
+Il se leva et s'en alla dans sa maison. Quand la foule vit cela, elle fut saisie d'étonnement et glorifia Dieu, qui avait donné un tel pouvoir aux hommes.
+
+En passant de là, Jésus vit un homme, nommé Matthieu, assis au bureau des impôts. Il lui dit : « Suis-moi. » Et se levant, il le suivit. Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de pécheurs vinrent et s'assirent avec Jésus et ses disciples. Voyant cela, les pharisiens dirent à ses disciples : « Pourquoi votre maître mange-t-il avec les publicains et les pécheurs ? »
+
+Entendant cela, Jésus leur dit : « Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades. Allez apprendre ce que signifie : 'Je désire la miséricorde, et non le sacrifice'. Car je ne suis pas venu appeler des justes, mais des pécheurs à la repentance. »
+
+Alors les disciples de Jean s'approchèrent de lui, disant : « Pourquoi nous et les pharisiens jeûnons-nous souvent, tandis que tes disciples ne jeûnent pas ? »
+
+Jésus leur dit : « Les amis de l'époux peuvent-ils s'affliger tant que l'époux est avec eux ? Mais viendront des jours où l'époux leur sera enlevé, et alors ils jeûneront. Personne ne met une pièce de drap neuf sur un vieil habit, car le morceau ajouté tire sur l'habit, et la déchirure s'agrandit. On ne met pas non plus du vin nouveau dans de vieilles outres ; autrement, les outres se rompent, le vin se répand, et les outres sont perdues. Mais on met le vin nouveau dans des outres neuves, et le tout se conserve. »
+
+Tandis qu'il leur disait cela, voici, un chef vint se prosterner devant lui, disant : « Ma fille vient de mourir ; mais viens, impose-lui ta main, et elle vivra. »
+
+Jésus se leva et le suivit, ainsi que ses disciples. Voici, une femme qui souffrait d'une perte de sang depuis douze ans s'approcha par derrière et toucha le bord de son vêtement ; car elle disait en elle-même : « Si je touche seulement son vêtement, je serai guérie. »
+
+Mais Jésus, se retournant et la voyant, dit : « Prends courage, ma fille, ta foi t'a sauvée. » Et la femme fut guérie à l'heure même.
+
+Lorsque Jésus arriva à la maison du chef et vit les joueurs de flûte et la foule bruyante, il leur dit : « Écartez-vous, car la jeune fille n'est pas morte, mais elle dort. »
+
+Ils se moquaient de lui. Mais quand la foule fut renvoyée, il entra, prit la main de la jeune fille, et elle se leva. La nouvelle de cet événement se répandit dans toute cette région.
+
+Tandis que Jésus s'en allait de là, deux aveugles le suivirent, criant et disant : « Aie pitié de nous, fils de David ! » Lorsqu'il fut entré dans la maison, les aveugles s'approchèrent de lui. Jésus leur dit : « Croyez-vous que je puisse faire cela ? »
+
+Ils lui répondirent : « Oui, Seigneur. »
+
+Alors il toucha leurs yeux en disant : « Qu'il vous soit fait selon votre foi. » Et leurs yeux s'ouvrirent. Jésus leur recommanda sévèrement : « Veillez à ce que personne ne le sache. » Mais eux, étant sortis, répandirent sa renommée dans toute cette région.
+
+Lorsqu'ils sortirent, voici, on lui amena un homme muet, possédé d'un démon. Lorsque le démon fut chassé, le muet parla. Les foules s'émerveillèrent et dirent : « Jamais rien de tel n'a été vu en Israël ! »
+
+Mais les pharisiens dirent : « C'est par le prince des démons qu'il chasse les démons. »
+
+Jésus parcourait toutes les villes et les villages, enseignant dans leurs synagogues, prêchant la Bonne Nouvelle du Royaume et guérissant toute maladie et toute infirmité parmi le peuple. Mais voyant les foules, il fut ému de compassion pour elles, car elles étaient harassées et dispersées, comme des brebis sans berger. Alors il dit à ses disciples : « La moisson est grande, mais il y a peu d'ouvriers. Priez donc le Seigneur de la moisson d'envoyer des ouvriers dans sa moisson. »

@@ -232,3 +232,43 @@ Quando giunse all'altra riva, nel paese dei Geraseni, lo incontrarono due indemo
 Ed egli disse loro: "Andate!"
 
 Uscirono e si gettarono nel branco di porci; ed ecco, tutto il branco si precipitò giù per il dirupo nel mare e morì nelle acque. Quelli che li pascolavano fuggirono, andarono in città e raccontarono tutto, incluso ciò che era accaduto agli indemoniati. Ed ecco, tutta la città uscì incontro a Gesù e, quando lo videro, lo pregarono di allontanarsi dai loro territori.
+
+### Capitolo 9
+
+Entrò in una barca, attraversò il lago e giunse nella sua città. Ed ecco, gli portarono un paralitico disteso su un letto. Gesù, vedendo la loro fede, disse al paralitico: "Coraggio, figlio! I tuoi peccati ti sono perdonati."
+
+Ed ecco, alcuni degli scribi dissero tra di loro: "Quest'uomo bestemmia."
+
+Gesù, conoscendo i loro pensieri, disse: "Perché pensate male nei vostri cuori? Che cosa è più facile dire: 'I tuoi peccati ti sono perdonati', oppure dire: 'Alzati e cammina'? Ma perché sappiate che il Figlio dell'uomo ha autorità sulla terra di perdonare i peccati -" (allora disse al paralitico), "Alzati, prendi il tuo lettino e vai a casa tua."
+
+Ed egli si alzò e andò a casa sua. Quando la folla vide ciò, rimase meravigliata e glorificò Dio, che aveva dato un tale potere agli uomini.
+
+Mentre Gesù passava di là, vide un uomo chiamato Matteo seduto al banco delle tasse. Gli disse: "Seguimi." Ed egli si alzò e lo seguì. Mentre era a tavola in casa, ecco, molti pubblicani e peccatori vennero e si misero a tavola con Gesù e i suoi discepoli. Quando i farisei videro ciò, dissero ai suoi discepoli: "Perché il vostro maestro mangia con i pubblicani e i peccatori?"
+
+Gesù, udito ciò, disse loro: "Non sono i sani che hanno bisogno del medico, ma i malati. Andate e imparate che cosa significa: 'Desidero misericordia e non sacrificio'. Perché io non sono venuto a chiamare i giusti, ma i peccatori al ravvedimento."
+
+Allora i discepoli di Giovanni si avvicinarono a lui, dicendo: "Perché noi e i farisei digiuniamo spesso, ma i tuoi discepoli non digiunano?"
+
+Gesù disse loro: "Possono forse gli amici dello sposo fare lutto finché lo sposo è con loro? Ma verranno giorni quando lo sposo sarà tolto da loro, e allora digiuneranno. Nessuno mette un pezzo di stoffa nuova su un vestito vecchio; perché il rattoppo strapperebbe il vestito, e il buco diverrebbe peggiore. Neppure si mette vino nuovo in otri vecchi; altrimenti gli otri si rompono, il vino si versa e gli otri vanno perduti. Ma si mette vino nuovo in otri nuovi, e così entrambi si conservano."
+
+Mentre diceva loro queste cose, ecco, un capo venne e si prostrò davanti a lui, dicendo: "Mia figlia è appena morta, ma vieni, imponi la tua mano su di lei e vivrà."
+
+Gesù si alzò e lo seguì, così come fecero i suoi discepoli. Ed ecco, una donna che soffriva di perdite di sangue da dodici anni si avvicinò da dietro e toccò l'orlo del suo mantello; perché diceva tra sé: "Se tocco soltanto il suo mantello, sarò guarita."
+
+Ma Gesù, voltandosi e vedendola, disse: "Coraggio, figlia! La tua fede ti ha guarita." E da quell'ora la donna fu guarita.
+
+Quando Gesù entrò nella casa del capo e vide i suonatori di flauto e la folla nel tumulto, disse loro: "Fate spazio, perché la ragazza non è morta, ma dorme."
+
+Essi lo deridevano. Ma quando la folla fu fatta uscire, egli entrò, le prese la mano e la ragazza si alzò. La fama di questo fatto si diffuse in tutta quella regione.
+
+Mentre Gesù passava di là, due ciechi lo seguirono, gridando e dicendo: "Abbi pietà di noi, figlio di Davide!" Quando fu entrato in casa, i ciechi si avvicinarono a lui. Gesù disse loro: "Credete che io possa fare questo?"
+
+Gli risposero: "Sì, Signore."
+
+Allora toccò i loro occhi, dicendo: "Sia fatto a voi secondo la vostra fede." E i loro occhi si aprirono. Gesù diede loro un severo comando, dicendo: "Guardate di non farlo sapere a nessuno." Ma essi uscirono e diffusero la sua fama in tutta quella regione.
+
+Mentre uscivano, ecco, gli fu presentato un muto indemoniato. Quando il demonio fu cacciato, il muto parlò. Le folle si meravigliarono e dicevano: "Mai si è visto nulla di simile in Israele!"
+
+Ma i farisei dicevano: "Egli scaccia i demoni con il principe dei demoni."
+
+Gesù percorreva tutte le città e i villaggi, insegnando nelle loro sinagoghe, predicando il Vangelo del Regno e guarendo ogni malattia e ogni infermità tra la gente. Ma vedendo le folle, ne ebbe compassione, perché erano stanche e smarrite, come pecore senza pastore. Allora disse ai suoi discepoli: "La messe è abbondante, ma gli operai sono pochi. Pregate dunque il Signore della messe, affinché mandi operai nella sua messe."

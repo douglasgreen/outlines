@@ -226,4 +226,42 @@ Er sagte zu ihnen: „Geht!“
 
 Sie fuhren aus und in die Herde Schweine; und siehe, die ganze Herde Schweine stürzte sich den Abhang hinunter ins Meer und kam in den Wassern um. Die Hirten flohen und gingen in die Stadt und berichteten alles, auch was mit den Besessenen geschehen war. Und siehe, die ganze Stadt zog hinaus, Jesus entgegen. Als sie ihn sahen, baten sie ihn, ihr Gebiet zu verlassen.
 
+### Kapitel 9
 
+Er stieg in ein Boot, setzte über und kam in seine eigene Stadt. Und siehe, man brachte zu ihm einen Gelähmten, der auf einem Bett lag. Als Jesus ihren Glauben sah, sagte er zu dem Gelähmten: „Sei getrost, mein Sohn! Deine Sünden sind dir vergeben.“
+
+Und siehe, einige der Schriftgelehrten sagten bei sich: „Dieser lästert.“
+
+Jesus, der ihre Gedanken kannte, sagte: „Warum denkt ihr Böses in euren Herzen? Denn was ist leichter, zu sagen: ‚Deine Sünden sind dir vergeben‘, oder zu sagen: ‚Steh auf und geh umher‘? Aber damit ihr wisst, dass der Menschensohn Vollmacht hat auf Erden, Sünden zu vergeben -“ (dann sagte er zu dem Gelähmten): „Steh auf, nimm dein Bett und geh in dein Haus.“
+
+Und er stand auf und ging in sein Haus. Als aber die Volksmenge dies sah, staunte sie und pries Gott, der den Menschen solche Vollmacht gegeben hatte.
+
+Als Jesus von dort weiterging, sah er einen Mann namens Matthäus am Zoll sitzen und sprach zu ihm: „Folge mir!“ Und er stand auf und folgte ihm. Und es geschah, als er im Haus saß, siehe, da kamen viele Zöllner und Sünder und saßen mit Jesus und seinen Jüngern zu Tisch. Als die Pharisäer das sahen, sprachen sie zu seinen Jüngern: „Warum isst euer Meister mit Zöllnern und Sündern?“
+
+Als Jesus das hörte, sprach er zu ihnen: „Nicht die Gesunden brauchen einen Arzt, sondern die Kranken. Geht aber hin und lernt, was das heißt: ‚Barmherzigkeit will ich, nicht Opfer‘; denn ich bin nicht gekommen, Gerechte zu rufen, sondern Sünder zur Buße.“
+
+Da kamen die Jünger Johannes' zu ihm und fragten: „Warum fasten wir und die Pharisäer oft, aber deine Jünger fasten nicht?“
+
+Jesus sagte zu ihnen: „Können die Freunde des Bräutigams trauern, solange der Bräutigam bei ihnen ist? Es werden aber Tage kommen, an denen der Bräutigam von ihnen genommen wird, und dann werden sie fasten. Niemand setzt ein Stück neuen, nicht eingelaufenen Stoff auf ein altes Kleidungsstück; denn der Flicken reißt vom Kleid, und der Riss wird schlimmer. Auch füllt man keinen neuen Wein in alte Schläuche; sonst zerreißen die Schläuche, der Wein wird verschüttet, und die Schläuche werden zerstört. Nein, man füllt neuen Wein in neue Schläuche, und beides bleibt erhalten.“
+
+Während er dies zu ihnen sagte, siehe, da kam ein Synagogenvorsteher und warf sich vor ihm nieder und sagte: „Meine Tochter ist eben gestorben; aber komm und lege deine Hand auf sie, und sie wird leben.“
+
+Jesus stand auf und folgte ihm, ebenso seine Jünger. Und siehe, eine Frau, die zwölf Jahre lang an Blutfluss litt, näherte sich ihm von hinten und berührte den Saum seines Gewandes; denn sie sagte sich: „Wenn ich nur sein Gewand berühre, werde ich gesund.“
+
+Jesus aber wandte sich um, sah sie und sagte: „Sei getrost, meine Tochter! Dein Glaube hat dich gerettet.“ Und die Frau war von jener Stunde an gesund.
+
+Als Jesus in das Haus des Synagogenvorstehers kam und die Flötenspieler und die lärmende Menge sah, sagte er: „Geht weg, denn das Mädchen ist nicht tot, sondern schläft.“
+
+Sie verspotteten ihn. Doch als die Menge hinausgeschickt wurde, ging er hinein, nahm sie bei der Hand, und das Mädchen stand auf. Die Kunde davon verbreitete sich in jenem ganzen Land.
+
+Als Jesus von dort weiterging, folgten ihm zwei Blinde und riefen: „Erbarme dich unser, du Sohn Davids!“ Als er ins Haus kam, traten die Blinden zu ihm. Jesus fragte sie: „Glaubt ihr, dass ich dies tun kann?“
+
+Sie antworteten ihm: „Ja, Herr.“
+
+Dann berührte er ihre Augen und sagte: „Euch geschehe nach eurem Glauben.“ Und ihre Augen wurden geöffnet. Jesus gebot ihnen streng: „Seht zu, dass niemand davon erfährt.“ Aber sie gingen hinaus und verbreiteten seinen Ruf in jenem ganzen Land.
+
+Als sie hinausgingen, siehe, da wurde ein stummer Mann, der von einem Dämon besessen war, zu ihm gebracht. Als der Dämon ausgetrieben war, sprach der Stumme. Die Menge wunderte sich und sagte: „So etwas hat es in Israel noch nie gegeben!“
+
+Aber die Pharisäer sagten: „Durch den Fürsten der Dämonen treibt er die Dämonen aus.“
+
+Jesus zog durch alle Städte und Dörfer, lehrte in ihren Synagogen, predigte das Evangelium des Reiches und heilte jede Krankheit und jedes Gebrechen unter dem Volk. Als er aber die Volksmenge sah, hatte er Mitleid mit ihnen, denn sie waren geplagt und zerstreut wie Schafe, die keinen Hirten haben. Dann sagte er zu seinen Jüngern: „Die Ernte ist groß, aber es gibt wenige Arbeiter. Bittet daher den Herrn der Ernte, dass er Arbeiter in seine Ernte sende.“

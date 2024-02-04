@@ -227,3 +227,43 @@ Kiam li alvenis al la alia flanko, en la landon de la Gergezenoj, du posedatoj d
 Li diris al ili, "Iru!"
 
 Ili eliris kaj eniris en la gregon de porkoj; kaj jen, la tuta grego da porkoj kuris malsupren de la klifo en la maron kaj mortis en la akvo. Tiuj, kiuj paŝtis ilin, forkuris kaj iris en la urbon kaj rakontis ĉion, inkluzive tion, kio okazis al la posedatoj de demonoj. Jen, la tuta urbo elvenis por renkonti Jesuon. Kiam ili vidis lin, ili petegis, ke li foriru de iliaj limoj.
+
+### Ĉapitro 9
+
+Li eniris en boaton kaj transiris, kaj venis en sian propran urbon. Jen, ili alportis al li viro, kiu estis paralizita, kuŝanta sur lito. Jesuo, vidante ilian fidon, diris al la paralizulo, "Filo, kuraĝu! Viaj pekoj estas pardonitaj."
+
+Jen, kelkaj el la skribistoj diris inter si, "Ĉi tiu homo blasfemas."
+
+Jesuo, sciante iliajn pensojn, diris, "Kial vi pensas malbonon en viaj koroj? Kio estas pli facile, diri, 'Viaj pekoj estas pardonitaj;' aŭ diri, 'Leviĝu kaj iru'? Sed por ke vi sciu, ke la Filo de Homo havas aŭtoritaton sur la tero por pardoni pekojn—" (tiam li diris al la paralizulo), "Leviĝu, prenu vian liton, kaj iru al via domo."
+
+Li leviĝis kaj foriris al sia domo. Sed kiam la homamasoj tion vidis, ili miris kaj gloradis Dion, kiu donis tian aŭtoritaton al homoj.
+
+Kiam Jesuo de tie preterpasis, li vidis viron nomatan Mateo sidantan ĉe la impostkolekta oficejo. Li diris al li, "Sekvu min." Li leviĝis kaj sekvis lin. Dum li sidis en la domo, jen, multaj impostistoj kaj pekuloj venis kaj sidiĝis kun Jesuo kaj liaj disĉiploj. Kiam la Fariseoj tion vidis, ili diris al liaj disĉiploj, "Kial via instruisto manĝas kun impostistoj kaj pekuloj?"
+
+Kiam Jesuo tion aŭdis, li diris al ili, "La sanaj ne bezonas kuraciston, sed la malsanaj. Sed iru kaj lernu, kion signifas tio: 'Mi deziras kompaton, kaj ne oferon,' ĉar mi ne venis voki justulojn, sed pekulojn al pento."
+
+Tiam la disĉiploj de Johano venis al li, dirante, "Kial ni kaj la Fariseoj ofte fastas, sed viaj disĉiploj ne fastas?"
+
+Jesuo diris al ili, "Ĉu la amikoj de la edziĝinto povas malĝoji, dum la edziĝinto estas kun ili? Sed venos tagoj, kiam la edziĝinto estos forprenita de ili, kaj tiam ili fastos. Neniu metas pecon da neŝrumpinta ŝtofo sur malnovan veston; ĉar la flikaĵo forŝiriĝus de la vesto, kaj pli malbona ŝiriĝo estus farita. Kaj oni ne metas novan vinon en malnovajn vinsakojn, alie la sakoj krevas, kaj la vino elverŝiĝas, kaj la sakoj pereas. Sed oni metas novan vinon en novajn vinsakojn, kaj ambaŭ konserviĝas."
+
+Dum li diris ĉi tiujn aferojn al ili, jen, estro venis kaj adorkliniĝis antaŭ li, dirante, "Mia filino ĵus mortis, sed venu kaj metu vian manon sur ŝin, kaj ŝi vivos."
+
+Jesuo leviĝis kaj sekvis lin, kaj same faris liaj disĉiploj. Jen, virino, kiu havis sangofluadon dum dek du jaroj, venis malantaŭen kaj tuŝis la randon de lia vesto; ĉar ŝi diris en si mem, "Se mi nur tuŝas lian veston, mi estos resanigita."
+
+Sed Jesuo, turniĝinte kaj vidinte ŝin, diris, "Filo, kuraĝu! Via fido vin resanigis." Kaj la virino estis resanigita de tiu horo.
+
+Kiam Jesuo venis en la domon de la reganto kaj vidis la flutludantojn kaj la amason en bruema malordo, li diris al ili, "Faru lokon, ĉar la knabino ne estas mortinta, sed dormas."
+
+Ili mokis lin. Sed kiam la homamaso estis elsendita, li eniris, prenis ŝin je la mano, kaj la knabino leviĝis. La raporto pri ĉi tio disvastiĝis tra la tuta lando.
+
+Kiam Jesuo foriris de tie, du blinduloj sekvis lin, kriante kaj dirante, "Kompatu nin, filo de Davido!" Kiam li venis en la domon, la blinduloj alproksimiĝis al li. Jesuo demandis ilin, "Ĉu vi kredas, ke mi kapablas fari ĉi tion?"
+
+Ili diris al li, "Jes, Sinjoro."
+
+Tiam li tuŝis iliajn okulojn, dirante, "Laŭ via fido estu al vi farite." Kaj iliaj okuloj malfermiĝis. Jesuo strikte ordonis al ili, dirante, "Vidu, ke neniu sciu pri ĉi tio." Sed ili eliris kaj disvastigis lian famon tra la tuta lando.
+
+Kiam ili eliris, jen, muta viro, kiu estis posedata de demono, estis alportita al li. Kiam la demono estis elĵetita, la mutulo parolis. La homamasoj miris, dirante, "Nenio simila iam estis vidita en Izrael!"
+
+Sed la Fariseoj diris, "Per la princo de la demonoj, li elĵetas demonojn."
+
+Jesuo iris tra ĉiuj urboj kaj vilaĝoj, instruante en iliaj sinagogoj kaj predikante la Bonan Novaĵon de la Regno, kaj resanigante ĉiun malsanon kaj ĉiun malsaniĝon inter la homoj. Sed kiam li vidis la homamasojn, li sentis kompaton al ili, ĉar ili estis ĉikanitaj kaj disĵetitaj, kiel ŝafoj sen paŝtisto. Tiam li diris al siaj disĉiploj, "La rikolto ja estas granda, sed la laboristoj estas malmultaj. Preĝu do, ke la Sinjoro de la rikolto sendu laboristojn en sian rikolton."

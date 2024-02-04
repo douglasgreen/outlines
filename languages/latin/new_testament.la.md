@@ -226,4 +226,42 @@ Et ait illis: "Ite."
 
 Exeuntes autem abierunt in gregem porcorum; et ecce, impetu facto, universa grex porcorum praecipitavit se de praeceps in mare et mortua sunt in aquis. Pastores autem fugerunt et, venientes in civitatem, nuntiaverunt omnia, et de his qui daemonia habuerant. Et ecce, tota civitas exivit obviam Iesu; et viso eo, rogaverunt ut transiret a finibus eorum.
 
+### Caput 9
 
+Intravit in navem et transfretavit et venit in civitatem suam. Et ecce, obtulerunt ei paralyticum iacentem in lecto. Iesus, videns fidem eorum, dixit paralytico: "Confide, fili; remittuntur tibi peccata."
+
+Et ecce, quidam de scribis dixerunt intra se: "Hic blasphemat."
+
+Iesus autem, cognitis cogitationibus eorum, dixit: "Quare cogitatis mala in cordibus vestris? Quid est facilius dicere: 'Remittuntur tibi peccata,' an dicere: 'Surge et ambula'? Ut autem sciatis quia Filius Hominis habet potestatem in terra dimittendi peccata" (tunc ait paralytico), "Surge, tolle lectum tuum et vade in domum tuam."
+
+Et surrexit et abiit in domum suam. Videns autem turbae miratae sunt et glorificaverunt Deum, qui dedit potestatem talem hominibus.
+
+Et cum Iesus inde transiret, vidit hominem sedentem in telonio, Matthaeum nomine, et ait illi: "Sequere me." Et surrexit et secutus est eum. Et factum est, cum accumberet in domo, ecce multi publicani et peccatores venientes simul discumbebant cum Iesu et discipulis eius. Et videntes Pharisaei dicebant discipulis eius: "Quare cum publicanis et peccatoribus manducat magister vester?"
+
+Iesus autem, hoc audito, dixit eis: "Non opus est valentibus medicus, sed male habentibus. Euntes autem discite quid est: Misericordiam volo et non sacrificium. Non enim veni vocare iustos, sed peccatores in paenitentiam."
+
+Tunc accesserunt ad eum discipuli Ioannis dicentes: "Quare nos et Pharisaei ieiunamus frequenter, discipuli autem tui non ieiunant?"
+
+Et ait illis Iesus: "Numquid possunt filii sponsi lugere quamdiu cum eis est sponsus? Venient autem dies cum auferetur ab eis sponsus, et tunc ieiunabunt. Nemo autem immittit commissuram panni rudis in vestimentum vetus; tollit enim plenitudinem eius a vestimento et peior scissura fit. Neque mittunt vinum novum in utres veteres; alioquin rumpuntur utres, et vinum effunditur, et utres pereunt; sed vinum novum in utres novos mittunt, et utraque conservantur."
+
+Haec illo loquente ad eos, ecce princeps unus accessit et adoravit eum dicens: "Filia mea modo defuncta est; sed veni, impone manum tuam super eam, et vivet."
+
+Iesus surgens secutus est eum, et discipuli eius. Et ecce, mulier, quae sanguinis fluxum patiebatur duodecim annis, accessit retro et tetigit fimbriam vestimenti eius; dicebat enim intra se: "Si tetigero tantum vestimentum eius, salvabor."
+
+Iesus autem conversus et videns eam dixit: "Confide, filia; fides tua te salvam fecit." Et salva facta est mulier ex illa hora.
+
+Cum venisset Iesus in domum principis et vidisset tibicines et turbam tumultuantem, dixit: "Recedite, non est enim mortua puella, sed dormit."
+
+Et deridebant eum. Cum autem eiecta esset turba, intravit et tenuit manum eius, et surrexit puella. Et exiit fama haec in universam terram illam.
+
+Transiens autem inde Iesus, duo caeci secuti sunt eum clamantes et dicentes: "Miserere nostri, fili David!" Cum autem venisset in domum, accesserunt ad eum caeci. Et dicit eis Iesus: "Creditis quia possum hoc facere?"
+
+Dicunt ei: "Utique, Domine."
+
+Tunc tetigit oculos eorum dicens: "Secundum fidem vestram fiat vobis." Et aperti sunt oculi eorum. Et Iesus stricte praecepit eis dicens: "Videte ne quis sciat." Illi autem exeuntes diffamaverunt eum per totam terram illam.
+
+Exeuntibus illis, ecce obtulerunt ei hominem mutum daemonium habentem. Et eiecto daemone, locutus est mutus. Et miratae sunt turbae dicentes: "Numquam apparuit sic in Israel!"
+
+Pharisaei autem dicebant: "Principe daemoniorum eicit daemonia."
+
+Et circumibat Iesus omnes civitates et castella, docens in synagogis eorum et praedicans evangelium regni et curans omnem languorem et omnem infirmitatem. Videns autem turbas, misertus est eorum, quia erant vexati et dispersi sicut oves non habentes pastorem. Tunc dicit discipulis suis: "Messis quidem multa, operarii autem pauci. Rogate ergo Dominum messis, ut mittat operarios in messem suam."

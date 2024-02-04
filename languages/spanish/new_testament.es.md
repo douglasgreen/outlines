@@ -227,3 +227,43 @@ Cuando llegó al otro lado, al país de los gergesenos, le salieron al encuentro
 Él les dijo: “Id.”
 
 Salieron y se fueron a la manada de cerdos; y he aquí, toda la manada se precipitó por el despeñadero al mar y perecieron en las aguas. Los que los apacentaban huyeron, y yendo a la ciudad, contaron todo, incluido lo de los endemoniados. Y he aquí, toda la ciudad salió al encuentro de Jesús; y cuando le vieron, le rogaron que se marchara de sus contornos.
+
+### Capítulo 9
+
+Entró en una barca, cruzó y llegó a su propia ciudad. He aquí, le trajeron a un paralítico acostado en una cama. Jesús, viendo la fe de ellos, dijo al paralítico: "Hijo, ¡ánimo! Tus pecados te son perdonados."
+
+Y he aquí, algunos de los escribas decían para sí: "Este hombre blasfema."
+
+Conociendo Jesús sus pensamientos, dijo: "¿Por qué pensáis mal en vuestros corazones? Porque, ¿qué es más fácil, decir: 'Tus pecados te son perdonados', o decir: 'Levántate y anda'? Pero para que sepáis que el Hijo del Hombre tiene autoridad en la tierra para perdonar pecados" (entonces dijo al paralítico): "Levántate, toma tu lecho y vete a tu casa."
+
+Y él se levantó y se fue a su casa. Pero al verlo, las multitudes se maravillaron y glorificaron a Dios, que había dado tal autoridad a los hombres.
+
+Pasando Jesús de allí, vio a un hombre llamado Mateo sentado en la oficina de recaudación de impuestos, y le dijo: "Sígueme." Y se levantó y le siguió. Y sucedió que estando Jesús en la casa, he aquí, muchos publicanos y pecadores vinieron y se sentaron juntos con Jesús y sus discípulos. Al ver esto, los fariseos dijeron a sus discípulos: "¿Por qué vuestro maestro come con publicanos y pecadores?"
+
+Al oírlo Jesús, les dijo: "No necesitan médico los sanos, sino los enfermos. Pero id y aprended lo que significa: 'Misericordia quiero y no sacrificio', porque no he venido a llamar a justos, sino a pecadores al arrepentimiento."
+
+Entonces vinieron a él los discípulos de Juan, diciendo: "¿Por qué nosotros y los fariseos ayunamos a menudo, pero tus discípulos no ayunan?"
+
+Jesús les dijo: "¿Acaso pueden los amigos del novio estar de luto mientras el novio está con ellos? Pero vendrán días cuando el novio les será quitado, y entonces ayunarán. Nadie pone un remiendo de paño nuevo en un vestido viejo, porque el remiendo tira del vestido y el desgarrón se hace peor. Tampoco se pone vino nuevo en odres viejos; de lo contrario, los odres se rompen, el vino se derrama y los odres se pierden. Pero se pone vino nuevo en odres nuevos, y ambos se conservan."
+
+Mientras les decía esto, he aquí, un jefe se acercó y le adoró, diciendo: "Mi hija acaba de morir, pero ven y pon tu mano sobre ella, y vivirá."
+
+Jesús se levantó y lo siguió, y lo hicieron también sus discípulos. He aquí, una mujer que había sufrido de flujo de sangre durante doce años se acercó por detrás y tocó el borde de su manto; porque decía para sí: "Si sólo toco su manto, seré sanada".
+
+Pero Jesús, volviéndose y viéndola, dijo: "Hija, ten ánimo, tu fe te ha sanado". Y la mujer fue sanada desde aquella hora.
+
+Cuando Jesús entró en la casa del jefe y vio a los flautistas y la multitud en desorden ruidoso, les dijo: "Apartaos, porque la niña no está muerta, sino durmiendo".
+
+Y se burlaban de él. Pero cuando la multitud fue echada fuera, entró, tomó de la mano a la niña, y ella se levantó. Y la fama de esto se divulgó por toda aquella tierra.
+
+Mientras Jesús pasaba de allí, dos ciegos lo siguieron, gritando y diciendo: "¡Ten misericordia de nosotros, hijo de David!" Cuando él entró en la casa, los ciegos se acercaron a él. Jesús les dijo: "¿Creéis que puedo hacer esto?"
+
+Ellos le dijeron: "Sí, Señor".
+
+Entonces tocó sus ojos, diciendo: "Hágase según vuestra fe". Y se les abrieron los ojos. Jesús les advirtió estrictamente, diciendo: "Mirad que nadie lo sepa". Pero ellos salieron y divulgaron su fama por toda aquella tierra.
+
+Al salir ellos, he aquí, le trajeron un mudo endemoniado. Y cuando el demonio fue echado fuera, el mudo habló. Y las multitudes se maravillaron, diciendo: "Jamás se ha visto algo así en Israel".
+
+Pero los fariseos decían: "Por el príncipe de los demonios, echa fuera los demonios".
+
+Jesús recorría todas las ciudades y las aldeas, enseñando en sus sinagogas, predicando el evangelio del reino y sanando toda enfermedad y toda dolencia entre el pueblo. Pero al ver las multitudes, tuvo compasión de ellas, porque estaban afligidas y desamparadas, como ovejas sin pastor. Entonces dijo a sus discípulos: "La mies es mucha, pero los obreros son pocos. Rogad, por tanto, al Señor de la mies que envíe obreros a su mies".
