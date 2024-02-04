@@ -295,7 +295,7 @@ The Cold War, a period of geopolitical tension between the Soviet Union and the 
 
 The Cold War's proxy wars, including the Korean War, the Vietnam War, and the Soviet-Afghan War, were instrumental in shaping the geopolitical landscape of the latter half of the 20th century. These conflicts were characterized by the indirect engagement of the superpowers through local and regional wars, extensive human suffering, and significant political and military implications. They highlighted the complexities of international relations in a bipolar world and the profound impact of ideological competition on global affairs.
 
-### Decolonization and National Liberation Wars
+## Decolonization and National Liberation Wars
 
 The mid-20th century witnessed a significant shift in the global political landscape as numerous countries in Africa, Asia, and other regions fought for and gained independence from European colonial powers. This period of decolonization was marked by a series of national liberation wars, which were often violent conflicts between colonial powers and independence movements. Key conflicts that exemplify this transformative era include the Algerian War of Independence, the Mau Mau Uprising in Kenya, and the Angolan Civil War.
 
@@ -450,7 +450,7 @@ The impact of war extends far beyond the battlefields, deeply affecting the soci
 
 The relationship between war and society is complex and multifaceted, with conflicts leaving indelible marks on civilian life, national psyche, and social structures. Understanding this relationship is crucial for comprehending the full cost of war, far beyond the immediate toll of the battlefield. It underscores the importance of strategies aimed at not just winning wars but also at securing peace and rebuilding societies in their aftermath.
 
-### The Ethics of War
+## The Ethics of War
 
 The ethics of war delves into the moral and philosophical discussions surrounding the conduct of war and the use of violence in conflicts. It encompasses various theories and legal frameworks that seek to define the justifications for war and the acceptable behavior during warfare. Key concepts in this field include the Just War Theory, the laws governing war crimes and international law, and the contentious debate over nuclear weapons.
 
