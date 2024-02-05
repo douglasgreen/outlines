@@ -129,7 +129,8 @@
 * Concurrent Programming
 * Conservation/Biodiversity
 * Constitution - done
-* Constructed Language - done
+* Constructed Languages - done
+* Constructed Language Design - in process
 * Content Management Systems (CMSs)
 * Cooking
 * Corporations

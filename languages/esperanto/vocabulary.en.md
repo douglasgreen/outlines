@@ -1,15 +1,22 @@
 # Esperanto Vocabulary
 
+Combining forms are shown in parentheses.
+
+## Suffixes
+* ano - Add to place name to form person name
+* io/lando - Add to person name to form place name
+* ismo - doctrine or system
+* isto - a person who practices a doctrine or system
+
 ## A
 * Afganio - Afghanistan
-* Afrikamerikano - African American
+* Afrikamerikano (Afriko + Amerikano)- African American
 * Afriko - Africa
-* Afro - Afro (hairstyle)
 * Agosteno - Augustine
 * Albanio - Albania
 * Alberto - Albert
 * Aleksandro - Alexander
-* Amerikano - American (person)
+* Amerikano (Ameriko + ano) - American (person)
 * Ameriko - America
 * Anaksimandro - Anaximander
 * Andoro - Andorra
@@ -21,7 +28,7 @@
 * Ateno - Athens
 * Azio - Asia
 * Aŭstralio - Australia
-* Aŭstrio - Austria
+* Aŭstrio (Aŭstro + io) - Austria
 * Aŭstro - Austrian
 
 ## B
@@ -36,7 +43,7 @@
 * Bosnio - Bosnia
 * Brazilo - Brazil
 * Bretonio - Brittany
-* Britio - Britain
+* Britio (Brito + io) - Britain
 * Brito - Briton
 * Budapeŝto - Budapest
 * Bulgario - Bulgaria
@@ -47,20 +54,21 @@
 ## E
 * Eduardo - Edward
 * Egiptio - Egypt
-* Epicurano - Epicurean
-* Epicurismo - Epicureanism
 * Epikteto - Epictetus
-* Esperantisto - Esperanto speaker
-* Esperantistoj - Esperanto speakers
+* Epikurano - Epicurean
+* Epikuro - Epicurus
+* Epikurismo (Epikuro + ismo) - Epicureanism
+* Esperantisto (Esperanto + isto) - Esperanto speaker
 * Esperanto - Esperanto
 * Euripido - Euripides
-* Eŭropano - European (person)
+* Eŭropano (Eŭropo + ano) - European (person)
 * Eŭropo - Europe
-* Eŭrozono - Eurozone
+* Eŭrozono (Eŭropo + zono) - Eurozone
 
 ## F
-* Finnlando - Finland
-* Francio - France
+* Finnlando (Finno + lando) - Finland
+* Finno - Finn
+* Francio (franco + io) - France
 * Francisko - Francis
 * Frankfurto - Frankfurt
 * Frederiko - Frederick
@@ -69,10 +77,9 @@
 * Galileo - Galileo
 * Gento - Ghent
 * Georgo - George
-* Germanio - Germany
+* Germanio (Germano + io) (also Germanujo) - Germany
 * Germano - German (person)
-* Germanujo - Germany
-* Grekio - Greece
+* Grekio (Greko + io) - Greece
 * Greko - Greek (person)
 
 ## H
@@ -191,7 +198,7 @@
 * Sofoklo - Sophocles
 * Sokrato - Socrates
 * Sovetunio - Soviet Union
-* Stoicismo - Stoicism
+* Stoicismo (Stoiko + ismo) - Stoicism
 * Stoiko - Stoic
 * Sudameriko - South America
 * Sudano - Sudanese
@@ -295,7 +302,7 @@
 * aktoro - actor
 * aktuala - current
 * akustika - acoustic
-* akva - aquatic, water (adjective)
+* akva - aquatic, water
 * akvo - water
 * al - to, towards
 * albumo - album
@@ -330,7 +337,7 @@
 * altitudo - altitude
 * altiĝi - to rise
 * altlernejo - higher education institution
-* alto - high (adjective)
+* alta - high
 * aludi - to allude
 * alveni - to arrive
 * alveno - arrival
@@ -409,7 +416,7 @@
 * araba - Arabic
 * aranĝi - to arrange
 * aranĝo - arrangement
-* arbara - forest (adjective)
+* arbara - forest
 * arbaro - forest
 * arbitra - arbitrary
 * arbo - tree
@@ -427,7 +434,7 @@
 * arkivo - archive
 * arko - arch, bow
 * arkta - arctic
-* armena - Armenian (adjective)
+* armena - Armenian
 * armeo - army
 * armilo - weapon
 * aro - set, group
@@ -441,7 +448,7 @@
 * artistika - artistic
 * artisto - artist
 * arto - art
-* arĝenta - silver (adjective)
+* arĝenta - silver
 * arĥiduko - archduke
 * asembleo - assembly
 * asertante - asserting
@@ -488,7 +495,7 @@
 * aŭstra - Austrian
 * aŭtentikeco - authenticity
 * aŭto - car
-* aŭtobusa - bus (adjective)
+* aŭtobusa - bus
 * aŭtobuso - bus
 * aŭtomate - automatically
 * aŭtomatigado - automation
@@ -507,7 +514,7 @@
 * balotrajto - voting right
 * balta - Baltic
 * bando - band, gang
-* banka - bank (adjective)
+* banka - bank
 * bankado - banking
 * banko - bank
 * bariero - barrier
@@ -525,7 +532,7 @@
 * bela - beautiful
 * beleco - beauty
 * belga - Belgian
-* berlina - Berlin (adjective)
+* berlina - Berlin
 * besto - animal
 * bezoni - to need
 * bezono - need
@@ -546,7 +553,7 @@
 * blanka - white
 * blazono - coat of arms
 * blobo - blob
-* bloka - block (adjective)
+* bloka - block
 * bloko - block
 * blua - blue
 * bojkoto - boycott
@@ -557,8 +564,8 @@
 * bonstato - well-being
 * bonvoli - to be willing
 * bordo - edge, shore
-* bostona - Boston (adjective)
-* branĉa - branch (adjective)
+* bostona - Boston
+* branĉa - branch
 * branĉado - branching
 * branĉiĝo - branching off
 * branĉo - branch
@@ -741,7 +748,7 @@
 * distingo - distinction
 * distribui - to distribute
 * distribuo - distribution
-* distrikta - district (adjective)
+* distrikta - district
 * distrikto - district
 * disvastigo - dissemination
 * disvastiĝi - to spread
@@ -875,7 +882,7 @@
 * ekzistado - existence
 * ekzistenca - existential
 * ekzistencialismo - Existentialism
-* ekzistencisma - existentialist (adjective)
+* ekzistencisma - existentialist
 * ekzistencismo - existentialism
 * ekzistencista - existentialist (noun)
 * ekzisti - to exist
@@ -958,7 +965,7 @@
 * esence - essentially
 * esenco - essence
 * eseo - essay
-* esperanta - Esperanto (adjective)
+* esperanta - Esperanto
 * esperante - in Esperanto
 * esperantista - relating to Esperanto enthusiasts
 * esperi - to hope
@@ -979,9 +986,9 @@
 * esti - to be
 * estigi - to cause
 * estiĝi - to come into being
-* estonta - future (adjective)
+* estonta - future
 * estonteco - future (as a time period)
-* estonto - future (adj.)
+* estonto - future
 * estraro - board, committee
 * estri - to lead, to manage
 * estro - leader, chief
@@ -994,7 +1001,7 @@
 * etendiĝi - to be extended
 * eterna - eternal
 * etika - ethical
-* etikeda - etiquette (adjective)
+* etikeda - etiquette
 * etikedo - label
 * etiketanto - labelling
 * etiko - ethics
@@ -1038,7 +1045,7 @@
 * faligo - felling, knocking down
 * falo - fall
 * fama - famous
-* familia - family (adjective)
+* familia - family
 * familio - family
 * famiĝi - to become famous
 * famoze - famously
@@ -1062,11 +1069,11 @@
 * fenomeno - phenomenon
 * fenomenologia - phenomenological
 * fenomenologio - phenomenology
-* fera - iron (adj.)
+* fera - iron
 * ferio - vacation, holiday
 * fermi - to close
 * fermita - closed
-* fervoja - railway (adjective)
+* fervoja - railway
 * fervojo - railway
 * fervojvojo - railway
 * festi - to celebrate
@@ -1106,7 +1113,7 @@
 * fiŝo - fish
 * flago - flag
 * flandra - Flemish
-* flanka - side (adjective)
+* flanka - side
 * flanke - on the side
 * flanko - side, flank
 * flava - yellow
@@ -1167,8 +1174,8 @@
 * fotografaĵo - photograph
 * franca - French
 * france - in French
-* franco - franc
-* frankfurta - Frankfurt (adjective)
+* franco - franc, Frenchman
+* frankfurta - Frankfurt
 * fratino - sister
 * frato - brother
 * frazo - sentence
@@ -1243,7 +1250,7 @@
 * greka - Greek
 * griza - gray
 * grundo - ground, soil
-* grupa - group (adjective)
+* grupa - group
 * grupigi - to group
 * grupo - group
 * guberniestro - governor
@@ -1262,7 +1269,7 @@
 * havi - to have
 * havigi - to provide, to supply
 * hebrea - Hebrew
-* hejma - home (adjective)
+* hejma - home
 * hejme - at home
 * hejmo - home
 * hela - bright, clear
@@ -1280,7 +1287,8 @@
 * hierarkia - hierarchical
 * hierarĥio - hierarchy
 * himno - hymn
-* hinda - Indian (adjective)
+* hinda - Indian
+* hindo - Indian
 * hipotetika - hypothetical
 * hipotezi - to hypothesize
 * hispana - Spanish
@@ -1332,7 +1340,7 @@
 * ilo - tool
 * ilustri - to illustrate
 * impakto - impact
-* imperativa - imperative (adjective)
+* imperativa - imperative
 * imperativo - imperative (noun)
 * imperia - imperial
 * imperiestro - emperor
@@ -1455,7 +1463,7 @@
 * irlanda - Irish
 * islama - Islamic
 * islamika - Islamic
-* israela - Israeli (adjective)
+* israela - Israeli
 * itala - Italian
 * iu - someone, some
 * izoli - to isolate
@@ -1469,7 +1477,7 @@
 * januaro - January
 * japana - Japanese
 * japane - in Japanese
-* jara - year (adjective)
+* jara - year
 * jaraĝa - yearly, annual
 * jarcento - century
 * jardeko - decade
@@ -1477,7 +1485,7 @@
 * jaro - year
 * je - at, in (preposition with various meanings)
 * jen - behold, here is
-* jena - that (adjective)
+* jena - that
 * jes - yes
 * juda - Jewish
 * jugoslavia - Yugoslavia
@@ -1614,7 +1622,7 @@
 * kolonizado - colonization
 * kolono - column
 * koloro - color
-* komandlinia - command line (adjective)
+* komandlinia - command line
 * komandlinio - command line
 * komando - command
 * kombinante - combining
@@ -1659,7 +1667,7 @@
 * kompromiso - compromise
 * kompula - compulsive
 * komputado - computing
-* komputila - computer (adjective)
+* komputila - computer
 * komputilo - computer
 * komuna - common
 * komune - commonly, together
@@ -1725,11 +1733,11 @@
 * konstanta - constant
 * konstante - constantly
 * konstelacio - constellation
-* konstitua - constitutional (adj.)
+* konstitua - constitutional
 * konstitucia - constitutional
 * konstitucio - constitution
 * konstituo - constitution
-* konstrua - construction (adj.)
+* konstrua - construction
 * konstruado - construction
 * konstruaĵo - building
 * konstrui - to construct, to build
@@ -1771,7 +1779,7 @@
 * korekto - correction
 * koro - heart
 * korpo - body
-* korpusa - corpus (adj.)
+* korpusa - corpus
 * kortezo - court
 * korto - court, yard
 * kortumo - court, courtroom
@@ -1842,7 +1850,7 @@
 * kutime - usually
 * kutimo - habit, custom
 * kuŝi - to lie (down)
-* kvadrata - square (adjective)
+* kvadrata - square
 * kvalito - quality
 * kvankam - although
 * kvanto - quantity
@@ -1857,7 +1865,7 @@
 
 ## l
 * la - the
-* labora - labor (adjective)
+* labora - labor
 * laborado - laboring, work
 * laborante - working
 * laboratorio - laboratory
@@ -1899,7 +1907,7 @@
 * leono - lion
 * lernado - learning
 * lernanto - learner, student
-* lerneja - school (adjective)
+* lerneja - school
 * lernejo - school
 * lerni - to learn
 * lerno - learning
@@ -1948,7 +1956,7 @@
 * literatura - literary
 * literaturo - literature
 * litero - letter (of the alphabet)
-* litova - Lithuanian (adjective)
+* litova - Lithuanian
 * liverado - delivery
 * liveri - to deliver
 * logi - to lure, to entice
@@ -2088,19 +2096,19 @@
 * matematika - mathematical
 * matematikisto - mathematician
 * matematiko - mathematics
-* materiala - material (adjective)
+* materiala - material
 * materialismo - materialism
 * materialo - material
 * materio - matter
-* maŝina - machine (adjective)
+* maŝina - machine
 * maŝinlernado - machine learning
 * maŝino - machine
 * medalo - medal
-* media - media (adjective)
+* media - media
 * medicina - medicinal, medical
 * medicino - medicine
 * medio - environment, medium
-* mediteranea - Mediterranean (adjective)
+* mediteranea - Mediterranean
 * mekanismo - mechanism
 * meksika - Mexican
 * mem - self
@@ -2256,7 +2264,7 @@
 * naskiĝloko - birthplace
 * naskiĝo - birth
 * naskiĝurbo - birthplace
-* natria - sodium (adjective)
+* natria - sodium
 * natura - natural
 * nature - naturally
 * naturisma - naturist, naturalistic
@@ -2306,9 +2314,9 @@
 * norda - north, northern
 * norde - north
 * nordo - north
-* nordokcidenta - northwest (adjective)
+* nordokcidenta - northwest
 * nordokcidento - northwest (noun)
-* nordorienta - northeast (adjective)
+* nordorienta - northeast
 * nordoriente - northeast (adverb)
 * nordoriento - northeast
 * norma - standard
@@ -2335,7 +2343,7 @@
 * nutraĵo - food, nourishment
 
 ## o
-* objekta - objective (adjective)
+* objekta - objective
 * objektiva - objective
 * objekto - object
 * observado - observation
@@ -2384,10 +2392,10 @@
 * ordo - order (organization)
 * ordoni - to order, command
 * ordono - order, command
-* oregona - Oregon (adjective)
+* oregona - Oregon
 * organika - organic
 * organismo - organism
-* organiza - organize (adjective)
+* organiza - organize
 * organizaĵo - organization
 * organizi - to organize
 * organizo - organization
@@ -2396,7 +2404,7 @@
 * orienta - eastern
 * oriente - in the east, eastward
 * oriento - east
-* origina - original (adjective)
+* origina - original
 * originala - original
 * originalo - original (noun)
 * origine - originally
@@ -2626,7 +2634,7 @@
 * preta - ready
 * pretigi - to prepare, to make ready
 * prezenceco - presence
-* prezenta - present (adjective)
+* prezenta - present
 * prezentado - presentation (act of presenting)
 * prezentante - presenting
 * prezentanto - presenter
@@ -2682,7 +2690,7 @@
 * progresi - to progress
 * progreso - progress
 * prohibicio - prohibition
-* projekta - project (adjective)
+* projekta - project
 * projektdosierujo - project directory
 * projekthistorio - project history
 * projekto - project
@@ -2807,7 +2815,7 @@
 * relativismo - relativism
 * religia - religious
 * religio - religion
-* renesanca - Renaissance (adjective)
+* renesanca - Renaissance
 * renkonti - to meet
 * renkontiĝi - to meet, to come together
 * renoma - renowned
@@ -2842,7 +2850,7 @@
 * resumi - to summarize
 * resumo - summary
 * resurso - resource
-* reta - network (adjective)
+* reta - network
 * retadreso - email address
 * retejo - website
 * reto - network
@@ -2929,7 +2937,7 @@
 * rura - rural
 * rusa - Russian
 * ruse - in Russian
-* rusia - Russian (adjective)
+* rusia - Russian
 * ruĝa - red
 
 ## s
@@ -2970,7 +2978,7 @@
 * seksega - sexy
 * sekso - sex
 * sektoro - sector
-* sekureca - security (adjective)
+* sekureca - security
 * sekureco - security
 * sekurigi - to secure, to ensure
 * sekurkopio - backup
@@ -3080,7 +3088,7 @@
 * skulptado - sculpting
 * skulptisto - sculptor
 * slava - Slavic
-* slovaka - Slovak (adjective)
+* slovaka - Slovak
 * socia - social
 * socialisma - socialist
 * socialismo - socialism
@@ -3097,14 +3105,15 @@
 * solvado - solving
 * solvi - to solve
 * solvo - solution
-* somera - summer (adjective)
+* somera - summer
 * somero - summer
-* sona - sonic, sound (adjective)
+* sona - sonic, sound
 * soneto - sonnet
 * sono - sound
 * sonregistraĵo - sound recording
 * sonĝo - dream
-* sovetia - Soviet
+* soveta (also sovetia) - soviet
+* soveto - soviet
 * spaco - space
 * speciala - special
 * speciale - especially
@@ -3188,7 +3197,7 @@
 * sude - in the south, southward
 * suden - to the south
 * sudo - south
-* sudokcidenta - southwest (adjective)
+* sudokcidenta - southwest
 * sudokcidento - southwest (noun)
 * sudorienta - southeast
 * sudoriento - southeast
@@ -3238,7 +3247,7 @@
 * tavolo - layer
 * taĉmento - detachment
 * taŭga - suitable
-* teama - team (adjective)
+* teama - team
 * teamano - team member
 * teamo - team
 * teatra - theatrical
@@ -3253,7 +3262,7 @@
 * telefono - telephone
 * telekomunikado - telecommunication
 * teleskopo - telescope
-* televida - television (adjective)
+* televida - television
 * televido - television
 * tema - thematic
 * temi - to be about
@@ -3326,7 +3335,7 @@
 * trafiko - traffic
 * tragedio - tragedy
 * trajno - train
-* trajta - trait (adjective)
+* trajta - trait
 * trajto - trait, feature
 * trako - track
 * traktado - treatment, handling
@@ -3388,7 +3397,7 @@
 * universale - universally
 * universalismo - universalism
 * universalo - universal
-* universitata - university (adjective)
+* universitata - university
 * universitato - university
 * universo - universe
 * unu - one
@@ -3440,7 +3449,7 @@
 * vario - variety
 * varma - warm
 * varo - goods
-* varsovia - Warsaw (adjective)
+* varsovia - Warsaw
 * vasta - vast
 * vaste - widely
 * vasteco - vastness
@@ -3489,7 +3498,7 @@
 * vilaĝeto - small village
 * vilaĝo - village
 * vino - wine
-* vintra - winter (adjective)
+* vintra - winter
 * vintro - winter
 * vira - male
 * virgulino - virgin, maiden
@@ -3520,7 +3529,7 @@
 * voli - to want
 * volo - will
 * volumo - volume
-* vorta - verbal, word (adjective)
+* vorta - verbal, word
 * vortaro - dictionary
 * vortformado - word formation
 * vorto - word
@@ -3573,7 +3582,7 @@
 * ĉina - Chinese
 * ĉio - everything
 * ĉirkaŭ - around
-* ĉirkaŭa - surrounding (adjective)
+* ĉirkaŭa - surrounding
 * ĉirkaŭaĵo - surroundings
 * ĉirkaŭe - around
 * ĉiu - each, every
@@ -3629,7 +3638,7 @@
 * ŝipo - ship
 * ŝirmilo - shield, screen
 * ŝlosa - locking
-* ŝlosila - key (adjective)
+* ŝlosila - key
 * ŝlosilo - key
 * ŝoseo - highway, main road
 * ŝovi - to push
@@ -3638,7 +3647,7 @@
 * ŝtate - in a state (manner)
 * ŝtatestro - head of state
 * ŝtato - state (nation)
-* ŝtona - stone (adjective)
+* ŝtona - stone
 * ŝtono - stone
 * ŝuldi - to owe
 * ŝuldo - debt
