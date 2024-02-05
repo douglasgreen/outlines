@@ -10,57 +10,78 @@ Combining forms are shown in parentheses.
 
 ## A
 * Afganio - Afghanistan
+* Afrika - African
 * Afrikamerikano (Afriko + Amerikano)- African American
 * Afriko - Africa
 * Agosteno - Augustine
 * Albanio - Albania
 * Alberto - Albert
 * Aleksandro - Alexander
+* Alpoj - Alps
+* Amerika - American
 * Amerikano (Ameriko + ano) - American (person)
 * Ameriko - America
 * Anaksimandro - Anaximander
 * Andoro - Andorra
+* Angla - English
+* Anglalingva - English-speaking
 * Anglio - England
+* Araba - Arabic
 * Argentino - Argentine
 * Aristotelo - Aristotle
 * Arizono - Arizona
+* Armena - Armenian
 * Armenio - Armenia
 * Ateno - Athens
+* Atlantika - Atlantic
+* Azia - Asian
 * Azio - Asia
+* Aŭstra - Austrian
 * Aŭstralio - Australia
 * Aŭstrio (Aŭstro + io) - Austria
 * Aŭstro - Austrian
 
 ## B
 * Balkano - Balkan
+* Balta - Baltic
 * Barato - India
 * Barcelono - Barcelona
 * Bavario - Bavaria
+* Belga - Belgian
 * Belgio - Belgium
+* Berlina - Berlin
 * Berlino - Berlin
 * Berno - Bern
 * Biblio - Bible
+* Bizanca - Byzantine
 * Bosnio - Bosnia
+* Bostona - Boston
 * Brazilo - Brazil
 * Bretonio - Brittany
+* Brita - British
 * Britio (Brito + io) - Britain
 * Brito - Briton
 * Budapeŝto - Budapest
 * Bulgario - Bulgaria
 
 ## D
+* Dana - Danish
 * Danio - Denmark
 
 ## E
 * Eduardo - Edward
+* Egipta - Egyptian
 * Egiptio - Egypt
 * Epikteto - Epictetus
 * Epikurano - Epicurean
-* Epikuro - Epicurus
 * Epikurismo (Epikuro + ismo) - Epicureanism
+* Epikuro - Epicurus
+* Esperanta - Esperanto
+* Esperante - in Esperanto
 * Esperantisto (Esperanto + isto) - Esperanto speaker
 * Esperanto - Esperanto
 * Euripido - Euripides
+* Eŭropa - European
 * Eŭropano (Eŭropo + ano) - European (person)
 * Eŭropo - Europe
 * Eŭrozono (Eŭropo + zono) - Eurozone
@@ -68,8 +89,12 @@ Combining forms are shown in parentheses.
 ## F
 * Finnlando (Finno + lando) - Finland
 * Finno - Finn
+* Flandra - Flemish
+* Franca - French
+* France - in French
 * Francio (franco + io) - France
 * Francisko - Francis
+* Frankfurta - Frankfurt
 * Frankfurto - Frankfurt
 * Frederiko - Frederick
 
@@ -77,66 +102,99 @@ Combining forms are shown in parentheses.
 * Galileo - Galileo
 * Gento - Ghent
 * Georgo - George
+* Germana - German
+* Germane - in German
 * Germanio (Germano + io) (also Germanujo) - Germany
 * Germano - German (person)
+* Gotika - Gothic
+* Greka - Greek
 * Grekio (Greko + io) - Greece
 * Greko - Greek (person)
 
 ## H
 * Hamburgo - Hamburg
+* Hebrea - Hebrew
 * Helena - Helen
+* Helenisma - Hellenistic
 * Henriko - Henry
 * Heraklito - Heraclitus
 * Hercegovino - Herzegovina
+* Hinda - Indian
 * Hindio - India
+* Hindo - Indian
+* Hispana - Spanish
+* Hispane - in Spanish
 * Hispanio - Spain
 * Holivudo - Hollywood
 * Homero - Homer
+* Hungara - Hungarian
+* Hungare - in Hungarian
 * Hungario - Hungary
 * Hungaro - Hungarian (person)
 
 ## I
+* Indoeŭropa - Indo-European
 * Irako - Iraq
 * Irano - Iran
+* Irlanda - Irish
 * Irlando - Ireland
+* Islama - Islamic
 * Islamano - Muslim
+* Islamika - Islamic
 * Islamismo - Islamism
 * Islamo - Islam
+* Israela - Israeli
 * Israelo - Israeli (noun)
+* Itala - Italian
 * Italio - Italy
 
 ## J
+* Japana - Japanese
+* Japane - in Japanese
 * Japanio - Japan
 * Jerusalemo - Jerusalem
 * Jesuo - Jesus
 * Johano - John
 * Jorko - York
 * Jozefo - Joseph
+* Juda - Jewish
 * Judo - Jew
+* Jugoslavia - Yugoslavia
 * Jugoslavio - Yugoslavia
 * Jupitero - Jupiter
 
 ## K
 * Kalifornio - California
+* Kanada - Canadian
 * Kanado - Canada
 * Karlo - Charles
 * Karolino - Carolina
+* Kataluna - Catalan
+* Katolika - Catholic
 * Kolombio - Colombia
 * Kongo - Congo
+* Kopernika - Copernican
 * Koperniko - Copernicus
+* Korea - Korean
 * Kosovo - Kosovo
+* Kreola - Creole
+* Kristana - Christian
 * Kristanismo - Christianity
 * Kristano - Christian
 * Kristo - Christ
 * Kroatio - Croatia
 * Kroato - Croat
+* Kuba - Cuban
 
 ## L
+* Latina - Latin
 * Latino - Latin
 * Leonardo - Leonardo
+* Litova - Lithuanian
 * Litovio - Lithuania
 * Liĥtenŝtejno - Liechtenstein
 * Londono - London
+* Luterana - Lutheran
 
 ## M
 * Madrido - Madrid
@@ -144,7 +202,9 @@ Combining forms are shown in parentheses.
 * Mario - Mary
 * Marso - Mars
 * Mateo - Matthew
+* Mediteranea - Mediterranean
 * Mediteraneo - Mediterranean
+* Meksika - Mexican
 * Meksiko - Mexico
 * Mezepoko - Middle Ages
 * Mezoriento - Middle East
@@ -155,25 +215,35 @@ Combining forms are shown in parentheses.
 * Montenegro - Montenegro
 * Moskvo - Moscow
 * Munkeno - Munich
+* Muslima - Muslim
 
 ## N
 * Napoleono - Napoleon
+* Nazia - Nazi
+* Nederlanda - Dutch
 * Nederlando - Netherlands
 * Nobelo - Nobel
 * Nordameriko - North America
+* Norvega - Norwegian
 * Norvegio - Norway
-* Novembro - November
 * Novjorko - New York
+
+## O
+* Oregona - Oregon
+* Otomana - Ottoman
 
 ## P
 * Pakistano - Pakistani
 * Parizo - Paris
 * Paŭlo - Paul
 * Pensilvanio - Pennsylvania
+* Persa - Persian
 * Peruo - Peru
 * Petro - Peter
 * Platono - Plato
+* Pola - Polish
 * Pollando - Poland
+* Portugala - Portuguese
 * Portugalio - Portugal
 * Prago - Prague
 * Prusio - Prussia
@@ -181,17 +251,29 @@ Combining forms are shown in parentheses.
 ## R
 * Rejno - Rhine
 * Renesanco - Renaissance
+* Romana - Roman
+* Romanca - Romance (as in languages or culture)
+* Romanika - Romanesque
+* Romia - Roman (pertaining to Rome)
 * Romiano - Roman (citizen of Rome)
+* Romkatolika - Roman Catholic
 * Romo - Rome
+* Rumania - Romanian
 * Rumanio - Romania
+* Rusa - Russian
+* Ruse - in Russian
+* Rusia - Russian
 * Rusio - Russia
 
 ## S
 * Saksio - Saxony
+* Serba - Serbian
 * Serbio - Serbia
 * Serbo - Serb
 * Skandinavio - Scandinavia
 * Skotlando - Scotland
+* Slava - Slavic
+* Slovaka - Slovak
 * Slovakio - Slovakia
 * Slovako - Slovak (noun)
 * Slovenio - Slovenia
@@ -202,7 +284,9 @@ Combining forms are shown in parentheses.
 * Stoiko - Stoic
 * Sudameriko - South America
 * Sudano - Sudanese
+* Sveda - Swedish
 * Svedio - Sweden
+* Svisa - Swiss
 * Svislando - Switzerland
 
 ## T
@@ -210,24 +294,29 @@ Combining forms are shown in parentheses.
 * Tokio - Tokyo
 * Tomaso - Thomas
 * Transilvanio - Transylvania
+* Turka - Turkish
 * Turkio - Turkey
 * Turko - Turk
 
 ## U
 * Ukrainio - Ukraine
+* Usona - American
 * Usonano - American (person)
 * Usono - USA
 
 ## V
+* Varsovia - Warsaw
 * Varsovio - Warsaw
 * Vatikano - Vatican
 * Vaŝingtono - Washington
 * Venecio - Venice
 * Versajlo - Versailles
+* Viena - Viennese
 * Vieno - Vienna
 * Vikipedio - Wikipedia
 * Vilhelmo - William
 * Virgilio - Virgil
+* Vjetnama - Vietnamese
 
 ## Z
 * Zamenhof - [Zamenhof (referring to L. L. Zamenhof, the creator of Esperanto)]
@@ -261,7 +350,6 @@ Combining forms are shown in parentheses.
 * afekti - to affect
 * afero - matter, affair
 * afikso - affix
-* afrika - African
 * agado - action, activity
 * aganto - agent
 * agi - to act
@@ -326,7 +414,6 @@ Combining forms are shown in parentheses.
 * aliĝi - to join
 * alkoholo - alcohol
 * almenaŭ - at least
-* alpoj - Alps
 * alporti - to bring
 * alta - high
 * altaro - altar
@@ -337,7 +424,6 @@ Combining forms are shown in parentheses.
 * altitudo - altitude
 * altiĝi - to rise
 * altlernejo - higher education institution
-* alta - high
 * aludi - to allude
 * alveni - to arrive
 * alveno - arrival
@@ -350,7 +436,6 @@ Combining forms are shown in parentheses.
 * ambicio - ambition
 * amendamento - amendment
 * amendo - amendment
-* amerika - American
 * ami - to love
 * amiko - friend
 * amo - love
@@ -362,8 +447,6 @@ Combining forms are shown in parentheses.
 * analizi - to analyze
 * analizo - analysis
 * aneksado - annexation
-* angla - English
-* anglalingva - English-speaking
 * angsto - angst
 * angulo - angle, corner
 * animalo - animal
@@ -413,7 +496,6 @@ Combining forms are shown in parentheses.
 * aprobo - approval
 * apud - beside, next to
 * apuda - adjacent
-* araba - Arabic
 * aranĝi - to arrange
 * aranĝo - arrangement
 * arbara - forest
@@ -434,7 +516,6 @@ Combining forms are shown in parentheses.
 * arkivo - archive
 * arko - arch, bow
 * arkta - arctic
-* armena - Armenian
 * armeo - army
 * armilo - weapon
 * aro - set, group
@@ -473,7 +554,6 @@ Combining forms are shown in parentheses.
 * atingaĵo - achievement
 * atingi - to achieve
 * atingo - achievement
-* atlantika - Atlantic
 * atribui - to attribute
 * avancaĵo - advance, forefront
 * avanci - to advance
@@ -481,7 +561,6 @@ Combining forms are shown in parentheses.
 * avanco - advance
 * avantaĝo - advantage
 * aviadilo - airplane
-* azia - Asian
 * aĉetado - purchasing
 * aĉeti - to buy
 * aĝa - old
@@ -492,7 +571,6 @@ Combining forms are shown in parentheses.
 * aŭgusto - August
 * aŭskultanto - listener
 * aŭsterigo - austerity
-* aŭstra - Austrian
 * aŭtentikeco - authenticity
 * aŭto - car
 * aŭtobusa - bus
@@ -512,7 +590,6 @@ Combining forms are shown in parentheses.
 * baldaŭ - soon
 * baloto - ballot
 * balotrajto - voting right
-* balta - Baltic
 * bando - band, gang
 * banka - bank
 * bankado - banking
@@ -531,8 +608,6 @@ Combining forms are shown in parentheses.
 * beko - beak
 * bela - beautiful
 * beleco - beauty
-* belga - Belgian
-* berlina - Berlin
 * besto - animal
 * bezoni - to need
 * bezono - need
@@ -549,7 +624,6 @@ Combining forms are shown in parentheses.
 * bioteknologio - biotechnology
 * birdo - bird
 * bis - encore (in music or theatre)
-* bizanca - Byzantine
 * blanka - white
 * blazono - coat of arms
 * blobo - blob
@@ -564,12 +638,10 @@ Combining forms are shown in parentheses.
 * bonstato - well-being
 * bonvoli - to be willing
 * bordo - edge, shore
-* bostona - Boston
 * branĉa - branch
 * branĉado - branching
 * branĉiĝo - branching off
 * branĉo - branch
-* brita - British
 * bruna - brown
 * brusto - chest, breast
 * bulo - bubble
@@ -621,7 +693,6 @@ Combining forms are shown in parentheses.
 
 ## d
 * da - of (used with quantities)
-* dana - Danish
 * danco - dance
 * danke - thanks to
 * danko - thanks
@@ -719,6 +790,7 @@ Combining forms are shown in parentheses.
 * digno - dignity
 * diino - goddess
 * dika - thick
+* dimanĉo - Sunday
 * dimensio - dimension
 * dinamika - dynamic
 * dinamiko - dynamics
@@ -835,7 +907,6 @@ Combining forms are shown in parentheses.
 * egaleco - equality
 * egali - to equal
 * ege - extremely
-* egipta - Egyptian
 * ejo - place
 * ek - prefix indicating the start of an action
 * ekde - since
@@ -859,7 +930,7 @@ Combining forms are shown in parentheses.
 * eksplodo - explosion
 * ekspluatema - exploitative
 * ekspozicio - exhibition
-* ekspresionismo - Expressionism
+* ekspresionismo - expressionism
 * ekster - outside of
 * ekstera - external
 * ekstere - outside, externally
@@ -881,7 +952,7 @@ Combining forms are shown in parentheses.
 * ekzista - existential
 * ekzistado - existence
 * ekzistenca - existential
-* ekzistencialismo - Existentialism
+* ekzistencialismo - existentialism
 * ekzistencisma - existentialist
 * ekzistencismo - existentialism
 * ekzistencista - existentialist (noun)
@@ -965,8 +1036,6 @@ Combining forms are shown in parentheses.
 * esence - essentially
 * esenco - essence
 * eseo - essay
-* esperanta - Esperanto
-* esperante - in Esperanto
 * esperantista - relating to Esperanto enthusiasts
 * esperi - to hope
 * espero - hope
@@ -1024,7 +1093,6 @@ Combining forms are shown in parentheses.
 * evoluolinio - evolutionary line
 * eĉ - even
 * eŭdemonio - eudaimonia
-* eŭropa - European
 
 ## f
 * fabrikado - manufacturing
@@ -1080,7 +1148,6 @@ Combining forms are shown in parentheses.
 * festivalo - festival
 * festo - celebration, party
 * feŭdismo - feudalism
-* fichte - Fichte
 * fideleco - fidelity, loyalty
 * fidi - to trust
 * fido - faith, trust
@@ -1112,7 +1179,6 @@ Combining forms are shown in parentheses.
 * fiŝkaptado - fishing
 * fiŝo - fish
 * flago - flag
-* flandra - Flemish
 * flanka - side
 * flanke - on the side
 * flanko - side, flank
@@ -1172,10 +1238,7 @@ Combining forms are shown in parentheses.
 * forto - strength
 * foto - photo
 * fotografaĵo - photograph
-* franca - French
-* france - in French
 * franco - franc, Frenchman
-* frankfurta - Frankfurt
 * fratino - sister
 * frato - brother
 * frazo - sentence
@@ -1222,13 +1285,10 @@ Combining forms are shown in parentheses.
 * geografio - geography
 * geopolitika - geopolitical
 * gepatroj - parents
-* germana - German
-* germane - in German
 * gimnazio - gymnasium, secondary school
 * glaĉero - glacier
 * globa - global
 * golfo - gulf
-* gotika - Gothic
 * grado - degree
 * graduala - gradual
 * grafika - graphic
@@ -1247,7 +1307,6 @@ Combining forms are shown in parentheses.
 * graveco - importance, seriousness
 * gravega - very important
 * gravi - to matter
-* greka - Greek
 * griza - gray
 * grundo - ground, soil
 * grupa - group
@@ -1268,12 +1327,10 @@ Combining forms are shown in parentheses.
 * haveno - harbor, port
 * havi - to have
 * havigi - to provide, to supply
-* hebrea - Hebrew
 * hejma - home
 * hejme - at home
 * hejmo - home
 * hela - bright, clear
-* helenisma - Hellenistic
 * heliocentrisma - heliocentric
 * helpante - helping
 * helpanto - helper
@@ -1287,12 +1344,8 @@ Combining forms are shown in parentheses.
 * hierarkia - hierarchical
 * hierarĥio - hierarchy
 * himno - hymn
-* hinda - Indian
-* hindo - Indian
 * hipotetika - hypothetical
 * hipotezi - to hypothesize
-* hispana - Spanish
-* hispane - in Spanish
 * historia - historical
 * historie - historically
 * historiisto - historian
@@ -1313,8 +1366,6 @@ Combining forms are shown in parentheses.
 * humanismo - humanism
 * humanisto - humanist
 * hundo - dog
-* hungara - Hungarian
-* hungare - in Hungarian
 
 ## i
 * ia - some kind of
@@ -1364,7 +1415,6 @@ Combining forms are shown in parentheses.
 * individuo - individual
 * indiĝena - indigenous
 * indiĝeno - indigenous person
-* indoeŭropa - Indo-European
 * industria - industrial
 * industriigo - industrialization
 * industrio - industry
@@ -1460,11 +1510,6 @@ Combining forms are shown in parentheses.
 * iom - some, a little
 * iomete - a little, somewhat
 * iri - to go
-* irlanda - Irish
-* islama - Islamic
-* islamika - Islamic
-* israela - Israeli
-* itala - Italian
 * iu - someone, some
 * izoli - to isolate
 * izolismo - isolationism
@@ -1475,8 +1520,6 @@ Combining forms are shown in parentheses.
 * ja - indeed, actually
 * jam - already
 * januaro - January
-* japana - Japanese
-* japane - in Japanese
 * jara - year
 * jaraĝa - yearly, annual
 * jarcento - century
@@ -1487,8 +1530,6 @@ Combining forms are shown in parentheses.
 * jen - behold, here is
 * jena - that
 * jes - yes
-* juda - Jewish
-* jugoslavia - Yugoslavia
 * julio - July
 * juna - young
 * junio - June
@@ -1506,7 +1547,6 @@ Combining forms are shown in parentheses.
 
 ## k
 * kadro - frame, cadre
-* kafka - Kafka
 * kaj - and
 * kalendaro - calendar
 * kalkuli - to calculate
@@ -1516,7 +1556,6 @@ Combining forms are shown in parentheses.
 * kampara - rural
 * kamparano - peasant, farmer
 * kampo - field, area
-* kanada - Canadian
 * kanalo - channel, canal
 * kandidato - candidate
 * kanti - to sing
@@ -1544,12 +1583,10 @@ Combining forms are shown in parentheses.
 * kastelo - castle
 * katalizilo - catalyst
 * katalogo - catalog
-* kataluna - Catalan
 * katedralo - cathedral
 * kategoriala - categorical
 * kategorio - category
 * kato - cat
-* katolika - Catholic
 * kavaliro - knight
 * kazo - case
 * kazstudo - case study
@@ -1773,9 +1810,7 @@ Combining forms are shown in parentheses.
 * konversacio - conversation
 * konverĝo - convergence
 * koordinato - coordinate
-* kopernika - Copernican
 * kopio - copy
-* korea - Korean
 * korekto - correction
 * koro - heart
 * korpo - body
@@ -1795,12 +1830,10 @@ Combining forms are shown in parentheses.
 * kredo - belief
 * krei - to create
 * kreo - creation
-* kreola - Creole
 * kreski - to grow
 * kresko - growth
 * kriminalistika - criminological
 * krimo - crime
-* kristana - Christian
 * kriterio - criterion
 * kritika - critical
 * kritiki - to criticize
@@ -1816,7 +1849,6 @@ Combining forms are shown in parentheses.
 * kruda - raw, crude
 * kruro - leg
 * ktp - etc. (abbreviation for "kaj tiel plu" meaning "and so forth")
-* kuba - Cuban
 * kubo - cube
 * kuirarto - culinary arts
 * kuko - cake
@@ -1892,7 +1924,6 @@ Combining forms are shown in parentheses.
 * lastatempa - recent
 * lastatempe - recently
 * laste - lately
-* latina - Latin
 * latitudo - latitude
 * laŭ - according to
 * laŭdo - praise
@@ -1956,7 +1987,6 @@ Combining forms are shown in parentheses.
 * literatura - literary
 * literaturo - literature
 * litero - letter (of the alphabet)
-* litova - Lithuanian
 * liverado - delivery
 * liveri - to deliver
 * logi - to lure, to entice
@@ -1984,11 +2014,10 @@ Combining forms are shown in parentheses.
 * lulilo - cradle
 * lumigado - lighting
 * lumo - light
+* lundo - Monday
 * luno - moon
-* luterana - Lutheran
 
 ## m
-* machiavelli - Machiavelli
 * majo - May
 * majstro - master
 * malalta - low
@@ -2076,6 +2105,7 @@ Combining forms are shown in parentheses.
 * mara - marine, sea
 * marborda - coastal
 * marbordo - coast, seashore
+* mardo - Tuesday
 * marino - marina
 * markado - marking
 * markante - marking
@@ -2108,9 +2138,7 @@ Combining forms are shown in parentheses.
 * medicina - medicinal, medical
 * medicino - medicine
 * medio - environment, medium
-* mediteranea - Mediterranean
 * mekanismo - mechanism
-* meksika - Mexican
 * mem - self
 * membreco - membership
 * membro - member
@@ -2129,6 +2157,7 @@ Combining forms are shown in parentheses.
 * menso - mind
 * merkantilista - mercantilist
 * merkato - market
+* merkredo - Wednesday
 * mesaĝo - message
 * metadatumo - metadata
 * metafizika - metaphysical
@@ -2247,7 +2276,6 @@ Combining forms are shown in parentheses.
 * murdi - to murder
 * murdo - murder
 * muro - wall
-* muslima - Muslim
 * muzeo - museum
 * muzika - musical
 * muzikisto - musician
@@ -2273,13 +2301,11 @@ Combining forms are shown in parentheses.
 * navigado - navigation
 * navigi - to navigate
 * navo - ship, nave
-* nazia - Nazi
 * naŭ - nine
 * ne - no, not
 * necesa - necessary
 * necese - necessarily
 * necesi - to need
-* nederlanda - Dutch
 * neevitebla - inevitable
 * nefizika - non-physical
 * negoco - business
@@ -2299,7 +2325,6 @@ Combining forms are shown in parentheses.
 * neŭtraleco - neutrality
 * ni - we
 * nia - our
-* nietzsche - Nietzsche
 * nigra - black
 * nivelo - level
 * nokto - night
@@ -2322,8 +2347,8 @@ Combining forms are shown in parentheses.
 * norma - standard
 * normala - normal
 * normo - norm, standard
-* norvega - Norwegian
 * noti - to note
+* novembro - November
 * noto - note
 * nova - new
 * novaĵo - news
@@ -2392,7 +2417,6 @@ Combining forms are shown in parentheses.
 * ordo - order (organization)
 * ordoni - to order, command
 * ordono - order, command
-* oregona - Oregon
 * organika - organic
 * organismo - organism
 * organiza - organize
@@ -2413,7 +2437,6 @@ Combining forms are shown in parentheses.
 * orkestro - orchestra
 * oro - gold
 * ortodoksa - orthodox
-* otomana - Ottoman
 * ovo - egg
 
 ## p
@@ -2488,7 +2511,6 @@ Combining forms are shown in parentheses.
 * permesante - permitting
 * permesi - to permit, to allow
 * permeso - permission
-* persa - Persian
 * persisteco - persistence
 * persona - personal
 * personaigo - personification
@@ -2561,7 +2583,6 @@ Combining forms are shown in parentheses.
 * poemo - poem
 * poeto - poet
 * poezio - poetry
-* pola - Polish
 * polarizado - polarization
 * polarizo - polarization
 * polemiko - polemic
@@ -2584,7 +2605,6 @@ Combining forms are shown in parentheses.
 * portalo - portal
 * porti - to carry
 * portreto - portrait
-* portugala - Portuguese
 * posedaĵo - possession
 * posedi - to possess
 * posedo - possession
@@ -2815,7 +2835,7 @@ Combining forms are shown in parentheses.
 * relativismo - relativism
 * religia - religious
 * religio - religion
-* renesanca - Renaissance
+* renesanca - renaissance
 * renkonti - to meet
 * renkontiĝi - to meet, to come together
 * renoma - renowned
@@ -2838,7 +2858,7 @@ Combining forms are shown in parentheses.
 * respondeco - responsibility
 * respondi - to answer, to respond
 * respondo - response
-* respublikana - Republican
+* respublikana - republican
 * respubliko - republic
 * restaĵo - remainder, residue
 * resti - to remain, to stay
@@ -2919,12 +2939,7 @@ Combining forms are shown in parentheses.
 * roko - rock
 * rolo - role
 * rolulo - character (in a story, play, etc.)
-* romana - Roman
-* romanca - Romance (as in languages or culture)
-* romanika - Romanesque
 * romano - novel
-* romia - Roman (pertaining to Rome)
-* romkatolika - Roman Catholic
 * rompi - to break
 * rompo - break, fracture
 * rondo - circle, round
@@ -2933,14 +2948,11 @@ Combining forms are shown in parentheses.
 * ruinigi - to ruin
 * ruino - ruin
 * ruli - to roll
-* rumania - Romanian
 * rura - rural
-* rusa - Russian
-* ruse - in Russian
-* rusia - Russian
 * ruĝa - red
 
 ## s
+* sabato - Saturday
 * salo - salt
 * sama - same
 * same - similarly
@@ -2955,7 +2967,6 @@ Combining forms are shown in parentheses.
 * sanktulo - saint
 * sano - health
 * sanzorgado - health care
-* sartre - Sartre
 * satelito - satellite
 * savi - to save
 * saĝeco - wisdom
@@ -3019,7 +3030,6 @@ Combining forms are shown in parentheses.
 * sento - feeling
 * sep - seven
 * septembro - September
-* serba - Serbian
 * serio - series
 * servi - to serve
 * servila - servile
@@ -3033,7 +3043,6 @@ Combining forms are shown in parentheses.
 * sezono - season
 * seĝo - chair
 * sfero - sphere
-* shakespeare - Shakespeare
 * si - oneself (reflexive pronoun)
 * sia - his/her/its/their own
 * siavice - in turn
@@ -3087,8 +3096,6 @@ Combining forms are shown in parentheses.
 * skripto - script
 * skulptado - sculpting
 * skulptisto - sculptor
-* slava - Slavic
-* slovaka - Slovak
 * socia - social
 * socialisma - socialist
 * socialismo - socialism
@@ -3128,7 +3135,6 @@ Combining forms are shown in parentheses.
 * spero - hope
 * sperti - to experience
 * sperto - experience
-* spinoza - Spinoza
 * spira - spiraling
 * spiri - to breathe
 * spirito - spirit
@@ -3229,8 +3235,6 @@ Combining forms are shown in parentheses.
 * surbaze - based on
 * surfaco - surface
 * suspendo - suspension
-* sveda - Swedish
-* svisa - Swiss
 
 ## t
 * tabako - tobacco
@@ -3379,7 +3383,6 @@ Combining forms are shown in parentheses.
 * tumulto - tumult
 * turisma - touristic
 * turismo - tourism
-* turka - Turkish
 * turmento - torment
 * turniĝopunkto - turning point
 * turo - tower
@@ -3422,7 +3425,6 @@ Combining forms are shown in parentheses.
 * urbocentro - city center
 * urbodomo - city hall
 * urĝa - urgent
-* usona - American
 * utila - useful
 * utilitarismo - utilitarianism
 * utilo - utility, use
@@ -3449,12 +3451,12 @@ Combining forms are shown in parentheses.
 * vario - variety
 * varma - warm
 * varo - goods
-* varsovia - Warsaw
 * vasta - vast
 * vaste - widely
 * vasteco - vastness
 * vazalo - vassal
 * vendi - to sell
+* vendredo - Friday
 * veni - to come
 * venki - to win, to conquer
 * venko - victory
@@ -3491,7 +3493,6 @@ Combining forms are shown in parentheses.
 * vidindaĵo - sight, something worth seeing
 * vido - view, sight
 * vidpunkto - viewpoint
-* viena - Viennese
 * vigla - lively, vigorous
 * viktimo - victim
 * vilaĝano - villager
@@ -3521,7 +3522,6 @@ Combining forms are shown in parentheses.
 * viziti - to visit
 * vizito - visit
 * vizuala - visual
-* vjetnama - Vietnamese
 * vojaĝi - to travel
 * vojaĝo - journey, travel
 * vojo - road, way
@@ -3554,6 +3554,7 @@ Combining forms are shown in parentheses.
 * Ĉeĥio - Czechia
 * Ĉeĥoslovakio - Czechoslovakia
 * Ĉilio - Chile
+* Ĉina - Chinese
 * Ĉinio - China
 
 ## ĉ
@@ -3579,7 +3580,6 @@ Combining forms are shown in parentheses.
 * ĉia - every kind of
 * ĉiam - always
 * ĉielo - sky
-* ĉina - Chinese
 * ĉio - everything
 * ĉirkaŭ - around
 * ĉirkaŭa - surrounding
@@ -3613,6 +3613,7 @@ Combining forms are shown in parentheses.
 
 ## ĵ
 * ĵazo - jazz
+* ĵaŭdo - Thursday
 * ĵurnalisto - journalist
 * ĵurnalo - newspaper
 * ĵus - just, recently
