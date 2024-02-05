@@ -72,11 +72,37 @@ By carefully considering these aspects, you can lay a solid foundation for your 
 
 ## Phonetics and Phonology
 
-Explain phonetics and phonology, while discussing the following topics:
-* Introduction to phonetics and phonology
-* Selecting sounds (phonemes) for the language
-* Creating phonotactic rules (structure of syllables and permissible sound combinations)
-* Stress, intonation, and prosody
+Phonetics and phonology are two fundamental branches of linguistics that deal with the sounds of human language. While they are closely related, they focus on different aspects of sound.
+
+- **Phonetics** is the study of the physical aspects of sounds. It examines how sounds are produced (articulatory phonetics), transmitted (acoustic phonetics), and perceived (auditory phonetics) by listeners. Phonetics provides the tools and terminology to describe the concrete physical properties of sounds, such as their place and manner of articulation (e.g., where in the mouth a sound is produced and how), their voicing, and their acoustic qualities.
+  
+- **Phonology**, on the other hand, deals with the abstract, cognitive aspects of sounds. It studies how sounds function within a particular language or in languages generally. Phonology is concerned with the patterns of sounds in languages, the systems and rules that govern sound behavior, such as which sounds can combine to form words, and how sounds can change in different contexts. It deals with phonemes (the distinct sound units that distinguish meaning) and other phonological units like syllables and stress patterns.
+
+### Selecting Sounds (Phonemes) for the Language
+
+When constructing a language, selecting the phonemes is one of the first and most crucial steps. Phonemes are the smallest units of sound that can distinguish meaning between words in a language. For example, in English, the sounds /p/ and /b/ are phonemes, as changing one for the other can change the meaning of a word (e.g., "pat" vs. "bat").
+
+- Consider the **phonetic inventory**: This is the set of all phonemes that you decide will exist in your language. It includes consonants, vowels, and potentially other types of sounds, depending on the phonetic richness you want your language to have.
+- Strive for balance and diversity: A naturalistic language typically has a balanced mix of consonants and vowels, with sounds spread across different places of articulation (e.g., bilabial, alveolar, velar) and manners of articulation (e.g., stops, fricatives, nasals).
+- Think about the language's culture and setting: The phonetic choices can reflect the culture and environment of the speakers. For instance, a language spoken by a species with a different anatomy might have unusual sounds not found in human languages.
+
+### Creating Phonotactic Rules
+
+Phonotactics is the branch of phonology that deals with the rules governing the possible phoneme combinations in a language. These rules define the structure of syllables, including what sounds can appear in the onset (beginning), nucleus (middle), and coda (end) of a syllable, and in what combinations.
+
+- Define permissible syllable structures: Common structures include simple (CV, where C is a consonant and V is a vowel) to more complex (CVC, CCV, or even CCVCC).
+- Consider restrictions and allowances: Some languages have strict limitations on consonant clusters or the types of consonants that can appear together, while others are more permissive.
+- Create patterns that are aesthetically pleasing and functional: The phonotactic rules should contribute to the overall sound and feel of the language, making it unique and coherent.
+
+### Stress, Intonation, and Prosody
+
+These aspects of phonology deal with the rhythm and melody of speech, extending beyond individual phonemes and syllables to the level of whole phrases and sentences.
+
+- **Stress**: Refers to the emphasis placed on certain syllables within words or words within sentences. Stress can be fixed (always on a certain syllable, as in French or Finnish) or variable (changing according to specific rules, as in English or Russian).
+- **Intonation**: Involves the rise and fall of pitch across phrases and sentences, which can convey different types of information, such as questions, statements, or emotions.
+- **Prosody**: Encompasses both stress and intonation, along with rhythm and tempo, contributing to the expressive and emotive qualities of language. It can distinguish questions from statements, indicate focus, or express emotion.
+
+In designing your constructed language, consider how these elements can add nuance and depth, influencing not just how the language sounds, but also how it conveys meaning beyond the level of individual words or sentences.
 
 ## Writing System
 
