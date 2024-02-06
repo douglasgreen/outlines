@@ -1,4 +1,3 @@
-
 ## A
 * Abija - Abijah
 * Abrahamo - Abraham
@@ -80,8 +79,8 @@
 ## E
 * Eduardo - Edward
 * Egipta - Egyptian
-* Egipto - Egyptian
 * Egiptio (Egipto + io) (also Egiptujo) - Egypt
+* Egipto - Egyptian
 * Emanuelo - Emmanuel
 * Epikteto - Epictetus
 * Epikurano - Epicurean
@@ -967,6 +966,7 @@
 * dokumento - document
 * dolaro - dollar
 * doloro - pain
+* dolĉa - sweet
 * domanaro - household
 * domano - housemate
 * domaro - complex of buildings
@@ -1455,6 +1455,7 @@
 * gepatro - parent
 * gepatroj - parents
 * gimnazio - gymnasium, secondary school
+* glacio - ice
 * glavo - sword
 * glaĉero - glacier
 * globa - global
@@ -1748,6 +1749,7 @@
 
 ## k
 * kadro - frame, cadre
+* kafejo - cafe
 * kaj - and
 * kalendaro - calendar
 * kalkuli - to calculate
@@ -2077,6 +2079,7 @@
 * ktp - etc. (abbreviation for "kaj tiel plu" meaning "and so forth")
 * kubo - cube
 * kuirarto - culinary arts
+* kuiri - to cook
 * kuko - cake
 * kulmino - culmination, climax
 * kultura - cultural
@@ -2226,6 +2229,7 @@
 * literaturo - literature
 * litero - letter (of the alphabet)
 * lito - bed
+* litro - liter
 * liverado - delivery
 * liveri - to deliver
 * logi - to lure, to entice
@@ -2360,6 +2364,7 @@
 * malŝati - to dislike
 * mamono - mammon, wealth (used metaphorically)
 * managado - management
+* mango - mango
 * maniero - manner, way
 * manifesta - manifest, evident
 * manifestiĝo - manifestation
@@ -2934,6 +2939,7 @@
 * por - for
 * pordego - gate
 * pordo - door
+* porkaĵo - pork
 * porko - pig
 * portalo - portal
 * porti - to carry
@@ -3140,6 +3146,7 @@
 * realigi - to realize, to make real
 * realismo - realism
 * realo - real (noun)
+* recepto - recipe
 * reciproke - reciprocally
 * redaktado - editing
 * redaktante - editing
@@ -3297,6 +3304,7 @@
 * rivelante - revealing
 * rivereto - small river, stream
 * rivero - river
+* rizo - rice
 * riĉa - rich
 * riĉeco - richness, wealth
 * ro - dew
@@ -3631,6 +3639,7 @@
 * superpotenco - superpower
 * superpremi - to suppress
 * superrigardo - overview
+* supo - soup
 * supozeble - presumably
 * supozi - to suppose
 * supra - upper, above
@@ -3677,6 +3686,7 @@
 * teksto - text
 * telefono - telephone
 * telekomunikado - telecommunication
+* telero - plate
 * teleskopo - telescope
 * televida - television
 * televido - television
@@ -3742,6 +3752,7 @@
 * tiuj - those
 * tiutempe - at that time
 * tolereble - tolerably, bearably
+* tomato - tomato
 * tombejo - cemetery
 * tombo - tomb
 * tono - tone
