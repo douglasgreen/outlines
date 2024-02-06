@@ -559,7 +559,7 @@
 * Software Development
 * Software Development Methodologies
 * Software Engineering - done
-* Software - in process
+* Software - done
 * Software Optimization
 * Software Project Management - done
 * Software Requirements Specifications

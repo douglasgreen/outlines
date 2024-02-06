@@ -105,6 +105,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Software
 * [Git](computers/software/git.en.md)
+* [Software](computers/software/software.en.md)
 * [Vim](computers/software/vim.en.md)
 
 ### Web Development
