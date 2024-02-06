@@ -4,7 +4,7 @@
 
 ### Ĉapitro 1
 
-La libro de la genealogio de Jesuo Kristo, filo de Davido, filo de Abrahamo. Abrahamo iĝis la patro de Isaako. Isaako iĝis la patro de Jakobo. Jakobo iĝis la patro de Jehuda kaj liaj fratoj. Jehuda iĝis la patro de Perec kaj Zerah per Tamar. Perec iĝis la patro de Hezron. Hezron iĝis la patro de Ram. Ram iĝis la patro de Aminadabo. Aminadabo iĝis la patro de Naŝon. Naŝon iĝis la patro de Salmon. Salmon iĝis la patro de Boazo per Rahab. Boazo iĝis la patro de Obed per Rut. Obed iĝis la patro de Jeŝe. Jeŝe iĝis la patro de Reĝo Davido. Davido la reĝo iĝis la patro de Salomono per ŝi, kiu estis la edzino de Urija. Salomono iĝis la patro de Reĥabeam. Reĥabeam iĝis la patro de Abija. Abija iĝis la patro de Asa. Asa iĝis la patro de Jehoŝafat. Jehoŝafat iĝis la patro de Joram. Joram iĝis la patro de Uzija. Uzija iĝis la patro de Jotam. Jotam iĝis la patro de Ahaz. Ahaz iĝis la patro de Hezekia. Hezekia iĝis la patro de Manase. Manase iĝis la patro de Amon. Amon iĝis la patro de Josija. Josija iĝis la patro de Jeĥonja kaj liaj fratoj dum la ekzilo al Babelo.
+La libro de la genealogio de Jesuo Kristo, filo de Davido, filo de Abrahamo. Abrahamo iĝis la patro de Isaako. Isaako iĝis la patro de Jakobo. Jakobo iĝis la patro de Jehuda kaj liaj fratoj. Jehuda iĝis la patro de Perec kaj Zeraĥ per Tamar. Perec iĝis la patro de Hezrono. Hezrono iĝis la patro de Ram. Ram iĝis la patro de Aminadabo. Aminadabo iĝis la patro de Naŝono. Naŝono iĝis la patro de Salmono. Salmono iĝis la patro de Boazo per Rahab. Boazo iĝis la patro de Obed per Rut. Obed iĝis la patro de Jesaj. Jesaj iĝis la patro de Reĝo Davido. Davido la reĝo iĝis la patro de Salomono per ŝi, kiu estis la edzino de Urija. Salomono iĝis la patro de Reĥabeam. Reĥabeam iĝis la patro de Abija. Abija iĝis la patro de Asa. Asa iĝis la patro de Jehoŝafat. Jehoŝafat iĝis la patro de Joram. Joram iĝis la patro de Uzija. Uzija iĝis la patro de Jotam. Jotam iĝis la patro de Ahaz. Ahaz iĝis la patro de Hezekia. Hezekia iĝis la patro de Manaseo. Manaseo iĝis la patro de Amono. Amono iĝis la patro de Josija. Josija iĝis la patro de Jeĥonja kaj liaj fratoj dum la ekzilo al Babelo.
 
 Post la ekzilo al Babelo, Jeĥonja iĝis la patro de Ŝealtiel. Ŝealtiel iĝis la patro de Zerubabel. Zerubabel iĝis la patro de Abiud. Abiud iĝis la patro de Eliakim. Eliakim iĝis la patro de Azor. Azor iĝis la patro de Cadok. Cadok iĝis la patro de Ahim. Ahim iĝis la patro de Eliud. Eliud iĝis la patro de Eleazar. Eleazar iĝis la patro de Matan. Matan iĝis la patro de Jakobo. Jakobo iĝis la patro de Jozefo, la edzo de Maria, el kiu naskiĝis Jesuo, kiu nomiĝas Kristo.
 
@@ -38,7 +38,7 @@ Nun kiam ili foriris, jen, anĝelo de la Eternulo aperis al Jozefo en sonĝo, di
 Li leviĝis kaj prenis la infaneton kaj lian patrinon nokte kaj foriris en Egiptujon, kaj estis tie ĝis la morto de Herodo, por ke plenumiĝu tio, kio estis dirita de la Eternulo per la profeto, dirante, "El Egiptujo mi vokis mian filon."
 
 Tiam Herodo, kiam li vidis, ke li estis mokita de la saĝuloj, estis tre kolera, kaj sendis kaj mortigis ĉiujn virseksajn infanojn, kiuj estis en Betleĥemo kaj en ĉiuj ĉirkaŭaj kamparoj, de dujaraĝaj kaj sube, laŭ la preciza tempo, kiun li eksciis de la saĝuloj. Tiam plenumiĝis tio, kio estis dirita per Jeremia la profeto, dirante,
-"Voĉo estis aŭdita en Rama,
+"Voĉo estis aŭdita en Ramaĥ,
 plorado, plorĝemado kaj granda funebrado,
 Raĥel plorante pro siaj infanoj;
 ŝi ne volis esti konsolita,
@@ -85,8 +85,8 @@ Tiam Jesuo diris al li, "Iru malantaŭen min, Satano! Ĉar estas skribite, 'Vi a
 
 Tiam la diablo forlasis lin, kaj jen, anĝeloj venis kaj servis lin.
 
-Nun kiam Jesuo aŭdis, ke Johano estis transdonita, li retiriĝis en Galileon. Lasante Nazareton, li venis kaj loĝis en Kapernaumo, kiu estas apud la maro, en la regiono de Zebuluno kaj Naftali, por ke plenumiĝu tio, kio estis parolita per Jesaja la profeto, dirante,
-"La lando de Zebuluno kaj la lando de Naftali,
+Nun kiam Jesuo aŭdis, ke Johano estis transdonita, li retiriĝis en Galileon. Lasante Nazareton, li venis kaj loĝis en Kapernaumo, kiu estas apud la maro, en la regiono de Zebuluno kaj Naftalio, por ke plenumiĝu tio, kio estis parolita per Jesaja la profeto, dirante,
+"La lando de Zebuluno kaj la lando de Naftalio,
 al la maro, trans la Jordanon,
 Galileo de la Gentoj,
 la popolo, kiu sidis en mallumo, vidis grandan lumon;
@@ -129,11 +129,11 @@ Vi estas la lumo de la mondo. Urbo situanta sur monteto ne povas esti kaŝita. N
 
 "Ne pensu, ke mi venis detrui la leĝon aŭ la profetojn. Mi ne venis detrui, sed plenumi. Ĉar vere mi diras al vi, ĝis la ĉielo kaj la tero preterpasos, eĉ ne unu plej malgranda litero aŭ unu peceto de plumstrio forpasos de la leĝo, ĝis ĉio estos plenumita. Tial, kiu ajn rompos unu el ĉi tiuj plej malgrandaj ordonoj kaj instruos aliajn tiel fari, estos nomita la plej malgranda en la Regno de la Ĉielo; sed kiu ajn faros kaj instruos ilin, estos nomita granda en la Regno de la Ĉielo. Ĉar mi diras al vi, ke se via justeco ne superas tiun de la skribistoj kaj Fariseoj, vi tute ne eniros en la Regnon de la Ĉielo.
 
-"Vi aŭdis, ke estis dirite al la antikvuloj, 'Vi ne mortigos;' kaj 'Kiu ajn mortigos, estos danĝere al la juĝo.' Sed mi diras al vi, ke ĉiu, kiu senkaŭze koleras kontraŭ sia frato, estos danĝere al la juĝo. Kiu ajn diros al sia frato, 'Raca!' estos danĝere al la konsilio. Kiu ajn diros, 'Vi malsaĝulo!' estos danĝere al la fajro de Gehena.
+"Vi aŭdis, ke estis dirite al la antikvuloj, 'Vi ne mortigos;' kaj 'Kiu ajn mortigos, estos danĝere al la juĝo.' Sed mi diras al vi, ke ĉiu, kiu senkaŭze koleras kontraŭ sia frato, estos danĝere al la juĝo. Kiu ajn diros al sia frato, 'Raca!' estos danĝere al la konsilio. Kiu ajn diros, 'Vi malsaĝulo!' estos danĝere al la fajro de Geheno.
 
 "Se do vi oferas vian donacon ĉe la altaro, kaj tie memoras, ke via frato havas ion kontraŭ vi, lasu vian donacon tie antaŭ la altaro, kaj iru vian vojon. Unue rekonsiliĝu kun via frato, kaj tiam venu kaj oferu vian donacon. Konsentu rapide kun via kontraŭulo dum vi estas kun li sur la vojo; por ke eble la akuzanto ne transdonu vin al la juĝisto, kaj la juĝisto al la oficisto, kaj vi estu ĵetita en prizonon. Vere mi diras al vi, vi neniom eliros de tie, ĝis vi pagos la lastan kvanton.
 
-"Vi aŭdis, ke estis dirite, 'Vi ne adultu;' sed mi diras al vi, ke ĉiu, kiu rigardas virinon por deziri ŝin, jam adultis kun ŝi en sia koro. Se via dekstra okulo estas alloga por vi, elŝiru ĝin kaj ĵetu ĝin for de vi. Ĉar estas pli utila por vi, ke unu el viaj membroj pereu, ol ke via tuta korpo estu ĵetita en Gehenan. Se via dekstra mano estas alloga por vi, detranĉu ĝin, kaj ĵetu ĝin for de vi. Ĉar estas pli utila por vi, ke unu el viaj membroj pereu, ol ke via tuta korpo estu ĵetita en Gehenan.
+"Vi aŭdis, ke estis dirite, 'Vi ne adultu;' sed mi diras al vi, ke ĉiu, kiu rigardas virinon por deziri ŝin, jam adultis kun ŝi en sia koro. Se via dekstra okulo estas alloga por vi, elŝiru ĝin kaj ĵetu ĝin for de vi. Ĉar estas pli utila por vi, ke unu el viaj membroj pereu, ol ke via tuta korpo estu ĵetita en Gehenon. Se via dekstra mano estas alloga por vi, detranĉu ĝin, kaj ĵetu ĝin for de vi. Ĉar estas pli utila por vi, ke unu el viaj membroj pereu, ol ke via tuta korpo estu ĵetita en Gehenon.
 
 "Ankaŭ estis dirite, 'Kiu ajn forsendas sian edzinon, donu al ŝi skribon de eksedziĝo,' sed mi diras al vi, ke kiu ajn forsendas sian edzinon, krom pro seksa malĉasteco, igas ŝin adultulino; kaj kiu ajn edziĝas al ŝi, kiam ŝi estas forsendita, adultas.
 
@@ -147,7 +147,7 @@ Vi estas la lumo de la mondo. Urbo situanta sur monteto ne povas esti kaŝita. N
 
 Zorgu, ke vi ne faru viajn bonfarajn donacojn antaŭ homoj, por esti vidataj de ili, alie vi ne havos rekompenson de via Patro, kiu estas en la ĉielo. Tial, kiam vi faras kompatindajn agojn, ne sonigu trumpeton antaŭ vi mem, kiel la hipokrituloj faras en la sinagogoj kaj en la stratoj, por ke ili ricevu gloron de homoj. Plej certe mi diras al vi, ili jam ricevis sian rekompenson. Sed kiam vi faras kompatindajn agojn, ne lasu vian maldekstran manon scii, kion faras via dekstra mano, por ke viaj kompatindaj agoj estu en sekreto; tiam via Patro, kiu vidas en sekreto, rekompencos vin malferme.
 
-Kiam vi preĝas, vi ne estu kiel la hipokrituloj, ĉar ili amas stari kaj preĝi en la sinagogoj kaj en la anguloj de la stratoj, por ke ili estu vidataj de homoj. Plej certe, mi diras al vi, ili jam ricevis sian rekompenson. Sed vi, kiam vi preĝas, eniru en vian internan ĉambron, kaj ferminte vian pordon, preĝu al via Patro, kiu estas en sekreto; kaj via Patro, kiu vidas en sekreto, rekompencos vin malferme. Preĝante, ne uzadu vajnajn ripetadojn kiel la Gentoj; ĉar ili pensas, ke ili estos aŭditaj pro sia multe parolado. Tial ne estu kiel ili, ĉar via Patro scias, kion vi bezonas antaŭ ol vi petas lin. Preĝu jene:
+Kiam vi preĝas, vi ne estu kiel la hipokrituloj, ĉar ili amas stari kaj preĝi en la sinagogoj kaj en la anguloj de la stratoj, por ke ili estu vidataj de homoj. Plej certe, mi diras al vi, ili jam ricevis sian rekompenson. Sed vi, kiam vi preĝas, eniru en vian internan ĉambron, kaj ferminte vian pordon, preĝu al via Patro, kiu estas en sekreto; kaj via Patro, kiu vidas en sekreto, rekompencos vin malferme. Preĝante, ne uzadu vanajn ripetadojn kiel la Gentoj; ĉar ili pensas, ke ili estos aŭditaj pro sia multe parolado. Tial ne estu kiel ili, ĉar via Patro scias, kion vi bezonas antaŭ ol vi petas lin. Preĝu jene:
 "Patro nia, kiu estas en la ĉielo, sanktigata estu via nomo.
 Venu via regno.
 Fariĝu via volo, kiel en la ĉielo, tiel ankaŭ sur la tero.
@@ -270,7 +270,7 @@ Jesuo iris tra ĉiuj urboj kaj vilaĝoj, instruante en iliaj sinagogoj kaj predi
 
 ### Ĉapitro 10
 
-Li alvokis al si siajn dek du disĉiplojn, kaj donis al ili aŭtoritaton super malpuraj spiritoj, por elĵeti ilin, kaj por resanigi ĉiun malsanon kaj ĉiun malsaniĝon. Nun la nomoj de la dek du apostoloj estas ĉi tiuj. La unua, Simon, kiu nomiĝas Petro; Andreo, lia frato; Jakobo, la filo de Zebedeo; Johano, lia frato; Filipo; Bartolomeo; Tomaso; Mateo, la impostisto; Jakobo, la filo de Alfeo; Lebeo, kiu ankaŭ nomiĝis Tadeo; Simon, la Zeloto; kaj Judaso Iskarioto, kiu ankaŭ perfidis lin.
+Li alvokis al si siajn dek du disĉiplojn, kaj donis al ili aŭtoritaton super malpuraj spiritoj, por elĵeti ilin, kaj por resanigi ĉiun malsanon kaj ĉiun malsaniĝon. Nun la nomoj de la dek du apostoloj estas ĉi tiuj. La unua, Simono, kiu nomiĝas Petro; Andreo, lia frato; Jakobo, la filo de Zebedeo; Johano, lia frato; Filipo; Bartolomeo; Tomaso; Mateo, la impostisto; Jakobo, la filo de Alfeo; Lebeo, kiu ankaŭ nomiĝis Tadeo; Simono, la Zeloto; kaj Judaso Iskarioto, kiu ankaŭ perfidis lin.
 
 Jesuo sendis ĉi tiujn dek du kaj ordonis al ili, dirante, “Ne iru inter la Gentojn, kaj ne eniru en iun ajn urbon de la Samaritanoj. Sed prefere iru al la perditaj ŝafoj de la domo de Izrael. Dum vi iras, prediku, dirante, ‘La Regno de la Ĉielo estas proksima!’ Resanigu la malsanulojn, purigu la leprulojn, kaj elĵetu demonojn. Senpage vi ricevis, do senpage donu. Ne prenu oron, arĝenton, aŭ bronzojn en viaj monujoj. Ne prenu sakon por via vojaĝo, nek du mantelojn, nek sandalojn, nek bastonon: ĉar la laboristo meritas sian nutraĵon. En kian ajn urbon aŭ vilaĝon vi eniros, eksciu kiu en ĝi estas inda, kaj restu tie ĝis vi foriros. Kiam vi eniros en la domanaron, salutu ĝin. Se la domanaro estas inda, via paco alvenu sur ĝin, sed se ĝi ne estas inda, via paco revenu al vi. Kiu ajn ne akceptas vin nek aŭskultas viajn vortojn, kiam vi eliros el tiu domo aŭ tiu urbo, skuu la polvon de viaj piedoj. Plej certe mi diras al vi, estos pli tolereble por la lando de Sodomo kaj Gomoro en la tago de juĝo ol por tiu urbo.
 
