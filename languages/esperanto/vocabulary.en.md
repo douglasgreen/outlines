@@ -80,8 +80,8 @@
 ## E
 * Eduardo - Edward
 * Egipta - Egyptian
-* Egiptio - Egypt
-* Egiptujo - Egypt
+* Egipto - Egyptian
+* Egiptio (Egipto + io) (also Egiptujo) - Egypt
 * Emanuelo - Emmanuel
 * Epikteto - Epictetus
 * Epikurano - Epicurean
@@ -105,8 +105,9 @@
 * Flandra - Flemish
 * Franca - French
 * France - in French
-* Francio (franco + io) - France
+* Francio (Franco + io) - France
 * Francisko - Francis
+* Franco - franc, Frenchman
 * Frankfurta - Frankfurt
 * Frankfurto - Frankfurt
 * Frederiko - Frederick
@@ -1401,7 +1402,6 @@
 * forŝiriĝi - to be torn off
 * foto - photo
 * fotografaĵo - photograph
-* franco - franc, Frenchman
 * frapi - to knock
 * fratino - sister
 * frato - brother
