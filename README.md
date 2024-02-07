@@ -199,7 +199,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Politics](society/politics.en.md)
 * [Society](society/society.en.md)
 * [Sociology](society/sociology.en.md)
-* [Sports](society/sports.en.md)
 
 ### Education
 * [Education](society/education/education.en.md)
@@ -250,6 +249,9 @@ Outlines written by ChatGPT-4 on various subjects.
 ##### Bible
 * [Bible](society/religion/christianity/bible/bible.en.md)
 * [New Testament](society/religion/christianity/bible/new_testament.en.md)
+
+### Sports
+* [Sports](society/sports/sports.en.md)
 
 ## Technology
 * [Energy](technology/energy.en.md)
