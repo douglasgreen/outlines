@@ -114,6 +114,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Hypertext Markup Language (HTML)](computers/web_development/html.en.md)
 * [Hypertext Transfer Protocol (HTTP)](computers/web_development/http.en.md)
 * [Symfony](computers/web_development/symfony.en.md)
+* [Web Development](computers/web_development/web_development.en.md)
 * [WebPack](computers/web_development/webpack.en.md)
 
 ## Languages

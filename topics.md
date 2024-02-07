@@ -185,6 +185,7 @@
 * Diseases - done
 * Docker
 * Doctor Who TV Series
+* Document Object Model
 * Dog Breeds
 * Dogs
 * Domain-Driven Design
@@ -637,7 +638,7 @@
 * WebAssembly
 * Web Browsers - done
 * Web Design
-* Web Development - in process
+* Web Development - done
 * Web Internationalization
 * WebPack - done
 * Web Standards
