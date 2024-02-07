@@ -285,3 +285,21 @@ Nonne duo passeres asse veneunt? Et unus ex illis non cadet in terram sine Patre
 Nolite arbitrari quia veni pacem mittere in terram; non veni pacem mittere, sed gladium. Veni enim separare hominem adversus patrem suum, et filiam adversus matrem suam, et nurum adversus socrum suam; et inimici hominis domestici eius. Qui amat patrem aut matrem plus quam me, non est me dignus; et qui amat filium aut filiam supra me, non est me dignus. Et qui non accipit crucem suam et sequitur me, non est me dignus. Qui invenit animam suam, perdet eam; et qui perdiderit animam suam propter me, inveniet eam.
 
 Qui recipit vos, me recipit, et qui me recipit, recipit eum qui me misit. Qui recipit prophetam in nomine prophetae, mercedem prophetae accipiet; et qui recipit iustum in nomine iusti, mercedem iusti accipiet. Et quicumque potum dederit uni ex minimis istis calicem aquae frigidae tantum in nomine discipuli, amen dico vobis, non perdet mercedem suam."
+
+### Caput 11
+
+Cum Iesus finisset mandata sua duodecim discipulis suis, inde discessit ut doceret et praedicaret in civitatibus eorum.
+
+Ioannes autem, cum in vinculis opera Christi audisset, mittens duos de discipulis suis, dixit ad eum: "Tu es qui venturus es, an alium expectamus?"
+
+Et respondens Iesus ait illis: "Euntes renuntiate Ioanni quae auditis et videtis: caeci vident, claudi ambulant, leprosi mundantur, surdi audiunt, mortui resurgunt, pauperibus evangelizatur. Et beatus est, qui non fuerit scandalizatus in me."
+
+Illis autem abeuntibus, coepit Iesus dicere ad turbas de Ioanne: "Quid existis in desertum videre? Arundinem vento agitatam? Sed quid existis videre? Hominem mollibus vestimentis indutum? Ecce, qui mollibus vestiuntur, in domibus regum sunt. Sed quid existis videre? Prophetam? Etiam dico vobis, et plus quam prophetam. Hic est enim de quo scriptum est: 'Ecce, ego mitto angelum meum ante faciem tuam, qui praeparabit viam tuam ante te.' Amen dico vobis, non surrexit inter natos mulierum maior Ioanne Baptista; qui autem minor est in regno caelorum, maior est illo. A diebus Ioannis Baptistae usque nunc, regnum caelorum vim patitur, et violenti rapiunt illud. Omnes enim prophetae et lex usque ad Ioannem prophetaverunt. Et si vultis accipere, ipse est Elias, qui venturus est. Qui habet aures audiendi, audiat.
+
+"Sed cui assimilabo generationem istam? Similis est pueris sedentibus in foro, qui clamantes coaequalibus suis dicunt: 'Cecinimus vobis, et non saltastis; lamentavimus, et non planxistis.' Venit enim Ioannes neque manducans neque bibens, et dicunt: 'Daemonium habet.' Venit Filius Hominis manducans et bibens, et dicunt: 'Ecce homo vorax et bibax vini, amicus publicanorum et peccatorum!' Et iustificata est sapientia a filiis suis."
+
+Tunc coepit exprobrare civitatibus in quibus factae sunt plurimae virtutes eius, quia non egissent paenitentiam: "Vae tibi, Chorazin! Vae tibi, Bethsaida! Quia si in Tyro et Sidone factae fuissent virtutes quae factae sunt in vobis, olim in cilicio et cinere paenitentiam egissent. Verumtamen dico vobis: Tyro et Sidoni remissius erit in die iudicii quam vobis. Et tu, Capernaum, numquid usque in caelum exaltaberis? Usque ad inferos detruderis. Quia si in Sodomis factae fuissent virtutes quae in te factae sunt, mansissent usque in hodiernum diem. Verumtamen dico vobis quia terrae Sodomorum remissius erit in die iudicii quam tibi."
+
+In illo tempore respondens Iesus dixit: "Confiteor tibi, Pater, Domine caeli et terrae, quia abscondisti haec a sapientibus et prudentibus et revelasti ea parvulis. Ita, Pater, quoniam sic fuit placitum ante te. Omnia mihi tradita sunt a Patre meo, et nemo novit Filium nisi Pater, neque Patrem quis novit nisi Filius et cui voluerit Filius revelare.
+
+Venite ad me omnes qui laboratis et onerati estis, et ego reficiam vos. Tollite iugum meum super vos et discite a me, quia mitis sum et humilis corde; et invenietis requiem animabus vestris. Iugum enim meum suave est et onus meum leve est."

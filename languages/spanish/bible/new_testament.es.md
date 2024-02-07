@@ -287,3 +287,21 @@ Jesús envió a estos doce y les ordenó, diciendo: "No vayáis por camino de ge
 "No penséis que he venido a traer paz a la tierra; no he venido a traer paz, sino espada. Porque he venido a poner al hombre en contra de su padre, a la hija contra su madre, y a la nuera contra su suegra; y los enemigos del hombre serán los de su propia casa. El que ama a su padre o a su madre más que a mí, no es digno de mí; y el que ama a su hijo o a su hija más que a mí, no es digno de mí. Y el que no toma su cruz y me sigue, no es digno de mí. El que encuentre su vida, la perderá; y el que pierda su vida por causa de mí, la hallará.
 
 "El que os recibe a vosotros, me recibe a mí, y el que me recibe a mí, recibe al que me envió. El que recibe a un profeta en nombre de profeta, recibirá recompensa de profeta; y el que recibe a un justo en nombre de justo, recibirá recompensa de justo. Y cualquiera que dé a uno de estos pequeños aunque sea solo un vaso de agua fría para beber, por ser discípulo, de cierto os digo que no perderá su recompensa".
+
+### Capítulo 11
+
+Cuando Jesús terminó de dar instrucciones a sus doce discípulos, partió de allí para enseñar y predicar en sus ciudades.
+
+Ahora bien, cuando Juan en la prisión oyó hablar de las obras de Cristo, envió a dos de sus discípulos y le dijo: "¿Eres tú el que ha de venir, o esperamos a otro?"
+
+Jesús les respondió: "Id y contad a Juan lo que oís y veis: los ciegos ven, los cojos andan, los leprosos son limpiados, los sordos oyen, los muertos son resucitados, y a los pobres se les anuncia el evangelio. Y bienaventurado es aquel que no se escandaliza de mí."
+
+Mientras ellos se iban, Jesús comenzó a decir a las multitudes acerca de Juan: "¿Qué salisteis a ver al desierto? ¿Una caña sacudida por el viento? Pero, ¿qué salisteis a ver? ¿Un hombre vestido con ropas finas? He aquí, los que llevan ropas finas están en las casas de los reyes. Pero, ¿qué salisteis a ver? ¿Un profeta? Sí, os digo, y más que profeta. Este es de quien está escrito: 'He aquí, yo envío mi mensajero delante de tu faz, el cual preparará tu camino delante de ti.' De cierto os digo que entre los nacidos de mujer no se ha levantado otro mayor que Juan el Bautista; sin embargo, el más pequeño en el reino de los cielos es mayor que él. Desde los días de Juan el Bautista hasta ahora, el reino de los cielos sufre violencia, y los violentos lo arrebatan. Porque todos los profetas y la ley profetizaron hasta Juan. Y si queréis recibirlo, él es Elías, el que había de venir. El que tiene oídos para oír, que oiga.
+
+"Pero, ¿a qué compararé esta generación? Es semejante a los niños sentados en las plazas, que gritan a sus compañeros y dicen: 'Os tocamos la flauta, y no bailasteis; lamentamos, y no llorasteis.' Porque vino Juan, que ni comía ni bebía, y dicen: 'Tiene demonio.' Vino el Hijo del Hombre, que come y bebe, y dicen: 'He aquí un hombre glotón y bebedor de vino, amigo de publicanos y de pecadores.' Pero la sabiduría es justificada por sus hijos."
+
+Entonces comenzó a reprender a las ciudades en las cuales se habían realizado la mayoría de sus obras poderosas, porque no se habían arrepentido. "¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón se hubieran realizado los milagros que se hicieron en vosotras, hace tiempo que se habrían arrepentido en cilicio y en ceniza. Pero os digo que será más tolerable para Tiro y Sidón en el día del juicio que para vosotras. Y tú, Capernaúm, ¿serás elevada hasta los cielos? Descenderás hasta el Hades; porque si en Sodoma se hubieran realizado los milagros que se hicieron en ti, habría permanecido hasta este día. Pero os digo que será más tolerable para la tierra de Sodoma en el día del juicio que para ti."
+
+En aquel tiempo, Jesús respondió: "Te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y entendidos, y las has revelado a los niños. Sí, Padre, porque así fue tu buen placer. Todas las cosas me han sido entregadas por mi Padre. Nadie conoce al Hijo, sino el Padre; ni al Padre conoce alguien, sino el Hijo, y aquel a quien el Hijo quiera revelarle.
+
+"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar. Tomad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas. Porque mi yugo es fácil y ligera mi carga."
