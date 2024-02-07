@@ -2,6 +2,8 @@
 
 ## Matthäus
 
+Die Gute Nachricht nach Matthäus
+
 ### Kapitel 1
 
 Das Buch der Genealogie Jesu Christi, des Sohnes Davids, des Sohnes Abrahams.
@@ -283,3 +285,21 @@ Werden nicht zwei Sperlinge für einen Pfennig verkauft? Und doch fällt nicht e
 Denkt nicht, dass ich gekommen bin, um Frieden auf die Erde zu bringen. Ich bin nicht gekommen, um Frieden zu bringen, sondern das Schwert. Denn ich bin gekommen, den Menschen zu entzweien mit seinem Vater, und die Tochter mit ihrer Mutter, und die Schwiegertochter mit ihrer Schwiegermutter; und des Menschen Feinde werden seine eigenen Hausgenossen sein. Wer Vater oder Mutter mehr liebt als mich, ist meiner nicht würdig; und wer Sohn oder Tochter mehr liebt als mich, ist meiner nicht würdig. Und wer nicht sein Kreuz nimmt und mir nachfolgt, ist meiner nicht würdig. Wer sein Leben findet, wird es verlieren; und wer sein Leben um meinetwillen verliert, wird es finden.
 
 Wer euch aufnimmt, nimmt mich auf, und wer mich aufnimmt, nimmt den auf, der mich gesandt hat. Wer einen Propheten aufnimmt, weil er ein Prophet ist, wird einen Prophetenlohn erhalten. Wer einen Gerechten aufnimmt, weil er ein Gerechter ist, wird einen Gerechtenlohn erhalten. Und wer einem dieser Kleinen auch nur einen Becher kalten Wassers zu trinken gibt, weil er ein Jünger ist, wahrlich, ich sage euch, er wird seinen Lohn gewiss nicht verlieren.
+
+### Kapitel 11
+
+Als Jesus seine zwölf Jünger angewiesen hatte, zog er von dort weiter, um in ihren Städten zu lehren und zu predigen.
+
+Als Johannes im Gefängnis von den Werken Christi hörte, sandte er zwei seiner Jünger zu ihm und ließ ihm sagen: „Bist du der Kommende, oder sollen wir auf einen anderen warten?“
+
+Jesus antwortete ihnen: „Geht und berichtet Johannes, was ihr hört und seht: Die Blinden sehen, die Lahmen gehen, die Aussätzigen werden rein, die Tauben hören, die Toten stehen auf, und den Armen wird das Evangelium verkündet. Und selig ist, wer sich nicht an mir ärgert.“
+
+Als sie fortgingen, begann Jesus zu den Menschenmengen über Johannes zu sprechen: „Was seid ihr in die Wüste hinausgegangen zu sehen? Ein vom Wind bewegtes Schilfrohr? Was seid ihr denn hinausgegangen zu sehen? Einen Menschen in weichen Gewändern? Siehe, die in prächtiger Kleidung und in Wohlleben sind, befinden sich in den Königshäusern. Aber was seid ihr hinausgegangen zu sehen? Einen Propheten? Ja, ich sage euch, und mehr als einen Propheten. Denn dieser ist es, von dem geschrieben steht: ‚Siehe, ich sende meinen Boten vor dir her, der deinen Weg vor dir bereiten soll.‘ Wahrlich, ich sage euch: Unter denen, die von Frauen geboren sind, ist niemand größer aufgetreten als Johannes der Täufer; doch der Kleinste im Himmelreich ist größer als er. Von den Tagen Johannes' des Täufers bis jetzt leidet das Himmelreich Gewalt, und Gewalttätige reißen es an sich. Denn alle Propheten und das Gesetz haben bis zu Johannes geweissagt. Und wenn ihr es annehmen wollt: Er ist Elia, der kommen soll. Wer Ohren hat zu hören, der höre.
+
+"Womit soll ich diese Generation vergleichen? Sie ist wie Kinder, die auf den Marktplätzen sitzen und ihren Spielgefährten zurufen und sagen: ‚Wir haben euch auf der Flöte vorgespielt, und ihr habt nicht getanzt; wir haben Klagelieder gesungen, und ihr habt nicht geweint.‘ Denn Johannes kam, der aß und trank nicht, und sie sagen: ‚Er hat einen Dämon.‘ Der Menschensohn kam, der isst und trinkt, und sie sagen: ‚Siehe, ein Fresser und Weinsäufer, ein Freund von Zöllnern und Sündern!‘ Doch die Weisheit ist gerechtfertigt durch ihre Werke.“
+
+Dann fing er an, die Städte zu schelten, in denen die meisten seiner Wunderwerke geschehen waren, weil sie nicht Buße taten: „Wehe dir, Chorazin! Wehe dir, Bethsaida! Denn wenn in Tyrus und Sidon die Wunder geschehen wären, die bei euch geschehen sind, sie hätten längst in Sack und Asche Buße getan. Doch ich sage euch: Es wird Tyrus und Sidon erträglicher ergehen am Tag des Gerichts als euch. Und du, Kapernaum, wirst du bis zum Himmel erhoben werden? Bis zur Hölle wirst du hinabgestoßen werden! Denn wenn in Sodom die Wunder geschehen wären, die bei dir geschehen sind, es stünde noch heute. Doch ich sage euch: Es wird dem Land von Sodom erträglicher ergehen am Tag des Gerichts als dir.“
+
+Zu der Zeit antwortete Jesus und sprach: „Ich preise dich, Vater, Herr des Himmels und der Erde, dass du dies den Weisen und Klugen verborgen und es Unmündigen offenbart hast. Ja, Vater, denn so war es wohlgefällig vor dir. Alles ist mir von meinem Vater übergeben worden. Und niemand erkennt den Sohn als nur der Vater, noch erkennt jemand den Vater, als nur der Sohn und wem der Sohn es offenbaren will.
+
+Kommt her zu mir, alle, die ihr mühselig und beladen seid, und ich will euch Ruhe geben. Nehmt mein Joch auf euch und lernt von mir; denn ich bin sanftmütig und von Herzen demütig; und ihr werdet Ruhe finden für eure Seelen. Denn mein Joch ist sanft, und meine Last ist leicht.“

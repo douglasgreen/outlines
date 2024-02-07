@@ -2,6 +2,8 @@
 
 ## Matthieu
 
+La Bonne Nouvelle selon Matthieu
+
 ### Chapitre 1
 
 Le livre de la généalogie de Jésus Christ, le fils de David, le fils d'Abraham.
@@ -286,3 +288,21 @@ Ne vend-on pas deux passereaux pour un sou ? Et pourtant, aucun d'eux ne tombe �
 Ne croyez pas que je sois venu apporter la paix sur la terre. Je ne suis pas venu apporter la paix, mais l'épée. Car je suis venu mettre la division entre l'homme et son père, entre la fille et sa mère, entre la belle-fille et sa belle-mère ; et l'homme aura pour ennemis les gens de sa propre maison. Celui qui aime son père ou sa mère plus que moi n'est pas digne de moi ; et celui qui aime son fils ou sa fille plus que moi n'est pas digne de moi. Celui qui ne prend pas sa croix et ne me suit pas n'est pas digne de moi. Celui qui trouve sa vie la perdra, et celui qui perd sa vie à cause de moi la trouvera.
 
 Celui qui vous reçoit me reçoit, et celui qui me reçoit reçoit celui qui m'a envoyé. Celui qui reçoit un prophète en tant que prophète recevra une récompense de prophète ; et celui qui reçoit un juste en tant que juste recevra une récompense de juste. Et quiconque donnera à boire, ne serait-ce qu'un verre d'eau froide, à l'un de ces petits, parce qu'il est mon disciple, je vous le dis en vérité, il ne perdra pas sa récompense.
+
+### Chapitre 11
+
+Lorsque Jésus eut achevé de donner ses instructions à ses douze disciples, il partit de là pour enseigner et prêcher dans leurs villes.
+
+Or, Jean, ayant entendu parler dans sa prison des œuvres du Christ, envoya deux de ses disciples lui dire : « Es-tu celui qui doit venir, ou devons-nous en attendre un autre ? »
+
+Jésus leur répondit : « Allez rapporter à Jean ce que vous entendez et voyez : les aveugles recouvrent la vue, les boiteux marchent, les lépreux sont purifiés, les sourds entendent, les morts ressuscitent, et la bonne nouvelle est annoncée aux pauvres. Heureux celui pour qui je ne serai pas une occasion de chute. »
+
+Pendant qu'ils s'en allaient, Jésus se mit à dire à la foule au sujet de Jean : « Qu'êtes-vous allés voir dans le désert ? Un roseau agité par le vent ? Mais qu'êtes-vous allés voir ? Un homme vêtu d'habits précieux ? Voici, ceux qui portent des habits précieux se trouvent dans les maisons des rois. Alors, pourquoi êtes-vous sortis ? Pour voir un prophète ? Oui, je vous le dis, et bien plus qu'un prophète. C'est de lui qu'il est écrit : 'Voici, j'envoie mon messager devant ta face, pour préparer ton chemin devant toi.' En vérité, je vous le dis, parmi ceux qui sont nés de femmes, il n'en est pas surgi de plus grand que Jean le Baptiseur ; cependant, le plus petit dans le royaume des cieux est plus grand que lui. Depuis les jours de Jean le Baptiseur jusqu'à présent, le royaume des cieux est forcé, et ce sont les violents qui s'en emparent. Car tous les prophètes et la loi ont prophétisé jusqu'à Jean. Et si vous voulez bien le recevoir, c'est lui qui est l'Élie qui devait venir. Que celui qui a des oreilles pour entendre entende.
+
+Mais à quoi comparerai-je cette génération ? Elle ressemble à des enfants assis sur les places, qui crient à leurs camarades et disent : 'Nous vous avons joué de la flûte, et vous n'avez pas dansé ; nous avons chanté des lamentations, et vous ne vous êtes pas lamentés.' Car Jean est venu, ne mangeant ni ne buvant, et ils disent : 'Il a un démon.' Le Fils de l'homme est venu, mangeant et buvant, et ils disent : 'Voilà un homme glouton et un ivrogne, un ami des publicains et des pécheurs !' Mais la sagesse est justifiée par ses œuvres. »
+
+Alors il se mit à reprocher aux villes dans lesquelles la plupart de ses miracles avaient été accomplis, parce qu'elles ne s'étaient pas repenties. « Malheur à toi, Chorazin ! Malheur à toi, Bethsaïda ! Car si les miracles qui ont été faits chez vous l'avaient été à Tyr et à Sidon, il y a longtemps qu'elles se seraient repenties en se revêtant de sac et en se couvrant de cendres. Mais je vous le dis, au jour du jugement, le sort de Tyr et de Sidon sera plus supportable que le vôtre. Et toi, Capernaüm, seras-tu élevée jusqu'au ciel ? Tu descendras jusqu'au séjour des morts ; car si les miracles qui ont été faits chez toi l'avaient été à Sodome, elle serait restée debout jusqu'à ce jour. Mais je vous le dis, au jour du jugement, le sort du pays de Sodome sera plus supportable que le tien. »
+
+En ce temps-là, Jésus prit la parole et dit : « Je te loue, Père, Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et de ce que tu les as révélées aux tout-petits. Oui, Père, car tel a été ton bon plaisir. Tout m'a été remis par mon Père. Nul ne connaît le Fils, si ce n'est le Père, et nul ne connaît le Père, si ce n'est le Fils et celui à qui le Fils veut le révéler.
+
+Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. Prenez mon joug sur vous et recevez mes instructions, car je suis doux et humble de cœur ; et vous trouverez du repos pour vos âmes. Car mon joug est aisé, et mon fardeau léger. »

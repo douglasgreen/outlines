@@ -2,6 +2,8 @@
 
 ## Mateo
 
+La Bona Novaĵo laŭ Mateo
+
 ### Ĉapitro 1
 
 La libro de la genealogio de Jesuo Kristo, filo de Davido, filo de Abrahamo. Abrahamo iĝis la patro de Isaako. Isaako iĝis la patro de Jakobo. Jakobo iĝis la patro de Jehuda kaj liaj fratoj. Jehuda iĝis la patro de Perec kaj Zeraĥ per Tamar. Perec iĝis la patro de Hezrono. Hezrono iĝis la patro de Ram. Ram iĝis la patro de Aminadabo. Aminadabo iĝis la patro de Naŝono. Naŝono iĝis la patro de Salmono. Salmono iĝis la patro de Boazo per Rahab. Boazo iĝis la patro de Obed per Rut. Obed iĝis la patro de Jesaj. Jesaj iĝis la patro de Reĝo Davido. Davido la reĝo iĝis la patro de Salomono per ŝi, kiu estis la edzino de Urija. Salomono iĝis la patro de Reĥabeam. Reĥabeam iĝis la patro de Abija. Abija iĝis la patro de Asa. Asa iĝis la patro de Jehoŝafat. Jehoŝafat iĝis la patro de Joram. Joram iĝis la patro de Uzija. Uzija iĝis la patro de Jotam. Jotam iĝis la patro de Ahaz. Ahaz iĝis la patro de Hezekia. Hezekia iĝis la patro de Manaseo. Manaseo iĝis la patro de Amono. Amono iĝis la patro de Josija. Josija iĝis la patro de Jeĥonja kaj liaj fratoj dum la ekzilo al Babelo.
@@ -285,3 +287,143 @@ Lernanto ne estas super sia instruisto, nek servanto super sia mastro. Sufiĉas 
 Ne pensu, ke mi venis alporti pacon sur la teron. Mi ne venis alporti pacon, sed glavon. Ĉar mi venis meti homon kontraŭ lian patron, kaj filinon kontraŭ ŝian patrinon, kaj bofilinon kontraŭ ŝian bopatrinon. Kaj malamikoj de homo estos liaj propraj domanoj. Kiu amas patron aŭ patrinon pli ol min, ne estas inda je mi; kaj kiu amas filon aŭ filinon pli ol min, ne estas inda je mi. Kaj kiu ne prenas sian krucon kaj sekvas post mi, ne estas inda je mi. Kiu serĉas sian vivon, perdos ĝin; kaj kiu perdas sian vivon pro mia kialo, trovos ĝin.
 
 Kiu akceptas vin, akceptas min, kaj kiu akceptas min, akceptas tiun, kiu min sendis. Kiu akceptas profeton en la nomo de profeto, ricevos profetan rekompenson. Kiu akceptas justulon en la nomo de justulo, ricevos justulan rekompenson. Kaj kiu donas al unu el ĉi tiuj malgranduloj eĉ nur tason da malvarma akvo trinki en la nomo de disĉiplo, plej certe mi diras al vi, li neniomaniere perdos sian rekompenson.
+
+### Ĉapitro 11
+
+Kiam Jesuo finis instrui siajn dek du disĉiplojn, li foriris de tie por instrui kaj prediki en iliaj urboj.
+
+Nun kiam Johano aŭdis en la malliberejo la farojn de Kristo, li sendis du el siaj disĉiploj kaj diris al li, "Ĉu vi estas tiu, kiu venas, aŭ ĉu ni atendu alian?"
+
+Jesuo respondis al ili, "Iru kaj raportu al Johano la aferojn, kiujn vi aŭdas kaj vidas: la blinduloj ricevas sian vidon, la lamenuloj marŝas, la lepruloj estas purigitaj, la surduloj aŭdas, la mortintoj estas levitaj, kaj la malriĉuloj havas la bonan novaĵon predikitan al ili. Feliĉa estas tiu, kiu ne trovas okazon por falpuŝiĝo en mi."
+
+Dum tiuj iris sian vojon, Jesuo komencis diri al la homamasoj pri Johano, "Kion vi eliris en la dezerton por vidi? Kano ŝanceliĝanta de la vento? Sed kion vi eliris por vidi? Homon en mola vestaĵo? Jen, tiuj, kiuj portas molajn vestaĵojn, estas en reĝaj domoj. Sed kial vi eliris? Por vidi profeton? Jes, mi diras al vi, kaj multe pli ol profeto. Ĉar ĉi tiu estas tiu, pri kiu estas skribite, 'Jen mi sendas mian mesaĝiston antaŭ via vizaĝo, kiu pretigos vian vojon antaŭ vi.' Plej certe mi diras al vi, inter tiuj, kiuj naskiĝis de virinoj, ne leviĝis iu ajn pli granda ol Johano la Baptisto; tamen tiu, kiu estas la plej malgranda en la Regno de la Ĉielo, estas pli granda ol li. De la tagoj de Johano la Baptisto ĝis nun, la Regno de la Ĉielo suferas perforton, kaj perfortuloj prenas ĝin perforte. Ĉar ĉiuj profetoj kaj la leĝo profetis ĝis Johano. Se vi volas akcepti ĝin, ĉi tio estas Elija, kiu devas veni. Kiu havas orelojn por aŭdi, tiu aŭdu.
+
+"Sed al kio mi komparos ĉi tiun generacion? Ĝi estas kiel infanoj sidantaj en la bazaroj, kiuj vokas al siaj kunuloj kaj diras, 'Ni ludis fluton por vi, kaj vi ne dancis. Ni ploris por vi, kaj vi ne lamentis.' Ĉar Johano venis nek manĝante nek trinkante, kaj ili diras, 'Li havas demonon.' La Filo de Homo venis manĝante kaj trinkante, kaj ili diras, 'Jen viro glutema kaj drinkemulo, amiko de impostistoj kaj pekuloj!' Sed saĝeco estas pravigita de siaj infanoj."
+
+Tiam li komencis riproĉi la urbojn, en kiuj plej multe da liaj potencaj faroj estis faritaj, ĉar ili ne pentis. "Ve al vi, Ĥorazin! Ve al vi, Betsaida! Ĉar se la potencaj faroj, kiuj estis faritaj en vi, estus faritaj en Tiro kaj Sidono, ili jam de longe pentus en sakaĵo kaj cindro. Sed mi diras al vi, estos pli tolereble por Tiro kaj Sidono en la tago de juĝo ol por vi. Kaj vi, Kapernaumo, kiu estas alte levita ĝis la ĉielo, vi estos mallevita ĝis Hadesto. Ĉar se la potencaj faroj, kiuj estis faritaj en vi, estus faritaj en Sodomo, ĝi restus ĝis hodiaŭ. Sed mi diras al vi, ke estos pli tolereble por la lando de Sodomo en la tago de juĝo, ol por vi."
+
+En tiu tempo, Jesuo respondis, "Mi dankas vin, Patro, Sinjoro de la ĉielo kaj la tero, ke vi kaŝis ĉi tiujn aferojn de la saĝuloj kaj prudentuloj, kaj malkaŝis ilin al infanetoj. Jes, Patro, ĉar tiel estis plaĉe en via vidpunkto. Ĉio estis transdonita al mi de mia Patro. Neniu konas la Filon, escepte de la Patro; nek iu konas la Patron, escepte de la Filo kaj tiu, al kiu la Filo deziras malkaŝi lin.
+
+"Venu al mi, ĉiuj vi, kiuj laboras kaj estas peze ŝarĝitaj, kaj mi donos al vi ripozon. Prenu mian jugon sur vin kaj lernu de mi, ĉar mi estas milda kaj humila de koro; kaj vi trovos ripozon por viaj animoj. Ĉar mia jugo estas facila, kaj mia ŝarĝo estas malpeza."
+
+### Ĉapitro 12
+
+En tiu tempo, Jesuo iris dum la sabata tago tra la grenkampoj. Liaj disĉiploj malsatis kaj komencis pluki spikojn kaj manĝi. Sed la Fariseoj, vidinte tion, diris al li, "Jen, viaj disĉiploj faras tion, kio ne estas laŭleĝe farebla en la sabato."
+
+Sed li diris al ili, "Ĉu vi ne legis, kion faris Davido kiam li malsatis, kaj tiuj, kiuj estis kun li: kiel li eniris en la domon de Dio kaj manĝis la montrotabulpanon, kiu ne estis laŭleĝe por li manĝi, nek por tiuj, kiuj estis kun li, sed nur por la pastroj? Aŭ ĉu vi ne legis en la leĝo, ke en la sabata tago la pastroj en la templo malrespektas la sabaton kaj estas senkulpaj? Sed mi diras al vi, ke ĉi tie estas io pli granda ol la templo. Sed se vi sciintus kion signifas tio, 'Mi deziras kompaton, kaj ne oferon,' vi ne kondamnintus la senkulpajn. Ĉar la Filo de Homo estas Sinjoro de la sabato."
+
+Li foriris de tie kaj eniris en ilian sinagogon. Kaj jen, tie estis viro kun sekigita mano. Ili demandis lin, "Ĉu estas laŭleĝe saniĝi en la sabata tago?" por ke ili povu akuzi lin.
+
+Li diris al ili, "Kiu viro inter vi, kiu havas unu ŝafon, kaj se ĉi tiu falas en fosaĵon en la sabata tago, ĉu li ne prenos ĝin kaj levos ĝin el? Kiom pli valoras do homo ol ŝafo! Tial estas laŭleĝe fari bonon en la sabata tago." Tiam li diris al la viro, "Etendu vian manon." Li etendis ĝin; kaj ĝi estis restarigita sana, same kiel la alia. Sed la Fariseoj eliris kaj komplotis kontraŭ li, kiel ili povus lin detrui.
+
+Jesuo, rimarkinte tion, retiriĝis de tie. Grandaj homamasoj sekvis lin; kaj li sanigis ilin ĉiujn, kaj ordonis al ili, ke ili ne malkaŝu lin, por ke plenumiĝu tio, kio estis dirita per la profeto Jesaja, dirante,
+
+"Jen mia servanto, kiun mi elektis,
+
+mia amato, en kiu mia animo bone plaĉas.
+
+Mi metos mian Spiriton sur lin.
+
+Li proklamos justicon al la nacioj.
+
+Li ne batalos, nek krios,
+
+nek iu aŭdos lian voĉon en la stratoj.
+
+Li ne rompos rompitan kanojn.
+
+Li ne estingos fumantan meĉon,
+
+ĝis li kondukos justicon al venko.
+
+Kaj en lia nomo, la nacioj esperos."
+
+Tiam oni alportis al li demonposedaton, blindan kaj mutan; kaj li sanigis lin, tiel ke la blinda kaj muta viro kaj parolis kaj vidis. Ĉiuj homamasoj miris, kaj diris, "Ĉu ĉi tiu povas esti la filo de Davido?" Sed kiam la Fariseoj aŭdis tion, ili diris, "Ĉi tiu viro ne elĵetas demonojn krom per Beelzebulo, la princo de la demonoj."
+
+Sciiĝinte iliajn pensojn, Jesuo diris al ili, "Ĉiu regno dividita kontraŭ si mem estas ruinigita, kaj ĉiu urbo aŭ domo dividita kontraŭ si mem ne staros. Se Satano elĵetas Satanon, li estas dividita kontraŭ si mem. Kiel do lia regno povos stari? Se mi per Beelzebulo elĵetas demonojn, per kiu viaj infanoj ilin elĵetas? Tial ili estos viaj juĝistoj. Sed se mi per la Spirito de Dio elĵetas demonojn, tiam la Regno de Dio alvenis al vi. Aŭ kiel iu povas eniri en la domon de la forta viro kaj prirabi liajn havaĵojn, se li unue ne ligas la fortan viron? Tiam li prirabos lian domon.
+
+"Kiu ne estas kun mi, estas kontraŭ mi, kaj kiu ne kolektas kun mi, disĵetas. Tial mi diras al vi, ĉiu peko kaj blasfemo estos pardonita al homoj, sed la blasfemo kontraŭ la Spirito ne estos pardonita al homoj. Kiu ajn parolas vorton kontraŭ la Filo de Homo, ĝi estos pardonita al li; sed kiu ajn parolas kontraŭ la Sankta Spirito, ĝi ne estos pardonita al li, nek en ĉi tiu epoko, nek en la venonta.
+
+"Aŭ igu la arbon bonan kaj ĝian frukton bonan, aŭ igu la arbon putran kaj ĝian frukton putran; ĉar la arbo estas konata per sia frukto. Vi idoj de viperoj, kiel vi, estante malbonaj, povas paroli bonajn aferojn? Ĉar el la superfluo de la koro, la buŝo parolas. La bona homo el sia bona trezoro elportas bonajn aferojn, kaj la malbona homo el sia malbona trezoro elportas malbonajn aferojn. Mi diras al vi, ke pri ĉiu senutila vorto, kiun homoj parolas, ili donos raporton pri ĝi en la tago de juĝo. Ĉar per viaj vortoj vi estos pravigita, kaj per viaj vortoj vi estos kondamnita."
+
+Tiam kelkaj el la skribistoj kaj Fariseoj respondis, "Instruisto, ni volas vidi signon de vi."
+
+Sed li respondis al ili, "Malbona kaj adulta generacio serĉas signon, sed neniu signo estos donita al ĝi krom la signo de la profeto Jona. Ĉar kiel Jona estis tri tagoj kaj tri noktoj en la ventro de la granda fiŝo, tiel la Filo de Homo estos tri tagoj kaj tri noktoj en la koro de la tero. La viroj de Nineve stariĝos en la juĝo kun ĉi tiu generacio kaj kondamnos ĝin, ĉar ili pentis ĉe la predikado de Jona; kaj jen, io pli granda ol Jona estas ĉi tie. La reĝino de la sudo leviĝos en la juĝo kun ĉi tiu generacio kaj kondamnos ĝin, ĉar ŝi venis de la finoj de la tero por aŭdi la saĝon de Salomono; kaj jen, io pli granda ol Salomono estas ĉi tie.
+
+"Kiam malpura spirito eliras el homo, ĝi trairas senakvajn lokojn serĉante ripozon, kaj ne trovas ĝin. Tiam ĝi diras, 'Mi revenos en mian domon, el kiu mi eliris;' kaj kiam ĝi revenas, ĝi trovas ĝin malplena, balaata, kaj ordigita. Tiam ĝi iras kaj prenas kun si sep aliajn spiritojn pli malbonajn ol ĝi mem, kaj ili eniras kaj loĝas tie. Kaj la lasta stato de tiu homo fariĝas pli malbona ol la unua. Tiel ankaŭ estos al ĉi tiu malbona generacio."
+
+Dum li ankoraŭ parolis al la homamasoj, jen, lia patrino kaj liaj fratoj staris ekstere, serĉante paroli al li. Iu diris al li, "Jen, via patrino kaj viaj fratoj staras ekstere, serĉante paroli al vi."
+
+Sed li respondis al tiu, kiu parolis al li, "Kiu estas mia patrino? Kaj kiu estas miaj fratoj?" Li etendis sian manon al siaj disĉiploj kaj diris, "Jen, mia patrino kaj miaj fratoj! Ĉar kiu ajn faras la volon de mia Patro, kiu estas en la ĉielo, tiu estas mia frato, kaj fratino, kaj patrino."
+
+### Ĉapitro 13
+
+En tiu tago Jesuo eliris el la domo kaj sidiĝis apud la marbordo. Grandaj homamasoj kolektiĝis ĉe li, tiel ke li eniris en boaton kaj sidiĝis; kaj la tuta homamaso staris sur la plaĝo. Li parolis al ili multajn aferojn per paraboloj, dirante, "Jen, semanto eliris por semi. Dum li semis, kelkaj semoj falis apud la vojrande, kaj la birdoj venis kaj englutis ilin. Aliaj falis sur rokan grundon, kie ili ne havis multe da tero, kaj tuj ili elŝprucis, ĉar ili ne havis profundon de tero. Kiam la suno leviĝis, ili bruliĝis. Ĉar ili ne havis radikon, ili velkis. Aliaj falis inter dornojn. La dornoj kreskis kaj sufokis ilin. Aliaj falis sur bonan teron kaj donis frukton: iuj centoble, iuj sesdekoble, kaj iuj tridekoble. Kiu havas orelojn por aŭdi, tiu aŭdu."
+
+La disĉiploj venis kaj diris al li, "Kial vi parolas al ili per paraboloj?"
+
+Li respondis al ili, "Al vi estas donite koni la misterojn de la Regno de la Ĉielo, sed al ili ne estas donite. Ĉar kiu havas, al tiu estos donite, kaj li havos en abundo; sed kiu ne havas, de tiu estos prenita eĉ tio, kion li havas. Tial mi parolas al ili per paraboloj, ĉar vidante ili ne vidas, kaj aŭdante ili ne aŭdas, nek ili komprenas. En ili plenumiĝas la profetaĵo de Jesaja, kiu diras,
+
+'Aŭdante vi aŭdos,
+
+kaj neniomaniere komprenos;
+
+Vidante vi vidos,
+
+kaj neniomaniere perceptos;
+
+ĉar la koro de ĉi tiu popolo fariĝis maldika,
+
+iliaj oreloj aŭdas malfacile,
+
+kaj siajn okulojn ili fermis;
+
+alie eble ili povus vidi per siaj okuloj,
+
+aŭdi per siaj oreloj,
+
+kompreni per sia koro,
+
+kaj konvertiĝus,
+
+kaj mi resanigus ilin.'
+
+"Sed feliĉaj estas viaj okuloj, ĉar ili vidas; kaj viaj oreloj, ĉar ili aŭdas. Ĉar vere mi diras al vi, ke multaj profetoj kaj justuloj deziris vidi la aferojn, kiujn vi vidas, kaj ne vidis ilin; kaj aŭdi la aferojn, kiujn vi aŭdas, kaj ne aŭdis ilin."
+
+Aŭskultu do la parabolon pri la semanto. Kiam iu aŭdas la vorton de la Regno kaj ne komprenas ĝin, la malbonulo venas kaj forrabis tion, kio estis semita en lia koro. Tio estas tio, kio estis semita apud la vojrando. Tio, kio estis semita sur la rokaj lokoj, tio estas tiu, kiu aŭdas la vorton kaj tuj kun ĝojo ĝin akceptas; tamen li ne havas radikon en si mem, sed daŭras nur dum momento. Kiam premado aŭ persekuto leviĝas pro la vorto, tuj li falpuŝiĝas. Tio, kio estis semita inter la dornoj, tio estas tiu, kiu aŭdas la vorton, sed la zorgoj de ĉi tiu epoko kaj la trompemo de riĉaĵoj sufokas la vorton, kaj li fariĝas senfrukta. Tio, kio estis semita sur la bona tero, tio estas tiu, kiu aŭdas la vorton kaj komprenas ĝin, kiu vere donas frukton kaj produktas, iujn centoble, iujn sesdek, kaj iujn tridek.
+
+Li starigis alian parabolon antaŭ ili, dirante, "La Regno de la Ĉielo similas al homo, kiu semis bonan semon en sia kampo, sed dum homoj dormis, lia malamiko venis kaj ankaŭ semis kokinojn inter la tritikon, kaj foriris. Sed kiam la kreskaĵo elkreskis kaj produktis grenon, tiam la kokinoj ankaŭ aperis. La servistoj de la dommastro venis kaj diris al li, 'Sinjoro, ĉu vi ne semis bonan semon en via kampo? De kie venis ĉi tiuj kokinoj?'
+
+"Li diris al ili, 'Malamiko tion faris.'
+
+"La servistoj demandis lin, 'Ĉu vi volas, ke ni iru kaj kolektu ilin?'
+
+"Sed li diris, 'Ne, por ke eble, dum vi kolektas la kokinojn, vi elŝiru ankaŭ la tritikon kun ili. Lasu ambaŭ kreski kune ĝis la rikolto, kaj en la rikoltotempo mi diros al la rikoltistoj, "Unue kolektu la kokinojn, kaj ligu ilin en faskojn por bruligi ilin; sed kolektu la tritikon en mian grenejon." '"
+
+Li starigis alian parabolon antaŭ ili, dirante, "La Regno de la Ĉielo similas al greno de mustardo, kiun homo prenis kaj semis en sia kampo, kiu ja estas pli malgranda ol ĉiuj semoj. Sed kiam ĝi kreskas, ĝi estas pli granda ol la herboj kaj fariĝas arbo, tiel ke la birdoj de la aero venas kaj nestas en ĝiaj branĉoj."
+
+Li parolis alian parabolon al ili. "La Regno de la Ĉielo similas al fermento, kiun virino prenis kaj kaŝis en tri mezuroj da faruno, ĝis ĉio fermentiĝis."
+
+Jesuo parolis ĉiujn ĉi tiujn aferojn en paraboloj al la homamasoj; kaj sen parabolo li ne parolis al ili, por ke plenumiĝu tio, kio estis parolita per la profeto, dirante,
+
+"Mi malfermos mian buŝon en paraboloj;
+
+Mi eldiros aferojn kaŝitajn de la fondo de la mondo."
+
+Poste Jesuo forsendis la homamasojn kaj eniris en la domon. Liaj disĉiploj venis al li, dirante, "Klarigu al ni la parabolon de la kokinoj en la kampo."
+
+Li respondis al ili, "Tiu, kiu semas la bonan semon, estas la Filo de Homo, la kampo estas la mondo, la bonaj semoj estas la infanoj de la Regno, kaj la kokinoj estas la infanoj de la malbonulo. La malamiko, kiu ilin semis, estas la diablo. La rikolto estas la fino de la epoko, kaj la rikoltistoj estas anĝeloj. Kiel do la kokinoj estas kolektitaj kaj bruligitaj per fajro; tiel estos ĉe la fino de ĉi tiu epoko. La Filo de Homo sendos siajn anĝelojn, kaj ili kolektos el lia Regno ĉiujn aferojn, kiuj kaŭzas falpuŝiĝon kaj tiujn, kiuj faras maljustecon, kaj ĵetos ilin en la fornon de fajro. Tie estos plorado kaj grincado de dentoj. Tiam la justuloj brilos kiel la suno en la Regno de sia Patro. Kiu havas orelojn por aŭdi, tiu aŭdu.
+
+"Denove, la Regno de la Ĉielo similas al trezoro kaŝita en kampo, kiun viro trovis kaj kaŝis. Pro sia ĝojo, li iras kaj vendas ĉion, kion li havas, kaj aĉetas tiun kampon.
+
+"Denove, la Regno de la Ĉielo similas al viro, kiu estas komercisto serĉanta bonkvalitajn perlojn, kiu, havinte trovitan unu perlon de granda prezo, iris kaj vendis ĉion, kion li havis, kaj aĉetis ĝin.
+
+"Denove, la Regno de la Ĉielo similas al reto, kiu estis ĵetita en la maron kaj kolektis iujn fiŝojn de ĉiu speco, kiun, kiam ĝi estis plenigita, fiŝkaptistoj tiris supren sur la plaĝon. Ili sidiĝis kaj kolektis la bonajn en ujojn, sed la malbonajn ili ĵetis for. Tiel estos en la fino de la mondo. La anĝeloj venos kaj apartigos la malpiulojn inter la justuloj, kaj ĵetos ilin en la fornon de fajro. Tie estos plorado kaj grincado de dentoj." Jesuo diris al ili, "Ĉu vi komprenis ĉiujn ĉi tiujn aferojn?"
+
+Ili respondis al li, "Jes, Sinjoro."
+
+Li diris al ili, "Tial ĉiu skribisto, kiu estas disĉiplo en la Regno de la Ĉielo, estas kiel homo, kiu estas dommastro, kiu elportas el sia trezoro novajn kaj malnovajn aferojn."
+
+Kiam Jesuo finis ĉi tiujn parabolojn, li foriris de tie. Veninte en sian propran landon, li instruis ilin en ilia sinagogo, tiel ke ili estis miregigitaj kaj diris, "De kie ĉi tiu homo havas ĉi tiun saĝon kaj ĉi tiujn potencajn farojn? Ĉu ĉi tiu ne estas la filo de la ĉarpentisto? Ĉu lia patrino ne estas nomata Maria, kaj liaj fratoj Jakobo, Joses, Simon, kaj Judas? Ĉu ĉiuj liaj fratinoj ne estas kun ni? De kie do ĉi tiu homo havas ĉiujn ĉi tiujn aferojn?" Ili estis skandaligitaj pro li.
+
+Sed Jesuo diris al ili, "Profeto ne estas sen honoro, escepte en sia propra lando kaj en sia propra domo." Li ne faris multajn potencajn farojn tie pro ilia malkredo.
