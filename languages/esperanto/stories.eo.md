@@ -83,9 +83,75 @@ Dum sia vojaĝo, Lily lernis pri la vejnoj kiuj transportas sangon tra ŝia korp
 Kiam la aventuro de Lily finiĝis, ŝi sentis novan aprezon por sia korpo. Ŝi promesis bone prizorgi ĝin, sciante, ke ĝi estas la sola kiun ŝi havas. Kaj dum ŝi endormiĝis tiun nokton, ŝi sonĝis pri la tago kiam ŝi fariĝus kuracistino, uzante sian scion por helpi aliajn kompreni kaj aprezi la miraklon kiu estas la homa korpo.
 
 ## Festoj
+
+En la koro de vigla urbeto, la kalendaro estis markita per speciala dato kiu kunigis la komunumon—tago dediĉita al festado. Ĉi tio ne estis nur ia ordinara tago; ĝi estis tago kiam la stratoj vivis kun la ĝoja sonoj de ridoj, muziko, kaj la tintado de glasoj. Ĝi estis la jara Festivalo de Festadoj, tago kie ĉiu speco de festado estis honorata, de naskiĝtagoj ĝis geedziĝoj, kaj ĉio intere.
+
+Kiam la tagiĝo disrompiĝis, la urboplaco transformiĝis en viglan spektaklon de koloroj. Balonoj flugis milde en la aero, rubandoj kaj girlandoj ornamis ĉiun angulon, kaj granda parado lanĉis la festadojn. La parado estis procesio de ĝojo, prezentante kostumojn de diversaj festadoj tra la mondo—Paskaj kunikloj dancis flanke de Halovenaj fantomoj, novedzinoj ĵetis bukedojn al amasoj, kaj naskiĝtagaj ĉapeloj punktis la scenon.
+
+Sekvante la paradon, la urboplaco fariĝis centro de aktiveco. Ĉiu angulo estis dediĉita al malsama tipo de festado. Unu angulo estis drapirita en blanko, kun arko de floroj sub kiu paroj povis renovigi siajn promesojn, festante datrevenojn kaj amon kiu eltenis la teston de tempo. Alia angulo estis agordita kiel giganta naskiĝtaga festo, komplete kun masiva kuko kaj ludoj por infanoj de ĉiuj aĝoj por ĝui. La spirito de Kristnasko estis viva en alia angulo, kie bele ornamita arbo staris, kaj donacoj estis interŝanĝitaj en la spirito de donado kaj varmeco.
+
+Kiam la tago transiris al vespero, la fokuso ŝanĝiĝis al granda bankedo sub la steloj. Tabloj estis ŝarĝitaj per pladoj de diversaj ferioj—Danktaga turko sidis apud Paskaj ovoj, kaj Kristnaska pudingo estis servita flanke de tranĉoj de naskiĝtaga kuko. La aero pleniĝis per la aromo de bongusta manĝaĵo, kaj ĉiu trovis ion kiu memorigis ilin pri siaj plej ŝatataj festadoj.
+
+La kulmino de la vespero estis la danctabulo, kie muziko de diversaj festivaloj ludis, invitantaj ĉiun aliĝi. Maskobalo malkaŝiĝis, kun gastoj portantaj maskojn kaj elegantajn robojn, turniĝantaj en danco de mistero kaj eleganco. Rido kaj ĝojo eksonis tra la nokto, dum malnovaj amikoj rememoris kaj novaj amikecoj estis forĝitaj.
+
+Kiam la nokto alproksimiĝis al sia fino, la ĉielo lumis per spektakla montro de fajraĵoj, ĉiu kolora eksplodo festante la diversecon kaj ĝojon de la vivoj multaj mejloŝtonoj. De la ekscito de naskiĝtagoj kaj la varmeco de ferioj ĝis la amo festata en geedziĝoj kaj datrevenoj, la Festivalo de Festadoj estis atesto al la beleco de kunveni por honori la momentojn kiuj formigas niajn vivojn.
+
+Kiam la lasta fajraĵo fadis en la nokton, la urbanoj iris hejmen, koroj plenaj de feliĉo kaj memoroj kiuj daŭros dumvive. La Festivalo de Festadoj ne estis nur tago en la kalendaro; ĝi estis memorigilo pri la ĝojo kiu venas de festi la specialajn momentojn de la vivo, kune, kiel komunumo.
+
 ## Horloĝo
+
+Iam matene brila kaj klara, en malgranda urbo enŝovita inter ruliĝantaj montetoj, vivis juna knabino nomata Lily. Ŝi estis konata tra la tuta urbo pro sia akurateco, neniam malfrua al lernejo, rendevuoj, aŭ kunvenoj. Tiu ĉi mateno, kiel ĉiu alia, Lily vekiĝis al la mola ĉirpado de birdoj je la tagiĝo, la ĉielo pentrita en nuancoj de rozo kaj oranĝo. Ŝi etendiĝis kaj rigardis sian vekhorloĝon, kiu montris 6:30 AM. "Perfekta tempigo," ŝi pensis, dum ŝi saltis el la lito por komenci sian tagon.
+
+Post rapida matenmanĝo, Lily denove kontroli la horloĝon. Nun estis 7:15 AM, "kvaronon post la sepa," ŝi notis. Ŝi havis abundon da tempo antaŭ ol la lernejo komenciĝis je 8:45 AM. Lily ĉiam ŝatis alveni frue, ĉirkaŭ 8:10 AM, por helpi sian instruiston prepari por la tago. Tiu ĉi matena rutino estis ŝia plej ŝatata parto de la tago, kvietan momenton antaŭ ol la movado kaj bruo komenciĝus.
+
+Kiam la mateno turniĝis en posttagmezon, Lily diligente ĉeestis siajn kursojn, observante la horloĝajn montrilojn marŝi de unu horo al la sekva. Je tagmezo, ŝi kunvenis kun siaj amikoj por lunĉo, ĝuante la meztagan paŭzon sub la brila suno. La posttagmezo rapide pasis, kun lecionoj daŭrantaj ĝis la fina sonorilo sonis je 3:00 PM.
+
+Lily decidis viziti sian avinon post la lernejo, mallonga promenado de ŝia domo. "Mi estos tie ĉirkaŭ 3:30 PM, duonon post la tria," ŝi diris al sia avino per telefono. Ŝia avino, ĉiam ravita de la vizitoj de Lily, pretigis iujn manĝetojn por ilia posttagmeza teo. Ili pasigis agrablan horon kune, babilante kaj ridante ĝis estis preskaŭ 4:45 PM, aŭ "kvaronon al la kvina," kiel Lily rimarkis.
+
+Komprenante ke malfruiĝas, Lily adiaŭis sian avinon kaj faris sian vojon hejmen, la ĉielo komencante turniĝi al mola nuanco de krepusko. Kiam ŝi alvenis hejmen, estis 5:15 PM, "kvaronon post la kvina." Lily pasigis la reston de sia vespero farante hejmtaskojn kaj helpante siajn gepatrojn kun la preparoj por vespermanĝo.
+
+Vespermanĝo estis servita precize je 7:00 PM, kaj la familio kunvenis ĉirkaŭ la tablo por dividi rakontojn de sia tago. Post helpado purigi, Lily retiriĝis al sia ĉambro por fini sian hejmtaskon. Je 9:00 PM, "naŭ horo," ŝi estis preta por iom da ripozo, legante sian plej ŝatatan libron ĝis ŝiaj palpebroj fariĝis pezaj.
+
+Antaŭ longe, estis 10:30 PM, "duonon post la deka," kaj tempo por Lily pretigi sin por lito. Ŝi agordis sian vekhorloĝon por la sekva mateno, certigante alian fruan komencan. Dum ŝi ekdormiĝis, ŝi sentis sin kontenta sciante, ke ŝi plej eluzis sian tagon, de la frua matena lumo de la tagiĝo ĝis la kvietan trankvilecon de la nokto.
+
+La rakonto de Lily estas atesto pri la graveco de scipovi diri la tempon, kapablo kiu gvidas nin tra niaj ĉiutagaj rutinoj kaj helpas nin ĉerpi ĉiun momenton, ĉu ĝi estas la ora horo de la sunleviĝo aŭ la trankvila silento de la nokto.
+
 ## Vestoj
+
+En la malgranda urbo Clothsville, ĉiu tago estis festo de koloroj, teksturoj kaj stiloj. La homoj de Clothsville fieregis pri sia vestaĵo, kredante, ke tio, kion ili portis, estis etendo de ilia personeco. Inter ili estis juna knabino nomata Lily, kiu havis profundan amon por ĉiuj tipoj de vestaĵoj, de la plej mola silkaj roboj ĝis la plej komfortaj lanaj ĉemizoj.
+
+Unu malvarma mateno, Lily decidis entrepreni modan aventuron. Ŝi malfermis sian vestogardejon, kiu estis trezorejo de vestaĵoj, ĉiu kun sia propra historio. Hodiaŭ, ŝi volis kombini kaj kongrui, do ŝi komencis per paro da džinsoj, konataj pro ilia daŭrigebleco kaj komforto. Por batali kontraŭ la malvarmo, ŝi elektis longmanikan T-ĉemizon en vigla koloro, supermetante ĝin per lana ĵerzo, kiu varme ĉirkaŭbrakis ŝin.
+
+Dum ŝi rigardis eksteren, rimarkante la prujnon sur la tero, Lily decidis, ke botoj estis la vojo. Ŝi elektis siajn plej ŝatatajn maleolajn botojn, kiuj ne nur estis praktikaj por la vetero, sed ankaŭ aldonis randon al ŝia vestaro. Antaŭ ol eliri, ŝi memoris la gravecon de akcesoraĵoj. Ŝalo, paro da gantoj, kaj bareto kompletigis ŝian ensemblon, ĉiu peco aldonante tavolon de varmo kaj stilo.
+
+La unua haltejo de Lily estis la loka kafejo, kie ŝia amiko Max atendis. Max, ĉiam la minimalist, portis klasikan kombinaĵon de blanka poloĉemizo kaj beĝaj pantalonoj, parigitaj kun simplaj sportŝuoj. Lia aspekto estis senpene ŝika, pruvante ke foje malpli efektive estas pli.
+
+Dum ili trinkis sian kafon, ili parolis pri la venonta Vesta Festivalo, evento, kiu festis la diversecon de vestaj stiloj en Clothsville. Lily estis ekscitita montri sian kolekton de roboj, ĉiu reprezentante malsaman kulturon kaj tradicion. Max, aliflanke, antaŭĝojis pri la ekspozicio de kostumoj, kie la evoluo de la kostumo de ĝia tradicia formo ĝis modernaj interpretoj estus montrita.
+
+Ilia konversacio estis interrompita de subita pluvego. Lily kaj Max rapide surmetis siajn pluvmantelojn, kun Lily elektante vive koloran, kiu elstaris kontraŭ la griza ĉielo, dum Max elektis pli subpremitan, akvorezistan jakon. Ili ridis dum ili kuris tra la pluvo, iliaj vestaĵoj atestante ilian preparitecon por iu ajn vetero.
+
+Kiam la tago fariĝis vespero, Lily kaj Max ĉeestis modan spektaklon, la kulminon de la Vesta Festivalo. Modeloj marŝis laŭ la modirejo, montrante ĉion de elegantaj vesperaj roboj ĝis hazardaj kapuĉvestoj kaj ŝvitĉemizoj, ĉiu vestaĵo rakontante unikan historion. Lily estis aparte impresita de mirinda silka robo, kiu flue moviĝis kun ĉiu paŝo, dum Max admiris tajloritan kostumon, kiu redefinis modernan elegantecon.
+
+La moda spektaklo finiĝis per ekspozicio de tradiciaj vestaĵoj el la tuta mondo, memorigante ĉiujn pri la beleco en diverseco. Lily kaj Max forlasis la spektaklon inspiritaj, iliaj koroj plenaj de novaj ideoj por siaj propraj vestogardejoj.
+
+Tiu nokto, dum Lily rependigis siajn vestaĵojn en ŝian vestogardejon, ŝi sentis sin dankema pro la spertoj de la tago. Ŝi ekkomprenis, ke vestaĵoj estis pli ol nur ŝtofo kaj fadeno; ili estis esprimoj de identeco, kulturo, kaj kreivo. En Clothsville, ĉiu tago estis ŝanco esplori la senfinajn eblecojn de tio, kion oni povus porti, kaj Lily ne povis atendi sian sekvan modan aventuron.
+
 ## Koloroj
+
+En pitoreska eta urbo pentrita per la nuancoj de historio kaj moderneco, vivis artistino nomata Ella. Ella ne estis ordinara artistino; ŝi estis konanto de koloroj. Ŝia malgranda studio estis kalejdoskopo, plenigita per kanvasoj kiuj flustris rakontojn en vermiljono, flustris sekretojn en lazuro, kaj kantis baladojn en nuancoj de smeraldo kaj safiro.
+
+Unu sunplena mateno, Ella decidis entrepreni vojaĝon, vojaĝon por pentri rakonton kiu enkapsuligis ĉiun koloron konatan kaj nekonatan al homaro. Ŝi komencis per la serenaj blankoj, pentrante kanvason kiu aspektis kvazaŭ ĝi estis kisita de la neĝokovritaj pintoj de Himalajo. Poste ŝi moviĝis al la pasiaj ruĝoj, kreante arton kiu ŝajnis pulsadi kun la korbatoj de amantoj reunuiĝintaj post eonoj.
+
+Dum tagoj turniĝis en noktojn kaj noktoj reen en tagojn, Ella pentris kun fervoro. Ŝi pentris la flavaĵojn kun la brileco de la suno, la verdaĵojn kun la freŝeco de la matena roso sur folioj, kaj la bluaĵojn kun la profundo de la oceano. Ŝi ne haltis ĉe la primaraj aŭ la sekundaraj; ŝi penetris en la tertiarajn, pentrante kun tealoj kaj koraloj, kun lavendoj kaj olivoj, ĉiu koloro rakontante sian propran unikan fabelon.
+
+La vojaĝo de Ella tra koloroj kondukis ŝin al la plej profundaj anguloj de sia imago. Ŝi pentris la varmon de ambrkoloro, la trankvilon de akvokoloro, la riĉecon de burgundkoloro, kaj la misteron de karbokoloro. Ŝi esploris la vivecon de fuksikoloro, la elegantecon de ivorkoloro, la serenon de lavendkoloro, kaj la reĝecon de maristbluo.
+
+Kun ĉiu peniko, Ella ekkomprenis, ke koloroj ne estis nur vidaj elementoj. Ili estis emocioj, ili estis esprimoj, kaj ili estis vivo mem. Ŝi pentris la molecon de persikkoloro, la ĝojecon de citronflava, kaj la nostalgion de sepiokoloro. Ŝi eksperimentis kun nuancoj kiujn ŝi mem kreis, kiel arktikbluo, koloro kiu sentiĝis kiel la unua spiro de vintro, kaj pistakverdo, nuanco kiu revokis memorojn pri dolĉaj delikataĵoj.
+
+La majstraĵo de Ella estis atesto pri la beleco de diverseco kaj la unueco de la universo. Ĝi estis miksaĵo de pli ol kvindek koloroj, ĉiu kun sia propra rakonto, tamen kune, ili rakontis la plej belan rakonton de ĉiuj - la rakonton de la vivo.
+
+Kaj tiel, en ŝia pitoreska eta urbo, Ella instruis ĉiujn, ke la mondo ne estas nur nigra kaj blanka. Ĝi estas spektro, spektro de koloroj, ĉiu grava, ĉiu bela. Ŝia pentraĵo fariĝis faro de espero, memorigilo, ke ne gravas kiel malsamaj ni ŝajnas, ni ĉiuj estas parto de ĉi tiu bela, kolorplena tapiŝo de la vivo.
+
 ## Amindumado
 ## Direktoj
 ## Veturo
