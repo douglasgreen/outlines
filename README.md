@@ -56,6 +56,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Operating Systems
 * [Microsoft Windows](computers/operating_systems/windows.en.md)
+* [Operating Systems](computers/operating_systems/operating_systems.en.md)
 * [Virtualization](computers/operating_systems/virtualization.en.md)
 
 #### Linux
