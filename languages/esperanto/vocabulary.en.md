@@ -3880,6 +3880,7 @@
 * tabelo - table, chart
 * tabulo - board, panel
 * taga - daily
+* tagmanĝo - lunch
 * tago - day
 * taksi - to estimate
 * takso - assessment, estimation
@@ -4163,6 +4164,7 @@
 * versionado - versioning
 * verso - verse
 * verŝajne - probably
+* vespermanĝo - supper
 * vespero - evening
 * vestaĵo - clothing
 * vesti - to dress, to clothe
