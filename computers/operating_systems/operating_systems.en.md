@@ -424,11 +424,11 @@ Embedded systems often operate under significant design constraints, including:
 
 ### Case Studies
 
-### RTOS in IoT Devices
+#### RTOS in IoT Devices
 
 In the realm of Internet of Things (IoT) devices, such as smart sensors and wearable technology, Real-Time Operating Systems (RTOS) play a critical role. These devices often require real-time data processing and energy efficiency to perform tasks like environmental monitoring, health tracking, and home automation. For example, FreeRTOS is widely used in IoT devices due to its compact size, modularity, and support for real-time operations, enabling devices to perform timely data processing and communication with minimal energy consumption.
 
-### Automotive Systems
+#### Automotive Systems
 
 Embedded OS are pivotal in automotive systems, where they manage a wide array of functions from basic engine control units (ECUs) to advanced driver-assistance systems (ADAS) and infotainment systems. These systems demand real-time performance, high reliability, and compliance with strict safety standards. Automotive Grade Linux (AGL) and AUTOSAR are examples of platforms used in the automotive industry, designed to meet the real-time and safety requirements of modern vehicles, facilitating advanced features like navigation, collision detection, and multimedia entertainment.
 
