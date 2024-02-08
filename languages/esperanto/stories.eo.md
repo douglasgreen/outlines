@@ -44,7 +44,7 @@ Dum la suno subiris malantaŭ la montetoj, ĵetante oran lumon super la urbon, l
 
 En la vasta kontinento de Azio, ekzistas riĉa tapiŝo de landoj, popoloj kaj lingvoj, kiuj teksas rakonton pri diverseco kaj kultura heredaĵo. Nia rakonto komenciĝas kun Mei, juna knabino el Ĉinio, kiu ekvojaĝas por esplori la lingvojn kaj popolojn de Azio.
 
-La unua halto de Mei estas Japanio, kie ŝi renkontas Hiro, lokan studenton, kiu instruas al ŝi kelkajn bazajn frazojn en la japana. Ekscitita pri ŝia unua leciono, Mei dividis, ke ŝi parolas ĉine, kaj ili miras pri kiel malsamaj kaj samtempe similaj sonas iliaj lingvoj.
+La unua halto de Mei estas Japanio, kie ŝi renkontas Hiro, lokan studenton, kiu instruas al ŝi kelkajn bazajn frazojn en la japana. Ekscitita pri ŝia unua leciono, Mei dividis, ke ŝi parolas Ĉinan, kaj ili miras pri kiel malsamaj kaj samtempe similaj sonas iliaj lingvoj.
 
 Poste, Mei vojaĝas al Barato, lando de imensa lingva diverseco. Tie, ŝi renkontas Aarav, kiu klarigas, ke Barato hejmas centojn da lingvoj, sed hindia kaj angla estas vaste parolataj. Mei provas lerni kelkajn hindiajn vortojn, trovante la sonojn kaj skribon fascinaj.
 
@@ -70,9 +70,9 @@ Unu sunplena mateno, Lily decidis entrepreni aventuron tra la homa korpo. Ŝia v
 
 Sekve, Lily pluiris esplori la orelojn, konsistantajn el la ekstera, meza, kaj interna sekcioj, laborantajn kune por prilabori sonojn. Ŝi ridetis kiam ŝi tuŝis sian nazon, memorigante kiel ĝi permesas al ŝi flari aĵojn kaj spiri. Poste, ŝi pasigis siajn fingrojn super sia buŝo, sentante siajn dentojn uzitajn por mordi kaj maĉi, kaj sian langon, kiu gustumas aĵojn kaj helpas ŝin paroli.
 
-Dum ŝi vojaĝis malsupren de la kapo, ŝi atingis la kolon, kiu konektas la kapon al la ŝultroj kaj la resto de la korpo. Lily tiam aventurenis en la mondon de la brakoj kaj manoj. Ŝi fleksis siajn fingrojn kaj manplatojn, movis siajn pojnojn, kaj klinis siajn kubutojn. Ŝi levis siajn brakojn supren kaj malsupren, sentante la forton en siaj ŝultroj.
+Dum ŝi vojaĝis malsupren de la kapo, ŝi atingis la kolon, kiu konektas la kapon al la ŝultroj kaj la resto de la korpo. Lily tiam aventuregis en la mondon de la brakoj kaj manoj. Ŝi fleksis siajn fingrojn kaj manplatojn, movis siajn pojnojn, kaj klinis siajn kubutojn. Ŝi levis siajn brakojn supren kaj malsupren, sentante la forton en siaj ŝultroj.
 
-Ŝia scivolemo poste gvidis ŝin al la koro de la korpo - la brusto, kie ŝia koro pumpas sangon ĉirkaŭ la korpo, provizante oksigenon kaj nutraĵojn. Ŝi ĉirkaŭbrakis sian torson, sentante la protekton ofertitan de ŝiaj ripoj. Ŝi prenis profundan spiron, plenigante siajn pulmojn per freŝa aero, kiu laboras kun la spiratoria sistemo por forigi malnovan aeron.
+Ŝia scivolemo poste gvidis ŝin al la koro de la korpo - la brusto, kie ŝia koro pumpas sangon ĉirkaŭ la korpo, provizante oksigenon kaj nutraĵojn. Ŝi ĉirkaŭbrakis sian torson, sentante la protekton ofertitan de ŝiaj ripoj. Ŝi prenis profundan spiron, plenigante siajn pulmojn per freŝa aero, kiu laboras kun la spira sistemo por forigi malnovan aeron.
 
 La aventuro de Lily daŭris al la stomako, kie la digesta sistemo komencas sian laboron. Ŝi pensis pri kiel ŝia stomako prilaborus la matenmanĝon kiun ŝi manĝis tiun matenon. Ŝi esploris plu por trovi la hepaton, kiu purigas la sangon kaj helpas digesti grason, kaj la renojn, filtrantajn malpuraĵojn el la sango.
 
