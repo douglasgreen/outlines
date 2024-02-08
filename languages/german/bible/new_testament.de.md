@@ -303,3 +303,53 @@ Dann fing er an, die Städte zu schelten, in denen die meisten seiner Wunderwerk
 Zu der Zeit antwortete Jesus und sprach: „Ich preise dich, Vater, Herr des Himmels und der Erde, dass du dies den Weisen und Klugen verborgen und es Unmündigen offenbart hast. Ja, Vater, denn so war es wohlgefällig vor dir. Alles ist mir von meinem Vater übergeben worden. Und niemand erkennt den Sohn als nur der Vater, noch erkennt jemand den Vater, als nur der Sohn und wem der Sohn es offenbaren will.
 
 Kommt her zu mir, alle, die ihr mühselig und beladen seid, und ich will euch Ruhe geben. Nehmt mein Joch auf euch und lernt von mir; denn ich bin sanftmütig und von Herzen demütig; und ihr werdet Ruhe finden für eure Seelen. Denn mein Joch ist sanft, und meine Last ist leicht.“
+
+### Kapitel 12
+
+Zu der Zeit ging Jesus am Sabbat durch die Kornfelder, und seine Jünger wurden hungrig und begannen, Ähren zu pflücken und zu essen. Als aber die Pharisäer das sahen, sagten sie zu ihm: „Siehe, deine Jünger tun, was am Sabbat nicht erlaubt ist.“
+
+Er aber sagte zu ihnen: „Habt ihr nicht gelesen, was David tat, als er und die bei ihm waren, hungrig waren: wie er in das Haus Gottes ging und die Schaubrote aß, die weder er noch die bei ihm essen durften, sondern nur die Priester? Oder habt ihr nicht im Gesetz gelesen, dass am Sabbat die Priester im Tempel den Sabbat entweihen und dennoch ohne Schuld sind? Ich sage euch aber: Hier ist einer, der größer ist als der Tempel. Wenn ihr aber wüsstet, was das heißt: ‚Ich will Barmherzigkeit und nicht Opfer‘, hättet ihr die Schuldlosen nicht verurteilt. Denn der Menschensohn ist Herr über den Sabbat.“
+
+Er verließ diesen Ort und ging in ihre Synagoge. Und siehe, da war ein Mann mit einer verdorrten Hand. Und sie fragten ihn: „Ist es erlaubt, am Sabbat zu heilen?“, um ihn anzuklagen.
+
+Er aber sagte zu ihnen: „Welcher Mensch unter euch, der ein Schaf hat und wenn dieses in eine Grube fällt am Sabbat, wird es nicht ergreifen und herausziehen? Wie viel mehr ist ein Mensch wert als ein Schaf! Darum ist es erlaubt, am Sabbat Gutes zu tun.“ Dann sagte er zu dem Mann: „Strecke deine Hand aus!“ Und er streckte sie aus; und sie wurde wiederhergestellt, gesund wie die andere. Die Pharisäer aber gingen hinaus und hielten Rat gegen ihn, wie sie ihn umbringen könnten.
+
+Als Jesus das bemerkte, zog er sich von dort zurück. Viele Menschen folgten ihm, und er heilte sie alle und gebot ihnen, ihn nicht bekannt zu machen, damit erfüllt würde, was durch den Propheten Jesaja gesagt worden war:
+
+"Siehe, mein Knecht, den ich erwählt habe,
+
+mein Geliebter, an dem meine Seele Wohlgefallen gefunden hat.
+
+Ich werde meinen Geist auf ihn legen,
+
+und er wird den Nationen das Recht verkünden.
+
+Er wird nicht streiten noch laut schreien,
+
+und niemand wird seine Stimme auf den Straßen hören.
+
+Das geknickte Rohr wird er nicht zerbrechen,
+
+und den glimmenden Docht wird er nicht auslöschen,
+
+bis er das Recht zum Sieg geführt hat.
+
+Und auf seinen Namen werden die Nationen ihre Hoffnung setzen."
+
+Da wurde einer zu ihm gebracht, der von einem Dämon besessen war, blind und stumm; und er heilte ihn, sodass der Blinde und Stumme sowohl reden als auch sehen konnte. Alle Volksmengen waren erstaunt und sagten: „Ist dieser etwa der Sohn Davids?“ Als aber die Pharisäer es hörten, sagten sie: „Dieser treibt die Dämonen nicht aus außer durch Beelzebul, den Fürsten der Dämonen.“
+
+Da er ihre Gedanken kannte, sagte Jesus zu ihnen: „Jedes Reich, das in sich selbst gespalten ist, wird verwüstet, und jede Stadt oder jedes Haus, das in sich selbst gespalten ist, wird nicht bestehen. Wenn der Satan den Satan austreibt, ist er mit sich selbst entzweit. Wie kann dann sein Reich bestehen? Und wenn ich durch Beelzebul Dämonen austreibe, durch wen treiben eure Söhne sie aus? Darum werden sie eure Richter sein. Wenn ich aber durch den Geist Gottes Dämonen austreibe, dann ist das Reich Gottes zu euch gekommen. Oder wie kann jemand in das Haus des Starken eindringen und seine Habe rauben, wenn er nicht zuerst den Starken bindet? Und dann wird er sein Haus berauben.
+
+Wer nicht mit mir ist, der ist gegen mich, und wer nicht mit mir sammelt, der zerstreut. Darum sage ich euch: Jede Sünde und Lästerung wird den Menschen vergeben werden, aber die Lästerung gegen den Geist wird den Menschen nicht vergeben werden. Und wer ein Wort gegen den Menschensohn sagt, dem wird vergeben werden; wer aber gegen den Heiligen Geist redet, dem wird nicht vergeben werden, weder in diesem Zeitalter noch in dem zukünftigen.“
+
+Macht den Baum gut und seine Frucht gut, oder macht den Baum schlecht und seine Frucht schlecht; denn an seiner Frucht erkennt man den Baum. Ihr Otterngezücht, wie könnt ihr, die ihr böse seid, Gutes reden? Denn wovon das Herz voll ist, davon redet der Mund. Der gute Mensch bringt aus dem guten Schatz seines Herzens Gutes hervor, und der böse Mensch bringt aus dem bösen Schatz Böses hervor. Ich sage euch: Von jedem unnützen Wort, das die Menschen reden, werden sie am Tag des Gerichts Rechenschaft geben müssen. Denn durch deine Worte wirst du gerechtfertigt werden, und durch deine Worte wirst du verurteilt werden.“
+
+Da antworteten einige der Schriftgelehrten und Pharisäer: „Meister, wir möchten ein Zeichen von dir sehen.“
+
+Er aber antwortete ihnen: „Ein böses und ehebrecherisches Geschlecht sucht nach einem Zeichen, aber es wird ihm kein anderes Zeichen gegeben werden als das Zeichen des Propheten Jona. Denn wie Jona drei Tage und drei Nächte im Bauch des großen Fisches war, so wird der Menschensohn drei Tage und drei Nächte im Herzen der Erde sein. Die Männer von Ninive werden beim Gericht mit diesem Geschlecht auftreten und es verurteilen; denn sie taten Buße bei der Predigt Jonas; und siehe, hier ist mehr als Jona. Die Königin des Südens wird beim Gericht mit diesem Geschlecht auftreten und es verurteilen; denn sie kam vom Ende der Erde, um die Weisheit Salomos zu hören; und siehe, hier ist mehr als Salomo.
+
+Wenn der unreine Geist von einem Menschen ausgefahren ist, durchwandert er wasserlose Gegenden und sucht Ruhe und findet sie nicht. Dann sagt er: ‚Ich will in mein Haus zurückkehren, aus dem ich ausgegangen bin‘; und wenn er kommt, findet er es leer, gefegt und geschmückt. Dann geht er und nimmt sieben andere Geister mit, die böser sind als er selbst, und sie ziehen ein und wohnen dort; und das letzte wird für diesen Menschen schlimmer als das erste. So wird es auch diesem bösen Geschlecht ergehen.“
+
+Während er noch zu den Menschenmengen sprach, siehe, da standen seine Mutter und seine Brüder draußen und suchten mit ihm zu sprechen. Jemand sagte zu ihm: „Siehe, deine Mutter und deine Brüder stehen draußen und suchen mit dir zu sprechen.“
+
+Er aber antwortete dem, der ihm das sagte: „Wer ist meine Mutter, und wer sind meine Brüder?“ Und er streckte seine Hand aus über seine Jünger und sagte: „Siehe, meine Mutter und meine Brüder! Denn wer den Willen meines Vaters im Himmel tut, der ist mein Bruder und meine Schwester und meine Mutter.“

@@ -306,3 +306,44 @@ Alors il se mit à reprocher aux villes dans lesquelles la plupart de ses miracl
 En ce temps-là, Jésus prit la parole et dit : « Je te loue, Père, Seigneur du ciel et de la terre, de ce que tu as caché ces choses aux sages et aux intelligents, et de ce que tu les as révélées aux tout-petits. Oui, Père, car tel a été ton bon plaisir. Tout m'a été remis par mon Père. Nul ne connaît le Fils, si ce n'est le Père, et nul ne connaît le Père, si ce n'est le Fils et celui à qui le Fils veut le révéler.
 
 Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. Prenez mon joug sur vous et recevez mes instructions, car je suis doux et humble de cœur ; et vous trouverez du repos pour vos âmes. Car mon joug est aisé, et mon fardeau léger. »
+
+### Chapitre 12
+
+En ce temps-là, Jésus traversait des champs de blé le jour du Sabbat. Ses disciples avaient faim et commencèrent à arracher des épis et à manger. Mais les pharisiens, voyant cela, lui dirent : « Regarde, tes disciples font ce qu'il n'est pas permis de faire le jour du Sabbat. »
+
+Il leur dit : « N'avez-vous pas lu ce que fit David lorsqu'il eut faim, lui et ceux qui étaient avec lui : comment il entra dans la maison de Dieu et mangea les pains de proposition, qu'il n'était pas permis de manger, ni à lui ni à ceux qui étaient avec lui, mais seulement aux prêtres ? Ou n'avez-vous pas lu dans la loi que, le jour du Sabbat, les prêtres dans le temple profanent le Sabbat et sont pourtant sans faute ? Or, je vous le dis, ici il y a plus grand que le temple. Si vous aviez compris ce que signifie : 'Je veux la miséricorde, et non le sacrifice', vous n'auriez pas condamné des innocents. Car le Fils de l'homme est maître du Sabbat. »
+
+Il partit de là et entra dans leur synagogue. Et voici, il y avait là un homme dont la main était desséchée. Ils lui demandèrent : « Est-il permis de guérir le jour du Sabbat ? » ceci afin de pouvoir l'accuser.
+
+Il leur répondit : « Lequel d'entre vous, s'il n'a qu'une brebis et qu'elle tombe dans une fosse le jour du Sabbat, ne la saisira pour la sortir ? Combien un homme vaut-il plus qu'une brebis ! Il est donc permis de faire le bien le jour du Sabbat. » Puis il dit à l'homme : « Étends ta main. » Il l'étendit, et elle redevint saine, comme l'autre. Mais les pharisiens sortirent et se concertèrent sur les moyens de le faire périr.
+
+Jésus, le sachant, se retira de là. De grandes foules le suivirent, et il les guérit toutes, et leur recommanda de ne pas le faire connaître, afin que s'accomplisse ce qui avait été annoncé par le prophète Ésaïe, disant :
+
+« Voici mon serviteur que j'ai choisi,
+Mon bien-aimé en qui mon âme prend plaisir.
+Je mettrai mon Esprit sur lui,
+Et il annoncera le droit aux nations.
+Il ne contestera pas, il ne criera pas,
+Et personne n'entendra sa voix dans les rues.
+Il ne brisera pas le roseau froissé,
+Et il n'éteindra pas la mèche qui fume,
+Jusqu'à ce qu'il ait fait triompher la justice.
+Et les nations espéreront en son nom. »
+
+Alors on lui amena un possédé, aveugle et muet ; et il le guérit, de sorte que l'aveugle et muet parlait et voyait. Toutes les foules étaient stupéfaites et disaient : « N'est-ce pas là le fils de David ? » Mais les pharisiens entendant cela, dirent : « Cet homme ne chasse les démons que par Béelzébul, le prince des démons. »
+
+Connaissant leurs pensées, Jésus leur dit : « Tout royaume divisé contre lui-même est dévasté, et toute ville ou maison divisée contre elle-même ne tiendra pas. Si Satan chasse Satan, il est divisé contre lui-même ; comment donc son royaume tiendra-t-il ? Si c'est par Béelzébul que je chasse les démons, par qui vos fils les chassent-ils ? C'est pourquoi ils seront vos juges. Mais si c'est par l'Esprit de Dieu que je chasse les démons, alors le royaume de Dieu est venu sur vous. Ou comment quelqu'un peut-il entrer dans la maison de l'homme fort et piller ses biens, s'il n'a d'abord lié l'homme fort ? Alors il pillera sa maison.
+
+Celui qui n'est pas avec moi est contre moi, et celui qui n'assemble pas avec moi disperse. C'est pourquoi je vous dis : Tout péché et blasphème sera pardonné aux hommes, mais le blasphème contre l'Esprit ne sera pas pardonné. Quiconque parlera contre le Fils de l'homme, cela lui sera pardonné ; mais quiconque parlera contre l'Esprit Saint, cela ne lui sera pardonné ni dans ce siècle, ni dans le siècle à venir.
+
+Ou bien rendez l'arbre bon et son fruit bon, ou bien rendez l'arbre mauvais et son fruit mauvais ; car on reconnaît l'arbre à son fruit. Race de vipères, comment pourriez-vous dire de bonnes choses, étant mauvais ? Car c'est de l'abondance du cœur que la bouche parle. L'homme bon tire de bonnes choses de son bon trésor, et l'homme mauvais tire de mauvaises choses de son mauvais trésor. Je vous dis que pour toute parole oiseuse que les hommes auront dite, ils rendront compte au jour du jugement. Car par tes paroles tu seras justifié, et par tes paroles tu seras condamné. »
+
+Alors quelques-uns des scribes et des pharisiens prirent la parole, disant : « Maître, nous voulons voir un signe de ta part. »
+
+Mais il leur répondit : « Une génération mauvaise et adultère demande un signe, mais il ne lui sera donné d'autre signe que celui du prophète Jonas. Car, de même que Jonas fut trois jours et trois nuits dans le ventre d'un grand poisson, ainsi le Fils de l'homme sera trois jours et trois nuits au cœur de la terre. Les hommes de Ninive se lèveront, au jour du jugement, avec cette génération et la condamneront, car ils se sont repentis à la prédication de Jonas ; et voici, il y a ici plus que Jonas. La reine du Midi se lèvera, au jour du jugement, avec cette génération et la condamnera, car elle est venue des extrémités de la terre pour entendre la sagesse de Salomon ; et voici, il y a ici plus que Salomon.
+
+Lorsqu'un esprit impur est sorti d'un homme, il parcourt des lieux arides, cherchant du repos, et n'en trouve pas. Alors il dit : 'Je retournerai dans ma maison d'où je suis sorti' ; et quand il arrive, il la trouve vide, balayée et ornée. Alors il s'en va, et prend avec lui sept autres esprits plus méchants que lui, ils entrent et habitent là. Et le dernier état de cet homme est pire que le premier. Il en sera de même pour cette génération mauvaise. »
+
+Tandis qu'il parlait encore aux foules, voilà que sa mère et ses frères se tenaient dehors, cherchant à lui parler. Quelqu'un lui dit : « Voici, ta mère et tes frères se tiennent dehors, cherchant à te parler. »
+
+Mais il répondit à celui qui le lui disait : « Qui est ma mère, et qui sont mes frères ? » Et, étendant la main vers ses disciples, il dit : « Voici ma mère et mes frères ! Car quiconque fait la volonté de mon Père qui est dans les cieux, celui-là est mon frère, et ma sœur, et ma mère. »
