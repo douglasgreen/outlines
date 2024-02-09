@@ -339,7 +339,7 @@
 * Information Technology Companies
 * Information Technology Industry
 * Information Technology Law
-* Information Theory - in process
+* Information Theory - done
 * Insects
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
