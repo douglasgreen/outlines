@@ -1,533 +1,427 @@
 # Word Groups
 
+Sorted in frequency order descending with limit 100 count.
+
 ## Animals
 
-* ant
-* bear
-* bee
-* bird
-* butterfly
-* cat
-* cow
-* crab
-* crocodile
-* deer
 * dog
-* dolphin
-* duck
-* elephant
 * fish
-* fox
-* frog
-* giraffe
+* bear
+* cat
+* bird
 * horse
-* insect
-* jellyfish
-* kangaroo
-* lion
-* monkey
-* moose
+* fox
 * mouse
-* octopus
-* owl
-* penguin
-* pig
-* rabbit
-* rhinoceros
-* shark
 * sheep
-* snake
-* tiger
-* turtle
-* whale
+* lion
 * wolf
+* tiger
+* cow
+* duck
+* pig
+* monkey
+* snake
+* deer
+* elephant
+* butterfly
+* bee
+* rabbit
+* shark
+* whale
+* insect
+* turtle
+* frog
+* penguin
+* crab
+* owl
+* ant
+* moose
+* dolphin
+* kangaroo
 * zebra
+* crocodile
+* octopus
+* giraffe
 
 ## Arts
 
-* animation
-* architecture
-* art
-* ballet
-* calligraphy
-* choreography
-* collage
-* composition
-* conceptual art
-* dance
-* digital art
-* drawing
-* fashion
-* film
-* fine art
-* fresco
-* graphic art
-* installation art
-* literature
-* mixed media
-* mural
 * music
-* painting
-* performance art
+* art
+* film
+* fashion
+* dance
+* drawing
+* architecture
+* literature
 * photography
-* poetry
-* pottery
-* printmaking
-* sculpture
-* sonata
-* stained glass
-* street art
-* textile art
+* painting
 * theatre
+* composition
+* animation
+* poetry
+* sculpture
 * video games
-* virtuoso
+* ballet
+* fine art
+* pottery
+* mural
 * visual arts
-* woodcut
+* collage
+* choreography
+* street art
+* fresco
+* stained glass
+* calligraphy
 
 ## Asian countries
 
-* Afghanistan
-* Azerbaijan
-* Bangladesh
-* Cambodia
 * China
-* Georgia
 * India
-* Indonesia
-* Iran
-* Iraq
-* Israel
 * Japan
+* Israel
+* Georgia
 * Jordan
-* Kazakhstan
-* Kuwait
-* Kyrgyzstan
-* Laos
-* Lebanon
-* Malaysia
-* Mongolia
-* Myanmar
-* Nepal
-* North Korea
-* Oman
-* Pakistan
-* Philippines
-* Saudi Arabia
-* Singapore
-* South Korea
-* Sri Lanka
-* State of Palestine
-* Syria
-* Tajikistan
-* Thailand
 * Turkey
-* Turkmenistan
-* United Arab Emirates
-* Uzbekistan
 * Vietnam
+* Iraq
+* Thailand
+* Singapore
+* Iran
+* Afghanistan
+* Philippines
+* Syria
+* Pakistan
+* South Korea
+* Indonesia
+* Malaysia
+* Saudi Arabia
+* Lebanon
+* Nepal
+* Cambodia
+* Bangladesh
+* Sri Lanka
+* North Korea
+* Palestine
+* Laos
+* Kuwait
+* United Arab Emirates
 * Yemen
+* Myanmar
+* Kazakhstan
+* Mongolia
+* Azerbaijan
 
 ## Asian cities
 
-* Abu Dhabi
-* Aden
-* Aleppo
-* Almaty
-* Amman
-* Ankara
-* Ashgabat
-* Astana
-* Baghdad
-* Baku
-* Bali
-* Bangkok
-* Batumi
-* Beijing
-* Beirut
-* Bishkek
-* Busan
-* Cebu City
-* Chiang Mai
-* Chittagong
-* Colombo
-* Damascus
-* Dhaka
-* Dubai
-* Dushanbe
-* Erdenet
-* Ganja
-* Gaza
-* George Town
-* Hanoi
-* Ho Chi Minh City
-* Isfahan
-* Islamabad
-* Istanbul
-* Jakarta
-* Jeddah
 * Jerusalem
-* Kabul
-* Kaesong
-* Kandahar
-* Kandy
-* Karachi
-* Kathmandu
-* Khujand
-* Kuala Lumpur
-* Kuwait City
-* Luang Prabang
-* Manila
-* Mosul
-* Mumbai
-* Muscat
-* Naypyidaw
-* New Delhi
-* Osaka
-* Osh
-* Petra
-* Phnom Penh
-* Pokhara
-* Pyongyang
-* Riyadh
-* Salalah
-* Samarkand
-* Sana'a
-* Seoul
-* Shanghai
-* Siem Reap
-* Singapore City
-* Tashkent
-* Tbilisi
-* Tehran
-* Tel Aviv
 * Tokyo
-* Tripoli
-* Turkmenabat
-* Ulaanbaatar
-* Vientiane
-* Yangon
+* Beijing
+* Shanghai
+* Bangkok
+* Dubai
+* Mumbai
+* Manila
+* New Delhi
+* Seoul
+* Istanbul
+* Baghdad
+* Chiang Mai
+* Bali
+* Damascus
+* Gaza
+* Kuala Lumpur
+* Beirut
+* Abu Dhabi
+* Tel Aviv
+* Tehran
+* Jakarta
+* Osaka
+* Kabul
+* Islamabad
+* Hanoi
+* Kathmandu
 
 ## Body
 
-* ankle
-* arm
-* armpit
-* beard
-* breast
-* calf
-* cheek
-* chest
-* chin
-* earlobe
-* elbow
-* eyebrow
-* eyelash
-* eyelid
 * face
-* finger
-* forearm
-* forehead
-* gum
-* heel
-* hip
-* index finger
-* jaw
-* knee
-* knuckle
-* leg
-* lip
+* skin
 * mouth
-* mustache
+* arm
 * neck
-* nose
-* palm
 * shoulder
+* leg
+* finger
+* nose
+* chest
+* hip
+* tongue
+* knee
+* palm
+* breast
 * thumb
 * toe
-* tongue
+* lip
+* heel
 * tooth
+* ankle
 * wrist
 * organ
-* skin
+* jaw
+* cheek
+* elbow
+* chin
+* forehead
+* beard
+* gum
+* calf
+* forearm
+* mustache
+* eyebrow
+* knuckle
+* index finger
 
 ## Celebrations
 
-* anniversary
-* baby shower
-* balloon
-* bash
-* birthday
-* bridal shower
-* cake
-* candle
+* party
 * card
-* carnival
-* celebration
+* gift
+* surprise
+* holiday
 * celebration
 * Christmas
-* confetti
-* decorate
-* Easter
-* feast
 * festival
-* fireworks
-* gift
-* gift wrap
-* graduation
-* Halloween
-* holiday
-* invitation
-* jubilee
-* masquerade
-* New Year
-* parade
-* party
-* piñata
-* reception
-* reunion
-* soiree
-* surprise
-* Thanksgiving
-* tradition
-* Valentine's Day
 * wedding
+* birthday
+* tradition
+* anniversary
+* cake
+* reception
+* New Year
+* graduation
+* invitation
+* Easter
+* parade
+* Thanksgiving
+* feast
+* Halloween
+* decorate
+* candle
+* reunion
+* fireworks
+* balloon
+* bash
+* carnival
+* jubilee
+* confetti
+* baby shower
+* masquerade
 
 ## Clock
 
-* ante meridiem (AM)
-* at midnight
-* before
-* clock
-* Coordinated Universal Time (UTC)
-* dawn
-* Daylight Saving Time (DST)
-* dusk
-* early
-* Eastern Standard Time (EST)
-* end
-* face
-* Greenwich Mean Time (GMT)
-* half past
-* hour
-* hour hand
-* in the afternoon
-* in the evening
-* in the morning
-* just after
-* just before
-* late
-* midday
-* midnight
-* military time
-* minute
-* minute hand
-* noon
-* o'clock
-* Pacific Standard Time (PST)
-* past
-* past/after
-* period
-* post meridiem (PM)
-* quarter past
-* quarter to
-* second
-* second hand
-* start
-* sunrise
-* sunset
-* till
 * time
-* to
-* twilight
+* after
+* before
+* end
+* start
+* second
+* past
+* early
+* face
+* late
+* period
+* hour
+* minute
 * unit
-* world clock
+* until
+* in the morning
+* clock
+* just before
+* midnight
+* dawn
+* sunset
+* noon
+* in the evening
+* just after
+* o'clock
+* sunrise
+* in the afternoon
+* twilight
+* dusk
+* at midnight
+* midday
+* second hand
+* quarter to
+* half past
 
 ## Clothing
 
-* bathrobe
-* belt
-* bikini
-* blazer
-* blouse
-* boots
-* bow tie
-* cap
-* cardigan
-* coat
-* dress
-* gloves
-* hat
-* hoodie
-* jacket
-* jeans
-* jumpsuit
-* leggings
-* overcoat
-* pajamas
-* polo shirt
-* raincoat
-* sandals
-* scarf
-* shirt
-* shorts
-* skirt
-* sneakers
-* socks
 * suit
-* sundress
-* sweater
-* sweatshirt
-* swimsuit
-* tank top
+* dress
 * tie
-* trousers
+* shirt
+* cap
+* belt
+* coat
+* hat
+* jacket
+* boots
+* skirt
+* jeans
+* gloves
+* shorts
 * T-shirt
+* socks
 * underwear
+* sweater
+* scarf
+* sneakers
+* sandals
+* trousers
 * vest
+* bikini
+* blouse
+* leggings
+* blazer
+* pajamas
+* hoodie
+* swimsuit
+* sweatshirt
+* cardigan
+* jumpsuit
+* tank top
 
 ## Colors
 
-* amber
-* amethyst
-* azure
+* white
 * black
+* red
+* green
 * blue
+* gold
+* yellow
+* orange
+* pink
+* gray
+* navy
+* purple
+* lemon
+* olive
+* salmon
+* amber
+* lime
+* straw
+* rust
+* coral
+* mustard
+* lavender
+* emerald
+* crimson
+* peach
+* violet
+* turquoise
+* scarlet
+* azure
+* jade
+* teal
 * burgundy
 * canary
-* chartreuse
-* coral
-* crimson
-* eggplant
-* emerald
-* gold
-* gray
-* green
-* jade
-* lavender
-* lemon
-* lime
 * maroon
-* mauve
-* mustard
-* navy
-* olive
-* orange
-* peach
-* pink
-* purple
-* red
-* rust
-* salmon
-* scarlet
-* sky blue
-* straw
-* tangerine
-* teal
-* turquoise
-* violet
-* white
-* yellow
+* eggplant
 
 ## Dating
 
-* anniversary
-* argue
-* argument
-* attraction
-* attractive
-* be attracted to
-* beautiful
-* be compatible
-* be interested in
-* better half
-* boyfriend
-* caring
-* casual
-* charming
-* check out
-* clever
-* considerate
-* crush
-* cute
-* date
-* dating
-* difficult
-* disagreement
-* eat out
-* engaged
-* enjoyable
-* fall for
-* fall in love
-* fall out
-* feel
-* feelings
-* fiancé/fiancée
-* fun
-* good looking
-* gorgeous
-* handsome
-* helpful
-* hobbies
-* hot
-* husband
-* in shape
-* intelligent
-* interested
-* interests
-* kind
-* loving
-* make up
-* married
-* marry
-* nice
-* on the rocks
-* other half
-* partner
-* person
-* physical
-* pleasant
-* pop the question
-* reconcile
-* relationship
-* romantic
-* romantically
-* smart
-* special
-* split up
-* spouse
-* thoughtful
-* tie the knot
-* together
-* uninterested
-* visit
 * want
+* together
+* feel
+* person
+* kind
+* special
+* fun
+* date
+* visit
+* difficult
+* nice
+* beautiful
 * watch
+* hot
+* interested
+* relationship
 * wife
+* physical
+* check out
+* partner
+* husband
+* helpful
+* smart
+* married
+* interests
+* engaged
+* feelings
+* argument
+* loving
+* gorgeous
+* attractive
+* cute
+* make up
+* argue
+* anniversary
+* romantic
+* dating
+* casual
+* pleasant
+* caring
+* intelligent
+* boyfriend
+* clever
+* enjoyable
+* attraction
+* charming
+* spouse
+* marry
+* crush
+* thoughtful
+* handsome
+* be interested in
+* fall in love
+* in shape
+* hobbies
+* other half
+* disagreement
+* reconcile
+* fall out
+* good looking
+* split up
+* fall for
+* considerate
+* be compatible
+* on the rocks
+* eat out
+* romantically
+* uninterested
 
 ## Directions
 
-* go straight on
-* turn left
-* turn right
-* go past
-* go through
-* on the corner
-* ahead
-* behind
-* next to
-* across
-* near
-* beside
-* in front of
-* between
-* far
-* opposite
-* above
-* below
-* close to
-* beyond
 * up
 * down
+* between
+* far
+* across
+* below
+* above
+* behind
+* near
+* beyond
+* ahead
+* close to
+* in front of
+* next to
+* opposite
+* go through
+* beside
+* turn right
+* on the corner
+* turn left
+* go past
 
 ## Driving
 ## Eating
@@ -549,24 +443,24 @@
 ## Pets
 ## Places
 
-* library
-* hospital
-* police station
-* post office
 * school
-* supermarket
-* mall
-* convenience store
-* drugstore
-* bookstore
-* restaurant
-* cafe
 * park
-* museum
+* hospital
 * beach
-* stadium
 * hotel
+* library
+* restaurant
+* museum
+* stadium
+* mall
+* cafe
+* supermarket
+* bookstore
+* post office
+* police station
 * bus stop
+* drugstore
+* convenience store
 
 ## Prepositions
 ## Pronouns
