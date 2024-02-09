@@ -54,7 +54,6 @@
 * Belga - Belgian
 * Belgio (Belgo + io) - Belgium
 * Bengala - Bengal
-* Berlina - Berlin
 * Berlino - Berlin
 * Berno - Bern
 * Betleĥemo - Bethlehem
@@ -108,7 +107,6 @@
 * Francio (Franco + io) - France
 * Francisko - Francis
 * Franco - franc, Frenchman
-* Frankfurta - Frankfurt
 * Frankfurto - Frankfurt
 * Frederiko - Frederick
 
@@ -166,8 +164,7 @@
 * Islamika - Islamic
 * Islamismo - Islamism
 * Islamo - Islam
-* Israela - Israeli
-* Israelo - Israeli (noun)
+* Israelo - Israeli
 * Itala - Italian
 * Italio - Italy
 * Izraelo - Israel
@@ -193,7 +190,6 @@
 * Judaso - Judas
 * Judo - Jew
 * Judujo - Judea
-* Jugoslavia - Yugoslavia
 * Jugoslavio - Yugoslavia
 * Jupitero - Jupiter
 
@@ -216,7 +212,6 @@
 * Kristana - Christian
 * Kristanismo - Christianity
 * Kristano - Christian
-* Kristnaska - Christmas
 * Kristnasko - Christmas
 * Kristo - Christ
 * Kroatio - Croatia
@@ -224,7 +219,6 @@
 * Kuba - Cuban
 
 ## L
-* Latina - Latin
 * Latino - Latin
 * Leonardo - Leonardo
 * Litova - Lithuanian
@@ -237,11 +231,9 @@
 * Madrido - Madrid
 * Makedonio - Macedonia
 * Manaseo - Manasseh
-* Maria - Mary
 * Mario - Mary
 * Marso - Mars
 * Mateo - Matthew
-* Mediteranea - Mediterranean
 * Mediteraneo - Mediterranean
 * Meksika - Mexican
 * Meksiko - Mexico
@@ -325,7 +317,7 @@
 * Slava - Slavic
 * Slovaka - Slovak
 * Slovakio - Slovakia
-* Slovako - Slovak (noun)
+* Slovako - Slovak
 * Slovenio - Slovenia
 * Sodomo - Sodom
 * Sofoklo - Sophocles
@@ -363,7 +355,6 @@
 * Uzija - Uzziah
 
 ## V
-* Varsovia - Warsaw
 * Varsovio - Warsaw
 * Vatikano - Vatican
 * Vaŝingtono - Washington
@@ -495,7 +486,7 @@
 * alproksimiĝi - to approach, to draw near
 * alta - high
 * altaro - altar
-* alte - high (adverb)
+* alte - high
 * altebenaĵo - highland
 * alteco - height
 * altega - very high
@@ -592,7 +583,6 @@
 * apude - nearby
 * aranĝi - to arrange
 * aranĝo - arrangement
-* arbara - forest
 * arbaro - forest
 * arbitra - arbitrary
 * arbo - tree
@@ -624,7 +614,6 @@
 * artistino - female artist
 * artisto - artist
 * arto - art
-* arĝenta - silver
 * arĝento - silver
 * arĥiduko - archduke
 * asembleo - assembly
@@ -675,7 +664,6 @@
 * aŭsterigo - austerity
 * aŭtentikeco - authenticity
 * aŭto - car
-* aŭtobusa - bus
 * aŭtobuso - bus
 * aŭtomate - automatically
 * aŭtomatigado - automation
@@ -743,13 +731,11 @@
 * birdo - bird
 * birdo - bird
 * bis - encore (in music or theatre)
-* blanka - white
 * blanko - white
 * blasfemi - to blaspheme
 * blazono - coat of arms
 * blindulo - blind person
 * blobo - blob
-* bloka - block
 * bloko - block
 * blovi - to blow
 * blua - blue
@@ -956,7 +942,6 @@
 * diligente - diligently
 * dimanĉo - Sunday
 * dimensio - dimension
-* dinamika - dynamic
 * dinamiko - dynamics
 * dinastio - dynasty
 * dio - god
@@ -985,7 +970,6 @@
 * distingo - distinction
 * distribui - to distribute
 * distribuo - distribution
-* distrikta - district
 * distrikto - district
 * distro - entertainment
 * disvastigi - to spread, to disseminate
@@ -1149,7 +1133,7 @@
 * ekzistencialismo - existentialism
 * ekzistencisma - existentialist
 * ekzistencismo - existentialism
-* ekzistencista - existentialist (noun)
+* ekzistencista - existentialist
 * ekzisti - to exist
 * ekzisto - existence
 * el - out of, from
@@ -1333,7 +1317,6 @@
 * falo - fall
 * falsa - false
 * fama - famous
-* familia - family
 * familio - family
 * famiĝi - to become famous
 * famo - fame, reputation
@@ -1355,7 +1338,6 @@
 * federacia - federal
 * federacio - federation
 * federalismo - federalism
-* federalista - federalist
 * federalisto - federalist
 * feliĉa - happy
 * feliĉo - happiness
@@ -1367,7 +1349,6 @@
 * fera - iron
 * ferio - vacation, holiday
 * fermi - to close
-* fervoja - railway
 * fervojo - railway
 * fervojvojo - railway
 * fervora - fervent
@@ -1455,7 +1436,6 @@
 * fondinto - founder
 * fondo - bottom, base
 * fonemo - phoneme
-* fonetika - phonetic
 * fonetiko - phonetics
 * fonologia - phonological
 * fonologio - phonology
@@ -1657,7 +1637,6 @@
 * honora - honorary
 * honori - to honor
 * honoro - honor
-* horloĝa - clock
 * horloĝo - clock
 * horo - hour
 * hospitalo - hospital
@@ -1693,8 +1672,7 @@
 * imago - imagination
 * imensa - immense
 * impakto - impact
-* imperativa - imperative
-* imperativo - imperative (noun)
+* imperativo - imperative
 * imperia - imperial
 * imperiestro - emperor
 * imperio - empire
@@ -1720,7 +1698,6 @@
 * individua - individual
 * individuismo - individualism
 * individuo - individual
-* indiĝena - indigenous
 * indiĝeno - indigenous person
 * industria - industrial
 * industriigo - industrialization
@@ -1997,7 +1974,6 @@
 * kolora - colorful
 * koloro - color
 * kolorplena - colorful
-* komandlinia - command line
 * komandlinio - command line
 * komando - command
 * kombinaĵo - combination
@@ -2050,7 +2026,6 @@
 * kompromiso - compromise
 * kompula - compulsive
 * komputado - computing
-* komputila - computer
 * komputilo - computer
 * komuna - common
 * komune - commonly, together
@@ -2326,7 +2301,6 @@
 * leprulo - leper
 * lernado - learning
 * lernanto - learner, student
-* lerneja - school
 * lernejo - school
 * lerni - to learn
 * lerno - learning
@@ -2388,7 +2362,7 @@
 * loki - to place
 * loko - place, location
 * longa - long
-* longe - long (adverb)
+* longe - long
 * longmanika - long-sleeved
 * longo - length
 * loĝado - living, residing
@@ -2512,7 +2486,6 @@
 * maltrankvila - anxious, uneasy
 * maltrankviliĝi - to become anxious
 * maltrankvilo - anxiety
-* malvarma - cold
 * malvarmo - cold
 * malvenko - defeat
 * malvere - falsely
@@ -2722,7 +2695,6 @@
 * morti - to die
 * mortiga - deadly, lethal
 * mortigi - to kill
-* mortinta - deceased
 * mortinto - deceased
 * morto - death
 * motivo - motive
@@ -2772,7 +2744,6 @@
 * naskiĝi - to be born
 * naskiĝloko - birthplace
 * naskiĝo - birth
-* naskiĝtaga - birthday
 * naskiĝtago - birthday
 * naskiĝurbo - birthplace
 * natria - sodium
@@ -2834,10 +2805,9 @@
 * norda - north, northern
 * norde - north
 * nordo - north
-* nordokcidenta - northwest
-* nordokcidento - northwest (noun)
+* nordokcidento - northwest
 * nordorienta - northeast
-* nordoriente - northeast (adverb)
+* nordoriente - northeast
 * nordoriento - northeast
 * norma - standard
 * normala - normal
@@ -2938,8 +2908,7 @@
 * oriente - in the east, eastward
 * oriento - east
 * origina - original
-* originala - original
-* originalo - original (noun)
+* originalo - original
 * origine - originally
 * origini - to originate
 * origino - origin
@@ -3182,7 +3151,6 @@
 * posteno - position, post
 * posteulo - successor
 * postmodernismo - postmodernism
-* posttagmeza - afternoon
 * posttagmezo - afternoon
 * postuli - to demand, to require
 * postulo - demand, requirement
@@ -3388,7 +3356,7 @@
 * realaĵo - reality
 * realigi - to realize, to make real
 * realismo - realism
-* realo - real (noun)
+* realo - real
 * recepto - recipe
 * reciproke - reciprocally
 * redaktado - editing
@@ -3581,7 +3549,6 @@
 * rura - rural
 * rusto - rust
 * rutino - routine
-* ruĝa - red
 * ruĝo - red
 
 ## s
@@ -3647,7 +3614,6 @@
 * sekso - sex
 * sektoro - sector
 * sekundara - secondary
-* sekureca - security
 * sekureco - security
 * sekurigi - to secure, to ensure
 * sekurkopio - backup
@@ -3799,7 +3765,6 @@
 * solvado - solving
 * solvi - to solve
 * solvo - solution
-* somera - summer
 * somero - summer
 * sona - sonic, sound
 * sonato - sonata
@@ -3880,7 +3845,7 @@
 * studento - student
 * studi - to study
 * studio - studio
-* studo - study (noun)
+* studo - study
 * sub - under, beneath
 * suba - lower
 * subdosierujo - subdirectory
@@ -3909,9 +3874,7 @@
 * sude - in the south, southward
 * suden - to the south
 * sudo - south
-* sudokcidenta - southwest
-* sudokcidento - southwest (noun)
-* sudorienta - southeast
+* sudokcidento - southwest
 * sudoriento - southeast
 * suferi - to suffer
 * sufiĉe - sufficiently
@@ -3995,7 +3958,6 @@
 * telekomunikado - telecommunication
 * telero - plate
 * teleskopo - telescope
-* televida - television
 * televido - television
 * tema - thematic
 * temi - to be about
@@ -4163,7 +4125,6 @@
 * universale - universally
 * universalismo - universalism
 * universalo - universal
-* universitata - university
 * universitato - university
 * universo - universe
 * unu - one
@@ -4289,9 +4250,7 @@
 * vilaĝo - village
 * vinbero - grape
 * vino - wine
-* vintra - winter
 * vintro - winter
-* violina - violin
 * violino - violin
 * vipuro - viper
 * vira - male
@@ -4430,7 +4389,6 @@
 * ĝusteco - correctness, justice
 
 ## ĵ
-* ĵaza - jazz
 * ĵazo - jazz
 * ĵazo - jazz
 * ĵaŭdo - Thursday
@@ -4468,7 +4426,6 @@
 * ŝiriĝo - tear, ripping
 * ŝirmilo - shield, screen
 * ŝlosa - locking
-* ŝlosila - key
 * ŝlosilo - key
 * ŝmiri - to smear, to anoint
 * ŝoseo - highway, main road
@@ -4481,7 +4438,6 @@
 * ŝteli - to steal
 * ŝtelisto - thief
 * ŝtofo - fabric, cloth
-* ŝtona - stone
 * ŝtono - stone
 * ŝtormo - storm
 * ŝuldanto - debtor
