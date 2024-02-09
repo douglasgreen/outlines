@@ -1,8 +1,8 @@
 # New Testament, World English Bible
 
-The Good News According to Matthew
-
 ## Matthew
+
+The Good News According to Matthew
 
 ### Chapter 1
 
