@@ -68,7 +68,9 @@ Ma quando vide molti dei Farisei e dei Sadducei venire per il suo battesimo, dis
 
 Poi Gesù venne dalla Galilea al Giordano da Giovanni, per essere battezzato da lui. Ma Giovanni avrebbe voluto impedirglielo, dicendo: "Ho bisogno di essere battezzato da te, e tu vieni da me?"
 
-Ma Gesù, rispondendo, disse a lui: "Lascia fare ora, perché conviene che adempiamo così tutta giustizia." Allora egli lo permise. Gesù, quando fu battezzato, risalì subito dall'acqua: ed ecco, i cieli gli si aprirono. Vide lo Spirito di Dio scendere come una colomba e venire su di lui. Ed ecco, una voce dal cielo disse: "Questo è il mio Figlio amato, nel quale mi sono compiaciuto."
+Ma Gesù, rispondendo, disse a lui: "Lascia fare ora, perché conviene che adempiamo così tutta giustizia." Allora egli lo permise.
+
+Gesù, quando fu battezzato, risalì subito dall'acqua: ed ecco, i cieli gli si aprirono. Vide lo Spirito di Dio scendere come una colomba e venire su di lui. Ed ecco, una voce dal cielo disse: "Questo è il mio Figlio amato, nel quale mi sono compiaciuto."
 
 ### Capitolo 4
 

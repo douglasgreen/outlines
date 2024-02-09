@@ -64,6 +64,7 @@ Ich taufe euch mit Wasser zur Buße; aber der nach mir kommt, ist mächtiger als
 Dann kam Jesus aus Galiläa an den Jordan zu Johannes, um sich von ihm taufen zu lassen. Johannes aber wollte es ihm wehren und sagte: „Ich bedarf der Taufe von dir, und du kommst zu mir?“
 
 Jesus aber antwortete und sprach zu ihm: „Lass es jetzt zu; denn so gebührt es uns, alle Gerechtigkeit zu erfüllen.“ Da ließ er es zu.
+
 Und als Jesus getauft war, stieg er sogleich aus dem Wasser; und siehe, der Himmel tat sich ihm auf, und er sah den Geist Gottes wie eine Taube herabsteigen und auf ihn kommen. Und siehe, eine Stimme aus den Himmeln sprach: „Dies ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe.“
 
 ### Kapitel 4

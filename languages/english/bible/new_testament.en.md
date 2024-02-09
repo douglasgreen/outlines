@@ -67,6 +67,7 @@ But when he saw many of the Pharisees and Sadducees coming for his baptism, he s
 Then Jesus came from Galilee to the Jordan to John, to be baptized by him. But John would have hindered him, saying, “I need to be baptized by you, and you come to me?”
 
 But Jesus, answering, said to him, “Allow it now, for this is the fitting way for us to fulfill all righteousness.” Then he allowed him.
+
 Jesus, when he was baptized, went up directly from the water: and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove, and coming on him. Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”
 
 ### Chapter 4

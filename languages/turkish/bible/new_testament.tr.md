@@ -50,3 +50,22 @@ avunmak istemiyor,
 Ama Hirodes öldüğünde, işte, Rab'bin bir meleği Yusuf'a Mısır'da rüyada görünerek, "Kalk, çocuğu ve annesini al ve İsrail diyarına git, çünkü çocuğun canını arayanlar öldü," dedi.
 
 O kalkıp çocuğu ve annesini alarak İsrail diyarına geldi. Ancak babası Hirodes'in yerine Yahudiye üzerinde hüküm süren Arhelaos'u duyunca oraya gitmekten korktu. Rüyada uyarıldığı için, Celile bölgesine çekildi ve Nasıra denen bir kente gelip orada yaşamaya başladı; bu, peygamberler aracılığıyla söylenen, "O Nazıralı denilecek" sözünün gerçekleşmesi içindi.
+
+### Bölüm 3
+
+O günlerde, Yahya Vaftizci, Yahudiye çölünde vaaz ederek geldi ve şöyle diyordu: "Tövbe edin, çünkü Göklerin Krallığı yakındır!" Çünkü bu, Yeşaya peygamber tarafından şöyle denilen kişidir:
+"Çölde bağıran birinin sesi,
+Rab'bin yolunu hazırlayın!
+Yollarını düz yapın!"
+
+Şimdi Yahya'nın kendisi deve tüyünden yapılmış giysiler giyiyordu ve belinde bir deri kemer vardı. Yiyeceği çekirgeler ve yabani baldı. Sonra Yeruşalim'den, bütün Yahudiye'den ve Ürdün çevresindeki bütün bölgeden insanlar ona çıkıp gittiler. Ürdün'de onun tarafından günahlarını itiraf ederek vaftiz edildiler.
+
+Ama o, birçok Ferisi ve Saduki'nin vaftiz olmak için geldiğini gördüğünde, onlara şöyle dedi: "Ey engerek yavruları, gelecek öfkeyi kaçın diye sizi kim uyardı? Öyleyse tövbeye yaraşır meyveler üretin! Kendinize, 'Atamız İbrahim var' demeyin; çünkü size söylüyorum, Tanrı, bu taşlardan İbrahim'e çocuklar yaratabilir. Şimdiden balta ağaçların köküne dayanmıştır. Bu yüzden iyi meyve vermeyen her ağaç kesilir ve ateşe atılır.
+
+"Ben gerçekten sizi tövbe için suyla vaftiz ederim, ama benden sonra gelen benim taşımaya layık olmadığım sandaletlerini taşıyacak olan benden daha güçlüdür. O sizi Kutsal Ruh ile vaftiz edecek. Elindeki harman dövme çatalıyla harman yerini iyice temizleyecek. Buğdayını ambara toplayacak, ama sapını söndürülmeyen ateşle yakacak."
+
+Sonra İsa, vaftiz olmak üzere, Celile'den Ürdün'e, Yahya'nın yanına geldi. Ama Yahya, O'nu engellemek isteyerek, "Benim senin tarafından vaftiz edilmem gerekirken, sen bana mı geliyorsun?" dedi.
+
+Ama İsa cevap vererek ona şöyle dedi: "Şimdiye izin ver, çünkü bu, tüm doğruluğu yerine getirmemiz için uygun yoldur." O zaman ona izin verdi.
+
+İsa vaftiz edildiğinde, doğrudan sudan çıktı: ve işte, gökler O'na açıldı. Tanrı'nın Ruhu'nun bir güvercin gibi inip üzerine geldiğini gördü. İşte, göklerden bir ses şöyle dedi: “Bu, benim sevgili Oğlum, O'ndan çok memnunum.”

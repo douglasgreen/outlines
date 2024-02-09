@@ -49,3 +49,56 @@ porque eles não existem mais."
 Mas quando Herodes morreu, eis que um anjo do Senhor apareceu em sonho a José no Egito, dizendo: "Levanta-te, toma o menino e sua mãe e vai para a terra de Israel, pois os que procuravam a vida do menino estão mortos."
 
 Ele se levantou, tomou o menino e sua mãe, e entrou na terra de Israel. Mas, ao ouvir que Arquelau reinava na Judeia em lugar de seu pai, Herodes, temeu ir para lá. Sendo advertido em sonho, retirou-se para a região da Galileia, e foi morar numa cidade chamada Nazaré; para que se cumprisse o que foi dito pelos profetas, que ele seria chamado Nazareno.
+
+### Capítulo 3
+
+Naqueles dias, João Batista veio, pregando no deserto da Judeia, dizendo: "Arrependei-vos, pois o Reino dos Céus está próximo!" Pois este é aquele que foi falado pelo profeta Isaías, dizendo:
+"A voz de um que clama no deserto:
+Preparai o caminho do Senhor,
+endireitai as suas veredas!"
+
+Ora, João usava vestes de pelos de camelo e um cinto de couro em volta de sua cintura. Sua comida era gafanhotos e mel silvestre. Então, saíam para ele pessoas de Jerusalém, de toda a Judeia e de toda a região ao redor do Jordão. Eles eram batizados por ele no rio Jordão, confessando os seus pecados.
+
+Mas, quando viu muitos dos fariseus e saduceus vindo para o batismo, disse-lhes: "Raça de víboras, quem vos advertiu a fugir da ira vindoura? Produzi, pois, frutos dignos de arrependimento! E não penseis em dizer dentro de vós mesmos: ‘Temos Abraão como pai’; porque eu vos digo que destas pedras Deus pode suscitar filhos a Abraão. Já agora o machado está posto à raiz das árvores; toda árvore, pois, que não produz bom fruto é cortada e lançada ao fogo.
+
+"Eu, de fato, vos batizo com água, para arrependimento; mas aquele que vem após mim é mais poderoso do que eu, cujas sandálias não sou digno de levar. Ele vos batizará com o Espírito Santo. A sua pá está na sua mão, e ele limpará completamente a sua eira. Recolherá o seu trigo no celeiro, mas queimará a palha com fogo inextinguível."
+
+Então Jesus veio da Galileia ao Jordão para ser batizado por João. Mas João tentava impedi-lo, dizendo: "Eu preciso ser batizado por ti, e tu vens a mim?"
+
+Jesus, porém, respondendo, disse-lhe: "Permita agora, pois assim nos convém cumprir toda a justiça." Então, ele o permitiu.
+Quando Jesus foi batizado, saiu logo da água: e eis que os céus se lhe abriram, e viu o Espírito de Deus descendo como pomba e vindo sobre ele. E eis que uma voz dos céus dizia: "Este é o meu Filho amado, em quem me comprazo."
+
+### Capítulo 4
+
+Toen werd Jezus door de Geest naar de woestijn geleid om door de duivel verzocht te worden. Nadat Hij veertig dagen en veertig nachten had gevast, kreeg Hij daarna honger. De verzoeker kwam en zei tegen Hem: "Als U de Zoon van God bent, beveel dan dat deze stenen broden worden."
+
+Maar Hij antwoordde: "Er staat geschreven: 'De mens zal niet leven van brood alleen, maar van elk woord dat uit de mond van God voortkomt.'"
+
+Vervolgens nam de duivel Hem mee naar de heilige stad, zette Hem op de hoogste punt van de tempel en zei tegen Hem: "Als U de Zoon van God bent, werp Uzelf dan naar beneden, want er staat geschreven:
+'Hij zal Zijn engelen aangaande U bevel geven,' en,
+'Op hun handen zullen zij U dragen,
+opdat U uw voet niet aan een steen stoot.'"
+
+Jezus zei tegen hem: "Er staat ook geschreven: 'Je zult de Heer, jouw God, niet op de proef stellen.'"
+
+Weer nam de duivel Hem mee naar een zeer hoge berg en toonde Hem alle koninkrijken van de wereld en hun heerlijkheid. Hij zei tegen Hem: "Dit alles zal ik U geven, als U neervalt en mij aanbidt."
+
+Toen zei Jezus tegen hem: "Ga weg, Satan! Want er staat geschreven: 'Je zult de Heer, jouw God, aanbidden en Hem alleen dienen.'"
+
+Toen verliet de duivel Hem, en zie, engelen kwamen en dienden Hem.
+
+Toen Jezus hoorde dat Johannes overgeleverd was, trok Hij zich terug naar Galilea. Hij verliet Nazareth en ging wonen in Kafarnaüm, dat aan de zee ligt, in het gebied van Zebulon en Naftali, opdat vervuld zou worden wat gesproken was door de profeet Jesaja, die zei:
+"Het land Zebulon en het land Naftali,
+aan de weg naar zee, over de Jordaan,
+Galilea van de heidenen,
+het volk dat in duisternis zat, heeft een groot licht gezien;
+en voor hen die zaten in het gebied en schaduw van de dood,
+voor hen is een licht opgegaan."
+
+Vanaf die tijd begon Jezus te prediken en te zeggen: "Bekeer u, want het Koninkrijk der Hemelen is nabij."
+
+Toen Hij langs de zee van Galilea liep, zag Hij twee broers: Simon, die Petrus wordt genoemd, en Andreas, zijn broer, die een net in de zee wierpen; want zij waren vissers. Hij zei tegen hen: "Kom achter Mij aan, en Ik zal jullie vissers van mensen maken."
+
+Ze lieten onmiddellijk hun netten achter en volgden Hem. Verdergaand van daar zag Hij twee andere broers, Jakobus, de zoon van Zebedeüs, en Johannes, zijn broer, in de boot met hun vader Zebedeüs, terwijl zij hun netten herstelden. Hij riep hen. Ze lieten onmiddellijk de boot en hun vader achter en volgden Hem.
+
+Jezus trok rond door heel Galilea, onderwees in hun synagogen, predikte het goede nieuws van het Koninkrijk en genas elke ziekte en elke kwaal onder het volk. Het gerucht over Hem verspreidde zich door heel Syrië. Ze brachten allen die ziek waren, bezeten door verschillende ziekten en pijnen, bezetenen, epileptici en verlamden naar Hem toe; en Hij genas hen. Grote menigten uit Galilea, Decapolis, Jeruzalem, Judea en van over de Jordaan volgden Hem.

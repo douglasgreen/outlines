@@ -66,7 +66,9 @@ Mais lorsqu'il vit beaucoup de Pharisiens et de Sadducéens venir à son baptêm
 
 Alors Jésus vint de Galilée au Jourdain vers Jean, pour être baptisé par lui. Mais Jean voulait l'en empêcher, disant : « C'est moi qui ai besoin d'être baptisé par toi, et toi, tu viens à moi ? »
 
-Mais Jésus, répondant, lui dit : « Laisse faire maintenant, car il est convenable pour nous d'accomplir ainsi toute justice. » Alors il le laissa faire. Jésus, une fois baptisé, remonta aussitôt de l'eau : et voici, les cieux s'ouvrirent à lui. Il vit l'Esprit de Dieu descendant comme une colombe et venant sur lui. Et voici, une voix des cieux dit : « Celui-ci est mon Fils bien-aimé, en qui je trouve ma joie. »
+Mais Jésus, répondant, lui dit : « Laisse faire maintenant, car il est convenable pour nous d'accomplir ainsi toute justice. » Alors il le laissa faire.
+
+Jésus, une fois baptisé, remonta aussitôt de l'eau : et voici, les cieux s'ouvrirent à lui. Il vit l'Esprit de Dieu descendant comme une colombe et venant sur lui. Et voici, une voix des cieux dit : « Celui-ci est mon Fils bien-aimé, en qui je trouve ma joie. »
 
 ### Chapitre 4
 

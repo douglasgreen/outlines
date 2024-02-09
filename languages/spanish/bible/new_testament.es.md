@@ -66,6 +66,7 @@ Pero cuando vio a muchos de los fariseos y saduceos que venían a su bautismo, l
 Entonces Jesús vino desde Galilea al Jordán a Juan, para ser bautizado por él. Pero Juan trataba de impedírselo, diciendo: "Yo necesito ser bautizado por ti, ¿y tú vienes a mí?"
 
 Mas Jesús, respondiendo, le dijo: "Permítelo ahora, porque así conviene que cumplamos toda justicia." Entonces le permitió.
+
 Jesús, cuando fue bautizado, subió del agua inmediatamente; y he aquí, los cielos le fueron abiertos, y vio al Espíritu de Dios que descendía como paloma y venía sobre él. Y he aquí, una voz de los cielos decía: "Este es mi Hijo amado, en quien tengo complacencia."
 
 ### Capítulo 4

@@ -65,7 +65,9 @@ Videns autem multos Pharisaeorum et Sadducaeorum venientes ad baptismum suum, di
 
 Tunc venit Iesus a Galilaea ad Iordanem ad Ioannem, ut baptizaretur ab eo. Ioannes autem prohibebat eum dicens: "Ego a te debeo baptizari, et tu venis ad me?"
 
-Respondens autem Iesus dixit ei: "Sine modo; sic enim decet nos implere omnem iustitiam." Tunc dimisit eum. Baptizatus autem Iesus, confestim ascendit de aqua: et ecce aperti sunt ei caeli, et vidit Spiritum Dei descendentem sicut columbam et venientem super se. Et ecce vox de caelis dicens: "Hic est Filius meus dilectus, in quo mihi complacui."
+Respondens autem Iesus dixit ei: "Sine modo; sic enim decet nos implere omnem iustitiam." Tunc dimisit eum.
+
+Baptizatus autem Iesus, confestim ascendit de aqua: et ecce aperti sunt ei caeli, et vidit Spiritum Dei descendentem sicut columbam et venientem super se. Et ecce vox de caelis dicens: "Hic est Filius meus dilectus, in quo mihi complacui."
 
 ### Caput 4
 

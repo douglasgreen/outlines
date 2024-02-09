@@ -49,3 +49,22 @@ omdat zij er niet meer zijn."
 Maar toen Herodes gestorven was, zie, een engel van de Heer verscheen in een droom aan Jozef in Egypte, en zei: "Sta op en neem het jonge kind en zijn moeder, en ga naar het land Israël, want zij die het leven van het jonge kind zochten, zijn gestorven."
 
 Hij stond op en nam het jonge kind en zijn moeder, en kwam in het land Israël. Maar toen hij hoorde dat Archelaüs over Judea regeerde in plaats van zijn vader Herodes, was hij bang om daarheen te gaan. Nadat hij in een droom was gewaarschuwd, week hij uit naar het gebied van Galilea, en hij ging wonen in een stad die Nazareth heet; opdat vervuld zou worden wat gesproken was door de profeten, dat Hij een Nazarener genoemd zou worden.
+
+### Hoofdstuk 3
+
+In die dagen kwam Johannes de Doper, predikend in de woestijn van Judea, en zei: "Bekeer u, want het Koninkrijk der Hemelen is nabij!" Want dit is hij die gesproken werd door de profeet Jesaja, zeggende:
+"De stem van één die roept in de woestijn,
+bereid de weg van de Heer!
+Maak zijn paden recht!"
+
+Johannes zelf droeg kleding gemaakt van kamelenhaar met een leren gordel om zijn middel. Zijn voedsel was sprinkhanen en wilde honing. Toen gingen mensen uit Jeruzalem, heel Judea en de hele streek rond de Jordaan naar hem toe. Ze werden door hem in de Jordaan gedoopt, terwijl ze hun zonden beleden.
+
+Maar toen hij velen van de Farizeeën en Sadduceeën naar zijn doop zag komen, zei hij tegen hen: "Addergebroed, wie heeft jullie gewaarschuwd om te vluchten voor de komende toorn? Breng dus vruchten voort die bij bekering passen! Denk niet bij jezelf: 'Wij hebben Abraham als onze vader', want ik zeg jullie dat God uit deze stenen kinderen voor Abraham kan verwekken. De bijl ligt al aan de wortel van de bomen. Elke boom die geen goede vrucht voortbrengt, wordt omgehakt en in het vuur geworpen.
+
+"Ik doop jullie weliswaar met water tot bekering, maar hij die na mij komt, is machtiger dan ik, en ik ben het niet waard zijn sandalen te dragen. Hij zal jullie dopen met de Heilige Geest. Zijn wan is in zijn hand, en hij zal zijn dorsvloer grondig reinigen. Zijn tarwe zal hij in de schuur verzamelen, maar het kaf zal hij verbranden met onuitblusbaar vuur."
+
+Toen kwam Jezus uit Galilea naar de Jordaan, naar Johannes, om door hem gedoopt te worden. Maar Johannes wilde hem tegenhouden en zei: "Ik heb de doop van u nodig, en u komt naar mij?"
+
+Maar Jezus antwoordde hem: "Laat het nu toe, want zo past het ons om alle gerechtigheid te vervullen." Toen stond hij het toe.
+
+Jezus, toen hij gedoopt was, kwam meteen uit het water omhoog: en zie, de hemelen openden zich voor hem. Hij zag de Geest van God neerdalen als een duif, en op hem neerkomen. Zie, een stem uit de hemelen zei: "Dit is mijn geliefde Zoon, in wie Ik mijn welbehagen heb."

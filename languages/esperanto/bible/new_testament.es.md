@@ -66,6 +66,7 @@ Sed kiam li vidis multajn el la Fariseoj kaj Sadukeoj venantajn por lia bapto, l
 Tiam Jesuo venis el Galileo al la Jordano al Johano, por esti baptita de li. Sed Johano volus malhelpi lin, dirante, "Mi bezonas esti baptita de vi, kaj vi venas al mi?"
 
 Sed Jesuo, respondante, diris al li, "Permesu nun, ĉar tio estas la taŭga maniero por ni plenumi ĉiun justecon." Tiam li permesis lin.
+
 Jesuo, kiam li estis baptita, tuj eliris el la akvo: kaj jen, la ĉieloj malfermiĝis al li. Li vidis la Spiriton de Dio malsupreniri kiel kolombo, kaj veni sur lin. Jen, voĉo el la ĉieloj diris, "Ĉi tiu estas mia amata Filo, kun kiu mi estas bone kontenta."
 
 ### Ĉapitro 4
