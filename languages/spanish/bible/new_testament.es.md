@@ -305,3 +305,53 @@ Entonces comenzó a reprender a las ciudades en las cuales se habían realizado 
 En aquel tiempo, Jesús respondió: "Te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y entendidos, y las has revelado a los niños. Sí, Padre, porque así fue tu buen placer. Todas las cosas me han sido entregadas por mi Padre. Nadie conoce al Hijo, sino el Padre; ni al Padre conoce alguien, sino el Hijo, y aquel a quien el Hijo quiera revelarle.
 
 "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar. Tomad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas. Porque mi yugo es fácil y ligera mi carga."
+
+### Capítulo 12
+
+En aquel tiempo, Jesús pasaba por los campos de trigo un día de reposo. Sus discípulos tenían hambre y comenzaron a arrancar espigas de trigo y a comer. Pero cuando los fariseos lo vieron, le dijeron: "Mira, tus discípulos hacen lo que no es lícito hacer en el día de reposo".
+
+Él les dijo: "¿No habéis leído lo que hizo David cuando él y sus compañeros tuvieron hambre: cómo entró en la casa de Dios y comieron los panes de la proposición, que no les era lícito comer, ni a él ni a los que estaban con él, sino sólo a los sacerdotes? ¿O no habéis leído en la ley que en el día de reposo los sacerdotes en el templo profanan el día de reposo y son sin culpa? Pero os digo que aquí hay uno mayor que el templo. Si hubierais sabido lo que significa: 'Misericordia quiero y no sacrificio', no habríais condenado a los inocentes. Porque el Hijo del Hombre es Señor del día de reposo".
+
+Salió de allí y entró en la sinagoga de ellos. Y he aquí, había un hombre que tenía la mano seca. Y le preguntaron: "¿Es lícito sanar en el día de reposo?", para poder acusarle.
+
+Él les dijo: "¿Qué hombre habrá entre vosotros que, teniendo una oveja, si esta cae en un hoyo en el día de reposo, no le eche mano y la levante? Pues ¿cuánto más vale un hombre que una oveja? Por tanto, es lícito hacer bien en el día de reposo". Entonces dijo al hombre: "Extiende tu mano". Y él la extendió, y le fue restaurada sana como la otra. Pero los fariseos salieron y tomaron consejo contra él, sobre cómo podrían destruirle.
+
+Conociendo esto Jesús, se retiró de allí. Le siguieron grandes multitudes, y sanó a todos, y les mandó que no le descubrieran, para que se cumpliera lo dicho por el profeta Isaías, que dijo:
+
+"He aquí mi siervo, a quien he escogido,
+
+mi amado, en quien mi alma tiene complacencia.
+
+Pondré mi Espíritu sobre él,
+
+y anunciará justicia a las naciones.
+
+No contenderá, ni gritará,
+
+ni oirá alguien su voz en las calles.
+
+La caña cascada no quebrará,
+
+y el pábilo que humea no apagará,
+
+hasta que saque a victoria la justicia.
+
+Y en su nombre esperarán las naciones".
+
+Entonces le trajeron uno poseído por un demonio, ciego y mudo; y lo sanó, de tal manera que el ciego y mudo hablaba y veía. Todas las multitudes se asombraron y decían: "¿No será este el hijo de David?" Pero cuando los fariseos lo oyeron, dijeron: "Este no echa fuera los demonios sino por Beelzebú, el príncipe de los demonios".
+
+Conociendo Jesús sus pensamientos, les dijo: "Todo reino dividido contra sí mismo es asolado, y toda ciudad o casa dividida contra sí misma no permanecerá. Si Satanás echa fuera a Satanás, está dividido contra sí mismo. ¿Cómo, entonces, permanecerá su reino? Y si yo por Beelzebú echo fuera demonios, ¿por quién los echan vuestros hijos? Por tanto, ellos serán vuestros jueces. Pero si yo por el Espíritu de Dios echo fuera los demonios, entonces el reino de Dios ha llegado a vosotros. ¿O cómo puede alguien entrar en la casa del hombre fuerte y saquear sus bienes, si primero no ata al hombre fuerte? Y entonces saqueará su casa.
+
+"El que no está conmigo, está contra mí; y el que no recoge conmigo, desparrama. Por tanto, os digo: Todo pecado y blasfemia será perdonado a los hombres, pero la blasfemia contra el Espíritu no será perdonada. A cualquiera que hable una palabra contra el Hijo del Hombre, le será perdonado; pero al que hable contra el Espíritu Santo, no le será perdonado, ni en este siglo ni en el venidero.
+
+"Haced el árbol bueno y su fruto bueno, o haced el árbol malo y su fruto malo; porque por el fruto se conoce al árbol. ¡Generación de víboras! ¿Cómo podéis hablar cosas buenas siendo malos? Porque de la abundancia del corazón habla la boca. El hombre bueno, del buen tesoro de su corazón saca cosas buenas; y el hombre malo, del mal tesoro saca cosas malas. Os digo que de toda palabra ociosa que hablen los hombres, darán cuenta en el día del juicio. Porque por tus palabras serás justificado, y por tus palabras serás condenado".
+
+Entonces algunos de los escribas y fariseos respondieron, diciendo: "Maestro, queremos ver una señal de ti".
+
+Pero él les respondió: "Una generación mala y adúltera busca señal, pero no se le dará otra señal que la señal del profeta Jonás. Porque así como Jonás estuvo tres días y tres noches en el vientre del gran pez, así estará el Hijo del Hombre tres días y tres noches en el corazón de la tierra. Los hombres de Nínive se levantarán en el juicio con esta generación y la condenarán; porque ellos se arrepintieron con la predicación de Jonás, y he aquí, más que Jonás está aquí. La reina del Sur se levantará en el juicio con esta generación y la condenará, pues vino de los confines de la tierra para oír la sabiduría de Salomón; y he aquí, más que Salomón está aquí.
+
+"Cuando el espíritu inmundo sale de un hombre, pasa por lugares áridos buscando reposo, y no lo encuentra. Entonces dice: 'Volveré a mi casa de donde salí'; y al llegar, la encuentra desocupada, barrida y adornada. Entonces va y toma consigo otros siete espíritus más malos que él, y entran y habitan allí; y el estado final de aquel hombre es peor que el primero. Así también le pasará a esta generación mala."
+
+Mientras él aún hablaba a las multitudes, he aquí, su madre y sus hermanos estaban afuera, buscando hablar con él. Alguien le dijo: "He aquí, tu madre y tus hermanos están afuera, buscando hablarte."
+
+Pero él respondió al que le hablaba: "¿Quién es mi madre, y quiénes son mis hermanos?" Y extendiendo su mano hacia sus discípulos, dijo: "He aquí, mi madre y mis hermanos. Porque todo aquel que hace la voluntad de mi Padre que está en los cielos, ese es mi hermano, y hermana, y madre."

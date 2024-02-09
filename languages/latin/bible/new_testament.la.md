@@ -303,3 +303,53 @@ Tunc coepit exprobrare civitatibus in quibus factae sunt plurimae virtutes eius,
 In illo tempore respondens Iesus dixit: "Confiteor tibi, Pater, Domine caeli et terrae, quia abscondisti haec a sapientibus et prudentibus et revelasti ea parvulis. Ita, Pater, quoniam sic fuit placitum ante te. Omnia mihi tradita sunt a Patre meo, et nemo novit Filium nisi Pater, neque Patrem quis novit nisi Filius et cui voluerit Filius revelare.
 
 Venite ad me omnes qui laboratis et onerati estis, et ego reficiam vos. Tollite iugum meum super vos et discite a me, quia mitis sum et humilis corde; et invenietis requiem animabus vestris. Iugum enim meum suave est et onus meum leve est."
+
+### Caput 12
+
+In illo tempore Iesus perambulabat sabbatis per sata, discipuli autem eius esurientes coeperunt vellere spicas et manducare. Pharisaei autem, id videntes, dixerunt ei: "Ecce, discipuli tui faciunt quod non licet facere sabbatis."
+
+At ille dixit eis: "Nonne legistis quid fecerit David, cum esuriret ipse et qui cum eo erant: quomodo introierit in domum Dei et panes propositionis comederit, quos non licebat ei edere, neque his qui cum eo erant, nisi solis sacerdotibus? Aut non legistis in lege quia sabbatis sacerdotes in templo sabbatum violant et sunt innoxii? Dico autem vobis quia maior est hic quam templum. Si autem sciretis quid est: Misericordiam volo et non sacrificium, non condemnavissetis innocentes. Nam Dominus est Filius Hominis etiam sabbati."
+
+Et inde transiens venit in synagogam eorum. Et ecce, homo manum habebat aridam. Et interrogaverunt eum dicentes: "Licetne sabbatis curare?" ut accusarent eum.
+
+Ipse autem dixit eis: "Quis ex vobis homo, qui habeat ovem unam, et si ceciderit haec sabbatis in foveam, nonne tenebit et extrahet eam? Quanto magis melior est homo ove! Itaque licet sabbatis bene facere." Tunc ait homini: "Extende manum tuam." Et extendit; et restituta est sanitas ei sicut alteri. Pharisaei autem exeuntes consilium fecerunt adversus eum, quomodo eum perderent.
+
+Iesus autem, hoc cognito, recessit inde. Et secutae sunt eum turbae multae, et curavit eos omnes, et praecepit eis ne manifestum eum facerent, ut adimpleretur quod dictum est per Isaiam prophetam dicentem:
+
+"Ecce puer meus quem elegi,
+
+dilectus meus, in quo bene complacuit animae meae.
+
+Ponam Spiritum meum super eum,
+
+et iudicium gentibus nuntiabit.
+
+Non contendet neque clamabit,
+
+neque audiet aliquis in plateis vocem eius.
+
+Arundinem quassatam non confringet,
+
+et linum fumigans non extinguet,
+
+donec eiciat ad victoriam iudicium.
+
+Et in nomine eius gentes sperabunt."
+
+Tunc oblatus est ei daemonium habens, caecus et mutus, et sanavit eum, ita ut loqueretur et videret caecus et mutus. Et stupuerunt omnes turbae et dicebant: "Numquid hic est filius David?" Pharisaei autem audientes dixerunt: "Hic non eicit daemonia nisi in Beelzebul principe daemoniorum."
+
+Iesus autem sciens cogitationes eorum dixit eis: "Omnis regnum in se divisum desolatur, et omnis civitas vel domus in se divisa non stabit. Si Satanas Satanan eicit, adversus se divisus est; quomodo ergo stabit regnum eius? Et si ego in Beelzebul eicio daemonia, filii vestri in quo eiciunt? Ideo ipsi iudices vestri erunt. Si autem ego in Spiritu Dei eicio daemonia, certe pervenit in vos regnum Dei. Quomodo potest quisquam intrare in domum fortis et vasa eius diripere, nisi prius alligaverit fortem? Et tunc domum eius diripiet.
+
+Qui non est mecum, adversum me est, et qui non congregat mecum, spargit. Propterea dico vobis: omne peccatum et blasphemia remittetur hominibus, blasphemia autem in Spiritum non remittetur. Et quicumque dixerit verbum contra Filium Hominis, remittetur ei; qui autem dixerit contra Spiritum Sanctum, non remittetur ei, neque in hoc saeculo neque in futuro.
+
+Aut facite arborem bonam et fructum eius bonum, aut facite arborem malam et fructum eius malum; nam ex fructu arbor cognoscitur. Progenies viperarum, quomodo potestis, mali cum sitis, bona loqui? Ex abundantia enim cordis os loquitur. Bonus homo de bono thesauro profert bona, et malus homo de malo thesauro profert mala. Dico autem vobis quod omne verbum otiosum quod locuti fuerint homines, reddent rationem de eo in die iudicii. Ex verbis enim tuis iustificaberis et ex verbis tuis condemnaberis."
+
+Tunc responderunt quidam de scribis et Pharisaeis dicentes: "Magister, volumus a te signum videre."
+
+At ille respondens dixit eis: "Generatio mala et adultera signum quaerit, et signum non dabitur ei nisi signum Ionae prophetae. Nam sicut Ionas fuit tres dies et tres noctes in ventre ceti magni, sic erit Filius Hominis tres dies et tres noctes in corde terrae. Viri Ninivitae surgent in iudicio cum generatione ista et condemnabunt eam, quia paenitentiam egerunt ad praedicationem Ionae; et ecce, plus quam Ionas hic. Regina austri surget in iudicio cum generatione ista et condemnabit eam, quia venit a finibus terrae audire sapientiam Salomonis; et ecce, plus quam Salomon hic.
+
+Cum spiritus immundus exierit ab homine, perambulat per loca arida quaerens requiem et non invenit. Tunc dicit: 'Revertar in domum meam unde exivi'; et veniens invenit eam vacuam, scopis mundatam et ornatum. Tunc vadit et assumit secum septem alios spiritus nequiores se, et intrantes habitant ibi, et fiunt novissima hominis illius peiora prioribus. Ita erit et generationi huic pessimae."
+
+Adhuc eo loquente ad turbas, ecce mater eius et fratres stabant foris, quaerentes cum eo loqui. Dixit autem ei quidam: "Ecce, mater tua et fratres tui foris stant, quaerentes te loqui."
+
+At ille respondens dicenti sibi ait: "Quae est mater mea? Et qui sunt fratres mei?" Et extendens manum suam in discipulos suos dixit: "Ecce mater mea et fratres mei! Quicumque enim fecerit voluntatem Patris mei qui in caelis est, ipse meus frater et soror et mater est."

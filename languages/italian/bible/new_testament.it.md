@@ -310,3 +310,53 @@ Allora egli cominciò a rimproverare le città nelle quali erano stati compiuti 
 In quel tempo Gesù rispose: "Ti ringrazio, Padre, Signore del cielo e della terra, perché hai nascosto queste cose ai sapienti e agli intelligenti e le hai rivelate ai piccoli. Sì, Padre, perché così è stato gradito davanti a te. Tutto mi è stato dato dal Padre mio. Nessuno conosce il Figlio se non il Padre, e nessuno conosce il Padre se non il Figlio e colui al quale il Figlio lo vuole rivelare.
 
 Venite a me, voi tutti che siete affaticati e oppressi, e io vi darò ristoro. Prendete il mio giogo su di voi e imparate da me, che sono mite e umile di cuore; e troverete ristoro per le vostre anime. Perché il mio giogo è dolce e il mio carico è leggero."
+
+### Capitolo 12
+
+In quel tempo, Gesù passava attraverso i campi di grano di sabato. I suoi discepoli avevano fame e cominciarono a cogliere spighe e a mangiare. Ma i farisei, vedendolo, gli dissero: "Ecco, i tuoi discepoli fanno ciò che non è lecito fare di sabato."
+
+Ma egli disse loro: "Non avete letto ciò che fece Davide quando ebbe fame, lui e coloro che erano con lui: come entrò nella casa di Dio e mangiò i pani dell'offerta, che non era lecito mangiare né per lui né per coloro che erano con lui, ma solo per i sacerdoti? O non avete letto nella legge che di sabato i sacerdoti nel tempio violano il sabato e tuttavia sono senza colpa? Ma io vi dico che qui c'è qualcosa di più grande del tempio. Se aveste saputo cosa significa: 'Voglio misericordia e non sacrificio', non avreste condannato gli innocenti. Perché il Figlio dell'Uomo è signore del sabato."
+
+Partì di là e entrò nella loro sinagoga. Ed ecco, c'era un uomo con una mano inaridita. E gli chiesero: "È lecito guarire di sabato?" per poterlo accusare.
+
+Egli disse loro: "Chi di voi, se ha una pecora e questa cade in una fossa di sabato, non la prende e la tira fuori? Quanto più vale un uomo di una pecora! Perciò è lecito fare del bene di sabato." Poi disse all'uomo: "Tendi la tua mano." Egli la tese e fu restituita sana come l'altra. Ma i farisei uscirono e tennero consiglio contro di lui su come distruggerlo.
+
+Gesù, sapendo ciò, si ritirò di là. Grandi folle lo seguirono ed egli guarì tutti e ordinò loro di non farlo conoscere, affinché si adempisse ciò che era stato detto per mezzo del profeta Isaia:
+
+"Ecco il mio servo, che ho scelto,
+
+il mio diletto, in cui l'anima mia si è compiaciuta.
+
+Porro il mio Spirito su di lui
+
+e annuncerà la giustizia alle nazioni.
+
+Non contenderà, né griderà,
+
+né alcuno udrà la sua voce per le strade.
+
+Non spezzerà una canna schiacciata
+
+e non spegnerà uno stoppino fumante,
+
+finché non porterà la giustizia alla vittoria.
+
+E nel suo nome le nazioni spereranno."
+
+Poi gli fu portato un indemoniato, cieco e muto; e lo guarì, talmente che il cieco e muto parlava e vedeva. Tutte le folle erano stupite e dicevano: "Non è forse costui il figlio di Davide?" Ma i farisei, udito ciò, dissero: "Quest'uomo non scaccia i demoni se non per Beelzebul, principe dei demoni."
+
+Conoscendo i loro pensieri, Gesù disse loro: "Ogni regno diviso contro se stesso va in rovina, e ogni città o casa divisa contro se stessa non potrà sussistere. Se Satana scaccia Satana, è diviso contro se stesso. Come potrà dunque reggere il suo regno? E se io per Beelzebul scaccio i demoni, i vostri figli per chi li scacciano? Per questo essi saranno i vostri giudici. Ma se io per lo Spirito di Dio scaccio i demoni, allora il Regno di Dio è giunto a voi. O come può uno entrare nella casa dell'uomo forte e saccheggiare i suoi beni, se prima non lega l'uomo forte? Poi potrà saccheggiare la sua casa.
+
+Chi non è con me è contro di me, e chi non raccoglie con me, disperde. Perciò io vi dico: ogni peccato e bestemmia sarà perdonato agli uomini, ma la bestemmia contro lo Spirito non sarà perdonata. A chiunque parlerà contro il Figlio dell'Uomo sarà perdonato, ma a chiunque parlerà contro lo Spirito Santo, non sarà perdonato, né in questo secolo né in quello futuro.
+
+O rendete l'albero buono e il suo frutto buono, o rendete l'albero cattivo e il suo frutto cattivo; perché dall'albero si conosce il frutto. Razza di vipere, come potete dire cose buone, essendo cattivi? Poiché dalla sovrabbondanza del cuore parla la bocca. L'uomo buono dal suo buon tesoro trae fuori cose buone, e l'uomo cattivo dal suo cattivo tesoro trae fuori cose cattive. Ma io vi dico che di ogni parola oziosa che gli uomini diranno, dovranno rendere conto nel giorno del giudizio. Perché dalle tue parole sarai giustificato e dalle tue parole sarai condannato."
+
+Allora alcuni degli scribi e dei farisei risposero: "Maestro, vogliamo vedere un segno da te."
+
+Ma egli rispose loro: "Una generazione malvagia e adultera cerca un segno, ma nessun segno le sarà dato se non il segno del profeta Giona. Perché come Giona fu tre giorni e tre notti nel ventre del grande pesce, così il Figlio dell'Uomo sarà tre giorni e tre notti nel cuore della terra. Gli uomini di Ninive si alzeranno nel giudizio con questa generazione e la condanneranno, perché si ravvidero alla predicazione di Giona; ed ecco, qui c'è più di Giona. La regina del Sud si alzerà nel giudizio con questa generazione e la condannerà, perché venne dai confini della terra per ascoltare la sapienza di Salomone; ed ecco, qui c'è più di Salomone.
+
+Quando uno spirito immondo esce da un uomo, passa per luoghi aridi cercando riposo e non ne trova. Allora dice: 'Tornerò nella mia casa da cui sono uscito'; e, arrivato, la trova vuota, spazzata e messa in ordine. Allora va e prende con sé altri sette spiriti peggiori di lui, ed entrati abitano là. E lo stato finale di quell'uomo diventa peggiore del primo. Così sarà anche per questa generazione malvagia."
+
+Mentre ancora parlava alle folle, ecco, sua madre e i suoi fratelli stavano fuori, cercando di parlare con lui. Qualcuno gli disse: "Ecco, tua madre e i tuoi fratelli stanno fuori e cercano di parlarti."
+
+Ma egli rispose a colui che glielo diceva: "Chi è mia madre e chi sono i miei fratelli?" E stendendo la mano verso i suoi discepoli disse: "Ecco mia madre e i miei fratelli! Perché chiunque fa la volontà del Padre mio che è nei cieli, costui è mio fratello, sorella e madre."
