@@ -1,3 +1,4 @@
+# Esperanto Vocabulary
 
 ## A
 * Abija - Abijah
@@ -72,7 +73,6 @@
 * Bosnio - Bosnia
 * Bostona - Boston
 * Brahma - Brahma (relating to Hindu religion)
-* Braille - braille
 * Brazilo - Brazil
 * Bretonio - Brittany
 * Brita - British
@@ -123,6 +123,7 @@
 * Farenhejto - Fahrenheit (temperature scale)
 * Fariseo - Pharisee
 * Farsia - Farsi (the language)
+* Filipinano - Filipino
 * Filipo - Philip
 * Finnlando (Finno + lando) - Finland
 * Finno - Finn
@@ -296,7 +297,6 @@
 * Novjorko - New York
 
 ## O
-* Ohio ŝtata arbo - buckeye (specific to Ohio buckeye tree)
 * Oregona - Oregon
 * Otomana - Ottoman
 
@@ -1123,7 +1123,7 @@
 * danke - thanks to
 * dankema - grateful
 * danko - thanks
-* danktaga - Thanksgiving
+* danktaga - thanksgiving
 * danĝere - dangerously
 * danĝero - danger
 * dateno - data
@@ -1888,7 +1888,6 @@
 * filiiĝi - to affiliate
 * filiiĝo - affiliation
 * filino - daughter
-* filipinano - Filipino
 * filmfaristo - filmmaker
 * filmindustrio - film industry
 * filmo - film, movie
@@ -2174,6 +2173,7 @@
 * hierarkia - hierarchical
 * hierarĥio - hierarchy
 * himno - hymn
+* hipokaŝtano - buckeye
 * hipokritulo - hypocrite
 * hipotetika - hypothetical
 * hipotezi - to hypothesize
@@ -5369,6 +5369,7 @@
 
 ## Ĉ
 * Ĉarlio - Charlie
+* Ĉeĥa - Czech
 * Ĉeĥio - Czech Republic
 * Ĉeĥoslovakio - Czechoslovakia
 * Ĉilio - Chile
@@ -5414,7 +5415,6 @@
 * ĉesigi - to discontinue
 * ĉevalido - colt
 * ĉevalo - horse
-* ĉeĥa - Czech
 * ĉi - this, here (prefix)
 * ĉia - every kind of
 * ĉiam - always
