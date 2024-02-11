@@ -428,3 +428,169 @@ Li diris al ili, "Tial ĉiu skribisto, kiu estas disĉiplo en la Regno de la Ĉi
 Kiam Jesuo finis ĉi tiujn parabolojn, li foriris de tie. Veninte en sian propran landon, li instruis ilin en ilia sinagogo, tiel ke ili estis miregigitaj kaj diris, "De kie ĉi tiu homo havas ĉi tiun saĝon kaj ĉi tiujn potencajn farojn? Ĉu ĉi tiu ne estas la filo de la ĉarpentisto? Ĉu lia patrino ne estas nomata Maria, kaj liaj fratoj Jakobo, Joses, Simon, kaj Judas? Ĉu ĉiuj liaj fratinoj ne estas kun ni? De kie do ĉi tiu homo havas ĉiujn ĉi tiujn aferojn?" Ili estis skandaligitaj pro li.
 
 Sed Jesuo diris al ili, "Profeto ne estas sen honoro, escepte en sia propra lando kaj en sia propra domo." Li ne faris multajn potencajn farojn tie pro ilia malkredo.
+
+### Ĉapitro 14
+
+En tiu tempo, Herodo la tetrarko aŭdis la raporton pri Jesuo, kaj diris al siaj servistoj, "Ĉi tiu estas Johano la Baptisto. Li leviĝis el la mortintoj. Tial ĉi tiuj potencoj funkcias en li." Ĉar Herodo arestis Johanon, ligis lin, kaj metis lin en malliberejon pro Herodias, la edzino de lia frato Filipo. Ĉar Johano diris al li, "Ne estas laŭleĝe por vi havi ŝin." Kvankam li volis lin mortigi, li timis la homamason, ĉar ili konsideris lin kiel profeton. Sed kiam la naskiĝtago de Herodo venis, la filino de Herodias dancis inter ili kaj plaĉis al Herodo. Tial li promesis per ĵuro doni al ŝi kion ajn ŝi petus. Ŝi, instigita de sia patrino, diris, "Donu al mi ĉi tie sur pladon la kapon de Johano la Baptisto."
+
+La reĝo malĝojis, sed pro la konsidero de siaj ĵuroj kaj de tiuj, kiuj sidis kun li ĉe la tablo, li ordonis ĝin esti donita, kaj li sendis kaj senkapigis Johanon en la malliberejo. Lia kapo estis alportita sur plado kaj donita al la junulino; kaj ŝi alportis ĝin al sia patrino. Liaj disĉiploj venis, prenis la korpon, kaj enterigis ĝin. Poste ili iris kaj diris al Jesuo. Nun kiam Jesuo aŭdis tion, li retiriĝis de tie per boato al dezerta loko aparte. Kiam la homamasoj aŭdis tion, ili sekvis lin piede de la urboj.
+
+Jesuo eliris, kaj li vidis grandan homamason. Li kompatis ilin kaj sanigis iliajn malsanulojn. Kiam vespero venis, liaj disĉiploj venis al li, dirante, "Ĉi tiu loko estas dezerta, kaj la horo jam estas malfrua. Sendu la homamasojn for, por ke ili povu iri en la vilaĝojn kaj aĉeti al si manĝaĵon."
+
+Sed Jesuo diris al ili, "Ili ne bezonas foriri. Vi donu al ili ion por manĝi."
+
+Ili diris al li, "Ni havas ĉi tie nur kvin panojn kaj du fiŝojn."
+
+Li diris, "Alportu ilin ĉi tien al mi." Li ordonis al la homamasoj sidiĝi sur la herbo; kaj li prenis la kvin panojn kaj la du fiŝojn, kaj levante siajn okulojn al la ĉielo, li benis, rompis kaj donis la panojn al la disĉiploj; kaj la disĉiploj donis al la homamasoj. Ili ĉiuj manĝis kaj satiĝis. Ili kolektis dek du korbojn plenajn de tio, kio restis super de la rompitaj pecoj. Tiuj, kiuj manĝis, estis ĉirkaŭ kvin mil viroj, krom virinoj kaj infanoj.
+
+Tuj Jesuo faris la disĉiplojn eniri en la boaton kaj antaŭiri lin al la alia flanko, dum li sendis la homamasojn for. Post kiam li sendis la homamasojn for, li supreniris sur la monton sole por preĝi. Kiam vespero venis, li estis tie sola. Sed la boato nun estis meze de la maro, turmentata de la ondoj, ĉar la vento estis kontraŭa. En la kvara gardovico de la nokto, Jesuo venis al ili, marŝante sur la maro. Kiam la disĉiploj vidis lin marŝante sur la maro, ili estis ĝenitaj, dirante, "Ĝi estas fantomo!" kaj ili kriis pro timo. Sed tuj Jesuo parolis al ili, dirante, "Kuraĝu! Mi estas! Ne timu."
+
+Petro respondis al li kaj diris, "Sinjoro, se ĝi estas vi, ordonu al mi veni al vi sur la akvoj."
+
+Li diris, "Venu!"
+
+Petro paŝis malsupren de la boato kaj marŝis sur la akvoj por veni al Jesuo. Sed kiam li vidis, ke la vento estis forta, li timis, kaj komencante sinki, li kriis, dirante, "Sinjoro, savu min!"
+
+Tuj Jesuo etendis sian manon, prenis lin, kaj diris al li, "Vi de malmulta fido, kial vi dubis?" Kiam ili eniris en la boaton, la vento ĉesis. Tiuj, kiuj estis en la boato, venis kaj adorkliniĝis antaŭ li, dirante, "Vi vere estas la Filo de Dio!"
+
+Kiam ili transveturis, ili venis al la lando de Genesareto. Kiam la homoj de tiu loko rekonis lin, ili sendis en ĉiun ĉirkaŭan regionon kaj alportis al li ĉiujn malsanulojn; kaj ili petegis lin, ke ili povu nur tuŝi la randon de lia vesto. Tiom multaj kiel tuŝis ĝin estis sanigitaj.
+
+### Ĉapitro 15
+
+Tiam Fariseoj kaj skribistoj venis al Jesuo el Jerusalemo, dirante, "Kial viaj disĉiploj malobeas la tradicion de la maljunuloj? Ĉar ili ne lavas siajn manojn kiam ili manĝas panon."
+
+Li respondis al ili, "Kial ankaŭ vi malobeas la ordonon de Dio pro via tradicio? Ĉar Dio ordonis, 'Honoru vian patron kaj vian patrinon,' kaj, 'Kiu parolas malbone pri patro aŭ patrino, estu mortigita.' Sed vi diras, 'Kiu ajn diros al sia patro aŭ sia patrino, "Kio ajn helpo vi alie povus ricevi de mi estas donaco dediĉita al Dio," tiu ne honoru sian patron aŭ patrinon.' Vi nuligis la ordonon de Dio pro via tradicio. Vi hipokrituloj! Bone profetis pri vi Jesaja, dirante,
+
+'Ĉi tiu popolo alproksimiĝas al mi per sia buŝo,
+
+kaj honoras min per siaj lipoj;
+
+sed ilia koro estas malproksima de mi.
+
+Kaj ili adoras min vane,
+
+instruante kiel doktrinojn la regulojn faritajn de homoj.'"
+
+Li alvokis la homamason, kaj diris al ili, "Aŭdu kaj komprenu. Tio, kio eniras en la buŝon, ne malpurigas la homon; sed tio, kio eliras el la buŝo, ĉi tio malpurigas la homon."
+
+Tiam la disĉiploj venis kaj diris al li, "Ĉu vi scias, ke la Fariseoj estis ofenditaj kiam ili aŭdis ĉi tiun diraĵon?"
+
+Sed li respondis, "Ĉiu planto, kiun mia ĉiela Patro ne plantis, estos elradikigita. Lasu ilin solaj. Ili estas blindaj gvidantoj de blinduloj. Se la blinda gvidas la blindulon, ambaŭ falos en fosaĵon."
+
+Petro respondis al li, "Klarigu al ni la parabolon."
+
+Do Jesuo diris, "Ĉu ankaŭ vi ankoraŭ ne komprenas? Ĉu vi ne komprenas, ke ĉio, kio eniras en la buŝon, pasas en la ventron kaj poste eliras el la korpo? Sed la aferoj, kiuj eliras el la buŝo, elvenas el la koro, kaj ili malpurigas la homon. Ĉar el la koro venas malbonaj pensoj, murdoj, adultoj, seksaj pekoj, ŝteloj, falsaj atestoj, kaj blasfemoj. Ĉi tiuj estas la aferoj, kiuj malpurigas la homon; sed manĝi per nemanlavita manoj ne malpurigas la homon."
+
+Jesuo eliris de tie kaj retiriĝis en la regionon de Tiro kaj Sidono. Jen, Kanaanida virino eliris el tiuj limoj kaj kriis, dirante, "Kompatu min, Sinjoro, filo de Davido! Mia filino estas severe posedata de demono!"
+
+Sed li ne respondis al ŝi per vorto.
+
+Liaj disĉiploj venis kaj petegis lin, dirante, "Sendu ŝin for; ĉar ŝi krias post ni."
+
+Sed li respondis, "Mi ne estis sendita al iu ajn krom al la perditaj ŝafoj de la domo de Izrael."
+
+Sed ŝi venis kaj adorkliniĝis antaŭ li, dirante, "Sinjoro, helpu min."
+
+Sed li respondis, "Ne estas taŭge preni la panon de la infanoj kaj ĵeti ĝin al la hundoj."
+
+Sed ŝi diris, "Jes, Sinjoro, sed eĉ la hundoj manĝas la panerojn, kiuj falas de la tablo de iliaj mastroj."
+
+Tiam Jesuo respondis al ŝi, "Virino, granda estas via fido! Estu al vi farite laŭ via deziro." Kaj ŝia filino estis sanigita de tiu horo.
+
+Jesuo foriris de tie kaj venis proksime al la maro de Galileo; kaj li supreniris sur la monton kaj sidiĝis tie. Grandaj homamasoj venis al li, kunportante kun si la lamulojn, blindulojn, mutulojn, kriplulojn, kaj multajn aliajn, kaj ili metis ilin ĉe liaj piedoj. Li sanigis ilin, tiel ke la homamaso miris kiam ili vidis la mutulojn parolantaj, la vunditojn sanigitaj, la lamulojn marŝantaj, kaj la blindulojn vidantaj—kaj ili gloradis la Dion de Izrael.
+
+Jesuo alvokis siajn disĉiplojn kaj diris, "Mi kompatas la homamason, ĉar ili jam restis kun mi nun tri tagojn kaj ili havas nenion por manĝi. Mi ne volas sendi ilin for fastante, alie ili eble svenos sur la vojo."
+
+La disĉiploj diris al li, "Kie ni povus akiri tiom da panoj en dezerta loko por kontentigi tiom grandan homamason?"
+
+Jesuo diris al ili, "Kiom da panoj vi havas?"
+
+Ili diris, "Sep, kaj kelkaj malgrandaj fiŝoj."
+
+Li ordonis al la homamaso sidiĝi sur la tero; kaj li prenis la sep panojn kaj la fiŝojn. Li dankis kaj rompis ilin, kaj donis al la disĉiploj, kaj la disĉiploj al la homamasoj. Ili ĉiuj manĝis kaj satiĝis. Ili kolektis sep korbojn plenajn de la rompitaj pecoj, kiuj restis. Tiuj, kiuj manĝis, estis kvar mil viroj, krom virinoj kaj infanoj. Tiam li forsendis la homamasojn, eniris en la boaton, kaj venis en la limojn de Magdala.
+
+### Ĉapitro 16
+
+La Fariseoj kaj Sadukeoj venis, kaj provante lin, petis de li montri al ili signon el la ĉielo. Sed li respondis al ili, "Kiam estas vespero, vi diras, 'Estos bela vetero, ĉar la ĉielo estas ruĝa.' Matene, 'Hodiaŭ estos malbona vetero, ĉar la ĉielo estas ruĝa kaj minaca.' Hipokrituloj! Vi scias distingi la aspekton de la ĉielo, sed vi ne povas distingi la signojn de la tempoj! Malbona kaj adulta generacio serĉas signon, kaj al ĝi ne estos donita signo, escepte la signon de la profeto Jona."
+
+Li lasis ilin kaj foriris. La disĉiploj venis al la alia flanko kaj forgesis preni panon. Jesuo diris al ili, "Atentu kaj gardu vin kontraŭ la fermentaĵo de la Fariseoj kaj Sadukeoj."
+
+Ili rezonis inter si, dirante, "Ni ne portis panon."
+
+Jesuo, rimarkante tion, diris, "Kial vi rezonas inter vi, vi de malmulta fido, ĉar vi ne portis panon? Ĉu vi ankoraŭ ne komprenas nek memoras la kvin panojn por la kvin mil, kaj kiom da korboj vi kolektis, aŭ la sep panojn por la kvar mil, kaj kiom da korboj vi kolektis? Kiel estas, ke vi ne komprenas, ke mi ne parolis al vi pri pano? Sed gardu vin kontraŭ la fermentaĵo de la Fariseoj kaj Sadukeoj."
+
+Tiam ili komprenis, ke li ne diris al ili gardi sin kontraŭ la fermentaĵo de pano, sed kontraŭ la instruado de la Fariseoj kaj Sadukeoj.
+
+Nun kiam Jesuo venis en la partojn de Cezarea Filipo, li demandis siajn disĉiplojn, dirante, "Kion homoj diras, ke mi, la Filo de Homo, estas?"
+
+Ili diris, "Iuj diras Johano la Baptisto, aliaj, Elija, kaj aliaj, Jeremia aŭ unu el la profetoj."
+
+Li diris al ili, "Sed kion vi diras, ke mi estas?"
+
+Simon Petro respondis, "Vi estas la Kristo, la Filo de la vivanta Dio."
+
+Jesuo respondis al li, "Feliĉa estas vi, Simon Bar-Jona, ĉar karno kaj sango ne malkaŝis tion al vi, sed mia Patro, kiu estas en la ĉielo. Ankaŭ mi diras al vi, ke vi estas Petro, kaj sur ĉi tiu roko mi konstruos mian eklezion, kaj la pordegoj de Hadeso ne superos ĝin. Mi donos al vi la ŝlosilojn de la Regno de la Ĉielo, kaj kio ajn vi ligos sur la tero estos ligita en la ĉielo; kaj kio ajn vi maligos sur la tero estos maligita en la ĉielo." Tiam li ordonis al la disĉiploj, ke ili diru al neniu, ke li estis Jesuo la Kristo.
+
+De tiu tempo, Jesuo komencis montri al siaj disĉiploj, ke li devas iri al Jerusalemo kaj suferi multajn aferojn de la maljunuloj, ĉefpastroj, kaj skribistoj, kaj esti mortigita, kaj la trian tagon esti levita.
+
+Petro prenis lin flanken kaj komencis riproĉi lin, dirante, "Estu malproksima de vi, Sinjoro! Tio neniam okazos al vi."
+
+Sed li turniĝis kaj diris al Petro, "Foriru malantaŭ min, Satano! Vi estas falpuŝaĵo por mi, ĉar vi ne havas viajn pensojn pri la aferoj de Dio, sed pri la aferoj de homoj."
+
+Tiam Jesuo diris al siaj disĉiploj, "Se iu volas sekvi min, li neiĝu sin mem, prenu sian krucon, kaj sekvu min. Ĉar kiu ajn volas savi sian vivon, tiu ĝin perdos, kaj kiu ajn perdos sian vivon pro mi, tiu ĝin trovos. Ĉar kio profitos al homo, se li gajnos la tutan mondon kaj damaĝos sian vivon? Aŭ kion homo donos kiel interŝanĝon por sia vivo? Ĉar la Filo de Homo venos en la gloro de sia Patro kun siaj anĝeloj, kaj tiam li rekompencos ĉiun laŭ liaj faroj. Plej certe mi diras al vi, estas kelkaj ĉi tie starantaj, kiuj neniomaniere gustumos la morton ĝis ili vidos la Filon de Homo venantan en sia regno."
+
+### Ĉapitro 17
+
+Post ses tagoj, Jesuo prenis kun si Petron, Jakobon, kaj Johanon, lian fraton, kaj kondukis ilin supren sur altan monton aparte. Li estis transformita antaŭ ili. Lia vizaĝo brilis kiel la suno, kaj liaj vestoj fariĝis blankaj kiel la lumo. Jen, Moseo kaj Elija aperis al ili, parolante kun li.
+
+Petro respondis kaj diris al Jesuo, "Sinjoro, estas bone por ni esti ĉi tie. Se vi volas, ni faru tri tendojn ĉi tie: unu por vi, unu por Moseo, kaj unu por Elija."
+
+Dum li ankoraŭ parolis, jen, brila nubo ombris ilin. Jen, voĉo eliris el la nubo, dirante, "Ĉi tiu estas mia amata Filo, en kiu mi bone plaĉas. Aŭskultu lin."
+
+Kiam la disĉiploj aŭdis ĝin, ili falis sur siajn vizaĝojn, kaj tre timis. Jesuo venis kaj tuŝis ilin kaj diris, "Leviĝu, kaj ne timu." Levante siajn okulojn, ili vidis neniun, escepte Jesuon solan.
+
+Dum ili malsupreniris de la monto, Jesuo ordonis al ili, dirante, "Ne diru al iu ajn kion vi vidis, ĝis la Filo de Homo leviĝos el la mortintoj."
+
+Liaj disĉiploj demandis lin, dirante, "Do kial la skribistoj diras, ke Elija devas veni unue?"
+
+Jesuo respondis al ili, "Elija ja venas unue, kaj restarigos ĉiujn aferojn; sed mi diras al vi, ke Elija jam venis, kaj ili ne rekonis lin, sed faris al li kion ajn ili volis. Same la Filo de Homo ankaŭ suferos pro ili." Tiam la disĉiploj komprenis, ke li parolis al ili pri Johano la Baptisto.
+
+Kiam ili venis al la homamaso, viro venis al li, genufleksante antaŭ li kaj dirante, "Sinjoro, kompatu mian filon, ĉar li estas epilepsia kaj suferas grave; ĉar li ofte falas en la fajron, kaj ofte en la akvon. Do mi alportis lin al viaj disĉiploj, kaj ili ne povis resanigi lin."
+
+Jesuo respondis, "Fidela kaj perversa generacio! Kiom longe mi estu kun vi? Kiom longe mi toleros vin? Alportu lin ĉi tien al mi." Jesuo riproĉis la demonon, kaj ĝi eliris el li, kaj la knabo estis resanigita de tiu horo.
+
+Tiam la disĉiploj venis al Jesuo private, kaj diris, "Kial ni ne povis ĝin elĵeti?"
+
+Li diris al ili, "Pro via malfido. Ĉar vere mi diras al vi, se vi havas fidon kiel grenon de mustardo, vi diros al ĉi tiu monto, 'Movu vin de ĉi tie tien,' kaj ĝi moviĝos; kaj nenio estos neebla por vi. Sed ĉi tiu speco ne eliras krom per preĝo kaj fasto."
+
+Dum ili restis en Galileo, Jesuo diris al ili, "La Filo de Homo estas baldaŭ transdonota en la manojn de homoj, kaj ili mortigos lin, kaj la trian tagon li estos levita supren."
+
+Ili estis ekstreme malĝojaj.
+
+Kiam ili venis al Kapernaumo, tiuj, kiuj kolektis la didraĥmajn monerojn, venis al Petro kaj diris, "Ĉu via instruisto ne pagas la didraĥmon?" Li diris, "Jes."
+
+Kiam li eniris en la domon, Jesuo antaŭvenis al li, dirante, "Kion vi pensas, Simon? De kiu la reĝoj de la tero ricevas doganon aŭ tributon? De siaj infanoj, aŭ de fremduloj?"
+
+Petro diris al li, "De fremduloj."
+
+Jesuo diris al li, "Tial la infanoj estas liberigitaj. Sed, por ke ni ne estu al ili falpuŝaĵo, iru al la maro, ĵetu hokon, kaj prenu la unuan fiŝon, kiu suprenvenos. Kiam vi malfermos ĝian buŝon, vi trovos stateran moneron. Prenu tion, kaj donu ĝin al ili por mi kaj vi."
+
+### Ĉapitro 18
+
+En tiu horo la disĉiploj venis al Jesuo, dirante, "Kiu do estas la plej granda en la Regno de la Ĉielo?"
+
+Jesuo alvokis etan infanon al si, kaj starigis lin meze de ili kaj diris, "Plej certe mi diras al vi, se vi ne konvertiĝos kaj fariĝos kiel etaj infanoj, vi neniomaniere eniros en la Regnon de la Ĉielo. Kiu do humiligas sin kiel ĉi tiu eta infano, tiu estas la plej granda en la Regno de la Ĉielo. Kiu ajn akceptas unu tian etan infanon en mia nomo, akceptas min, sed kiu ajn kaŭzas falpuŝiĝon al unu el ĉi tiuj etuloj, kiuj kredas en mi, estus pli bone por li, se granda muelŝtono estus pendigita ĉirkaŭ lia kolo kaj li estus mergita en la profundojn de la maro.
+
+"Ve al la mondo pro okazoj de falpuŝiĝoj! Ĉar necese estas, ke la okazoj venu, sed ve al tiu persono, per kiu la okazo venas! Se via mano aŭ via piedo kaŭzas al vi falpuŝiĝon, detranĉu ĝin kaj forĵetu ĝin de vi. Estas pli bone por vi eniri en la vivon manka aŭ kripla, ol havante du manojn aŭ du piedojn esti ĵetita en la eternan fajron. Se via okulo kaŭzas al vi falpuŝiĝon, elpiku ĝin kaj forĵetu ĝin de vi. Estas pli bone por vi eniri en la vivon kun unu okulo, ol havante du okulojn esti ĵetita en la Gehena fajron. Vidu, ke vi ne malestimas unu el ĉi tiuj etuloj, ĉar mi diras al vi, ke en la ĉielo iliaj anĝeloj ĉiam vidas la vizaĝon de mia Patro, kiu estas en la ĉielo. Ĉar la Filo de Homo venis por savi tion, kio estis perdita.
+
+"Kion vi pensas? Se viro havas cent ŝafojn, kaj unu el ili eraras, ĉu li ne lasas la naŭdek naŭn, iras al la montoj, kaj serĉas tiun, kiu eraris? Se li trovas ĝin, plej certe mi diras al vi, li ĝojas pri ĝi pli ol pri la naŭdek naŭ, kiuj ne eraris. Same ne estas la volo de via Patro, kiu estas en la ĉielo, ke unu el ĉi tiuj etuloj pereu."
+
+"Se via frato pekas kontraŭ vi, iru, montru al li lian kulpon inter vi kaj li sole. Se li aŭskultas vin, vi regajnis vian fraton. Sed se li ne aŭskultas, prenu unu aŭ du pliajn kun vi, por ke ĉe la buŝo de du aŭ tri atestantoj ĉiu vorto estu konfirmita. Se li rifuzas aŭskulti ilin, diru ĝin al la asembleo. Se li ankaŭ rifuzas aŭdi la asembleon, li estu por vi kiel Gentilo aŭ impostisto. Plej certe mi diras al vi, kion ajn vi ligos sur la tero estos ligita en la ĉielo, kaj kion ajn vi liberigos sur la tero estos liberigita en la ĉielo. Denove, vere mi diras al vi, se du el vi konsentos sur la tero pri io ajn, kion ili petos, ĝi estos farita por ili de mia Patro, kiu estas en la ĉielo. Ĉar kie du aŭ tri estas kunvenintaj en mia nomo, tie mi estas meze de ili."
+
+Tiam Petro venis kaj diris al li, "Sinjoro, kiom ofte mia frato pekos kontraŭ mi, kaj mi pardonos lin? Ĝis sep fojoj?"
+
+Jesuo diris al li, "Mi ne diras al vi ĝis sep fojoj, sed, ĝis sepdek fojojn sep. Tial la Regno de la Ĉielo similas al certa reĝo, kiu volis kvitanci kun siaj servistoj. Kiam li komencis kvitanci, unu estis alportita al li, kiu ŝuldis al li dek mil talentojn. Sed ĉar li ne povis pagi, lia sinjoro ordonis, ke li estu vendita, kun sia edzino, siaj infanoj, kaj ĉio, kion li havis, kaj pago farota. La servisto tial falis malsupren kaj genufleksis antaŭ li, dirante, 'Sinjoro, havu paciencon kun mi, kaj mi repagos al vi ĉion!' La sinjoro de tiu servisto, moviĝinte per kompato, liberigis lin kaj pardonis al li la ŝuldon.
+
+"Sed tiu servisto eliris kaj trovis unu el siaj kunuloj servistoj, kiu ŝuldis al li cent denariojn, kaj li kaptis lin kaj prenis lin je la gorĝo, dirante, 'Pagigu al mi tion, kion vi ŝuldas!'"
+
+"Do lia kunulo servisto falis ĉe liaj piedoj kaj petegis lin, dirante, 'Havu paciencon kun mi, kaj mi repagos al vi!' Li ne volis, sed iris kaj ĵetis lin en malliberejon ĝis li repagus tion, kio estis ŝuldata. Do kiam liaj kunuloj servistoj vidis kion estis farite, ili estis ekstreme malĝojaj, kaj venis kaj rakontis al sia sinjoro ĉion, kio estis farita. Tiam lia sinjoro vokis lin kaj diris al li, 'Vi malbona servisto! Mi pardonis al vi ĉiun tiun ŝuldon ĉar vi petegis min. Ĉu vi ne devus ankaŭ havi kompaton al via kunulo servisto, same kiel mi havis kompaton al vi?' Lia sinjoro koleriĝis, kaj transdonis lin al la turmentistoj ĝis li repagus ĉion, kio estis ŝuldata al li. Tiel mia ĉiela Patro ankaŭ faros al vi, se vi ne ĉiu pardonos al via frato el viaj koroj pro liaj malbonfaroj."
