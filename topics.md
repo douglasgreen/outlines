@@ -7,7 +7,7 @@
 * Algebra - done
 * Algorithms - done
 * Amazon Rainforest
-* American Football - in process
+* American Football - done
 * American Football Players
 * American Literature
 * American National Parks

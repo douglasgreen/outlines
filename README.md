@@ -254,6 +254,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [New Testament](society/religion/christianity/bible/new_testament.en.md)
 
 ### Sports
+* [American Football](society/sports/american_football.en.md)
 * [Sports](society/sports/sports.en.md)
 
 ## Technology
