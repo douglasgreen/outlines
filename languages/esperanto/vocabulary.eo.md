@@ -3620,6 +3620,7 @@
 * kroniko - annal; chronicle
 * krono - crown
 * kronologia - chronological
+* kronologio - chronology; timeline
 * krozado - cruising
 * krozi - to cruise
 * krozŝipo - cruiser
