@@ -445,7 +445,7 @@
 * New Zealand
 * Node.js and Node Package Manager (NPM) - done
 * Norse Mythology
-* North America - in process
+* North America - done
 * NoSQL
 * Nuclear Technology
 * Nuclear War

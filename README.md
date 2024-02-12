@@ -281,6 +281,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [India](world/asia/india.en.md)
 
 ### North America
+* [North America](world/north_america/north_america.en.md)
 
 #### United States
 * [United States](world/north_america/united_states/united_states.en.md)
