@@ -349,3 +349,7 @@ Lorsqu'un esprit impur est sorti d'un homme, il parcourt des lieux arides, cherc
 Tandis qu'il parlait encore aux foules, voilà que sa mère et ses frères se tenaient dehors, cherchant à lui parler. Quelqu'un lui dit : « Voici, ta mère et tes frères se tiennent dehors, cherchant à te parler. »
 
 Mais il répondit à celui qui le lui disait : « Qui est ma mère, et qui sont mes frères ? » Et, étendant la main vers ses disciples, il dit : « Voici ma mère et mes frères ! Car quiconque fait la volonté de mon Père qui est dans les cieux, celui-là est mon frère, et ma sœur, et ma mère. »
+
+### Chapitre 13
+
+

@@ -69,3 +69,39 @@ Sonra İsa, vaftiz olmak üzere, Celile'den Ürdün'e, Yahya'nın yanına geldi.
 Ama İsa cevap vererek ona şöyle dedi: "Şimdiye izin ver, çünkü bu, tüm doğruluğu yerine getirmemiz için uygun yoldur." O zaman ona izin verdi.
 
 İsa vaftiz edildiğinde, doğrudan sudan çıktı: ve işte, gökler O'na açıldı. Tanrı'nın Ruhu'nun bir güvercin gibi inip üzerine geldiğini gördü. İşte, göklerden bir ses şöyle dedi: “Bu, benim sevgili Oğlum, O'ndan çok memnunum.”
+
+### Bölüm 4
+
+O zaman İsa, Şeytan tarafından denenmek üzere, Ruh tarafından çöle çıkarıldı. Kırk gün kırk gece oruç tuttuktan sonra, sonrasında açlık hissetti. Deneyici gelip O'na şöyle dedi: "Eğer Tanrı'nın Oğlu isen, bu taşların ekmek olmasını emret."
+
+Ama O şu cevabı verdi: "Yazılmıştır, 'İnsan yalnızca ekmekle yaşamaz, ama Tanrı'nın ağzından çıkan her sözle yaşar.'"
+
+Sonra Şeytan O'nu kutsal şehre götürdü. O'nu tapınağın en yüksek noktasına koydu ve O'na şöyle dedi: "Eğer Tanrı'nın Oğlu isen, kendini aşağı at, çünkü yazılmıştır,
+'Meleklerine senin için emir verecek,' ve,
+'Elleriyle seni tutacaklar,
+ayakların taşa çarpmasın diye.'"
+
+İsa ona şöyle dedi: "Yine de yazılmıştır, 'Rabbin Tanrı'nı sınamayacaksın.'"
+
+Şeytan, O'nu yine çok yüksek bir dağa götürdü ve O'na dünyanın tüm krallıklarını ve görkemlerini gösterdi. O'na şöyle dedi: "Eğer yere kapanıp bana taparsan, bunların hepsini sana vereceğim."
+
+O zaman İsa O'na şöyle dedi: "Çekil arkama, Şeytan! Çünkü yazılmıştır, 'Rabbin Tanrı'nı tapacaksın ve yalnızca O'na hizmet edeceksin.'"
+
+Sonra Şeytan O'nu terk etti, ve işte, melekler gelip O'na hizmet ettiler.
+
+Şimdi, İsa Yahya'nın teslim edildiğini duyunca, Celile'ye çekildi. Nasıra'yı terk ederek, deniz kenarında, Zebulun ve Naftali bölgesinde bulunan Kafarnaum'a gelip orada yaşamaya başladı ki, Yeşaya peygamber aracılığıyla söylenen şey gerçekleşsin, diyen:
+"Zebulun diyarı ve Naftali diyarı,
+deniz yolu, Ötesi Ürdün,
+putperestlerin Galile'si,
+karanlıkta oturan halk büyük bir ışık gördü;
+ölüm gölgesi diyarında oturanlara ışık doğdu."
+
+O zamandan itibaren İsa vaaz vermeye ve şöyle demeye başladı: "Tövbe edin! Çünkü Göklerin Krallığı yakındır."
+
+Celile Gölü'nün kenarında yürürken, iki kardeşi gördü: Simon, Petrus diye çağrılan, ve kardeşi Andreas, denize ağ atıyorlardı; çünkü onlar balıkçıydılar. Onlara şöyle dedi: "Benim ardımdan gelin, sizi insanları avlayan balıkçılar yapacağım."
+
+Onlar hemen ağlarını bırakıp O'nun peşinden gittiler. Oradan ilerleyince, Zebedi'nin oğlu Yakup ve kardeşi Yuhanna'yı, babaları Zebedi ile birlikte teknede, ağlarını onarırken gördü. Onları çağırdı. Onlar da hemen tekneyi ve babalarını bırakıp O'nun peşinden gittiler.
+
+İsa, tüm Celile'de dolaşarak, sinagoglarda öğretiyor, Krallığın İyi Haberini müjdeliyor ve halk arasındaki her türlü hastalığı ve her türlü rahatsızlığı iyileştiriyordu. Hakkındaki haber tüm Suriye'ye yayıldı. Her türlü hastalıklardan, dertlerden muzdarip olanlar, cinliler, saralılar ve felçliler dahil olmak üzere tüm hastalar O'na getirildi; ve O, onları iyileştirdi. Celile, Dekapolis, Yeruşalim, Yahudiye ve Ürdün'ün ötesinden büyük kalabalıklar O'nun peşinden gitti.
+
+
