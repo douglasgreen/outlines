@@ -233,6 +233,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Law](society/law/law.en.md)
 
 #### Crime
+* [Crime](society/law/crime/crime.en.md)
 * [Piracy](society/law/crime/piracy.en.md)
 
 ### Philosophy

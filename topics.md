@@ -142,7 +142,7 @@
 * COVID-19 - done
 * C Programming
 * C++ Programming
-* Crime - in process
+* Crime - done
 * Critical Thinking
 * Crocodilians
 * Cryptography - done
