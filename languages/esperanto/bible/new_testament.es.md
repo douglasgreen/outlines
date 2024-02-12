@@ -425,7 +425,7 @@ Ili respondis al li, "Jes, Sinjoro."
 
 Li diris al ili, "Tial ĉiu skribisto, kiu estas disĉiplo en la Regno de la Ĉielo, estas kiel homo, kiu estas dommastro, kiu elportas el sia trezoro novajn kaj malnovajn aferojn."
 
-Kiam Jesuo finis ĉi tiujn parabolojn, li foriris de tie. Veninte en sian propran landon, li instruis ilin en ilia sinagogo, tiel ke ili estis miregigitaj kaj diris, "De kie ĉi tiu homo havas ĉi tiun saĝon kaj ĉi tiujn potencajn farojn? Ĉu ĉi tiu ne estas la filo de la ĉarpentisto? Ĉu lia patrino ne estas nomata Maria, kaj liaj fratoj Jakobo, Joses, Simon, kaj Judas? Ĉu ĉiuj liaj fratinoj ne estas kun ni? De kie do ĉi tiu homo havas ĉiujn ĉi tiujn aferojn?" Ili estis skandaligitaj pro li.
+Kiam Jesuo finis ĉi tiujn parabolojn, li foriris de tie. Veninte en sian propran landon, li instruis ilin en ilia sinagogo, tiel ke ili estis miregigitaj kaj diris, "De kie ĉi tiu homo havas ĉi tiun saĝon kaj ĉi tiujn potencajn farojn? Ĉu ĉi tiu ne estas la filo de la ĉarpentisto? Ĉu lia patrino ne estas nomata Maria, kaj liaj fratoj Jakobo, Joses, Simono, kaj Judas? Ĉu ĉiuj liaj fratinoj ne estas kun ni? De kie do ĉi tiu homo havas ĉiujn ĉi tiujn aferojn?" Ili estis skandaligitaj pro li.
 
 Sed Jesuo diris al ili, "Profeto ne estas sen honoro, escepte en sia propra lando kaj en sia propra domo." Li ne faris multajn potencajn farojn tie pro ilia malkredo.
 
@@ -527,9 +527,9 @@ Ili diris, "Iuj diras Johano la Baptisto, aliaj, Elija, kaj aliaj, Jeremia aŭ u
 
 Li diris al ili, "Sed kion vi diras, ke mi estas?"
 
-Simon Petro respondis, "Vi estas la Kristo, la Filo de la vivanta Dio."
+Simono Petro respondis, "Vi estas la Kristo, la Filo de la vivanta Dio."
 
-Jesuo respondis al li, "Feliĉa estas vi, Simon Bar-Jona, ĉar karno kaj sango ne malkaŝis tion al vi, sed mia Patro, kiu estas en la ĉielo. Ankaŭ mi diras al vi, ke vi estas Petro, kaj sur ĉi tiu roko mi konstruos mian eklezion, kaj la pordegoj de Hadeso ne superos ĝin. Mi donos al vi la ŝlosilojn de la Regno de la Ĉielo, kaj kio ajn vi ligos sur la tero estos ligita en la ĉielo; kaj kio ajn vi maligos sur la tero estos maligita en la ĉielo." Tiam li ordonis al la disĉiploj, ke ili diru al neniu, ke li estis Jesuo la Kristo.
+Jesuo respondis al li, "Feliĉa estas vi, Simono Bar-Jona, ĉar karno kaj sango ne malkaŝis tion al vi, sed mia Patro, kiu estas en la ĉielo. Ankaŭ mi diras al vi, ke vi estas Petro, kaj sur ĉi tiu roko mi konstruos mian eklezion, kaj la pordegoj de Hadeso ne superos ĝin. Mi donos al vi la ŝlosilojn de la Regno de la Ĉielo, kaj kio ajn vi ligos sur la tero estos ligita en la ĉielo; kaj kio ajn vi maligos sur la tero estos maligita en la ĉielo." Tiam li ordonis al la disĉiploj, ke ili diru al neniu, ke li estis Jesuo la Kristo.
 
 De tiu tempo, Jesuo komencis montri al siaj disĉiploj, ke li devas iri al Jerusalemo kaj suferi multajn aferojn de la maljunuloj, ĉefpastroj, kaj skribistoj, kaj esti mortigita, kaj la trian tagon esti levita.
 
@@ -569,7 +569,7 @@ Ili estis ekstreme malĝojaj.
 
 Kiam ili venis al Kapernaumo, tiuj, kiuj kolektis la didraĥmajn monerojn, venis al Petro kaj diris, "Ĉu via instruisto ne pagas la didraĥmon?" Li diris, "Jes."
 
-Kiam li eniris en la domon, Jesuo antaŭvenis al li, dirante, "Kion vi pensas, Simon? De kiu la reĝoj de la tero ricevas doganon aŭ tributon? De siaj infanoj, aŭ de fremduloj?"
+Kiam li eniris en la domon, Jesuo antaŭvenis al li, dirante, "Kion vi pensas, Simono? De kiu la reĝoj de la tero ricevas doganon aŭ tributon? De siaj infanoj, aŭ de fremduloj?"
 
 Petro diris al li, "De fremduloj."
 
@@ -594,3 +594,79 @@ Jesuo diris al li, "Mi ne diras al vi ĝis sep fojoj, sed, ĝis sepdek fojojn se
 "Sed tiu servisto eliris kaj trovis unu el siaj kunuloj servistoj, kiu ŝuldis al li cent denariojn, kaj li kaptis lin kaj prenis lin je la gorĝo, dirante, 'Pagigu al mi tion, kion vi ŝuldas!'"
 
 "Do lia kunulo servisto falis ĉe liaj piedoj kaj petegis lin, dirante, 'Havu paciencon kun mi, kaj mi repagos al vi!' Li ne volis, sed iris kaj ĵetis lin en malliberejon ĝis li repagus tion, kio estis ŝuldata. Do kiam liaj kunuloj servistoj vidis kion estis farite, ili estis ekstreme malĝojaj, kaj venis kaj rakontis al sia sinjoro ĉion, kio estis farita. Tiam lia sinjoro vokis lin kaj diris al li, 'Vi malbona servisto! Mi pardonis al vi ĉiun tiun ŝuldon ĉar vi petegis min. Ĉu vi ne devus ankaŭ havi kompaton al via kunulo servisto, same kiel mi havis kompaton al vi?' Lia sinjoro koleriĝis, kaj transdonis lin al la turmentistoj ĝis li repagus ĉion, kio estis ŝuldata al li. Tiel mia ĉiela Patro ankaŭ faros al vi, se vi ne ĉiu pardonos al via frato el viaj koroj pro liaj malbonfaroj."
+
+### Ĉapitro 19
+
+Kiam Jesuo finis ĉi tiujn vortojn, li foriris el Galileo kaj venis en la limojn de Judeo trans la Jordanon. Grandaj homamasoj sekvis lin, kaj li sanigis ilin tie.
+
+Fariseoj venis al li, provante lin kaj dirante, "Ĉu estas laŭleĝe por viro forsendi sian edzinon pro ia ajn kialo?"
+
+Li respondis, "Ĉu vi ne legis, ke tiu, kiu kreis ilin dekomence, faris ilin vira kaj ina, kaj diris, 'Pro ĉi tiu kialo viro forlasos sian patron kaj patrinon, kaj aliĝos al sia edzino; kaj la du fariĝos unu karno'? Do ili ne plu estas du, sed unu karno. Kion do Dio kunigis, tion homo ne disigu."
+
+Ili demandis lin, "Kial do Moseo ordonis al ni doni al ŝi eksigilon kaj eksigi ŝin?"
+
+Li diris al ili, "Moseo, pro la malmoleco de viaj koroj, permesis al vi forsendi viajn edzinojn, sed dekomence tio ne estis tiel. Mi diras al vi, ke kiu ajn forsendas sian edzinon, escepte pro seksa malĉasteco, kaj edziĝas al alia, faras adulton; kaj kiu edziĝas al ŝi kiam ŝi estas eksigita, faras adulton."
+
+Liaj disĉiploj diris al li, "Se tia estas la kazo de la viro kun lia edzino, ne estas oportune edziĝi."
+
+Sed li diris al ili, "Ne ĉiuj homoj povas akcepti ĉi tiun diraĵon, sed tiuj al kiuj ĝi estas donita. Ĉar estas eŭnukoj, kiuj naskiĝis tiaj de la ventro de sia patrino, kaj estas eŭnukoj, kiuj estis faritaj eŭnukoj de homoj; kaj estas eŭnukoj, kiuj faris sin eŭnukoj pro la Regno de la Ĉielo. Kiu povas akcepti ĝin, tiu akceptu ĝin."
+
+Tiam oni alportis al li etajn infanojn, ke li metu sur ilin siajn manojn kaj preĝu; kaj la disĉiploj riproĉis ilin. Sed Jesuo diris, "Lasu la etajn infanojn, kaj ne malpermesu al ili veni al mi; ĉar al tiaj apartenas la Regno de la Ĉielo." Li metis sur ilin siajn manojn, kaj foriris de tie.
+
+Jen unu venis al li kaj diris, "Bona instruisto, kian bonan aferon mi faru, por ke mi havu eternan vivon?"
+
+Li diris al li, "Kial vi nomas min bona? Neniu estas bona krom unu, tio estas, Dio. Sed se vi volas eniri en la vivon, observu la ordonojn."
+
+Li diris al li, "Kiujn?"
+
+Jesuo diris, "'Vi ne mortigu.' 'Vi ne adultu.' 'Vi ne ŝtelu.' 'Vi ne donu falsan ateston.' 'Honoru vian patron kaj vian patrinon.' Kaj, 'Vi amu vian proksimulon kiel vin mem.'"
+
+La juna viro diris al li, "Ĉiujn ĉi tiujn aferojn mi observis de mia juneco. Kion mi ankoraŭ mankas?"
+
+Jesuo diris al li, "Se vi volas esti perfekta, iru, vendu tion, kion vi havas, kaj donu al la malriĉuloj, kaj vi havos trezoron en la ĉielo; kaj venu, sekvu min." Sed kiam la juna viro aŭdis tion, li foriris malgaja, ĉar li estis iu, kiu havis grandajn posedaĵojn.
+
+Jesuo diris al siaj disĉiploj, "Plej certe mi diras al vi, malfacile riĉulo eniros en la Regnon de la Ĉielo. Denove mi diras al vi, estas pli facile por kamelo trairi tra la truo de kudrilo ol por riĉulo eniri en la Regnon de Dio."
+
+Kiam la disĉiploj aŭdis tion, ili estis ekstreme mirigitaj, dirante, "Kiu do povas esti savita?"
+
+Rigardante ilin, Jesuo diris, "Ĉe homoj tio estas neebla, sed ĉe Dio ĉio estas ebla."
+
+Tiam Petro respondis, "Jen, ni forlasis ĉion kaj sekvis vin. Kion do ni havos?"
+
+Jesuo diris al ili, "Plej certe mi diras al vi, vi, kiuj sekvis min, en la reĝeneracio kiam la Filo de Homo sidos sur la trono de sia gloro, vi ankaŭ sidos sur dek du tronoj, juĝante la dek du tribojn de Izrael. Ĉiu, kiu forlasis domojn, aŭ fratojn, aŭ fratinojn, aŭ patron, aŭ patrinon, aŭ edzinon, aŭ infanojn, aŭ terojn, pro mia nomo, ricevos centoble, kaj heredos eternan vivon. Sed multaj estos lastaj, kiuj estas unuaj, kaj unuaj, kiuj estas lastaj."
+
+### Ĉapitro 20
+
+"Ĉar la Regno de la Ĉielo estas simila al viro, kiu estis mastro de domanaro, kiu eliris frue matene por dungi laboristojn por sia vinberĝardeno. Kiam li interkonsentis kun la laboristoj por denario tage, li sendis ilin en sian vinberĝardenon. Li eliris ĉirkaŭ la tria horo, kaj vidis aliajn senokupajn starantajn en la bazaro. Li diris al ili, 'Ankaŭ vi iru en la vinberĝardenon, kaj kion ajn ĝustas mi donos al vi.' Do ili iris sian vojon. Denove li eliris ĉirkaŭ la sesa kaj la naŭa horo, kaj faris same. Ĉirkaŭ la dekunua horo li eliris kaj trovis aliajn senokupajn starantajn. Li diris al ili, 'Kial vi staras ĉi tie tutan tagon senokupaj?'
+
+"Ili diris al li, 'Ĉar neniu dungiĝis nin.'
+
+"Li diris al ili, 'Ankaŭ vi iru en la vinberĝardenon, kaj vi ricevos kion ajn ĝustas.'
+
+"Kiam vespero venis, la sinjoro de la vinberĝardeno diris al sia estro, 'Voku la laboristojn kaj pagu al ili iliajn salajrojn, komencante de la lastaj ĝis la unuaj.' Kiam tiuj, kiuj estis dungitaj ĉirkaŭ la dekunua horo venis, ili ĉiu ricevis denarion. Kiam la unuaj venis, ili supozis, ke ili ricevos pli; kaj ili same ĉiu ricevis denarion. Kiam ili ricevis ĝin, ili murmuris kontraŭ la mastro de la domanaro, dirante, 'Ĉi tiuj lastaj laboris unu horon, kaj vi faris ilin egalaj al ni, kiuj portis la ŝarĝon de la tago kaj la bruligan varmon!'
+
+"Sed li respondis al unu el ili, 'Amiko, mi ne faras al vi maljustaĵon. Ĉu vi ne interkonsentis kun mi por denario? Prenu tion, kio estas via, kaj iru vian vojon. Estas mia deziro doni al ĉi tiu lasta same kiel al vi. Ĉu ne estas laŭleĝe por mi fari kion mi volas kun tio, kion mi posedas? Aŭ ĉu via okulo estas malbona, ĉar mi estas bona?' Do la lastaj estos unuaj, kaj la unuaj lastaj. Ĉar multaj estas vokitaj, sed malmultaj elektitaj."
+
+Dum Jesuo supreniris al Jerusalemo, li prenis la dek du disĉiplojn flanken, kaj sur la vojo li diris al ili, "Jen, ni supreniras al Jerusalemo, kaj la Filo de Homo estos transdonita al la ĉefpastroj kaj skribistoj, kaj ili kondamnos lin al morto, kaj transdonos lin al la Gentoj por moki, skurgi, kaj krucumi; kaj la trian tagon li estos levita supren."
+
+Tiam la patrino de la filoj de Zebedeo venis al li kun siaj filoj, genufleksante kaj petante certan aferon de li. Li diris al ŝi, "Kion vi volas?"
+
+Ŝi diris al li, "Ordigu, ke ĉi tiuj, miaj du filoj, sidu, unu ĉe via dekstra mano kaj unu ĉe via maldekstra mano, en via Regno."
+
+Sed Jesuo respondis, "Vi ne scias, kion vi petas. Ĉu vi kapablas trinki la kalikon, kiun mi estas sur la punkto trinki, kaj esti baptita per la bapto, per kiu mi estas baptita?"
+
+Ili diris al li, "Ni kapablas."
+
+Li diris al ili, "Vi ja trinkos mian kalikon, kaj estos baptitaj per la bapto, per kiu mi estas baptita; sed sidi ĉe mia dekstra mano kaj ĉe mia maldekstra mano ne estas mia doni, sed ĝi estas por tiuj, por kiuj ĝi estis preparita de mia Patro."
+
+Kiam la dek aŭdis tion, ili indignis kontraŭ la du fratoj.
+
+Sed Jesuo alvokis ilin, kaj diris, "Vi scias, ke la regantoj de la nacioj sinjorregas super ili, kaj iliaj granduloj ekzercas aŭtoritaton super ili. Ne tiel estu inter vi; sed kiu ajn deziras fariĝi granda inter vi, tiu estu via servisto. Kiu ajn deziras esti la unua inter vi, tiu estu via sklavo, same kiel la Filo de Homo ne venis por esti servata, sed por servi, kaj doni sian vivon kiel elaĉeton por multaj."
+
+Kiam ili eliris el Jeriĥo, granda homamaso sekvis lin. Jen, du blinduloj sidantaj apud la vojo, kiam ili aŭdis, ke Jesuo preterpasas, kriis, "Sinjoro, kompatu nin, filo de Davido!" La homamaso riproĉis ilin, dirante, ke ili estu silentaj, sed ili eĉ pli forte kriis, "Sinjoro, kompatu nin, filo de Davido!"
+
+Jesuo haltis kaj vokis ilin, kaj demandis, "Kion vi volas, ke mi faru por vi?"
+
+Ili diris al li, "Sinjoro, ke niaj okuloj estu malfermitaj."
+
+Jesuo, moviĝinte per kompato, tuŝis iliajn okulojn; kaj tuj iliaj okuloj ricevis vidon, kaj ili sekvis lin.
