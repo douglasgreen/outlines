@@ -68,3 +68,38 @@ Toen kwam Jezus uit Galilea naar de Jordaan, naar Johannes, om door hem gedoopt 
 Maar Jezus antwoordde hem: "Laat het nu toe, want zo past het ons om alle gerechtigheid te vervullen." Toen stond hij het toe.
 
 Jezus, toen hij gedoopt was, kwam meteen uit het water omhoog: en zie, de hemelen openden zich voor hem. Hij zag de Geest van God neerdalen als een duif, en op hem neerkomen. Zie, een stem uit de hemelen zei: "Dit is mijn geliefde Zoon, in wie Ik mijn welbehagen heb."
+
+### Hoofdstuk 4
+
+Toen werd Jezus door de Geest naar de woestijn geleid om door de duivel verzocht te worden. Nadat Hij veertig dagen en veertig nachten had gevast, kreeg Hij daarna honger. De verzoeker kwam en zei tegen Hem: "Als U de Zoon van God bent, beveel dan dat deze stenen broden worden."
+
+Maar Hij antwoordde: "Er staat geschreven: 'De mens zal niet leven van brood alleen, maar van elk woord dat uit de mond van God voortkomt.'"
+
+Vervolgens nam de duivel Hem mee naar de heilige stad, zette Hem op de hoogste punt van de tempel en zei tegen Hem: "Als U de Zoon van God bent, werp Uzelf dan naar beneden, want er staat geschreven:
+'Hij zal Zijn engelen aangaande U bevel geven,' en,
+'Op hun handen zullen zij U dragen,
+opdat U uw voet niet aan een steen stoot.'"
+
+Jezus zei tegen hem: "Er staat ook geschreven: 'Je zult de Heer, jouw God, niet op de proef stellen.'"
+
+Weer nam de duivel Hem mee naar een zeer hoge berg en toonde Hem alle koninkrijken van de wereld en hun heerlijkheid. Hij zei tegen Hem: "Dit alles zal ik U geven, als U neervalt en mij aanbidt."
+
+Toen zei Jezus tegen hem: "Ga weg, Satan! Want er staat geschreven: 'Je zult de Heer, jouw God, aanbidden en Hem alleen dienen.'"
+
+Toen verliet de duivel Hem, en zie, engelen kwamen en dienden Hem.
+
+Toen Jezus hoorde dat Johannes overgeleverd was, trok Hij zich terug naar Galilea. Hij verliet Nazareth en ging wonen in Kafarnaüm, dat aan de zee ligt, in het gebied van Zebulon en Naftali, opdat vervuld zou worden wat gesproken was door de profeet Jesaja, die zei:
+"Het land Zebulon en het land Naftali,
+aan de weg naar zee, over de Jordaan,
+Galilea van de heidenen,
+het volk dat in duisternis zat, heeft een groot licht gezien;
+en voor hen die zaten in het gebied en schaduw van de dood,
+voor hen is een licht opgegaan."
+
+Vanaf die tijd begon Jezus te prediken en te zeggen: "Bekeer u, want het Koninkrijk der Hemelen is nabij.
+
+Toen Hij langs de zee van Galilea liep, zag Hij twee broers: Simon, die Petrus wordt genoemd, en Andreas, zijn broer, die een net in de zee wierpen; want zij waren vissers. Hij zei tegen hen: "Kom achter Mij aan, en Ik zal jullie vissers van mensen maken."
+
+Ze lieten onmiddellijk hun netten achter en volgden Hem. Verdergaand van daar zag Hij twee andere broers, Jakobus, de zoon van Zebedeüs, en Johannes, zijn broer, in de boot met hun vader Zebedeüs, terwijl zij hun netten herstelden. Hij riep hen. Ze lieten onmiddellijk de boot en hun vader achter en volgden Hem.
+
+Jezus trok rond door heel Galilea, onderwees in hun synagogen, predikte het goede nieuws van het Koninkrijk en genas elke ziekte en elke kwaal onder het volk. Het gerucht over Hem verspreidde zich door heel Syrië. Ze brachten allen die ziek waren, bezeten door verschillende ziekten en pijnen, bezetenen, epileptici en verlamden naar Hem toe; en Hij genas hen. Grote menigten uit Galilea, Decapolis, Jeruzalem, Judea en van over de Jordaan volgden Hem."
