@@ -670,3 +670,69 @@ Jesuo haltis kaj vokis ilin, kaj demandis, "Kion vi volas, ke mi faru por vi?"
 Ili diris al li, "Sinjoro, ke niaj okuloj estu malfermitaj."
 
 Jesuo, moviĝinte per kompato, tuŝis iliajn okulojn; kaj tuj iliaj okuloj ricevis vidon, kaj ili sekvis lin.
+
+### Ĉapitro 21
+
+Kiam ili alproksimiĝis al Jerusalemo kaj venis al Betfage, ĉe la monto de Olivoj, tiam Jesuo sendis du disĉiplojn, dirante al ili, "Iru en la vilaĝon, kiu estas kontraŭ vi, kaj tuj vi trovos azeninon ligita, kaj ŝia ido kun ŝi. Malkatenigu ilin kaj konduku ilin al mi. Se iu diras ion al vi, vi diru, 'La Sinjoro bezonas ilin,' kaj tuj li sendos ilin."
+
+Ĉio tio okazis, por ke plenumiĝu tio, kio estis parolita per la profeto, dirante,
+
+"Diru al la filino de Cion,
+
+jen, via Reĝo venas al vi,
+
+humila, kaj rajdanta sur azeno,
+
+sur ido, la felo de azenino."
+
+La disĉiploj iris kaj faris ĝuste kiel Jesuo ordonis al ili, kaj alportis la azeninon kaj ŝian idon kaj metis siajn vestojn sur ilin; kaj li sidiĝis sur ili. Tre granda homamaso disetendis siajn vestojn sur la vojo. Aliaj tondis branĉojn de la arboj kaj disetendis ilin sur la vojo. La homamasoj, kiuj iris antaŭ li, kaj tiuj, kiuj sekvis, daŭre kriis, "Hosana al la filo de Davido! Benita estas tiu, kiu venas en la nomo de la Sinjoro! Hosana en la plej altaj ĉieloj!"
+
+Kiam li eniris en Jerusalemon, la tuta urbo estis ekscitita, dirante, "Kiu estas ĉi tiu?"
+
+La homamasoj diris, "Ĉi tio estas la profeto, Jesuo, el Nazareto de Galileo."
+
+Jesuo eniris en la templon de Dio kaj elpelis ĉiujn, kiuj vendis kaj aĉetis en la templo, kaj renversis la tablojn de la monŝanĝistoj kaj la seĝojn de tiuj, kiuj vendis la kolombojn. Li diris al ili, "Estas skribite, 'Mia domo estos nomata domo de preĝo,' sed vi faris ĝin raba nesto!"
+
+La lamenuloj kaj blinduloj venis al li en la templo, kaj li sanigis ilin. Sed kiam la ĉefpastroj kaj la skribistoj vidis la mirindajn aferojn, kiujn li faris, kaj la infanojn, kiuj kriis en la templo kaj diris, "Hosana al la filo de Davido!" ili estis indignaj, kaj diris al li, "Ĉu vi aŭdas, kion ĉi tiuj diras?"
+
+Jesuo diris al ili, "Jes. Ĉu vi neniam legis, 'El la buŝo de infanoj kaj suĉinfanoj vi perfektigis laŭdon'?"
+
+Li lasis ilin kaj eliris el la urbo al Betania, kaj tie li tendaris.
+
+Nun matene, dum li revenis al la urbo, li malsatis. Vidante figarbon apud la vojo, li aliris ĝin kaj trovis nenion sur ĝi krom folioj. Li diris al ĝi, "De nun kaj por ĉiam estu neniu frukto de vi!"
+
+Tuj la figarbo velkis.
+
+Kiam la disĉiploj vidis tion, ili miris, dirante, "Kiel la figarbo tuj velkis?"
+
+Jesuo respondis al ili, "Plej certe mi diras al vi, se vi havas fidon kaj ne dubas, vi ne nur faros tion, kio estis farita al la figarbo, sed eĉ se vi dirus al ĉi tiu monto, 'Estu levita kaj ĵetita en la maron,' ĝi estus farita. Ĉiuj aferoj, kion ajn vi petas en preĝo, kredante, vi ricevos."
+
+Kiam li venis en la templon, la ĉefpastroj kaj la maljunuloj de la popolo venis al li, dum li instruis, kaj diris, "Per kia aŭtoritato vi faras ĉi tiujn aferojn? Kiu donis al vi ĉi tiun aŭtoritaton?"
+
+Jesuo respondis al ili, "Ankaŭ mi demandos al vi unu demandon, kiu, se vi diras al mi, same mi diros al vi per kia aŭtoritato mi faras ĉi tiujn aferojn. La bapto de Johano, de kie ĝi estis? El la ĉielo aŭ de homoj?"
+
+Ili rezonis kun si mem, dirante, "Se ni diras, 'El la ĉielo,' li demandos al ni, 'Kial do vi ne kredis lin?' Sed se ni diras, 'De homoj,' ni timas la homamason, ĉar ĉiuj konsideras Johanon kiel profeton." Ili respondis al Jesuo kaj diris, "Ni ne scias."
+
+Li ankaŭ diris al ili, "Ankaŭ mi ne diros al vi per kia aŭtoritato mi faras ĉi tiujn aferojn. Sed kion vi pensas? Viropersono havis du filojn, kaj li venis al la unua, kaj diris, 'Filo, iru labori hodiaŭ en mia vinberĝardeno.' Li respondis, 'Mi ne volas,' sed poste li ŝanĝis sian opinion, kaj iris. Li venis al la dua, kaj diris la saman aferon. Li respondis, 'Mi iras, sinjoro,' sed li ne iris. Kiu el la du faris la volon de sia patro?"
+
+Ili diris al li, "La unua."
+
+Jesuo diris al ili, "Plej certe mi diras al vi, ke la impostistoj kaj la prostituitinoj eniras en la Regnon de Dio antaŭ vi. Ĉar Johano venis al vi sur la vojo de justeco, kaj vi ne kredis lin; sed la impostistoj kaj la prostituitinoj kredis lin. Kaj vi, vidinte tion, eĉ poste ne pentis, por ke vi kredu lin."
+
+"Aŭskultu alian parabolon. Estis viro, kiu estis mastro de domanaro, kiu plantis vinberĝardenon, ĉirkaŭbaris ĝin, fosis vinpremejon en ĝi, konstruis tureton, luigis ĝin al farmistoj, kaj foriris en alian landon. Kiam la sezono por la frukto alproksimiĝis, li sendis siajn servistojn al la farmistoj por ricevi sian frukton. La farmistoj prenis liajn servistojn, batis unu, mortigis alian, kaj ŝtonumis alian. Denove li sendis aliajn servistojn pli ol la unuaj; kaj ili traktis ilin same. Sed poste li sendis al ili sian filon, dirante, 'Ili respektos mian filon.' Sed la farmistoj, kiam ili vidis la filon, diris inter si, 'Ĉi tiu estas la heredonto. Venu, ni mortigu lin kaj prenu lian heredaĵon.' Do ili prenis lin kaj ĵetis lin ekster la vinberĝardenon, kaj mortigis lin. Kiam do la sinjoro de la vinberĝardeno venos, kion li faros al tiuj farmistoj?"
+
+Ili diris al li, "Li mizere detruos tiujn mizerajn virojn, kaj luigos la vinberĝardenon al aliaj farmistoj, kiuj donos al li la frukton en ĝia sezono."
+
+Jesuo diris al ili, "Ĉu vi neniam legis en la Skriboj,
+
+'La ŝtono, kiun la konstruistoj rifuzis
+
+fariĝis la ĉefa anguloŝtono.
+
+Tio estis de la Sinjoro.
+
+Ĝi estas mirinda en niaj okuloj'?
+
+"Do mi diras al vi, la Regno de Dio estos prenita de vi kaj donita al nacio, kiu produktas ĝian frukton. Kiu ajn falas sur ĉi tiun ŝtonon, disrompiĝos, sed sur kiu ajn ĝi falos, ĝi disŝprucigos lin kiel polvon."
+
+Kiam la ĉefpastroj kaj la Fariseoj aŭdis liajn parabolojn, ili perceptis, ke li parolis pri ili. Kiam ili serĉis kapti lin, ili timis la homamasojn, ĉar ili konsideris lin kiel profeton.
