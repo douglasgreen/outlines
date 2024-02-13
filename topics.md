@@ -490,7 +490,7 @@
 * Political Ideologies
 * Politics - done
 * Pollution/Air Quality
-* Portuguese - in process
+* Portuguese Grammar - in process
 * Popular Bands
 * Positive Psychology
 * Precious Metals
@@ -613,6 +613,7 @@
 * Travel & Tourism
 * Trees and Shrubs
 * Trigonometry
+* Turkish Grammar - in process
 * Typescript
 * Unified Modeling Language (UML) - needs diagrams
 * United Nations
