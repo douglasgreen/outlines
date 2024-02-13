@@ -946,3 +946,99 @@ Post iom da tempo tiuj, kiuj staris apude, venis kaj diris al Petro, "Certe anka
 Tiam li komencis malbeni kaj ĵuri, "Mi ne konas la viron!"
 
 Tuj la koko kantis. Petro rememoris la vorton, kiun Jesuo diris al li, "Antaŭ ol la koko krios, vi tri fojojn neos min." Tiam li eliris kaj ploris amare.
+
+### Ĉapitro 27
+
+Nun kiam mateno venis, ĉiuj ĉefpastroj kaj la plejaĝuloj de la popolo konsiliĝis kontraŭ Jesuo por mortkondamni lin. Ili ligis lin, kondukis lin for, kaj transdonis lin al Poncio Pilato, la guberniestro.
+
+Tiam Judas, kiu lin perfidis, vidante, ke Jesuo estis kondamnita, sentis bedaŭron kaj redonis la tridek arĝentajn monerojn al la ĉefpastroj kaj plejaĝuloj, dirante, "Mi pekis, perfidinte senkulpulon."
+
+Sed ili diris, "Kio tio al ni? Vi mem zorgu pri tio."
+
+Li ĵetis la monerojn en la sanktejon kaj foriris. Tiam li foriris kaj pendigis sin.
+
+La ĉefpastroj prenis la arĝentajn monerojn kaj diris, "Ne estas leĝe meti ilin en la trezorejon, ĉar estas prezo de sango." Ili konsiliĝis kaj aĉetis per ili la kampeton de la potfaristo por enterigi fremdulojn. Tial tiu kampo estas nomata "Sanga Kampo" ĝis hodiaŭ. Tiam plenumiĝis tio, kio estis dirita per la profeto Jeremia, dirante,
+
+"Ili prenis la tridek arĝentajn monerojn,
+
+la prezon de tiu, sur kiu prezo estis metita,
+
+kiun kelkaj el la filoj de Israelo taksis,
+
+kaj ili donis ilin por la kampo de la potfaristo,
+
+kiel la Sinjoro ordonis al mi."
+
+Nun Jesuo staris antaŭ la guberniestro; kaj la guberniestro demandis lin, dirante, "Ĉu vi estas la Reĝo de la Judoj?"
+
+Jesuo diris al li, "Vi mem diras tion."
+
+Kiam li estis akuzata de la ĉefpastroj kaj plejaĝuloj, li respondis nenion. Tiam Pilato diris al li, "Ĉu vi ne aŭdas kiom multe ili atestas kontraŭ vi?"
+
+Li donis al li neniun respondon, eĉ ne unu vorton, tiel ke la guberniestro tre miris.
+
+Nun dum la festo la guberniestro kutimis liberigi al la homamaso unu malliberulon, kiun ili deziris. Ili tiam havis rimarkindan malliberulon nomatan Barabas. Do kiam ili estis kunvenintaj, Pilato diris al ili, "Kiun vi volas, ke mi liberigu al vi? Barabas, aŭ Jesuon, kiu estas nomata Kristo?" Ĉar li sciis, ke pro envio ili lin transdonis.
+
+Dum li sidis sur la juĝseĝo, lia edzino sendis al li, dirante, "Ne faru ion ajn al tiu justulo, ĉar mi hodiaŭ multe suferis en sonĝo pro li."
+
+Nun la ĉefpastroj kaj la plejaĝuloj konvinkis la homamasojn peti Barabas kaj detrui Jesuon. Sed la guberniestro respondis al ili, "Kiun el la du vi volas, ke mi liberigu al vi?"
+
+Ili diris, "Barabas!"
+
+Pilato diris al ili, "Kion do mi faru al Jesuo, kiu estas nomata Kristo?"
+
+Ili ĉiuj diris al li, "Krucumu lin!"
+
+Sed la guberniestro diris, "Kial? Kian malbonon li faris?"
+
+Sed ili ekkriis ege, dirante, "Krucumu lin!"
+
+Do kiam Pilato vidis, ke nenio estis gajnita, sed male ke tumul to komenciĝis, li prenis akvon kaj lavis siajn manojn antaŭ la homamaso, dirante, "Mi estas senkulpa pri la sango de ĉi tiu justa persono. Vi mem vidu pri tio."
+
+La tuta popolo respondis, "Lia sango estu sur ni kaj sur niaj infanoj!"
+
+Tiam li liberigis al ili Barabas, sed Jesuon li skurĝis kaj transdonis por esti krucumita.
+
+Tiam la soldatoj de la guberniestro prenis Jesuon en la pretorejon, kaj kunvenigis la tutan garnizonon kontraŭ li. Ili senvestigis lin kaj metis sur lin skarlatan robon. Ili plektis kronon el dornoj kaj metis ĝin sur lian kapon, kaj kanon en lian dekstran manon; kaj ili genufleksis antaŭ li kaj mokis lin, dirante, "Saluton, Reĝo de la Judoj!" Ili kraĉis sur lin, kaj prenis la kanon kaj frapis lin sur la kapon. Kiam ili mokis lin, ili prenis de li la robon, kaj metis sur lin liajn proprajn vestojn, kaj kondukis lin for por krucumi lin.
+
+Dum ili eliris, ili trovis viron el Cireno, nomatan Simon, kaj devigis lin iri kun ili, por ke li portu lian krucon. Kiam ili venis al loko nomata "Golgato", tio estas, "Loko de kranio," ili donis al li acidan vinon trinkigi miksite kun felo. Kiam li gustumis ĝin, li ne volis trinki. Kiam ili krucumis lin, ili dividis lian vestaron inter si, ĵetante lotojn, kaj ili sidis kaj gardis lin tie. Ili metis super lian kapon la akuzon kontraŭ li skribitan, "ĈI TIU ESTAS JESUO, LA REĜO DE LA JUDOJ."
+
+Tiam estis du rabistoj krucumitaj kun li, unu dekstre kaj unu maldekstre.
+
+Tiuj, kiuj preterpasis, blasfemis lin, skuitante siajn kapojn kaj dirante, "Vi, kiu detruas la templon kaj rekonstruas ĝin en tri tagoj, savu vin mem! Se vi estas la Filo de Dio, malsupreniru de la kruco!"
+
+Simile ankaŭ la ĉefpastroj mokis kun la skribistoj, la Fariseoj, kaj la plejaĝuloj, dirante, "Li savis aliajn, sed li ne povas savi sin mem. Se li estas la Reĝo de Izraelo, li nun malsupreniru de la kruco, kaj ni kredos en lin. Li fidas je Dio. Dio nun liberigu lin, se Li volas lin; ĉar li diris, 'Mi estas la Filo de Dio.'" Ankaŭ la rabistoj, kiuj estis krucumitaj kun li, sammaniere riproĉis lin.
+
+Nun de la sesa horo estis mallumo super la tuta lando ĝis la naŭa horo. Ĉirkaŭ la naŭa horo Jesuo kriis per laŭta voĉo, dirante, "Eli, Eli, lima sabakhtani?" Tio estas, "Mia Dio, mia Dio, kial Vi forlasis min?"
+
+Iuj el tiuj, kiuj staris tie, kiam ili aŭdis tion, diris, "Ĉi tiu viro vokas Elian."
+
+Tuj unu el ili kuris kaj prenis spongon, plenigis ĝin per vinagro, metis ĝin sur kano, kaj donis al li trinki. La ceteraj diris, "Lasu lin. Ni vidu ĉu Elija venas por savi lin."
+
+Jesuo denove kriis per laŭta voĉo, kaj transdonis sian spiriton.
+
+Jen, la kurteno de la templo disŝiriĝis en du partojn de supre ĝis malsupre. La tero skuiĝis kaj la rokoj fendiĝis. La tomboj malfermiĝis, kaj multaj korpoj de la sanktuloj, kiuj estis mortintaj, leviĝis; kaj elirante el la tomboj post lia resurekto, ili eniris en la sanktan urbon kaj aperis al multaj.
+
+Nun la centestro kaj tiuj, kiuj kun li gardis Jesuon, kiam ili vidis la tertremon kaj la aferojn, kiuj okazis, timis trege, dirante, "Vere ĉi tiu estis la Filo de Dio!"
+
+Multaj virinoj estis tie, rigardante el malproksime, kiuj sekvis Jesuon el Galileo, servante lin. Inter ili estis Maria Magdalena, Maria la patrino de Jakobo kaj Joses, kaj la patrino de la filoj de Zebedeo.
+
+Kiam vespero venis, riĉa viro el Arimateo nomata Jozefo, kiu ankaŭ estis disĉiplo de Jesuo, venis. Ĉi tiu viro iris al Pilato kaj petis la korpon de Jesuo. Tiam Pilato ordonis, ke la korpo estu donita. Jozefo prenis la korpon kaj envolvis ĝin en puran linaĵon kaj kuŝigis ĝin en sian propran novan tombon, kiun li estis elfosinta en la roko. Tiam li rulis grandan ŝtonon kontraŭ la pordon de la tombo kaj foriris. Maria Magdalena estis tie, kaj la alia Maria, sidante kontraŭ la tombo.
+
+Nun la sekvan tagon, kiu estis la tago post la Preparado, la ĉefpastroj kaj la Fariseoj kunvenis ĉe Pilato, dirante, "Sinjoro, ni memoras, kion tiu trompanto diris, dum li ankoraŭ vivis: 'Post tri tagoj mi releviĝos.' Ordigu do, ke la tombo estu sekurigita ĝis la tria tago, por ke liaj disĉiploj ne venu nokte kaj ŝtelu lin, kaj diru al la popolo, 'Li leviĝis de la mortintoj;' kaj la lasta trompo estos pli malbona ol la unua."
+
+Pilato diris al ili, "Vi havas gardistaron. Iru, sekurigu ĝin tiel bone kiel vi povas." Do ili iris kun la gardistaro kaj sekurigis la tombon, sigelante la ŝtonon.
+
+### Ĉapitro 28
+
+Nun post la Sabato, dum komencis tagiĝi en la unua tago de la semajno, Maria Magdalena kaj la alia Maria venis por vidi la tombon. Jen, okazis granda tertremo, ĉar anĝelo de la Eternulo malsupreniris de la ĉielo kaj venis kaj rulis la ŝtonon for de la pordo kaj sidiĝis sur ĝin. Lia aspekto estis kiel fulmo, kaj lia vesto blanka kiel neĝo. Pro timo antaŭ li, la gardistoj skuis kaj fariĝis kiel mortintoj. La anĝelo respondis al la virinoj, "Ne timu, ĉar mi scias, ke vi serĉas Jesuon, kiu estis krucumita. Li ne estas ĉi tie, ĉar li leviĝis, ĝuste kiel li diris. Venu, vidu la lokon, kie la Sinjoro kuŝis. Iru rapide kaj diru al liaj disĉiploj, 'Li leviĝis de la mortintoj, kaj jen, li antaŭiras vin en Galileon; tie vi vidos lin.' Jen, mi diris al vi."
+
+Ili foriris rapide de la tombo kun timo kaj granda ĝojo, kaj kuris por porti la vorton al liaj disĉiploj. Dum ili iris diri al liaj disĉiploj, jen, Jesuo renkontis ilin, dirante, "Ĝoju!"
+
+Ili venis kaj kaptis liajn piedojn kaj adorkliniĝis antaŭ li.
+
+Tiam Jesuo diris al ili, "Ne timu. Iru diru al miaj fratoj, ke ili iru en Galileon, kaj tie ili vidos min."
+
+Nun dum ili iris, jen, iuj el la gardistoj venis en la urbon kaj raportis al la ĉefpastroj ĉiujn okazaĵojn, kiuj okazis. Kiam ili kunvenis kun la maljunuloj kaj konsiliĝis, ili donis grandan kvanton da arĝento al la soldatoj, dirante, "Diru, ke liaj disĉiploj venis nokte kaj ŝtelis lin dum ni dormis. Se tio venos al la oreloj de la guberniestro, ni konvinkos lin kaj faros vin liberaj de zorgoj." Do ili prenis la monon kaj faris kiel ili estis instruitaj. Tiu diro disvastiĝis inter la Judoj, kaj daŭras ĝis hodiaŭ.
+
+Sed la dek unu disĉiploj iris en Galileon, al la monto, kien Jesuo sendis ilin. Kiam ili vidis lin, ili adorkliniĝis antaŭ li; sed iuj dubis. Jesuo venis al ili kaj parolis al ili, dirante, "Ĉiuj aŭtoritatoj estas donitaj al mi en la ĉielo kaj sur la tero. Iru kaj faru disĉiplojn el ĉiuj nacioj, baptante ilin en la nomo de la Patro kaj de la Filo kaj de la Sankta Spirito, instruante ilin observi ĉion, kion mi ordonis al vi. Jen, mi estas kun vi ĉiam, eĉ ĝis la fino de la epoko." Amen.
