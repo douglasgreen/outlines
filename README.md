@@ -125,32 +125,32 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Linguistics](languages/linguistics.en.md)
 
 ### English
-* [English Grammar](languages/english/english.en.md)
+* [English Grammar](languages/english/grammar.en.md)
 
 ### Esperanto
-* [Esperanto Grammar](languages/esperanto/esperanto.en.md)
+* [Esperanto Grammar](languages/esperanto/grammar.en.md)
 * [Esperanto Vocabulary](languages/esperanto/vocabulary.en.md)
 
 ### French
-* [French Grammar](languages/french/french.en.md)
+* [French Grammar](languages/french/grammar.en.md)
 * [French Vocabulary](languages/french/vocabulary.en.md)
 
 ### German
-* [German Grammar](languages/german/german.en.md)
+* [German Grammar](languages/german/grammar.en.md)
 * [German Vocabulary](languages/german/vocabulary.en.md)
 
 ### Greek
-* [Classical Greek](languages/greek/classical_greek.en.md)
+* [Classical Greek](languages/classical_greek/grammar.en.md)
 
 ### Italian
-* [Italian Grammar](languages/italian/italian.en.md)
+* [Italian Grammar](languages/italian/grammar.en.md)
 
 ### Latin
-* [Latin Grammar](languages/latin/latin.en.md)
+* [Latin Grammar](languages/latin/grammar.en.md)
 * [Latin Vocabulary](languages/latin/vocabulary.en.md)
 
 ### Spanish
-* [Spanish Grammar](languages/spanish/spanish.en.md)
+* [Spanish Grammar](languages/spanish/grammar.en.md)
 * [Spanish Vocabulary](languages/spanish/vocabulary.en.md)
 
 ## Science
