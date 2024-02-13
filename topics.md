@@ -398,7 +398,7 @@
 * Machine Learning - done
 * Machine Learning in Python
 * Making a Constructed Language
-* Management - in process
+* Management - done
 * Manufacturing
 * Marketing
 * Martial Arts

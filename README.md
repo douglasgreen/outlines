@@ -29,6 +29,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Productivity](business/productivity.en.md)
 
 ### Management
+* [Management](business/management/management.en.md)
 * [Software Project Management](business/management/software_project.en.md)
 
 ## Computers
