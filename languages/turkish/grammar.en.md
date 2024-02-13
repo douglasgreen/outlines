@@ -1,8 +1,8 @@
-# Turkish
+# Turkish Grammar
 
 ## Introduction to Turkish
 
-Give an introduction to turkish, while discussing the following topics:
+Give an introduction to Turkish, while discussing the following topics:
 * The Turkish Language: History and Characteristics
 * The Turkish Alphabet and Pronunciation
 * Basic Vocabulary and Useful Phrases
