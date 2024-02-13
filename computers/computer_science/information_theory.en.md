@@ -36,19 +36,19 @@ The foundations of information theory rest on the rigorous mathematical formulat
 
 In information theory, information is not merely about content or meaning but is quantified based on the uncertainty or surprise associated with an event's occurrence. The fundamental measures used to quantify information include information content and entropy.
 
-- **Information Content**: The information content of an event is inversely related to its probability of occurrence. An event that is certain to happen carries no information (since it provides no new knowledge), whereas an unlikely event carries a high amount of information. Mathematically, the information content \( I(x) \) of an event \( x \) is defined as \( I(x) = -\log(P(x)) \), where \( P(x) \) is the probability of \( x \) and the logarithm base determines the unit of measurement (e.g., bits for base 2, nats for base \( e \)).
+- **Information Content**: The information content of an event is inversely related to its probability of occurrence. An event that is certain to happen carries no information (since it provides no new knowledge), whereas an unlikely event carries a high amount of information. Mathematically, the information content $`I(x)`$ of an event $`x`$ is defined as $`I(x) = -\log(P(x))`$, where $`P(x)`$ is the probability of $`x`$ and the logarithm base determines the unit of measurement (e.g., bits for base 2, nats for base $`e`$).
 
-- **Entropy**: Entropy, denoted as \( H(X) \) for a random variable \( X \), measures the average information content or uncertainty of all possible outcomes of \( X \). For a discrete random variable with possible outcomes \( x_1, x_2, ..., x_n \) and corresponding probabilities \( P(x_1), P(x_2), ..., P(x_n) \), the entropy \( H(X) \) is defined as \( H(X) = -\sum_{i=1}^{n} P(x_i) \log(P(x_i)) \). Entropy thus represents the average amount of information produced by a stochastic source of data, and higher entropy implies greater uncertainty or variability in the information source.
+- **Entropy**: Entropy, denoted as $`H(X)`$ for a random variable $`X`$, measures the average information content or uncertainty of all possible outcomes of $`X`$. For a discrete random variable with possible outcomes $`x_1, x_2, ..., x_n`$ and corresponding probabilities $`P(x_1), P(x_2), ..., P(x_n)`$, the entropy $`H(X)`$ is defined as $`H(X) = -\sum_{i=1}^{n} P(x_i) \log(P(x_i))`$. Entropy thus represents the average amount of information produced by a stochastic source of data, and higher entropy implies greater uncertainty or variability in the information source.
 
 ### Probability Theory Basics
 
 Probability theory provides the mathematical underpinnings for dealing with uncertainty and randomness, which are central to information theory. Key concepts include:
 
-- **Probability Spaces**: A probability space is a mathematical framework that models a random experiment. It consists of a sample space \( S \) (the set of all possible outcomes of the experiment), a set of events \( F \), which are subsets of \( S \), and a probability measure \( P \) that assigns probabilities to events in \( F \). This framework lays the foundation for defining random variables and their distributions.
+- **Probability Spaces**: A probability space is a mathematical framework that models a random experiment. It consists of a sample space $`S`$ (the set of all possible outcomes of the experiment), a set of events $`F`$, which are subsets of $`S`$, and a probability measure $`P`$ that assigns probabilities to events in $`F`$. This framework lays the foundation for defining random variables and their distributions.
 
-- **Random Variables**: A random variable \( X \) is a function that assigns a real number to each outcome in the sample space of a random experiment. Random variables can be discrete (taking on a countable number of distinct values) or continuous (taking on any value in a continuous range). The behavior of a random variable is described by its probability distribution, which specifies the probabilities of the various outcomes.
+- **Random Variables**: A random variable $`X`$ is a function that assigns a real number to each outcome in the sample space of a random experiment. Random variables can be discrete (taking on a countable number of distinct values) or continuous (taking on any value in a continuous range). The behavior of a random variable is described by its probability distribution, which specifies the probabilities of the various outcomes.
 
-- **Expectation and Variance**: The expectation (or expected value) of a random variable is a measure of the central tendency of its distribution, defined as \( E[X] = \sum x P(X=x) \) for discrete variables or \( E[X] = \int x f(x) dx \) for continuous variables, where \( f(x) \) is the probability density function. The variance measures the spread or dispersion of the distribution around its mean, defined as \( Var(X) = E[(X - E[X])^2] \), indicating how much the values of \( X \) deviate from the expected value on average.
+- **Expectation and Variance**: The expectation (or expected value) of a random variable is a measure of the central tendency of its distribution, defined as $`E[X] = \sum x P(X=x)`$ for discrete variables or $`E[X] = \int x f(x) dx`$ for continuous variables, where $`f(x)`$ is the probability density function. The variance measures the spread or dispersion of the distribution around its mean, defined as $`Var(X) = E[(X - E[X])^2]`$, indicating how much the values of $`X`$ deviate from the expected value on average.
 
 These basic concepts of probability theory are crucial for understanding and applying information theory. They allow for the mathematical description of information sources, the analysis of communication channels, and the formulation of strategies for encoding, compressing, and transmitting information efficiently.
 
@@ -60,7 +60,7 @@ Entropy and information measures are central concepts in information theory, pro
 
 **Shannon Entropy**: Named after Claude Shannon, entropy is a measure of the uncertainty or unpredictability in the outcome of a random variable. For a discrete random variable \(X\) with possible outcomes \(x_1, x_2, ..., x_n\) and corresponding probabilities \(P(x_1), P(x_2), ..., P(x_n)\), the Shannon entropy \(H(X)\) is defined as:
 
-\[ H(X) = -\sum_{i=1}^{n} P(x_i) \log_2(P(x_i)) \]
+$`H(X) = -\sum_{i=1}^{n} P(x_i) \log_2(P(x_i))`$
 
 The base of the logarithm is typically 2, making the unit of entropy bits. This equation quantifies the average information content per message received from a source that generates messages according to the distribution of \(X\).
 
@@ -75,7 +75,7 @@ The base of the logarithm is typically 2, making the unit of entropy bits. This 
 
 **Definition**: Conditional entropy \(H(Y|X)\) measures the average uncertainty remaining in a random variable \(Y\) given that the value of another random variable \(X\) is known. It is defined as:
 
-\[ H(Y|X) = -\sum_{x \in X} \sum_{y \in Y} P(x, y) \log_2 P(y|x) \]
+$`H(Y|X) = -\sum_{x \in X} \sum_{y \in Y} P(x, y) \log_2 P(y|x)`$
 
 where \(P(y|x)\) is the conditional probability of \(y\) given \(x\), and \(P(x, y)\) is the joint probability of \(x\) and \(y\).
 
@@ -88,7 +88,7 @@ where \(P(y|x)\) is the conditional probability of \(y\) given \(x\), and \(P(x,
 
 **Definition**: Mutual information \(I(X; Y)\) quantifies the amount of information that one random variable \(X\) conveys about another random variable \(Y\), and is defined as:
 
-\[ I(X; Y) = \sum_{x \in X} \sum_{y \in Y} P(x, y) \log_2 \left( \frac{P(x, y)}{P(x)P(y)} \right) \]
+$`I(X; Y) = \sum_{x \in X} \sum_{y \in Y} P(x, y) \log_2 \left( \frac{P(x, y)}{P(x)P(y)} \right)`$
 
 It represents the reduction in uncertainty about \(Y\) due to the knowledge of \(X\), and vice versa.
 
@@ -140,7 +140,7 @@ Channel capacity and coding are crucial concepts in information theory related t
 
 **Channel Capacity**: Shannon's Second Theorem, or the Noisy Channel Coding Theorem, establishes the channel capacity formula, which defines the maximum rate at which information can be transmitted over a noisy channel with an arbitrarily small probability of error. For an AWGN channel, the capacity \(C\) is given by:
 
-\[ C = B \log_2(1 + \text{SNR}) \]
+$`C = B \log_2(1 + \text{SNR})`$
 
 where \(B\) is the bandwidth, and SNR is the Signal-to-Noise Ratio.
 
@@ -184,7 +184,7 @@ Information theory in continuous channels extends the concepts of entropy and ch
 
 **Differential Entropy**: While discrete entropy measures the uncertainty in a discrete random variable, differential entropy extends this concept to continuous random variables. For a continuous random variable \(X\) with a probability density function (pdf) \(f(x)\), the differential entropy \(h(X)\) is defined as:
 
-\[ h(X) = -\int_{-\infty}^{\infty} f(x) \log f(x) dx \]
+$`h(X) = -\int_{-\infty}^{\infty} f(x) \log f(x) dx`$
 
 Differential entropy can be negative, a notable difference from its discrete counterpart, which is always non-negative. This is because the pdf \(f(x)\) can be greater than 1 for certain ranges of \(x\), leading to negative values of \(f(x) \log f(x)\). Despite this, differential entropy still conveys the concept of uncertainty or spread in the distribution of \(X\).
 
@@ -194,7 +194,7 @@ Differential entropy can be negative, a notable difference from its discrete cou
 
 **Bandwidth-Limited Channels**: In practical scenarios, channels are often bandwidth-limited due to the physical properties of the medium and regulatory constraints. The capacity of a bandwidth-limited AWGN channel is given by the Shannon-Hartley theorem:
 
-\[ C = B \log_2(1 + \text{SNR}) \]
+$`C = B \log_2(1 + \text{SNR})`$
 
 where \(C\) is the channel capacity in bits per second, \(B\) is the bandwidth of the channel in hertz, and SNR is the signal-to-noise ratio, a measure of the power of the signal relative to the power of the noise.
 
@@ -268,13 +268,13 @@ Quantum information theory extends classical information theory into the realm o
 
 ### Basics of Quantum Mechanics
 
-**Qubits and Superposition**: In classical information theory, the basic unit of information is the bit, which can be in one of two definite states: 0 or 1. Quantum information theory, however, uses the qubit (quantum bit) as its fundamental unit. Unlike a classical bit, a qubit can exist in a state of superposition, where it simultaneously holds a combination of the states 0 and 1, described by \( \psi = \alpha|0\rangle + \beta|1\rangle \), with \( \alpha \) and \( \beta \) representing complex probability amplitudes. This superposition allows quantum systems to represent and process a vast amount of information with a relatively small number of qubits.
+**Qubits and Superposition**: In classical information theory, the basic unit of information is the bit, which can be in one of two definite states: 0 or 1. Quantum information theory, however, uses the qubit (quantum bit) as its fundamental unit. Unlike a classical bit, a qubit can exist in a state of superposition, where it simultaneously holds a combination of the states 0 and 1, described by $`\psi = \alpha|0\rangle + \beta|1\rangle`$, with $`\alpha`$ and $`\beta`$ representing complex probability amplitudes. This superposition allows quantum systems to represent and process a vast amount of information with a relatively small number of qubits.
 
 **Entanglement**: Quantum entanglement is a phenomenon where qubits become interconnected in such a way that the state of one (no matter the distance) instantaneously affects the state of another. Entangled particles cannot be described independently of each other, even when separated by large distances, a phenomenon Einstein famously referred to as "spooky action at a distance." Entanglement is a key resource for quantum computing, quantum cryptography, and quantum teleportation, offering novel ways to process and securely transmit information.
 
 ### Quantum Entropy and Information
 
-**Von Neumann Entropy**: Analogous to Shannon entropy in classical information theory, Von Neumann entropy measures the uncertainty or disorder in a quantum system. For a quantum state described by a density matrix \( \rho \), the Von Neumann entropy \( S(\rho) \) is defined as \( S(\rho) = -\text{Tr}(\rho \log \rho) \), where Tr denotes the trace of a matrix. Von Neumann entropy captures the purity of a quantum state; it is zero for pure states and positive for mixed states, providing insight into the amount of quantum information and the degree of entanglement in a system.
+**Von Neumann Entropy**: Analogous to Shannon entropy in classical information theory, Von Neumann entropy measures the uncertainty or disorder in a quantum system. For a quantum state described by a density matrix $`\rho`$, the Von Neumann entropy $`S(\rho)`$ is defined as $`S(\rho) = -\text{Tr}(\rho \log \rho)`$, where Tr denotes the trace of a matrix. Von Neumann entropy captures the purity of a quantum state; it is zero for pure states and positive for mixed states, providing insight into the amount of quantum information and the degree of entanglement in a system.
 
 **Quantum Channel Capacity**: Quantum channel capacity concerns the maximum rate at which quantum information can be reliably transmitted over a quantum channel. This concept is more nuanced than its classical counterpart due to the quantum phenomena like superposition and entanglement. Quantum channels can transmit classical information, quantum information, or both, leading to different notions of capacity depending on the context: classical capacity, quantum capacity, and private capacity. The Holevo-Schumacher-Westmoreland (HSW) theorem and the Lloyd-Shor-Devetak (LSD) theorem provide bounds for these capacities, guiding the design of quantum communication systems.
 
@@ -286,7 +286,7 @@ Algorithmic Information Theory (AIT) is a branch of information theory and compu
 
 ### Kolmogorov Complexity
 
-**Definition**: Kolmogorov Complexity, named after the Russian mathematician Andrey Kolmogorov, is a measure of the complexity of a string defined as the length of the shortest possible description or program (in a fixed universal programming language) that can produce that string as output. Formally, the Kolmogorov Complexity \( K(s) \) of a string \( s \) is defined as the length of the shortest binary program \( p \) for a universal Turing machine \( U \) such that \( U(p) = s \).
+**Definition**: Kolmogorov Complexity, named after the Russian mathematician Andrey Kolmogorov, is a measure of the complexity of a string defined as the length of the shortest possible description or program (in a fixed universal programming language) that can produce that string as output. Formally, the Kolmogorov Complexity $`K(s)`$ of a string $`s`$ is defined as the length of the shortest binary program $`p`$ for a universal Turing machine $`U`$ such that $`U(p) = s`$.
 
 **Properties**:
 - **Uncomputability**: One of the fundamental properties of Kolmogorov Complexity is that it is uncomputable, meaning there is no general algorithm that can determine the Kolmogorov Complexity of any given string. This is due to the halting problem, as determining the shortest program that generates a string would require solving the halting problem.
@@ -309,7 +309,7 @@ Rate-Distortion Theory is a fundamental aspect of information theory that deals 
 
 **Distortion Measures**: A distortion measure is a mathematical function that quantifies the difference or error between the original signal and the reconstructed signal after compression and decompression. The choice of a distortion measure depends on the specific application and the type of data being compressed. Common distortion measures include the Mean Squared Error (MSE) for signals and images, the Hamming distance for discrete symbols, and more perceptually-based measures for audio and visual content.
 
-**Rate-Distortion Function**: The rate-distortion function \( R(D) \) describes the minimum amount of information (rate) needed to encode a signal such that the average distortion does not exceed a threshold \( D \). Formally, for a given distortion level \( D \), \( R(D) \) gives the lower bound on the rate at which information can be compressed without exceeding that distortion level. The rate-distortion function is derived under the assumption of an ideal encoder and decoder, providing a theoretical limit that real-world compression systems strive to approach.
+**Rate-Distortion Function**: The rate-distortion function $`R(D)`$ describes the minimum amount of information (rate) needed to encode a signal such that the average distortion does not exceed a threshold $`D`$. Formally, for a given distortion level $`D`$, $`R(D)`$ gives the lower bound on the rate at which information can be compressed without exceeding that distortion level. The rate-distortion function is derived under the assumption of an ideal encoder and decoder, providing a theoretical limit that real-world compression systems strive to approach.
 
 ### Applications in Media Compression
 
@@ -327,7 +327,7 @@ Information theory and statistics intersect in many ways, providing powerful too
 
 **Definition**: Fisher Information is a measure of the amount of information that an observable random variable \(X\) carries about an unknown parameter \(\theta\) upon which the probability of \(X\) depends. Mathematically, for a probability density function \(f(x;\theta)\) parameterized by \(\theta\), the Fisher Information \(I(\theta)\) is defined as the expected value of the squared derivative of the log-likelihood with respect to \(\theta\):
 
-\[ I(\theta) = E\left[\left(\frac{\partial \log f(X;\theta)}{\partial \theta}\right)^2\right] \]
+$`I(\theta) = E\left[\left(\frac{\partial \log f(X;\theta)}{\partial \theta}\right)^2\right]`$
 
 where the expectation is taken over the distribution of \(X\).
 
