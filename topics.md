@@ -490,6 +490,7 @@
 * Political Ideologies
 * Politics - done
 * Pollution/Air Quality
+* Portuguese - in process
 * Popular Bands
 * Positive Psychology
 * Precious Metals
