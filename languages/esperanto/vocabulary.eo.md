@@ -1,5 +1,19 @@
 # Esperanto Vocabulary
 
+## Prefixes
+* bo- - relation by marriage
+* dis- - separation or dispersion
+* ek- - commencement, suddenness
+* eks- - former, ex-
+* fi- - disgusting, nasty
+* ge- - both sexes together
+* mal- - the opposite of
+* mis- - wrongly, incorrectly
+* pra- - primordial, great-
+* re- - again, back
+* vic- - step-, vice-
+
+## Infixes
 * -ad- - denotes continuous or repeated action
 * -an- - indicates a member, participant, or inhabitant
 * -ar- - refers to a collective group
@@ -1174,7 +1188,6 @@
 * blufo - bluff
 * bluprinto - blueprint
 * bluzo - blouse
-* bo- - relation by marriage
 * boato - boat; vessel
 * bobeno - reel
 * bofilino - daughter-in-law
@@ -1567,7 +1580,6 @@
 * direktoro - director; principal
 * diri - to say
 * diro - saying
-* dis- - separation or dispersion
 * disa - various; diverse
 * disbati - to smash
 * disciplino - discipline
@@ -1776,7 +1788,6 @@
 * ego - ego
 * egoo - ego
 * ejo - place; site; venue
-* ek- - commencement, suddenness
 * ekapero - outbreak
 * ekbruligi - to ignite
 * ekde - since
@@ -1803,7 +1814,6 @@
 * ekonomio - economy
 * ekosistemo - ecosystem
 * ekrankopio - screenshot
-* eks- - former, ex-
 * eksa - former
 * eksaltigi - to startle
 * eksci - to find out; to learn
@@ -2272,7 +2282,6 @@
 * festo - celebration; party
 * feŭdismo - feudalism
 * fi - shame (interjection for disgust or disapproval)
-* fi- - disgusting, nasty
 * fianĉina amikino - bridesmaid
 * fianĉiĝi - to become engaged
 * fianĉo - groom
@@ -2549,7 +2558,6 @@
 * gazetaro - press; journalism
 * gazeto - newspaper; journal
 * gazono - lawn
-* ge- - both sexes together
 * geajo - jay
 * geedziĝo - marriage; wedding
 * geedzoj - married couple
@@ -4118,7 +4126,6 @@
 * makro - macro
 * makulo - blemish; stain
 * makzelo - jaw
-* mal- - the opposite of
 * malakordo - discrepancy
 * malaktivigi - to deactivate; to disable
 * malalta - low
@@ -4563,7 +4570,6 @@
 * mirinda - wonderful
 * mirindaĵo - marvel; wonder
 * mirtelo - blueberry
-* mis- - wrongly, incorrectly
 * misa kompreno - misconception
 * misformi - to deform
 * misiisto - missionary
@@ -5480,7 +5486,6 @@
 * poŝtelefono - cellphone
 * poŝtkarto - postcard
 * poŝto - mail; post
-* pra- - primordial, great-
 * praavo - great-grandfather
 * pragmatika - pragmatic
 * pragmatiko - pragmatics
@@ -5806,7 +5811,6 @@
 * razi - to shave
 * raŭka - husky
 * re - again; re-
-* re- - again, back
 * reagi - to react
 * reakciilo - reactant; reagent
 * reakcio - reaction
@@ -7323,7 +7327,6 @@
 * viando - meat
 * vibriso - whisker
 * vibro - vibration
-* vic- - step-, vice-
 * vicigo - lineup
 * vico - row; line; turn; queue; file
 * vicprezidanto - vice president; vice-president
