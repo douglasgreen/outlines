@@ -85,3 +85,120 @@ The existence, forms, and usage of the definite article (the) in the languages y
 - **Turkish**: Does not use articles in the same way as Indo-European languages. Definiteness can be implied through context or the use of demonstrative pronouns.
 
 In summary, the use of definite articles varies significantly among these languages. Some languages like English and Esperanto have a single form of the definite article used for all nouns, while others like German, French, and Spanish have multiple forms that vary according to the gender and number of the noun. Languages like Latin and Turkish do not use definite articles in the same way as the others listed.
+
+## Forming Questions
+
+Forming questions in various languages involves specific grammatical structures and often the use of question words. Here's how you can form a sentence that asks a question in the languages you've listed:
+
+- **Dutch**: To form a question, the verb typically comes before the subject. For example, "Heb je een pen?" (Do you have a pen?).
+- **English**: Questions are formed by inverting the subject and auxiliary verb. If there's no auxiliary verb, "do" is used. For example, "Are you ready?" or "Do you understand?".
+- **Esperanto**: Questions are formed by starting with the word "Ĉu" for yes/no questions, and the word order does not change. For example, "Ĉu vi parolas Esperanton?" (Do you speak Esperanto?).
+- **French**: Like Dutch, the verb often precedes the subject in questions. Another method is to use the phrase "Est-ce que" at the beginning. For example, "Parlez-vous français?" or "Est-ce que vous parlez français?".
+- **German**: The verb is placed before the subject to form a question. For example, "Hast du Zeit?" (Do you have time?).
+- **Greek**: Questions can be formed by using a question word or by simply raising the intonation at the end of a statement. For example, "Έχεις χρόνο;" (Do you have time?).
+- **Italian**: The subject-verb order is inverted or "Est-ce que" equivalent "È vero che" can be used for forming questions. For example, "Parli italiano?" or "È vero che parli italiano?".
+- **Latin**: Questions in Latin can be formed by adding the enclitic "-ne" to the first word of the sentence for yes/no questions. For open-ended questions, question words like "Quis?" (Who?) or "Quid?" (What?) are used at the beginning of the sentence.
+- **Portuguese**: Questions can be formed by inverting the order of the subject and verb or by using "Est-ce que" equivalent "Você fala português?" for yes/no questions. For open questions, question words are used at the beginning, like "Onde você mora?" (Where do you live?).
+- **Spanish**: Similar to the other Romance languages, questions can be formed by inverting the verb and subject or by using "¿" at the beginning and "?" at the end of the sentence. For example, "¿Hablas español?".
+- **Turkish**: Questions are formed by adding the question particle "mı/mi/mu/mü" to the verb, depending on vowel harmony. For example, "Türkçe konuşuyor musun?" (Do you speak Turkish?).
+
+Each language has its unique way of forming questions, either through inversion of subject and verb, the use of specific question particles, or the intonation in pronunciation.
+
+## Other Topics
+
+Add these topics and put them in this order.
+
+### Chapter 1: Introduction to Portuguese
+- The History of the Language
+- Variants of the Language
+- The Alphabet and Pronunciation
+
+### Chapter 2: Basic Sentence Structure
+- Subject, Verb, and Object
+- Simple Sentences and Questions
+- Negative Sentences
+
+### Chapter 3: Nouns and Articles
+- Gender of Nouns
+- Singular and Plural Forms
+- Definite and Indefinite Articles
+
+### Chapter 4: Pronouns
+- Subject Pronouns
+- Direct and Indirect Object Pronouns
+- Reflexive Pronouns
+
+### Chapter 5: Adjectives
+- Gender and Number Agreement
+- Position of Adjectives
+- Comparative and Superlative Forms
+
+### Chapter 6: Numbers, Dates, and Time
+- Cardinal and Ordinal Numbers
+- Telling Time
+- Days of the Week, Months, and Seasons
+
+### Chapter 7: Verbs and Conjugation (Present Tense)
+- Regular Verbs: -ar, -er, -ir Endings
+- Irregular Verbs: Ser, Estar, Ter, Ir
+- Reflexive Verbs
+
+### Chapter 8: Past Tenses
+- Preterite Tense
+- Imperfect Tense
+- Perfect Tense
+
+### Chapter 9: Future and Conditional Tenses
+- Simple Future Tense
+- Future Subjunctive Tense
+- Conditional Mood
+
+### Chapter 10: Subjunctive Mood
+- Present Subjunctive
+- Imperfect Subjunctive
+- Uses of the Subjunctive
+
+### Chapter 11: Imperatives and Commands
+- Forming Affirmative Commands
+- Negative Commands
+- Polite Requests
+
+### Chapter 12: Adverbs and Adverbial Phrases
+- Types of Adverbs: Manner, Place, Time, Frequency
+- Comparative and Superlative Adverbs
+- Common Adverbial Phrases
+
+### Chapter 13: Prepositions and Prepositional Phrases
+- Common Prepositions
+- Prepositions with Verbs
+- Prepositional Phrases
+
+### Chapter 14: Conjunctions and Linking Words
+- Coordinating Conjunctions
+- Subordinating Conjunctions
+- Common Linking Words and Phrases
+
+### Chapter 15: Expressing Opinions and Emotions
+- Useful Expressions for Opinions
+- Expressing Likes and Dislikes
+- Talking About Emotions and Feelings
+
+### Chapter 16: Question Formation
+- Yes/No Questions
+- Question Words
+- Indirect Questions
+
+### Chapter 17: Expressing Conditions and Hypotheticals
+- If Clauses
+- Conditional Sentences
+- Expressing Wishes and Regrets
+
+### Chapter 18: Advanced Verb Forms
+- Gerunds and Participles
+- Compound Tenses
+- Passive Voice Constructions
+
+### Chapter 19: Idiomatic Expressions and Slang
+- Common Idioms
+- Slang and Colloquial Expressions
+- Regional Variations
