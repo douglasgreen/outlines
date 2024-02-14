@@ -621,7 +621,7 @@
 * United States - done
 * Unit Testing - done
 * Urban Planning
-* Usability
+* Usability - in process
 * User Experience (UX) Design
 * Vagrant
 * Vectors
