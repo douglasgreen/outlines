@@ -676,6 +676,65 @@ Achieving mastery in Esperanto and engaging with the language beyond the basics 
 
 Mastery of Esperanto opens up a world of opportunities for deeper cultural exchange, professional development, and academic exploration. Engaging regularly with the language and the global Esperanto community can enrich your experience and proficiency. Using Esperanto in professional and academic settings not only showcases your language skills but also contributes to the growth and visibility of this unique linguistic phenomenon.
 
+## Infixes
+
+### Prefixes
+
+Esperanto uses a system of affixes to expand its vocabulary efficiently. Here's a concise list of some common prefixes in Esperanto along with their meanings:
+
+- **bo-**: Relation by marriage (e.g., "bopatro" for father-in-law)
+- **dis-**: Separation, dispersion (e.g., "disdoni" for to distribute)
+- **ek-**: Commencement, suddenness (e.g., "ekvidi" for to catch sight of)
+- **eks-**: Former, ex- (e.g., "eksedzo" for ex-husband)
+- **fi-**: Disgusting, nasty (e.g., "fivorto" for a profane word)
+- **ge-**: Both sexes together (e.g., "gepatroj" for parents)
+- **mal-**: The opposite of (e.g., "malgranda" for small, opposite of large)
+- **mis-**: Wrongly, incorrectly (e.g., "miskompreni" for to misunderstand)
+- **pra-**: Primordial, great- (e.g., "praavo" for great-grandfather)
+- **re-**: Again, back (e.g., "resendi" for to send back)
+- **vic-**: Step-, vice- (e.g., "vicprezidanto" for vice-president)
+
+These prefixes, when attached to root words, significantly expand the expressiveness of Esperanto with minimal vocabulary learning required.
+
+### Suffixes
+
+Esperanto employs a rich system of suffixes to modify or create new words from root words. Here's a concise list of some common suffixes in Esperanto along with their meanings:
+
+- **-aĉ-**: Indicates poor quality or something undesirable (e.g., "domaĉo" for a hovel)
+- **-ad-**: Denotes continuous or repeated action (e.g., "kuradi" for to keep on running)
+- **-aĵ-**: Refers to a concrete manifestation or product (e.g., "manĝaĵo" for food)
+- **-an-**: Indicates a member, participant, or inhabitant (e.g., "klubano" for a club member)
+- **-ar-**: Refers to a collective group (e.g., "arbaro" for a forest)
+- **-ĉj-**: Male affectionate diminutive, typically used in names (e.g., "Paĉjo" for Daddy)
+- **-ebl-**: Denotes possibility, "-able" (e.g., "videbla" for visible)
+- **-ec-**: Refers to an abstract quality, "-ness" (e.g., "juneco" for youth)
+- **-eg-**: Augmentative, indicating something larger or more intense (e.g., "domego" for mansion)
+- **-ej-**: Denotes a place for something (e.g., "lernejo" for school)
+- **-em-**: Indicates propensity or tendency (e.g., "parolema" for talkative)
+- **-end-**: Suggests something that should or must be done (e.g., "legenda" for must be read)
+- **-er-**: Refers to a small part or fragment (e.g., "monero" for coin)
+- **-estr-**: Indicates a leader or chief (e.g., "lernejestro" for principal)
+- **-et-**: Diminutive, indicating something smaller or less intense (e.g., "dometo" for cottage)
+- **-iĉ-**: Male gender marker (unofficial, neologism) (e.g., "fratiĉo" for brother)
+- **-id-**: Denotes offspring or descendant (e.g., "katido" for kitten)
+- **-iĝ-**: To become (e.g., "ruĝiĝi" for to blush)
+- **-ig-**: To make or to cause (e.g., "purigi" for to clean)
+- **-il-**: Refers to an instrument or tool (e.g., "tranĉilo" for knife)
+- **-ind-**: Worthy of (e.g., "admirinda" for admirable)
+- **-in-**: Female gender marker (e.g., "patrino" for mother)
+- **-ing-**: Denotes a holder or sheath (e.g., "kandelingo" for candle holder)
+- **-ism-**: Refers to a doctrine or system (e.g., "komunismo" for communism)
+- **-ist-**: Denotes someone associated with a profession or ideology (e.g., "dentisto" for dentist)
+- **-njo**: Female affectionate diminutive, typically used in names (e.g., "Panjo" for Mommy)
+- **-obl-**: Multiplication by the root number (e.g., "duobla" for double)
+- **-on-**: Fractional part (e.g., "duono" for half)
+- **-op-**: In groups of a specific number (e.g., "duope" for in pairs)
+- **-uj-**: Indicates a container, country, or tree type (e.g., "monujo" for wallet, "Francujo" for France)
+- **-ul-**: Refers to a person characterized by the root (e.g., "junulo" for youth)
+- **-um-**: Has no fixed meaning, used ad hoc when no other suffix is appropriate (e.g., "plenumi" for to fulfill)
+
+These suffixes, when attached to root words, allow for the flexible and efficient creation of new words in Esperanto.
+
 ## Glossary of Terms
 
 **Radiko** (Root): The basic part of a word to which affixes are added.
@@ -779,3 +838,41 @@ Mastery of Esperanto opens up a world of opportunities for deeper cultural excha
 
 20. **Are there dialects in Esperanto?**
     - Esperanto doesn't have dialects in the traditional sense, but individual style variations exist.
+
+## Timeline
+
+**1887**: L.L. Zamenhof publishes the "Unua Libro" ("First Book"), introducing Esperanto with the hope of fostering international peace and understanding.
+
+**1905**: The first World Esperanto Congress is held in Boulogne-sur-Mer, France, marking the beginning of annual gatherings of Esperanto speakers.
+
+**1907-1917**: Zamenhof receives 14 nominations for the Nobel Peace Prize for his work on Esperanto, though he never wins.
+
+**1917**: L.L. Zamenhof dies, but his legacy continues as Esperanto begins to spread globally.
+
+**1920s**: Esperanto gains popularity and is nearly adopted by the League of Nations as an official language, but is vetoed by the French delegate.
+
+**1922**: France bans the teaching of Esperanto, claiming it's a tool for spreading communist ideas.
+
+**1935**: Esperanto is banned in Nazi Germany, with Hitler targeting Esperanto speakers for persecution.
+
+**1936-1939**: During the Stalin era, Esperantists in the Soviet Union face persecution, being labeled as spies and cosmopolitans.
+
+**1954**: UNESCO recognizes the Universal Esperanto Association, allowing it representation at UNESCO events.
+
+**1985**: UNESCO passes a resolution encouraging countries to add Esperanto to their school curricula, with China responding positively.
+
+**Late 20th Century**: Despite political suppression in various regimes, Esperanto communities continue to thrive underground and online.
+
+**2017**: UNESCO declares the year of Zamenhof and begins publishing its flagship journal, The UNESCO Courier, in Esperanto.
+
+**2022**: Esperanto group established at the Amundsen-Scott South Pole Station, showing the language's reach even in remote locations.
+
+**Throughout the 20th and 21st centuries**: Esperanto is taught at various universities worldwide, with programs in interlinguistics offered in Esperanto at Adam Mickiewicz University in Poland.
+
+**Ongoing**: Despite challenges, the number of Esperanto speakers grows, with estimates suggesting up to 2 million worldwide.
+
+**Ongoing**: The Universal Esperanto Association continues to be nominated for the Nobel Peace Prize in recognition of its contribution to world peace.
+
+**Ongoing**: The advent of the internet and platforms like Duolingo spur renewed interest in Esperanto, with an increasing number of resources available online.
+
+This timeline showcases Esperanto's journey from its creation as a hopeful tool for global peace, through periods of political suppression and persecution, to its current status as a living language with a dedicated global community.
