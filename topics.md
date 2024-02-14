@@ -473,7 +473,7 @@
 * Personality Types
 * Pets
 * Pharmacology
-* Philosophers - in process
+* Philosophers - done
 * Philosophical Schools
 * Philosophy - done
 * Philosophy of Mathematics
