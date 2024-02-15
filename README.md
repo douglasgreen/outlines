@@ -245,6 +245,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Philosophy](society/philosophy/philosophy.en.md)
 
 #### Philosophers
+* [Friedrich Nietzsche](society/philosophy/philosophers/friedrich_nietzsche.en.md)
 * [Philosophers](society/philosophy/philosophers/philosophers.en.md)
 
 ### Religion

@@ -11,6 +11,7 @@
 * American Football Players
 * American Literature
 * American National Parks
+* Anarchy
 * Anatomy and Physiology - done
 * Ancient Egypt
 * Ancient Greece - done
@@ -36,6 +37,7 @@
 * Astronomy - done
 * Australia
 * Authors and Novels
+* Autocracy
 * Automated Testing - done
 * Automobiles - done
 * Autonomous Vehicles
@@ -189,7 +191,7 @@
 * Discrete Mathematics - done
 * Diseases - done
 * Docker
-* Doctor Who TV Series
+* Doctor Who
 * Document Object Model
 * Dog Breeds
 * Dogs
@@ -258,13 +260,13 @@
 * France
 * French Grammar - done
 * French Vocabulary - done
-* Friedrich Nietzche - in process
+* Friedrich Nietzche - done
 * Functional Programming
 * Functional Programming in JavaScript
 * Functional Programming in PHP
 * Functional Programming in Python
 * Future of Technology
-* Game of Thrones TV Series
+* Game of Thrones
 * Games - in process
 * Game Theory - done
 * Gardening
@@ -385,6 +387,7 @@
 * Judaism
 * Jurassic Park Movies
 * Karl Marx and Marxism
+* Karl Popper
 * Knowledge Management
 * Korean War
 * Kubernetes
@@ -443,6 +446,7 @@
 * Mobile App Development
 * Mobile Computing - done
 * Mobile Web Development
+* Monarchy
 * Money
 * Motorcycles
 * Mountains
@@ -546,7 +550,7 @@
 * Responsive Design
 * REST APIs
 * Rhetoric
-* Rick and Morty TV Series
+* Rick and Morty
 * Rivers
 * Robert Jordan's Wheel of Time Series
 * Robotics
@@ -624,10 +628,11 @@
 * Test-Driven Development
 * Theater
 * The Matrix Movies
+* Theocracy
 * Theology
 * Theory of Computation
 * Thermodynamics
-* The Simpsons TV Series
+* The Simpsons
 * Thomas Aquinas
 * Time
 * Time Management
