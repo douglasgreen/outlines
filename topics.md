@@ -29,6 +29,7 @@
 * Architectural Patterns
 * Architecture - done
 * Aristotle
+* Arthur Schopenhauer
 * Artificial Intelligence - done
 * Arts - done
 * Asia - done
@@ -40,6 +41,7 @@
 * Autonomous Vehicles
 * Auto Racing
 * Aviation - done
+* Ayn Rand
 * Back to the Future Movies
 * Baseball
 * Baseball Players
@@ -374,8 +376,10 @@
 * JavaScript - done
 * JavaScript Frameworks - done
 * JavaScript Programming
+* Jean-Jacques Rousseau
 * Jean-Paul Sartre
 * John Locke
+* John Stuart Mill
 * jQuery Programming
 * J. R. R. Tolkien's Lord of the Rings Series
 * Judaism

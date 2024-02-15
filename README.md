@@ -242,8 +242,10 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Logic](society/philosophy/logic.en.md)
 * [Ontology](society/philosophy/ontology.en.md)
 * [Paradoxes](society/philosophy/paradoxes.en.md)
-* [Philosophers](society/philosophy/philosophers.en.md)
 * [Philosophy](society/philosophy/philosophy.en.md)
+
+#### Philosophers
+* [Philosophers](society/philosophy/philosophers/philosophers.en.md)
 
 ### Religion
 * [Religion](society/religion/religion.en.md)
