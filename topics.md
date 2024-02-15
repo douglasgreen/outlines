@@ -137,7 +137,7 @@
 * Constitution - done
 * Constructed Language Design - in process
 * Constructed Languages - done
-* Content Management Systems (CMSs)
+* Content Management Systems (CMSs) - in process
 * Cooking
 * Corporations
 * Cosmology
@@ -677,7 +677,7 @@
 * William Shakespeare - done
 * Wine - done
 * Wireless Networks
-* WordPress
+* WordPress - in process
 * World - done
 * World War I
 * World War II - done
