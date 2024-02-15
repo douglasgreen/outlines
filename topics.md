@@ -28,6 +28,7 @@
 * Archaeology
 * Architectural Patterns
 * Architecture - done
+* Aristotle
 * Artificial Intelligence - done
 * Arts - done
 * Asia - done
@@ -127,10 +128,11 @@
 * Computer Security
 * Computer Software
 * Concurrent Programming
+* Confucius and Confucianism
 * Conservation/Biodiversity
 * Constitution - done
-* Constructed Languages - done
 * Constructed Language Design - in process
+* Constructed Languages - done
 * Content Management Systems (CMSs)
 * Cooking
 * Corporations
@@ -163,6 +165,7 @@
 * Data Structures - done
 * Data Visualization
 * Data Warehousing
+* David Hume
 * Debugging
 * Debugging Software
 * Decision Making - done
@@ -215,6 +218,7 @@
 * Entrepreneurship
 * Environmentalism
 * Environmental Science
+* Epicureanism
 * Epistemology
 * Esperanto Grammar - done
 * Esperanto Vocabulary - done
@@ -226,6 +230,7 @@
 * Event-Driven Programming in JavaScript
 * Evolution
 * Exercise
+* Existentialism
 * Extensible Markup Language (XML) - done
 * Extraterrestrial Life
 * Famous Artists
@@ -251,6 +256,7 @@
 * France
 * French Grammar - done
 * French Vocabulary - done
+* Friedrich Nietzche - in process
 * Functional Programming
 * Functional Programming in JavaScript
 * Functional Programming in PHP
@@ -267,6 +273,7 @@
 * Geologic Periods
 * Geometry - done
 * George R. R. Martin's Game of Thrones Series
+* Georg Wilhelm Friedrich Hegel
 * German Grammar - done
 * German Vocabulary - done
 * Germany
@@ -284,6 +291,7 @@
 * Harry Potter Books
 * Harry Potter Movies
 * Health - done
+* Hedonism
 * Herbs
 * Hinduism
 * Historic Battles
@@ -314,7 +322,6 @@
 * History of the United Kingdom
 * History of the United States
 * History of the World - done
-* History of the World - done
 * History of Video Games - done
 * History of War
 * Holocaust
@@ -330,7 +337,9 @@
 * Human Rights
 * Hypertext Markup Language (HTML) - done
 * Hypertext Transfer Protocol (HTTP) - done
+* Idealism
 * Illegal Drugs
+* Immanuel Kant
 * India - done
 * Indian Food
 * Industrial Revolution
@@ -365,16 +374,20 @@
 * JavaScript - done
 * JavaScript Frameworks - done
 * JavaScript Programming
+* Jean-Paul Sartre
+* John Locke
 * jQuery Programming
 * J. R. R. Tolkien's Lord of the Rings Series
 * Judaism
 * Jurassic Park Movies
+* Karl Marx and Marxism
 * Knowledge Management
 * Korean War
 * Kubernetes
 * Labor
 * Lakes
 * Language - done
+* Lao-Tzu
 * Large Language Models (LLMs)
 * Latin Grammar - done
 * Latin Vocabulary - done
@@ -393,6 +406,7 @@
 * Lisp Programming
 * Literature - in process
 * Logical Fallacies
+* Logical Positivism
 * Logic - done
 * Lord of the Rings Movies
 * Machine Learning - done
@@ -439,11 +453,13 @@
 * NASA
 * Native Americans
 * Natural Language Processing
+* Neoplatonism
 * Networking - done
 * Neural Networks/Deep Learning
 * Neuroscience
 * New Testament - done
 * New Zealand
+* Nihilism
 * Node.js and Node Package Manager (NPM) - done
 * Norse Mythology
 * North America - done
@@ -486,13 +502,14 @@
 * Piracy - done
 * Pirates of the Caribbean Movies
 * Plants
+* Plato
 * Poetry
 * Poets
 * Political Ideologies
 * Politics - done
 * Pollution/Air Quality
-* Portuguese Grammar - in process
 * Popular Bands
+* Portuguese Grammar - in process
 * Positive Psychology
 * Precious Metals
 * Presidents
@@ -510,12 +527,14 @@
 * Quantum Computing - done
 * Quantum Mechanics
 * Quran
+* Rationalism
 * Reading
 * Real Estate
 * Refactoring
 * Regression Analysis
 * Regular Expressions
 * Relationships
+* Relativism
 * Relativity Theory
 * Religion - done
 * Religion & Spirituality
@@ -561,8 +580,8 @@
 * Software Design - done
 * Software Development
 * Software Development Methodologies
-* Software Engineering - done
 * Software - done
+* Software Engineering - done
 * Software Optimization
 * Software Project Management - done
 * Software Requirements Specifications
@@ -605,6 +624,7 @@
 * Theory of Computation
 * Thermodynamics
 * The Simpsons TV Series
+* Thomas Aquinas
 * Time
 * Time Management
 * Time Series
