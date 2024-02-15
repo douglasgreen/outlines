@@ -280,7 +280,7 @@
 * Georg Wilhelm Friedrich Hegel
 * German Grammar - done
 * German Vocabulary - done
-* Germany
+* Germany - in process
 * Git - done
 * GitLab
 * Golf
