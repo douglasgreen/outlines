@@ -1042,3 +1042,199 @@ Tiam Jesuo diris al ili, "Ne timu. Iru diru al miaj fratoj, ke ili iru en Galile
 Nun dum ili iris, jen, iuj el la gardistoj venis en la urbon kaj raportis al la ĉefpastroj ĉiujn okazaĵojn, kiuj okazis. Kiam ili kunvenis kun la maljunuloj kaj konsiliĝis, ili donis grandan kvanton da arĝento al la soldatoj, dirante, "Diru, ke liaj disĉiploj venis nokte kaj ŝtelis lin dum ni dormis. Se tio venos al la oreloj de la guberniestro, ni konvinkos lin kaj faros vin liberaj de zorgoj." Do ili prenis la monon kaj faris kiel ili estis instruitaj. Tiu diro disvastiĝis inter la Judoj, kaj daŭras ĝis hodiaŭ.
 
 Sed la dek unu disĉiploj iris en Galileon, al la monto, kien Jesuo sendis ilin. Kiam ili vidis lin, ili adorkliniĝis antaŭ li; sed iuj dubis. Jesuo venis al ili kaj parolis al ili, dirante, "Ĉiuj aŭtoritatoj estas donitaj al mi en la ĉielo kaj sur la tero. Iru kaj faru disĉiplojn el ĉiuj nacioj, baptante ilin en la nomo de la Patro kaj de la Filo kaj de la Sankta Spirito, instruante ilin observi ĉion, kion mi ordonis al vi. Jen, mi estas kun vi ĉiam, eĉ ĝis la fino de la epoko." Amen.
+
+## Marko
+
+La Bona Novaĵo laŭ Marko
+
+### Ĉapitro 1
+
+La komenco de la Bona Novaĵo de Jesuo Kristo, la Filo de Dio.
+
+Kiel estas skribite en la profetoj,
+
+"Jen, mi sendas mian mesaĝiston antaŭ via vizaĝo,
+
+kiu preparos vian vojon antaŭ vi:
+
+la voĉo de unu krianta en la dezerto,
+
+'Pretigu la vojon de la Sinjoro!
+
+Rektigu liajn padojn!'"
+
+Johano venis baptante en la dezerto kaj predikante la bapton de pento por pardono de pekoj. La tuta lando de Judeo kaj ĉiuj el Jerusalem eliris al li. Ili estis baptitaj de li en la rivero Jordan, konfesante siajn pekojn. Johano estis vestita per kamelharo kaj ledzono ĉirkaŭ sia talio. Li manĝis lokustojn kaj sovaĝan mielon. Li predikis, dirante, "Post mi venas tiu, kiu estas pli potenca ol mi, la rimeno de kies sandaloj mi ne estas inda kliniĝi kaj malligi. Mi baptis vin en akvo, sed li baptos vin en la Sankta Spirito."
+
+En tiuj tagoj, Jesuo venis el Nazareto de Galileo, kaj estis baptita de Johano en la Jordan. Tuj elirante el la akvo, li vidis la ĉielon disiĝantan kaj la Spiriton malsupreniri sur lin kiel kolombo. Voĉo eliris el la ĉielo, "Vi estas mia amata Filo, en kiu mi bone plaĉas."
+
+Tuj la Spirito pelis lin eksteren en la dezerton. Li estis tie en la dezerto kvardek tagojn, tentata de Satano. Li estis kun la sovaĝaj bestoj; kaj la anĝeloj servis lin.
+
+Nun post kiam Johano estis prenita en gardatecon, Jesuo venis en Galileon, predikante la Bonan Novaĵon de la Regno de Dio, kaj dirante, "La tempo estas plenumita, kaj la Regno de Dio estas proksima! Pentiĝu, kaj kreu je la Bona Novaĵo."
+
+Pasante laŭ la maro de Galileo, li vidis Simonon kaj Andreon, la fraton de Simono, ĵetantajn reton en la maron, ĉar ili estis fiŝkaptistoj. Jesuo diris al ili, "Venu post mi, kaj mi faros vin fiŝkaptistoj de homoj."
+
+Tuj ili lasis siajn retojn, kaj sekvis lin.
+
+Iom plu de tie, li vidis Jakobon, la filon de Zebedeo, kaj Johanon, lian fraton, kiuj ankaŭ estis en la boato riparante la retojn. Tuj li alvokis ilin, kaj ili lasis sian patron, Zebedeon, en la boato kun la dungitaj servistoj, kaj sekvis lin.
+
+Ili eniris en Kafarnaumon, kaj tuj en la sabata tago li eniris en la sinagogon kaj instruis. Ili estis mirigitaj pro lia instruado, ĉar li instruis ilin kvazaŭ havante aŭtoritaton, kaj ne kiel la skribistoj. Tuj estis en ilia sinagogo viro kun malpura spirito, kaj li ekkriis, dirante, "Ha! Kion ni havas komune kun vi, Jesuo, vi Nazaretano? Ĉu vi venis por detrui nin? Mi scias kiu vi estas: la Sanktulo de Dio!"
+
+Jesuo mallaŭdis lin, dirante, "Silentu, kaj eliru el li!"
+
+La malpura spirito, konvulsiigante lin kaj kriante per laŭta voĉo, eliris el li. Ĉiuj estis mirigitaj, tiel ke ili demandis inter si, dirante, "Kio estas ĉi tio? Nova instruado? Ĉar per aŭtoritato li ordonas eĉ la malpurajn spiritojn, kaj ili obeas lin!" La raporto pri li tuj eliris ĉie en la tuta regiono de Galileo kaj ĝia ĉirkaŭaĵo.
+
+Tuj, kiam ili eliris el la sinagogo, ili venis en la domon de Simon kaj Andreo, kun Jakobo kaj Johano. Nun la bofratino de Simono kuŝis malsana kun febro, kaj tuj ili informis lin pri ŝi. Li venis kaj prenis ŝin je la mano kaj levis ŝin. La febro tuj forlasis ŝin, kaj ŝi servis ilin.
+
+Vespere, kiam la suno subiris, ili alportis al li ĉiujn kiuj estis malsanaj kaj tiujn kiuj estis posedataj de demonoj. La tuta urbo estis kunvenigita ĉe la pordo. Li sanigis multajn kiuj estis malsanaj kun diversaj malsanoj kaj elĵetis multajn demonojn. Li ne permesis al la demonoj paroli, ĉar ili konis lin.
+
+Fruematene, dum ankoraŭ estis mallume, li leviĝis kaj eliris, kaj foriris en dezertan lokon, kaj preĝis tie. Simon kaj tiuj, kiuj estis kun li, serĉis lin. Ili trovis lin kaj diris al li, "Ĉiuj serĉas vin."
+
+Li diris al ili, "Ni iru aliloken en la proksimajn urbojn, ke mi povu ankaŭ tie prediki, ĉar pro ĉi tiu kialo mi eliris." Li iris en iliajn sinagogojn tra tuta Galileo, predikante kaj elĵetante demonojn.
+
+Leprozo malsanulo venis al li, petegante lin, genufleksante antaŭ li, kaj dirante al li, "Se vi volas, vi povas purigi min."
+
+Kompate movita, li etendis sian manon, kaj tuŝis lin, kaj diris al li, "Mi volas. Estu purigita." Kiam li diris tion, tuj la lepro forlasis lin kaj li estis purigita. Li severe avertis lin kaj tuj forsendis lin, kaj diris al li, "Vidu, ke vi diru nenion al iu ajn, sed iru montri vin al la pastro kaj oferu por via purigado la aferojn, kiujn Moseo ordonis, kiel ateston al ili."
+
+Sed li eliris, kaj komencis multe proklami ĝin, kaj disvastigi la aferon, tiel ke Jesuo ne plu povis malferme eniri en urbon, sed estis ekstere en dezertaj lokoj. Homoj venis al li de ĉie.
+
+### Ĉapitro 2
+
+Kiam li denove eniris en Kafarnaumon post kelkaj tagoj, oni aŭdis, ke li estas hejme. Tuj multaj estis kunvenigitaj, tiel ke ne estis plu loko, eĉ ne ĉirkaŭ la pordo; kaj li parolis la vorton al ili. Kvar homoj venis, portante paraliziton al li. Kiam ili ne povis proksimiĝi al li pro la homamaso, ili forigis la tegmenton kie li estis. Kiam ili rompis ĝin, ili mallevigis la mason, sur kiu la paralizito kuŝis. Jesuo, vidante ilian fidon, diris al la paralizito, "Filo, viaj pekoj estas pardonitaj al vi."
+
+Sed estis kelkaj el la skribistoj sidantaj tie kaj rezonantaj en siaj koroj, "Kial ĉi tiu homo parolas blasfemojn tiel? Kiu povas pardoni pekojn krom Dio sola?"
+
+Tuj Jesuo, perceptante en sia spirito ke ili tiel rezonis inter si, diris al ili, "Kial vi rezonas tiujn aferojn en viaj koroj? Kio estas pli facila, diri al la paralizito, 'Viaj pekoj estas pardonitaj;' aŭ diri, 'Leviĝu, prenu vian maton, kaj marŝu'? Sed ke vi sciu, ke la Filo de Homo havas aŭtoritaton sur la tero pardoni pekojn"—li diris al la paralizito— "Mi diras al vi, leviĝu, prenu vian maton, kaj iru al via domo."
+
+Li leviĝis, kaj tuj prenis la maton kaj eliris antaŭ ĉiuj, tiel ke ĉiuj miris kaj gloradis Dion, dirante, "Ni neniam vidis ion similan!"
+
+Li denove eliris apud la marbordo. La tuta homamaso venis al li, kaj li instruis ilin. Dum li preterpasis, li vidis Levion, la filon de Alfeo, sidantan ĉe la impostejo. Li diris al li, "Sekvu min." Kaj li leviĝis kaj sekvis lin.
+
+Li kuŝis ĉe la tablo en sia domo, kaj multaj impostistoj kaj pekuloj sidiĝis kun Jesuo kaj liaj disĉiploj, ĉar ili estis multaj, kaj ili sekvis lin. La skribistoj kaj la Fariseoj, kiam ili vidis, ke li manĝas kun la pekuloj kaj impostistoj, diris al liaj disĉiploj, "Kial li manĝas kaj trinkas kun impostistoj kaj pekuloj?"
+
+Kiam Jesuo aŭdis ĝin, li diris al ili, "Tiuj, kiuj estas sanaj, ne bezonas kuraciston, sed tiuj, kiuj estas malsanaj. Mi ne venis por alvoki la justulojn, sed pekulojn al pento."
+
+La disĉiploj de Johano kaj la Fariseoj fastis, kaj ili venis kaj demandis lin, "Kial la disĉiploj de Johano kaj la disĉiploj de la Fariseoj fastas, sed viaj disĉiploj ne fastas?"
+
+Jesuo diris al ili, "Ĉu la geedziĝaj amikoj povas fasti dum la edziĝinto estas kun ili? Dum ili havas la edziĝinton kun ili, ili ne povas fasti. Sed venos tagoj kiam la edziĝinto estos forprenita de ili, kaj tiam ili fastos en tiu tago. Neniu kudras pecon da neantaŭlavita ŝtofo sur malnovan veston, alie la flikaĵo kuntiriĝas kaj la nova disiĝas de la malnova, kaj pli malbona truo estas farita. Neniu metas novan vinon en malnovajn vinsakojn; alie la nova vino disŝiros la sakojn, kaj la vino elverŝiĝos, kaj la sakoj estos ruinigitaj; sed ili metas novan vinon en freŝajn vinsakojn."
+
+Li iris en la sabata tago tra la grenkampoj; kaj liaj disĉiploj komencis, dum ili iris, deŝiri la spikojn de greno. La Fariseoj diris al li, "Jen, kial ili faras tion, kio ne estas leĝa en la sabata tago?"
+
+Li diris al ili, "Ĉu vi neniam legis kion David faris kiam li havis bezonon kaj estis malsata—li, kaj tiuj kiuj estis kun li? Kiel li eniris en la domon de Dio dum la tempo de Abjatar, la ĉefpastro, kaj manĝis la montraĵpanojn, kiuj ne estas leĝe manĝeblaj escepte por la pastroj, kaj donis ankaŭ al tiuj kiuj estis kun li?"
+
+Li diris al ili, "La sabato estis farita por la homo, ne la homo por la sabato. Tial la Filo de Homo estas eĉ sinjoro de la sabato."
+
+### Ĉapitro 3
+
+Li denove eniris en la sinagogon, kaj tie estis viro, kies mano estis sekiĝinta. Ili observis lin, ĉu li sanigus lin en la sabata tago, por ke ili povu akuzi lin. Li diris al la viro, kies mano estis sekiĝinta, "Staru." Li diris al ili, "Ĉu estas leĝe en la sabata tago fari bonon aŭ fari malbonon? Savi vivon aŭ mortigi?" Sed ili silentis. Kiam li rigardis ĉirkaŭe ilin kun kolero, estante malĝojigita pro la malmoliĝo de iliaj koroj, li diris al la viro, "Etendu vian manon." Li etendis ĝin, kaj lia mano estis restarigita tiel sana kiel la alia. La Fariseoj eliris, kaj tuj konspiris kun la Herodianoj kontraŭ li, kiel ili povus detrui lin.
+
+Jesuo retiriĝis al la maro kun siaj disĉiploj; kaj granda homamaso sekvis lin el Galileo, el Judeo, el Jerusalemo, el Idumeo, trans Jordanon, kaj tiuj de ĉirkaŭ Tiro kaj Sidono. Granda homamaso, aŭdinte kiajn grandajn aferojn li faris, venis al li. Li parolis al siaj disĉiploj ke eta boato restu proksime de li pro la homamaso, por ke ili ne premu sur lin. Ĉar li sanigis multajn, tiel ke tiom multe kiom havis malsanojn premis sur lin, ke ili povu tuŝi lin. La malpuraj spiritoj, ĉiam kiam ili vidis lin, falis antaŭ li kaj kriis, "Vi estas la Filo de Dio!" Li severe avertis ilin, ke ili ne faru lin konata.
+
+Li supreniris en la monton kaj alvokis al si tiujn, kiujn li volis, kaj ili iris al li. Li nomumis dek du, por ke ili estu kun li, kaj por ke li povu sendi ilin prediki kaj havi aŭtoritaton sanigi malsanojn kaj elĵeti demonojn: Simonon (al kiu li donis la nomon Petro); Jakobon, la filon de Zebedeo; kaj Johanon, la fraton de Jakobo, (kiun li nomis Boanerges, kio signifas, Filoj de Tondro); Andreon; Filipon; Bartolomeon; Mateon; Tomason; Jakobon, la filon de Alfeo; Tadeon; Simonon la Zeloton; kaj Judason Iskarioton, kiu ankaŭ perfidis lin.
+
+Poste li venis en domon. La homamaso denove kunvenis, tiel ke ili ne povis eĉ manĝi panon. Kiam liaj amikoj aŭdis tion, ili eliris por kapti lin; ĉar ili diris, "Li estas freneza." La skribistoj, kiuj venis malsupren de Jerusalemo, diris, "Li havas Beelzebulon," kaj, "Per la princo de la demonoj li elĵetas la demonojn."
+
+Li alvokis ilin kaj diris al ili per paraboloj, "Kiel povas Satano elĵeti Satanon? Se regno estas dividita kontraŭ si mem, tiu regno ne povas stari. Se domo estas dividita kontraŭ si mem, tiu domo ne povas stari. Se Satano leviĝis kontraŭ si mem, kaj estas dividita, li ne povas stari, sed havas finon. Sed neniu povas eniri en la domon de la forta viro por prirabi, se li unue ne ligas la fortan viron; tiam li prirabos lian domon.
+
+"Certe mi diras al vi, ĉiuj pekoj de la idoj de homo estos pardonitaj, inkluzive iliajn blasfemojn per kiuj ili eble blasfemos; sed kiu ajn blasfemos kontraŭ la Sankta Spirito neniam havas pardonon, sed estas submetita al eterna kondamno." —ĉar ili diris, "Li havas malpuran spiriton."
+
+Lia patrino kaj liaj fratoj venis, kaj starante ekstere, ili sendis al li, vokante lin. Multitudo sidis ĉirkaŭ li, kaj ili diris al li, "Jen, via patrino, viaj fratoj, kaj viaj fratinoj estas ekstere serĉante vin."
+
+Li respondis al ili, "Kiu estas mia patrino kaj miaj fratoj?" Rigardante ĉirkaŭe al tiuj, kiuj sidis ĉirkaŭe de li, li diris, "Jen, mia patrino kaj miaj fratoj! Ĉar kiu ajn faras la volon de Dio, tiu estas mia frato, mia fratino, kaj patrino."
+
+### Ĉapitro 4
+
+Denove li komencis instrui ĉe la marbordo. Granda homamaso kunvenis al li, tiel ke li eniris en boaton en la maro kaj sidiĝis. La tuta homamaso estis sur la tero ĉe la maro. Li instruis ilin multajn aferojn per paraboloj, kaj diris al ili en sia instruado, "Aŭskultu! Jen, la semisto eliris por semi. Dum li semis, iuj semoj falis apud la vojon, kaj la birdoj venis kaj formanĝis ĝin. Aliaj falis sur la ŝtonecan grundon, kie ĝi havis malmultan teron, kaj tuj ĝi elkreskis, ĉar ĝi ne havis terprofundecon. Kiam la suno leviĝis, ĝi estis bruligita; kaj ĉar ĝi ne havis radikon, ĝi velkis. Aliaj falis inter la dornojn, kaj la dornoj kreskis kaj sufokis ĝin, kaj ĝi ne donis frukton. Aliaj falis en la bonan teron kaj donis frukton, kreskante kaj pliiĝante. Iuj produktis tridekoble, iuj sesdekoble, kaj iuj centoble." Li diris, "Kiu ajn havas orelojn por aŭdi, tiu aŭdu."
+
+Kiam li estis sola, tiuj, kiuj estis ĉirkaŭ li kun la dek du, demandis lin pri la paraboloj. Li diris al ili, "Al vi estas donita la mistero de la Regno de Dio, sed al tiuj, kiuj estas ekstere, ĉio estas farita per paraboloj, ke 'vidante ili povas vidi kaj ne percepti, kaj aŭdante ili povas aŭdi kaj ne kompreni, por ke ili eble ne turniĝu denove, kaj iliaj pekoj estu pardonitaj al ili.'"
+
+Li diris al ili, "Ĉu vi ne komprenas ĉi tiun parabolon? Kiel vi komprenos ĉiujn parabolojn? La semisto semas la vorton. Tiuj apud la vojo estas tiuj, kie la vorto estas semita; kaj kiam ili aŭdis, tuj Satano venas kaj forprenas la vorton kiu estis semita en ili. Tiuj same estas tiuj, kiuj estas semitaj sur la ŝtonecaj lokoj, kiuj, kiam ili aŭdis la vorton, tuj ricevas ĝin kun ĝojo. Ili ne havas radikon en si mem, sed estas mallongdaŭraj. Kiam premado aŭ persekuto leviĝas pro la vorto, tuj ili falpuŝiĝas. Aliaj estas tiuj, kiuj estas semitaj inter la dornojn. Tiuj estas tiuj, kiuj aŭdis la vorton, kaj la zorgoj de ĉi tiu epoko, kaj la trompemo de riĉeco, kaj la deziroj de aliaj aferoj enirantaj sufokas la vorton, kaj ĝi fariĝas senfrukta. Tiuj, kiuj estis semitaj sur la bona tero, estas tiuj, kiuj aŭdas la vorton, akceptas ĝin, kaj portas frukton, iuj tridekoble, iuj sesdekoble, kaj iuj centoble."
+
+Li diris al ili, "Ĉu oni alportas lampon por meti ĝin sub korbon aŭ sub liton? Ĉu ĝi ne estas metita sur stativegon? Ĉar ne estas io kaŝita krom ke ĝi estu malkaŝita, nek io estis farita sekreta sed ke ĝi venas al lumo. Se iu havas orelojn por aŭdi, tiu aŭdu."
+
+Li diris al ili, "Atentu kion vi aŭdas. Per kia mezuro vi mezuras, per tiu ĝi estos mezurita al vi; kaj pli estos donita al vi, kiuj aŭdas. Ĉar kiu havas, al tiu pli estos donita; kaj tiu, kiu ne havas, eĉ tio, kion li havas, estos prenita for de li."
+
+Li diris, "La Regno de Dio estas kvazaŭ homo, kiu ĵetas semon sur la teron, kaj dormas kaj leviĝas nokte kaj tage, kaj la semo ĝermas kaj kreskas, kvankam li ne scias kiel. Ĉar la tero memportas frukton: unue la folion, poste la spikon, poste la plenan grenon en la spiko. Sed kiam la frukto estas matura, tuj li metas la falĉilon, ĉar la rikolto venis."
+
+Li diris, "Per kio ni komparos la Regnon de Dio? Aŭ per kia parabolo ni ilustras ĝin? Ĝi estas kiel greno de mustardo, kiu, kiam ĝi estas semita en la teron, kvankam ĝi estas malpli ol ĉiuj semoj, kiuj estas sur la tero, tamen kiam ĝi estas semita, ĝi kreskas kaj fariĝas pli granda ol ĉiuj herboj, kaj ĵetas grandajn branĉojn, tiel ke la birdoj de la ĉielo povas nesti sub ĝia ombro."
+
+Per multaj tiaj paraboloj li parolis la vorton al ili, kiel ili povis aŭdi ĝin. Sen parabolo li ne parolis al ili; sed private al siaj propraj disĉiploj li klarigis ĉion.
+
+En tiu tago, kiam vespero venis, li diris al ili, "Ni transiru al la alia flanko." Lasinte la homamason, ili prenis lin kun si, tiel kiel li estis, en la boato. Ankaŭ aliaj malgrandaj boatoj estis kun li. Granda ventoŝtormo leviĝis, kaj la ondoj batis en la boaton, tiom ke la boato jam pleniĝis. Li mem estis en la postparto, dormanta sur la kuseno; kaj ili vekis lin kaj demandis lin, "Instruisto, ĉu vi ne zorgas, ke ni pereas?"
+
+Li vekiĝis kaj mallaŭdis la venton, kaj diris al la maro, "Pacon! Estu kviete!" La vento ĉesis kaj estis granda kvieto. Li diris al ili, "Kial vi tiel timas? Kiel estas, ke vi ne havas fidon?"
+
+Ili estis tre timigitaj kaj diris unu al la alia, "Kiu do estas ĉi tiu, ke eĉ la vento kaj la maro obeas lin?"
+
+### Ĉapitro 5
+
+Ili venis al la alia flanko de la maro, en la landon de la Gadarenanoj. Kiam li eliris el la boato, tuj viro kun malpura spirito renkontis lin el la tomboj. Li vivis en la tomboj. Neniu plu povis ligi lin, eĉ ne per ĉenoj, ĉar li ofte estis ligita per katenoj kaj ĉenoj, kaj la ĉenoj estis disŝiritaj de li, kaj la katenoj rompitaj en pecojn. Neniu havis la forton regi lin. Ĉiam, nokte kaj tage, en la tomboj kaj en la montoj, li kriis, kaj sin tranĉis per ŝtonoj. Kiam li vidis Jesuon el malproksime, li kuris kaj kliniĝis antaŭ li, kaj kriante per laŭta voĉo, li diris, "Kion mi havas kun vi, Jesuo, vi Filo de la Plej Alta Dio? Mi ĵuras al vi per Dio, ne turmentu min." Ĉar li diris al li, "Eliru el la viro, vi malpura spirito!"
+
+Li demandis lin, "Kio estas via nomo?"
+
+Li diris al li, "Mia nomo estas Legio, ĉar ni estas multaj." Li tre petegis lin, ke li ne forsendus ilin el la lando. Nun sur la montoflanko estis granda aro da porkoj paŝtantaj. Ĉiuj demonoj petegis lin, dirante, "Sendu nin en la porkojn, ke ni povu eniri en ilin."
+
+Tuj Jesuo donis al ili permeson. La malpuraj spiritoj eliris kaj eniris en la porkojn. La aro, proksimume du mil, kuris malsupren la krutan bankon en la maron, kaj ili dronis en la maro. Tiuj, kiuj paŝtis la porkojn, forkuris, kaj rakontis ĝin en la urbo kaj en la kamparo.
+
+La homoj venis vidi kio okazis. Ili venis al Jesuo, kaj vidis lin, kiu estis posedata de demonoj, sidanta, vestita, kaj en sia ĝusta menso, eĉ tiu, kiu havis la legion; kaj ili timis. Tiuj, kiuj vidis ĝin, deklaris al ili kio okazis al tiu, kiu estis posedata de demonoj, kaj pri la porkoj. Ili komencis peti lin foriri el ilia regiono.
+
+Dum li eniris en la boaton, tiu, kiu estis posedata de demonoj, petegis lin, ke li povu esti kun li. Li ne permesis al li, sed diris al li, "Iru al via domo, al viaj amikoj, kaj rakontu al ili kiajn grandajn aferojn la Sinjoro faris por vi kaj kiel li kompatis vin."
+
+Li iris sian vojon, kaj komencis proklami en Dekapolo kiel Jesuo faris grandajn aferojn por li, kaj ĉiuj miris.
+
+Kiam Jesuo retransiris per la boato al la alia flanko, granda homamaso kunvenis al li; kaj li estis ĉe la maro. Jen, unu el la regantoj de la sinagogo, Jairo laŭnome, venis; kaj vidinte lin, li falis ĉe liaj piedoj kaj multe petegis lin, dirante, "Mia eta filino estas ĉe mortopunkto. Bonvolu veni kaj meti viajn manojn sur ŝin, por ke ŝi estu sanigita kaj vivu."
+
+Li iris kun li, kaj granda homamaso sekvis lin, kaj ili preme alpremiĝis al li de ĉiuj flankoj. Certa virino, kiu havis sangofluon dum dek du jaroj, kaj suferis multe de multaj kuracistoj, kaj elspezis ĉion, kion ŝi havis, kaj ne pliboniĝis, sed plimalboniĝis, aŭdinte la aferojn koncerne Jesuon, venis malantaŭ li en la homamason kaj tuŝis lian veston. Ĉar ŝi diris, "Se mi nur tuŝos lian veston, mi estos sanigita." Tuj la fluo de ŝia sango sekigis, kaj ŝi sentis en sia korpo, ke ŝi estis resanigita de sia malsano.
+
+Tuj Jesuo, perceptante en si mem, ke la potenco eliris el li, turnis sin en la homamason kaj demandis, "Kiu tuŝis miajn vestojn?"
+
+Liaj disĉiploj diris al li, "Vi vidas la homamason preme kontraŭ vin, kaj vi diras, 'Kiu tuŝis min?'"
+
+Li rigardis ĉirkaŭe por vidi ŝin, kiu faris ĉi tiun aferon. Sed la virino, timante kaj tremante, sciante kion estis farita al ŝi, venis kaj falis antaŭ li, kaj rakontis al li la tutan veron.
+
+Li diris al ŝi, "Filo, via fido sanigis vin. Iru en paco, kaj estu resanigita de via malsano."
+
+Dum li ankoraŭ parolis, venis homoj el la domo de la sinagogestro, dirante, "Via filino estas morta. Kial plu ĝeni la Instruiston?"
+
+Sed Jesuo, kiam li aŭdis la mesaĝon parolitan, tuj diris al la reganto de la sinagogo, "Ne timu, nur kreu." Li permesis al neniu sekvi lin krom Petro, Jakobo, kaj Johano, la frato de Jakobo. Li venis al la domo de la sinagogestro, kaj li vidis tumulton, ploradon, kaj grandan plendadon. Kiam li eniris, li diris al ili, "Kial vi faras tumulton kaj ploras? La infano ne estas morta, sed dormas."
+
+Ili mokis lin. Sed li, post kiam li elpelis ilin ĉiujn, prenis la patron de la infano, ŝian patrinon, kaj tiujn, kiuj estis kun li, kaj eniris kie la infano kuŝis. Preninte la infanon je la mano, li diris al ŝi, "Talita kumi!" kio signifas, interpretite, "Knabino, mi diras al vi, leviĝu!" Tuj la knabino leviĝis kaj marŝis, ĉar ŝi estis dek dujara. Ili estis mirigitaj per granda miro. Li strikte ordonis al ili, ke neniu sciu pri ĉi tio, kaj ordonis, ke io estu donita al ŝi por manĝi.
+
+### Ĉapitro 6
+
+Li eliris de tie. Li venis en sian propran landon, kaj liaj disĉiploj sekvis lin. Kiam la sabato alvenis, li komencis instrui en la sinagogo, kaj multaj aŭskultantaj lin estis mirigitaj, dirante, "De kie ĉi tiu viro akiris ĉi tiujn aferojn?" kaj, "Kia estas la saĝo donita al ĉi tiu viro, ke tiaj potencaj faroj okazas per liaj manoj? Ĉu ĉi tiu ne estas la ĉarpentisto, la filo de Maria kaj frato de Jakobo, Joses, Judah, kaj Simon? Ĉu liaj fratinoj ne estas ĉi tie kun ni?" Do ili skandaligis pri li.
+
+Jesuo diris al ili, "Profeto ne estas sen honoro, escepte en sia propra lando, kaj inter siaj propraj parencoj, kaj en sia propra domo." Li ne povis fari tie potencajn farojn, escepte ke li metis siajn manojn sur kelkaj malsanuloj kaj sanigis ilin. Li miris pro ilia malkredo.
+
+Li ĉirkaŭiris la vilaĝojn instruante. Li alvokis al si la dek du, kaj komencis sendi ilin duope; kaj li donis al ili aŭtoritaton super la malpuraj spiritoj. Li ordonis al ili, ke ili ne prenu ion por sia vojaĝo, escepte nur bastonon: neniu panon, neniu monujon, neniu monon en siaj borsaĵoj, sed porti sandalojn, kaj ne surmeti du tunikojn. Li diris al ili, "Kie ajn vi eniras en domon, restu tie ĝis vi foriros de tie. Kiu ajn ne akceptos vin nek aŭskultos vin, kiam vi foriros de tie, skuu la polvon, kiu estas sub viaj piedoj, kiel atesto kontraŭ ili. Vere mi diras al vi, estos pli tolereble por Sodomo kaj Gomoro en la tago de juĝo ol por tiu urbo!"
+
+Ili eliris kaj predikis, ke homoj pentu. Ili elĵetis multajn demonojn, kaj ŝmiris per oleo multajn malsanulojn kaj sanigis ilin. Reĝo Herodo aŭdis ĉi tion, ĉar lia nomo fariĝis konata, kaj li diris, "Johano la Baptisto leviĝis el la mortintoj, kaj tial ĉi tiuj potencoj funkcias en li." Sed aliaj diris, "Li estas Elija." Aliaj diris, "Li estas profeto, aŭ kiel unu el la profetoj." Sed Herodo, kiam li aŭdis ĉi tion, diris, "Ĉi tio estas Johano, kiun mi senkapigis. Li leviĝis el la mortintoj." Ĉar Herodo mem sendis kaj arestis Johanon kaj ligis lin en malliberejo pro Herodias, la edzino de sia frato Filipo, ĉar li edzinigis ŝin. Ĉar Johano diris al Herodo, "Ne estas laŭleĝe por vi havi la edzinon de via frato." Herodias sin metis kontraŭ lin kaj deziris mortigi lin, sed ŝi ne povis, ĉar Herodo timis Johanon, sciante, ke li estis justa kaj sankta viro, kaj gardis lin sekura. Kiam li aŭdis lin, li faris multajn aferojn, kaj aŭskultis lin volonte.
+
+Tiam venis oportuna tago kiam Herodo je sia naskiĝtago faris vespermanĝon por siaj nobeloj, la altaj oficiroj, kaj la ĉefaj viroj de Galileo. Kiam la filino de Herodias mem eniris kaj dancis, ŝi plaĉis al Herodo kaj al tiuj, kiuj sidis kun li. La reĝo diris al la junulino, "Petu de mi kion ajn vi volas, kaj mi donos ĝin al vi." Li ĵuris al ŝi, "Kion ajn vi petos de mi, mi donos al vi, ĝis duono de mia regno."
+
+Ŝi eliris kaj diris al sia patrino, "Kion mi petu?"
+
+Ŝi diris, "La kapon de Johano la Baptisto."
+
+Ŝi tuj eniris kun hasto al la reĝo kaj petis, "Mi volas, ke vi tuj donu al mi sur pladon la kapon de Johano la Baptisto."
+
+La reĝo estis ekstreme bedaŭranta, sed pro siaj ĵuroj kaj pro siaj vespermanĝaj gastoj, li ne volis rifuzi ŝin. Tuj la reĝo sendis soldaton de sia gardistaro kaj ordonis alporti la kapon de Johano; kaj li iris kaj senkapigis lin en la malliberejo, kaj alportis lian kapon sur pladon, kaj donis ĝin al la junulino; kaj la junulino donis ĝin al sia patrino.
+
+Kiam liaj disĉiploj aŭdis tion, ili venis kaj prenis lian korpon kaj metis ĝin en tombon.
+
+La apostoloj kolektiĝis ĉirkaŭ Jesuo, kaj ili rakontis al li ĉion, kion ili faris, kaj kion ili instruis. Li diris al ili, "Venu for en dezertan lokon, kaj ripozu iomete." Ĉar estis multaj venantaj kaj irantaj, kaj ili ne havis libertempon eĉ por manĝi. Ili foriris en la boato al dezerta loko por esti sole. Ili vidis ilin forirantajn, kaj multaj rekonis lin kaj kuris tien piede el ĉiuj urboj. Ili alvenis antaŭ ili kaj kolektiĝis ĉirkaŭ li. Jesuo eliris, vidis grandan homamason, kaj li havis kompaton al ili, ĉar ili estis kiel ŝafoj sen paŝtisto; kaj li komencis instrui ilin multajn aferojn. Kiam estis malfrue en la tago, liaj disĉiploj venis al li kaj diris, "Ĉi tiu loko estas dezerta, kaj estas malfrue en la tago. Sendu ilin for, por ke ili povu iri en la ĉirkaŭan landon kaj vilaĝojn kaj aĉeti al si panon, ĉar ili havas nenion por manĝi."
+
+Sed li respondis al ili, "Vi donu al ili ion por manĝi."
+
+Ili demandis lin, "Ĉu ni iru kaj aĉetu ducent denarojn da pano kaj donu al ili ion por manĝi?"
+
+Li diris al ili, "Kiom da panoj vi havas? Iru kaj vidu."
+
+Kiam ili sciis, ili diris, "Kvin, kaj du fiŝojn."
+
+Li ordonis al ili, ke ĉiu sidiĝu en grupoj sur la verda herbo. Ili sidiĝis en vicoj, po centoj kaj po kvindek. Li prenis la kvin panojn kaj la du fiŝojn; kaj leviĝinte la okulojn al la ĉielo, li benis kaj rompis la panojn, kaj li donis al siaj disĉiploj por meti antaŭ ili, kaj li disdividis la du fiŝojn inter ĉiuj. Ili ĉiuj manĝis kaj estis satigitaj. Ili kolektis dek du korbojn plenajn de rompitaĵoj kaj ankaŭ de la fiŝoj. Tiuj, kiuj manĝis la panojn, estis kvin mil viroj.
+
+Tuj li devigis siajn disĉiplojn eniri en la boaton kaj antaŭiri al la alia flanko, al Betsaida, dum li mem sendis la homamason for. Post kiam li adiaŭis ilin, li iris sur la monton por preĝi.
+
+Kiam vesperiĝis, la boato estis meze de la maro, kaj li estis sola sur la tero. Vidante ilin en malfacilaĵo pro remado, ĉar la vento estis kontraŭ ili, ĉirkaŭ la kvara gardovico de la nokto li venis al ili, marŝante sur la maro; kaj li estus preteririnta ilin, sed ili, kiam ili vidis lin marŝante sur la maro, supozis, ke ĝi estas fantomo, kaj kriis; ĉar ili ĉiuj vidis lin kaj estis konfuzitaj. Sed li tuj parolis kun ili kaj diris al ili, “Kuraĝu! Estas mi! Ne timu.” Li eniris en la boaton kun ili; kaj la vento ĉesis, kaj ili estis tre mirigitaj inter si, kaj miregis; ĉar ili ne komprenis pri la panoj, sed iliaj koroj estis malmoligitaj.
+
+Kiam ili transiris, ili venis al tero ĉe Genesareto kaj aligis al la bordo. Kiam ili eliris el la boato, tuj la homoj rekonis lin, kaj kuris tra tiu tuta regiono, kaj komencis alporti tiujn, kiuj estis malsanaj sur siaj matoj al kie ili aŭdis, ke li estis. Kie ajn li eniris—en vilaĝojn, aŭ en urbojn, aŭ en la kamparon—ili metis la malsanulojn en la bazarojn kaj petegis lin, ke ili povu nur tuŝi la frandon de lia vesto; kaj kiom ajn tuŝis lin estis resanigitaj.
