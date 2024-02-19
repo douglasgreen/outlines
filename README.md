@@ -278,13 +278,15 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ## World
 * [Africa](world/africa.en.md)
-* [Europe](world/europe.en.md)
 * [World](world/world.en.md)
 
 ### Asia
 * [Asia](world/asia/asia.en.md)
 * [China](world/asia/china.en.md)
 * [India](world/asia/india.en.md)
+
+### Europe
+* [Europe](world/europe/europe.en.md)
 
 ### North America
 * [North America](world/north_america/north_america.en.md)
