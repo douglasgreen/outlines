@@ -200,7 +200,7 @@
 * Driving Safety
 * Drones - done
 * Dungeons and Dragons
-* Dutch Grammar - in process
+* Dutch Grammar
 * Eastern Philosophy
 * E-Commerce
 * Econometrics
