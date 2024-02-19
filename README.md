@@ -120,6 +120,10 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Web Development](computers/web_development/web_development.en.md)
 * [WebPack](computers/web_development/webpack.en.md)
 
+#### Content Management Systems
+* [Content Management Systems](computers/web_development/content_management_systems/content_management_systems.en.md)
+* [WordPress](computers/web_development/content_management_systems/wordpress.en.md)
+
 ## Languages
 * [Constructed Language](languages/constructed.en.md)
 * [Languages](languages/languages.en.md)

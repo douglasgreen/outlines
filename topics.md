@@ -677,7 +677,7 @@
 * William Shakespeare - done
 * Wine - done
 * Wireless Networks
-* WordPress - in process
+* WordPress - done
 * World - done
 * World War I
 * World War II - done
