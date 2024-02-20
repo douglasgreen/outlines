@@ -212,4 +212,82 @@ La ĉefa celo de prototipado en uzebleco estas kolekti reagojn kaj ripeti pri la
 
 Prototipado por uzebleco estas cikla procezo de desegnado, testado, kolektado de sugestoj kaj rafinado, kiu helpas certigi, ke la fina produkto estas kaj uzant-amika kaj kongrua kun uzantbezonoj kaj komercaj celoj.
 
+### Interaga Dezajno
 
+Interaga dezajno (IxD) fokusas sur kreado de allogaj interfacoj kun bone pripensitaj kondutoj. Ĝi implikas dizajnadon de la interago inter uzantoj kaj produktoj aŭ sistemoj, kun la celo fari produktojn pli uzeblaj kaj efikaj. Interaga dezajno ne limiĝas al ciferecaj produktoj, sed aplikeblas al iu ajn produkto aŭ sistemo, kiu implikas ian formon de interago inter la uzanto kaj la produkto.
+
+### Principoj de Interaga Dezajno
+
+Kelkaj ŝlosilaj principoj subtenas efikan interagan dezajnon, certigante, ke uzantoj havas pozitivan sperton:
+
+1. **Celo-Direktita Dezajno**: Dezajno devus esti adaptita por plenumi uzantajn bezonojn kaj celojn. Kompreni kion uzantoj volas atingi helpas en kreado de dezajno, kiu gvidas ilin al siaj celoj efike.
+
+2. **Uzebleco**: La produkto devus esti facila uzebla, kun klara kaj intuicia interfaco, kiu minimumigas la lernokurbon por novaj uzantoj dum provizas efikajn vojojn por spertaj uzantoj.
+
+3. **Retrosciigo kaj Responda Tempo**: Uzantoj devus ricevi tujan kaj klaran retrosciigon en respondo al siaj agoj. Tio povas esti vida, aŭda, aŭ tuŝa, provizante certigon, ke la sistemo ricevis la enigon de la uzanto.
+
+4. **Konsistenco**: Konsistenco en dezajno permesas uzantojn utiligi antaŭan scion de unu parto de la aplikaĵo al alia, plibonigante lerneblecon kaj reduktante konfuzon.
+
+5. **Erarpreventado kaj Traktado**: Bona interaga dezajno anticipas eblajn uzanterarojn kaj aŭ preventas ilin antaŭ ol ili okazas aŭ ofertas simplajn, konstruajn solvojn por reakiro.
+
+### Dezajnado por Diversaj Interfacoj
+
+La principoj de interaga dezajno devas esti adaptitaj por enkalkuli diversajn specojn de interfacoj, ĉiu kun sia propra aro de defioj kaj ŝancoj:
+
+#### Reto
+
+- **Respondeco**: Retejoj devas esti respondecaj, adaptiĝante senprobleme al diversaj ekrangrandecoj kaj rezolucioj por certigi uzeblecon trans aparatoj.
+- **Navigado**: Klara kaj intuicia navigado estas kruciala, kun konsistaj lokigoj de elementoj kiel menuoj, serĉbretoj, kaj alvok-al-agaj butonoj.
+
+#### Poŝtelefono
+
+- **Tuŝaj Interagoj**: Dezajno devas adaptiĝi al tuŝaj interagoj, kun sufiĉe grandaj tuŝceloj kaj gestoj, kiuj reflektas naturajn movojn.
+- **Limigita Ekrana Spaco**: Efika uzado de spaco estas ŝlosila, prioritatigante esencan enhavon kaj trajtojn por eviti malordo kaj certigi legeblecon.
+
+#### Porteblaj
+
+- **Konteksto-Konscio**: Porteblaj interfacoj devus esti konteksto-konsciaj, liverante rilatan informon kaj funkciojn bazitajn sur la nuna agado aŭ loko de la uzanto.
+- **Simpleco**: Donita la eĉ pli malgrandajn ekranojn, la dezajno devas fokusiĝi je simpleco kaj facileco de uzo, ofte fidante je minimalismaj interfacoj kaj voĉkomandoj.
+
+### Alireblecoj kaj Signifiloj en Dezajno
+
+Alireblecoj kaj signifiloj estas esencaj konceptoj en interaga dezajno, rilatante al kiel uzantoj komprenas kaj interagas kun interfacoj:
+
+- **Alireblecoj**: Alirebleco estas eco aŭ trajto de objekto, kiu indikas kiel ĝi povas esti uzata. Ekzemple, butono povas esti premata, kaj glitilo povas esti movita. Efika dezajno certigas, ke la alireblecoj de produkto aŭ sistemo estas klaraj kaj intuiciaj.
+
+- **Signifiloj**: Signifiloj indikas kie ago devus okazi. Ili estas signoj, kiuj signalas al uzantoj kiaj agoj eblas. Ekzemple, substreka teksto en retpaĝo signifas hiperligilon, kiu povas esti alklakita. La uzo de signifiloj helpas uzantojn kompreni kiel interagi kun produkto sen bezoni provi kaj erari.
+
+Inkorporante ĉi tiujn principojn, konsiderojn por diversaj interfacoj, kaj la konceptojn de alireblecoj kaj signifiloj, interaga dezajno celas krei produktojn, kiuj ofertas senjuntan, intuician uzantosperton, pontojn la breĉon inter uzantaj bezonoj kaj produkta funkcio.
+
+Informadika Arkitekturo
+
+Informadika arkitekturo (IA) estas la praktiko de strukturado kaj organizado de enhavo efike kaj daŭrigeble, por helpi uzantojn trovi informojn kaj plenumi taskojn. Ĝi implikas la dezajnon de informaj medioj, kiuj estas intuiciaj kaj uzanto-amikaj, farante kompleksajn sistemojn alireblaj kaj kompreneblaj. Bona IA estas kritika por ĉiu sistemo, kiu implikas signifan kvanton da informoj aŭ enhavo, kiel retejoj, interretaj komunumoj, programaro, kaj datumbazoj.
+
+Organizado de Informo por Uzebleco
+
+La organizado de informo estas ŝlosila aspekto de IA kaj rekte influas uzeblecon. La celo estas aranĝi la enhavon maniere, kiu reflektas la atendojn de uzantoj, ebligante ilin intuicie kompreni kie trovi informojn. Ĉi tio implikas:
+
+- **Kategoriigo**: Grupigado de simila informo kune en kategorioj, kiuj havas sencon por la uzanto. Ĉi tio povas esti farita per supren-malsupren (dedukta) aŭ malsupren-supren (indukta) alproksimiĝoj.
+- **Hierarkio**: Starigado de klara hierarkio de informo, de ĝenerala al specifa, helpas uzantojn navigi tra tavoloj de enhavo efike.
+- **Etikedado**: Uzado de klaraj, koncizaj kaj priskribaj etikedoj por kategorioj kaj navigaj elementoj helpas uzantojn kompreni siajn eblecojn kaj fari informitajn elektojn.
+- **Metadatenoj**: Aplikado de metadatenoj (datenoj pri datenoj) ebligas pli sofistikan kategoriigon, filtradon, kaj serĉkapablecojn, plibonigante la troveblecon de enhavo.
+
+Navigaj Sistemoj kaj Menua Dezajno
+
+Navigaj sistemoj gvidas uzantojn tra informa spaco kaj estas kritikaj por pozitiva uzanto-sperto. Efika navigado devus sentiĝi intuicia, permesante al uzantoj rapide trovi kion ili serĉas sen nenecesa komplekseco.
+
+- **Konsistenco**: Navigado devus esti konsistenta tra la tuta informa sistemo, uzante la saman terminologion, vidajn signalojn, kaj lokigon.
+- **Larĝeco kontraŭ Profundo**: Ekilibro inter larĝeco (la nombro de supraj-nivelaj opcioj) kaj profundo (kiom da niveloj profunde la enhavo estas organizita) devas esti trovita por eviti superŝarĝi uzantojn aŭ enterigi enhavon tro profunde.
+- **Vida Hierarkio**: Vidaj dezajnaj elementoj devus klare indiki la hierarkion de navigado, helpante uzantojn kompreni kie ili estas en la sistemo kaj kiel aliri pli altajn aŭ pli malaltajn nivelojn.
+- **Alirebleco**: Navigado devus esti alirebla al ĉiuj uzantoj, inkluzive tiujn kun handikapoj, obeante alireblecajn gvidliniojn kaj plej bonajn praktikojn.
+
+Serĉaj Sistemoj kaj Informa Reakiro
+
+Por kompleksaj informaj sistemoj, navigaj menuoj sole eble ne sufiĉas por uzantoj trovi specifajn informojn. Robusta serĉa sistemo plibonigas uzeblecon permesante al uzantoj rekte demandi la sistemon.
+
+- **Serĉujo-Lokigo**: La serĉujo devus esti elstare lokita kaj facile alirebla de ĉiu paĝo, kutime ĉe la supro de la paĝo.
+- **Serĉaj Algoritmoj**: Efikaj serĉaj algoritmoj konsideras ne nur la rilaton de enhavo al serĉterminoj sed ankaŭ la kuntekston, popularecon, kaj freŝecon de la enhavo.
+- **Filtriloj kaj Facetita Serĉo**: Provizado de opcioj por filtri serĉrezultojn laŭ diversaj kriterioj (ekz., dato, kategorio, aŭtoro) helpas uzantojn rafini siajn serĉojn kaj pli facile trovi kion ili serĉas.
+- **Aŭtomata Kompletigo kaj Sugestoj**: Ĉi tiuj funkcioj povas akceli la serĉprocezon kaj helpi uzantojn formuli efikajn serĉdemandojn per sugestado de rilataj terminoj dum ili tajpas.
+
+Resume, informadika arkitekturo temas pri fari informon trovebla kaj komprenebla, per zorgema organizado, efikaj navigaj sistemoj, kaj efikaj serĉfunkcioj. Bona IA estas nevidebla al uzantoj; ili ne rimarkas ĝin ĉar ili povas trovi kion ili bezonas sen peno, kio estas la fina celo de uzebleco.
