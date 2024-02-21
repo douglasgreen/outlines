@@ -5629,6 +5629,7 @@
 * pistono - piston
 * pitono - python
 * pitoreska - picturesque
+* pivota - pivotal
 * pizo - pea; chickpea
 * placo - square (public); plaza
 * plado - dish; plate
