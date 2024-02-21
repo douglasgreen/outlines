@@ -1,13 +1,12 @@
-# Retaj Liveraj Retoj
+# Enhavaj Liveraj Retoj
 
+## Enkonduko al Enhavaj Liveraj Retoj
 
-## Enkonduko al Retaj Liveraj Retoj
-
-Retaj Liveraj Retoj (CDN-oj) estas decida parto de la moderna interreta infrastrukturo, desegnita por efike kaj rapide liveri enhavon al uzantoj ĉirkaŭ la mondo. Kompreneble pri CDN-oj, ilia historia fono, ilia graveco en la moderna interreto, kaj iliaj bazaj komponantoj kaj arkitekturo, oni povas taksin ilian kritikan rolon en la hodiaŭa cifereca pejzaĝo.
+Enhavaj Liveraj Retoj (CDNs) estas pivota parto de la moderna interreta infrastrukturo, desegnita por efike kaj rapide liveri enhavon al uzantoj ĉirkaŭ la mondo. Per komprenado de CDNs, ilia historia fono, ilia graveco en la moderna interreto, kaj iliaj bazaj komponantoj kaj arkitekturo, oni povas aprezi ilian kritikan rolon en la nuna cifereca pejzaĝo.
 
 ### Komprenante CDN-ojn
 
-Retaj Liveraj Retoj estas geografie disvastigita reto de prokseaj serviloj kaj iliaj datencentroj. La celo estas provizi altan haveblecon kaj rendimenton per spacige disvastiganta la servon rilate al fin-uzantoj. CDN-oj liveras signifan parton de la interreta enhavo hodiaŭ, inkluzive de retejaj objektoj (teksto, grafikaĵoj kaj skriptoj), elŝuteblaj objektoj (amaskomunikilaj dosieroj, programaro, dokumentoj), aplikoj (e-komerco, portaloj), vivaj fluantaj amaskomunikiloj, laŭpetaj fluantaj amaskomunikiloj, kaj sociaj retoj.
+Enhavaj Liveraj Retoj estas geografie disvastigita reto de prokseaj serviloj kaj iliaj datencentroj. La celo estas provizi altan haveblecon kaj rendimenton per spacige disvastiganta la servon rilate al fin-uzantoj. CDN-oj liveras signifan parton de la interreta enhavo hodiaŭ, inkluzive de retejaj objektoj (teksto, grafikaĵoj kaj skriptoj), elŝuteblaj objektoj (amaskomunikilaj dosieroj, programaro, dokumentoj), aplikoj (e-komerco, portaloj), vivaj fluantaj amaskomunikiloj, laŭpetaj fluantaj amaskomunikiloj, kaj sociaj retoj.
 
 CDN-oj funkcias per kaŝmemorigado de enhavo en multoblaj lokoj ĉirkaŭ la mondo, konataj kiel "randaj serviloj," poziciigitaj kiel eble plej proksime al fin-uzantoj. Kiam uzanto petas enhavon (kiel retpaĝo aŭ video), la peto estas alidirektita al la plej proksima servilo, kiu povas liveri la enhavon, tiel reduktante latencon kaj plibonigante ŝarĝajn tempojn.
 
