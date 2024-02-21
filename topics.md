@@ -358,6 +358,7 @@
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
 * Intelligence
+* Internationalization and Localization - in process
 * Internet - done
 * Internet of Things
 * Internet Protocols - done
@@ -671,7 +672,6 @@
 * Web Browsers - done
 * Web Design
 * Web Development - done
-* Web Internationalization
 * WebPack - done
 * Web Standards
 * William Shakespeare - done
