@@ -291,3 +291,57 @@ Por kompleksaj informaj sistemoj, navigaj menuoj sole eble ne sufiĉas por uzant
 - **Aŭtomata Kompletigo kaj Sugestoj**: Ĉi tiuj funkcioj povas akceli la serĉprocezon kaj helpi uzantojn formuli efikajn serĉdemandojn per sugestado de rilataj terminoj dum ili tajpas.
 
 Resume, informadika arkitekturo temas pri fari informon trovebla kaj komprenebla, per zorgema organizado, efikaj navigaj sistemoj, kaj efikaj serĉfunkcioj. Bona IA estas nevidebla al uzantoj; ili ne rimarkas ĝin ĉar ili povas trovi kion ili bezonas sen peno, kio estas la fina celo de uzebleco.
+
+## Interaga Dezajno
+
+
+## Informa Arkitekturo
+
+
+## Uzantinterfaca Dezajno
+
+
+## Uzebleco en Reta Dezajno
+
+
+## Uzebleco en Poŝaplika Dezajno
+
+
+## Uzebleco en Programara Inĝenierado
+
+
+## Analizado de Uzanto-Konduto
+
+
+## Uzebleco por E-Komerco
+
+
+## Uzebleco por Alirebleco
+
+
+## Internacia Uzebleco
+
+
+## Uzebleco en Emerĝantaj Teknologioj
+
+
+## Altnivelaj Teknikoj de Uzebleca Testado
+
+
+## Dezajnado por Uzanto-Emocioj kaj Sperto
+
+
+## Administrado de Uzeblecaj Projektoj
+
+
+## Estontaj Tendencoj en Uzebleco
+
+
+## Glosaro de Terminoj
+
+
+## Oftaj Demandoj
+
+
+## Tempolinio
+
