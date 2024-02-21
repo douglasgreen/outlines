@@ -1257,19 +1257,17 @@ instruante kiel doktrinojn la ordonojn de homoj.'
 
 Li alvokis la tutan homamason al si kaj diris al ili, "Aŭskultu min, ĉiuj, kaj komprenu. Nenio el ekstero de la homo, kiu eniras en lin, povas malpurigi lin; sed la aferoj, kiuj eliras el la homo, estas tiuj, kiuj malpurigas la homon. Se iu havas orelojn por aŭdi, tiu aŭdu!"
 
-Translate into Esperanto:
+Kiam li eniris en domon for de la homamaso, liaj disĉiploj demandis lin pri la parabolo. Li diris al ili, "Ĉu ankaŭ vi estas sen kompreno? Ĉu vi ne perceptas, ke ĉio, kio eniras en la homon el ekstero, ne povas malpurigi lin, ĉar ĝi ne eniras en lian koron, sed en lian stomakon, poste en la latrinon, purigante ĉiujn manĝaĵojn?" Li diris, "Tio, kio eliras el la homo, tio malpurigas la homon. Ĉar el interne, el la koroj de la homoj, eliras malbonaj pensoj, adultoj, seksaj pekoj, murdoj, ŝteloj, avidoj, malicoj, trompoj, voluptaj deziroj, malbona okulo, blasfemo, fiero, kaj malsaĝeco. Ĉiuj ĉi tiuj malbonaj aferoj venas de interne kaj malpurigas la homon."
 
-When he had entered into a house away from the multitude, his disciples asked him about the parable. He said to them, “Are you also without understanding? Don’t you perceive that whatever goes into the man from outside can’t defile him, because it doesn’t go into his heart, but into his stomach, then into the latrine, making all foods clean?” He said, “That which proceeds out of the man, that defiles the man. For from within, out of the hearts of men, proceed evil thoughts, adulteries, sexual sins, murders, thefts, covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, pride, and foolishness. All these evil things come from within and defile the man.”
+De tie li leviĝis kaj foriris en la limojn de Tiro kaj Sidono. Li eniris en domon kaj ne volis, ke iu sciu ĝin, sed li ne povis eviti rimarkon. Ĉar virino, kies eta filino havis malpuran spiriton, aŭdinte pri li, venis kaj falis ĉe liaj piedoj. Nun la virino estis grekino, Sirafenicana laŭ raso. Ŝi petegis lin, ke li elĵetu la demonon el ŝia filino. Sed Jesuo diris al ŝi, "Lasu la infanojn esti unue satigitaj, ĉar ne taŭgas preni la panon de la infanoj kaj ĵeti ĝin al la hundoj."
 
-From there he arose and went away into the borders of Tyre and Sidon. He entered into a house and didn’t want anyone to know it, but he couldn’t escape notice. For a woman whose little daughter had an unclean spirit, having heard of him, came and fell down at his feet. Now the woman was a Greek, a Syrophoenician by race. She begged him that he would cast the demon out of her daughter. But Jesus said to her, “Let the children be filled first, for it is not appropriate to take the children’s bread and throw it to the dogs.”
+Sed ŝi respondis al li, "Jes, Sinjoro. Eĉ la hundoj sub la tablo manĝas la panerojn de la infanoj."
 
-But she answered him, “Yes, Lord. Yet even the dogs under the table eat the children’s crumbs.”
+Li diris al ŝi, "Pro ĉi tiu diro, iru via vojo. La demono eliris el via filino."
 
-He said to her, “For this saying, go your way. The demon has gone out of your daughter.”
+Ŝi foriris al sia domo kaj trovis la infanon kuŝanta sur la lito, kun la demono elirinta.
 
-She went away to her house, and found the child having been laid on the bed, with the demon gone out.
-
-Again he departed from the borders of Tyre and Sidon, and came to the sea of Galilee through the middle of the region of Decapolis. They brought to him one who was deaf and had an impediment in his speech. They begged him to lay his hand on him. He took him aside from the multitude privately and put his fingers into his ears; and he spat and touched his tongue. Looking up to heaven, he sighed, and said to him, “Ephphatha!” that is, “Be opened!” Immediately his ears were opened, and the impediment of his tongue was released, and he spoke clearly. He commanded them that they should tell no one, but the more he commanded them, so much the more widely they proclaimed it. They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear and the mute speak!”
+Denove li foriris de la limoj de Tiro kaj Sidono, kaj venis al la maro de Galileo tra la mezo de la regiono de Dekapolo. Ili alkondukis al li unu, kiu estis surda kaj havis parolan malhelpaĵon. Ili petegis lin meti sian manon sur lin. Li prenis lin flanken de la homamaso private kaj metis siajn fingrojn en liajn orelojn; kaj li kraĉis kaj tuŝis lian langon. Levinte siajn okulojn al la ĉielo, li ekgemis kaj diris al li, "Efata!" tio estas, "Malfermiĝu!" Tuj liaj oreloj malfermiĝis, kaj la malhelpaĵo de lia lango estis liberigita, kaj li parolis klare. Li ordonis al ili, ke ili diru al neniu, sed ju pli li ordonis al ili, des pli vaste ili proklamis ĝin. Ili estis mirigitaj preter mezuro, dirante, "Li faris ĉion bone. Li eĉ igas la surdulojn aŭdi kaj la mutulojn paroli!"
 
 ### Ĉapitro 8
 
@@ -1444,3 +1442,231 @@ Jesuo demandis lin, "Kion vi volas, ke mi faru por vi?"
 La blinda viro diris al li, "Raboni, ke mi povu denove vidi."
 
 Jesuo diris al li, "Iru via vojo. Via fido vin resanigis." Tuj li ricevis sian vidon kaj sekvis Jesuon sur la vojo.
+
+### Ĉapitro 11
+
+Kiam ili alproksimiĝis al Jerusalem, al Betfage kaj Betanio, ĉe la Monto de Olivoj, li sendis du el siaj disĉiploj kaj diris al ili, "Iru sur vian vojon en la vilaĝon, kiu estas kontraŭ vi. Tuj kiam vi eniros en ĝin, vi trovos junan azenon ligita, sur kiu neniu jam sidis. Malligu lin kaj alkonduku lin. Se iu demandas vin, 'Kial vi faras ĉi tion?' diru, 'La Sinjoro bezonas lin;' kaj tuj li sendos lin reen ĉi tien."
+
+Ili foriris, kaj trovis junan azenon ligita ĉe la pordo ekstere en la malferma strato, kaj ili malligis lin. Iuj el tiuj, kiuj staris tie, demandis ilin, "Kion vi faras, malligante la junan azenon?" Ili diris al ili ĝuste kiel Jesuo diris, kaj ili lasis ilin iri.
+
+Ili alkondukis la junan azenon al Jesuo kaj ĵetis siajn vestaĵojn sur ĝin, kaj Jesuo sidiĝis sur ĝi. Multaj disĵetis siajn vestaĵojn sur la vojon, kaj aliaj estis falĉantaj branĉojn de la arboj kaj disĵetis ilin sur la vojon. Tiuj, kiuj iris antaŭe kaj tiuj, kiuj sekvis, kriis, "Hosana! Benata estas tiu, kiu venas en la nomo de la Sinjoro! Benata estas la regno de nia patro Davido, kiu venas en la nomo de la Sinjoro! Hosana en la plej altaj ĉieloj!"
+
+Jesuo eniris en la templon en Jerusalem. Post kiam li ĉirkaŭrigardis ĉion, estante nun vespero, li eliris al Betanio kun la dek du.
+
+La sekvan tagon, kiam ili eliris el Betanio, li malsatis. Vidante figarbon de malproksime havantan foliojn, li venis por vidi ĉu eble li trovos ion sur ĝi. Kiam li alvenis ĉe ĝi, li trovis nenion krom foliojn, ĉar ne estis la sezono por figoj. Jesuo diris al ĝi, "Neniu iam ajn manĝu frukton de vi denove!" kaj liaj disĉiploj aŭdis ĝin.
+
+Ili venis al Jerusalem, kaj Jesuo eniris en la templon kaj komencis forĵeti tiujn, kiuj vendis kaj tiujn, kiuj aĉetis en la templo, kaj renversis la tablojn de la monŝanĝistoj kaj la seĝojn de tiuj, kiuj vendis kolombojn. Li ne permesis al iu ajn porti ujon tra la templo. Li instruis, dirante al ili, "Ĉu ne estas skribite, 'Mia domo estos nomata domo de preĝo por ĉiuj nacioj'? Sed vi faris ĝin kaverno de rabistoj!"
+
+La ĉefpastroj kaj la skribistoj aŭdis ĝin, kaj serĉis kiel ili povus detrui lin. Ĉar ili timis lin, ĉar la tuta homamaso estis miregigita de lia instruado.
+
+Kiam vesperiĝis, li eliris el la urbo. Dum ili preterpasis matene, ili vidis la figarbon velkinta de la radikoj. Petro, rememorante, diris al li, "Rabeno, rigardu! La figarbo, kiun vi malbenis, velkis."
+
+Jesuo respondis al ili, "Havu fidon al Dio. Ĉar plej certe mi diras al vi, ke kiu ajn diros al ĉi tiu monto, 'Estu prenita kaj ĵetita en la maron,' kaj ne dubas en sia koro, sed kredas, ke tio, kion li diras, okazas, tiu havos kion ajn li diras. Tial mi diras al vi, ĉion ajn, kion vi preĝas kaj petas, kreu, ke vi jam ricevis ilin, kaj vi havos ilin. Kiam ajn vi staras preĝante, pardonu, se vi havas ion kontraŭ iu ajn; por ke via Patro, kiu estas en la ĉielo, ankaŭ povu pardonigi viajn pekojn. Sed se vi ne pardonas, ankaŭ via Patro en la ĉielo ne pardonos viajn pekojn."
+
+Ili denove venis al Jerusalem, kaj dum li marŝis en la templo, la ĉefpastroj, la skribistoj, kaj la maljunuloj venis al li, kaj ili komencis diri al li, "Per kia aŭtoritato vi faras ĉi tiujn aferojn? Aŭ kiu donis al vi ĉi tiun aŭtoritaton por fari ĉi tiujn aferojn?"
+
+Jesuo diris al ili, "Mi demandos al vi unu demandon. Respondu al mi, kaj mi diros al vi per kia aŭtoritato mi faras ĉi tiujn aferojn. La bapto de Johano — ĉu ĝi estis el la ĉielo, aŭ el homoj? Respondu al mi."
+
+Ili rezonis kun si mem, dirante, "Se ni devus diri, 'El la ĉielo;' li diros, 'Kial do vi ne kredis lin?' Se ni devus diri, 'El homoj'"—ili timis la popolon, ĉar ĉiuj konsideris Johanon vere esti profeto. Ili respondis al Jesuo, "Ni ne scias."
+
+Jesuo diris al ili, "Nek mi diros al vi per kia aŭtoritato mi faras ĉi tiujn aferojn."
+
+### Ĉapitro 12
+
+Li komencis paroli al ili per paraboloj. "Viro plantis vinberĝardenon, metis ĉirkaŭ ĝin barilon, fosis lokon por la vinpremilo, konstruis tureton, luigis ĝin al terkultivisto, kaj foriris en alian landon. Kiam estis tempo, li sendis serviston al la terkultivisto por preni de la terkultivisto lian parton de la fruktoj de la vinberĝardeno. Ili prenis lin, batis lin, kaj sendis lin for malplena. Denove, li sendis alian serviston al ili; kaj ili ĵetis ŝtonojn al li, vundis lin en la kapo, kaj sendis lin for hontinde traktita. Denove li sendis alian, kaj ili mortigis lin, kaj multajn aliajn, batante kelkajn, kaj mortigante kelkajn. Tial, ankoraŭ havante unu, sian amatan filon, li sendis lin laste al ili, dirante, 'Ili respektos mian filon.' Sed tiuj terkultivistoj diris inter si, 'Ĉi tiu estas la heredonto. Venu, ni mortigu lin, kaj la heredaĵo estos nia.' Ili prenis lin, mortigis lin, kaj ĵetis lin ekster la vinberĝardenon. Kion do la sinjoro de la vinberĝardeno faros? Li venos kaj detruos la terkultivistojn, kaj donos la vinberĝardenon al aliaj. Ĉu vi eĉ ne legis ĉi tiun Skribon:
+
+'La ŝtono, kiun la konstruistoj rifuzis,
+
+fariĝis la ĉefangulo.
+
+Tio estis de la Sinjoro.
+
+Ĝi estas mirinda en niaj okuloj'?"
+
+Ili provis kapti lin, sed ili timis la homamason; ĉar ili perceptis, ke li parolis la parabolon kontraŭ ili. Ili lasis lin kaj foriris. Ili sendis kelkajn el la Fariseoj kaj la Herodianojn al li, por ke ili kaptu lin per vortoj. Kiam ili venis, ili demandis lin, "Instruisto, ni scias, ke vi estas honesta, kaj vi ne diferencigas iun ajn; ĉar vi ne estas partia al iu ajn, sed vere instruas la vojon de Dio. Ĉu estas laŭleĝe pagi imposton al Cezaro, aŭ ne? Ĉu ni donu, aŭ ne donu?"
+
+Sed li, sciante ilian hipokritecon, diris al ili, "Kial vi provas min? Alportu al mi denaron, ke mi povu vidi ĝin."
+
+Ili alportis ĝin.
+
+Li diris al ili, "Kies estas ĉi tiu bildo kaj surskribo?"
+
+Ili diris al li, "Cezaro."
+
+Jesuo respondis al ili, "Redonu al Cezaro la aferojn, kiuj estas de Cezaro, kaj al Dio la aferojn, kiuj estas de Dio."
+
+Ili tre miris pri li.
+
+Iuj Sadukeoj, kiuj diras, ke ne ekzistas resurekto, venis al li. Ili demandis lin, dirante, "Instruisto, Moseo skribis al ni, 'Se la frato de viro mortas kaj lasas post si edzinon, kaj ne lasas infanojn, ke lia frato prenu lian edzinon kaj nasku idojn por sia frato.' Estis sep fratoj. La unua prenis edzinon, kaj mortinte ne lasis idojn. La dua prenis ŝin, kaj mortis, lasante neniujn infanojn post si. Same la tria; kaj la sep prenis ŝin kaj ne lasis infanojn. Fine ankaŭ la virino mortis. En la resurekto, kiam ili leviĝos, kies edzino ŝi estos el ili? Ĉar la sep havis ŝin kiel edzinon."
+
+Jesuo respondis al ili, "Ĉu tio ne estas pro tio, ke vi eraras, ne konante la Skribojn nek la potencon de Dio? Ĉar kiam ili leviĝos el la mortintoj, ili nek edziĝas nek estas edzinigitaj, sed estas kiel anĝeloj en la ĉielo. Sed pri la mortintoj, ke ili estas levitaj, ĉu vi ne legis en la libro de Moseo pri la Arbusto, kiel Dio parolis al li, dirante, 'Mi estas la Dio de Abrahamo, la Dio de Isaako, kaj la Dio de Jakobo'? Li ne estas la Dio de la mortintoj, sed de la vivantoj. Vi do granderare misinterpretas."
+
+Unu el la skribistoj venis kaj aŭdis ilin demandante unu la alian, kaj sciante, ke li bone respondis al ili, demandis lin, "Kiu ordono estas la plej granda el ĉiuj?"
+
+Jesuo respondis, "La plej granda estas: 'Aŭskultu, Izraelo, la Sinjoro nia Dio, la Sinjoro estas unu. Vi amu la Sinjoron vian Dion per via tuta koro, per via tuta animo, per via tuta menso, kaj per via tuta forto.' Tio estas la unua ordono. La dua estas simila al ĉi tiu: 'Vi amu vian proksimulon kiel vin mem.' Ne ekzistas alia ordono pli granda ol ĉi tiuj."
+
+La skribisto diris al li, "Vere, instruisto, vi bone diris, ke li estas unu, kaj ne estas alia krom li; kaj ami lin per la tuta koro, per la tuta kompreno, per la tuta animo, kaj per la tuta forto, kaj ami sian proksimulon kiel sin mem, estas pli grava ol ĉiuj tutbrulaj oferoj kaj sacrificoj."
+
+Kiam Jesuo vidis, ke li saĝe respondis, li diris al li, "Vi ne estas malproksima de la Regno de Dio."
+
+Neniu plu kuraĝis demandi lin post tio. Jesuo respondis, dum li instruis en la templo, "Kiel estas, ke la skribistoj diras, ke la Kristo estas filo de Davido? Ĉar Davido mem diris en la Sankta Spirito,
+
+'La Sinjoro diris al mia Sinjoro,
+
+"Sidu ĉe mia dekstra mano,
+
+ĝis mi faros viajn malamikojn la piedbenketo de viaj piedoj." '
+
+Do Davido mem nomas lin Sinjoro, do kiel li povas esti lia filo?"
+
+La komunaj homoj aŭskultis lin volonte. En sia instruado li diris al ili, "Gardu vin kontraŭ la skribistoj, kiuj ŝatas marŝi en longaj roboj, kaj ricevi salutojn sur la bazaroj, kaj okupi la plej bonajn seĝojn en la sinagogoj kaj la plej bonajn lokojn ĉe festenoj, tiuj, kiuj formanĝas la domojn de vidvinoj, kaj sub preteksto faras longajn preĝojn. Ĉi tiuj ricevos pli grandan kondamnon."
+
+Jesuo sidiĝis kontraŭ la trezorejo kaj vidis kiel la homamaso ĵetis monon en la trezorejon. Multaj, kiuj estis riĉaj, ĵetis en multe. Venis malriĉa vidvino kaj ŝi ĵetis en du malgrandajn kuprajn monerojn, kiuj egalas unu kvaranton. Li vokis siajn disĉiplojn al si kaj diris al ili, "Plej certe mi diras al vi, ĉi tiu malriĉa vidvino donis pli ol ĉiuj tiuj, kiuj donas en la trezorejon, ĉar ili ĉiuj donis el sia abundo, sed ŝi, el sia malriĉeco, donis ĉion, kion ŝi havis por vivteni sin."
+
+### Ĉapitro 13
+
+Dum li eliris el la templo, unu el liaj disĉiploj diris al li, "Instruisto, rigardu kiom grandaj ŝtonoj kaj kiom imponaj konstruaĵoj!"
+
+Jesuo diris al li, "Ĉu vi vidas ĉi tiujn grandajn konstruaĵojn? Ne restos ĉi tie ŝtono sur ŝtono, kiu ne estos detruita."
+
+Dum li sidis sur la Monto de Olivoj kontraŭ la templo, Petro, Jakobo, Johano kaj Andreo demandis lin private, "Diru al ni, kiam ĉi tiuj aferoj okazos? Kio estas la signo, ke ĉi tiuj aferoj estas ĉiuj preterpasontaj por plenumiĝi?"
+
+Jesuo, respondante, komencis diri al ili, "Atentu, ke neniu trompu vin. Ĉar multaj venos en mia nomo, dirante, 'Mi estas tiu!' kaj ili trompos multajn.
+
+"Kiam vi aŭdos pri militoj kaj bruaĵoj pri militoj, ne timiĝu. Ĉar tiuj devas okazi, sed la fino ankoraŭ ne estas. Ĉar nacio leviĝos kontraŭ nacion, kaj regno kontraŭ regno. Estos tertremoj en diversaj lokoj. Estos malsatoj kaj mizeroj. Ĉi tiuj aferoj estas la komenco de naskiĝdoloroj.
+
+"Sed gardu vin mem, ĉar ili transdonos vin al konsilioj. Vi estos batitaj en sinagogoj. Vi staros antaŭ regantoj kaj reĝoj pro mia nomo, por atesto al ili. La Bonan Novaĵon unue devas esti predikita al ĉiuj nacioj. Kiam ili kondukos vin for kaj transdonos vin, ne antaŭzorgu aŭ antaŭpensu kion vi diros, sed diru tion, kio estos donita al vi en tiu horo. Ĉar ne vi parolas, sed la Sankta Spirito.
+
+"Fraton transdonos frato al morto, kaj patro sian infanon. Infanoj leviĝos kontraŭ gepatroj kaj kaŭzos ilian morton. Vi estos malamataj de ĉiuj homoj pro mia nomo, sed tiu, kiu eltenos ĝis la fino, estos savita."
+
+"Sed kiam vi vidos la abomenaĵon de dezolado, priparolitan de la profeto Danielo, starantan kie ĝi ne devus" (lasu la leganton kompreni), "tiam lasu tiujn, kiuj estas en Judujo, fuĝi al la montoj, kaj tiu, kiu estas sur la tegmento, ne malsupreniru, nek eniru, por preni ion el sia domo. Tiu, kiu estas en la kampo, ne revenu malantaŭen por preni sian mantelon. Sed ve al tiuj, kiuj estas gravedaj kaj al tiuj, kiuj nutras bebojn en tiuj tagoj! Preĝu, ke via fuĝo ne okazu vintre. Ĉar en tiuj tagoj estos premado, kia ne estis simila ekde la komenco de la kreaĵo, kiun Dio kreis, ĝis nun, kaj neniam estos. Krom se la Sinjoro estus mallongiginta la tagojn, neniu karno estus savita; sed por la sake de la elektitoj, kiujn li elektis, li mallongigis la tagojn. Tiam se iu diras al vi, 'Rigardu, jen estas la Kristo!' aŭ, 'Jen tie!' ne kreu ĝin. Ĉar falsaj kristoj kaj falsaj profetoj leviĝos kaj montros signojn kaj miraklojn, por ke, se eble, ili trompu eĉ la elektitojn. Sed vi atentu.
+
+"Jen, mi antaŭdiris al vi ĉion. Sed en tiuj tagoj, post tiu premado, la suno mallumiĝos, la luno ne donos sian lumon, la steloj falos de la ĉielo, kaj la potencoj, kiuj estas en la ĉieloj, estos skuitaj. Tiam ili vidos la Filon de Homo venantan en nuboj kun granda potenco kaj gloro. Tiam li sendos siajn anĝelojn, kaj kolektos siajn elektitojn de la kvar ventoj, de la randoj de la tero ĝis la randoj de la ĉielo.
+
+"Nun de la figarbo, lernu ĉi tiun parabolon. Kiam la branĉo fariĝas nun delikata kaj produktas siajn foliojn, vi scias, ke la somero estas proksima; same ankaŭ vi, kiam vi vidas ĉi tiujn aferojn okazantajn, sciu, ke ĝi estas proksima, ĉe la pordoj. Plej certe mi diras al vi, ĉi tiu generacio ne pasos, ĝis ĉio ĉi tio okazos. La ĉielo kaj la tero pasos, sed miaj vortoj ne pasos.
+
+"Sed pri tiu tago aŭ tiu horo neniu scias—ne eĉ la anĝeloj en la ĉielo, nek la Filo, sed nur la Patro. Atentu, estu viglaj, kaj preĝu; ĉar vi ne scias kiam la tempo estas."
+
+"Ĝi estas kiel viro vojaĝanta al alia lando, kiu lasis sian domon kaj donis aŭtoritaton al siaj servistoj, kaj al ĉiu sian laboron, kaj ankaŭ ordonis al la pordogardisto observi. Do, atentu, ĉar vi ne scias, kiam la sinjoro de la domo venas—ĉu vespere, aŭ je noktomezo, aŭ kiam la koko krias, aŭ matene; por ke, venante subite, li ne trovu vin dormantaj. Kion mi diras al vi, mi diras al ĉiuj: Atentu!"
+
+### Ĉapitro 14
+
+Nun estis du tagoj antaŭ la Pasko kaj la Festo de Senfermenta Pano, kaj la ĉefpastroj kaj la skribistoj serĉis kiel ili povus kapti lin per trompo kaj mortigi lin. Ĉar ili diris, "Ne dum la festo, ĉar eble okazos tumulto inter la popolo."
+
+Dum li estis en Betanio, en la domo de Simon la leprulo, dum li sidis ĉe la tablo, virino venis kun alabastra vazo da oleo el pura nardo—tre multekosta. Ŝi rompis la vazon kaj verŝis ĝin sur lian kapon. Sed estis kelkaj, kiuj inter si indignis, dirante, "Kial ĉi tiu oleo estis malŝparita? Ĉar ĉi tio povus esti vendita por pli ol tricent denarioj kaj donita al la malriĉuloj." Do ili malkontentis kontraŭ ŝi.
+
+Sed Jesuo diris, "Lasu ŝin. Kial vi ĝenas ŝin? Ŝi faris bonan verkon por mi. Ĉar vi ĉiam havas la malriĉulojn kun vi, kaj kiam ajn vi volas, vi povas fari al ili bonon; sed vi ne ĉiam havos min. Ŝi faris tion, kion ŝi povis. Ŝi antaŭoleis mian korpon por la entombigo. Plej certe mi diras al vi, kie ajn ĉi tiu Bona Novaĵo estos predikita tra la tuta mondo, tion, kion ĉi tiu virino faris, ankaŭ estos parolata kiel memoro pri ŝi."
+
+Juda Iskariota, kiu estis unu el la dek du, foriris al la ĉefpastroj, por ke li povu transdoni lin al ili. Ili, kiam ili aŭdis tion, ĝojis, kaj promesis doni al li monon. Li serĉis kiel li povus oportune transdoni lin.
+
+En la unua tago de senfermenta pano, kiam ili oferis la Paskon, liaj disĉiploj demandis lin, "Kien vi volas, ke ni iru kaj preparu, por ke vi povu manĝi la Paskon?"
+
+Li sendis du el siaj disĉiploj kaj diris al ili, "Iru en la urbon, kaj vi renkontos viron portantan akvokruĉon. Sekvu lin, kaj kien ajn li eniros, diru al la mastro de la domo, 'La Instruisto diras, "Kie estas la gastejo, kie mi povas manĝi la Paskon kun miaj disĉiploj?" ' Li mem montros al vi grandan supraĵan ĉambron meblitan kaj preta. Pretigu por ni tie."
+
+Liaj disĉiploj eliris, kaj venis en la urbon, kaj trovis aferojn kiel li diris al ili, kaj ili preparis la Paskon.
+
+Kiam estis vespero, li venis kun la dek du. Dum ili sidis kaj manĝis, Jesuo diris, "Plej certe mi diras al vi, unu el vi perfidos min—tiu, kiu manĝas kun mi."
+
+Ili komencis malĝojiĝi, kaj demandi lin unu post alia, "Certe ne mi?" Kaj alia diris, "Certe ne mi?"
+
+Li respondis al ili, "Ĝi estas unu el la dek du, tiu, kiu trempas kun mi en la plado. Ĉar la Filo de Homo iras kiel estas skribite pri li, sed ve al tiu homo, per kiu la Filo de Homo estas perfidita! Estus pli bone por tiu homo, se li ne estus naskita."
+
+Dum ili manĝis, Jesuo prenis panon, kaj kiam li benis ĝin, li rompis ĝin kaj donis al ili, kaj diris, "Prenu, manĝu. Ĉi tio estas mia korpo."
+
+Li prenis la kalikon, kaj kiam li dankis, li donis al ili. Ili ĉiuj trinkis el ĝi. Li diris al ili, "Ĉi tio estas mia sango de la nova interligo, kiu estas verŝita por multaj. Plej certe mi diras al vi, mi ne plu trinkos el la frukto de la vinberujo ĝis tiu tago, kiam mi trinkos ĝin novan en la Regno de Dio." Kiam ili kantis himnon, ili eliris al la Monto de Olivoj.
+
+Jesuo diris al ili, "Ĉiuj vi estos skandaligitaj pro mi ĉi-nokte, ĉar estas skribite, 'Mi frapos la paŝtiston, kaj la ŝafoj estos disigitaj.' Tamen, post kiam mi estos leviĝinta, mi iros antaŭ vi en Galileon."
+
+Sed Petro diris al li, "Kvankam ĉiuj estos skandaligitaj, tamen mi ne."
+
+Jesuo diris al li, "Plej certe mi diras al vi, ke hodiaŭ, eĉ ĉi-nokte, antaŭ ol la koko krios dufoje, vi malkonfesos min tri fojojn."
+
+Sed li parolis eĉ pli, "Se mi devas morti kun vi, mi ne malkonfesos vin." Ili ĉiuj diris la saman aferon.
+
+Ili venis al loko nomata Getsemane. Li diris al siaj disĉiploj, "Sidu ĉi tie dum mi preĝas." Li prenis kun si Petron, Jakobon, kaj Johanon, kaj komencis esti tre ĝenita kaj maltrankvila. Li diris al ili, "Mia animo estas ekstreme malĝoja, eĉ ĝis morto. Restu ĉi tie kaj viglu."
+
+Li antaŭeniris iom, kaj falis sur la teron, kaj preĝis ke, se eble, la horo forpasu de li. Li diris, "Aba, Patro, ĉio eblas al vi. Bonvolu forigi ĉi tiun kalikon de mi. Tamen, ne kion mi deziras, sed kion vi deziras."
+
+Li venis kaj trovis ilin dormantaj, kaj diris al Petro, "Simon, ĉu vi dormas? Ĉu vi ne povis vigli unu horon? Viglu kaj preĝu, por ke vi ne eniru en tenton. La spirito ja estas volonta, sed la karno estas malforta."
+
+Denove li foriris kaj preĝis, dirante la samajn vortojn. Denove li revenis kaj trovis ilin dormantaj, ĉar iliaj okuloj estis tre pezaj; kaj ili ne sciis kion respondi al li. Li venis la trian fojon kaj diris al ili, "Dormu nun, kaj prenu vian ripozon. Sufiĉas. La horo venis. Jen, la Filo de Homo estas perfidita en la manojn de pekuloj. Leviĝu! Ni iru. Jen, tiu, kiu perfidas min, estas proksima."
+
+Tuj, dum li ankoraŭ parolis, Judas, unu el la dek du, venis—kaj kun li homamaso kun glavoj kaj bastonoj, de la ĉefpastroj, la skribistoj, kaj la maljunuloj. Nun tiu, kiu perfidis lin, donis al ili signon, dirante, "Kiun ajn mi kisos, tiu estas li. Kaptu lin, kaj konduku lin sekure for." Kiam li venis, tuj li venis al li kaj diris, "Rabeno! Rabeno!" kaj kisis lin. Ili metis siajn manojn sur lin kaj kaptis lin. Sed iu el tiuj, kiuj staris apude, eltiris sian glavon kaj frapis la serviston de la ĉefpastro, kaj detranĉis lian orelon.
+
+Jesuo respondis al ili, "Ĉu vi eliris, kiel kontraŭ rabisto, kun glavoj kaj bastonoj por kapti min? Mi ĉiutage estis kun vi en la templo instruante, kaj vi ne arestis min. Sed tio estas por ke la Skriboj plenumiĝu."
+
+Ili ĉiuj forlasis lin kaj forkuris. Iu certa juna viro sekvis lin, havante sur si linan tukon ĵetitan ĉirkaŭ si super sia nuda korpo. La junuloj kaptis lin, sed li lasis la linan tukon kaj forkuris de ili nuda. Ili kondukis Jesuon al la ĉefpastro. Ĉiuj ĉefpastroj, la maljunuloj, kaj la skribistoj kunvenis kun li.
+
+Petro sekvis lin el malproksime, ĝis li venis en la korton de la ĉefpastro. Li sidis kun la oficistoj, kaj varmigis sin ĉe la lumo de la fajro. Nun la ĉefpastroj kaj la tuta konsilio serĉis atestantojn kontraŭ Jesuo por meti lin al morto, kaj trovis nenion. Ĉar multaj donis falsan ateston kontraŭ li, kaj iliaj atestoj ne kongruis unu kun la alia. Iuj stariĝis kaj donis falsan ateston kontraŭ li, dirante, "Ni aŭdis lin diri, 'Mi detruos ĉi tiun templon, kiu estas farita per manoj, kaj en tri tagoj mi konstruos alian, faritan sen manoj.'" Eĉ tiel, iliaj atestoj ne kongruis.
+
+La ĉefpastro stariĝis meze, kaj demandis Jesuon, "Ĉu vi havas neniun respondon? Kio estas tio, kontraŭ kion ĉi tiuj atestas kontraŭ vi?" Sed li restis silenta, kaj respondis nenion. Denove la ĉefpastro demandis lin, "Ĉu vi estas la Kristo, la Filo de la Benata?"
+
+Jesuo diris, "Mi estas. Vi vidos la Filon de Homo sidantan ĉe la dekstra mano de la Potenco, kaj venantan kun la nuboj de la ĉielo."
+
+La ĉefpastro disŝiris siajn vestojn kaj diris, "Kian pluan bezonon ni havas je atestantoj? Vi aŭdis la blasfemon! Kion vi opinias?" Ili ĉiuj kondamnis lin esti inda je morto. Iuj komencis kraĉi sur lin, kaj kovri lian vizaĝon, kaj bati lin per pugnoj, kaj diri al li, "Profetu!" La oficistoj frapis lin per la manplatoj.
+
+Dum Petro estis en la korto sube, unu el la servistinoj de la ĉefpastro venis, kaj vidante Petron varmigantan sin, ŝi rigardis lin kaj diris, "Ankaŭ vi estis kun la Nazaretano, Jesuo!"
+
+Sed li neis ĝin, dirante, "Mi nek scias nek komprenas kion vi diras." Li eliris sur la portikon, kaj la koko kriis.
+
+La servistino vidis lin kaj denove komencis diri al tiuj, kiuj staris apude, "Ĉi tiu estas unu el ili." Sed li denove neis ĝin. Post iom denove tiuj, kiuj staris apude, diris al Petro, "Vi vere estas unu el ili, ĉar vi estas Galileano, kaj via parolo montras ĝin." Sed li komencis malbeni kaj ĵuri, "Mi ne konas ĉi tiun viron, pri kiu vi parolas!"
+
+La koko kriis la duan fojon. Petro memoris la vortojn, kiujn Jesuo diris al li, "Antaŭ ol la koko krios dufoje, vi malkonfesos min tri fojojn." Kiam li pripensis tion, li ploris.
+
+### Ĉapitro 15
+
+Tuj en la mateno la ĉefpastroj, kun la maljunuloj, skribistoj kaj la tuta konsilio, faris konsiliĝon, ligis Jesuon, forportis lin kaj transdonis lin al Pilato. Pilato demandis lin, "Ĉu vi estas la Reĝo de la Judoj?"
+
+Li respondis, "Kiel vi diras."
+
+La ĉefpastroj akuzis lin pri multaj aferoj. Pilato denove demandis lin, "Ĉu vi havas neniun respondon? Vidu kiom da aferoj ili atestas kontraŭ vi!"
+
+Sed Jesuo plu ne respondis, tiel ke Pilato miris.
+
+Nun ĉe la festo li kutimis liberigi al ili unu malliberulon, kiun ajn ili petis de li. Estis unu nomata Barabas, ligita kun siaj kunribeluloj, viroj, kiuj en la ribelo faris murdon. La homamaso, laŭte kriante, komencis peti de li fari kiel li ĉiam faris por ili. Pilato respondis al ili, dirante, "Ĉu vi volas, ke mi liberigu al vi la Reĝon de la Judoj?" Ĉar li perceptis, ke pro envio la ĉefpastroj transdonis lin. Sed la ĉefpastroj instigis la homamason, ke li anstataŭe liberigu al ili Barabason. Pilato denove demandis ilin, "Kion do mi faru al tiu, kiun vi nomas la Reĝo de la Judoj?"
+
+Ili denove kriis, "Krucumu lin!"
+
+Pilato diris al ili, "Sed kian malbonon li faris?"
+
+Sed ili ekkriis pli fortege, "Krucumu lin!"
+
+Pilato, dezirante kontentigi la homamason, liberigis al ili Barabason, kaj transdonis Jesuon, post kiam li estis skurgita, por esti krucumita.
+
+La soldatoj kondukis lin enen en la korton, kiu estas la Pretorio; kaj ili kunvokis la tutan koorton. Ili vestis lin per purpuro; kaj plektinte kronon el dornoj, ili metis ĝin sur lin. Ili komencis saluti lin, "Saluton, Reĝo de la Judoj!" Ili frapis lian kapon per kano kaj kraĉis sur lin, kaj fleksinte siajn genuojn, adorkliniĝis al li. Post kiam ili mokis lin, ili deprenis de li la purpuran mantelon, kaj remetis sur lin liajn proprajn vestojn. Ili kondukis lin eksteren por krucumi lin.
+
+Ili devigis unu preterpasanton, venantan el la kamparo, Simonon el Cireno, la patron de Aleksandro kaj Rufus, iri kun ili por ke li portu lian krucon. Ili alkondukis lin al la loko nomata Golgoto, kiu estas, interpretite, "La loko de kranio." Ili proponis al li vinon miksitajn kun mirho por trinki, sed li ne prenis ĝin.
+
+Krucumante lin, ili disdividis inter si liajn vestaĵojn, ĵetante lotojn pri ili, kion ĉiu prenu. Estis la tria horo, kiam ili krucumis lin. La superskribo de lia akuzo estis skribita super li: "LA REĜO DE LA JUDOJ." Kun li ili krucumis du rabistojn, unu dekstre, kaj unu maldekstre. La Skribo plenumiĝis, kiu diras, "Kaj li estis kalkulita inter la malobeemuloj."
+
+Tiuj, kiuj preterpasis, blasfemis lin, balancante siajn kapojn kaj dirante, "Ha! Vi, kiu detruas la templon kaj rekonstruas ĝin en tri tagoj, savu vin mem, kaj malsupreniru de la kruco!"
+
+Same, ankaŭ la ĉefpastroj mokante inter si kun la skribistoj diris, "Li savis aliajn. Li ne povas savi sin mem. Venu nun la Kristo, la Reĝo de Izrael, malsupren de la kruco, por ke ni vidu kaj kreu lin." Tiuj, kiuj estis krucumitaj kun li, ankaŭ insultis lin.
+
+Kiam la sesa horo venis, mallumo fariĝis super la tuta lando ĝis la naŭa horo. Je la naŭa horo Jesuo kriis per laŭta voĉo, dirante, "Eloi, Eloi, lama sabachthani?" kio estas, interpretite, "Mia Dio, mia Dio, kial vi forlasis min?"
+
+Iuj el tiuj, kiuj staris apude, kiam ili aŭdis tion, diris, "Jen, li vokas Elijaon."
+
+Unu kuris, kaj plenigis spongon per vinagro, metis ĝin sur rozon kaj donis al li trinki, dirante, "Lasu lin. Ni vidu, ĉu Elija venos por preni lin malsupren."
+
+Jesuo ekkriis per laŭta voĉo, kaj elspiris la spiriton. La kurteno de la templo disŝiriĝis en du de supre ĝis malsupre. Kiam la centuriono, kiu staris kontraŭe al li, vidis, ke li tiel kriis kaj elspiris la lastan, li diris, "Vere ĉi tiu homo estis la Filo de Dio!"
+
+Ankaŭ estis virinoj rigardantaj el malproksime, inter kiuj estis Maria Magdalena kaj Maria la patrino de Jakobo la pli malgranda kaj de Joses, kaj Salome; kiuj, kiam li estis en Galileo, sekvis lin kaj servis lin; kaj multaj aliaj virinoj, kiuj venis kun li al Jerusalem.
+
+Kiam vesperiĝis, ĉar estis la Preparado-Tago, tio estas, la tago antaŭ la Sabato, Jozefo el Arimateo, elstara membro de la konsilio, kiu ankaŭ mem atendis la Regnon de Dio, venis. Li aŭdace eniris al Pilato, kaj petis la korpon de Jesuo. Pilato miris aŭdi, ke li jam mortis; kaj alvokante la centurionon, li demandis lin, ĉu li jam longe mortis. Kiam li eksciis de la centuriono, li permesis la korpon al Jozefo. Li aĉetis linan tukon, kaj malsuprenpreninte lin, envolvis lin en la linan tukon kaj kuŝigis lin en tombo, kiu estis elhakita el roko. Li ruligis ŝtonon kontraŭ la pordon de la tombo. Maria Magdalena kaj Maria, la patrino de Josefo, vidis, kie li estis kuŝigita.
+
+### Ĉapitro 16
+
+Post kiam la Sabato pasis, Maria Magdalena, kaj Maria, la patrino de Jakobo, kaj Salomeo aĉetis spicojn, por ke ili povu veni kaj ŝmiri lin. Tre frue en la unua tago de la semajno, ili venis al la tombo kiam la suno jam leviĝis. Ili diris inter si, "Kiu rulos for la ŝtonon de la pordo de la tombo por ni?" ĉar ĝi estis tre granda. Suprenrigardante, ili vidis, ke la ŝtono estis rulita malantaŭen.
+
+Enirinte en la tombon, ili vidis junulon sidantan ĉe la dekstra flanko, vestitan per blanka robo; kaj ili miris. Li diris al ili, "Ne miru. Vi serĉas Jesuon, la Nazaretanon, kiu estis krucumita. Li leviĝis! Li ne estas ĉi tie. Vidu la lokon, kie ili kuŝigis lin! Sed iru, diru al liaj disĉiploj kaj al Petro, 'Li antaŭiras vin en Galileon. Tie vi vidos lin, kiel li diris al vi.'"
+
+Ili eliris kaj forkuris de la tombo, ĉar tremo kaj mirego venis sur ilin. Ili diris nenion al iu ajn; ĉar ili timis.
+
+Nun kiam li leviĝis frue en la unua tago de la semajno, li unue aperis al Maria Magdalena, el kiu li elpelis sep demonojn. Ŝi iris kaj diris al tiuj, kiuj estis kun li, dum ili ploris kaj ploris. Kiam ili aŭdis, ke li vivas kaj estis vidita de ŝi, ili ne kredis.
+
+Post ĉi tiuj aferoj li estis malkaŝita en alia formo al du el ili dum ili marŝis, survoje al la kamparo. Ili foriris kaj diris ĝin al la ceteraj. Ankaŭ tiuj ne kredis ilin.
+
+Poste li estis malkaŝita al la dek unu mem dum ili sidis ĉe la tablo; kaj li riproĉis ilin pro ilia nekredo kaj malmoleco de koro, ĉar ili ne kredis tiujn, kiuj vidis lin post kiam li leviĝis. Li diris al ili, "Iru en la tutan mondon kaj prediku la Bonan Novaĵon al la tuta kreitaro. Kiu kredas kaj estas baptita estos savita; sed kiu malkredas estos kondamnita. Ĉi tiuj signoj akompanos tiujn, kiuj kredas: en mia nomo ili elpelos demonojn; ili parolos per novaj lingvoj; ili prenos serpentojn; kaj se ili trinkos ion mortigan, ĝi neniomaniere damaĝos ilin; ili metos manojn sur malsanulojn, kaj ili resaniĝos."
+
+Do tiam la Sinjoro, post kiam li parolis al ili, estis levita en la ĉielon kaj sidiĝis ĉe la dekstra mano de Dio. Ili eliris kaj predikis ĉie, la Sinjoro kunlaborante kun ili kaj konfirmante la vorton per la signoj, kiuj sekvis. Amen.
