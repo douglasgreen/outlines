@@ -727,6 +727,7 @@
 * alfabeto - alphabet
 * alfronti - to confront
 * algluiĝi - to adhere; to cling
+* algoritma - algorithmic
 * algoritmo - algorithm
 * alia - other; another
 * alianca - allied
@@ -765,6 +766,7 @@
 * alproksimiĝi - to approach; to draw near
 * alproksimiĝo - approach
 * alta - high; tall
+* alta-difina - high-definition
 * altaro - altar
 * alte - high; highly
 * alte flugi - to soar
@@ -920,6 +922,8 @@
 * antikvulo - ancient
 * antioksidanto - antioxidant
 * antropologio - anthropology
+* anycast-retaĵo - anycast network entity
+* anycast-retoĵo - anycast network
 * anĝelo - angel
 * aparataro - hardware
 * aparato - apparatus; device; appliance; gadget
@@ -1058,6 +1062,7 @@
 * atesto - attestation; certificate; testimonial
 * atingaĵo - achievement
 * atingi - to achieve; to attain; to reach
+* atingiĝi - to be reached or achieved
 * atingo - achievement
 * atleta - athletic
 * atleto - athlete
@@ -1518,7 +1523,9 @@
 * danĝere - dangerously
 * danĝero - danger; peril
 * datencentro - data center
+* datenkommunikado - data communication
 * dateno - data
+* datenpakaĵo - data packet
 * datiĝi - to be dated
 * dato - date
 * datreveno - anniversary
@@ -1867,6 +1874,7 @@
 * dolĉa - sweet
 * dolĉigi - to sweeten
 * dolĉigilo - sweetener
+* domajna - domain (as in domain name)
 * domajno - domain
 * domanaro - household
 * domano - housemate
@@ -2245,6 +2253,7 @@
 * enhavi - to contain
 * enhavo - content
 * enhavo-optimigo - content optimization
+* enhavoliverado - content delivery
 * enigaĵo - input
 * enigi - to input
 * enigmo - puzzle; riddle
@@ -2277,6 +2286,7 @@
 * enplonĝi - to plunge
 * enprizonigi - to incarcerate
 * enradiki - to ingrain
+* enrigardo - insight
 * ensaluti - to login
 * enscio - consciousness
 * ensemblo - ensemble
@@ -2298,6 +2308,8 @@
 * enui - to bore
 * enuigi - to bore
 * enumi - to enumerate
+* envojiga - sending (as in the process or capability)
+* envojigi - to send (as in to make something send)
 * envolvaĵo - wrapper
 * envolvi - to envelop; to wrap
 * enzimo - enzyme
@@ -2436,6 +2448,7 @@
 * fadi - to fade
 * failover-mekanismo - failover mechanism
 * fajfi - to whistle
+* fajnagordado - fine-tuning
 * fajraĵo - firework
 * fajro - fire; beacon
 * fajrobrigadisto - firefighter
@@ -2590,6 +2603,7 @@
 * filtrilo - filter
 * fin-uzi - to use up; to finish using
 * fina - final
+* finado - termination
 * finalisto - finalist
 * finalizi - to finalize
 * financa - financial
@@ -2657,6 +2671,7 @@
 * flugo - flight
 * flui - to flow
 * fluidaĵo - fluid
+* fluigi - to stream
 * fluo - flow
 * flustri - to whisper
 * foje - sometimes
@@ -2686,6 +2701,7 @@
 * fonto - source
 * for - away; off; gone
 * fora - distant; remote
+* foren - away (as in to go away, remote)
 * foresto - absence
 * forgesi - to forget
 * forgesita - forgotten
@@ -3074,6 +3090,7 @@
 * hilara - hilarious
 * himno - hymn
 * hiperligilo - hyperlink
+* hiperteksta - hypertext
 * hipio - hippy
 * hipokaŝtano - buckeye
 * hipokritulo - hypocrite
@@ -3095,6 +3112,7 @@
 * homamaso - crowd
 * homaro - humanity
 * homcentra - human-centered
+* homlegebla - human-readable
 * hommortigo - homicide
 * homo - human; person
 * homoj - folk
@@ -3630,6 +3648,7 @@
 * kaŝmemorigado - caching
 * kaŝmemorigi - to cache
 * kaŝmemorigo - cache memory
+* kaŝmemorkapo - cache header
 * kaŝmemoro - cache
 * kaŝo - hiding
 * kaŝuo - cashew
@@ -3866,6 +3885,7 @@
 * komuna - common
 * komune - commonly; together
 * komunika - communicative
+* komunikada - communicative (related to communication)
 * komunikado - communication
 * komuniki - to communicate
 * komunikilo - means of communication
@@ -3905,6 +3925,7 @@
 * konduto - behavior; behaviour; conduct
 * konektaĵo - fitting
 * konekteco - connectivity
+* konektestablado - connection establishment
 * konekti - to connect
 * konektilo - connector
 * konekto - connection
@@ -4046,6 +4067,7 @@
 * kontribuanto - contributor
 * kontribui - to contribute
 * kontribuo - contribution
+* kontrola - control (as in control mechanism)
 * kontrolado - control; monitoring
 * kontroli - to control; to monitor; to check
 * kontrolisto - checker; checklist
@@ -4177,6 +4199,7 @@
 * krozado - cruising
 * krozi - to cruise
 * krozŝipo - cruiser
+* kruca - cross (as in cross-platform, cross-functional)
 * kruciala - crucial
 * kruciĝo - crossroad; intersection
 * krucmilitisto - crusader
@@ -4369,6 +4392,7 @@
 * lastatempe - recently
 * laste - lately
 * latenco - latency
+* latenctempo - latency time
 * latenteco - latency
 * latitudo - latitude
 * lato - slat
@@ -4845,6 +4869,7 @@
 * manovro - maneuver
 * manplato - palm (of the hand)
 * manpleno - handful
+* manprem-latenctempo - handshake latency time
 * mansako - handbag
 * mantelo - cloak; coat
 * mantuko - towel
@@ -4921,6 +4946,7 @@
 * mazero - mace
 * maĉi - to chew; to mash
 * maŝina - machine
+* maŝinlegebla - machine-readable
 * maŝinlernado - machine learning
 * maŝino - machine
 * maŝo - loop
@@ -5359,6 +5385,7 @@
 * nervo - nerve
 * nervozaj - nervous
 * nescio - uncertainty
+* nesekura - insecure
 * nesekureco - insecurity
 * nesinkrona - asynchronous
 * nesperta - inexperienced
@@ -5438,6 +5465,7 @@
 * novulo - newcomer
 * nu - well (expression)
 * nuanco - nuance; hue; tinge
+* nuba-bazi - to cloud-base
 * nubo - cloud
 * nubokovrita - overcast
 * nubskrapulo - skyscraper
@@ -5629,6 +5657,7 @@
 * pajlo - straw
 * pakaĵadministrilo - package manager
 * pakaĵo - package; baggage; packet; parcel
+* paketperdo - packet loss
 * paki - to pack
 * pakisto - packer
 * palaco - palace; mansion
@@ -5843,6 +5872,7 @@
 * peti - to request
 * peto - request; petition
 * petolaĵo - prank; mischief
+* petorespondo - request response
 * peza - heavy
 * pezi - to weigh
 * pezo - weight
@@ -5987,6 +6017,7 @@
 * pluraj - several
 * plurfoje - several times
 * plurlatero - polygon
+* plurmaniere - in multiple ways
 * plus - plus
 * pluvarbaro - rainforest
 * pluvego - downpour
@@ -6274,6 +6305,7 @@
 * proksea - proximate
 * proksima - close; near
 * proksime - near; closely
+* proksimeco - proximity
 * proksimulo - neighbor; fellow man
 * proksimume - approximately
 * prokurilo - proxy
@@ -6622,6 +6654,7 @@
 * respondi - to answer; to respond; to reply
 * respondo - response
 * respondo-tempo - response time
+* respondotempo - response time
 * respondulo - responder
 * respublikana - republican
 * respubliko - republic
@@ -6643,6 +6676,7 @@
 * resurshavebleco - resource availability
 * resurso - resource
 * reta - network
+* retadresiga - network addressing
 * retadreso - email address
 * reteja - website
 * retejestro - webmaster
@@ -6654,6 +6688,7 @@
 * reto - network; grid; net
 * reto-kondiĉo - network condition
 * reto-trafiko - network traffic
+* retoŝtopiĝo - network congestion
 * retpaĝo - webpage
 * retrankviligi - to reassure
 * retrosciigo - feedback
@@ -6956,6 +6991,7 @@
 * sektoro - sector
 * sekundara - secondary
 * sekura - secure
+* sekure - securely
 * sekureca - security
 * sekureco - security; safety
 * sekurigi - to secure; to ensure
@@ -7154,6 +7190,7 @@
 * situo - situation
 * skalado - scaling
 * skalebla - scalable
+* skalebleco - scalability
 * skalo - scale
 * skandaligi - to scandalize
 * skandalo - outrage; scandal
@@ -7779,6 +7816,7 @@
 * trafik-distribuo - traffic distribution
 * trafiko - traffic
 * trafikvolumo - traffic volume
+* traflueco - throughput
 * tragedio - tragedy
 * trairi - to go through; to traverse
 * trairlinio - throughline
@@ -7797,6 +7835,7 @@
 * trankvilo - tranquility
 * trans - across; through
 * transakcio - transaction
+* transdona - transmission (related to the act of transmitting)
 * transdoni - to transfer; to convey; to devolve
 * transdono - transmission
 * transforma - transformative
@@ -7805,6 +7844,7 @@
 * transformiĝi - to transform
 * transformiĝo - transformation
 * transformo - transformation
+* transiga - transactional (related to transactions)
 * transirejo - crossing
 * transiri - to cross over
 * transiro - transition
@@ -7968,6 +8008,7 @@
 * usonano - yankee
 * utero - womb
 * utila - useful
+* utiligado - utilization
 * utiligi - to utilise; to utilize
 * utilitarismo - utilitarianism
 * utilo - utility; use
@@ -7990,6 +8031,7 @@
 * uzanto - user
 * uzanto-peto - user request
 * uzanto-sperto - user experience
+* uzantopeto - user request
 * uzantosperto - user experience
 * uzantpersono - user persona
 * uzantreago - user response
@@ -8169,6 +8211,7 @@
 * videbleco - visibility
 * videbli - to be seen
 * video - video
+* videofluado - video streaming
 * videoregistraĵo - video recording
 * vidi - to see
 * vidindaĵo - sight; something worth seeing

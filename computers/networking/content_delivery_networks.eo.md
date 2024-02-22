@@ -57,6 +57,25 @@ En esenco, EnhLR funkcias per inteligente kaŝmemorigante kaj replikante enhavon
 
 ## Ŝlosilaj Teknologioj Malantaŭ CDN-oj
 
+Enhavaj Liveraj Retoj (ELR-oj) utiligas diversajn sofistikajn teknologiojn por certigi efikan liveradon de enhavo tra la tuta mondo. Ĉi tiuj teknologioj alfrontas la defiojn de latenctempo, skalebleco, sekureco kaj fidindeco en la distribuado de cifereca enhavo. Komprendi la ŝlosilajn teknologiojn malantaŭ ELR-oj donas enrigardon pri kiel ili sukcesas rapide kaj sekure liveri enhavon al uzantoj tutmonde.
+
+### Anycast-Retaĵo
+
+Anycast estas retadresiga kaj envojiga metodologio, kiu permesas asigni unu IP-adreson al pluraj serviloj en ELR. Kiam uzanto faras peton, ĉi tiu peto estas envojigita al la plej proksima aŭ plej bone funkcianta servilo kun tiu IP-adreso, bazite sur faktoroj kiel proksimeco kaj retoŝtopiĝo. Anycast efike reduktas latenctempon certigante, ke uzantopetoj ĉiam estas direktitaj al la geografie plej proksima aŭ plej optima servilo. Ĉi tio estas kruca por servoj, kiuj postulas altan haveblecon kaj rapidajn respondotempojn, kiel retejaj aplikoj, fluigitaj platformoj, kaj interretaj ludoj.
+
+### DNS kaj ELR
+
+La Sistemo de Domajnaj Nomoj (DNS) ludas centran rolon en la funkcio de ELR-oj per tradukado de homlegeblaj domajnaj nomoj (kiel www.ekzemplo.com) al maŝinlegeblaj IP-adresoj. Kiam integrita kun ELR, DNS iras paŝon pli foren direktante uzantopetojn al la plej taŭga ELR-servilo. Ĉi tio ofte atingiĝas per DNS-petorespondo, kiu konsideras faktorojn kiel la geografia loko de la uzanto, la sano de la reto, kaj la nuna ŝarĝo sur la ELR-serviloj. Per utiligado de DNS en ĉi tiu maniero, ELR-oj povas fari inteligentajn decidojn pri kie envojigi uzantopetojn por optima rendimento.
+
+### HTTP/HTTPS kaj ELR
+
+HiperTeksta Transiga Protokolo (HTTP) kaj ĝia sekura versio, HTTPS, estas la fundamento de datenkommunikado en la Tutmonda Reto. ELR-oj plibonigas la rendimenton kaj sekurecon de ĉi tiuj protokoloj plurmaniere. Ili uzas HTTP-kaŝmemorkapojn por determini kiom longe enhavo devas esti konservita antaŭ ol ĝi bezonas esti refreŝigita, reduktante la nombron de petoj al la origina servilo. ELR-oj ankaŭ optimumigas HTTPS-konektojn per finado de SSL/TLS ĉe la rando de la reto, pli proksime al la uzanto, kio reduktas manprem-latenctempon kaj plibonigas la rapidecon de sekura enhavoliverado.
+
+### TCP/IP-Optimumigo
+
+Transdona Kontrola Protokolo/Interreta Protokolo (TCP/IP) estas la baza komunikada lingvo aŭ protokolo de la Interreto. ELR-oj efektivigas diversajn optimumigojn al la norma TCP/IP-stako por plibonigi la rapidecon kaj fidindecon de enhavoliverado. Ĉi tiuj optimumigoj povus inkluzivi pli rapidan reakiron de paketperdo, pli efikajn algoritmajn kontrolojn de ŝtopiĝo, kaj plibonigitajn tempojn de konektestablado. Per fajnagordado de la maniero, laŭ kiu datenpakaĵoj estas transdonitaj kaj ricevitaj, ELR-oj povas signife redukti latenctempon, plibonigi trafluecon, kaj certigi pli glatan uzantosperton, eĉ trans longaj distancoj kaj nesekuraj retoj.
+
+Ĉi tiuj ŝlosilaj teknologioj—Anycast-retoĵo, DNS-integriĝo, HTTP/HTTPS-plibonigoj, kaj TCP/IP-optimumigoj—kunlaboras en ELR por certigi, ke cifereca enhavo estas liverata kiel eble plej rapide, sekure, kaj fidinde al uzantoj, sendepende de ilia loko. La kontinua evoluo kaj rafinado de ĉi tiuj teknologioj estas kio ebligas ELR-ojn renkonti la kreskantajn postulojn de la moderna interreto, subtenante ĉion de alta-difina videofluado ĝis nuba-bazitaj aplikoj kaj servoj.
 
 ## Tipoj de Enhavo Liverita de CDN-oj
 
