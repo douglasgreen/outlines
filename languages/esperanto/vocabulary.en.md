@@ -5553,6 +5553,7 @@
 * optima - optimal
 * optimigi - to optimize
 * optimigo - optimization
+* optimuma - optimal
 * optimumigi - to optimize
 * optimumigo - optimization
 * ora - golden; gold
