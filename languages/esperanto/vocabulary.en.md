@@ -1,4 +1,3 @@
-# Esperanto Vocabulary
 
 ## A
 * Aaron - Aaron
@@ -601,6 +600,7 @@
 * adoranto - fan
 * adori - to adore; to worship
 * adorkliniĝi - to kneel in worship (adoro + kliniĝi)
+* adreso - address
 * adulta - adult
 * adulti - to commit adultery
 * adulto - adult
@@ -1522,8 +1522,10 @@
 * datiĝi - to be dated
 * dato - date
 * datreveno - anniversary
+* datuma - related to data
 * datumaro - dataset
 * datumbazo - database
+* datumcentro - data center
 * datumo - data
 * datumokolekto - data collection
 * daŭra - lasting
@@ -1748,6 +1750,7 @@
 * dimanĉo - Sunday
 * dimensio - dimension
 * dinamika - dynamic
+* dinamike - dynamically
 * dinamiko - dynamics
 * dinastio - dynasty
 * dinosaŭro - dinosaur
@@ -1757,6 +1760,7 @@
 * diplomiĝinto - grad; graduate
 * diplomo - diploma
 * diraĵo - saying
+* direktado - directing or management
 * direkti - to steer
 * direktisto - conductor (in music or electrical)
 * direktivo - directive
@@ -1899,6 +1903,7 @@
 * dorso - back
 * dorsosako - backpack
 * dorsosakulo - backpacker
+* dorsosupporto - back support in a technical context
 * dosierado - filing
 * dosierilo - filer
 * dosiernomo - filename
@@ -1945,6 +1950,7 @@
 * dungitŝanĝiĝo - turnover
 * duno - dune
 * duobla - double
+* duobligi - to double
 * duolingveco - bilingualism
 * duonfinalo - semifinal
 * duoninsulo - peninsula
@@ -2238,6 +2244,7 @@
 * enhavdistribuo - content distribution
 * enhavi - to contain
 * enhavo - content
+* enhavo-optimigo - content optimization
 * enigaĵo - input
 * enigi - to input
 * enigmo - puzzle; riddle
@@ -2427,6 +2434,7 @@
 * fadeni - to thread; to string
 * fadeno - thread; strand; yarn
 * fadi - to fade
+* failover-mekanismo - failover mechanism
 * fajfi - to whistle
 * fajraĵo - firework
 * fajro - fire; beacon
@@ -2546,6 +2554,7 @@
 * fidi - to trust; to rely
 * fidinda - reliable
 * fidinde - reliably
+* fidindeco - reliability
 * fido - faith; trust
 * fieregi - to be very proud
 * fieri - to be proud
@@ -2579,6 +2588,7 @@
 * filtrado - filtering
 * filtri - to filter
 * filtrilo - filter
+* fin-uzi - to use up; to finish using
 * fina - final
 * finalisto - finalist
 * finalizi - to finalize
@@ -3302,6 +3312,7 @@
 * intelekta - intellectual
 * intelekto - intellect
 * inteligenta - intelligent
+* inteligente - intelligently
 * inteligenteco - intelligence
 * intenci - to intend
 * intenco - intention
@@ -3618,6 +3629,7 @@
 * kaŝmemora - caching
 * kaŝmemorigado - caching
 * kaŝmemorigi - to cache
+* kaŝmemorigo - cache memory
 * kaŝmemoro - cache
 * kaŝo - hiding
 * kaŝuo - cashew
@@ -3635,6 +3647,7 @@
 * kemia - chemical
 * kemiisto - chemist
 * kemio - chemistry
+* kerna - core
 * kerno - core; kernel
 * kerubo - cherub
 * kesto - box; coffer; crate
@@ -3836,6 +3849,7 @@
 * komponisto - composer
 * kompozita - composite
 * komprenado - understanding
+* komprendi - to understand
 * komprenebla - understandable
 * kompreneble - of course; understandably; roger
 * kompreni - to understand
@@ -4355,6 +4369,7 @@
 * lastatempe - recently
 * laste - lately
 * latenco - latency
+* latenteco - latency
 * latitudo - latitude
 * lato - slat
 * lavcerbigo - brainwash
@@ -4574,6 +4589,7 @@
 * makintoŝo - mac
 * makleristo - broker
 * makro - macro
+* maksimuma - maximum
 * maksimumigi - to maximize
 * maksimumo - maximum
 * makulo - blemish; stain
@@ -5136,6 +5152,7 @@
 * monero - coin
 * monfarejo - mint
 * monitorado - monitoring
+* monitori - to monitor
 * mono - money
 * monopolio - monopoly
 * monstro - monster
@@ -5533,6 +5550,7 @@
 * oportuno - convenience
 * opozicio - opposition
 * optika - optic; optical
+* optima - optimal
 * optimigi - to optimize
 * optimigo - optimization
 * optimumigi - to optimize
@@ -5622,6 +5640,7 @@
 * palto - coat
 * pandemio - pandemic
 * panebruligilo - toaster
+* panei - to fail (in the sense of machinery or a system failing)
 * panelano - panelist
 * paneo - breakdown
 * panero - crumb
@@ -5814,6 +5833,8 @@
 * peso - peso
 * pesticido - pesticide
 * pesto - plague
+* pet-rutiniga - making a routine of requests
+* pet-rutinigo - the act of making a routine of requests
 * petalo - petal
 * petanto - applicant
 * petegi - to beseech; to implore; to beg; to plead; to solicit
@@ -6016,6 +6037,7 @@
 * populara - popular
 * populareco - popularity
 * popularigi - to popularize
+* popularo - population (in a general sense, not typical for "popularity")
 * por - for
 * por ke ne - lest
 * por ĉiam - forever
@@ -6247,6 +6269,7 @@
 * projekto - project
 * proklami - to proclaim
 * prokrasti - to defer; to linger; to postpone; to protract
+* prokrasto - procrastination
 * proksea - proximate
 * proksima - close; near
 * proksime - near; closely
@@ -6296,6 +6319,7 @@
 * provizanto - provider; supplier
 * provizi - to provide; to cater; to procure
 * provizo - provision; supply
+* provizore - temporarily
 * provo - attempt; test; rehearsal
 * provoki - to provoke
 * prujno - frost
@@ -6452,6 +6476,7 @@
 * redukti - to reduce
 * redukto - reduction
 * reeldonado - reprint
+* reen - back or again
 * reen akiri - to regain; to retrieve
 * reen trovi - to reinvent
 * reenligilo - backlink
@@ -6542,6 +6567,7 @@
 * remorki - to tow
 * rendevuo - appointment; date
 * rendimento - yield
+* rendimento-mezuro - performance measurement
 * renesanca - renaissance
 * renkonti - to meet; to encounter
 * renkontiĝi - to meet; to come together
@@ -6559,6 +6585,8 @@
 * repago - refund; repayment
 * reperkuto - repercussion
 * replanigi - to reschedule
+* replikada - related to replication
+* replikado - replication
 * repliki - to replicate
 * repliko - replica
 * reponejo - repository; depot
@@ -6592,6 +6620,7 @@
 * respondeco - responsibility; liability
 * respondi - to answer; to respond; to reply
 * respondo - response
+* respondo-tempo - response time
 * respondulo - responder
 * respublikana - republican
 * respubliko - republic
@@ -6617,10 +6646,13 @@
 * reteja - website
 * retejestro - webmaster
 * retejo - website; web
+* retenhavo - network content
 * reteni - to withhold
 * retiriĝi - to retreat; to withdraw
 * retiro - withdrawal
 * reto - network; grid; net
+* reto-kondiĉo - network condition
+* reto-trafiko - network traffic
 * retpaĝo - webpage
 * retrankviligi - to reassure
 * retrosciigo - feedback
@@ -6796,6 +6828,9 @@
 * rupio - rupee
 * rura - rural
 * rusto - rust
+* rutiniga - related to making something routine
+* rutinigado - the act of making something routine
+* rutinigi - to make routine
 * rutino - routine
 * ruza - tricky
 * ruzaĵo - shenanigan
@@ -7006,10 +7041,12 @@
 * serioza - earnest; serious
 * serpento - serpent; snake
 * serpentuma - winding
+* serv-nivelo - service level
 * servanto - servant
 * servi - to serve
 * servila - servile
 * servilo - server
+* servilŝarĝo - service load
 * servistino - maid
 * servisto - servant
 * servo - service
@@ -7738,6 +7775,7 @@
 * tradukisto - translator
 * traduko - translation
 * trafi - to hit; to reach
+* trafik-distribuo - traffic distribution
 * trafiko - traffic
 * trafikvolumo - traffic volume
 * tragedio - tragedy
@@ -7831,6 +7869,7 @@
 * trovi - to find
 * troviĝi - to be found; to be located
 * trovo - finding
+* troŝarĝi - to overload
 * trufelo - truffle
 * trumpeto - trumpet
 * trunko - trunk
@@ -7948,6 +7987,8 @@
 * uzantlaceco - user fatigue
 * uzantnomo - username
 * uzanto - user
+* uzanto-peto - user request
+* uzanto-sperto - user experience
 * uzantosperto - user experience
 * uzantpersono - user persona
 * uzantreago - user response
@@ -8472,9 +8513,12 @@
 * ŝardoneo - chardonnay (tipo de vino)
 * ŝargilo - charger
 * ŝarko - shark
+* ŝarĝ-ekvilibriga - related to load balancing
+* ŝarĝ-ekvilibrigo - load balancing
 * ŝarĝa - load
 * ŝarĝi - to load; to charge
 * ŝarĝo - burden; payload; cargo
+* ŝarĝtempo - load time
 * ŝati - to like
 * ŝedo - shed
 * ŝejko - sheikh
@@ -8530,6 +8574,7 @@
 * ŝtelisto - thief
 * ŝtelo - theft
 * ŝtofo - fabric; cloth
+* ŝtonangulo - cornerstone
 * ŝtonego - cairn (a pile of stones as a memorial or marker)
 * ŝtonejo - quarry
 * ŝtoneto - pebble

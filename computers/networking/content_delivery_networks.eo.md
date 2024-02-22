@@ -35,6 +35,25 @@ Per ekspluatado de ĉi tiu arkitekturo, CDN-oj kapablas pli efike liveri enhavon
 
 ## Kiel CDN-oj Funkcias
 
+Enhavaj Liveraj Retoj (EnhLR) estas esenca parto de la moderna interreto, desegnitaj por optimumigi la liveradon de enhavo al uzantoj tra la tuta mondo. Ili funkcias per strategie distribuado de enhavo al diversaj punktoj de ĉeesto (Poĉ) pli proksime al la finaj uzantoj, tial reduktante latentecon, plibonigante rapidon, kaj plibonigante la ĝeneralan uzanto-sperton. Komprendi la kernajn principojn kaj mekanismojn malantaŭ EnhLR povas provizi komprenon pri ilia kritika rolo en la hodiaŭa cifereca pejzaĝo.
+
+### Datuma Kaŝmemorigo Principoj
+
+La ŝtonangulo de EnhLR efikeco kuŝas en datuma kaŝmemorigo, tekniko kiu provizore stokas kopiojn de enhavo ĉe multoblaj, geografie disaj serviloj. Kaŝmemorigo reduktas la bezonon por ĉiu uzanto-peto vojaĝi reen al la origina servilo, kiu eble situas malproksime de la uzanto, kondukante al prokrastoj. Anstataŭe, kiam uzanto petas enhavon (kiel paĝo, bildo, aŭ video), la peto estas servita de la plej proksima EnhLR-servilo kiu havas kaŝmemorigitan version de tiu enhavo. Tio signife malpliigas ŝarĝtempojn kaj reduktas la bendolarĝan postulon sur la origina servilo.
+
+### Enhava Replikado
+
+Enhava replikado kompletigas kaŝmemorigon per certigado ke kopioj de enhavo estas haveblaj tra la reto de serviloj de la EnhLR. Tio implikas duobligi la enhavon de la origina servilo al diversaj EnhLR-serviloj lokitaj en malsamaj geografiaj regionoj. Replikadaj strategioj povas varii, de puŝado de ĉiu enhavo al ĉiu servilo (certigante maksimuman haveblecon) al pli dinamikaj modeloj kie enhavo estas replikata bazita sur popularo, postulo, aŭ geografia graveco. Tio certigas ke ofte alirita enhavo estas facile havebla proksime al kie la postulo estas plej alta.
+
+### Pet-Rutinigaj Mekanismoj
+
+Pet-rutinigo estas kritika en direktado de uzanto-petoj al la plej taŭga EnhLR-servilo. EnhLR-uzas inteligentajn rutinigajn mekanismojn bazitajn sur faktoroj kiel geografia loko, servilŝarĝo, enhava tipo, kaj reto-kondiĉoj. Teknikoj kiel IP Anycast permesas al multoblaj serviloj dividi la saman IP-adreson, kaj DNS-bazita rutinigado direktas petojn al la plej bona servilo bazita sur la loko de la uzanto. Tio certigas ke petoj estas ĉiam rutinigitaj al la optimuma servilo, minimumigante latentecon kaj plibonigante ŝarĝtempojn.
+
+### Ŝarĝ-Ekvilibrigo
+
+Ŝarĝ-ekvilibrigo estas la procezo de distribuado de reto-trafiko trans multoblaj serviloj por certigi ke neniu sola servilo fariĝas troŝarĝita, kio povus malpliigi rendimenton. EnhLR-uzas sofistikajn ŝarĝ-ekvilibrigajn algoritmojn por monitori servilan sanon, kapaciton, kaj respondo-tempojn, dinamike ĝustigante la trafik-distribuon por konservi optimumajn serv-nivelojn. Tio ne nur maksimumigas la efikecon de la EnhLR sed ankaŭ provizas failover-mekanismon en kazo ke servilo aŭ tuta datumcentro paneas, certigante altan haveblecon kaj fidindecon de enhava liverado.
+
+En esenco, EnhLR funkcias per inteligente kaŝmemorigante kaj replikante enhavon tra distribuita reto de serviloj, uzante progresintajn pet-rutinigajn kaj ŝarĝ-ekvilibrigajn teknikojn por efike kaj fidinde liveri enhavon al uzantoj tutmonde. Ĉi tiu infrastrukturo estas kruciala por alfronti la kreskantan postulon por rapida kaj fidinda aliro al retenhavo, farante EnhLR la dorsosupporton de la moderna interreto.
 
 ## Ŝlosilaj Teknologioj Malantaŭ CDN-oj
 
