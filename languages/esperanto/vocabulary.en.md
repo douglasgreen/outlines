@@ -69,6 +69,8 @@
 * Balkano - Balkan
 * Balta - Baltic
 * Bangladeŝo - Bangladesh
+* Bar-Jona - Bar Jonah
+* Barabas - Barabbas
 * Barabaso - Barabbas
 * Barato - India
 * Baraĥjo - Barachiah
@@ -144,6 +146,7 @@
 * Eleazar - Eleazar
 * Elija - Elijah
 * Eliro - Exodus
+* Elizabeto - Elizabeth
 * Eliŝa - Elisha
 * Emanuelo - Emmanuel
 * Epikteto - Epictetus
@@ -187,27 +190,36 @@
 * Frederiko - Frederick
 
 ## G
+* Gabrielo - Gabriel
 * Gad - Gad
+* Gadarenano - Gadarene
 * Galatiano - Galatian (related to the Epistle to the Galatians in the Bible)
+* Galileano - Galilean
 * Galileo - Galileo; Galilee
 * Gehena - Gehenna
 * Geheno - Gehenna; hell
+* Genesareto - Gennesaret
 * Genezo - Genesis
 * Gento - Ghent
 * Georgo - George
+* Gergezeno - Gergesenes
 * Germana - German
 * Germane - in German
 * Germanio (Germano + io) (also Germanujo) - Germany
 * Germano - German (person)
+* Getsemane - Gethsemane
 * Gilead - Gilead
+* Golgato - Golgatha
 * Goliat - Goliath (biblical figure)
 * Gomoro - Gomorrah
 * Gotika - Gothic
 * Greka - Greek
+* Grekino - Greek woman
 * Grekio (Greko + io) - Greece
 * Greko - Greek (person)
 
 ## H
+* Hadeso - Hades
 * Halovena - Halloween
 * Haman - Haman
 * Hamburgo - Hamburg
@@ -219,6 +231,7 @@
 * Henriko - Henry
 * Heraklito - Heraclitus
 * Hercegovino - Herzegovina
+* Herodiano - Herodian
 * Herodias - Herodias
 * Herodo - Herod
 * Hezekia - Hezekiah
@@ -242,6 +255,7 @@
 * Hungaro - Hungarian (person)
 
 ## I
+* Idumeo - Idumea
 * Indioj - Indies
 * Indoeŭropa - Indo-European
 * Irakano - Iraqi
@@ -266,6 +280,7 @@
 
 ## J
 * Jahveo - Yahweh
+* Jairo - Jairus
 * Jakobo - James; Jacob
 * Japana - Japanese
 * Japane - in Japanese
@@ -273,18 +288,22 @@
 * Jehuda - Judah
 * Jemeno - Yemen
 * Jeremia - Jeremiah
+* Jeriĥo - Jericho
 * Jerobeam - Jeroboam
 * Jerusalemo - Jerusalem
 * Jesaj - Jesse
 * Jesaja - Isaiah
 * Jesuo - Jesus
+* Jeĥonja - Jechoniah
 * Jeĥoŝafat - Jehoshaphat
 * Joab - Joab
 * Johano - John
+* Jona - Jonah
 * Jonathan - Jonathan
 * Jordanio - Jordan
 * Jordano - Jordan
 * Jorko - York
+* Josefo - Joseph
 * Josija - Josiah
 * Jozefo - Joseph
 * Joŝuo - Joshua
@@ -297,7 +316,9 @@
 * Jupitero - Jupiter
 
 ## K
+* Kafarnaumo - Capernaum
 * Kalifornio - California
+* Kanaanida - Canaanite
 * Kanaano - Canaan
 * Kanada - Canadian
 * Kanadano - Canadian; Canuck (informal)
@@ -343,7 +364,9 @@
 * Las Vegaso - Las Vegas
 * Latinamerikano - Latino
 * Latino - Latin
+* Lebeo - Lebbaeus
 * Leonardo - Leonardo
+* Levio - Levi
 * Levito - Levite
 * Libano - Lebanon
 * Linukso - Linux
@@ -355,14 +378,18 @@
 * Londono - London
 * Los-Anĝeleso - Los Angeles
 * Lukas - Lucas
+* Luko - Luke
 * Luterana - Lutheran
 
 ## M
 * Madrido - Madrid
+* Magdala - Magdala
+* Magdalena - Magdalene
 * Majamo - Miami
 * Majkrosofto - Microsoft
 * Makedonio - Macedonia
 * Manaseo - Manasseh
+* Maria - Mary
 * Mario - Mary
 * Marso - Mars
 * Mateo - Matthew
@@ -402,6 +429,7 @@
 * Nederlanda - Dutch
 * Nederlando - Netherlands
 * Nigeriano - Nigerian
+* Nineve - Nineveh
 * Noa - Noah
 * Nobelo - Nobel
 * Nordameriko - North America
@@ -435,6 +463,7 @@
 * Pola - Polish
 * Polaroido - Polaroid
 * Pollando - Poland
+* Poncio - Pontius
 * Portugala - Portuguese
 * Portugalio - Portugal
 * Prago - Prague
@@ -463,6 +492,7 @@
 ## S
 * Sadukeo - Sadducee
 * Saksio - Saxony
+* Salomeo - Salome
 * Salomono - Solomon
 * Saluton. - Hello.
 * Samario - Samaria
@@ -478,6 +508,7 @@
 * Sidono - Sidon
 * Simono - Simon
 * Sinjorino - Mrs
+* Sirafenicana - Syrophoenician
 * Siriano - Syrian
 * Sirio - Syria
 * Skandinavio - Scandinavia
@@ -512,6 +543,7 @@
 * Tajlando - Thailand
 * Teksasano - Texan
 * Teksaso - Texas
+* Teofilo - Theophilus
 * Tesalonikano - Thessalonian
 * Tiro - Tyre
 * Tokio - Tokyo
@@ -547,6 +579,7 @@
 * Vjetnama - Vietnamese
 
 ## Z
+* Zakario - Zechariah
 * Zamenhof - Zamenhof (referring to L. L. Zamenhof, the creator of Esperanto)
 * Zebedeo - Zebedee
 * Zebuluno - Zebulun
@@ -1656,6 +1689,7 @@
 * derivaĵo - derivative
 * derivi - to derive
 * dermatologo - dermatologist
+* des - even more
 * des pli - all the more
 * des pli bone - all the better
 * desegnaĵo - drawing
@@ -1944,6 +1978,7 @@
 * dudek - twenty
 * dufoje - twice
 * duismo - dualism
+* dujara - two-year-old
 * dujaraĝa - two years old
 * duko - duke
 * dukto - duct; pipeline
@@ -1951,13 +1986,16 @@
 * dume - while; meanwhile
 * dumtempe - temporarily
 * dumvive - lifelong
+* dumvoje - on the way
 * dungado - employment; hiring
 * dunganto - employer
 * dungi - to employ
 * dungito - employee
 * dungitŝanĝiĝo - turnover
+* dungiĝi - to get employed
 * duno - dune
 * duobla - double
+* duoble - doubly
 * duobligi - to double
 * duolingveco - bilingualism
 * duonfinalo - semifinal
@@ -1980,6 +2018,7 @@
 * ebli - to be possible
 * ebligi - to enable
 * ebria - drunk
+* ebriulo - drunkard
 * eco - trait; characteristic
 * eduka - educational
 * edukado - education
@@ -2020,6 +2059,7 @@
 * ekdormiĝi - to fall asleep
 * ekesti - to arise
 * ekflorado - boom
+* ekgemi - to groan
 * eki - to start; begin
 * ekilibro - balance
 * ekipaĵo - gear; equipment
@@ -2045,6 +2085,7 @@
 * ekrankopio - screenshot
 * ekrano - screen
 * eksa - former
+* eksalti - to jump up
 * eksaltigi - to startle
 * eksci - to find out; to learn
 * ekscii - to find out
@@ -2053,7 +2094,9 @@
 * ekscito - excitement
 * eksedziĝo - divorce
 * eksedzo - ex-husband
+* eksgeedziĝa - divorced
 * eksigi - to dismiss
+* eksigilo - exile; trigger
 * ekskludi - to exclude
 * ekskludo - exclusion
 * ekskurso - excursion; outing
@@ -2138,6 +2181,8 @@
 * el - out of; from
 * elabori - to elaborate
 * elakvigi - to undock
+* elaĉeti - to redeem
+* elaĉeto - redemption
 * elbatiĝo - strikeout
 * eldiri - to utter
 * eldona - publishing
@@ -2168,6 +2213,7 @@
 * elemento - element
 * elfo - elf
 * elfosi - to excavate
+* elhaki - to carve out
 * eligi - to discharge
 * eligo - output
 * elimini - to eliminate
@@ -2175,6 +2221,7 @@
 * elirejo - outlet
 * eliri - to exit; to go out
 * elito - elite
+* elkreski - to grow out
 * elmigranto - emigrant
 * elmigri - to emigrate
 * elmontrado - exhibition; display
@@ -2184,7 +2231,9 @@
 * elparoli - to pronounce
 * elpeli - to expel; to evict
 * elpensi - to contrive; to devise
+* elpiki - to peck out
 * elporti - to endure
+* elradikigi - to eradicate
 * elsciigi - to unleash
 * elsendado - broadcasting
 * elsendi - to send out; to broadcast; to emit; to transmit
@@ -2192,15 +2241,18 @@
 * elsendisto - broadcaster
 * elspezi - to expend; to spend
 * elspezo - expense; expenditure
+* elspiri - to exhale
 * elstara - outstanding; excellent
 * elstaraĵo - highlight
 * elstare - prominently
 * elstari - to stand out; to excel
 * elteni - to endure; to withstand
+* eltiri - to pull out
 * eltrenĵo - clipping
 * eltrovi - to discover
 * eluzi - to wear out; to use up
 * elveni - to come out
+* elverŝi - to pour out
 * elverŝiĝi - to spill out
 * elverŝiĝo - overflow
 * elvoki - to elicit
@@ -2211,6 +2263,7 @@
 * elŝaltiĝo - outage
 * elŝanĝi - to redeem
 * elŝiri - to tear out
+* elŝpruci - to spurt out
 * elŝutado - downloading
 * elŝutebla - downloadable
 * elŝuti - to download
@@ -2224,6 +2277,7 @@
 * emfazi - to emphasize
 * emfazo - emphasis
 * emi - to tend; to be inclined
+* eminenta - eminent
 * emirlando - emirate
 * emiro - emir
 * emisio - emission
@@ -2239,6 +2293,7 @@
 * endanĝerigi - to endanger
 * endormiĝi - to fall asleep
 * ene - inside; within
+* enen - inward
 * energiigi - to energize
 * energio - energy
 * energiplena - energetic
@@ -2297,8 +2352,10 @@
 * entenado - containing
 * enteni - to contain
 * enterigi - to bury
+* enterigo - burial
 * entjero - integer
 * ento - entity
+* entombigo - burial
 * entrepreni - to undertake
 * entreprenisto - entrepreneur
 * entrepreno - enterprise; venture
@@ -2308,6 +2365,8 @@
 * enui - to bore
 * enuigi - to bore
 * enumi - to enumerate
+* enveni - to enter
+* envio - envy
 * envojiga - sending (as in the process or capability)
 * envojigi - to send (as in to make something send)
 * envolvaĵo - wrapper
@@ -2315,7 +2374,9 @@
 * enzimo - enzyme
 * enĉerigo - enclosure
 * enŝovi - to insert; to slide in
+* enŝteli - to sneak in
 * eono - eon
+* epilepsia - epileptic
 * epilepsiulo - epileptic
 * episkopo - bishop
 * epistemologio - epistemology
@@ -2344,6 +2405,7 @@
 * eseo - essay
 * eskadro - squad; squadron
 * eskali - to escalate
+* eskapi - to escape
 * eskapo - breakout
 * eskorti - to escort
 * esperante - hopefully
@@ -2375,6 +2437,7 @@
 * estigi - to cause
 * estimo - esteem
 * estingi - to extinguish
+* estingiĝi - to go out (fire)
 * estis - been
 * estiĝi - to come into being
 * estonta - future
@@ -2476,9 +2539,11 @@
 * falo - fall
 * falpaŝi - to stumble
 * falpuŝaĵo - stumbling-block
+* falpuŝiĝi - to fall down
 * falpuŝiĝo - stumbling
 * falsa - false; fake
 * falĉi - to mow
+* falĉilo - scythe
 * fama - famous
 * familio - family
 * famiĝi - to become famous
@@ -2496,6 +2561,7 @@
 * faranto - maker
 * faraono - pharaoh
 * fare - by; through
+* farebla - doable
 * fari - to do; to make
 * fariĝi - to become
 * farmacia - pharmaceutical
@@ -2509,8 +2575,10 @@
 * fascini - to fascinate
 * fasko - bunch; bundle
 * fasti - to fast
+* fasto - fast
 * favorato - favorite; minion
 * favore - favorably
+* favoriĝi - to find favor
 * favoro - favor; pro
 * fazo - phase
 * faŝismo - fascism
@@ -2528,6 +2596,7 @@
 * felo - fur
 * femuro - thigh
 * fendeto - slit
+* fendiĝi - to split
 * fendo - slot
 * fenestraĵo - widget
 * fenestreto en tegmento - skylight
@@ -2541,6 +2610,8 @@
 * fermado - closure
 * fermentaĵo - leaven
 * fermenti - to ferment
+* fermentiĝi - to ferment
+* fermento - yeast
 * fermi - to close; to shut
 * fermilo - shutter
 * fervojo - railway; railroad
@@ -2555,6 +2626,7 @@
 * festo - celebration; party
 * feŭdismo - feudalism
 * fi - shame (interjection for disgust or disapproval)
+* fianĉigi - to betroth
 * fianĉina amikino - bridesmaid
 * fianĉiĝi - to become engaged
 * fianĉo - groom
@@ -2572,6 +2644,7 @@
 * fieregi - to be very proud
 * fieri - to be proud
 * fiero - pride
+* fierulo - proud person
 * figarbo - fig tree
 * figo - fig
 * figuro - figure
@@ -2583,6 +2656,7 @@
 * fiksi - to fasten
 * fiksilo - fastener
 * fiksitaĵo - fixture
+* filakterio - phylactery
 * filiiĝi - to affiliate
 * filiiĝo - affiliation
 * filino - daughter
@@ -2600,6 +2674,7 @@
 * filozofo - philosopher
 * filtrado - filtering
 * filtri - to filter
+* filtrigi - to filter
 * filtrilo - filter
 * fin-uzi - to use up; to finish using
 * fina - final
@@ -2636,6 +2711,8 @@
 * flamo - flame; blaze
 * flanka - side; lateral
 * flanke - on the side; sideway; aside
+* flanken - aside
+* flankenmeti - to set aside
 * flanklinio - sideline
 * flanko - side; flank
 * flapati - to flap
@@ -2674,6 +2751,8 @@
 * fluigi - to stream
 * fluo - flow
 * flustri - to whisper
+* flutludi - to play the flute
+* fluto - flute
 * foje - sometimes
 * fojno - hay
 * fojo - time (as in occasion)
@@ -2712,11 +2791,13 @@
 * forkapti - to abduct
 * forko - fork
 * forkuri - to run away
+* forkuro - escape
 * forlasi - to leave; to abandon; to forsake
 * forlasita - forsaken
 * formado - formation
 * formala - formal
 * formale - formally
+* formanĝi - to devour
 * formati - to format
 * formato - format
 * formi - to form
@@ -2730,11 +2811,13 @@
 * forno - oven; stove; furnace
 * forpasi - to pass away; to die
 * forpelado - expulsion
+* forporti - to carry away
 * forpreni - to take away
 * forrabi - to reave
 * forsendi - to dismiss; to send away
 * forta - strong
 * forte - strongly
+* fortege - very strongly
 * fortigi - to fortify
 * fortika - stout
 * fortikaĵo - fortress; fort
@@ -2747,6 +2830,7 @@
 * forĵeti - to discard; to jettison
 * forŝiriĝi - to be torn off
 * fosaĵo - ditch
+* fosfosi - to dig
 * fosi - to dig
 * fosilio - fossil
 * fotilo - camera
@@ -2758,6 +2842,8 @@
 * frago - strawberry
 * frakcio - faction; fraction
 * frambuso - raspberry
+* frando - glutton
+* frango - fracture
 * franĉizo - franchise
 * franĝo - fringe
 * frapeti - to flick
@@ -2795,6 +2881,7 @@
 * frotlavi - to scrub
 * frua - early
 * frue - early
+* fruematene - early in the morning
 * fruktarbejo - orchard
 * frukto - fruit
 * fruktokuko - fruitcake
@@ -2853,10 +2940,12 @@
 * garantio - warranty
 * garaĝo - garage
 * gardanto - guardian
+* gardateco - custody
 * gardi - to guard; to watch; to safeguard
 * gardistaro - escort; guard
 * gardisto - keeper
 * gardovico - guard watch (gardo + vico)
+* garnizono - garrison
 * gaso - gas
 * gasoj - to exhaust
 * gastejo - hostel
@@ -2867,6 +2956,7 @@
 * gazeto - newspaper; journal
 * gazono - lawn
 * geajo - jay
+* geedziĝa - marital
 * geedziĝo - marriage; wedding
 * geedzoj - married couple
 * geja - gay
@@ -2882,8 +2972,10 @@
 * geniulo - genius
 * geno - gene
 * genro - genre
+* gentilo - gentile
 * gento - gentile (in the biblical sense)
 * genufleksi - to kneel
+* genui - to kneel
 * genuo - knee
 * geografia - geographical
 * geografie - geographically
@@ -2926,6 +3018,7 @@
 * gluaĵo - adhesive
 * glumarko - sticker
 * gluo - glue
+* glutema - gluttonous
 * gluti - to swallow
 * golfeto - cove
 * golfisto - golfer
@@ -2952,10 +3045,13 @@
 * granda - big; large; grand; great
 * grandeco - size
 * grandega - huge
+* granderare - greatly mistaken
 * grandigi - to magnify
 * grandparte - largely
+* grandulo - magnate
 * granolo - granola
 * granuli - to granulate
+* grasa - fat
 * graso - fat; grease
 * grati - to scrape; to scratch
 * gratuli - to congratulate
@@ -2972,6 +3068,7 @@
 * grego - flock
 * grenado - grenade
 * grenejo - granary; barn
+* grenkampo - grain field
 * greno - grain
 * grilo - grill
 * grilplato - griddle
@@ -2979,6 +3076,7 @@
 * grimparo - climber
 * grimpi - to climb
 * grincado - gnashing
+* grinci - to gnash
 * gripo - flu
 * griteco - grit
 * griza - gray
@@ -3031,6 +3129,7 @@
 * harmonio - harmony
 * haro - hair
 * harpinto - bristle
+* hasto - haste
 * havaĵo - possession; property
 * havebla - available
 * havebleco - availability
@@ -3046,6 +3145,7 @@
 * hejma - home
 * hejmbesto - pet
 * hejme - at home
+* hejmen - homeward
 * hejmi - to be home to
 * hejmo - home
 * hejmtasko - homework
@@ -3093,6 +3193,7 @@
 * hiperteksta - hypertext
 * hipio - hippy
 * hipokaŝtano - buckeye
+* hipokriteco - hypocrisy
 * hipokritulo - hypocrite
 * hipoteko - lien; mortgage
 * hipotetika - hypothetical
@@ -3116,10 +3217,13 @@
 * hommortigo - homicide
 * homo - human; person
 * homoj - folk
+* honesta - honest
 * honora - honorary
 * honori - to honor
 * honoro - honor; honour
+* honte - shamefully
 * honti - to be ashamed
+* hontinde - shamefully
 * horaro - schedule
 * hordo - horde
 * horizonto - horizon
@@ -3139,7 +3243,11 @@
 * humidigi - to moisturize
 * humidigilo - moisturizer
 * humila - humble
+* humili - to humiliate
+* humiligi - to humiliate
 * humiliigi - to humiliate
+* humiliĝi - to humble oneself
+* humilulo - humble person
 * humoro - mood
 * humuro - humor
 * humuso - hummus
@@ -3200,10 +3308,14 @@
 * implikaĵo - implication
 * impliki - to imply; to embroil; to entangle; to implicate; to involve
 * implikiĝo - involvement
+* impona - impressive
 * importi - to import
 * importisto - importer
 * impostado - taxation
+* impostejo - tax office
 * impostisto - tax collector
+* impostkolekta - tax collection
+* impostmono - tax money
 * imposto - tax; duty; levy; toll
 * impostpaganto - taxpayer
 * impozi - to impose
@@ -3220,7 +3332,9 @@
 * inda - worthy
 * indekso - index
 * indico - clue
+* indigna - indignant
 * indigni - to fume
+* indigno - indignation
 * indiki - to indicate
 * indikilo - indicator
 * indiko - indication; sign
@@ -3239,6 +3353,7 @@
 * industriigo - industrialization
 * industrio - industry
 * infana - childish; infant
+* infanaĝo - childhood
 * infanejo - nursery
 * infaneto - baby
 * infano - child; kid
@@ -3318,6 +3433,7 @@
 * insulano - islander
 * insularo - archipelago
 * insulo - island; isle
+* insulti - to insult
 * insulto - insult
 * integra - integral
 * integrado - integration
@@ -3358,6 +3474,7 @@
 * interkonsento - agreement; bargain; covenant; deal
 * interkultura - intercultural
 * interligi - to interconnect
+* interligo - connection
 * intermiksi - to intersperse
 * interna - internal; inner
 * interna regularo - bylaw
@@ -3431,6 +3548,7 @@
 * iu ajn - anyone; whoever
 * iuj - some
 * iujn - some
+* iun - someone
 * iutage - someday
 * izolado - lockdown
 * izoli - to isolate; to insulate; to seclude
@@ -3473,6 +3591,7 @@
 * junio - June
 * juniora - junior
 * junularo - youth
+* junulino - young woman
 * junulo - young person; juvenile; teen; youngster; youth
 * jupo - skirt
 * jura - legal
@@ -3492,6 +3611,7 @@
 * juĝi - to judge
 * juĝisto - judge; referee
 * juĝo - judgment; judgement
+* juĝseĝo - judgment seat
 
 ## k
 * kabano - cabin; hut; to lodge
@@ -3524,6 +3644,7 @@
 * kalorio - calorie
 * kalsono - panty
 * kamarado - comrade; pal
+* kamelharo - camel hair
 * kamelo - camel
 * kamiono - lorry; truck
 * kammskolopo - scallop
@@ -3535,11 +3656,13 @@
 * kampara - rural
 * kamparano - peasant; farmer; hick
 * kamparo - countryside
+* kampeto - small field
 * kampo - field; area
 * kampusa - campus
 * kamŝafto - cam
 * kanabo - hemp
 * kanalo - channel; canal
+* kanapo - hemp
 * kancero - cancer
 * kandelingo - candle holder
 * kandelo - candle
@@ -3558,6 +3681,7 @@
 * kantverkisto - songwriter
 * kanuo - canoe
 * kanvaso - canvas
+* kapabla - capable
 * kapableco - capability
 * kapabli - to be able
 * kapablo - ability
@@ -3625,6 +3749,7 @@
 * kategoriigi - to categorize
 * kategoriigo - categorization
 * kategorio - category
+* kateno - chain
 * katido - kitten
 * katino - pussy
 * kato - cat
@@ -3677,6 +3802,7 @@
 * kidnapi - to kidnap
 * kie - where
 * kiel - how
+* kien - where (to)
 * kies - whose
 * kilogramo - kilogram
 * kilometro - kilometer
@@ -3722,6 +3848,7 @@
 * klini - to tilt; to lean
 * klinikisto - clinician
 * kliniko - clinic
+* kliniĝi - to bow
 * klipo - clip
 * kliŝo - cliché
 * kloako - sewer
@@ -3838,6 +3965,7 @@
 * kompari - to compare; to liken
 * komparo - comparison
 * kompaso - compass
+* kompate - compassionately
 * kompatema - compassionate; merciful
 * kompatemo - mercy
 * kompati - to pity; to have compassion
@@ -3861,6 +3989,7 @@
 * komplikeco - complexity
 * kompliki - to complicate; to convolute
 * komplimento - compliment
+* komploti - to conspire
 * komponanto - constituent
 * komponaĵo - composition; compound
 * komponento - component
@@ -3904,6 +4033,7 @@
 * koncentriĝi - to concentrate
 * koncepto - concept; conception; notion
 * koncerna - concerning; regarding
+* koncerne - concerning
 * koncerni - to concern
 * koncerniĝi - to be concerned
 * koncerto - concert
@@ -3911,6 +4041,7 @@
 * koncipi - to conceive
 * konciza - concise
 * kondamni - to damn
+* kondamninti - to condemn
 * kondamnito - convict
 * kondamno - conviction
 * kondensi - to condense
@@ -3997,6 +4128,7 @@
 * konsilio - council
 * konsilisto - adviser; consultant; counselor
 * konsiliĝi - to consult
+* konsiliĝo - consultation
 * konsilo - advice; counsel
 * konsista - consistent
 * konsistenco - consistency
@@ -4040,6 +4172,7 @@
 * kontenta - content; satisfied
 * kontenteco - satisfaction
 * kontentiga - satisfying
+* kontentigi - to satisfy
 * kontento - contentment
 * kontinenta - continental
 * kontinento - continent
@@ -4086,11 +4219,15 @@
 * konverĝi - to converge
 * konverĝo - convergence
 * konvinki - to convince
+* konvulsiigi - to convulse
+* konvulsio - convulsion
 * konĝesti - to congest
 * koordinato - coordinate
+* koorto - cohort
 * kopii - to copy
 * kopio - copy
 * kopirajto - copyright
+* kora - heartfelt
 * koralo - coral; corral
 * koramikino - girlfriend
 * koramiko - boyfriend
@@ -4102,6 +4239,7 @@
 * korelacio - correlation
 * korespondanto - correspondent
 * koridoro - corridor; hallway
+* kormalpura - extra clean
 * korniko - crow
 * korno - horn
 * koro - heart
@@ -4119,6 +4257,7 @@
 * kosmo - cosmos; space
 * kosmologio - cosmology
 * kosmonaŭto - cosmonaut
+* kosta - costly
 * kostefika - cost-effective
 * kosti - to cost
 * kosto - cost
@@ -4145,6 +4284,7 @@
 * kraŝo - crash
 * kreado - creation
 * kreatino - creatine
+* kreaĵo - creature
 * kredanto - believer
 * kredi - to believe
 * krediti - to credit
@@ -4155,18 +4295,21 @@
 * kreemo - creativity
 * krei - to create
 * kreinto - creator
+* kreitaro - creation
 * kreivo - creativity
 * kremigilo - creamer
 * kremo - cream
 * kreo - creation
 * krepusko - twilight
 * krepŝtofo - crepe
+* kreskaĵo - plant
 * kreski - to grow
 * kreskigi - to grow; to cultivate
 * kreskinta - grown
 * kreskis - grew
 * kresko - growth; increment
 * krevi - to burst; to crack
+* kriado - shouting
 * krii - to cry out; to shout; to scream; to yell
 * kriketo - cricket (the sport or the insect)
 * kriketportalo - wicket
@@ -4174,7 +4317,10 @@
 * kriminalistika - criminological
 * krimo - crime
 * krimulo - criminal; perpetrator
+* krio - cry
+* kripla - crippled
 * kripligi - to cripple
+* kriplulo - cripple
 * krispa - crisp
 * kristalo - crystal
 * kristnaska kanto - carol
@@ -4245,6 +4391,8 @@
 * kulturaĵo - cultural item
 * kulture - culturally
 * kulturo - culture
+* kulumo - collar
+* kuminumo - cumin
 * kun - with
 * kune - together
 * kuneco - fellowship
@@ -4264,14 +4412,19 @@
 * kunlabori - to collaborate
 * kunlaboro - collaboration
 * kunordiganto - coordinator
+* kunporti - to bring along
 * kunpremi - to clench
+* kunribelulo - fellow rebel
 * kunteksto - context
+* kuntiriĝi - to contract
 * kunulo - companion; mate
 * kunveni - to assemble; to gather
 * kunvenigi - to convene
 * kunvenloko - meeting place
 * kunveno - meeting; gathering; rally
+* kunvoki - to convene
 * kupono - coupon; voucher
+* kupra - copper
 * kuracado - treatment; healing
 * kuracbanejo - spa
 * kuracejo - resort
@@ -4283,6 +4436,7 @@
 * kuraĝi - to encourage
 * kuraĝigi - to encourage
 * kurbo - curve
+* kure - running
 * kurejo - treadmill
 * kuri - to run
 * kuristo - runner
@@ -4295,12 +4449,14 @@
 * kuseno - cushion
 * kutima - usual
 * kutime - usually
+* kutimi - to accustom
 * kutimigi - to accustom
 * kutimo - habit; custom
 * kuvo - pothole; tub
 * kuzo/kuzino - cousin
 * kuŝi - to lie (down); to lie
 * kuŝigi - to lay
+* kuŝiĝi - to lie down
 * kvadrata - square
 * kvakoĵo - quack (sound made by ducks)
 * kvalifikacio - qualification
@@ -4313,6 +4469,7 @@
 * kvara - fourth
 * kvaranteno - quarantine
 * kvardek - forty
+* kvari - to rot
 * kvaronfinalo - quarterfinal
 * kvarono - quarter
 * kvartalo - quarter; district; neighborhood; neighbourhood (British English spelling)
@@ -4364,7 +4521,9 @@
 * lageto - pond
 * lago - lake
 * lakto - milk
+* lama - lame
 * lamao - llama
+* lamenti - to lament
 * lamenulo - lame person
 * laminati - to laminate
 * lampo - lamp
@@ -4380,10 +4539,12 @@
 * lanĉilo - launcher
 * lanĉo - launch
 * lardo - bacon
+* larmo - tear
 * larvo - grub
 * larĝa - wide; broad
 * larĝe - widely
 * larĝeco - width
+* larĝigi - to widen
 * larĝo - width
 * lasero - laser
 * lasi - to let; to leave
@@ -4396,9 +4557,12 @@
 * latenteco - latency
 * latitudo - latitude
 * lato - slat
+* latrino - latrine
+* lavado - washing
 * lavcerbigo - brainwash
 * lavendo - lavender
 * lavi - to wash
+* lavisto - launderer
 * lavmaŝino - washer; dishwasher
 * lavotaĵo - laundry
 * lavujo - sink
@@ -4410,11 +4574,13 @@
 * laŭdo - praise; accolade; kudos
 * laŭleĝe - legally
 * laŭlonge - along
+* laŭnome - nominally
 * laŭpeta - on-demand
 * laŭta - loud
 * laŭte - loudly
 * leciono - lesson
 * ledo - leather
+* ledzono - leather belt
 * legado - reading
 * leganto - reader
 * legebla - readable
@@ -4435,6 +4601,7 @@
 * leono - lion
 * leopardo - leopard
 * lepro - leprosy
+* leprozo - leprosy
 * leprulo - leper
 * lernado - learning
 * lernanteco - apprenticeship
@@ -4464,10 +4631,12 @@
 * leviĝo - rising; pickup
 * levo - lift
 * lezo - lesion
+* leĝa - legal
 * leĝaro - legislation
 * leĝdona - legislative
 * leĝdonanta korpo - legislature
 * leĝdonanto - legislator
+* leĝe - legally
 * leĝfaranto - lawmaker
 * leĝigi - to enact; to legalize
 * leĝo - law
@@ -4482,6 +4651,7 @@
 * liberigo - liberation
 * liberpensulo - maverick
 * liberta - libertarian
+* libertempo - leisure time
 * libro - book
 * librobretaro - bookshelf
 * librotenisto - accountant
@@ -4508,6 +4678,9 @@
 * limiĝi - to be limited
 * limo - limit; boundary
 * limregiono - frontier
+* lin - him
+* lina - linen
+* linaĵo - linen
 * lincfeliso - bobcat
 * lingva - linguistic
 * lingvista - linguist
@@ -4552,6 +4725,7 @@
 * lokigo - placement
 * loko - place; location; locale; spot
 * lokomotivo - locomotive
+* lokusto - locust
 * longa - long
 * longdaŭra - long-term
 * longe - long
@@ -4604,6 +4778,7 @@
 * magio - magic
 * magistrato - magistrate
 * magneto - magnet
+* magnigi - to magnify
 * maizo - corn
 * majesta - majestic
 * majo - May
@@ -4618,10 +4793,12 @@
 * maksimumo - maximum
 * makulo - blemish; stain
 * makzelo - jaw
+* malakcepti - to reject
 * malakordo - discrepancy
 * malaktivigi - to deactivate; to disable
 * malalt - low
 * malalta - low
+* malalteco - lowliness
 * malaltfideleca - low-fidelity
 * malaltigado - lowering
 * malaltigi - to relegate
@@ -4631,6 +4808,7 @@
 * malamiko - enemy; adversary; foe
 * malantaŭ - behind
 * malantaŭe - behind
+* malantaŭen - backwards
 * malantaŭenpaŝo - setback
 * malantaŭkorto - backyard
 * malantaŭo - rear
@@ -4644,6 +4822,7 @@
 * malbonaĵo - evil deed
 * malbone - badly; poorly
 * malboneco - wickedness
+* malbonfaro - misdeed
 * malboniĝi - to deteriorate
 * malbono - evil
 * malbonodori - to stink
@@ -4679,15 +4858,20 @@
 * malfermi - to open
 * malfermilo - opener
 * malfermiĝi - to open (intransitive)
+* malfidela - unfaithful
 * malfideleca - infidelity
+* malfido - distrust
 * malfinstali - to uninstall
 * malforta - weak
 * malfortigi - to weaken
 * malforto - weakness
 * malfrua - late
 * malfrue - late
+* malfrui - to be late
 * malfruiĝi - to be late; to delay
 * malgaja - sad
+* malgajiĝi - to become sad
+* malgajni - to lose (opposite of win)
 * malglata - rough
 * malgranda - small; slight; wee; small, opposite of large
 * malgranda disputo - tiff
@@ -4698,33 +4882,43 @@
 * malhelpi - to hinder; to obstruct; to hamper; to prevent; to thwart
 * malhonori - to dishonor
 * malhonoro - disgrace
+* malico - malice
 * maligi - to abolish
 * maljuna - old (not young)
+* maljuneco - old age
 * maljunulo - old person
+* maljustaĵo - injustice
 * maljusteco - injustice; iniquity
 * maljustulo - unjust person
+* malkatenigi - to unchain
 * malkaŝi - to reveal; to disclose; to expose; to unfold; to unveil
 * malkaŝiĝi - to be revealed
 * malkaŝo - disclosure; exposure; revelation
 * malklara - obscure
 * malklarigita - groggy; confused; dazed
 * malkonekti - to disconnect; to unplug
+* malkonfesi - to deny
 * malkongrueco - mismatch
 * malkongrui - to be incongruent
 * malkonsenti - to disagree
 * malkonsento - disagreement
 * malkonstruado - deconstruction
 * malkonstrui - to deconstruct
+* malkontenti - to be dissatisfied
 * malkontentigi - to disappoint
 * malkontento - disappointment
 * malkovri - to discover; to uncover; to unearth
 * malkovro - discovery
+* malkredi - to disbelieve
+* malkredo - disbelief
 * malkresko - decrease
 * malkuraĝigi - to discourage
 * mallaborema - lazy
 * mallarĝa - narrow
 * mallaŭdi - to blame; to condemn
 * mallaŭte - quietly
+* mallevi - to lower
+* mallevigi - to discourage
 * malleviĝi - to subside
 * malliberejo - prison; dungeon; jail
 * malliberulo - inmate; prisoner
@@ -4736,10 +4930,13 @@
 * mallonge - in short; briefly
 * mallongigi - to abbreviate; to curtail; to shorten
 * mallongigo - abbreviation; shortcut
+* mallume - in the dark
 * mallumiĝi - to darken
 * mallumo - darkness
 * malmola - hard; tough
+* malmoleco - hardness
 * malmoligi - to harden
+* malmoliĝo - hardening
 * malmulta - few
 * malmultaj - few
 * malmulte - little; not much
@@ -4748,6 +4945,9 @@
 * malnobligi - to degrade
 * malnova - old; ancient
 * malnova kinejo - nickelodeon (no direct modern equivalent, but refers to an old-time movie theater or cinema)
+* malnovulo - old man
+* malobeema - disobedient
+* malobeemulo - disobedient person
 * malobei - to disobey
 * malobservi - to violate
 * malobservo - violation
@@ -4763,8 +4963,10 @@
 * malpeze - lightly
 * malpezigi - to relieve
 * malpia - ungodly
+* malpiulo - wicked person
 * malplena - empty; blank
 * malplenaĝulo - minor
+* malplenmane - empty-handed
 * malpleno - vacancy
 * malpli - less; to fewer
 * malplibonigi - to impair
@@ -4784,6 +4986,7 @@
 * malrapide - slowly
 * malrapidigi - to retard
 * malregistri - to unregister
+* malrespekti - to disrespect
 * malrespekto - disrespect
 * malriĉa - poor
 * malriĉeco - poverty
@@ -4802,6 +5005,7 @@
 * malsatigi - to dissatisfy; to malnourish
 * malsatmorti - to starve
 * malsaĝa - foolish
+* malsaĝeco - foolishness
 * malsaĝulo - fool
 * malscie gvidi - to misguide
 * malseka - damp; wet
@@ -4816,6 +5020,7 @@
 * malsupre - below
 * malsupren - down; downstairs
 * malsupreniri - to go down; to descend
+* malsuprenpreni - to take down
 * maltrafi - to miss
 * maltrankvila - anxious; uneasy
 * maltrankviligi - to unsettle
@@ -4826,6 +5031,7 @@
 * malvarmeta - cool; chilly
 * malvarmigi - to refrigerate
 * malvarmigilo - cooler
+* malvarmiĝi - to get cold
 * malvarmo - cold
 * malvarmumo - chill
 * malvenko - defeat
@@ -4834,12 +5040,14 @@
 * malĝoja - sad
 * malĝoji - to be sad; to grieve; to mourn
 * malĝojigi - to disgruntle; to sadden
+* malĝojiĝi - to become sad
 * malĝojo - woe
 * malĝusta - incorrect; wrong
 * malŝarĝi - to unload
 * malŝati - to dislike
 * malŝlosi - to unlock
 * malŝpari - to waste
+* malŝparo - waste
 * mamelopinto - nipple
 * mamo - boob (colloquial)
 * mamono - mammon; wealth (used metaphorically)
@@ -4861,6 +5069,7 @@
 * manipulado - manipulation
 * manipulanto - handler
 * manipuli - to manipulate
+* manka - lacking
 * mankatenoj - handcuff
 * manki - to lack; to be missing
 * manko - lack; shortage; deficiency; shortcoming
@@ -4880,6 +5089,8 @@
 * manĝaĵamanto - foodie
 * manĝaĵo - food; grub
 * manĝaĵvendejo - grocery
+* manĝebla - edible
+* manĝegi - to gorge
 * manĝejo - diner; eatery
 * manĝeto - snack
 * manĝi - to eat
@@ -4941,6 +5152,7 @@
 * materio - matter
 * mato - mat
 * matraco - mattress
+* matura - mature
 * maturi - to mature
 * matĉo - match
 * mazero - mace
@@ -4995,6 +5207,7 @@
 * memoro - memory
 * memorretenado - memory retention
 * memorŝarĝo - cognitive load
+* memporti - to carry oneself
 * memregado - self-government
 * memregistaro - self-government
 * memstara - independent
@@ -5012,6 +5225,7 @@
 * mentoro - mentor
 * menua - menu (adjective)
 * menuo - menu
+* mergi - to immerse
 * meringo - meringue
 * meriti - to deserve; to merit
 * merkantilista - mercantilist
@@ -5047,7 +5261,9 @@
 * meztaga - midday; noon
 * mezuri - to measure
 * mezurilo - gauge
+* mezurkorbo - measuring basket
 * mezuro - measurement
+* meĉo - wick
 * mi - I
 * mi mem - myself
 * mia - my; mine (poseda pronomo)
@@ -5106,12 +5322,15 @@
 * minuto - minute
 * miraklo - miracle
 * miregi - to marvel; to be amazed
+* miregigi - to amaze
+* mirego - great wonder
 * mirho - myrrh
 * miri - to wonder; to marvel
 * miriado - myriad
 * mirigi - to amaze; to astonish
 * mirinda - wonderful
 * mirindaĵo - marvel; wonder
+* miro - wonder
 * mirtelo - blueberry
 * misa kompreno - misconception
 * misformi - to deform
@@ -5131,6 +5350,8 @@
 * mitologio - mythology
 * mitulo - mussel
 * mixamaso - hodgepodge
+* mizera - miserable
+* mizere - miserably
 * mizero - distress
 * mizo - miso
 * mobiligo - mobilization
@@ -5186,13 +5407,18 @@
 * montaro - mountain range
 * monteto - hill; mound
 * monto - mountain
+* montoflanko - mountainside
+* montraĵpano - showbread
+* montregiono - mountain region
 * montri - to show; to exhibit
 * montrilo - indicator; pointer
 * montriĝi - to be shown
 * montro - show; display
+* montrotabulpano - showcase bread
 * montruvitro - showcase
 * monujo - purse; wallet
 * monumento - monument
+* monŝanĝisto - money changer
 * mopilo - mop
 * morala - moral
 * moraleco - morality
@@ -5215,6 +5441,7 @@
 * mortkondamni - to condemn to death
 * morto - death
 * mortokazo - fatality
+* mortopunkto - point of death
 * moskeo - mosque
 * motivado - motivation
 * motivi - to motivate
@@ -5232,8 +5459,10 @@
 * moviĝo - movement
 * movo - movement
 * mozaiko - mosaic
+* mueli - to grind
 * muelilo - mill; grinder
 * muelisto - miller
+* muelŝtono - millstone
 * mufino - muffin
 * mulo - mule
 * mult-kolageno - multi-collagen
@@ -5244,6 +5473,8 @@
 * multekosta - expensive
 * multflanka - multifaceted; multilateral
 * multipliki - to multiply
+* multitudo - multitude
+* multiĝi - to multiply
 * multkultura - multicultural
 * multkulturo - multiculturalism
 * multlingva - multilingual
@@ -5292,8 +5523,10 @@
 * najbaro - neighbor
 * najlo - nail; stud
 * nano - dwarf
+* nardo - nard (spikenard)
 * narkotaĵo - narcotic
 * naski - to give birth
+* naskiĝdoloro - birth pain
 * naskiĝejo - birthplace
 * naskiĝi - to be born
 * naskiĝloko - birthplace
@@ -5324,6 +5557,7 @@
 * naŭ - nine
 * naŭa - ninth
 * naŭdek - ninety
+* naŭn - ninth
 * naŭzo - disgust
 * ne - no; not
 * ne aŭdi - to unhear
@@ -5334,6 +5568,7 @@
 * ne solvi - to unresolve
 * neado - denial
 * neafekti - to unaffect
+* neantaŭlavi - not to wash beforehand
 * nebula - foggy
 * nebuleco - blur
 * nebuleto - mist
@@ -5349,6 +5584,7 @@
 * nedeziri - to not want
 * neebla - impossible
 * neenkorporigi - to unincorporate
+* neestingebla - unquenchable
 * neevitebla - inevitable
 * nefari - to commit crimes
 * nefizika - non-physical
@@ -5360,20 +5596,29 @@
 * negoco - business
 * nei - to deny
 * neintence - unintentionally
+* neiĝi - to snow
 * nek - neither; nor
 * nekapabla - unable
 * neklara - unclear
 * nekoherenco - inconsistency
 * nekonata - unknown
 * nekoni - to not know
+* nekonsideri - to disregard
 * nekontroli - to uncheck
 * nekredebla - incredible
+* nekredemo - disbelief
+* nekredo - disbelief
+* nemanlavi - not to wash hands
+* nene - nowhere
 * nenecesa - unnecessary
 * nenia - no kind of
 * neniam - never
+* neniel - in no way
 * nenio - nothing
+* neniom - none
 * neniomaniere - in no way; by no means
 * neniu - no one; nobody; none
+* neniujn - no one
 * neniun - no one
 * nenormalaĵo - abnormality
 * nepo/nepino - grandkid
@@ -5389,6 +5634,7 @@
 * nesekureco - insecurity
 * nesinkrona - asynchronous
 * nesperta - inexperienced
+* nesti - to nest
 * nestingebla - unquenchable
 * nestiĝejo - roost
 * nesto - nest
@@ -5398,8 +5644,10 @@
 * nevo - nephew
 * neĝero - snowflake
 * neĝi - to snow
+* neĝo - snow
 * neŝanceliĝa - unwavering
 * neŝanĝebla - unchangeable
+* neŝrumpi - not to shrink
 * neŭrologia - neurological
 * neŭrono - neuron
 * neŭroscienco - neuroscience
@@ -5410,6 +5658,7 @@
 * ni mem - ourselves
 * nia - our
 * nigra - black
+* nin - us
 * nivela - level (adjective)
 * nivelilo - grader
 * nivelo - level; tier
@@ -5527,6 +5776,7 @@
 * oj - plural suffix
 * ojn - plural object suffix
 * ok - eight
+* oka - eighth
 * okaza - occasional
 * okazaĵo - event; occurrence; happening; incident
 * okaze - on the occasion of; occasionally
@@ -5543,6 +5793,7 @@
 * okulglobo - eyeball
 * okulharo - eyelash
 * okulo - eye
+* okulvidi - to witness
 * okulvitro - eyeglass
 * okulvitroj - goggle
 * okupanto - occupant
@@ -5556,7 +5807,9 @@
 * olivo - olive
 * omaĝe - in homage
 * ombrelo - umbrella
+* ombri - to shade
 * ombro - shadow; shade
+* ombrumi - to overshadow
 * omeleto - omelette
 * omo - ohm (unit of electrical resistance)
 * ondeto - ripple
@@ -5575,6 +5828,7 @@
 * opinii - to think; to opine; to opinionate
 * opinio - opinion
 * oportuna - convenient
+* oportune - opportunely
 * oportuno - convenience
 * opozicio - opposition
 * optika - optic; optical
@@ -5589,6 +5843,7 @@
 * orbita - orbital
 * orbito - orbit
 * ordeno - order (as in a decoration)
+* ordige - orderly
 * ordigi - to arrange
 * ordigita - tidy
 * ordinara - ordinary
@@ -5703,6 +5958,8 @@
 * parazito - parasite
 * paraŝuto - parachute
 * pardoni - to forgive
+* pardonigi - to forgive
+* pardono - pardon
 * pardonpeti - to apologize
 * pardonpeto - apology
 * parenco - relative
@@ -5751,6 +6008,8 @@
 * pastaĵo - paste
 * pasto - meal; dough; pastry; pasta
 * pastro - priest
+* pastrodivizio - priestly division
+* pastrofico - priest's son
 * pastrulo - parson
 * pasvorto - password
 * patento - patent
@@ -5782,6 +6041,7 @@
 * pecon - chunk
 * pedalo - pedal
 * pejzaĝo - landscape
+* peka - sinful
 * pekano - pecan
 * peki - to sin
 * peko - sin; trespass
@@ -5828,9 +6088,12 @@
 * perei - to perish
 * pereo - destruction; doom
 * perfekta - perfect
+* perfektigi - to perfect
 * perfidi - to betray
 * perforta - violent
+* perforte - by force
 * perforto - rape; violence
+* perfortulo - bully
 * periferia - peripheral
 * periferio - outskirt
 * perioda - periodic
@@ -5839,10 +6102,13 @@
 * perlo - pearl; bead
 * permesi - to permit; to allow
 * permesilo - licence
+* permesinti - to have allowed
 * permeso - permission
+* perono - platform
 * perpetri - to perpetrate
 * persekuti - to persecute; to prosecute
 * persekutisto - prosecutor
+* persekuto - persecution
 * persiko - peach
 * persisteco - persistence
 * persisti - to persist
@@ -5858,6 +6124,7 @@
 * perturbi - to derange
 * perturbo - disturbance
 * peruko - wig
+* perversa - perverse
 * perversi - to pervert
 * perĉo - perch
 * peso - peso
@@ -5874,6 +6141,7 @@
 * petolaĵo - prank; mischief
 * petorespondo - request response
 * peza - heavy
+* peze - heavily
 * pezi - to weigh
 * pezo - weight
 * peĉo - pitch
@@ -5948,18 +6216,21 @@
 * platigi - to flatten
 * plato - plate; dish; slab
 * plaĉa - pleasant
+* plaĉe - pleasantly
 * plaĉi - to please
 * plaĝo - beach
 * plej - most
 * plej ekstera - outermost
 * plej malbona - worst
 * plej malproksima - furthest
+* plejaltulo - high priest
 * plejaĝulo - elder
 * plejmulto - majority
 * plejparte - mostly
 * plejparto - majority
 * plekti - to braid
 * plena - full
+* plendado - complaining
 * plendanto - plaintiff
 * plendi - to complain; to lament
 * plendo - complaint; grievance; gripe
@@ -5986,6 +6257,7 @@
 * pliboni - to improve
 * plibonigi - to improve; to enhance; to upgrade
 * plibonigo - improvement; enhancement
+* pliboniĝi - to improve
 * plie - furthermore
 * plifaciligi - to facilitate
 * plifortigi - to strengthen; to reinforce
@@ -6000,6 +6272,7 @@
 * plilarĝigi - to broaden
 * plilongigi - to elongate; to prolong
 * plimalbonigi - to aggravate; to exacerbate; to worsen
+* plimalboniĝi - to worsen
 * plimulto - majority
 * plivastigi - to widen
 * plonĝi - to dive
@@ -6011,8 +6284,10 @@
 * plua - additional
 * plue - further; moreover
 * pluiri - to go further
+* pluki - to pluck
 * plumaro - plumage
 * plumo - feather; pen
+* plumstrio - pen stroke
 * plura - several
 * pluraj - several
 * plurfoje - several times
@@ -6037,6 +6312,7 @@
 * poezia - poetic
 * poezio - poetry
 * pojno - wrist
+* pokalo - cup
 * polarizado - polarization
 * polarizo - polarization
 * polemiko - polemic
@@ -6077,6 +6353,7 @@
 * pordaperturo - doorway
 * pordego - gate; gateway
 * pordo - door
+* pordogardisto - doorkeeper
 * poreto - pore
 * porkaĵo - pork
 * porko - pig; hog
@@ -6087,6 +6364,7 @@
 * portebla - portable
 * portfoliero - portfolio
 * porti - to carry; to wear
+* portiko - portico
 * portreti - to portray
 * portreto - portrait
 * posedanto - owner
@@ -6100,6 +6378,7 @@
 * posteno - position; post
 * posteulo - successor
 * postmodernismo - postmodernism
+* postparto - after birth
 * postpensado - afterthought
 * posttagmezo - afternoon
 * postuli - to demand; to require
@@ -6147,6 +6426,7 @@
 * precize - precisely
 * precizeco - precision
 * predanto - predator
+* predikado - preaching
 * prediki - to preach
 * predikisto - preacher
 * prediko - sermon
@@ -6158,6 +6438,7 @@
 * preleganto - lecturer
 * prelego - lecture
 * premado - pressure
+* preme - urgently
 * premegi - to crush
 * premgrupo reprezentanto - lobbyist
 * premi - to press; to squash; to squeeze
@@ -6173,6 +6454,7 @@
 * prenita - taken
 * preno - taking
 * preparado - preparation
+* preparado-tago - preparation day
 * prepari - to prepare; to groom; to prep
 * prepariteco - preparedness
 * preparo - preparation
@@ -6184,12 +6466,16 @@
 * preskribi - to prescribe
 * preskripta - prescriptive
 * preta - ready
+* preteksto - pretext
 * preter - past; beyond
+* preteriri - to pass by
 * preterlasi - to omit; to skip
 * preterlaso - omission
 * preterpasi - to pass by; to bypass
 * pretervidi - to overlook
 * pretigi - to prepare; to make ready
+* pretorejo - praetorium
+* pretorio - praetorium
 * preventado - prevention
 * preventi - to prevent
 * preventiva - preventive
@@ -6224,6 +6510,7 @@
 * prioritatigi - to prioritize
 * prioritato - priority
 * prioritigi - to prioritize
+* priparoli - to discuss
 * pripensado - deliberation
 * pripensi - to consider; to ponder
 * prirabi - to rob
@@ -6306,6 +6593,7 @@
 * proksima - close; near
 * proksime - near; closely
 * proksimeco - proximity
+* proksimiĝi - to approach
 * proksimulo - neighbor; fellow man
 * proksimume - approximately
 * prokurilo - proxy
@@ -6328,6 +6616,7 @@
 * propra - own; personal
 * propreco - property; characteristic
 * proprieto - equity
+* proprio - property
 * propulsi - to propel
 * propulsilo - thruster
 * prosperi - to prosper; to thrive
@@ -6355,6 +6644,8 @@
 * provizore - temporarily
 * provo - attempt; test; rehearsal
 * provoki - to provoke
+* prozeli - to proselytize
+* prudentulo - wise person
 * prujno - frost
 * pruno - plum
 * pruntedonanto - lender
@@ -6394,6 +6685,7 @@
 * puni - to punish
 * punkti - to dot; to point
 * punkto - point
+* puno - punishment
 * pupo - doll; puppet
 * pura - clean; pure
 * pure - purely
@@ -6402,6 +6694,7 @@
 * purigilo - cleanser
 * purigisto - cleaner
 * purpura - purple
+* purpuro - purple
 * pursuado - pursuit
 * putra - rotten
 * puŝado - pushing
@@ -6409,6 +6702,7 @@
 * puŝo - push
 
 ## r
+* raba - predatory
 * rabado - robbery
 * rabato - discount; rebate
 * rabaĵo - plunder
@@ -6417,6 +6711,7 @@
 * rabisto - robber
 * rabitaĵo - booty
 * rabobirdo - raptor
+* raboni - to rob
 * raca - foolish (slang term derived from "racio" meaning reason, not standard Esperanto)
 * racia - rational; reasonable
 * racio - reason; ration
@@ -6506,6 +6801,7 @@
 * redaktoro - editor
 * redefini - to redefine
 * redezajni - to redesign
+* redoni - to give back
 * redukti - to reduce
 * redukto - reduction
 * reeldonado - reprint
@@ -6528,6 +6824,7 @@
 * refreŝigi - to refresh
 * refreŝigo - refreshment
 * regado - ruling; governance; dominion
+* regajni - to regain
 * regalo - goodie
 * reganto - ruler; governor; regent
 * regi - to rule; to govern
@@ -6586,14 +6883,18 @@
 * relative - relatively
 * relativismo - relativism
 * relerni - to relearn
+* releviĝi - to rise again
 * reliefi - to emboss
 * religia - religious
 * religio - religion
 * relikvo - relic
 * relo - rail
+* remado - rowing
 * remalfermi - to reopen
 * rememori - to remember; to recall
 * rememoro - recollection
+* remeti - to put back
+* remezuri - to remeasure
 * remiksi - to remix
 * remilo - oar; paddle
 * remodeli - to remodel
@@ -6602,6 +6903,7 @@
 * rendimento - yield
 * rendimento-mezuro - performance measurement
 * renesanca - renaissance
+* renki - to grudge
 * renkonti - to meet; to encounter
 * renkontiĝi - to meet; to come together
 * renkontiĝloko - hangout
@@ -6691,6 +6993,7 @@
 * retoŝtopiĝo - network congestion
 * retpaĝo - webpage
 * retrankviligi - to reassure
+* retransiri - to cross back
 * retrosciigo - feedback
 * retrospektivo - flashback
 * retseminario - webinar
@@ -6739,6 +7042,7 @@
 * rezulto - result; outcome
 * reĝa - royal; regal
 * reĝeco - royalty; kingship
+* reĝeneracio - regeneration
 * reĝi - to reign
 * reĝimo - regime
 * reĝino - queen
@@ -6773,6 +7077,7 @@
 * rikolti - to harvest
 * rikoltisto - harvester; reaper
 * rikolto - harvest; crop
+* rikoltotempo - harvest time
 * rilaksi - to relax
 * rilata - related; relevant
 * rilate - relating to
@@ -6800,6 +7105,7 @@
 * ripozi - to rest
 * ripozo - rest
 * riproĉi - to reproach
+* riproĉo - reproach
 * riski - to risk
 * risko - hazard
 * ritmo - rhythm
@@ -6834,6 +7140,7 @@
 * rompanto - breaker
 * rompi - to break
 * rompita - broken
+* rompitaĵo - breakage
 * rompo - break; fracture; breach
 * rondiro - bout
 * rondo - circle; round; hoop; lap (in racing)
@@ -6856,6 +7163,7 @@
 * rulado - roller; scroll
 * ruldomo - trailer
 * ruli - to roll
+* ruligi - to roll
 * rulilo - caster
 * ruliĝi - to roll
 * rulseĝo - wheelchair
@@ -6886,10 +7194,13 @@
 * sablo - sand
 * sabloludejo - sandbox
 * sabro - sabre
+* sacrifico - sacrifice
 * safaro - safari
 * safiro - sapphire
 * safrano - saffron
 * sago - arrow; dart; saga
+* sakaĵo - baggage
+* sake - for the sake of
 * saketo - pouch
 * sako - sack; bag
 * sakotuko - sackcloth
@@ -6897,6 +7208,7 @@
 * salajro - salary; wage
 * salajrĉeko - paycheck
 * salato - salad
+* saleco - saltiness
 * sali - to salt
 * saliko - willow
 * salmo - psalm
@@ -6914,6 +7226,7 @@
 * samkiel - just as; like
 * samlandano - countryman
 * samloke - in the same place
+* sammaniere - in the same way
 * samnoma - having the same name
 * samo - same
 * samseksemulo - homosexual
@@ -6922,13 +7235,17 @@
 * sana - healthy
 * sandalo - sandal
 * sandviĉo - sandwich
+* sanga - bloody
 * sangi - to bleed
 * sango - blood
 * sangofluado - bleeding; blood flow
+* sangofluo - bleeding
 * sanigi - to heal
 * sanitara - sanitary
+* saniĝi - to recover
 * sankcio - sanction
 * sankta - holy; sacred
+* sankteco - holiness
 * sanktejo - sanctuary; shrine
 * sanktigi - to sanctify; to consecrate; to enshrine
 * sanktolei - to anoint
@@ -6943,7 +7260,10 @@
 * saturigi - to saturate
 * savado - salvation
 * savi - to save; to rescue; to salvage
+* saviĝi - to be saved
+* savo - salvation
 * saĝa - wise
+* saĝe - wisely
 * saĝeco - wisdom
 * saĝo - wisdom
 * saĝtelefono - smartphone
@@ -6977,7 +7297,9 @@
 * seka - dry
 * sekcio - section
 * sekego - drought
+* sekigi - to dry
 * sekigilo - dryer
+* sekiĝi - to dry up
 * sekreta - secret
 * sekretario - secretary
 * sekrete - secretly
@@ -7013,8 +7335,10 @@
 * semestro - semester
 * semi - to sow
 * seminario - seminar
+* semisto - sower
 * semo - seed
 * sen - without
+* senakva - without water
 * senakvigi - to dehydrate
 * senatano - senator
 * senato - senate
@@ -7028,18 +7352,22 @@
 * sendinto - sender
 * sendrata - wireless
 * senfermenta - unleavened
+* senfermentpana - unleavened
 * senfina - endless
+* senfrukta - barren
 * senhara - bald
 * senhejma - homeless
 * senhejmiĝo - homelessness
 * senhomigi - to unman
 * seniluziigi - to disillusion
 * senjunta - seamless
+* senkapigi - to behead
 * senkaŭze - without cause
 * senkolora - colorless
 * senkora - callous
 * senkulpa - innocent
 * senkulpigi - to acquit
+* senkulpulo - innocent person
 * senlaboreco - unemployment
 * senlaboro - unemployment
 * senlima - limitless
@@ -7052,11 +7380,14 @@
 * senpilota aviadilo - drone
 * senprecedenca - unprecedented
 * senprobleme - without problems
+* senprofita - profitless
+* senriproĉe - blamelessly
 * sensa - sensible; meaningful
 * sensacio - sensation
 * sensilo - sensor
 * sensiveco - sensitivity
 * senso - sense
+* senspraĉa - speechless
 * sentema - sensitive
 * sentemo - sensibility
 * senti - to feel
@@ -7103,10 +7434,12 @@
 * ses - six
 * sesa - sixth
 * sesdek - sixty
+* sesdekoble - sixtyfold
 * sesio - session
 * setlejo - settlement
 * setli - to settle
 * severa - severe; strict
+* severe - severely
 * sezono - season
 * seĝeto - stool
 * seĝo - chair
@@ -7120,6 +7453,7 @@
 * sidi - to sit
 * sidiĝi - to sit down
 * sidvango - buttock
+* sigeli - to seal
 * signali - to signal
 * signalo - cue; signal
 * signifa - significant
@@ -7129,6 +7463,8 @@
 * signifo - meaning; significance
 * signo - sign
 * silenta - silent
+* silenti - to be silent
+* silentigi - to silence
 * silento - silence
 * silico - silicon
 * silka - silken; made of silk
@@ -7157,6 +7493,7 @@
 * simuli - to simulate
 * simulilo - simulator
 * sin - oneself
+* sinagogestro - ruler of the synagogue
 * sinagogo - synagogue
 * sindikato - syndicate
 * sindona - devoted; selfless
@@ -7165,6 +7502,8 @@
 * singulto - hiccup
 * sinjorino - lady; madam
 * sinjoro - Mr.; sir; gent (informal); gentleman; lord
+* sinjorregi - to lord over
+* sinki - to sink
 * sinkrona - synchronous
 * sinkronigi - to synchronize; to sync
 * sino - lap
@@ -7197,6 +7536,7 @@
 * skani - to scan
 * skanilo - scanner
 * skarabo - beetle
+* skarli - to mock
 * skarpo - scarf
 * skeleto - skeleton
 * skemo - scheme
@@ -7209,6 +7549,7 @@
 * skizo - draft; sketch
 * sklava - slave; enslaved
 * sklaveco - slavery
+* sklavino - female slave
 * sklavo - slave
 * skolastiko - scholasticism
 * skolo - school (historical, philosophical)
@@ -7225,16 +7566,20 @@
 * skribisto - scribe
 * skribo - writing; scripture (sankta)
 * skribotablo - desk
+* skribtablulo - writing tablet
 * skripto - script
 * skrubilo - scrubber
 * skuadi - to shake
 * skuetilo - shaker
 * skui - to shake
+* skuiti - to shake
+* skuiĝi - to shake
 * skulptado - sculpting
 * skulptaĵo - sculpture
 * skulpti - to sculpt
 * skulptisto - sculptor
 * skurgi - to scourge; to whip
+* skurĝi - to scourge
 * skvamo - scale (as in fish scale)
 * smeraldo - emerald
 * socia - social
@@ -7322,6 +7667,7 @@
 * sperti - to experience
 * sperto - experience
 * spicaĵo - seasoning
+* spici - to spice
 * spico - spice
 * spiko - skewer
 * spinaco - spinach
@@ -7367,9 +7713,11 @@
 * stariĝi - to stand up; to rise
 * startupo - startup
 * startŝarĝilo - bootstrap
+* statera - stater (coin)
 * statika - static
 * statistika - statistical
 * statistiko - statistics; statistic
+* stativego - large stand
 * stato - state (condition)
 * statuo - statue
 * statuso - status; standing
@@ -7530,6 +7878,7 @@
 * supera - superior
 * superbazaro - supermarket
 * superdozo - overdose
+* superfluo - superfluity
 * superforti - to overpower
 * superheroo - superhero
 * superi - to overcome; to surpass; to exceed; to trump
@@ -7547,6 +7896,7 @@
 * superregi - to prevail
 * superrigardanto - supervisor
 * superrigardo - overview
+* superskribo - superscription
 * superstelulo - superstar
 * supervivanto - survivor
 * supervivi - to survive
@@ -7557,22 +7907,30 @@
 * supozi - to suppose; to assume; to presume
 * supozo - assumption
 * supra - upper; above
+* supraĵa - superficial
 * supre - above; up
 * suprema - supreme
 * supren - up; upstairs; upward
 * supreniranto - riser
 * supreniri - to go up; to ascend
+* suprenrigardi - to look up
+* suprenveni - to come up
 * supro - top; summit
 * sur - on; onto; upon
 * surbaza - based on
 * surbaze - based on
+* surda - deaf
 * surdigi - to muffle
+* surdulo - deaf person
 * surfaco - surface
 * surfisto - surfer
 * surmeti - to put on; to don
 * surprizi - to surprise
 * surprizo - surprise
+* surskribo - inscription
+* surteren - on the ground
 * surteriĝo - landing
+* survoje - on the way
 * surĉerpi - to skim
 * suspekti - to suspect
 * suspekto - suspicion
@@ -7582,6 +7940,7 @@
 * susurema - rustling; whispering
 * suĉi - to suck
 * suĉilo - sucker
+* suĉinfano - suckling
 * sveni - to faint
 * svingiĝi - to swing
 
@@ -7594,6 +7953,8 @@
 * tablojdo - tablet
 * tabulo - board; panel; dashboard
 * taga - daily
+* tage - during the day
+* tagiĝi - to dawn
 * tagiĝo - dawn
 * taglibro - diary
 * tagmanĝi - to have lunch
@@ -7628,6 +7989,7 @@
 * tapiŝeto - rug
 * tapiŝo - carpet
 * tarifo - fare; rate; tariff
+* taseto - saucer
 * tasketo - chore
 * tasko - task; assignment
 * taso - cup
@@ -7635,6 +7997,7 @@
 * tavolo - layer; stratum
 * taĉmento - detachment
 * taŭga - suitable; appropriate; fitting; apt
+* taŭge - suitably
 * taŭgi - to be suitable; to fit
 * tealo - teal
 * teama - team
@@ -7682,6 +8045,7 @@
 * tempotabelo - timesheet
 * tenado - holding
 * tendara - tender
+* tendari - to camp
 * tendarigi - to encamp
 * tendaro - camp
 * tendenco - tendency; trend
@@ -7707,6 +8071,7 @@
 * teraso - terrace
 * tereno - terrain
 * teritorio - territory
+* terkultivisto - farmer
 * terminalo - terminal
 * termino - term
 * terminologio - terminology
@@ -7717,6 +8082,7 @@
 * terpeco - plot
 * terpomo - peanut; potato
 * terposedanto - landowner
+* terprofundeco - depth of the earth
 * tertiara - tertiary
 * tertremo - earthquake
 * tertruo - burrow
@@ -7733,6 +8099,7 @@
 * testo - test
 * testrezulto - test result
 * testudo - turtle; tortoise
+* tetrarko - tetrarch
 * tia - such; like that
 * tial - therefore
 * tiam - then; at that time
@@ -7741,15 +8108,18 @@
 * tie - there
 * tiea - of that place
 * tiel - so; thus
+* tiele - thus
 * tien - there; to there
 * ties - of his/hers/its
 * tigro - tiger
 * tiki - to tick
 * time - timidly; fearfully
 * timema - afraid
+* timeo - fear
 * timi - to fear
 * timiga - scary
 * timigi - to frighten; to scare
+* timiĝi - to become frightened
 * timo - fear; dread
 * tineo - moth
 * tingo - ding
@@ -7775,6 +8145,7 @@
 * tiu - that (person or thing)
 * tiuj - those
 * tiujn - those
+* tiun - that (object)
 * tiutempe - at that time
 * tofuo - tofu
 * toksino - toxin
@@ -7856,6 +8227,7 @@
 * transporti - to transport
 * transpreni - to take over
 * transskribo - transcript
+* transveturi - to travel across
 * tranĉaĵo - cutting
 * tranĉeo - trench
 * tranĉi - to slash
@@ -7868,10 +8240,12 @@
 * travivi - to experience; to live through
 * traŭmatizi - to traumatize
 * tre - very
+* trege - very slowly
 * trejnado - training
 * trejni - to train
 * trejnisto - coach; trainer
 * tremi - to tremble
+* tremo - tremor
 * trempi - to dip; to drench
 * treni - to drag
 * trezorejo - treasury
@@ -7882,12 +8256,15 @@
 * tribo - tribe
 * tribunalo - tribunal; court; courtroom
 * tributo - tribute
+* tricent - three hundred
 * tridek - thirty
+* tridekoble - thirtyfold
 * triki - to knit
 * triliono - trillion
 * trinkanto - drinker
 * trinkaĵo - beverage
 * trinki - to drink; draught (in the context of a draft of a drink)
+* trinkigi - to make drink
 * tripla - triple
 * tritiko - wheat
 * triumfo - triumph
@@ -7897,7 +8274,9 @@
 * trofeo - trophy
 * troigi - to exaggerate; to overstate
 * trolo - troll
+* trompemo - deceitfulness
 * trompi - to cheat; to deceive; to mislead
+* trompo - deception
 * trono - throne
 * tropika - tropical
 * tropiko - tropic
@@ -7911,6 +8290,7 @@
 * troviĝi - to be found; to be located
 * trovo - finding
 * troŝarĝi - to overload
+* trueto - small hole
 * trufelo - truffle
 * trumpeto - trumpet
 * trunko - trunk
@@ -7931,10 +8311,12 @@
 * turbino - turbine
 * turbo - turbo
 * turbokompressori - to turbocharge
+* tureto - turret
 * turisma - touristic
 * turismo - tourism
 * turisto - tourist
 * turmenti - to torment; to badger
+* turmentisto - tormentor
 * turmento - torment
 * turni - to turn; to spin
 * turniro - tournament
@@ -7944,6 +8326,7 @@
 * turo - tower; rook (en ŝako); turret
 * tusi - to cough
 * tuta - whole; entire
+* tutbrula - completely burnt
 * tute - completely; entirely; totally; utterly
 * tutmonda - worldwide
 * tutmonde - worldwide
@@ -8081,7 +8464,9 @@
 * vampiro - vampire
 * vana - vain
 * vandalo - vandal
+* vane - in vain
 * vango - cheek
+* vangofrapi - to slap on the cheek
 * vanilo - vanilla
 * vaporiĝi - to evaporate
 * vaporo - steam
@@ -8098,6 +8483,7 @@
 * varmarko - trademark
 * varme - warmly
 * varmeco - warmth
+* varmigi - to heat
 * varmo - warmth; heat
 * varmpunkto - hotspot
 * varo - goods; commodity; ware
@@ -8143,6 +8529,7 @@
 * ventolilo - ventilator
 * ventopasejo - breezeway
 * ventoŝildo - windshield
+* ventoŝtormo - windstorm
 * ventro - belly
 * ventumilo - fan
 * venĝanto - avenger
@@ -8172,6 +8559,9 @@
 * verŝajne - probably
 * verŝi - to pour
 * vespera - evening
+* vespere - in the evening
+* vesperiĝi - to become evening
+* vespermanĝa - evening meal
 * vespermanĝi - to dine
 * vespermanĝo - supper; dinner
 * vespero - evening
@@ -8230,16 +8620,22 @@
 * vilaĝeto - small village
 * vilaĝo - village
 * vilo - villa
+* vin - you (object)
 * vinagro - vinegar
 * vinberejo - vineyard
 * vinbero - grape
+* vinberujo - vineyard
 * vinberĝardeno - vineyard
 * vindotuko - diaper
 * vinfarejo - winery
 * vino - wine
+* vinpremejo - winepress
+* vinpremilo - winepress
 * vinsako - wineskin
+* vintre - in winter
 * vintro - winter
 * violino - violin
+* vipero - viper
 * vipfrapo - lash
 * vipuro - viper
 * vira - male
@@ -8251,6 +8647,7 @@
 * virinoj - women
 * viro - man
 * viroj - men
+* viropersono - male person
 * viroventego - whirlpool
 * virseksa - male (derived from "virseksulo" for "male person")
 * virte - virtually
@@ -8275,7 +8672,9 @@
 * vivo - life
 * vivstilo - lifestyle
 * vivtenado - livelihood
+* vivteni - to sustain life
 * vizaĝo - face
+* vizio - vision
 * vizitanto - visitor
 * viziti - to visit
 * vizitita - visited
@@ -8292,6 +8691,8 @@
 * vojeto - lane; pathway
 * vojo - road; way; roadway
 * vojpunkto - waypoint
+* vojrande - by the roadside
+* vojrando - edge of the road
 * vokala - vowel
 * vokanto - caller; summoner
 * voki - to call
@@ -8301,6 +8702,7 @@
 * volontulo - volunteer
 * volto - volt
 * volumo - volume
+* volupta - voluptuous
 * volvaĵo - coil
 * voradi - to devour
 * vorta - verbal; word
@@ -8320,11 +8722,13 @@
 * voĉo - voice
 * vulkano - volcano
 * vulpo - fox
+* vulturo - vulture
 * vundebleco - vulnerability
 * vundi - to hurt; to injure
 * vundo - injury; wound
 
 ## z
+* zakaŭjo - sackcloth
 * zapi - to zap
 * zebro - zebra
 * zeloto - zealot
@@ -8458,6 +8862,7 @@
 * ĝardenisto - gardener
 * ĝardeno - garden
 * ĝemelo - twin
+* ĝemi - to moan
 * ĝemo - gem; groan
 * ĝenerala - general; generic
 * ĝenerale - generally; overall
@@ -8564,6 +8969,7 @@
 * ŝarĝo - burden; payload; cargo
 * ŝarĝtempo - load time
 * ŝati - to like
+* ŝaŭmi - to foam
 * ŝedo - shed
 * ŝejko - sheikh
 * ŝekelo - shekel
@@ -8572,7 +8978,7 @@
 * ŝerco - joke
 * ŝerifo - sheriff
 * ŝi - she
-* ŝia - her (possessive)
+* ŝia - her (possessive); her
 * ŝika - chic; fancy
 * ŝimo - mold
 * ŝin - her (object)
@@ -8619,10 +9025,14 @@
 * ŝtelo - theft
 * ŝtofo - fabric; cloth
 * ŝtonangulo - cornerstone
+* ŝtoneca - stony
 * ŝtonego - cairn (a pile of stones as a memorial or marker)
 * ŝtonejo - quarry
 * ŝtoneto - pebble
+* ŝtoni - to stone
+* ŝtonmuelilo - millstone
 * ŝtono - stone
+* ŝtonumi - to stone
 * ŝtopilo - plug; stopper
 * ŝtopiĝo - clog; jam
 * ŝtormo - storm
