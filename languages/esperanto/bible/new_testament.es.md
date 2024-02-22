@@ -301,7 +301,7 @@ Dum tiuj iris sian vojon, Jesuo komencis diri al la homamasoj pri Johano, "Kion 
 
 "Sed al kio mi komparos ĉi tiun generacion? Ĝi estas kiel infanoj sidantaj en la bazaroj, kiuj vokas al siaj kunuloj kaj diras, 'Ni ludis fluton por vi, kaj vi ne dancis. Ni ploris por vi, kaj vi ne lamentis.' Ĉar Johano venis nek manĝante nek trinkante, kaj ili diras, 'Li havas demonon.' La Filo de Homo venis manĝante kaj trinkante, kaj ili diras, 'Jen viro glutema kaj drinkemulo, amiko de impostistoj kaj pekuloj!' Sed saĝeco estas pravigita de siaj infanoj."
 
-Tiam li komencis riproĉi la urbojn, en kiuj plej multe da liaj potencaj faroj estis faritaj, ĉar ili ne pentis. "Ve al vi, Ĥorazin! Ve al vi, Betsaida! Ĉar se la potencaj faroj, kiuj estis faritaj en vi, estus faritaj en Tiro kaj Sidono, ili jam de longe pentus en sakaĵo kaj cindro. Sed mi diras al vi, estos pli tolereble por Tiro kaj Sidono en la tago de juĝo ol por vi. Kaj vi, Kapernaumo, kiu estas alte levita ĝis la ĉielo, vi estos mallevita ĝis Hadesto. Ĉar se la potencaj faroj, kiuj estis faritaj en vi, estus faritaj en Sodomo, ĝi restus ĝis hodiaŭ. Sed mi diras al vi, ke estos pli tolereble por la lando de Sodomo en la tago de juĝo, ol por vi."
+Tiam li komencis riproĉi la urbojn, en kiuj plej multe da liaj potencaj faroj estis faritaj, ĉar ili ne pentis. "Ve al vi, Ĥorazin! Ve al vi, Betsaida! Ĉar se la potencaj faroj, kiuj estis faritaj en vi, estus faritaj en Tiro kaj Sidono, ili jam de longe pentus en sakaĵo kaj cindro. Sed mi diras al vi, estos pli tolereble por Tiro kaj Sidono en la tago de juĝo ol por vi. Kaj vi, Kapernaumo, kiu estas alte levita ĝis la ĉielo, vi estos mallevita ĝis Hadeso. Ĉar se la potencaj faroj, kiuj estis faritaj en vi, estus faritaj en Sodomo, ĝi restus ĝis hodiaŭ. Sed mi diras al vi, ke estos pli tolereble por la lando de Sodomo en la tago de juĝo, ol por vi."
 
 En tiu tempo, Jesuo respondis, "Mi dankas vin, Patro, Sinjoro de la ĉielo kaj la tero, ke vi kaŝis ĉi tiujn aferojn de la saĝuloj kaj prudentuloj, kaj malkaŝis ilin al infanetoj. Jes, Patro, ĉar tiel estis plaĉe en via vidpunkto. Ĉio estis transdonita al mi de mia Patro. Neniu konas la Filon, escepte de la Patro; nek iu konas la Patron, escepte de la Filo kaj tiu, al kiu la Filo deziras malkaŝi lin.
 
@@ -591,7 +591,7 @@ Tiam Petro venis kaj diris al li, "Sinjoro, kiom ofte mia frato pekos kontraŭ m
 
 Jesuo diris al li, "Mi ne diras al vi ĝis sep fojoj, sed, ĝis sepdek fojojn sep. Tial la Regno de la Ĉielo similas al certa reĝo, kiu volis kvitanci kun siaj servistoj. Kiam li komencis kvitanci, unu estis alportita al li, kiu ŝuldis al li dek mil talentojn. Sed ĉar li ne povis pagi, lia sinjoro ordonis, ke li estu vendita, kun sia edzino, siaj infanoj, kaj ĉio, kion li havis, kaj pago farota. La servisto tial falis malsupren kaj genufleksis antaŭ li, dirante, 'Sinjoro, havu paciencon kun mi, kaj mi repagos al vi ĉion!' La sinjoro de tiu servisto, moviĝinte per kompato, liberigis lin kaj pardonis al li la ŝuldon.
 
-"Sed tiu servisto eliris kaj trovis unu el siaj kunuloj servistoj, kiu ŝuldis al li cent denariojn, kaj li kaptis lin kaj prenis lin je la gorĝo, dirante, 'Pagigu al mi tion, kion vi ŝuldas!'"
+"Sed tiu servisto eliris kaj trovis unu el siaj kunuloj servistoj, kiu ŝuldis al li cent denariojn, kaj li kaptis lin kaj prenis lin je la gorĝo, dirante, 'Pagu al mi tion, kion vi ŝuldas!'"
 
 "Do lia kunulo servisto falis ĉe liaj piedoj kaj petegis lin, dirante, 'Havu paciencon kun mi, kaj mi repagos al vi!' Li ne volis, sed iris kaj ĵetis lin en malliberejon ĝis li repagus tion, kio estis ŝuldata. Do kiam liaj kunuloj servistoj vidis kion estis farite, ili estis ekstreme malĝojaj, kaj venis kaj rakontis al sia sinjoro ĉion, kio estis farita. Tiam lia sinjoro vokis lin kaj diris al li, 'Vi malbona servisto! Mi pardonis al vi ĉiun tiun ŝuldon ĉar vi petegis min. Ĉu vi ne devus ankaŭ havi kompaton al via kunulo servisto, same kiel mi havis kompaton al vi?' Lia sinjoro koleriĝis, kaj transdonis lin al la turmentistoj ĝis li repagus ĉion, kio estis ŝuldata al li. Tiel mia ĉiela Patro ankaŭ faros al vi, se vi ne ĉiu pardonos al via frato el viaj koroj pro liaj malbonfaroj."
 
@@ -677,7 +677,7 @@ Kiam ili alproksimiĝis al Jerusalemo kaj venis al Betfage, ĉe la monto de Oliv
 
 Ĉio tio okazis, por ke plenumiĝu tio, kio estis parolita per la profeto, dirante,
 
-"Diru al la filino de Cion,
+"Diru al la filino de Ciono,
 
 jen, via Reĝo venas al vi,
 
@@ -697,7 +697,7 @@ La lamenuloj kaj blinduloj venis al li en la templo, kaj li sanigis ilin. Sed ki
 
 Jesuo diris al ili, "Jes. Ĉu vi neniam legis, 'El la buŝo de infanoj kaj suĉinfanoj vi perfektigis laŭdon'?"
 
-Li lasis ilin kaj eliris el la urbo al Betania, kaj tie li tendaris.
+Li lasis ilin kaj eliris el la urbo al Betanio, kaj tie li tendaris.
 
 Nun matene, dum li revenis al la urbo, li malsatis. Vidante figarbon apud la vojo, li aliris ĝin kaj trovis nenion sur ĝi krom folioj. Li diris al ĝi, "De nun kaj por ĉiam estu neniu frukto de vi!"
 
@@ -865,7 +865,7 @@ Kiam Jesuo finis ĉiujn ĉi tiujn vortojn, li diris al siaj disĉiploj, "Vi scia
 
 Tiam la ĉefpastroj, la skribistoj kaj la plejaĝuloj de la popolo kolektiĝis en la korto de la ĉefpastro, kiu nomiĝis Kajafas. Ili konsiliĝis kune por per ruzo kapti Jesuon kaj mortigi lin. Sed ili diris, "Ne dum la festo, por ke ne okazu tumulto inter la popolo."
 
-Nun kiam Jesuo estis en Betania, en la domo de Simon la leprulo, virino aliris lin kun alabastra vazo de tre kosta ŝmiraĵo, kaj ŝi verŝis ĝin sur lian kapon dum li sidis ĉe la tablo. Sed kiam liaj disĉiploj vidis tion, ili indignis, dirante, "Kial ĉi tiu malŝparo? Ĉi tiu ŝmiraĵo povus esti vendita por multe kaj donita al la malriĉuloj."
+Nun kiam Jesuo estis en Betanio, en la domo de Simon la leprulo, virino aliris lin kun alabastra vazo de tre kosta ŝmiraĵo, kaj ŝi verŝis ĝin sur lian kapon dum li sidis ĉe la tablo. Sed kiam liaj disĉiploj vidis tion, ili indignis, dirante, "Kial ĉi tiu malŝparo? Ĉi tiu ŝmiraĵo povus esti vendita por multe kaj donita al la malriĉuloj."
 
 Tamen, sciante tion, Jesuo diris al ili, "Kial vi ĝenas la virinon? Ŝi faris bonan agon por mi. Ĉar vi ĉiam havas la malriĉulojn kun vi, sed vi ne ĉiam havas min. Ĉar verŝante ĉi tiun ŝmiraĵon sur mian korpon, ŝi faris ĝin por prepari min por entombigo. Plej certe mi diras al vi, kie ajn ĉi tiu Bonnovaĵo estos predikita en la tuta mondo, ankaŭ tio, kion ĉi tiu virino faris, estos parolata kiel memoro pri ŝi."
 
@@ -899,7 +899,7 @@ Jesuo diris al li, "Plej certe mi diras al vi, ke ĉi-nokte, antaŭ ol la koko k
 
 Petro diris al li, "Eĉ se mi devas morti kun vi, mi ne nei vin." Ankaŭ ĉiuj disĉiploj diris same.
 
-Tiam Jesuo venis kun ili al loko nomata Ĝetsemane, kaj diris al siaj disĉiploj, "Sidu ĉi tie, dum mi iras tie kaj preĝas." Li prenis kun si Petron kaj la du filojn de Zebedeo, kaj komencis esti malgaja kaj tre ĉagrenita. Tiam Jesuo diris al ili, "Mia animo estas ekstreme malgaja, eĉ ĝis morto. Restu ĉi tie kaj viglu kun mi."
+Tiam Jesuo venis kun ili al loko nomata Getsemane, kaj diris al siaj disĉiploj, "Sidu ĉi tie, dum mi iras tie kaj preĝas." Li prenis kun si Petron kaj la du filojn de Zebedeo, kaj komencis esti malgaja kaj tre ĉagrenita. Tiam Jesuo diris al ili, "Mia animo estas ekstreme malgaja, eĉ ĝis morto. Restu ĉi tie kaj viglu kun mi."
 
 Li iomete antaŭeniris, falis sur sian vizaĝon, kaj preĝis, dirante, "Mia Patro, se eblas, lasu ĉi tiun kalikon preterpasi min; tamen, ne kion mi deziras, sed kion vi deziras."
 
@@ -993,7 +993,7 @@ Sed la guberniestro diris, "Kial? Kian malbonon li faris?"
 
 Sed ili ekkriis ege, dirante, "Krucumu lin!"
 
-Do kiam Pilato vidis, ke nenio estis gajnita, sed male ke tumul to komenciĝis, li prenis akvon kaj lavis siajn manojn antaŭ la homamaso, dirante, "Mi estas senkulpa pri la sango de ĉi tiu justa persono. Vi mem vidu pri tio."
+Do kiam Pilato vidis, ke nenio estis gajnita, sed male ke tumulto komenciĝis, li prenis akvon kaj lavis siajn manojn antaŭ la homamaso, dirante, "Mi estas senkulpa pri la sango de ĉi tiu justa persono. Vi mem vidu pri tio."
 
 La tuta popolo respondis, "Lia sango estu sur ni kaj sur niaj infanoj!"
 
@@ -1063,13 +1063,13 @@ la voĉo de unu krianta en la dezerto,
 
 Rektigu liajn padojn!'"
 
-Johano venis baptante en la dezerto kaj predikante la bapton de pento por pardono de pekoj. La tuta lando de Judeo kaj ĉiuj el Jerusalem eliris al li. Ili estis baptitaj de li en la rivero Jordan, konfesante siajn pekojn. Johano estis vestita per kamelharo kaj ledzono ĉirkaŭ sia talio. Li manĝis lokustojn kaj sovaĝan mielon. Li predikis, dirante, "Post mi venas tiu, kiu estas pli potenca ol mi, la rimeno de kies sandaloj mi ne estas inda kliniĝi kaj malligi. Mi baptis vin en akvo, sed li baptos vin en la Sankta Spirito."
+Johano venis baptante en la dezerto kaj predikante la bapton de pento por pardono de pekoj. La tuta lando de Judeo kaj ĉiuj el Jerusalem eliris al li. Ili estis baptitaj de li en la rivero Jordano, konfesante siajn pekojn. Johano estis vestita per kamelharo kaj ledzono ĉirkaŭ sia talio. Li manĝis lokustojn kaj sovaĝan mielon. Li predikis, dirante, "Post mi venas tiu, kiu estas pli potenca ol mi, la rimeno de kies sandaloj mi ne estas inda kliniĝi kaj malligi. Mi baptis vin en akvo, sed li baptos vin en la Sankta Spirito."
 
-En tiuj tagoj, Jesuo venis el Nazareto de Galileo, kaj estis baptita de Johano en la Jordan. Tuj elirante el la akvo, li vidis la ĉielon disiĝantan kaj la Spiriton malsupreniri sur lin kiel kolombo. Voĉo eliris el la ĉielo, "Vi estas mia amata Filo, en kiu mi bone plaĉas."
+En tiuj tagoj, Jesuo venis el Nazareto de Galileo, kaj estis baptita de Johano en la Jordano. Tuj elirante el la akvo, li vidis la ĉielon disiĝantan kaj la Spiriton malsupreniri sur lin kiel kolombo. Voĉo eliris el la ĉielo, "Vi estas mia amata Filo, en kiu mi bone plaĉas."
 
 Tuj la Spirito pelis lin eksteren en la dezerton. Li estis tie en la dezerto kvardek tagojn, tentata de Satano. Li estis kun la sovaĝaj bestoj; kaj la anĝeloj servis lin.
 
-Nun post kiam Johano estis prenita en gardatecon, Jesuo venis en Galileon, predikante la Bonan Novaĵon de la Regno de Dio, kaj dirante, "La tempo estas plenumita, kaj la Regno de Dio estas proksima! Pentiĝu, kaj kreu je la Bona Novaĵo."
+Nun post kiam Johano estis prenita en gardatecon, Jesuo venis en Galileon, predikante la Bonan Novaĵon de la Regno de Dio, kaj dirante, "La tempo estas plenumita, kaj la Regno de Dio estas proksima! Pentu, kaj kreu je la Bona Novaĵo."
 
 Pasante laŭ la maro de Galileo, li vidis Simonon kaj Andreon, la fraton de Simono, ĵetantajn reton en la maron, ĉar ili estis fiŝkaptistoj. Jesuo diris al ili, "Venu post mi, kaj mi faros vin fiŝkaptistoj de homoj."
 
@@ -1555,7 +1555,7 @@ Nun estis du tagoj antaŭ la Pasko kaj la Festo de Senfermenta Pano, kaj la ĉef
 
 Dum li estis en Betanio, en la domo de Simon la leprulo, dum li sidis ĉe la tablo, virino venis kun alabastra vazo da oleo el pura nardo—tre multekosta. Ŝi rompis la vazon kaj verŝis ĝin sur lian kapon. Sed estis kelkaj, kiuj inter si indignis, dirante, "Kial ĉi tiu oleo estis malŝparita? Ĉar ĉi tio povus esti vendita por pli ol tricent denarioj kaj donita al la malriĉuloj." Do ili malkontentis kontraŭ ŝi.
 
-Sed Jesuo diris, "Lasu ŝin. Kial vi ĝenas ŝin? Ŝi faris bonan verkon por mi. Ĉar vi ĉiam havas la malriĉulojn kun vi, kaj kiam ajn vi volas, vi povas fari al ili bonon; sed vi ne ĉiam havos min. Ŝi faris tion, kion ŝi povis. Ŝi antaŭoleis mian korpon por la entombigo. Plej certe mi diras al vi, kie ajn ĉi tiu Bona Novaĵo estos predikita tra la tuta mondo, tion, kion ĉi tiu virino faris, ankaŭ estos parolata kiel memoro pri ŝi."
+Sed Jesuo diris, "Lasu ŝin. Kial vi ĝenas ŝin? Ŝi faris bonan verkon por mi. Ĉar vi ĉiam havas la malriĉulojn kun vi, kaj kiam ajn vi volas, vi povas fari al ili bonon; sed vi ne ĉiam havos min. Ŝi faris tion, kion ŝi povis. Ŝi sanktoleis mian korpon antaŭe por la enterigo. Plej certe mi diras al vi, kie ajn ĉi tiu Bona Novaĵo estos predikita tra la tuta mondo, tion, kion ĉi tiu virino faris, ankaŭ estos parolata kiel memoro pri ŝi."
 
 Juda Iskariota, kiu estis unu el la dek du, foriris al la ĉefpastroj, por ke li povu transdoni lin al ili. Ili, kiam ili aŭdis tion, ĝojis, kaj promesis doni al li monon. Li serĉis kiel li povus oportune transdoni lin.
 
@@ -1645,7 +1645,7 @@ Same, ankaŭ la ĉefpastroj mokante inter si kun la skribistoj diris, "Li savis 
 
 Kiam la sesa horo venis, mallumo fariĝis super la tuta lando ĝis la naŭa horo. Je la naŭa horo Jesuo kriis per laŭta voĉo, dirante, "Eloi, Eloi, lama sabachthani?" kio estas, interpretite, "Mia Dio, mia Dio, kial vi forlasis min?"
 
-Iuj el tiuj, kiuj staris apude, kiam ili aŭdis tion, diris, "Jen, li vokas Elijaon."
+Iuj el tiuj, kiuj staris apude, kiam ili aŭdis tion, diris, "Jen, li vokas Elija."
 
 Unu kuris, kaj plenigis spongon per vinagro, metis ĝin sur rozon kaj donis al li trinki, dirante, "Lasu lin. Ni vidu, ĉu Elija venos por preni lin malsupren."
 

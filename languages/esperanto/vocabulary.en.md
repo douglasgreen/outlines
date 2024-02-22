@@ -21,6 +21,7 @@
 * Albanio - Albania
 * Alberto - Albert
 * Aleksandro - Alexander
+* Alfeo - Alpheus
 * Alpoj - Alps
 * Amazono - Amazon
 * Amerika - American
@@ -42,9 +43,11 @@
 * Arabio (Arabo + io) - Arabia
 * Arabo - Arab
 * Argentino - Argentine
+* Arimateo - Arimathea
 * Aristotelo - Aristotle
 * Arizono - Arizona
 * Arkadio - Arcadia
+* Arkelaŭo - Archelaus
 * Armena - Armenian
 * Armenio (Armeno + io) - Armenia
 * Asa - Asa
@@ -67,8 +70,11 @@
 * Balkano - Balkan
 * Balta - Baltic
 * Bangladeŝo - Bangladesh
+* Barabaso - Barabbas
 * Barato - India
+* Baraĥjo - Barachiah
 * Barcelono - Barcelona
+* Bartimeo - Bartimaeus
 * Bartolomeo - Bartholomew
 * Bavario - Bavaria
 * Beelzebulo - Beelzebub
@@ -79,8 +85,11 @@
 * Berlino - Berlin
 * Berno - Bern
 * Bet - Beth
+* Betanio - Bethany
 * Betelo - Bethel
+* Betfage - Bethsphage
 * Betleĥemo - Bethlehem
+* Betsaida - Bethsaida
 * Biblio - Bible
 * BitTorento - BitTorrent
 * Bitlsoj - Beatles
@@ -104,11 +113,14 @@
 ## C
 * Celsia - Celsius
 * Cezara - Caesarean
+* Cezarea - Caesarea
 * Cezaro - Caesar
 * Cindrulino - Cinderella
 * Ciono - Zion
+* Cireno - Cyrene
 
 ## D
+* Dalmanuta - Dalmanutha
 * Damasko - Damascus
 * Dan - Dan
 * Dana - Danish
@@ -117,6 +129,7 @@
 * Dankon. - Thank you.
 * Dano - Dane
 * Davido - David
+* Dekapolo - Decapolis
 * Deuteronomio - Deuteronomy
 * Druido - Druid
 
@@ -549,6 +562,7 @@
 * abelujo - hive
 * abolicio - abolition
 * abomenaĵo - atrocity; abomination
+* abomenindaĵo - abominable thing
 * abonanto - subscriber
 * aboni - to subscribe
 * aborigena - aboriginal
@@ -558,6 +572,7 @@
 * absorbi - to absorb
 * abstrakta - abstract
 * absurda - absurd
+* abunde - abundantly
 * abundo - abundance
 * acerarbo - maple
 * acida - sour
@@ -677,6 +692,7 @@
 * aktoro - actor
 * aktuala - current
 * akumuli - to accrue
+* akurate - exactly
 * akurateco - accuracy
 * akustika - acoustic
 * akuzanto - accuser
@@ -690,12 +706,14 @@
 * akvofalo - waterfall
 * akvofluo - flush
 * akvokoloro - watercolor
+* akvokruĉo - water pitcher
 * akvomareto - puddle
 * akvomelono - watermelon
 * akvorezista - waterproof
 * akvosurfaco - water surface
 * akvovojo - waterway
 * al - to; towards; toward
+* alabastra - alabaster
 * albumo - album
 * aldona - additional
 * aldonaĵo - additive; attachment; supplement
@@ -722,6 +740,7 @@
 * aligatoro - alligator
 * aligi - to attach
 * alikodo - alias
+* aliloken - elsewhere
 * alirebla - accessible
 * alirebleca - accessibility
 * alirebleco - accessibility
@@ -732,6 +751,7 @@
 * alklaki - to click
 * alko - moose
 * alkoholo - alcohol
+* alkonduki - to lead to
 * alloga - attractive
 * allogaĵo - attraction
 * allogi - to incur; to stoke
@@ -741,6 +761,7 @@
 * alogo - appeal
 * alojo - alloy
 * alporti - to bring; to fetch
+* alpremiĝi - to press against
 * alproksimiĝi - to approach; to draw near
 * alproksimiĝo - approach
 * alta - high; tall
@@ -771,6 +792,8 @@
 * alvoko - call
 * alĝustigi - to align
 * alŝuti - to upload
+* amara - bitter
+* amare - bitterly
 * amasigi - to accumulate; to amass
 * amasiĝi - to huddle
 * amaskomunikila - mass media
@@ -821,9 +844,11 @@
 * androido - android
 * anekdoto - anecdote
 * aneksado - annexation
+* aneto - dill
 * angsto - angst
 * anguleto - nook
 * angulo - angle; corner
+* anguloŝtono - cornerstone
 * animacio - animation
 * animalo - animal
 * animeo - anime
@@ -846,6 +871,7 @@
 * antaŭ - before; in front of
 * antaŭa - previous
 * antaŭagordi - to preset
+* antaŭbrako - forearm
 * antaŭdestini - to predetermine
 * antaŭdifini - to predefine
 * antaŭdiraĵo - spoiler
@@ -854,6 +880,7 @@
 * antaŭe - before; previously
 * antaŭen - forward; forth
 * antaŭenigi - to promote; to advance
+* antaŭeniri - to go forward
 * antaŭfermi - to foreclose (in terms of mortgage)
 * antaŭfermo - foreclosure
 * antaŭi - to precede
@@ -867,6 +894,7 @@
 * antaŭo - before
 * antaŭokupi - to preoccupy
 * antaŭpagi - to prepay
+* antaŭpensi - to premeditate
 * antaŭreklamo - hype
 * antaŭrigardo - preview
 * antaŭspeco - prototype
@@ -875,9 +903,11 @@
 * antaŭulo - predecessor
 * antaŭurbo - suburb
 * antaŭvarmigi - to preheat
+* antaŭveni - to come before
 * antaŭvespero - eve
 * antaŭvidebla - foreseeable
 * antaŭvidi - to anticipate; to envision
+* antaŭzorgi - to take precautions
 * antaŭzorgo - precaution
 * antaŭĝoji - to look forward to
 * anti - against
@@ -983,6 +1013,7 @@
 * arĝento - silver
 * arĝentvaro - silverware
 * arĥiduko - archduke
+* asariono - assarion
 * asekuranto - underwriter
 * asekuri - to insure
 * asekuristo - insurer
@@ -1015,6 +1046,7 @@
 * atendi - to wait; to await; to expect
 * atendo - waiting; expectation
 * atenta - attentive
+* atente - attentively
 * atenti - to pay attention
 * atentigo - caution
 * atento - attention
@@ -1040,6 +1072,7 @@
 * avantaĝeto - perk
 * avantaĝo - advantage
 * avataro - avatar
+* avelo - hazelnut
 * avena faruno - oatmeal
 * aveno - oat
 * aventuregi - to go on adventures
@@ -1052,6 +1085,7 @@
 * aviadilo - airplane; plane
 * aviadkompanio - airline
 * avidi - to covet
+* avido - greed
 * avino - grandmother; granny
 * avo - grandfather
 * avo/avino - grandparent
@@ -1069,6 +1103,7 @@
 * aŭ - or; either
 * aŭda - auditory
 * aŭdaca - bold
+* aŭdace - boldly
 * aŭdado - hearing
 * aŭdas - hears
 * aŭdi - to hear
@@ -1135,6 +1170,7 @@
 * bandito - bandit; thug
 * bando - band; gang
 * bangalo - bungalow
+* bani - to bathe
 * baniĝi - to bathe
 * banka - bank
 * bankado - banking
@@ -1187,6 +1223,7 @@
 * bebo - babe
 * bedaŭri - to regret
 * bedaŭrinde - unfortunately
+* bedaŭro - regret
 * bejglo - bagel
 * beko - beak
 * bela - beautiful; nice; pretty
@@ -1269,6 +1306,7 @@
 * boato - boat; vessel
 * bobeno - reel
 * bofilino - daughter-in-law
+* bofratino - sister-in-law
 * bojkoto - boycott
 * boksisto - boxer
 * boli - to boil
@@ -1283,6 +1321,7 @@
 * bonfara - charitable; benevolent
 * bongusta - tasty; delicious
 * bongustaĵo - tidbit
+* bonkvalita - good-quality
 * bonnovaĵo - good news
 * bono - good
 * bonstato - well-being
@@ -1298,6 +1337,7 @@
 * bordo - edge; shore
 * bordŝtono - curb
 * borilo - drill
+* borsaĵo - purse, bag
 * botanika - botanical
 * botelo - bottle
 * boto - boot
@@ -1306,6 +1346,7 @@
 * bovido - calf
 * bovino - cow
 * bovlo - bowl
+* bovo - ox, cow
 * braceleto - bracelet
 * brako - arm
 * branĉa - branch
@@ -1334,12 +1375,15 @@
 * brovo - eyebrow
 * broŝuro - brochure; pamphlet
 * brua - noisy
+* bruaĵo - noisy thing or event
 * bruejo - brewery
 * bruema - noisy; roaring
 * brui - to brew
 * brulaĵo - fuel
+* bruliga - incendiary
 * bruligi - to burn; to char
 * bruligilo - burner
+* bruliĝi - to catch fire
 * brumastro - brewer
 * bruna - brown; tan
 * brunetaĵo - brownie (or skota koboldo in folklore)
@@ -1402,6 +1446,7 @@
 * centri - to center
 * centrigi - to centralize
 * centro - center; hub
+* centuriono - centurion
 * cenzuri - to censor
 * cepo - onion
 * ceramiko - ceramics
@@ -1458,6 +1503,7 @@
 
 ## d
 * da - of (used with quantities)
+* damaĝi - to damage
 * damaĝo - damage; harm
 * danci - to dance
 * dancisto - dancer
@@ -1537,16 +1583,20 @@
 * deklivo - slope; gradient
 * dekmeprezi - to decimate
 * dekomence - from the beginning
+* dekonaĵi - to tithe
+* dekonaĵo - tithe
 * dekonstruado - deconstruction
 * dekoracio - decoration
 * dekreto - decree
 * dekstra - right (direction)
+* dekstre - on the right
 * dekstren - to the right
 * dekunua - eleventh
 * delegito - delegate
 * delfeno - dolphin
 * delikataĵo - delicacy
 * delikatejo - deli
+* deliki - to commit a delict, an offense
 * delikto - tort
 * deliktulo - offender
 * demandaro - questionnaire
@@ -1558,9 +1608,11 @@
 * demokratio - democracy
 * demokrato - democrat
 * demono - demon
+* demonposedi - to be possessed by a demon
 * demonstraĵo - demo
 * demunti - to dismantle
 * denario - denarius (ancient coin)
+* denaro - money
 * denaska - native
 * denaskulo - native
 * denove - again
@@ -1589,11 +1641,14 @@
 * deportado - deportation
 * deporti - to deport
 * depravi - to deprave
+* depreni - to take off
 * deprimi - to depress
 * deputito - deputy
 * derivaĵo - derivative
 * derivi - to derive
 * dermatologo - dermatologist
+* des pli - all the more
+* des pli bone - all the better
 * desegnaĵo - drawing
 * desegni - to design
 * desegnofilmo - cartoon
@@ -1645,7 +1700,10 @@
 * dezerto - desert; wilderness
 * deziri - to wish; to desire
 * deziro - desire
+* dezolado - desolation
+* deĵeti - to throw off, to discard
 * deĵoranto - incumbent
+* deŝiri - to tear off
 * dia - divine
 * diablo - devil
 * diagnoza - diagnostic
@@ -1660,6 +1718,8 @@
 * diamanto - diamond
 * diametro - diameter
 * diaĵo - deity
+* didraĥma - two-drachma
+* didraĥmo - two drachmas
 * dieto - diet
 * difekti - to mar; to spoil
 * difekto - defect; flaw; impairment
@@ -1708,6 +1768,7 @@
 * disbati - to smash
 * disciplino - discipline
 * disde - since; from
+* disdividi - to divide
 * disdoni - to allot; to distribute
 * disdonilo - dispenser
 * disetendi - to extend
@@ -1726,9 +1787,11 @@
 * diskuti - to discuss
 * diskuto - discussion
 * diskvalifiki - to disqualify
+* dispecigi - to cut into pieces
 * dispeli - to disperse
 * disponi - to dispose
 * disponigi - to provide
+* disputi - to argue
 * disputo - dispute
 * disrompi - to break apart
 * disrompiĝi - to break apart; to shatter
@@ -1765,6 +1828,8 @@
 * disĉiplo - disciple
 * disĵeti - to scatter; to throw around
 * disŝiri - to tear apart
+* disŝiriĝi - to be torn apart
+* disŝprucigi - to scatter; to spray
 * diveni - to guess
 * diversa - diverse
 * diverseca - diverse
@@ -1775,12 +1840,14 @@
 * dividendo - dividend
 * dividi - to divide
 * divido - division
+* divizio - division (military or organizational)
 * divo - diva
 * dizajnado - designing
 * dizajni - to design
 * dizajnisto - designer
 * dizelo - diesel
 * do - so; therefore
+* dogano - customs (as in border control)
 * doko - dock
 * doktoro - doctor
 * doktrino - doctrine
@@ -1851,13 +1918,16 @@
 * dreni - to drain
 * drifti - to drift
 * drinkejo - pub
+* drinkemulo - drunkard
 * drogo - drug
 * droni - to drown
 * du - two
 * dua - second
+* duafoje - a second time
 * dubi - to doubt
 * dubli - to dub
 * dubo - doubt
+* ducent - two hundred
 * dudek - twenty
 * dufoje - twice
 * duismo - dualism
@@ -6790,6 +6860,7 @@
 * sankta - holy; sacred
 * sanktejo - sanctuary; shrine
 * sanktigi - to sanctify; to consecrate; to enshrine
+* sanktolei - to anoint
 * sanktulo - saint
 * sano - health
 * sanzorgado - health care
@@ -8198,6 +8269,7 @@
 * Ĉinio - China
 
 ## ĉ
+* ĉagreni - to annoy, to vex
 * ĉagreno - sorrow
 * ĉajo - chai
 * ĉakristo - hacker
@@ -8225,6 +8297,7 @@
 * ĉeesto - presence
 * ĉefa - chief; main; major; principal
 * ĉefa plado - entree
+* ĉefangulo - chief cornerstone
 * ĉefe - mainly
 * ĉefepiskopo - archbishop
 * ĉefkuiristo - chef
@@ -8266,11 +8339,14 @@
 * ĉirkaŭ - around
 * ĉirkaŭa - surrounding
 * ĉirkaŭaĵo - surroundings
+* ĉirkaŭbari - to barricade
 * ĉirkaŭbraki - to embrace; to hug
 * ĉirkaŭe - around
 * ĉirkaŭfermi - to enclose
 * ĉirkaŭflugi - to fly around
 * ĉirkaŭi - to surround
+* ĉirkaŭiri - to go around
+* ĉirkaŭrigardi - to look around
 * ĉirkaŭtiristo - cheerleader
 * ĉirkaŭvolvaĵo - shroud
 * ĉirpado - chirping
