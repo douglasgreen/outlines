@@ -1671,7 +1671,7 @@ Poste li estis malkaŝita al la dek unu mem dum ili sidis ĉe la tablo; kaj li r
 
 Do tiam la Sinjoro, post kiam li parolis al ili, estis levita en la ĉielon kaj sidiĝis ĉe la dekstra mano de Dio. Ili eliris kaj predikis ĉie, la Sinjoro kunlaborante kun ili kaj konfirmante la vorton per la signoj, kiuj sekvis. Amen.
 
-## Mateo
+## Luko
 
 La Bona Novaĵo laŭ Luko
 
@@ -1791,3 +1791,148 @@ gvidi niajn piedojn en la vojon de paco."
 
 La infano kreskis kaj fariĝis forta en spirito, kaj estis en la dezerto ĝis la tago de sia publika apero al Izraelo.
 
+### Ĉapitro 2
+
+Nun en tiuj tagoj, dekreto eliris de Cezaro Aŭgusto, ke la tuta mondo estu registrita. Tio estis la unua registriĝo farita, kiam Kirinio estis guberniestro de Sirio. Ĉiuj iris registri sin, ĉiu al sia propra urbo. Jozefo ankaŭ supreniris el Galileo, el la urbo Nazareto, en Judujon, al la urbo de Davido, kiu nomiĝas Betleĥemo, ĉar li estis el la domo kaj familio de Davido, por registri sin kun Maria, kiu estis promesita al li kiel edzino, estante graveda.
+
+Dum ili estis tie, venis la tempo por ŝi naski. Ŝi naskis sian unuanaskitan filon. Ŝi envolvis lin per tukoj kaj kuŝigis lin en manĝotrogon, ĉar ne estis loko por ili en la gastejo.
+
+Estis paŝtistoj en la sama lando, restantaj sur la kampo, kaj nokte gardantaj sian gregon. Jen, anĝelo de la Sinjoro staris apud ili, kaj la gloro de la Sinjoro brilis ĉirkaŭ ili, kaj ili tre timis. La anĝelo diris al ili, "Ne timu, ĉar jen, mi alportas al vi bonan novaĵon de granda ĝojo, kiu estos por ĉiuj homoj. Ĉar hodiaŭ en la urbo de Davido naskiĝis al vi Savanto, kiu estas Kristo, la Sinjoro. Jen estas la signo por vi: vi trovos bebon envolvitan per strioj de tuko, kuŝantan en manĝotrogo." Subite, estis kun la anĝelo multnombra ĉielarmeo laŭdanta Dion kaj diranta,
+
+"Gloro al Dio en la plej altaj,
+
+sur tero paco, bonvolo al homoj."
+
+Kiam la anĝeloj foriris de ili en la ĉielon, la paŝtistoj diris unu al la alia, "Ni iru nun al Betleĥemo kaj vidu ĉi tiun aferon, kiu okazis, kion la Sinjoro sciigis al ni." Ili venis kun rapido kaj trovis kaj Marion kaj Jozefon, kaj la bebo kuŝis en la manĝotrogo. Kiam ili vidis ĝin, ili vaste disvastigis la diraĵon, kiu estis parolita al ili pri ĉi tiu infano. Ĉiuj, kiuj aŭdis, miris pri la aferoj, kiuj estis parolitaj al ili de la paŝtistoj. Sed Maria konservis ĉiujn ĉi tiujn diraĵojn, pripensante ilin en sia koro. La paŝtistoj revenis, glorante kaj laŭdante Dion por ĉio, kion ili aŭdis kaj vidis, ĝuste kiel estis dirite al ili.
+
+Kiam ok tagoj estis plenumitaj por la cirkumcido de la infano, lia nomo estis nomita Jesuo, kiu estis donita de la anĝelo antaŭ ol li estis koncipita en la ventro.
+
+Kiam plenumiĝis la tagoj de ilia purigado laŭ la leĝo de Moseo, ili suprenportis lin al Jerusalemo por prezenti lin al la Sinjoro (kiel estas skribite en la leĝo de la Sinjoro, “Ĉiu masklo, kiu malfermas la uteron, estos nomata sankta al la Sinjoro”), kaj por oferi oferon laŭ tio, kio estas dirita en la leĝo de la Sinjoro, “Paro da turturkolumoj, aŭ du junaj kolomboj.”
+
+Jen, estis viro en Jerusalemo, kies nomo estis Simeono. Ĉi tiu viro estis justa kaj pia, atendante la konsolon de Izraelo, kaj la Sankta Spirito estis sur li. Estis malkaŝite al li per la Sankta Spirito, ke li ne vidus morton antaŭ ol li vidis la Kriston de la Sinjoro. Li venis en la Spirito en la templon. Kiam la gepatroj enportis la infanon Jesuon, por fari pri li laŭ la kutimo de la leĝo, tiam li ricevis lin en siajn brakojn kaj benis Dion, kaj diris,
+
+“Nun vi lasas vian servanton foriri, Majstro,
+
+laŭ via vorto, en paco;
+
+ĉar miaj okuloj vidis vian savon,
+
+kiun vi preparis antaŭ la vizaĝo de ĉiuj popoloj;
+
+lumo por malkaŝo al la nacioj,
+
+kaj la gloro de via popolo Izraelo.”
+
+Jozefo kaj lia patrino miris pri la aferoj, kiuj estis parolitaj pri li. Simeono benis ilin, kaj diris al Maria, lia patrino, “Jen, ĉi tiu infano estas destinita por la falo kaj leviĝo de multaj en Izraelo, kaj por signo, kiu estos kontraŭparolata. Jes, glavo traboros vian propran animon, por ke malkaŝiĝu la pensoj de multaj koroj.”
+
+Estis unu Ana, profetino, filino de Fanuel, de la tribo de Aŝer (ŝi estis en granda aĝo, vivinte kun edzo sep jarojn de sia virgineco, kaj ŝi estis vidvino ĉirkaŭ okdek kvar jarojn), kiu ne forlasis la templon, adorante per fastoj kaj petoj nokte kaj tage. Venante ĉe tiu preciza horo, ŝi dankis al la Sinjoro, kaj parolis pri li al ĉiuj, kiuj serĉis redempton en Jerusalemo.
+
+Kiam ili plenumis ĉion laŭ la leĝo de la Sinjoro, ili revenis en Galileon, al sia propra urbo, Nazareto. La infano kreskis kaj fariĝis forta en spirito, pleniĝante per saĝo, kaj la graco de Dio estis sur li.
+
+Liaj gepatroj iris ĉiujare al Jerusalemo je la festo de la Pasko. Kiam li estis dekdujara, ili supreniris al Jerusalemo laŭ la kutimo de la festo; kaj kiam ili plenumis la tagojn, dum ili revenis, la knabo Jesuo restis malantaŭe en Jerusalemo. Jozefo kaj lia patrino tion ne sciis, sed supozante lin esti en la kunularo, ili iris unutagan vojaĝon; kaj ili serĉis lin inter siaj parencoj kaj konatoj. Kiam ili ne trovis lin, ili revenis al Jerusalemo, serĉante lin. Post tri tagoj ili trovis lin en la templo, sidanta meze de la instruistoj, aŭskultante ilin kaj demandante al ili demandojn. Ĉiuj, kiuj aŭdis lin, miris pri lia kompreno kaj liaj respondoj. Kiam ili vidis lin, ili estis mirigitaj; kaj lia patrino diris al li, “Filo, kial vi agis tiel al ni? Jen, via patro kaj mi serĉis vin kun angoro.”
+
+Li diris al ili, “Kial vi serĉis min? Ĉu vi ne sciis, ke mi devas esti en la domo de mia Patro?” Ili ne komprenis la dirojn, kiujn li parolis al ili. Kaj li malsupreniris kun ili kaj venis al Nazareto. Li estis submetita al ili, kaj lia patrino konservis ĉiujn ĉi tiujn dirojn en sia koro. Kaj Jesuo kreskis en saĝeco kaj staturon, kaj en favoro ĉe Dio kaj homoj.
+
+### Ĉapitro 3
+
+Nun en la dekkvina jaro de la regado de Tiberio Cezaro, Poncio Pilato estante guberniestro de Judeo, kaj Herodo estante tetrarko de Galileo, kaj lia frato Filipo tetrarko de la regiono de Itureo kaj Trakonito, kaj Lisania tetrarko de Abileno, dum la ĉefpapereco de Anaso kaj Kaifaso, la vorto de Dio venis al Johano, la filo de Zakario, en la dezerto. Li venis en la tutan regionon ĉirkaŭ la Jordanon, predikante la bapton de pento por forigo de pekoj. Kiel estas skribite en la libro de la vortoj de la profeto Jesaja,
+
+"La voĉo de unu krianta en la dezerto,
+
+'Pretigu la vojon de la Sinjoro.
+
+Rektigu liajn vojojn.
+
+Ĉiu valo estos plenigita.
+
+Ĉiu monto kaj monteto estos malaltigita.
+
+La kurbaj fariĝos rekta,
+
+kaj la malglataj vojoj glataj.
+
+Ĉiu karno vidos la savon de Dio.'"
+
+Li diris do al la homamasoj, kiuj eliris por esti baptitaj de li, "Vi idoj de vipuroj, kiu avertis vin fuĝi de la venonta kolero? Do produktu fruktojn indajn je pento, kaj ne komencu diri inter vi, 'Ni havas Abrahamon kiel nian patron;' ĉar mi diras al vi, ke Dio kapablas levi infanojn al Abrahamo el ĉi tiuj ŝtonoj! Jam la hakilo ankaŭ kuŝas ĉe la radiko de la arboj. Do ĉiu arbo, kiu ne produktas bonan frukton, estas dehakita kaj ĵetita en la fajron."
+
+La homamasoj demandis lin, "Kion do ni devas fari?"
+
+Li respondis al ili, "Kiu havas du mantelojn, donu al tiu, kiu havas neniun. Kiu havas manĝaĵon, faru same."
+
+Ankaŭ impostistoj venis por esti baptitaj, kaj ili diris al li, "Instruisto, kion ni devas fari?"
+
+Li diris al ili, "Kolektu ne pli ol tio, kio estas destinita al vi."
+
+Soldatoj ankaŭ demandis lin, dirante, "Kaj pri ni? Kion ni devas fari?"
+
+Li diris al ili, "Ne ekstoru de iu perforte, nek maljuste akuzu iun. Kontentu vin kun via salajro."
+
+Dum la popolo estis en atendo, kaj ĉiuj homoj rezonis en siaj koroj pri Johano, ĉu eble li estis la Kristo, Johano respondis al ĉiuj, "Mi vere baptonas vin per akvo, sed venas tiu, kiu estas pli potenca ol mi, kies sandalrimeno mi ne estas inda malŝlosi. Li vin baptonos en la Sankta Spirito kaj fajro. Lia ventumilo estas en lia mano, kaj li plene purigos sian draŝejon, kaj kolektos la tritikon en sian grenejon; sed li bruligos la pajlaĵon per neestingebla fajro."
+
+Poste, kun multaj aliaj admonoj li predikis bonan novaĵon al la popolo, sed Herodo la tetrarko, estante riproĉita de li pro Herodias, la edzino de lia frato, kaj pro ĉiuj malbonaj aferoj, kiujn Herodo faris, aldonis ankaŭ ĉi tion al ili ĉiuj, ke li enfermis Johanon en malliberejon.
+
+Nun kiam ĉiuj homoj estis baptitaj, Jesuo ankaŭ estis baptita kaj estis preĝanta. La ĉielo malfermiĝis, kaj la Sankta Spirito malsupreniris en korpa formo kiel kolombo sur lin; kaj voĉo eliris el la ĉielo, dirante “Vi estas mia amata Filo. En vi mi estas bone kontenta.”
+
+Jesuo mem, kiam li komencis instrui, estis proksimume tridekjara, estante la filo (kiel oni supozis) de Jozefo, la filo de Eli, la filo de Matat, la filo de Levi, la filo de Melki, la filo de Janaj, la filo de Jozefo, la filo de Matatias, la filo de Amos, la filo de Naum, la filo de Eslaj, la filo de Nagaj, la filo de Maat, la filo de Matatias, la filo de Ŝemein, la filo de Jozefo, la filo de Juda, la filo de Johanano, la filo de Resa, la filo de Zerubabel, la filo de Ŝealtiel, la filo de Neri, la filo de Melki, la filo de Adi, la filo de Kosam, la filo de Elmodam, la filo de Er, la filo de Josue, la filo de Eliezer, la filo de Jorim, la filo de Matat, la filo de Levi, la filo de Simeon, la filo de Juda, la filo de Jozefo, la filo de Jonano, la filo de Eliakim, la filo de Melea, la filo de Mena, la filo de Matata, la filo de Natan, la filo de David, la filo de Jesaj, la filo de Obed, la filo de Booz, la filo de Salmon, la filo de Naĥŝon, la filo de Aminadab, la filo de Aram, la filo de Ĥecron, la filo de Farez, la filo de Juda, la filo de Jakob, la filo de Isaak, la filo de Abrahamo, la filo de Teraĥ, la filo de Naĥor, la filo de Serug, la filo de Reu, la filo de Peleg, la filo de Eber, la filo de Ŝela, la filo de Kainan, la filo de Arpakŝad, la filo de Ŝem, la filo de Noa, la filo de Lameĥ, la filo de Metuŝelaĥ, la filo de Ĥanoĥ, la filo de Jared, la filo de Mahalalel, la filo de Kainan, la filo de Enos, la filo de Set, la filo de Adamo, la filo de Dio.
+
+### Ĉapitro 4
+
+Jesuo, plena de la Sankta Spirito, revenis de la Jordano kaj estis kondukita de la Spirito en la dezerton dum kvardek tagoj, estante tentata de la diablo. Li nenion manĝis en tiuj tagoj. Poste, kiam ili estis finitaj, li malsatis.
+
+La diablo diris al li, "Se vi estas la Filo de Dio, ordonu, ke ĉi tiu ŝtono fariĝu pano."
+
+Jesuo respondis al li, dirante, "Estas skribite, 'Homo ne vivos per pano sole, sed per ĉiu vorto de Dio.'"
+
+La diablo, kondukinte lin sur altan monton, montris al li ĉiujn regnojn de la mondo en momento de tempo. La diablo diris al li, "Mi donos al vi ĉi tiun aŭtoritaton kaj ilian gloron, ĉar ĝi estis liverita al mi, kaj mi donas ĝin al kiu ajn mi volas. Se vi do adoros antaŭ mi, ĉio estos via."
+
+Jesuo respondis al li, "Iru malantaŭen, Satano! Ĉar estas skribite, 'Vi adoros la Sinjoron, vian Dion, kaj nur al li vi servos.'"
+
+Li kondukis lin al Jerusalemo kaj starigis lin sur la pinton de la templo, kaj diris al li, "Se vi estas la Filo de Dio, ĵetu vin mem malsupren de ĉi tie, ĉar estas skribite,
+
+'Li ordonos al siaj anĝeloj pri vi, por gardi vin;'
+
+kaj,
+
+'Sur siaj manoj ili portos vin,
+
+por ke eble vi ne frapu vian piedon kontraŭ ŝtonon.'"
+
+Jesuo respondante, diris al li, "Estas dirite, 'Vi ne tentos la Sinjoron, vian Dion.'"
+
+Kiam la diablo finis ĉiun tenton, li foriris de li ĝis alia tempo.
+
+Jesuo revenis en la potenco de la Spirito en Galileon, kaj famo pri li disvastiĝis tra la tuta ĉirkaŭaĵo. Li instruis en iliaj sinagogoj, estante glorata de ĉiuj.
+
+Li venis al Nazareto, kie li estis edukita. Li eniris, kiel estis lia kutimo, en la sinagogon en la sabata tago, kaj stariĝis por legi. La libro de la profeto Jesaja estis donita al li. Li malfermis la libron, kaj trovis la lokon, kie estis skribite,
+
+"La Spirito de la Sinjoro estas sur mi,
+
+ĉar li sanktoleis min por prediki bonan novaĵon al la malriĉuloj.
+
+Li sendis min por resanigi la kordifektitajn,
+
+proklami liberigon al la kaptitoj,
+
+revenon de vido al la blinduloj,
+
+liberigi tiujn, kiuj estas subpremitaj,
+
+kaj proklami la akcepteblan jaron de la Sinjoro."
+
+Li fermis la libron, redonis ĝin al la helpanto, kaj sidiĝis. La okuloj de ĉiuj en la sinagogo estis fiksitaj sur li. Li komencis diri al ili, "Hodiaŭ, ĉi tiu Skribo plenumiĝis en via aŭdo."
+
+Ĉiuj atestis pri li kaj miris pri la agrablaj vortoj, kiuj eliris el lia buŝo; kaj ili diris, "Ĉu ĉi tiu ne estas la filo de Jozefo?"
+
+Li diris al ili, "Sendube vi diros al mi ĉi tiun proverbon, 'Kuracisto, resanigu vin mem! Kion ni aŭdis faritan en Kapernaumo, faru ankaŭ ĉi tie en via propra urbo.'" Li diris, "Mi certe diras al vi, neniu profeto estas akceptebla en sia hejmurbo. Sed vere mi diras al vi, multaj vidvinoj estis en Izraelo en la tagoj de Elija, kiam la ĉielo estis fermita tri jarojn kaj ses monatojn, kiam granda malsatego venis sur la tutan landon. Elija estis sendita al neniu el ili, escepte al Zarefata, en la lando de Sidono, al virino kiu estis vidvino. Multaj lepruloj estis en Izraelo en la tempo de la profeto Eliŝa, tamen ne unu el ili estis purigita, escepte Naaman, la Siriano."
+
+Ili ĉiuj pleniĝis de kolero en la sinagogo, aŭdante ĉi tiujn aferojn. Ili leviĝis, elĵetis lin el la urbo, kaj kondukis lin al la rando de la monteto, sur kiu ilia urbo estis konstruita, por ke ili povu ĵeti lin de la klifo. Sed li, trapasante meze de ili, iris sian vojon.
+
+Li malsupreniris al Kapernaumo, urbo de Galileo. Li instruis ilin en la sabata tago, kaj ili miris pri lia instruado, ĉar lia vorto estis kun aŭtoritato. En la sinagogo estis viro, kiu havis spiriton de malpura demono; kaj li ekkriis per laŭta voĉo, dirante, "Ha! kion ni havas komune kun vi, Jesuo el Nazareto? Ĉu vi venis por detrui nin? Mi scias, kiu vi estas: la Sanktulo de Dio!"
+
+Jesuo mallaŭdis lin, dirante, "Silentu kaj eliru el li!" Kiam la demono ĵetis lin malsupren meze de ili, li eliris el li, ne farinte al li iun ajn malbonon.
+
+Miro trafis ĉiujn kaj ili parolis unu kun la alia, dirante, "Kio estas ĉi tiu vorto? Ĉar kun aŭtoritato kaj potenco li ordonas al la malpuraj spiritoj, kaj ili eliras!" Novaĵoj pri li eliris en ĉiun lokon de la ĉirkaŭa regiono.
+
+Li leviĝis de la sinagogo kaj eniris en la domon de Simon. La bopatrino de Simon suferis pro granda febro, kaj ili petegis lin helpi ŝin. Li staris super ŝi kaj mallaŭdis la febron, kaj ĝi forlasis ŝin. Tuj ŝi leviĝis kaj servis ilin. Kiam la suno subiris, ĉiuj, kiuj havis malsanulojn kun diversaj malsanoj, alportis ilin al li; kaj li metis siajn manojn sur ĉiun el ili, kaj resanigis ilin. Demonioj ankaŭ eliris el multaj, ekkriante kaj dirante, "Vi estas la Kristo, la Filo de Dio!" Riproĉante ilin, li ne permesis al ili paroli, ĉar ili sciis, ke li estis la Kristo.
+
+Kiam fariĝis tago, li foriris kaj iris en senhoman lokon, kaj la homamasoj serĉis lin, kaj venis al li, kaj retenis lin, por ke li ne foriru de ili. Sed li diris al ili, "Mi devas prediki la bonan novaĵon de la Regno de Dio ankaŭ al la aliaj urboj. Pro ĉi tiu kialo mi estis sendita." Li predikis en la sinagogoj de Galileo.
