@@ -222,6 +222,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Video
 * [History of Video Games](society/games/video/history.en.md)
+* [Video Games](society/games/video/games.en.md)
 
 ### History
 * [Ancient Greece](society/history/ancient_greece.en.md)

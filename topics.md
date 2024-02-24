@@ -656,7 +656,7 @@
 * User Experience (UX) Design
 * Vagrant
 * Vectors
-* Video Games - in process
+* Video Games - done
 * Vietnam War
 * Vim - done
 * Virtualization - done
