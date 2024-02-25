@@ -1936,3 +1936,123 @@ Miro trafis ĉiujn kaj ili parolis unu kun la alia, dirante, "Kio estas ĉi tiu 
 Li leviĝis de la sinagogo kaj eniris en la domon de Simon. La bopatrino de Simon suferis pro granda febro, kaj ili petegis lin helpi ŝin. Li staris super ŝi kaj mallaŭdis la febron, kaj ĝi forlasis ŝin. Tuj ŝi leviĝis kaj servis ilin. Kiam la suno subiris, ĉiuj, kiuj havis malsanulojn kun diversaj malsanoj, alportis ilin al li; kaj li metis siajn manojn sur ĉiun el ili, kaj resanigis ilin. Demonioj ankaŭ eliris el multaj, ekkriante kaj dirante, "Vi estas la Kristo, la Filo de Dio!" Riproĉante ilin, li ne permesis al ili paroli, ĉar ili sciis, ke li estis la Kristo.
 
 Kiam fariĝis tago, li foriris kaj iris en senhoman lokon, kaj la homamasoj serĉis lin, kaj venis al li, kaj retenis lin, por ke li ne foriru de ili. Sed li diris al ili, "Mi devas prediki la bonan novaĵon de la Regno de Dio ankaŭ al la aliaj urboj. Pro ĉi tiu kialo mi estis sendita." Li predikis en la sinagogoj de Galileo.
+
+### Ĉapitro 5
+
+Nun dum la homamaso premis sur lin kaj aŭdis la vorton de Dio, li staris apud la lago de Genesareto. Li vidis du boatojn apud la lago, sed la fiŝkaptistoj estis elirintaj el ili kaj lavadis siajn retojn. Li eniris en unu el la boatoj, kiu estis de Simon, kaj petis lin, ke li iom foriĝu de la tero. Li sidiĝis kaj instruis la homamasojn el la boato.
+
+Kiam li finis paroli, li diris al Simon, "Eniru en la profundon kaj mallevu viajn retojn por kaptaĵo."
+
+Simon respondis al li, "Majstro, ni laboris tutan nokton kaj nenion kaptis; sed laŭ via vorto mi mallevos la reton." Kiam ili faris tion, ili kaptis grandan multon da fiŝoj, kaj ilia reto estis rompiĝanta. Ili geste vokis siajn kunulojn en la alia boato, ke ili venu kaj helpu ilin. Ili venis kaj plenigis ambaŭ boatojn, tiel ke ili komencis sinki. Sed Simon Petro, vidinte tion, falis ĉe la genuoj de Jesuo, dirante, "Foriru de mi, ĉar mi estas peka homo, Sinjoro." Ĉar li estis miregita, kaj ĉiuj, kiuj estis kun li, pri la kaptaĵo de fiŝoj, kiujn ili kaptis; kaj tiel ankaŭ estis Jakobo kaj Johano, filoj de Zebedeo, kiuj estis kunuloj de Simon.
+
+Jesuo diris al Simon, "Ne timu. De nun vi estos kaptanta homojn vivajn."
+
+Kiam ili alkondukis siajn boatojn al tero, ili lasis ĉion kaj sekvis lin.
+
+Dum li estis en unu el la urboj, jen, estis viro plena de lepro. Kiam li vidis Jesuon, li falis sur sian vizaĝon kaj petegis lin, dirante, "Sinjoro, se vi volas, vi povas purigi min."
+
+Li etendis sian manon kaj tuŝis lin, dirante, "Mi volas. Estu purigita."
+
+Tuj la lepro forlasis lin. Li ordonis al li diri al neniu, "Sed iru via vojo kaj montru vin al la pastro, kaj oferu por via purigado laŭ tio, kion Moseo ordonis, kiel atesto al ili."
+
+Sed la raporto pri li disvastiĝis eĉ pli, kaj grandaj homamasoj kunvenis por aŭdi kaj esti resanigitaj de li de iliaj malfortoj. Sed li retiriĝis en la dezerton kaj preĝis.
+
+En unu el tiuj tagoj, li instruis; kaj estis Fariseoj kaj instruistoj de la leĝo sidantaj apude, kiuj venis el ĉiu vilaĝo de Galileo, Judeo, kaj Jerusalemo. La potenco de la Sinjoro estis kun li por resanigi ilin. Jen, viroj alportis paralizitan homon sur lite, kaj ili serĉis enporti lin por kuŝigi antaŭ Jesuon. Ne trovante manieron enporti lin pro la homamaso, ili supreniris sur la tegmenton kaj mallevigis lin tra la tegoloj kun lia lite en la mezon antaŭ Jesuo. Vidante ilian fidon, li diris al li, "Homo, viaj pekoj estas pardonitaj."
+
+La skribistoj kaj la Fariseoj komencis rezoni, dirante, "Kiu estas ĉi tiu, kiu parolas blasfemojn? Kiu povas pardoni pekojn, krom Dio sola?"
+
+Sed Jesuo, perceptante iliajn pensojn, respondis al ili, "Kial vi tiel rezonas en viaj koroj? Kio estas pli facile diri, 'Viaj pekoj estas pardonitaj,' aŭ diri, 'Leviĝu kaj marŝu'? Sed por ke vi sciu, ke la Filo de Homo havas aŭtoritaton sur la tero pardoni pekojn," li diris al la paralizita viro, "Mi diras al vi, leviĝu, prenu vian liton, kaj iru al via domo."
+
+Tuj li leviĝis antaŭ ili, kaj prenis tion, sur kio li kuŝis, kaj foriris al sia domo, glorante Dion. Miro ekposedis ĉiujn, kaj ili gloradis Dion. Ili pleniĝis de timo, dirante, "Ni vidis strangajn aferojn hodiaŭ."
+
+Post ĉi tiuj aferoj li eliris kaj vidis impostiston nomatan Levi sidantan ĉe la impostejo, kaj diris al li, "Sekvu min!"
+
+Li lasis ĉion, leviĝis kaj sekvis lin. Levi faris grandan festenon por li en sia domo. Estis granda homamaso de impostistoj kaj aliaj, kiuj kuŝis kun ili. Iliaj skribistoj kaj la Fariseoj murmuris kontraŭ liaj disĉiploj, dirante, "Kial vi manĝas kaj trinkas kun la impostistoj kaj pekuloj?"
+
+Jesuo respondis al ili, "Tiuj, kiuj estas sanaj, ne bezonas kuraciston, sed tiuj, kiuj estas malsanaj. Mi ne venis por voki la justulojn, sed pekulojn al pento.
+
+Ili diris al li, "Kial la disĉiploj de Johano ofte fastas kaj preĝas, same ankaŭ la disĉiploj de la Fariseoj, sed viaj manĝas kaj trinkas?"
+
+Li diris al ili, "Ĉu vi povas igi la amikojn de la edziĝanto fasti dum la edziĝanto estas kun ili? Sed venos tagoj, kiam la edziĝanto estos forprenita de ili. Tiam ili fastos en tiuj tagoj."
+
+Li ankaŭ rakontis al ili parabolon. "Neniu metas pecon de nova vesto sur malnovan veston, alie li disŝiros la novan, kaj ankaŭ la peco de la nova ne kongruos kun la malnova. Neniu metas novan vinon en malnovajn vinskinojn, alie la nova vino disŝiros la skinojn, kaj ĝi estos elverŝita kaj la skinoj estos detruitaj. Sed nova vino devas esti metita en freŝajn vinskinojn, kaj ambaŭ estas konservitaj. Neniu, kiu trinkis malnovan vinon, tuj deziras novan, ĉar li diras, 'La malnova estas pli bona.'"
+
+### Ĉapitro 6
+
+Nun en la dua sabato post la unua, li iris tra la grenkampoj. Liaj disĉiploj plukis la kapojn de greno kaj manĝis, frotante ilin en siaj manoj. Sed iuj el la Fariseoj diris al ili, "Kial vi faras tion, kio ne estas leĝe farebla en la sabata tago?"
+
+Jesuo, respondante al ili, diris, "Ĉu vi ne legis kion David faris kiam li estis malsata, li kaj tiuj, kiuj estis kun li, kiel li eniris en la domon de Dio, kaj prenis kaj manĝis la montron de pano, kaj donis ankaŭ al tiuj, kiuj estis kun li, kio ne estas leĝe manĝebla escepte por la pastroj solaj?" Li diris al ili, "La Filo de Homo estas mastro de la sabato."
+
+Okazis ankaŭ en alia sabato, ke li eniris en la sinagogon kaj instruis. Tie estis viro, kies dekstra mano estis sekigita. La skribistoj kaj la Fariseoj observis lin, por vidi ĉu li sanigos en la sabato, por ke ili povu trovi akuzon kontraŭ li. Sed li sciis iliajn pensojn; kaj li diris al la viro, kiu havis la sekigitan manon, "Leviĝu kaj staru en la mezo." Li leviĝis kaj staris. Tiam Jesuo diris al ili, "Mi demandos vin ion: Ĉu estas leĝe en la sabato fari bonon, aŭ fari malbonon? Savi vivon, aŭ mortigi?" Li rigardis ĉirkaŭe al ili ĉiuj, kaj diris al la viro, "Etendu vian manon." Li faris, kaj lia mano estis restarigita sana kiel la alia. Sed ili pleniĝis de kolero, kaj interparolis unu kun la alia pri kion ili povus fari al Jesuo.
+
+En tiuj tagoj, li eliris al la monto por preĝi, kaj li daŭrigis tutan nokton en preĝo al Dio. Kiam fariĝis tago, li vokis siajn disĉiplojn, kaj el ili li elektis dek du, kiujn li ankaŭ nomis apostoloj: Simon, kiun li ankaŭ nomis Petro; Andreo, lia frato; Jakobo; Johano; Filipo; Bartolomeo; Mateo; Tomaso; Jakobo, la filo de Alfeo; Simon, kiu estis nomata la Zeloto; Judaso, la filo de Jakobo; kaj Judaso Iskarioto, kiu ankaŭ fariĝis perfidulo.
+
+Li malsupreniris kun ili kaj staris sur plata loko, kun amaso de siaj disĉiploj kaj granda nombro da popolo el ĉiuj Judeo kaj Jerusalemo kaj la marbordo de Tiro kaj Sidono, kiuj venis aŭskulti lin kaj esti sanigitaj de siaj malsanoj, same kiel tiuj, kiuj estis turmentitaj de malpuraj spiritoj; kaj ili estis sanigataj. La tuta homamaso serĉis tuŝi lin, ĉar potenco eliris el li kaj sanigis ilin ĉiujn.
+
+Li levis siajn okulojn al siaj disĉiploj, kaj diris:
+
+"Benataj estas vi, kiuj estas malriĉaj,
+
+ĉar la Regno de Dio estas via.
+
+Benataj estas vi, kiuj malsatas nun,
+
+ĉar vi estos satigitaj.
+
+Benataj estas vi, kiuj nun ploras,
+
+ĉar vi ridos.
+
+Benataj estas vi, kiam homoj malamas vin, kaj kiam ili ekskludas kaj mokas vin, kaj ĵetas vian nomon kiel malbonan, pro la Filo de Homo.
+
+Ĝoju en tiu tago kaj saltu pro ĝojo, ĉar jen, via rekompenco estas granda en la ĉielo, ĉar iliaj patroj faris la saman aferon al la profetoj.
+
+"Sed ve al vi, kiuj estas riĉaj!
+
+Ĉar vi ricevis vian konsolon.
+
+Ve al vi, kiuj nun estas satigitaj,
+
+ĉar vi malsatos.
+
+Ve al vi, kiuj nun ridas,
+
+ĉar vi ploros kaj plorĝemos.
+
+Ve, kiam ĉiuj homoj bone parolas pri vi,
+
+ĉar iliaj patroj faris la saman aferon al la falsaj profetoj.
+
+"Sed mi diras al vi, kiuj aŭdas: amu viajn malamikojn, faru bonon al tiuj, kiuj malamas vin, benu tiujn, kiuj malbenas vin, kaj preĝu por tiuj, kiuj malbone traktas vin. Al tiu, kiu frapas vin sur unu vango, proponu ankaŭ la alian; kaj de tiu, kiu prenas vian mantelon, ne malpermesu ankaŭ vian tunikon. Donu al ĉiu, kiu petas de vi, kaj ne postulu de tiu, kiu prenas viajn havaĵojn, redoni ilin denove.
+
+"Kiel vi volas, ke homoj faru al vi, faru same al ili.
+
+"Se vi amas tiujn, kiuj amas vin, kia merito estas tio por vi? Ĉar eĉ pekuloj amas tiujn, kiuj amas ilin. Se vi faras bonon al tiuj, kiuj faras bonon al vi, kia merito estas tio por vi? Ĉar eĉ pekuloj faras la samon. Se vi pruntedonas al tiuj, de kiuj vi esperas ricevi, kia merito estas tio por vi? Eĉ pekuloj pruntedonas al pekuloj, por ricevi la saman kvanton. Sed amu viajn malamikojn, kaj faru bonon, kaj pruntedonu, atendante nenion returne; kaj via rekompenco estos granda, kaj vi estos infanoj de la Plej Alta; ĉar li estas bonkora al la nedankemaj kaj malbonaj.
+
+"Do estu kompatemaj,
+
+same kiel via Patro estas ankaŭ kompatema.
+
+"Ne juĝu,
+
+kaj vi ne estos juĝitaj.
+
+"Ne kondamnu,
+
+kaj vi ne estos kondamnitaj.
+
+"Liberigu,
+
+kaj vi estos liberigitaj.
+
+"Donu, kaj estos donite al vi: bona mezuro, premata, skuata, kaj transverŝanta, estos donita al vi. Ĉar per la sama mezuro, per kiu vi mezuras, estos remezurita al vi."
+
+Li parolis al ili parabolon. "Ĉu la blinda povas gvidi la blindon? Ĉu ili ambaŭ ne falos en fosaĵon? Disĉiplo ne estas super sia instruisto, sed ĉiu, kiam li estos plene instruita, estos kiel sia instruisto. Kial vi vidas la stipon de pajlo en la okulo de via frato, sed ne konsideras la trabon en via propra okulo? Aŭ kiel vi povas diri al via frato, 'Frato, lasu min forigi la stipon de pajlo, kiu estas en via okulo,' kiam vi mem ne vidas la trabon, kiu estas en via propra okulo? Hipokritulo! Unue forigu la trabon el via propra okulo, kaj tiam vi klare vidos por forigi la stipon de pajlo el la okulo de via frato.
+
+"Ĉar ne ekzistas bona arbo, kiu produktas putrintan frukton, nek denove putrinta arbo, kiu produktas bonan frukton. Ĉar ĉiu arbo estas konata laŭ sia propra frukto. Ĉar homoj ne kolektas figojn de dornoj, nek ili kolektas vinberojn de rubusujo. La bona homo el la bona trezoro de sia koro elportas tion, kio estas bona, kaj la malbona homo el la malbona trezoro de sia koro elportas tion, kio estas malbona, ĉar el la abundeco de la koro, lia buŝo parolas.
+
+"Kial vi nomas min, 'Sinjoro, Sinjoro,' kaj ne faras la aferojn, kiujn mi diras? Ĉiu, kiu venas al mi, kaj aŭdas miajn vortojn kaj faras ilin, mi montros al vi al kiu li similas. Li similas al viro konstruanta domon, kiu fosis kaj iris profunden kaj metis fundamenton sur la rokon. Kiam akvofluo leviĝis, la fluo frapis kontraŭ tiun domon, kaj ne povis skuigi ĝin, ĉar ĝi estis fondita sur la roko. Sed tiu, kiu aŭdas kaj ne faras, similas al viro, kiu konstruis domon sur la tero sen fundamento, kontraŭ kiu la fluo frapis, kaj tuj ĝi falis; kaj la ruino de tiu domo estis granda."
+
+### Ĉapitro 7
+
+
