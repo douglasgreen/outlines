@@ -645,7 +645,7 @@
 * Travel & Tourism
 * Trees and Shrubs
 * Trigonometry
-* Turkish Grammar - in process
+* Turkish Grammar - done
 * Typescript
 * Unified Modeling Language (UML) - needs diagrams
 * United Nations

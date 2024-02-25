@@ -160,6 +160,9 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Spanish Grammar](languages/spanish/grammar.en.md)
 * [Spanish Vocabulary](languages/spanish/vocabulary.en.md)
 
+### Turkish
+* [Turkish Grammar](languages/turkish/grammar.en.md)
+
 ## Science
 * [Anatomy and Physiology](science/anatomy.en.md)
 * [Astronomoy](science/astronomy.en.md)
