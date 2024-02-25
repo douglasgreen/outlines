@@ -591,7 +591,7 @@ By focusing on idioms and proverbs, adhering to social norms and etiquette, and 
 ## Glossary of Terms
 
 **Agglutination**: A characteristic of Turkish where words are formed by adding a series of suffixes to a base word to express grammatical functions without altering the spelling or phonetics of the original morphemes.
-   
+
 **Vowel Harmony**: A phonological feature in Turkish that affects the choice of vowels in suffixes, ensuring they harmonize with the vowels in the word stem.
 
 **SOV (Subject-Object-Verb)**: The typical word order in Turkish sentences, where the subject comes first, followed by the object, and the verb is placed at the end.
@@ -628,7 +628,7 @@ By focusing on idioms and proverbs, adhering to social norms and etiquette, and 
 
 **Tag Questions**: A less common form in Turkish, often expressed through intonation or by repeating the verb in the negative form at the end of a statement for confirmation.
 
-**Indirect Questions**: Embedded questions within a statement or another question, introduced by question words without the question particle. 
+**Indirect Questions**: Embedded questions within a statement or another question, introduced by question words without the question particle.
 
 These terms provide a foundational understanding of the Turkish language, highlighting its unique features and grammatical structures essential for learners.
 
@@ -697,24 +697,43 @@ These terms provide a foundational understanding of the Turkish language, highli
 ## Timeline
 
 **1453**: Sultan Mehmed II captures Constantinople, marking the end of the Byzantine Empire and solidifying the Ottoman Empire's control in the region.
+
 **15th-16th Centuries**: The Ottoman Empire expands into Asia and Africa, becoming a major world power.
+
 **1683**: The Ottoman Empire's advance into Europe is halted at the Battle of Vienna, beginning a long period of decline.
+
 **1883**: The Orient Express departs on its first official journey from Paris to Istanbul, symbolizing a new era of connectivity between East and West.
+
 **1923**: The Republic of Turkey is established with Mustafa Kemal Atatürk as its first president, marking the end of the Ottoman Empire.
+
 **1924**: The abolition of the Caliphate and the introduction of a new Turkish constitution are part of Atatürk's sweeping reforms to modernize Turkey.
+
 **1928**: Atatürk introduces secular reforms, including the adoption of the Latin alphabet and the removal of Islam as the state religion.
+
 **1938**: Atatürk dies and is succeeded by İsmet İnönü.
+
 **1938-1939**: Atatürk's death followed by Turkey's neutrality in World War II, illustrating the country's complex position in global conflicts.
+
 **1950**: Turkey participates in its first free elections, won by the opposition Democratic Party, demonstrating a move towards democratic governance.
+
 **1952**: Turkey joins NATO, aligning itself with Western nations during the Cold War.
+
 **1960**: A military coup takes place, the first of several that would occur in the 20th century.
+
 **1963**: An association agreement is signed with the European Economic Community (EEC), now the EU, paving the way for closer economic ties.
+
 **1974**: Turkey invades northern Cyprus following a Greek-inspired coup, leading to ongoing territorial disputes.
+
 **1980**: Another military coup leads to the imposition of martial law and a new constitution in 1982.
+
 **1983**: Turgut Özal's Motherland Party wins the general election, signaling a return to civilian rule.
+
 **1984**: The Kurdistan Workers' Party (PKK) begins a guerrilla war in southeast Turkey, initiating a conflict that would result in significant political and humanitarian challenges.
+
 **1999**: A devastating earthquake in İzmit results in approximately 17,000 deaths, highlighting the country's vulnerability to natural disasters.
+
 **2005**: Turkey begins negotiations to join the European Union, marking a significant step in its efforts to integrate with Western political and economic structures.
+
 **2013**: Gezi Park protests signal significant public dissent against government policies, reflecting broader social and political tensions within Turkey.
 
 These events showcase Turkey's transformation from the heart of the Ottoman Empire to a modern republic, highlighting its strategic geopolitical position, cultural shifts, and ongoing challenges.
