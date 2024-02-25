@@ -219,6 +219,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Food
 * [Chocolate](society/food/chocolate.en.md)
+* [Food](society/food/food.en.md)
 * [Wine](society/food/wine.en.md)
 
 ### Games
