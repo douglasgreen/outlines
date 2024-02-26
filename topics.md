@@ -413,7 +413,7 @@
 * Linux - done
 * Linux Shell
 * Lisp Programming
-* Literature - in process
+* Literature - done
 * Logical Fallacies
 * Logical Positivism
 * Logic - done
