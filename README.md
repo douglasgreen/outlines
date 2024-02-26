@@ -199,6 +199,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Statistics](science/mathematics/statistics.en.md)
 
 ### Medicine
+* [Medicine](science/medicine/medicine.en.md)
 
 #### Diseases
 * [COVID-19](science/medicine/diseases/covid-19.en.md)
