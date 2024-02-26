@@ -125,9 +125,11 @@ Outlines written by ChatGPT-4 on various subjects.
 * [WordPress](computers/web_development/content_management_systems/wordpress.en.md)
 
 ## Languages
-* [Constructed Language](languages/constructed.en.md)
 * [Languages](languages/languages.en.md)
 * [Linguistics](languages/linguistics.en.md)
+
+### Constructed
+* [Constructed Language](languages/constructed/constructed.en.md)
 
 ### English
 * [English Grammar](languages/english/grammar.en.md)
