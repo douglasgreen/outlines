@@ -224,6 +224,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Games
 * [Chess](society/games/chess.en.md)
+* [Games](society/games/games.en.md)
 * [Role-Playing Games](society/games/rpgs.en.md)
 
 #### Video

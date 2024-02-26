@@ -268,7 +268,7 @@
 * Functional Programming in Python
 * Future of Technology
 * Game of Thrones
-* Games - in process
+* Games - done
 * Game Theory - done
 * Gardening
 * Gender
