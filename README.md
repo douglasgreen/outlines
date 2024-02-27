@@ -159,6 +159,9 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Latin Grammar](languages/latin/grammar.en.md)
 * [Latin Vocabulary](languages/latin/vocabulary.en.md)
 
+### Portuguese
+* [Portuguese Grammar](languages/portuguese/grammar.en.md)
+
 ### Spanish
 * [Spanish Grammar](languages/spanish/grammar.en.md)
 * [Spanish Vocabulary](languages/spanish/vocabulary.en.md)

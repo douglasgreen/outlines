@@ -519,7 +519,7 @@
 * Politics - done
 * Pollution/Air Quality
 * Popular Bands
-* Portuguese Grammar - in process
+* Portuguese Grammar - done
 * Positive Psychology
 * Precious Metals
 * Presidents
