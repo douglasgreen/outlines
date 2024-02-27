@@ -135,7 +135,7 @@
 * Confucius and Confucianism
 * Conservation/Biodiversity
 * Constitution - done
-* Constructed Language Design - in process
+* Constructed Language Design - done
 * Constructed Languages - done
 * Content Management Systems (CMSs) - done
 * Content Delivery Networks (CDNs) - in process

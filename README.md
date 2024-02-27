@@ -130,6 +130,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Linguistics](languages/linguistics.en.md)
 
 ### Constructed
+* [Constructed Language Design](languages/constructed/design.en.md)
 * [Constructed Language](languages/constructed/constructed.en.md)
 
 ### English
