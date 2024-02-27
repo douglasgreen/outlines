@@ -294,6 +294,50 @@ Resume, informadika arkitekturo temas pri fari informon trovebla kaj komprenebla
 
 ## Interaga Dezajno
 
+Interaga dezajno (IxD) fokusas sur kreado de engaĝantaj interfacoj kun bone pripensitaj kondutoj. Ĝi implikas dezajnadon de la interagado inter uzantoj kaj produktoj aŭ sistemoj, kun la celo fari produktojn pli uzeblaj kaj efikaj. Interaga dezajno ne limiĝas al ciferecaj produktoj sed aplikeblas al iu ajn produkto aŭ sistemo kiu implikas ian formon de interagado inter la uzanto kaj la produkto.
+
+### Principoj de Interaga Dezajno
+
+Kelkaj ŝlosilaj principoj subtenas efikan interagan dezajnon, certigante ke uzantoj havas pozitivan sperton:
+
+1. **Cel-Direktita Dezajno**: Dezajno devas esti adaptita por plenumi uzantajn bezonojn kaj celojn. Komprendi kion uzantoj volas atingi helpas krei dezajnon kiu gvidas ilin al siaj celoj efike.
+
+2. **Uzebleco**: La produkto devus esti facila uzebla, kun klara kaj intuicia interfaco kiu minimumigas la lernokurbon por novaj uzantoj dum provizas efikajn vojojn por spertaj uzantoj.
+
+3. **Retrosciigo & Responda Tempo**: Uzantoj devus ricevi tuje kaj klare retrosciigon responde al siaj agoj. Tio povas esti vida, aŭda, aŭ tuŝa, provizante certigon ke la sistemo ricevis la enigon de la uzanto.
+
+4. **Konsisteco**: Konsisteco en dezajno permesas uzantojn utiligi antaŭan scion de unu parto de la aplikaĵo al alia, plibonigante lerneblecon kaj reduktante konfuzon.
+
+5. **Erara Preventado kaj Traktado**: Bona interaga dezajno anticipas eblajn uzanterarojn kaj aŭ preventas ilin antaŭ ol ili okazas aŭ ofertas simplajn, konstruajn solvojn por rekuperado.
+
+### Dezajnado por Malsamaj Interfacoj
+
+La principoj de interaga dezajno devas esti adaptitaj por konveni malsamajn tipojn de interfacoj, ĉiu kun sia propra aro de defioj kaj ŝancoj:
+
+#### Retejo
+
+- **Respondeco**: Retejoj devas esti respondecaj, adaptiĝante senprobleme al malsamaj ekrangrandecoj kaj rezolucioj por certigi uzeblecon tra aparatoj.
+- **Navigacio**: Klara kaj intuicia navigacio estas kruciala, kun konsistenta lokigo de elementoj kiel menuoj, serĉbretoj, kaj alvok-al-ago butonoj.
+
+#### Poŝtelefono
+
+- **Tuŝaj Interagoj**: Dezajno devas kongrui tuŝajn interagojn, kun sufiĉe grandaj tuŝceloj kaj gestoj kiuj reflektas naturajn movojn.
+- **Limigita Ekrana Spaco**: Efika uzo de spaco estas ŝlosila, prioritatigante esencan enhavon kaj trajtojn por eviti malordon kaj certigi legeblecon.
+
+#### Porteblaj
+
+- **Kunteksto-Konscio**: Porteblaj interfacoj devus esti kunteksto-konsciaj, liverante rilatan informon kaj funkciecon bazitan sur la nuna agado aŭ loko de la uzanto.
+- **Simpleco**: Donita la eĉ pli malgrandajn ekranojn, la dezajno devas fokusiĝi je simpleco kaj facila uzebleco, ofte dependante de minimalismaj interfacoj kaj voĉkomandoj.
+
+### Afordaĵoj kaj Signifiloj en Dezajno
+
+Afordaĵoj kaj signifiloj estas krucialaj konceptoj en interaga dezajno, rilatante al kiel uzantoj komprenas kaj interagas kun interfacoj:
+
+- **Afordaĵoj**: Afordaĵo estas propreco aŭ trajto de objekto kiu indikas kiel ĝi povas esti uzata. Ekzemple, butono povas esti premata, kaj glitilo povas esti movita. Efika dezajno certigas ke la afordaĵoj de produkto aŭ sistemo estas klaraj kaj intuiciaj.
+
+- **Signifiloj**: Signifiloj indikas kie ago devus okazi. Ili estas sugestoj kiuj signalas al uzantoj kiuj agoj estas eblaj. Ekzemple, substreka teksto en retpaĝo signifas hiperligilon kiu povas esti klakita. La uzo de signifiloj helpas uzantojn kompreni kiel interagi kun produkto sen devi provi kaj erari.
+
+Incorporante ĉi tiujn principojn, konsiderojn por malsamaj interfacoj, kaj la konceptojn de afordaĵoj kaj signifiloj, interaga dezajno celas krei produktojn kiuj ofertas senjuntan, intuician uzantosperton, transpontante la breĉon inter uzantaj bezonoj kaj produkta funkcio.
 
 ## Informa Arkitekturo
 
