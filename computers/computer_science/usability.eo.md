@@ -341,6 +341,36 @@ Incorporante ĉi tiujn principojn, konsiderojn por malsamaj interfacoj, kaj la k
 
 ## Informa Arkitekturo
 
+Informa arkitekturo (IA) estas la praktiko de strukturado kaj organizado de enhavo en efika kaj daŭripova maniero, por helpi uzantojn trovi informojn kaj plenumi taskojn. Ĝi implikas la dezajnon de informaj medioj kiuj estas intuiciaj kaj uzant-amikaj, igante kompleksajn sistemojn alireblaj kaj kompreneblaj. Bona IA estas kruca por iu ajn sistemo kiu implikas signifan kvanton de informo aŭ enhavo, kiel retejoj, interretaj komunumoj, programaro, kaj datumbazoj.
+
+### Organizado de Informo por Uzebleco
+
+La organizado de informo estas ŝlosila aspekto de IA kaj rekte influas uzeblecon. La celo estas aranĝi la enhavon en maniero kiu reflektas la atendojn de uzantoj, ebligante ilin intuicie kompreni kie trovi informojn. Tio implikas:
+
+- **Kategoriigo**: Grupigado de simila informo kune en kategorioj kiuj havas sencon al la uzanto. Tio povas esti farita per supren-malsupra (dedukta) aŭ malsupren-supra (indukta) aliroj.
+- **Hierarkio**: Establado de klara hierarkio de informo, de ĝenerala al specifa, helpas uzantojn navigi tra tavoloj de enhavo efike.
+- **Etikedado**: Uzado de klaraj, koncizaj, kaj priskribaj etikedoj por kategorioj kaj navigaciaj elementoj helpas uzantojn kompreni siajn eblojn kaj fari informitajn elektojn.
+- **Metadatenoj**: Aplikado de metadatenoj (datenoj pri datenoj) ebligas pli sofistikan kategoriigon, filtradon, kaj serĉkapablojn, plibonigante la troveblecon de enhavo.
+
+### Navigaciaj Sistemoj kaj Menua Dezajno
+
+Navigaciaj sistemoj gvidas uzantojn tra informa spaco kaj estas kritikaj por pozitiva uzanta sperto. Efika navigacio devus sentiĝi intuicia, permesante uzantojn rapide trovi kion ili serĉas sen nepre necesa komplekseco.
+
+- **Konsisteco**: Navigacio devus esti konsistenta tra la tuta informa sistemo, uzante la saman terminologion, vidajn sugestojn, kaj lokigon.
+- **Larĝeco kontraŭ Profundo**: Ekvilibro inter larĝeco (la nombro de ĉefnivelaj ebloj) kaj profundo (kiom da niveloj profunde la enhavo estas organizita) devas esti trovita por eviti superŝarĝi uzantojn aŭ enterigi enhavon tro profunde.
+- **Vida Hierarkio**: Vidaj dezajnelementoj devus klare indiki la hierarkion de navigacio, helpante uzantojn kompreni kie ili estas en la sistemo kaj kiel aliri pli altajn aŭ pli malaltajn nivelojn.
+- **Alirebleco**: Navigacio devus esti alirebla por ĉiuj uzantoj, inkluzive de tiuj kun handikapoj, adherante al alireblecaj gvidlinioj kaj plej bonaj praktikoj.
+
+### Serĉsistemoj kaj Informtrovo
+
+Por kompleksaj informaj sistemoj, navigaciaj menuoj sole povas ne esti sufiĉaj por uzantoj trovi specifan informon. Fortika serĉsistemo plibonigas uzeblecon permesante uzantojn rekte enketi la sistemon.
+
+- **Serĉkesteta Loko**: La serĉkesto devus esti elstare lokita kaj facile alirebla de ĉiu paĝo, kutime ĉe la supro de la paĝo.
+- **Serĉalgoritmoj**: Efikaj serĉalgoritmoj konsideras ne nur la rilaton de enhavo al la serĉterminoj sed ankaŭ la kuntekston, popularon, kaj freŝecon de la enhavo.
+- **Filtriloj kaj Facetigita Serĉo**: Provizado de ebloj por filtri serĉrezultojn laŭ diversaj kriterioj (ekz., dato, kategorio, aŭtoro) helpas uzantojn rafini iliajn serĉojn kaj pli facile trovi kion ili serĉas.
+- **Aŭtomata Kompletigo kaj Sugestoj**: Ĉi tiuj funkcioj povas akceli la serĉproceson kaj helpi uzantojn formuli efikajn serĉpetojn sugestante rilatajn terminojn dum ili tajpas.
+
+Resume, informa arkitekturo temas pri igi informon trovebla kaj komprenebla, per zorga organizado, efikaj navigaciaj sistemoj, kaj efikaj serĉfunkciecoj. Bona IA estas nevidebla al uzantoj; ili ne rimarkas ĝin ĉar ili povas trovi kion ili bezonas sen peno, kio estas la fina celo de uzebleco.
 
 ## Uzantinterfaca Dezajno
 
