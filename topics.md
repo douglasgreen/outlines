@@ -652,7 +652,7 @@
 * United States - done
 * Unit Testing - done
 * Urban Planning
-* Usability - in process
+* Usability - done
 * User Experience (UX) Design
 * Vagrant
 * Vectors

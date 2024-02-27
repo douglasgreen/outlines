@@ -48,6 +48,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Quantum Computing](computers/computer_science/quantum_computing.en.md)
 * [Software Architecture](computers/computer_science/software_architecture.en.md)
 * [Software Engineering](computers/computer_science/software_engineering.en.md)
+* [Usability](computers/computer_science/usability.en.md)
 
 #### Artificial Intelligence
 * [Artificial Intelligence](computers/computer_science/artificial_intelligence/artificial_intelligence.en.md)
