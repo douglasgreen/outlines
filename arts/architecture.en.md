@@ -777,3 +777,47 @@ In conclusion, architecture is much more than the design and construction of bui
 
 20. **How is 3D printing changing architecture?**
     - 3D printing allows for more complex designs, rapid prototyping, and can be more cost-effective and sustainable.
+
+## Timeline
+
+**3100 BC** - Construction of the first known structures in Mesopotamia, marking the beginning of recorded architectural history.
+
+**2550 BC** - The Great Pyramid of Giza in Egypt is completed, showcasing the ancient Egyptians' architectural prowess.
+
+**447 BC** - The construction of the Parthenon begins in Athens, Greece, epitomizing classical architecture.
+
+**70 AD** - The completion of the Roman Colosseum, a symbol of Roman architectural innovation and engineering.
+
+**532 AD** - Construction starts on the Hagia Sophia in Constantinople (Istanbul), illustrating the transition from Roman to Byzantine architecture.
+
+**1248** - The foundation stone of Cologne Cathedral is laid, representing Gothic architectural mastery.
+
+**1632** - Construction of the Taj Mahal begins in Agra, India, showcasing the pinnacle of Mughal architecture.
+
+**1666** - The Great Fire of London leads to the reconstruction of the city, including St. Paul's Cathedral by Christopher Wren, influencing Baroque architecture.
+
+**1885** - The Home Insurance Building in Chicago is completed, heralded as the world's first skyscraper and marking the start of modern architectural design.
+
+**1889** - The Eiffel Tower is constructed for the 1889 Paris Exposition, symbolizing technological advancement in architecture.
+
+**1919** - The Bauhaus school is founded in Germany by Walter Gropius, significantly influencing modern architectural and design education.
+
+**1931** - The Empire State Building is completed in New York City, becoming an iconic symbol of 20th-century architecture.
+
+**1959** - Frank Lloyd Wright completes the Guggenheim Museum in New York, a masterpiece of modern architecture.
+
+**1973** - The Sydney Opera House, designed by Jørn Utzon, is opened, becoming one of the most recognizable buildings of the 20th century.
+
+**1984** - The completion of the HSBC Headquarters in Hong Kong by Norman Foster, showcasing the potential of high-tech architecture.
+
+**2004** - The opening of Taipei 101 in Taiwan, the world's tallest building at the time, representing advancements in skyscraper design.
+
+**2007** - The completion of the Burj Khalifa in Dubai, UAE, setting new records as the tallest structure in the world.
+
+**2010** - The Shanghai Tower's construction is completed, illustrating China's rise in global architectural innovation.
+
+**2019** - The Notre-Dame fire in Paris prompts discussions and future plans for the restoration of historic monuments.
+
+**2022** - The completion of the 1915 Çanakkale Bridge in Turkey, the longest suspension bridge in the world, showcasing contemporary engineering feats.
+
+This timeline encapsulates key moments that have shaped the history of architecture, reflecting the evolution of styles, techniques, and materials from ancient times to the present day.
