@@ -435,7 +435,7 @@
 * Measurement
 * Medical Terminology
 * Medicine - done
-* Meditation - in process
+* Meditation - done
 * Men's Clothing and Fashion
 * Men's Fitness
 * Mental Health
