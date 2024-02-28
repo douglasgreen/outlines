@@ -67,7 +67,7 @@
 * Bond Market
 * Bootstrap Framework
 * Botany
-* Buddhism
+* Buddhism - in process
 * Business - done
 * Business & Economics
 * Business Law
@@ -435,7 +435,7 @@
 * Measurement
 * Medical Terminology
 * Medicine - done
-* Meditation
+* Meditation - in process
 * Men's Clothing and Fashion
 * Men's Fitness
 * Mental Health
