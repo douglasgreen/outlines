@@ -357,7 +357,7 @@
 * Integrated Development Environments (IDEs)
 * Intellectual Property Law
 * Intelligence
-* Internationalization and Localization - in process
+* Internationalization and Localization - done
 * Internet - done
 * Internet of Things
 * Internet Protocols - done
@@ -437,6 +437,7 @@
 * Men's Clothing and Fashion
 * Men's Fitness
 * Mental Health
+* Metaphysics
 * Mexican Food
 * Microservices
 * Microsoft Windows 11

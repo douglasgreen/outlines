@@ -98,6 +98,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Software Design
 * [Design Patterns](computers/programming/software_design/design_patterns.en.md)
+* [Internationalization and Localization](computers/programming/software_design/internationalization_and_localization.en.md)
 * [Object-Oriented Programming (OOP)](computers/programming/software_design/oop.en.md)
 * [Paradigms](computers/programming/software_design/paradigms.en.md)
 * [Software Design](computers/programming/software_design/software_design.en.md)
