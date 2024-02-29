@@ -67,7 +67,7 @@
 * Bond Market
 * Bootstrap Framework
 * Botany
-* Buddhism - in process
+* Buddhism - done
 * Business - done
 * Business & Economics
 * Business Law

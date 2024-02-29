@@ -270,6 +270,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Philosophers](society/philosophy/philosophers/philosophers.en.md)
 
 ### Religion
+* [Buddhism](society/religion/buddhism.en.md)
 * [Meditation](society/religion/meditation.en.md)
 * [Religion](society/religion/religion.en.md)
 
