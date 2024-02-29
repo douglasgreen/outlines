@@ -20,7 +20,7 @@
 * Animals - done
 * Animated Movies
 * Anime - done
-* Anthropology
+* Anthropology - in process
 * Apache Web Server - done
 * API Development
 * Apocryphal Literature
@@ -44,7 +44,6 @@
 * Auto Racing
 * Aviation - done
 * Ayn Rand
-* Back to the Future Movies
 * Baseball
 * Baseball Players
 * Bash Scripting
@@ -61,7 +60,6 @@
 * Biology - done
 * Biotechnology
 * Birds
-* Black Mirror Episodes
 * Blockchain and Cryptocurrencies
 * Board Games
 * Bond Market
@@ -137,8 +135,8 @@
 * Constitution - done
 * Constructed Language Design - done
 * Constructed Languages - done
-* Content Management Systems (CMSs) - done
 * Content Delivery Networks (CDNs) - in process
+* Content Management Systems (CMSs) - done
 * Cooking
 * Corporations
 * Cosmology
@@ -230,6 +228,7 @@
 * Ethical Hacking
 * Ethics - done
 * Ethics of Technology
+* Ethnicity
 * European Union
 * Europe - done
 * Event-Driven Programming in JavaScript
@@ -293,8 +292,7 @@
 * Greek Mythology
 * Greek Vocabulary
 * Gulf War
-* Harry Potter Books
-* Harry Potter Movies
+* Harry Potter
 * Health - done
 * Hedonism
 * Herbs
@@ -494,7 +492,6 @@
 * Painters and Paintings
 * Painting
 * Paradoxes - done
-* Peoples
 * Personal Finance
 * Personality Types
 * Pets
