@@ -190,6 +190,9 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Bats](science/biology/animals/bats.en.md)
 * [Dinosaurs](science/biology/animals/dinosaurs.en.md)
 
+#### Plants
+* [Plants](science/biology/plants/plants.en.md)
+
 ### Environment
 * [Climate Change](science/environment/climate_change.en.md)
 * [Weather](science/environment/weather.en.md)

@@ -64,7 +64,6 @@
 * Board Games
 * Bond Market
 * Bootstrap Framework
-* Botany
 * Buddhism - done
 * Business - done
 * Business & Economics
@@ -509,7 +508,7 @@
 * Physics - done
 * Piracy - done
 * Pirates of the Caribbean Movies
-* Plants - in process
+* Plants (Botany) - done
 * Plato
 * Poetry
 * Poets
