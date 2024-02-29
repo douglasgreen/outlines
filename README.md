@@ -68,6 +68,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Linux Commands](computers/operating_systems/linux/commands.en.md)
 
 ### Networking
+* [Content Delivery Networks](computers/networking/content_delivery_networks.en.md)
 * [Networking](computers/networking/networking.en.md)
 
 #### Internet

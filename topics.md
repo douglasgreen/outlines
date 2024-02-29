@@ -135,7 +135,7 @@
 * Constitution - done
 * Constructed Language Design - done
 * Constructed Languages - done
-* Content Delivery Networks (CDNs) - in process
+* Content Delivery Networks (CDNs) - done
 * Content Management Systems (CMSs) - done
 * Cooking
 * Corporations
