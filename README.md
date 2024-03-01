@@ -184,6 +184,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Physics](science/physics.en.md)
 * [Science](science/science.en.md)
 * [Space Exploration](science/space_exploration.en.md)
+* [Time](science/time.en.md)
 
 ### Biology
 * [Biology](science/biology/biology.en.md)
