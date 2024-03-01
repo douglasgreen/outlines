@@ -349,6 +349,8 @@ The *Dune* series has left an indelible mark on fandom and culture, transcending
 
 The Dune Expanded Universe, created by Brian Herbert and Kevin J. Anderson, extends the original Dune series written by Frank Herbert. It includes prequels, sequels, interquels, and short stories that expand upon the universe, characters, and events of the original series.
 
+### Series Within the Expanded Universe
+
 The Expanded Universe novels are divided into several series:
 - **Prelude to Dune** prequel trilogy explores the events leading up to Frank Herbert's original Dune novel.
 - **Legends of Dune** prequel trilogy delves into the Butlerian Jihad, a crucial historical event in the Dune universe.
@@ -356,11 +358,17 @@ The Expanded Universe novels are divided into several series:
 - **Schools of Dune** prequel trilogy focuses on the formation of the universe's key institutions.
 - **The Caladan Trilogy** offers insights into the lives of the Atreides family before the events of Dune.
 
+### Canonicity and Reception
+
 These works are considered canon by Herbert Properties LLC, which represents Frank Herbert's estate. This acknowledgment, coupled with the commercial success of the books, underscores their acceptance within the broader Dune narrative. The Expanded Universe explores periods and characters only briefly mentioned or left unexplored in the original series, providing fans with a deeper understanding of the Dune universe.
 
 Despite their canonicity and commercial success, the reception of the Expanded Universe has been mixed. Some fans appreciate the additional depth and context these works bring to the Dune universe, while others prefer the original series and view the additional novels as lesser additions. This division is common in long-standing science fiction franchises that are expanded by authors other than the original creator.
 
+### Key Stories and Characters
+
 Key stories and characters introduced in the Expanded Universe include the detailed background of the Butlerian Jihad in the **Legends of Dune**, the political and personal machinations leading up to the original series in the **Prelude to Dune**, and the establishment of the Bene Gesserit, Mentat, and Suk Schools in the **Schools of Dune** trilogy. The Expanded Universe also explores the early days of key characters from the original series, offering new insights and adding layers to their personalities and actions.
+
+### Conclusion
 
 In summary, the Expanded Universe of Dune, crafted by Brian Herbert and Kevin J. Anderson, significantly extends the lore of the original series by exploring its history, characters, and key events in greater detail. While canon to the Dune saga, these expansions have elicited mixed reactions from the fanbase, reflecting the challenges and complexities of building upon a beloved and iconic series.
 
