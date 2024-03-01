@@ -1,0 +1,505 @@
+Time|315307
+Money|62106
+Government|45784
+Email|36623
+Reading|27818
+Film|26890
+Writing|25367
+Travel|23944
+Marketing|19493
+Australia|15650
+Coffee|12296
+Exercise|11009
+Leadership|10995
+Cities|10201
+Shopping|9663
+Relationships|9634
+Finance|8500
+France|8428
+Tea|8300
+Germany|7943
+Cooking|7866
+Japan|7815
+Labor|7432
+Dogs|7184
+Clothing|6562
+Beer|6339
+Intelligence|6016
+Painting|5817
+"Social Media"|5784
+Fitness|5755
+Flowers|5731
+Drawing|5671
+Basketball|5617
+Manufacturing|5608
+Italy|5599
+Baseball|5562
+Golf|5481
+Birds|5332
+Gender|4708
+Studying|4677
+Mountains|4330
+Evolution|4194
+Theater|4084
+NASA|4039
+Nutrition|3677
+Spain|3613
+Wrestling|3565
+Yoga|3392
+Agriculture|3267
+Measurement|3240
+Cats|2979
+Corporations|2872
+Islam|2866
+"Real Estate"|2745
+Democracy|2664
+Poetry|2603
+Pets|2484
+Herbs|2438
+Rivers|2295
+Massage|2280
+Comics|2255
+Lakes|2255
+Camping|2196
+"New Zealand"|2046
+"Mental Health"|1778
+Insects|1628
+Sculpture|1428
+Geography|1414
+Gardening|1392
+Presidents|1350
+"Civil War"|1236
+"Human Rights"|1180
+Capitalism|1177
+Diets|1167
+Genetics|1082
+"United Nations"|1062
+"Open Source"|1005
+Snakes|979
+"South America"|966
+Rhetoric|944
+"User Experience"|815
+Beatles|814
+"Human Resources"|806
+"European Union"|796
+"Star Wars"|791
+"Web Design"|786
+"Game of Thrones"|774
+"Star Trek"|769
+Economists|734
+Holocaust|732
+E-Commerce|730
+"Software Development"|722
+Optics|721
+Oceans|713
+"Project Management"|711
+Debugging|710
+Quran|700
+Biotechnology|681
+"South Korea"|680
+Entrepreneurship|661
+Vectors|627
+Poets|623
+"Information Technology"|618
+"Stock Market"|617
+Ethnicity|612
+"Cold War"|581
+"Martial Arts"|560
+"World War I"|511
+Censorship|500
+"Harry Potter"|492
+Miscellaneous|491
+"Doctor Who"|490
+Anthropology|488
+Reptiles|488
+Aristotle|487
+Cheeses|482
+"Critical Thinking"|480
+Motorcycles|459
+"Federal Reserve"|453
+Archaeology|447
+"Big Data"|440
+Robotics|438
+Anarchy|420
+Monarchy|418
+"Data Analysis"|415
+"Solar System"|405
+Neuroscience|404
+"Silicon Valley"|372
+"Web Applications"|370
+"Cloud Computing"|361
+Biochemistry|359
+Fishes|355
+Judaism|351
+Plato|350
+Nanotechnology|347
+"Internet of Things"|345
+"Time Management"|342
+"Vietnam War"|335
+"Online Learning"|332
+"Precious Metals"|309
+Chemists|280
+Docker|269
+Hinduism|266
+"Food Safety"|258
+"Industrial Revolution"|257
+Matrices|250
+"World Wide Web"|250
+Biologists|246
+Catholicism|240
+"Personal Finance"|238
+Pharmacology|236
+"Native Americans"|232
+DevOps|229
+"Business Strategy"|227
+Epistemology|218
+Metaphysics|218
+Mathematicians|214
+"Computer Software"|209
+Topology|205
+NoSQL|201
+Superstition|201
+"Streaming Services"|197
+"Responsive Design"|193
+Thermodynamics|187
+Microservices|180
+"Electrical Engineering"|171
+Physicists|170
+"Quantum Mechanics"|170
+"Board Games"|166
+Trigonometry|165
+Idealism|162
+"Korean War"|160
+"The Simpsons"|156
+"Search Engine Optimization"|151
+"Regular Expressions"|148
+"English Literature"|147
+Zoology|137
+Cosmology|135
+"Urban Planning"|133
+"Electric Vehicles"|132
+"Environmental Science"|132
+"Gulf War"|127
+"Iraq War"|126
+"Music Theory"|126
+"Illegal Drugs"|124
+"Database Management"|122
+"Computer Graphics"|117
+Refactoring|117
+"Mexican Food"|111
+Flashcards|104
+"Functional Programming"|104
+"Nuclear War"|103
+"Sherlock Holmes"|103
+"Web Standards"|103
+Rationalism|101
+"Basketball Players"|98
+Kubernetes|98
+"Ancient Egypt"|97
+"Data Science"|96
+"Natural Language Processing"|96
+"Business Law"|95
+"Chinese Food"|94
+"Trees and Shrubs"|93
+"Greek Mythology"|89
+Relativism|88
+Typescript|87
+"Computer Hardware"|84
+"Materials Science"|84
+"Digital Photography"|83
+"Autonomous Vehicles"|82
+"Medical Terminology"|81
+"Wireless Networks"|77
+"Data Visualization"|74
+"Human Anatomy"|72
+"Card Games"|69
+"Computer Security"|69
+"Time Series"|69
+"American Literature"|68
+Demography|67
+"Curriculum Development"|66
+Existentialism|66
+"Bond Market"|65
+Geocaching|62
+"Alcoholic Drinks"|61
+Vagrant|61
+Stoicism|60
+"Cultural Studies"|59
+Diagramming|59
+"Web Analytics"|58
+"Thomas Aquinas"|57
+"Android Operating System"|56
+"Ayn Rand"|55
+"Baseball Players"|55
+"Indian Food"|54
+Vue.js|54
+Hedonism|53
+Environmentalism|50
+"Differential Equations"|49
+"Number Theory"|48
+"Personality Types"|48
+"Set Theory"|47
+"System Administration"|47
+"Mobile App Development"|46
+"Mystery Fiction"|46
+"History of the United States"|45
+"War in Afghanistan"|45
+"Color Theory"|44
+"Educational Psychology"|44
+"Music Genres"|44
+Nihilism|43
+"Military Strategy"|42
+Theocracy|42
+"Knowledge Management"|41
+"Sustainable Living"|41
+"Famous Artists"|40
+"Linear Algebra"|40
+Autocracy|39
+"Comic Strips"|39
+"Database Design"|39
+"Political Ideologies"|38
+GitLab|37
+"Information Science"|37
+"John Locke"|37
+"Computer Networking"|36
+Econometrics|36
+"Norse Mythology"|36
+"Tennis Players"|36
+"Test-Driven Development"|36
+"Auto Racing"|34
+"Extraterrestrial Life"|34
+"Intellectual Property Law"|34
+"History of Science"|33
+"Positive Psychology"|33
+"Structured Query Language"|33
+"Dungeons and Dragons"|32
+"Learning Methods"|32
+"Dental Hygiene"|31
+"Unified Modeling Language"|31
+"Web Accessibility"|30
+"Amazon Rainforest"|29
+PHPUnit|29
+"Data Compression"|28
+"Writing Fiction"|28
+"Business Leadership"|27
+"Computational Linguistics"|26
+"David Hume"|26
+"Operations Research"|26
+"Home Repair"|25
+"Immanuel Kant"|25
+"Philosophy of Science"|25
+"Concurrent Programming"|24
+"John Stuart Mill"|24
+"Regression Analysis"|23
+"Nuclear Technology"|22
+"Clean Code"|21
+"Declarative Programming"|21
+"Human Bones"|21
+"Human-Computer Interaction"|21
+"API Development"|20
+"Architectural Patterns"|20
+"History of Music"|20
+"Integrated Development Environments"|20
+"Roman Mythology"|20
+"Visual Studio Code"|20
+"C Programming"|19
+"Dog Breeds"|19
+"Chief Executive Officers"|18
+"Cities of the World"|18
+"Cognitive Biases"|18
+"History of Philosophy"|18
+"History of Television"|18
+Arachnids|17
+"Complex Analysis"|17
+"Information Privacy"|17
+WebAssembly|17
+"Chess Players"|16
+"Data Warehousing"|16
+"Document Object Model"|16
+"Eastern Philosophy"|16
+"Java Programming"|16
+"Famous Authors"|15
+"Future of Technology"|15
+"JavaScript Programming"|15
+"PHP Frameworks"|15
+"Rick and Morty"|15
+"Animated Movies"|14
+"English Vocabulary"|14
+"Countries of Europe"|13
+"C++ Programming"|13
+"REST APIs"|13
+"Blockchain and Cryptocurrencies"|12
+"Comic Book Characters"|12
+"History of Europe"|12
+"Jean-Jacques Rousseau"|12
+"Jean-Paul Sartre"|12
+"Logical Positivism"|12
+"Logical Fallacies"|11
+"Professional Wrestlers"|11
+Crocodilians|10
+"Film Genres"|10
+"History of Religion"|10
+"History of Technology"|10
+"Systems Theory"|10
+Epicureanism|9
+"History of Africa"|9
+"Information Technology Industry"|9
+Neoplatonism|9
+"Software Development Methodologies"|9
+"Ethical Hacking"|8
+"History of Canada"|8
+"Pirates of the Caribbean Movies"|8
+"Relativity Theory"|8
+"Russian Literature"|8
+"Sacred Books"|8
+"Theory of Computation"|8
+"Agile Software Development"|7
+"Arthur Schopenhauer"|7
+"Bayesian Statistics"|7
+"Computer Gaming"|7
+"Countries of Africa"|7
+"Driving Safety"|7
+"Fantasy Creatures"|7
+"History of India"|7
+"Popular Bands"|7
+"Scrum Methodology"|7
+"Abstract Algebra"|6
+"History of Mexico"|6
+"Linux Shell"|6
+"Code Refactoring"|5
+"Commodities Market"|5
+Cryptozoology|5
+"Famous Bands"|5
+"First-Order Logic"|5
+"Georg Wilhelm Friedrich Hegel"|5
+"History of China"|5
+"History of War"|5
+"Information Technology Companies"|5
+"Karl Popper"|5
+"Mobile Web Development"|5
+"Philosophical Schools"|5
+"States of the United States"|5
+"Apple macOS"|4
+"Bash Scripting"|4
+"Dice Games"|4
+Electromagnetics|4
+"Golf Players"|4
+"Greek Grammar"|4
+"History of Computing"|4
+"History of Mathematics"|4
+"H. P. Lovecraft"|4
+"James Bond Movies"|4
+"Life in the Middle Ages"|4
+"Lord of the Rings Movies"|4
+"Ontological Engineering"|4
+"Philosophy of Mathematics"|4
+"Software Optimization"|4
+"Countries of Asia"|3
+"Design Patterns in JavaScript"|3
+"History of Ancient Greece"|3
+"History of Florida"|3
+"Jurassic Park Movies"|3
+"Socialism and Communism"|3
+"Terminator Movies"|3
+"Writing User Stories"|3
+"American Football Players"|2
+"Business Math"|2
+"Chinese Vocabulary"|2
+"Debugging Software"|2
+"History of Movies"|2
+"Lisp Programming"|2
+"R Programming"|2
+"Rust Programming"|2
+"Writing Non-Fiction"|2
+"Chinese Grammar"|1
+"Computer File Formats"|1
+"Data Engineering"|1
+"Dutch Grammar"|1
+"Event-Driven Programming in JavaScript"|1
+"Fast and Furious Movies"|1
+"Geologic Periods"|1
+"Historic Battles"|1
+"History of Ancient Rome"|1
+"History of Latin America"|1
+"History of South America"|1
+"History of the United Kingdom"|1
+"Human Muscles"|1
+"Information Technology Law"|1
+"Inventors and Inventions"|1
+"Italian Vocabulary"|1
+"Japanese Grammar"|1
+Lao-Tzu|1
+"Matrix Movies"|1
+"Object-Oriented Programming in Python"|1
+"Oceanic Life"|1
+"Sass and Other CSS Preprocessors"|1
+"Tensor Calculus"|1
+"American National Parks"|0
+"Apocryphal Literature"|0
+"Authors and Novels"|0
+"Bootstrap Framework"|0
+"Business & Economics"|0
+"Clojure Programming"|0
+"Comic Book Secret Identities"|0
+"Comic Strip Authors"|0
+"Composer for PHP"|0
+"Composers and Compositions"|0
+"Confucius and Confucianism"|0
+Conservation/Biodiversity|0
+"Countries of South America"|0
+"C. S. Lewis's Chronicles of Narnia Series"|0
+"Cypress Testing Framework"|0
+"Database Cookbook"|0
+"Database Design Patterns"|0
+"Design Antipatterns"|0
+"Design Patterns in PHP"|0
+"Domain-Driven Design"|0
+"Electric Circuits and Devices"|0
+"Electron Software Framework"|0
+"Ethics of Technology"|0
+"Florida Geography"|0
+"Functional Programming in JavaScript"|0
+"Functional Programming in PHP"|0
+"Functional Programming in Python"|0
+"George R. R. Martin's Game of Thrones Series"|0
+"Go Programming"|0
+"Greek Vocabulary"|0
+"History of Asia"|0
+"Horror Creatures"|0
+"Isaac Asimov's Foundation Series"|0
+"Japanese Vocabulary"|0
+"jQuery Programming"|0
+"J. R. R. Tolkien's Lord of the Rings Series"|0
+"Karl Marx and Marxism"|0
+"Large Language Models"|0
+"Laws of Computing"|0
+"Life in Ancient Rome"|0
+"Lifestyle & Personal Development"|0
+"Machine Learning in Python"|0
+"Making a Constructed Language"|0
+"Marvel Cinematic Universe Movies"|0
+"Men's Clothing and Fashion"|0
+"Men's Fitness"|0
+"Microsoft Windows 11"|0
+"Neural Networks/Deep Learning"|0
+"Painters and Paintings"|0
+"Pollution/Air Quality"|0
+"Prolog Programming"|0
+"Psychology of Software Development"|0
+"Religion & Spirituality"|0
+"Robert Jordan's Wheel of Time Series"|0
+"Sales & Marketing"|0
+"Science & Nature"|0
+"Scientists and Discoveries"|0
+"Secret Agents and Spycraft"|0
+"Slang and Colloquialisms"|0
+"Social Issues/Inequality"|0
+"Software Compilers"|0
+"Software Debugging"|0
+"Software Requirements Specifications"|0
+"T'ai Chi and QiGong"|0
+"The Matrix Movies"|0
+"Travel & Tourism"|0
+"Virtual Reality/Augmented Reality"|0
+"Writing Software Project Documentation"|0
+"XML Processing in PHP"|0
