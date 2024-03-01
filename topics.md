@@ -629,7 +629,7 @@
 * Theater
 * The Matrix Movies
 * Theocracy
-* Theology - in process
+* Theology - done
 * Theory of Computation
 * Thermodynamics
 * The Simpsons

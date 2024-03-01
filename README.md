@@ -281,6 +281,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Buddhism](society/religion/buddhism.en.md)
 * [Meditation](society/religion/meditation.en.md)
 * [Religion](society/religion/religion.en.md)
+* [Theology](society/religion/theology.en.md)
 
 #### Christianity
 * [Christianity](society/religion/christianity/christianity.en.md)
