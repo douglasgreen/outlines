@@ -15,6 +15,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [William Shakespeare](arts/literature/william_shakespeare.en.md)
 
 #### Science Fiction
+* [Dune](arts/literature/science_fiction/dune.en.md)
 * [Science Fiction](arts/literature/science_fiction/science_fiction.en.md)
 
 ### Movies
