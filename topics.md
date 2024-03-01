@@ -197,6 +197,7 @@
 * Drawing
 * Driving Safety
 * Drones - done
+* Dune - in process
 * Dungeons and Dragons
 * Dutch Grammar
 * Eastern Philosophy
