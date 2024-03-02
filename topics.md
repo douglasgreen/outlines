@@ -310,7 +310,7 @@
 * Graph Theory - done
 * Greek Grammar
 * Greek Mythology
-* Greek Philosophers - in process
+* Greek Philosophers - done
 * Greek Vocabulary
 * Gulf War
 * Hannah Arendt
