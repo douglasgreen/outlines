@@ -31,14 +31,14 @@ Explain quantum mechanics postulates, while discussing the following topics:
 
 ## The Heisenberg Uncertainty Principle
 
-Explain the heisenberg uncertainty principle, while discussing the following topics:
+Explain the Heisenberg uncertainty principle, while discussing the following topics:
 * Concept and derivation
 * Uncertainty in position and momentum
 * Philosophical implications
 
 ## The Schrödinger Equation
 
-Explain the schrödinger equation, while discussing the following topics:
+Explain the Schrödinger equation, while discussing the following topics:
 * Time-dependent Schrödinger equation
 * Time-independent Schrödinger equation
 * Applications and examples
