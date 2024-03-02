@@ -8,10 +8,12 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Television](arts/television.en.md)
 
 ### Literature
-* [Fantasy Fiction](arts/literature/fantasy_fiction.en.md)
 * [Horror Fiction](arts/literature/horror_fiction.en.md)
 * [Literature](arts/literature/literature.en.md)
 * [William Shakespeare](arts/literature/william_shakespeare.en.md)
+
+#### Fantasy Fiction
+* [Fantasy Fiction](arts/literature/fantasy_fiction.en.md)
 
 #### Science Fiction
 * [Dune](arts/literature/science_fiction/dune.en.md)

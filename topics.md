@@ -75,6 +75,7 @@
 * Boethius
 * Bond Market
 * Bootstrap Framework
+* Buckminster Fuller
 * Buddhism - done
 * Business - done
 * Business & Economics
@@ -573,7 +574,7 @@
 * Pythagoras
 * Python Programming - done
 * Quantum Computing - done
-* Quantum Mechanics
+* Quantum Mechanics - in process
 * Quran
 * Rationalism
 * Reading
