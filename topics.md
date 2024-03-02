@@ -280,7 +280,7 @@
 * Georg Wilhelm Friedrich Hegel
 * German Grammar - done
 * German Vocabulary - done
-* Germany - in process
+* Germany - done
 * Git - done
 * GitLab
 * Golf
@@ -343,6 +343,7 @@
 * Idealism
 * Illegal Drugs
 * Immanuel Kant
+* Immigration
 * India - done
 * Indian Food
 * Industrial Revolution

@@ -321,6 +321,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Europe
 * [Europe](world/europe/europe.en.md)
+* [Germany](world/europe/germany.en.md)
 
 ### North America
 * [North America](world/north_america/north_america.en.md)
