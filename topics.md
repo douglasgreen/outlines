@@ -1,11 +1,14 @@
+* 20th Century Philosophers
 * Abstract Algebra
 * Accounting - done
 * Africa - done
 * Agile Software Development
 * Agriculture
 * Alcoholic Drinks
+* Al-Farabi
 * Algebra - done
 * Algorithms - done
+* Alvin Plantinga
 * Amazon Rainforest
 * American Football - done
 * American Football Players
@@ -15,11 +18,13 @@
 * Anatomy and Physiology - done
 * Ancient Egypt
 * Ancient Greece - done
+* Ancient Philosophers
 * Ancient Rome - done
 * Android Operating System
 * Animals - done
 * Animated Movies
 * Anime - done
+* Anselm of Canterbury
 * Anthropology - in process
 * Apache Web Server - done
 * API Development
@@ -35,6 +40,7 @@
 * Arts - done
 * Asia - done
 * Astronomy - done
+* Augustine of Hippo
 * Australia
 * Authors and Novels
 * Autocracy
@@ -42,8 +48,11 @@
 * Automobiles - done
 * Autonomous Vehicles
 * Auto Racing
+* Averroes
 * Aviation - done
+* Avicenna
 * Ayn Rand
+* Baruch Spinoza
 * Baseball
 * Baseball Players
 * Bash Scripting
@@ -53,6 +62,7 @@
 * Bayesian Statistics
 * Beatles
 * Beer
+* Bertrand Russell
 * Bible - done
 * Big Data
 * Biochemistry
@@ -62,6 +72,7 @@
 * Birds
 * Blockchain and Cryptocurrencies
 * Board Games
+* Boethius
 * Bond Market
 * Bootstrap Framework
 * Buddhism - done
@@ -129,14 +140,17 @@
 * Computer Security
 * Computer Software
 * Concurrent Programming
+* Confucius
 * Confucius and Confucianism
 * Conservation/Biodiversity
 * Constitution - done
 * Constructed Language Design - done
 * Constructed Languages - done
+* Contemporary Philosophers
 * Content Delivery Networks (CDNs) - done
 * Content Management Systems (CMSs) - done
 * Cooking
+* Cornel West
 * Corporations
 * Cosmology
 * Countries of Africa
@@ -155,6 +169,7 @@
 * Cultural Studies
 * Curriculum Development
 * Cypress Testing Framework
+* Daniel Dennett
 * Data Analysis
 * Database Cookbook
 * Database Design
@@ -186,6 +201,7 @@
 * Differential Equations
 * Digital Photography
 * Dinosaurs - done
+* Diogenes of Sinope
 * Discrete Mathematics - done
 * Diseases - done
 * Docker
@@ -199,6 +215,7 @@
 * Drones - done
 * Dune - done
 * Dungeons and Dragons
+* Duns Scotus
 * Dutch Grammar
 * Eastern Philosophy
 * E-Commerce
@@ -222,6 +239,7 @@
 * Environmentalism
 * Environmental Science
 * Epicureanism
+* Epicurus
 * Epistemology
 * Esperanto Grammar - done
 * Esperanto Vocabulary - done
@@ -261,6 +279,7 @@
 * French Grammar - done
 * French Vocabulary - done
 * Friedrich Nietzche - done
+* Friedrich Nietzsche
 * Functional Programming
 * Functional Programming in JavaScript
 * Functional Programming in PHP
@@ -286,15 +305,19 @@
 * Golf
 * Golf Players
 * Go Programming
+* Gottfried Wilhelm Leibniz
 * Government
 * Graph Theory - done
 * Greek Grammar
 * Greek Mythology
+* Greek Philosophers - in process
 * Greek Vocabulary
 * Gulf War
+* Hannah Arendt
 * Harry Potter
 * Health - done
 * Hedonism
+* Heraclitus
 * Herbs
 * Hinduism
 * Historic Battles
@@ -371,6 +394,7 @@
 * Italian Grammar - done
 * Italian Vocabulary
 * Italy
+* Jacques Derrida
 * James Bond Movies
 * Japan
 * Japanese Grammar
@@ -382,11 +406,14 @@
 * Jean-Jacques Rousseau
 * Jean-Paul Sartre
 * John Locke
+* John Rawls
 * John Stuart Mill
 * jQuery Programming
 * J. R. R. Tolkien's Lord of the Rings Series
 * Judaism
+* Judith Butler
 * Jurassic Park Movies
+* Jürgen Habermas
 * Karl Marx and Marxism
 * Karl Popper
 * Knowledge Management
@@ -396,6 +423,7 @@
 * Lakes
 * Language - done
 * Lao-Tzu
+* Laozi
 * Large Language Models (LLMs)
 * Latin Grammar - done
 * Latin Vocabulary - done
@@ -417,13 +445,17 @@
 * Logical Positivism
 * Logic - done
 * Lord of the Rings Movies
+* Ludwig Wittgenstein
 * Machine Learning - done
 * Machine Learning in Python
+* Maimonides
 * Making a Constructed Language
 * Management - done
 * Manufacturing
 * Marketing
+* Martha Nussbaum
 * Martial Arts
+* Martin Heidegger
 * Marvel Cinematic Universe Movies
 * Massage
 * Materials Science
@@ -434,12 +466,14 @@
 * Measurement
 * Medical Terminology
 * Medicine - done
+* Medieval Philosophers
 * Meditation - done
 * Men's Clothing and Fashion
 * Men's Fitness
 * Mental Health
 * Metaphysics
 * Mexican Food
+* Michel Foucault
 * Microservices
 * Microsoft Windows 11
 * Microsoft Windows - done
@@ -448,6 +482,7 @@
 * Mobile App Development
 * Mobile Computing - done
 * Mobile Web Development
+* Modern Philosophers
 * Monarchy
 * Money
 * Motorcycles
@@ -470,6 +505,7 @@
 * New Testament - done
 * New Zealand
 * Nihilism
+* Noam Chomsky
 * Node.js and Node Package Manager (NPM) - done
 * Norse Mythology
 * North America - done
@@ -496,6 +532,7 @@
 * Paradoxes - done
 * Personal Finance
 * Personality Types
+* Peter Singer
 * Pets
 * Pharmacology
 * Philosophers - done
@@ -532,6 +569,7 @@
 * Prolog Programming
 * Psychology - done
 * Psychology of Software Development
+* Pythagoras
 * Python Programming - done
 * Quantum Computing - done
 * Quantum Mechanics
@@ -547,10 +585,12 @@
 * Relativity Theory
 * Religion - done
 * Religion & Spirituality
+* René Descartes
 * Reptiles
 * Responsive Design
 * REST APIs
 * Rhetoric
+* Richard Swinburne
 * Rick and Morty
 * Rivers
 * Robert Jordan's Wheel of Time Series
@@ -576,13 +616,16 @@
 * Sherlock Holmes
 * Shopping
 * Silicon Valley
+* Simone de Beauvoir
 * Slang and Colloquialisms
+* Slavoj Žižek
 * Snakes
 * Socialism and Communism
 * Social Issues/Inequality
 * Social Media
 * Society - done
 * Sociology - done
+* Socrates
 * Software Architecture - done
 * Software Compilers
 * Software Debugging
@@ -596,6 +639,7 @@
 * Software Requirements Specifications
 * Software Testing - done
 * Solar System
+* Søren Kierkegaard
 * South America
 * South Korea
 * Space Exploration - done
@@ -674,6 +718,7 @@
 * Web Development - done
 * WebPack - done
 * Web Standards
+* William of Ockham
 * William Shakespeare - done
 * Wine - done
 * Wireless Networks
@@ -691,4 +736,5 @@
 * Writing With ChatGPT - done
 * XML Processing in PHP
 * Yoga
+* Zeno of Elea
 * Zoology
