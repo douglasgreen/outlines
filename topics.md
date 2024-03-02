@@ -25,7 +25,7 @@
 * Animated Movies
 * Anime - done
 * Anselm of Canterbury
-* Anthropology - in process
+* Anthropology
 * Apache Web Server - done
 * API Development
 * Apocryphal Literature
