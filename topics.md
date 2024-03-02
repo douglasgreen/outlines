@@ -648,7 +648,7 @@
 * Spanish Vocabulary - done
 * Sports - done
 * Star Trek
-* Star Wars - in process
+* Star Wars - done
 * States of the United States
 * Statistics - done
 * Stock Market
