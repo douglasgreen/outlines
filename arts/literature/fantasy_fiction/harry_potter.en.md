@@ -741,8 +741,6 @@ These characters, among others, contribute significantly to the richness of the 
 
 ## Timeline
 
-### Timeline of the Top 20 Important Events in the History of Harry Potter
-
 **Late 13th Century**: The Deathly Hallows are created by the Peverell brothers.
 
 **1970-1981**: The rise and first fall of Lord Voldemort, initiating the First Wizarding War.
