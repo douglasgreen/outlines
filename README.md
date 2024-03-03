@@ -288,6 +288,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ##### German
 * [Friedrich Nietzsche](society/philosophy/philosophers/german/friedrich_nietzsche.en.md)
+* [German Philosophers](society/philosophy/philosophers/german/german.en.md)
 
 ### Religion
 * [Buddhism](society/religion/buddhism.en.md)

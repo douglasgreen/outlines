@@ -301,7 +301,7 @@
 * George R. R. Martin's Game of Thrones Series
 * Georg Wilhelm Friedrich Hegel
 * German Grammar - done
-* German Philosophers - in process
+* German Philosophers - done
 * German Vocabulary - done
 * Germany - done
 * Git - done
