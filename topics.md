@@ -574,7 +574,7 @@
 * Pythagoras
 * Python Programming - done
 * Quantum Computing - done
-* Quantum Mechanics - in process
+* Quantum Mechanics - done
 * Quran
 * Rationalism
 * Reading
