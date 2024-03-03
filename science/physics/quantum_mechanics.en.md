@@ -78,9 +78,9 @@ A quantum state represents the state of a quantum system, characterized by a set
 
 ### State Vectors and Wave Functions
 
-- **State Vectors**: In the mathematical formulation of quantum mechanics, a state vector, often denoted by \( | \psi \rangle \) (read as "ket psi" in Dirac notation), represents the state of a quantum system in Hilbert space. This abstract mathematical construct encapsulates all the information about the system's state and can be used to calculate the probabilities of various measurement outcomes.
+- **State Vectors**: In the mathematical formulation of quantum mechanics, a state vector, often denoted by $`| \psi \rangle`$ (read as "ket psi" in Dirac notation), represents the state of a quantum system in Hilbert space. This abstract mathematical construct encapsulates all the information about the system's state and can be used to calculate the probabilities of various measurement outcomes.
 
-- **Wave Functions**: The wave function is a more specific representation of a quantum state, typically used in the context of quantum systems that are functions of position and time. Represented by \( \psi(x, t) \), the wave function describes the probability amplitude of a particle's position and time. The square of the wave function's magnitude, \( |\psi(x, t)|^2 \), gives the probability density of finding the particle at position \( x \) at time \( t \). The wave function thus provides a complete description of a quantum system's state in terms of probabilities rather than definite outcomes.
+- **Wave Functions**: The wave function is a more specific representation of a quantum state, typically used in the context of quantum systems that are functions of position and time. Represented by $`\psi(x, t)`$, the wave function describes the probability amplitude of a particle's position and time. The square of the wave function's magnitude, $`|\psi(x, t)|^2`$, gives the probability density of finding the particle at position $`x`$ at time $`t`$. The wave function thus provides a complete description of a quantum system's state in terms of probabilities rather than definite outcomes.
 
 ### Superposition Principle
 
@@ -102,15 +102,15 @@ Quantum mechanics is built upon a set of foundational postulates that define how
 
 ### Postulate 1: State Space
 
-The first postulate of quantum mechanics states that the state of a quantum system is completely described by a state vector \( | \psi \rangle \) in a complex vector space called Hilbert space. This state vector contains all the information necessary to determine the probabilities of the outcomes of any possible measurement on the system. The Hilbert space is equipped with an inner product, which allows for the calculation of these probabilities. The state vector evolves smoothly over time according to the Schrödinger equation (covered in Postulate 2).
+The first postulate of quantum mechanics states that the state of a quantum system is completely described by a state vector $`| \psi \rangle`$ in a complex vector space called Hilbert space. This state vector contains all the information necessary to determine the probabilities of the outcomes of any possible measurement on the system. The Hilbert space is equipped with an inner product, which allows for the calculation of these probabilities. The state vector evolves smoothly over time according to the Schrödinger equation (covered in Postulate 2).
 
 ### Postulate 2: Evolution of Quantum Systems
 
 The second postulate, often associated with the Schrödinger equation, describes the time evolution of a quantum system's state vector. It asserts that the evolution is deterministic and governed by the Schrödinger equation:
 
-\[ i\hbar \frac{\partial}{\partial t} | \psi(t) \rangle = \hat{H} | \psi(t) \rangle \]
+$`i\hbar \frac{\partial}{\partial t} | \psi(t) \rangle = \hat{H} | \psi(t) \rangle`$
 
-where \( i \) is the imaginary unit, \( \hbar \) is the reduced Planck constant, \( \hat{H} \) is the Hamiltonian operator (representing the total energy of the system), and \( | \psi(t) \rangle \) is the state vector at time \( t \). This postulate implies that as long as the quantum system is not being measured, its evolution is unitary, preserving the probabilities of outcomes.
+where $`i`$ is the imaginary unit, $`\hbar`$ is the reduced Planck constant, $`\hat{H}`$ is the Hamiltonian operator (representing the total energy of the system), and $`| \psi(t) \rangle`$ is the state vector at time $`t`$. This postulate implies that as long as the quantum system is not being measured, its evolution is unitary, preserving the probabilities of outcomes.
 
 ### Postulate 3: Quantum Measurement
 
@@ -118,7 +118,7 @@ The third postulate addresses the measurement of quantum systems. It states that
 
 ### Postulate 4: Composite Systems
 
-The fourth postulate deals with composite systems, which are systems consisting of multiple sub-systems. It states that the state space of a composite system is the tensor product of the state spaces of its component systems. If a system consists of two sub-systems with state vectors \( | \psi_1 \rangle \) and \( | \psi_2 \rangle \), the state vector of the combined system is given by \( | \psi_1 \rangle \otimes | \psi_2 \rangle \). This postulate is crucial for understanding entanglement, where the state of the whole system cannot be described merely by the states of its parts.
+The fourth postulate deals with composite systems, which are systems consisting of multiple sub-systems. It states that the state space of a composite system is the tensor product of the state spaces of its component systems. If a system consists of two sub-systems with state vectors $`| \psi_1 \rangle`$ and $`| \psi_2 \rangle`$, the state vector of the combined system is given by $`| \psi_1 \rangle \otimes | \psi_2 \rangle`$. This postulate is crucial for understanding entanglement, where the state of the whole system cannot be described merely by the states of its parts.
 
 These postulates provide a comprehensive framework for the theory of quantum mechanics, defining how quantum systems are mathematically described, how they evolve, how their properties are measured, and how composite systems behave. The probabilistic nature of quantum mechanics, especially evident in the measurement postulate, marks a significant departure from classical physics and has profound implications for our understanding of the physical universe.
 
@@ -130,9 +130,9 @@ The Heisenberg Uncertainty Principle is a fundamental concept in quantum mechani
 
 The uncertainty principle states that the more precisely the position of a particle is known, the less precisely its momentum can be known, and vice versa. This is not due to faults in measurement, but rather to the intrinsic nature of quantum objects. The principle can be expressed mathematically as:
 
-\[ \Delta x \, \Delta p \geq \frac{\hbar}{2} \]
+$`\Delta x \, \Delta p \geq \frac{\hbar}{2}`$
 
-where \( \Delta x \) is the uncertainty in position, \( \Delta p \) is the uncertainty in momentum, and \( \hbar \) is the reduced Planck's constant (\( \hbar = h/2\pi \), where \( h \) is Planck's constant).
+where $`\Delta x`$ is the uncertainty in position, $`\Delta p`$ is the uncertainty in momentum, and $`\hbar`$ is the reduced Planck's constant ($`\hbar = h/2\pi`$, where $`h`$ is Planck's constant).
 
 The derivation of this principle involves the mathematical properties of wave functions and the commutation relationships between quantum operators corresponding to observable quantities. In the context of wave mechanics, the principle arises from the wave-like nature of particles: a particle's state can be described by a wave function, and the precision with which we can define its position and momentum relates to the wave function's spread in space and its Fourier transform, respectively. A narrowly confined wave function in space, which implies precise knowledge of position, corresponds to a widely spread wave function in momentum space, indicating high uncertainty in momentum, and vice versa.
 
@@ -162,25 +162,25 @@ The Schrödinger equation is a fundamental equation in quantum mechanics that de
 
 The time-dependent Schrödinger equation describes the evolution of a quantum system's state over time. It is given by:
 
-\[ i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, t) \]
+$`i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, t)`$
 
 where:
-- \( i \) is the imaginary unit,
-- \( \hbar \) is the reduced Planck's constant,
-- \( \Psi(\mathbf{r}, t) \) is the wave function of the system, which depends on the position \( \mathbf{r} \) and time \( t \),
-- \( \hat{H} \) is the Hamiltonian operator, representing the total energy of the system (kinetic + potential energy).
+- $`i`$ is the imaginary unit,
+- $`\hbar`$ is the reduced Planck's constant,
+- $`\Psi(\mathbf{r}, t)`$ is the wave function of the system, which depends on the position $`\mathbf{r}`$ and time $`t`$,
+- $`\hat{H}`$ is the Hamiltonian operator, representing the total energy of the system (kinetic + potential energy).
 
-This equation asserts that the Hamiltonian operator acting on the wave function yields the rate of change of the wave function with respect to time, multiplied by \( i\hbar \). It is a postulate of quantum mechanics that generalizes the way quantum states evolve over time, analogous to how the force laws of classical mechanics describe the evolution of classical states.
+This equation asserts that the Hamiltonian operator acting on the wave function yields the rate of change of the wave function with respect to time, multiplied by $`i\hbar`$. It is a postulate of quantum mechanics that generalizes the way quantum states evolve over time, analogous to how the force laws of classical mechanics describe the evolution of classical states.
 
 ### Time-independent Schrödinger Equation
 
 The time-independent Schrödinger equation is a form of the Schrödinger equation used for systems with Hamiltonians that do not explicitly depend on time. It describes the stationary states of a system, where the wave function's form does not change over time, although the phase may. The equation is obtained by separating the time and spatial variables in the wave function and is given by:
 
-\[ \hat{H} \psi(\mathbf{r}) = E \psi(\mathbf{r}) \]
+$`\hat{H} \psi(\mathbf{r}) = E \psi(\mathbf{r})`$
 
 where:
-- \( \psi(\mathbf{r}) \) is the spatial part of the wave function,
-- \( E \) is the energy eigenvalue associated with the stationary state.
+- $`\psi(\mathbf{r})`$ is the spatial part of the wave function,
+- $`E`$ is the energy eigenvalue associated with the stationary state.
 
 This equation states that the Hamiltonian operator acting on the spatial wave function yields the energy of the system multiplied by the wave function. It is used to find the allowed energy levels of a quantum system and the corresponding wave functions.
 
@@ -406,9 +406,9 @@ The dynamics of these fields are governed by quantum field equations, which are 
 
 The electroweak interaction is a unified description of two of the four fundamental forces of nature: electromagnetism and the weak nuclear force. This unification is achieved within the framework of QFT and is described by the electroweak theory, which is part of the Standard Model of particle physics.
 
-- **Gauge Bosons**: The electroweak theory introduces four gauge bosons as force carriers: the photon (\( \gamma \)) for electromagnetism, \( W^+ \), \( W^- \), and \( Z^0 \) bosons for the weak force. The \( W \) and \( Z \) bosons are massive, which explains the short range of the weak force, while the photon is massless, allowing for the long-range nature of electromagnetic interactions.
+- **Gauge Bosons**: The electroweak theory introduces four gauge bosons as force carriers: the photon ($`\gamma`$) for electromagnetism, $`W^+`$, $`W^-`$, and $`Z^0`$ bosons for the weak force. The $`W`$ and $`Z`$ bosons are massive, which explains the short range of the weak force, while the photon is massless, allowing for the long-range nature of electromagnetic interactions.
 
-- **Higgs Mechanism**: The Higgs mechanism is a process by which gauge bosons in the electroweak theory acquire mass. It involves the Higgs field and the associated Higgs boson, which was discovered in 2012. The Higgs field gives mass to \( W \) and \( Z \) bosons (and other fundamental particles like quarks and leptons) through spontaneous symmetry breaking, a key concept in the electroweak theory.
+- **Higgs Mechanism**: The Higgs mechanism is a process by which gauge bosons in the electroweak theory acquire mass. It involves the Higgs field and the associated Higgs boson, which was discovered in 2012. The Higgs field gives mass to $`W`$ and $`Z`$ bosons (and other fundamental particles like quarks and leptons) through spontaneous symmetry breaking, a key concept in the electroweak theory.
 
 ### Quantum Chromodynamics (QCD)
 
@@ -454,9 +454,9 @@ Relativistic quantum mechanics is an extension of quantum mechanics that incorpo
 
 The Dirac equation, formulated by Paul Dirac in 1928, is a fundamental equation in relativistic quantum mechanics. It extends the Schrödinger equation to account for relativistic effects and is the first theory to provide a quantum description of the electron that includes its spin and predicts the existence of antimatter. The equation is written as:
 
-\[ (i\gamma^\mu \partial_\mu - m) \psi = 0 \]
+$`(i\gamma^\mu \partial_\mu - m) \psi = 0`$
 
-where \( i \) is the imaginary unit, \( \gamma^\mu \) are the Dirac gamma matrices (a set of matrices that satisfy certain anticommutation relations), \( \partial_\mu \) represents the space-time derivatives, \( m \) is the mass of the particle, and \( \psi \) is the wave function, which is now a spinor representing the quantum state of the particle.
+where $`i`$ is the imaginary unit, $`\gamma^\mu`$ are the Dirac gamma matrices (a set of matrices that satisfy certain anticommutation relations), $`\partial_\mu`$ represents the space-time derivatives, $`m`$ is the mass of the particle, and $`\psi`$ is the wave function, which is now a spinor representing the quantum state of the particle.
 
 The Dirac equation successfully merged quantum mechanics with special relativity and provided a deeper understanding of electron dynamics, leading to many important predictions and discoveries, such as the intrinsic angular momentum (spin) of electrons and the existence of positrons (the antiparticles of electrons).
 
@@ -494,11 +494,11 @@ Max Planck resolved this issue in 1900 by proposing that the energy of electroma
 
 ### Entropy in Quantum Systems
 
-Entropy in quantum systems extends the classical concept of entropy into the quantum domain, where it measures the degree of uncertainty or disorder associated with the quantum state of a system. The von Neumann entropy is the quantum analogue of the classical entropy and is defined for a quantum system in a mixed state represented by the density matrix \( \rho \):
+Entropy in quantum systems extends the classical concept of entropy into the quantum domain, where it measures the degree of uncertainty or disorder associated with the quantum state of a system. The von Neumann entropy is the quantum analogue of the classical entropy and is defined for a quantum system in a mixed state represented by the density matrix $`\rho`$:
 
-\[ S(\rho) = -k_B \text{Tr}(\rho \ln \rho) \]
+$`S(\rho) = -k_B \text{Tr}(\rho \ln \rho)`$
 
-where \( S(\rho) \) is the von Neumann entropy, \( k_B \) is the Boltzmann constant, and Tr denotes the trace operation. The von Neumann entropy generalizes the classical entropy to quantum systems, capturing the quantum correlations and entanglement that have no classical counterpart.
+where $`S(\rho)`$ is the von Neumann entropy, $`k_B`$ is the Boltzmann constant, and Tr denotes the trace operation. The von Neumann entropy generalizes the classical entropy to quantum systems, capturing the quantum correlations and entanglement that have no classical counterpart.
 
 Quantum thermodynamics, through concepts like quantum statistical mechanics, Planck's law, and quantum entropy, bridges the gap between quantum mechanics and thermodynamics, providing a deeper understanding of thermal processes in quantum systems and laying the groundwork for advancements in quantum computing, quantum information, and energy technologies.
 
@@ -516,7 +516,7 @@ In the typical setup for observing the Aharonov-Bohm effect, electrons are allow
 
 The Quantum Hall Effect (QHE) is a quantum mechanical version of the classical Hall effect, observed in two-dimensional electron systems subjected to low temperatures and strong magnetic fields. Discovered by Klaus von Klitzing in 1980, the QHE is characterized by the quantization of the Hall conductance.
 
-In the QHE, the Hall conductance (the ratio of the current flowing across the sample to the voltage developed across it in the presence of a perpendicular magnetic field) takes on quantized values that are integer or fractional multiples of \( e^2/h \), where \( e \) is the elementary charge and \( h \) is Planck's constant. The integer quantum Hall effect (IQHE) shows conductance quantization in integer multiples, while the fractional quantum Hall effect (FQHE), discovered by Daniel Tsui and Horst Störmer in 1982, shows quantization at fractional values, which is related to the formation of correlated states among electrons.
+In the QHE, the Hall conductance (the ratio of the current flowing across the sample to the voltage developed across it in the presence of a perpendicular magnetic field) takes on quantized values that are integer or fractional multiples of $`e^2/h`$, where $`e`$ is the elementary charge and $`h`$ is Planck's constant. The integer quantum Hall effect (IQHE) shows conductance quantization in integer multiples, while the fractional quantum Hall effect (FQHE), discovered by Daniel Tsui and Horst Störmer in 1982, shows quantization at fractional values, which is related to the formation of correlated states among electrons.
 
 The QHE has profound implications for understanding electron behavior in low-dimensional systems and has led to precise standards for electrical resistance. It also provides insights into topological phases of matter, for which a Nobel Prize was awarded in 2016.
 
@@ -620,13 +620,13 @@ The future of quantum mechanics is not just about advancing our theoretical unde
 
 **Quantum Mechanics**: The branch of physics that deals with the mathematical description of the motion and interaction of subatomic particles, incorporating the concepts of quantization of energy, wave-particle duality, the uncertainty principle, and superposition.
 
-**Wavefunction (\(\psi\))**: A mathematical function that describes the quantum state of a system; it contains all the information about a system's physical properties.
+**Wavefunction ($`\psi`$)**: A mathematical function that describes the quantum state of a system; it contains all the information about a system's physical properties.
 
 **Schrödinger Equation**: A fundamental equation in quantum mechanics that describes how the quantum state of a physical system changes over time.
 
-**Hamiltonian (\(\hat{H}\))**: An operator corresponding to the total energy of the system, used in the Schrödinger equation.
+**Hamiltonian ($`\hat{H}`$)**: An operator corresponding to the total energy of the system, used in the Schrödinger equation.
 
-**Bra-Ket Notation**: A notation introduced by Paul Dirac, which is used to describe quantum states. The "bra" (\(\langle \psi |\)) represents a row vector, while the "ket" (\(| \psi \rangle\)) represents a column vector.
+**Bra-Ket Notation**: A notation introduced by Paul Dirac, which is used to describe quantum states. The "bra" ($`\langle \psi |`$) represents a row vector, while the "ket" ($`| \psi \rangle`$) represents a column vector.
 
 **Superposition**: The principle that a quantum system can exist in multiple states at the same time until it is measured.
 
@@ -648,7 +648,7 @@ The future of quantum mechanics is not just about advancing our theoretical unde
 
 **Measurement Postulate**: The principle in quantum mechanics that the act of measurement causes the system to 'collapse' into an eigenstate of the observable being measured.
 
-**Quantum Entropy (Rho, \(\rho\))**: A measure of the uncertainty or randomness of a quantum state.
+**Quantum Entropy (Rho, $`\rho`$)**: A measure of the uncertainty or randomness of a quantum state.
 
 **Quantum Decoherence**: The process by which quantum systems interact with their environment in a thermodynamically irreversible way, leading to a loss of quantum coherence.
 
