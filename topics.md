@@ -315,7 +315,7 @@
 * Greek Vocabulary
 * Gulf War
 * Hannah Arendt
-* Harry Potter
+* Harry Potter - done
 * Health - done
 * Hedonism
 * Heraclitus
