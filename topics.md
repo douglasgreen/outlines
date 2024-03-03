@@ -89,7 +89,7 @@
 * Card Games
 * Cascading Style Sheets (CSS) - done
 * Catholicism
-* Cats - in process
+* Cats - done
 * Censorship
 * Cheeses
 * Chemistry - done

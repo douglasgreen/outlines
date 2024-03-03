@@ -195,6 +195,7 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Animals
 * [Animals](science/biology/animals/animals.en.md)
 * [Bats](science/biology/animals/bats.en.md)
+* [Cats](science/biology/animals/cats.en.md)
 * [Dinosaurs](science/biology/animals/dinosaurs.en.md)
 
 #### Plants
