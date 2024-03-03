@@ -89,7 +89,7 @@
 * Card Games
 * Cascading Style Sheets (CSS) - done
 * Catholicism
-* Cats
+* Cats - in process
 * Censorship
 * Cheeses
 * Chemistry - done
@@ -285,6 +285,7 @@
 * Functional Programming in JavaScript
 * Functional Programming in PHP
 * Functional Programming in Python
+* Futurama
 * Future of Technology
 * Game of Thrones
 * Games - done
