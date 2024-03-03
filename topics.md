@@ -14,6 +14,7 @@
 * American Football Players
 * American Literature
 * American National Parks
+* American Philosophers
 * Anarchy
 * Anatomy and Physiology - done
 * Ancient Egypt
@@ -300,6 +301,7 @@
 * George R. R. Martin's Game of Thrones Series
 * Georg Wilhelm Friedrich Hegel
 * German Grammar - done
+* German Philosophers - in process
 * German Vocabulary - done
 * Germany - done
 * Git - done
