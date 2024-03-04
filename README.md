@@ -226,6 +226,7 @@ Outlines written by ChatGPT-4 on various subjects.
 ### Physics
 * [Physics](science/physics/physics.en.md)
 * [Quantum Mechanics](science/physics/quantum_mechanics.en.md)
+* [Relativity Theory](science/physics/relativity.en.md)
 
 ### Psychology
 * [Decision Making](science/psychology/decision_making.en.md)
