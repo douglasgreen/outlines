@@ -218,7 +218,7 @@
 * Dungeons and Dragons
 * Duns Scotus
 * Dutch Grammar
-* Eastern Philosophy
+* Eastern Philosophers - in process
 * E-Commerce
 * Econometrics
 * Economics - done
