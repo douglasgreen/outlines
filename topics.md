@@ -278,9 +278,9 @@
 * Formal Language - done
 * France
 * French Grammar - done
+* French Philosophers - in process
 * French Vocabulary - done
 * Friedrich Nietzche - done
-* Friedrich Nietzsche
 * Functional Programming
 * Functional Programming in JavaScript
 * Functional Programming in PHP
