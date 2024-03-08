@@ -5,7 +5,6 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Architecture](arts/architecture.en.md)
 * [Arts](arts/arts.en.md)
 * [Music](arts/music.en.md)
-* [Television](arts/television.en.md)
 
 ### Literature
 * [Horror Fiction](arts/literature/horror_fiction.en.md)
@@ -24,6 +23,9 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Anime](arts/movies/anime.en.md)
 * [Movies](arts/movies/movies.en.md)
 * [Star Wars](arts/movies/star_wars.en.md)
+
+### Television
+* [Television](arts/television/television.en.md)
 
 ### Writing
 * [Technical Writing](arts/writing/technical.en.md)
