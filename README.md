@@ -89,6 +89,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 ### Programming
 * [Code Reviews](computers/programming/code_reviews.en.md)
+* [Debugging](computers/programming/debugging.en.md)
 * [Programming](computers/programming/programming.en.md)
 
 #### Languages

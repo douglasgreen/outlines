@@ -185,7 +185,7 @@
 * Data Visualization
 * Data Warehousing
 * David Hume
-* Debugging - in process
+* Debugging - done
 * Decision Making - done
 * Declarative Programming
 * Democracy
