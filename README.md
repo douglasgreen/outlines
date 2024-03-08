@@ -285,6 +285,7 @@ Outlines written by ChatGPT-4 on various subjects.
 
 #### Philosophers
 * [Eastern Philosophers](society/philosophy/philosophers/eastern.en.md)
+* [French Philosophers](society/philosophy/philosophers/french.en.md)
 * [Greek Philosophers](society/philosophy/philosophers/greek.en.md)
 * [Philosophers](society/philosophy/philosophers/philosophers.en.md)
 

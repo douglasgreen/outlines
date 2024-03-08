@@ -278,7 +278,7 @@
 * Formal Language - done
 * France
 * French Grammar - done
-* French Philosophers - in process
+* French Philosophers - done
 * French Vocabulary - done
 * Friedrich Nietzche - done
 * Functional Programming
