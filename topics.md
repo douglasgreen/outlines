@@ -653,7 +653,7 @@
 * Spanish Grammar - done
 * Spanish Vocabulary - done
 * Sports - done
-* Star Trek - in process
+* Star Trek - done
 * Star Wars - done
 * States of the United States
 * Statistics - done
