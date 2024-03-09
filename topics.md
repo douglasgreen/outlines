@@ -412,7 +412,6 @@
 * John Rawls
 * John Stuart Mill
 * jQuery Programming
-* J. R. R. Tolkien's Lord of the Rings Series
 * Judaism
 * Judith Butler
 * Jurassic Park Movies
@@ -447,7 +446,7 @@
 * Logical Fallacies
 * Logical Positivism
 * Logic - done
-* Lord of the Rings Movies
+* Lord of the Rings - in process
 * Ludwig Wittgenstein
 * Machine Learning - done
 * Machine Learning in Python
