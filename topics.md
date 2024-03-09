@@ -690,8 +690,7 @@
 * Time Series
 * Topology
 * Transportation - done
-* Travel
-* Travel & Tourism
+* Tourism - in process
 * Trees and Shrubs
 * Trigonometry
 * Turkish Grammar - done
