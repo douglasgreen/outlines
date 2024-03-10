@@ -1,5 +1,5 @@
 # Outlines
-Outlines written by ChatGPT-4 on various subjects.
+Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 
 ## Arts
 * [Architecture](arts/architecture.en.md)
