@@ -14,6 +14,7 @@ Outlines written by ChatGPT-4 on various subjects.
 #### Fantasy Fiction
 * [Fantasy Fiction](arts/literature/fantasy_fiction.en.md)
 * [Harry Potter](arts/literature/fantasy_fiction/harry_potter.en.md)
+* [Lord of the Rings](arts/literature/fantasy_fiction/lord_of_the_rings.en.md)
 
 #### Science Fiction
 * [Dune](arts/literature/science_fiction/dune.en.md)

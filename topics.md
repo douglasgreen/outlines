@@ -446,7 +446,7 @@
 * Logical Fallacies
 * Logical Positivism
 * Logic - done
-* Lord of the Rings - in process
+* Lord of the Rings - done
 * Ludwig Wittgenstein
 * Machine Learning - done
 * Machine Learning in Python
