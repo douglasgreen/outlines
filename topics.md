@@ -609,7 +609,7 @@
 * Science - done
 * Science Fiction - done
 * Science & Nature
-* Scientific Method - in process
+* Scientific Method - done
 * Scientists and Discoveries
 * Scrum Methodology
 * Sculpture
