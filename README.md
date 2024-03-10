@@ -25,6 +25,7 @@ Outlines written by ChatGPT-4 on various subjects.
 * [Star Wars](arts/movies/star_wars.en.md)
 
 ### Television
+* [Game of Thrones](arts/television/game_of_thrones.en.md)
 * [Star Trek](arts/television/star_trek.en.md)
 * [Television](arts/television/television.en.md)
 

@@ -287,7 +287,7 @@
 * Functional Programming in Python
 * Futurama
 * Future of Technology
-* Game of Thrones
+* Game of Thrones - done
 * Games - done
 * Game Theory - done
 * Gardening
