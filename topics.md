@@ -594,8 +594,7 @@
 * REST APIs
 * Rhetoric
 * Richard Swinburne
-* Rick and Morty
-* Rick and Morty - in process
+* Rick and Morty - done
 * Rivers
 * Robert Jordan's Wheel of Time Series
 * Robotics
