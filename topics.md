@@ -595,6 +595,7 @@
 * Rhetoric
 * Richard Swinburne
 * Rick and Morty
+* Rick and Morty - in process
 * Rivers
 * Robert Jordan's Wheel of Time Series
 * Robotics
@@ -689,8 +690,8 @@
 * Time Management
 * Time Series
 * Topology
-* Transportation - done
 * Tourism
+* Transportation - done
 * Trees and Shrubs
 * Trigonometry
 * Turkish Grammar - done
