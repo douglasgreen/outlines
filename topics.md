@@ -561,7 +561,6 @@
 * Portuguese Grammar - done
 * Positive Psychology
 * Precious Metals
-* Presidents
 * Probability - done
 * Problem Solving - done
 * Productivity - done
@@ -694,10 +693,12 @@
 * Trees and Shrubs
 * Trigonometry
 * Turkish Grammar - done
+* Twilight Zone
 * Typescript
 * Unified Modeling Language (UML) - needs diagrams
 * United Nations
 * United States - done
+* United States Presidents - in process
 * Unit Testing - done
 * Urban Planning
 * Usability - done
