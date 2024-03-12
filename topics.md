@@ -113,7 +113,7 @@
 * Clojure Programming
 * Clothing
 * Cloud Computing
-* Code Refactoring
+* Code Refactoring - in process
 * Code Reviews - done
 * Coffee
 * Cognitive Biases
