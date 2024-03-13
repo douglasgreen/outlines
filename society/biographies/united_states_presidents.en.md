@@ -135,10 +135,6 @@ Write a glossary of the top twenty terms used about United States presidents.
 
 Write a list of the top twenty frequently asked questions about United States presidents and give a brief answer to each.
 
-## Important People/Places/Things
-
-Write a list of the top 20 important people/places/things (choose one) of United States presidents.
-
 ## Timeline
 
 Write a timeline of the top 20 important events in the history of United States presidents.
