@@ -53,6 +53,7 @@
 * Aviation - done
 * Avicenna
 * Ayn Rand
+* Ayurveda
 * Baruch Spinoza
 * Baseball
 * Baseball Players
