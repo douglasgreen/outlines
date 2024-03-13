@@ -132,10 +132,9 @@
 * Computational Linguistics
 * Computation Theory - done
 * Computer File Formats
-* Computer Gaming
 * Computer Graphics
 * Computer Hardware
-* Computer Networking
+* Computer Networking - done
 * Computer Programming - done
 * Computer Science - done
 * Computers - done
@@ -297,7 +296,6 @@
 * Geography
 * Geologic Periods
 * Geometry - done
-* George R. R. Martin's Game of Thrones Series
 * Georg Wilhelm Friedrich Hegel
 * German Grammar - done
 * German Philosophers - done
@@ -451,7 +449,6 @@
 * Machine Learning - done
 * Machine Learning in Python
 * Maimonides
-* Making a Constructed Language
 * Management - done
 * Manufacturing
 * Marketing
@@ -502,7 +499,6 @@
 * Native Americans
 * Natural Language Processing
 * Neoplatonism
-* Networking - done
 * Neural Networks/Deep Learning
 * Neuroscience
 * New Testament - done
