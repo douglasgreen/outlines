@@ -206,7 +206,7 @@
 * Discrete Mathematics - done
 * Diseases - done
 * Docker
-* Doctor Who - in process
+* Doctor Who - done
 * Document Object Model
 * Dog Breeds
 * Dogs

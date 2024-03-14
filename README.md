@@ -26,6 +26,7 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 * [Star Wars](arts/movies/star_wars.en.md)
 
 ### Television
+* [Doctor Who](arts/television/doctor_who.en.md)
 * [Game of Thrones](arts/television/game_of_thrones.en.md)
 * [Rick and Morty](arts/television/rick_and_morty.en.md)
 * [Star Trek](arts/television/star_trek.en.md)
