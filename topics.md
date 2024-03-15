@@ -696,7 +696,7 @@
 * Unified Modeling Language (UML) - needs diagrams
 * United Nations
 * United States - done
-* United States Presidents - in process
+* United States Presidents - done
 * Unit Testing - done
 * Urban Planning
 * Usability - done

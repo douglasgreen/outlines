@@ -245,7 +245,6 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 ## Society
 * [Communication](society/communication.en.md)
 * [Mythology](society/mythology.en.md)
-* [Politics](society/politics.en.md)
 * [Society](society/society.en.md)
 * [Sociology](society/sociology.en.md)
 
@@ -301,6 +300,10 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 ##### German
 * [Friedrich Nietzsche](society/philosophy/philosophers/german/friedrich_nietzsche.en.md)
 * [German Philosophers](society/philosophy/philosophers/german/german.en.md)
+
+### Politics
+* [Politics](society/politics/politics.en.md)
+* [United States Presidents](society/politics/united_states_presidents.en.md)
 
 ### Religion
 * [Buddhism](society/religion/buddhism.en.md)
