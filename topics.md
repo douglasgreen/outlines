@@ -17,7 +17,7 @@
 * American Philosophers
 * Anarchy
 * Anatomy and Physiology - done
-* Ancient Egypt
+* Ancient Egypt - in process
 * Ancient Greece - done
 * Ancient Philosophers
 * Ancient Rome - done
@@ -418,6 +418,7 @@
 * Jürgen Habermas
 * Karl Marx and Marxism
 * Karl Popper
+* King Arthur
 * Knowledge Management
 * Korean War
 * Kubernetes
