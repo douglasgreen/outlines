@@ -175,7 +175,7 @@
 * Daniel Dennett
 * Data Analysis
 * Database Cookbook
-* Database Design
+* Database Design - in process
 * Database Design Patterns
 * Database Management
 * Databases - done
