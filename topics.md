@@ -741,6 +741,7 @@
 * Writing User Stories
 * Writing With ChatGPT - done
 * XML Processing in PHP
+* XML Schemas - in process
 * Yoga
 * Zeno of Elea
 * Zoology

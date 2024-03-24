@@ -98,7 +98,6 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 * [Programming](computers/programming/programming.en.md)
 
 #### Languages
-* [Extensible Markup Language (XML)](computers/programming/languages/xml.en.md)
 * [PHP](computers/programming/languages/php.en.md)
 * [Programming Languages](computers/programming/languages/languages.en.md)
 * [Python](computers/programming/languages/python.en.md)
@@ -124,6 +123,9 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 * [Automated Testing](computers/programming/software_testing/automated.en.md)
 * [Software Testing](computers/programming/software_testing/software_testing.en.md)
 * [Unit Testing](computers/programming/software_testing/unit_testing.en.md)
+
+##### XML
+* [Extensible Markup Language (XML)](computers/programming/languages/xml/xml.en.md)
 
 ### Software
 * [Git](computers/software/git.en.md)
