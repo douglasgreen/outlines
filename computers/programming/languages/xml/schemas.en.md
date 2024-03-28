@@ -843,17 +843,23 @@ This provides flexibility in authoring reusable schema modules that can be names
 
 So in summary, XML Schema provides several mechanisms for modularizing large schemas and assembling them from smaller parts. `<include>` and `<import>` allow combining schemas in the same or different namespaces, while the chameleon pattern enables writing namespace-neutral schema modules. Effective use of these techniques can make complex schemas much more manageable.
 
-### Namespaces and Schema Composition
+## Namespaces and Schema Composition
 
 Namespaces and Schema Composition in XML schemas involve several key concepts:
 
-- **Target Namespace**: The `targetNamespace` attribute in an XML Schema (XSD) specifies the namespace in which all the elements and types defined by the schema reside. This is crucial for avoiding name clashes and ensuring that elements and types from different schemas can be used together without ambiguity. The target namespace is what differentiates elements and types with the same name but defined in different schemas.
+### Target Namespaces and Unqualified Locals
 
-- **Unqualified Locals**: Elements and attributes within an XML document can be either qualified or unqualified. Qualification refers to whether an element or attribute's name includes a namespace prefix. The `elementFormDefault` attribute in an XSD can be set to "qualified" to require elements to be namespace-qualified, or "unqualified" to allow them without a namespace. Attributes are unqualified by default and can be made qualified using the `attributeFormDefault` attribute.
+**Target Namespace**: The `targetNamespace` attribute in an XML Schema (XSD) specifies the namespace in which all the elements and types defined by the schema reside. This is crucial for avoiding name clashes and ensuring that elements and types from different schemas can be used together without ambiguity. The target namespace is what differentiates elements and types with the same name but defined in different schemas.
 
-- **Assembling a Schema from Multiple Documents and Namespaces**: XML Schemas can be modular, allowing definitions to be split across multiple documents. This is achieved using the `include`, `import`, and `redefine` mechanisms. `include` is used for bringing in definitions from another schema document within the same namespace, while `import` is used for incorporating definitions from a schema document that declares a different target namespace. This modularity supports reusability and maintainability of schema definitions.
+**Unqualified Locals**: Elements and attributes within an XML document can be either qualified or unqualified. Qualification refers to whether an element or attribute's name includes a namespace prefix. The `elementFormDefault` attribute in an XSD can be set to "qualified" to require elements to be namespace-qualified, or "unqualified" to allow them without a namespace. Attributes are unqualified by default and can be made qualified using the `attributeFormDefault` attribute.
 
-- **Namespace-related Schema Composition Constraints**: When composing schemas from multiple documents and namespaces, it's important to manage namespace declarations and references correctly. Each schema document must correctly declare its target namespace and any other namespaces it references. When using elements or types from another namespace, the correct namespace prefix must be used to qualify these references. This ensures that the composed schema is correctly interpreted by parsers and validators.
+### Assembling a Schema Multiple Documents and Namespaces
+
+XML Schemas can be modular, allowing definitions to be split across multiple documents. This is achieved using the `include`, `import`, and `redefine` mechanisms. `include` is used for bringing in definitions from another schema document within the same namespace, while `import` is used for incorporating definitions from a schema document that declares a different target namespace. This modularity supports reusability and maintainability of schema definitions.
+
+### Namespace-Related Schema Composition Constraints
+
+When composing schemas from multiple documents and namespaces, it's important to manage namespace declarations and references correctly. Each schema document must correctly declare its target namespace and any other namespaces it references. When using elements or types from another namespace, the correct namespace prefix must be used to qualify these references. This ensures that the composed schema is correctly interpreted by parsers and validators.
 
 In summary, namespaces and schema composition in XML schemas are essential for defining clear, unambiguous vocabularies in XML documents. They enable the use of multiple schemas together, allowing for modular and reusable schema definitions. Proper management of target namespaces, qualified and unqualified names, and correct referencing of external namespaces are key to effective schema composition.
 
