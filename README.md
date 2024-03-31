@@ -126,6 +126,7 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 
 ##### XML
 * [Extensible Markup Language (XML)](computers/programming/languages/xml/xml.en.md)
+* [XML Processing in PHP](computers/programming/languages/xml/php_processing.en.md)
 * [XML Schemas](computers/programming/languages/xml/schemas.en.md)
 
 ### Software

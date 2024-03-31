@@ -740,7 +740,7 @@
 * Writing Software Project Documentation
 * Writing User Stories
 * Writing With ChatGPT - done
-* XML Processing in PHP - in process
+* XML Processing in PHP - done
 * XML Schemas - done
 * XPath
 * Yoga
