@@ -17,7 +17,7 @@
 * American Philosophers
 * Anarchy
 * Anatomy and Physiology - done
-* Ancient Egypt - in process
+* Ancient Egypt - done
 * Ancient Greece - done
 * Ancient Philosophers
 * Ancient Rome - done

@@ -271,6 +271,7 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 * [Video Games](society/games/video/games.en.md)
 
 ### History
+* [Ancient Egypt](society/history/ancient_egypt.en.md)
 * [Ancient Greece](society/history/ancient_greece.en.md)
 * [Ancient Rome](society/history/ancient_rome.en.md)
 * [History of the Middle East](society/history/middle_east.en.md)
