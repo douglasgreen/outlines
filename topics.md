@@ -459,7 +459,6 @@
 * Martial Arts
 * Martin Heidegger
 * Marvel Cinematic Universe Movies
-* M*A*S*H
 * Massage
 * Materials Science
 * Mathematicians
@@ -614,6 +613,7 @@
 * Search Engine Optimization (SEO)
 * Search Engines - done
 * Secret Agents and Spycraft
+* Semantic Web
 * Set Theory
 * Sherlock Holmes
 * Shopping
