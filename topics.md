@@ -640,7 +640,6 @@
 * Software Project Management - done
 * Software Requirements Specifications
 * Software Testing - done
-* Software Upgrade Management - in process
 * Solar System
 * Søren Kierkegaard
 * South America
