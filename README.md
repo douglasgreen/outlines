@@ -82,6 +82,7 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 * [Linux Commands](computers/operating_systems/linux/commands.en.md)
 
 ### Networking
+* [Cloud Computing](computers/networking/cloud_computing.en.md)
 * [Content Delivery Networks](computers/networking/content_delivery_networks.en.md)
 * [Networking](computers/networking/networking.en.md)
 
