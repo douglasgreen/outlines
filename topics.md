@@ -114,7 +114,7 @@
 * Climate Change - done
 * Clojure Programming
 * Clothing
-* Cloud Computing - in process
+* Cloud Computing - done
 * Code Refactoring - in process
 * Code Reviews - done
 * Coffee
