@@ -1,6 +1,6 @@
 # Database Design
 
-### Introduction
+## Introduction
 
 Database design is a critical aspect of software development that involves organizing data into a structured format to enable efficient storage, retrieval, and management. A well-designed database is essential for building applications that are scalable, maintainable, and performant. Poor database design can lead to data redundancy, inconsistency, and difficulty in querying and maintaining the data over time.
 
