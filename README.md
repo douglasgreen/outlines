@@ -70,6 +70,7 @@ Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 
 ### Databases
 * [Databases](computers/databases/databases.en.md)
+* [Design](computers/databases/design.en.md)
 * [MySQL](computers/databases/mysql.en.md)
 
 ### Operating Systems
