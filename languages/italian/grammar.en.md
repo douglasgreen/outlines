@@ -6,27 +6,58 @@
 
 #### Overview of the Italian Language
 
-Italian, known as 'italiano' in its native tongue, is a Romance language that evolved from the Vulgar Latin spoken by the Romans. As one of the major European languages, Italian is the official language of Italy, San Marino, and Vatican City, and is one of the official languages of Switzerland. It's also widely spoken in communities in the United States, Canada, and Australia. Italian is known for its musicality and expressive nature, making it a popular language for opera, classical music, and culinary arts.
+Italian, known as 'italiano' in its native tongue, is a Romance language that
+evolved from the Vulgar Latin spoken by the Romans. As one of the major European
+languages, Italian is the official language of Italy, San Marino, and Vatican
+City, and is one of the official languages of Switzerland. It's also widely
+spoken in communities in the United States, Canada, and Australia. Italian is
+known for its musicality and expressive nature, making it a popular language for
+opera, classical music, and culinary arts.
 
 ##### Brief History and Cultural Significance
 
-The history of Italian language begins with the Roman Empire, where Latin was the dominant language. After the fall of the Roman Empire, Latin evolved differently in various regions, giving rise to the Romance languages, including Italian. The version of Italian that we know today was heavily influenced by the Tuscan dialect, largely due to the cultural and literary impact of writers like Dante Alighieri, Petrarch, and Boccaccio during the Renaissance. Dante's "Divina Commedia" (The Divine Comedy), written in the early 14th century, is particularly significant as it helped establish Tuscan, which was a regional dialect at that time, as the standard for Italian.
+The history of Italian language begins with the Roman Empire, where Latin was
+the dominant language. After the fall of the Roman Empire, Latin evolved
+differently in various regions, giving rise to the Romance languages, including
+Italian. The version of Italian that we know today was heavily influenced by the
+Tuscan dialect, largely due to the cultural and literary impact of writers like
+Dante Alighieri, Petrarch, and Boccaccio during the Renaissance. Dante's "Divina
+Commedia" (The Divine Comedy), written in the early 14th century, is
+particularly significant as it helped establish Tuscan, which was a regional
+dialect at that time, as the standard for Italian.
 
-Italian culture is rich and varied, contributing significantly to the world of art, music, and literature. It is the language of Michelangelo, Leonardo da Vinci, and Galileo Galilei. In music, Italian is the language of opera, with legendary composers like Verdi and Puccini. Moreover, Italian cuisine, with its emphasis on fresh ingredients and regional variations, is celebrated worldwide, adding to the language's global appeal.
+Italian culture is rich and varied, contributing significantly to the world of
+art, music, and literature. It is the language of Michelangelo, Leonardo da
+Vinci, and Galileo Galilei. In music, Italian is the language of opera, with
+legendary composers like Verdi and Puccini. Moreover, Italian cuisine, with its
+emphasis on fresh ingredients and regional variations, is celebrated worldwide,
+adding to the language's global appeal.
 
 ##### Basic Pronunciation Guide
 
-Italian pronunciation is generally straightforward, as most letters and combinations have consistent sounds. Here's a quick guide:
+Italian pronunciation is generally straightforward, as most letters and
+combinations have consistent sounds. Here's a quick guide:
 
--   **Vowels (A, E, I, O, U)** are pronounced more consistently than in English. Each vowel has a single sound: 'A' sounds like 'ah', 'E' as 'eh' or 'ay', 'I' as 'ee', 'O' as 'oh', and 'U' as 'oo'.
--   **Consonants** are pronounced similarly to English, but with less aspiration. Notable exceptions include:
-    -   'C' is pronounced as 'k' before 'A', 'O', 'U', or consonants, and as 'ch' in 'church' before 'E' or 'I'.
-    -   'G' is pronounced as in 'go' before 'A', 'O', 'U', or consonants, and as 'j' in 'judge' before 'E' or 'I'.
-    -   'GLI' is a unique Italian sound, somewhat like 'll' in 'million' but with the tongue pressed against the back of the upper teeth.
-    -   'R' is rolled or trilled, which is a distinct characteristic of Italian speech.
--   **Stress** usually falls on the penultimate (second-to-last) syllable, but there are exceptions, so it's important to listen to native speakers for guidance.
+-   **Vowels (A, E, I, O, U)** are pronounced more consistently than in English.
+    Each vowel has a single sound: 'A' sounds like 'ah', 'E' as 'eh' or 'ay',
+    'I' as 'ee', 'O' as 'oh', and 'U' as 'oo'.
+-   **Consonants** are pronounced similarly to English, but with less
+    aspiration. Notable exceptions include:
+    -   'C' is pronounced as 'k' before 'A', 'O', 'U', or consonants, and as
+        'ch' in 'church' before 'E' or 'I'.
+    -   'G' is pronounced as in 'go' before 'A', 'O', 'U', or consonants, and as
+        'j' in 'judge' before 'E' or 'I'.
+    -   'GLI' is a unique Italian sound, somewhat like 'll' in 'million' but
+        with the tongue pressed against the back of the upper teeth.
+    -   'R' is rolled or trilled, which is a distinct characteristic of Italian
+        speech.
+-   **Stress** usually falls on the penultimate (second-to-last) syllable, but
+    there are exceptions, so it's important to listen to native speakers for
+    guidance.
 
-Remember, the best way to learn pronunciation is through listening and practice. Immersing yourself in Italian media, like songs, movies, and conversations with native speakers, can greatly enhance your pronunciation skills.
+Remember, the best way to learn pronunciation is through listening and practice.
+Immersing yourself in Italian media, like songs, movies, and conversations with
+native speakers, can greatly enhance your pronunciation skills.
 
 ## Nouns and Genders
 
@@ -34,26 +65,45 @@ Remember, the best way to learn pronunciation is through listening and practice.
 
 #### Understanding Masculine and Feminine Nouns
 
-In Italian, nouns (i nomi) have genders; they are either masculine or feminine. This gender aspect is fundamental in Italian grammar, as it affects how nouns are used with articles, adjectives, and verbs. Here's a general guide to understanding masculine and feminine nouns:
+In Italian, nouns (i nomi) have genders; they are either masculine or feminine.
+This gender aspect is fundamental in Italian grammar, as it affects how nouns
+are used with articles, adjectives, and verbs. Here's a general guide to
+understanding masculine and feminine nouns:
 
--   **Masculine Nouns**: They often end in '-o' in the singular form (e.g., "libro" - book, "tavolo" - table). However, there are exceptions, such as nouns ending in '-e' (e.g., "albergo" - hotel) or other consonants (e.g., "film" - film).
--   **Feminine Nouns**: These usually end in '-a' in the singular form (e.g., "casa" - house, "scuola" - school). Like masculine nouns, there are exceptions, such as those ending in '-e' (e.g., "chiave" - key) or nouns imported from other languages (e.g., "foto" - photo, short for "fotografia").
+-   **Masculine Nouns**: They often end in '-o' in the singular form (e.g.,
+    "libro" - book, "tavolo" - table). However, there are exceptions, such as
+    nouns ending in '-e' (e.g., "albergo" - hotel) or other consonants (e.g.,
+    "film" - film).
+-   **Feminine Nouns**: These usually end in '-a' in the singular form (e.g.,
+    "casa" - house, "scuola" - school). Like masculine nouns, there are
+    exceptions, such as those ending in '-e' (e.g., "chiave" - key) or nouns
+    imported from other languages (e.g., "foto" - photo, short for
+    "fotografia").
 
-It's important to note that the ending of a noun is a guide, not a rule. There are exceptions, and some words change gender based on their meaning (e.g., "il capitale" - capital \[money\] is masculine, while "la capitale" - capital \[city\] is feminine).
+It's important to note that the ending of a noun is a guide, not a rule. There
+are exceptions, and some words change gender based on their meaning (e.g., "il
+capitale" - capital \[money\] is masculine, while "la capitale" - capital
+\[city\] is feminine).
 
 ##### Plural Forms of Nouns
 
-The formation of plural nouns in Italian depends on the gender and the ending of the singular form:
+The formation of plural nouns in Italian depends on the gender and the ending of
+the singular form:
 
--   Masculine nouns ending in '-o' typically form their plural with '-i' (e.g., "libri" - books).
--   Feminine nouns ending in '-a' typically form their plural with '-e' (e.g., "case" - houses).
--   Nouns ending in '-e', whether masculine or feminine, usually form their plural with '-i' (e.g., "alberghi" - hotels, "chiavi" - keys).
+-   Masculine nouns ending in '-o' typically form their plural with '-i' (e.g.,
+    "libri" - books).
+-   Feminine nouns ending in '-a' typically form their plural with '-e' (e.g.,
+    "case" - houses).
+-   Nouns ending in '-e', whether masculine or feminine, usually form their
+    plural with '-i' (e.g., "alberghi" - hotels, "chiavi" - keys).
 
-Exceptions exist, such as irregular plurals and foreign-derived words, which may follow different rules or remain unchanged in the plural.
+Exceptions exist, such as irregular plurals and foreign-derived words, which may
+follow different rules or remain unchanged in the plural.
 
 ##### Common Nouns in Italian
 
-Here are some common Italian nouns to get familiar with, along with their genders and plural forms:
+Here are some common Italian nouns to get familiar with, along with their
+genders and plural forms:
 
 1.  **Masculine**:
 
@@ -67,7 +117,11 @@ Here are some common Italian nouns to get familiar with, along with their gender
     -   "la notte" (night) -- plural: "le notti"
     -   "l'amica" (friend) -- plural: "le amiche"
 
-These examples provide a basic understanding of how nouns work in Italian. As you learn more Italian nouns, pay attention to their gender and plural forms, which are essential for mastering the language's grammar. Remember, practice and exposure to the language will significantly help in recognizing and memorizing these grammatical aspects.
+These examples provide a basic understanding of how nouns work in Italian. As
+you learn more Italian nouns, pay attention to their gender and plural forms,
+which are essential for mastering the language's grammar. Remember, practice and
+exposure to the language will significantly help in recognizing and memorizing
+these grammatical aspects.
 
 ## Articles
 
@@ -75,29 +129,48 @@ These examples provide a basic understanding of how nouns work in Italian. As yo
 
 #### Definite Articles (il, la, l', i, le)
 
-Definite articles in Italian are used similarly to "the" in English, but they vary according to the gender, number, and sometimes the first letter of the noun they precede. They specify a particular item or items. Here's how they are used:
+Definite articles in Italian are used similarly to "the" in English, but they
+vary according to the gender, number, and sometimes the first letter of the noun
+they precede. They specify a particular item or items. Here's how they are used:
 
--   **il** is used for masculine singular nouns starting with most consonants (e.g., "il libro" - the book).
--   **la** is used for feminine singular nouns starting with a consonant (e.g., "la casa" - the house).
--   **l'** is used for both masculine and feminine singular nouns starting with a vowel (e.g., "l'amico" - the friend (male), "l'amica" - the friend (female)).
+-   **il** is used for masculine singular nouns starting with most consonants
+    (e.g., "il libro" - the book).
+-   **la** is used for feminine singular nouns starting with a consonant (e.g.,
+    "la casa" - the house).
+-   **l'** is used for both masculine and feminine singular nouns starting with
+    a vowel (e.g., "l'amico" - the friend (male), "l'amica" - the friend
+    (female)).
 
 ##### Plural Articles (i, gli, le)
 
-Plural articles in Italian are the counterparts of "the" in English when referring to multiple items. Similar to singular articles, they vary according to the gender and the first letter of the noun they precede. They are essential in identifying specific groups or sets of items. Here's how they are used:
+Plural articles in Italian are the counterparts of "the" in English when
+referring to multiple items. Similar to singular articles, they vary according
+to the gender and the first letter of the noun they precede. They are essential
+in identifying specific groups or sets of items. Here's how they are used:
 
--   **i** is used for masculine plural nouns starting with most consonants (e.g., "i libri" - the books).
--   **gli** is used for masculine plural nouns starting with a vowel, 'z', 'gn', 'ps', 'x', or 's' followed by another consonant (e.g., "gli amici" - the friends, "gli zaini" - the backpacks).
--   **le** is used for all feminine plural nouns, regardless of the letter they start with (e.g., "le case" - the houses, "le amiche" - the female friends).
+-   **i** is used for masculine plural nouns starting with most consonants
+    (e.g., "i libri" - the books).
+-   **gli** is used for masculine plural nouns starting with a vowel, 'z', 'gn',
+    'ps', 'x', or 's' followed by another consonant (e.g., "gli amici" - the
+    friends, "gli zaini" - the backpacks).
+-   **le** is used for all feminine plural nouns, regardless of the letter they
+    start with (e.g., "le case" - the houses, "le amiche" - the female friends).
 
-These plural definite articles are crucial in Italian to specify particular groups of items, distinguishing them from others.
+These plural definite articles are crucial in Italian to specify particular
+groups of items, distinguishing them from others.
 
 ##### Indefinite Articles (un, una, un')
 
-Indefinite articles in Italian correspond to "a" or "an" in English, and they also agree in gender and number with the noun they precede. They are used to refer to a non-specific item. Here's how they are used:
+Indefinite articles in Italian correspond to "a" or "an" in English, and they
+also agree in gender and number with the noun they precede. They are used to
+refer to a non-specific item. Here's how they are used:
 
--   **un** is used with masculine singular nouns starting with a consonant (e.g., "un gatto" - a cat).
--   **una** is used with feminine singular nouns starting with a consonant (e.g., "una mela" - an apple).
--   **un'** (note the apostrophe) is used for both masculine and feminine singular nouns starting with a vowel (e.g., "un'idea" - an idea).
+-   **un** is used with masculine singular nouns starting with a consonant
+    (e.g., "un gatto" - a cat).
+-   **una** is used with feminine singular nouns starting with a consonant
+    (e.g., "una mela" - an apple).
+-   **un'** (note the apostrophe) is used for both masculine and feminine
+    singular nouns starting with a vowel (e.g., "un'idea" - an idea).
 
 ##### Usage in Sentences
 
@@ -113,7 +186,11 @@ Indefinite articles in Italian correspond to "a" or "an" in English, and they al
     -   "Una donna canta una canzone" - A woman sings a song.
     -   "Un'auto gialla è parcheggiata là" - A yellow car is parked there.
 
-In these examples, notice how articles agree in gender and number with the nouns they accompany. Also, pay attention to how definite articles are used to talk about specific things, while indefinite articles are used for non-specific things. This distinction is crucial for understanding and using articles correctly in Italian.
+In these examples, notice how articles agree in gender and number with the nouns
+they accompany. Also, pay attention to how definite articles are used to talk
+about specific things, while indefinite articles are used for non-specific
+things. This distinction is crucial for understanding and using articles
+correctly in Italian.
 
 ## Adjectives
 
@@ -121,34 +198,56 @@ In these examples, notice how articles agree in gender and number with the nouns
 
 #### Types of Adjectives
 
-In Italian, adjectives are used to describe or modify nouns and come in various types:
+In Italian, adjectives are used to describe or modify nouns and come in various
+types:
 
-1.  **Qualitative Adjectives**: These describe qualities or characteristics. Examples include "bello" (beautiful), "grande" (big), "felice" (happy). They can vary in gender and number.
+1.  **Qualitative Adjectives**: These describe qualities or characteristics.
+    Examples include "bello" (beautiful), "grande" (big), "felice" (happy). They
+    can vary in gender and number.
 
-2.  **Demonstrative Adjectives**: These point out specific things. They include "questo" (this), "quello" (that), "questa" (this - feminine), and "quella" (that - feminine). They agree with the noun in gender and number.
+2.  **Demonstrative Adjectives**: These point out specific things. They include
+    "questo" (this), "quello" (that), "questa" (this - feminine), and "quella"
+    (that - feminine). They agree with the noun in gender and number.
 
-3.  **Possessive Adjectives**: These indicate ownership or possession, such as "mio" (my), "tuo" (your), "suo" (his/her), "nostro" (our), etc. They also agree in gender and number with the noun they modify.
+3.  **Possessive Adjectives**: These indicate ownership or possession, such as
+    "mio" (my), "tuo" (your), "suo" (his/her), "nostro" (our), etc. They also
+    agree in gender and number with the noun they modify.
 
 ##### Agreement of Adjectives with Nouns
 
-In Italian, adjectives must agree with the nouns they describe in gender (masculine or feminine) and number (singular or plural):
+In Italian, adjectives must agree with the nouns they describe in gender
+(masculine or feminine) and number (singular or plural):
 
--   For masculine singular nouns, adjectives generally end in "-o" (e.g., "gatto pigro" - lazy cat).
--   For feminine singular nouns, adjectives generally end in "-a" (e.g., "mela rossa" (red apple).
--   For masculine plural nouns, adjectives generally end in "-i" (e.g., "gatti pigri" - lazy cats).
--   For feminine plural nouns, adjectives generally end in "-e" (e.g., "mele rosse" (red apples).
+-   For masculine singular nouns, adjectives generally end in "-o" (e.g., "gatto
+    pigro" - lazy cat).
+-   For feminine singular nouns, adjectives generally end in "-a" (e.g., "mela
+    rossa" (red apple).
+-   For masculine plural nouns, adjectives generally end in "-i" (e.g., "gatti
+    pigri" - lazy cats).
+-   For feminine plural nouns, adjectives generally end in "-e" (e.g., "mele
+    rosse" (red apples).
 
 ##### Position of Adjectives in a Sentence
 
-In Italian, the position of adjectives relative to the nouns they modify can vary and can change the meaning of the sentence:
+In Italian, the position of adjectives relative to the nouns they modify can
+vary and can change the meaning of the sentence:
 
--   **After the Noun**: This is the most common position and is typically used for qualitative adjectives. It describes a characteristic in a neutral or objective way. For example, "un libro interessante" (an interesting book).
+-   **After the Noun**: This is the most common position and is typically used
+    for qualitative adjectives. It describes a characteristic in a neutral or
+    objective way. For example, "un libro interessante" (an interesting book).
 
--   **Before the Noun**: This position is often used for emphasis or to express a subjective quality. It's common with possessive, demonstrative, and some qualitative adjectives. For example, "una bella casa" (a beautiful house) has a slightly different nuance than "una casa bella".
+-   **Before the Noun**: This position is often used for emphasis or to express
+    a subjective quality. It's common with possessive, demonstrative, and some
+    qualitative adjectives. For example, "una bella casa" (a beautiful house)
+    has a slightly different nuance than "una casa bella".
 
-The position can sometimes change the meaning subtly. For example, "un uomo grande" (a big man) vs. "un grande uomo" (a great man).
+The position can sometimes change the meaning subtly. For example, "un uomo
+grande" (a big man) vs. "un grande uomo" (a great man).
 
-In conclusion, understanding and using adjectives correctly in Italian involves knowing their type, ensuring they agree with the nouns they modify in gender and number, and placing them correctly in a sentence. This knowledge is essential for constructing meaningful and accurate sentences in Italian.
+In conclusion, understanding and using adjectives correctly in Italian involves
+knowing their type, ensuring they agree with the nouns they modify in gender and
+number, and placing them correctly in a sentence. This knowledge is essential
+for constructing meaningful and accurate sentences in Italian.
 
 ## Numbers and Counting
 
@@ -156,7 +255,8 @@ In conclusion, understanding and using adjectives correctly in Italian involves 
 
 #### Cardinal Numbers
 
-Cardinal numbers in Italian are used for counting and quantifying. Here's a basic rundown:
+Cardinal numbers in Italian are used for counting and quantifying. Here's a
+basic rundown:
 
 -   0: zero
 -   1: uno (masculine), una (feminine before a noun)
@@ -170,11 +270,15 @@ Cardinal numbers in Italian are used for counting and quantifying. Here's a basi
 -   9: nove
 -   10: dieci
 
-These numbers can be combined to form higher numbers, like "undici" (11), "dodici" (12), "venti" (20), "trentuno" (31), and so forth. Note that "uno" becomes "un" before a masculine noun (e.g., "un libro") and "una" becomes "un'" before a feminine noun starting with a vowel (e.g., "un'ora").
+These numbers can be combined to form higher numbers, like "undici" (11),
+"dodici" (12), "venti" (20), "trentuno" (31), and so forth. Note that "uno"
+becomes "un" before a masculine noun (e.g., "un libro") and "una" becomes "un'"
+before a feminine noun starting with a vowel (e.g., "un'ora").
 
 ##### Ordinal Numbers
 
-Ordinal numbers in Italian are used to express order or rank. They also agree in gender and number with the noun they modify. The first ten are:
+Ordinal numbers in Italian are used to express order or rank. They also agree in
+gender and number with the noun they modify. The first ten are:
 
 -   1st: primo (m), prima (f)
 -   2nd: secondo
@@ -187,37 +291,55 @@ Ordinal numbers in Italian are used to express order or rank. They also agree in
 -   9th: nono
 -   10th: decimo
 
-These are used like "il primo giorno" (the first day) or "la seconda volta" (the second time).
+These are used like "il primo giorno" (the first day) or "la seconda volta" (the
+second time).
 
 ##### Dates
 
-When telling dates in Italian, the day comes first, followed by the month, and then the year. The ordinal number is used for the day (except for the first of the month, which uses "primo"), and cardinal numbers are used for the year. For example:
+When telling dates in Italian, the day comes first, followed by the month, and
+then the year. The ordinal number is used for the day (except for the first of
+the month, which uses "primo"), and cardinal numbers are used for the year. For
+example:
 
 -   January 1, 2023: "il primo gennaio 2023"
 -   March 15, 2023: "il quindici marzo 2023"
 
-Months are not capitalized in Italian. When writing the date in numeric form, Italians follow the day/month/year format (e.g., 15/03/2023).
+Months are not capitalized in Italian. When writing the date in numeric form,
+Italians follow the day/month/year format (e.g., 15/03/2023).
 
 ##### Telling Time
 
-To tell time in Italian, you start with "sono le" followed by the hour. If it's within the first half-hour, you say the hour plus the minutes. If it's past the half-hour, you say the next hour minus the remaining minutes. For example:
+To tell time in Italian, you start with "sono le" followed by the hour. If it's
+within the first half-hour, you say the hour plus the minutes. If it's past the
+half-hour, you say the next hour minus the remaining minutes. For example:
 
 -   3:00: "Sono le tre."
 -   3:15: "Sono le tre e un quarto."
 -   3:30: "Sono le tre e mezzo."
 -   3:45: "Sono le quattro meno un quarto."
 
-For midnight and noon, you use "mezzanotte" (midnight) and "mezzogiorno" (noon) respectively. For 1:00, you say "È l'una," not "Sono le."
+For midnight and noon, you use "mezzanotte" (midnight) and "mezzogiorno" (noon)
+respectively. For 1:00, you say "È l'una," not "Sono le."
 
-In summary, understanding Italian numbers involves knowing cardinal and ordinal numbers, how to express dates, and the format for telling time. This knowledge is essential for daily communication in Italian.
+In summary, understanding Italian numbers involves knowing cardinal and ordinal
+numbers, how to express dates, and the format for telling time. This knowledge
+is essential for daily communication in Italian.
 
 ## Common Verbs and Conjugation
 
-Italian verbs are an essential part of the language, and understanding their conjugation is crucial for effective communication. Let's discuss regular verbs in -are, -ere, and -ire, essential irregular verbs, and present tense conjugation in Italian.
+Italian verbs are an essential part of the language, and understanding their
+conjugation is crucial for effective communication. Let's discuss regular verbs
+in -are, -ere, and -ire, essential irregular verbs, and present tense
+conjugation in Italian.
 
-**1. Regular Verbs in -are, -ere, -ire:** In Italian, regular verbs are categorized into three main groups based on their infinitive endings: -are, -ere, and -ire. These endings determine the verb's conjugation pattern in various tenses, including the present tense. Here's an overview of how to conjugate regular verbs in the present tense:
+**1. Regular Verbs in -are, -ere, -ire:** In Italian, regular verbs are
+categorized into three main groups based on their infinitive endings: -are,
+-ere, and -ire. These endings determine the verb's conjugation pattern in
+various tenses, including the present tense. Here's an overview of how to
+conjugate regular verbs in the present tense:
 
-**a) -are Verbs:** These are the most common and follow a specific conjugation pattern. Let's take the verb "parlare" (to speak) as an example:
+**a) -are Verbs:** These are the most common and follow a specific conjugation
+pattern. Let's take the verb "parlare" (to speak) as an example:
 
 -   Io (I) parlo
 -   Tu (you, informal) parli
@@ -226,9 +348,11 @@ Italian verbs are an essential part of the language, and understanding their con
 -   Voi (you all) parlate
 -   Loro (they) parlano
 
-The endings for -are verbs in the present tense are: -o, -i, -a, -iamo, -ate, -ano.
+The endings for -are verbs in the present tense are: -o, -i, -a, -iamo, -ate,
+-ano.
 
-**b) -ere Verbs:** These verbs also follow a specific pattern. Consider the verb "leggere" (to read):
+**b) -ere Verbs:** These verbs also follow a specific pattern. Consider the verb
+"leggere" (to read):
 
 -   Io leggo
 -   Tu leggi
@@ -237,9 +361,11 @@ The endings for -are verbs in the present tense are: -o, -i, -a, -iamo, -ate, -a
 -   Voi leggete
 -   Loro leggono
 
-The endings for -ere verbs in the present tense are: -o, -i, -e, -iamo, -ete, -ono.
+The endings for -ere verbs in the present tense are: -o, -i, -e, -iamo, -ete,
+-ono.
 
-**c) -ire Verbs:** These verbs have their own set of endings in the present tense. For instance, "dormire" (to sleep) is conjugated as follows:
+**c) -ire Verbs:** These verbs have their own set of endings in the present
+tense. For instance, "dormire" (to sleep) is conjugated as follows:
 
 -   Io dormo
 -   Tu dormi
@@ -248,9 +374,13 @@ The endings for -ere verbs in the present tense are: -o, -i, -e, -iamo, -ete, -o
 -   Voi dormite
 -   Loro dormono
 
-The endings for -ire verbs in the present tense are: -o, -i, -e, -iamo, -ite, -ono.
+The endings for -ire verbs in the present tense are: -o, -i, -e, -iamo, -ite,
+-ono.
 
-**2. Essential Irregular Verbs:** In addition to regular verbs, Italian also has a number of essential irregular verbs. These verbs do not follow the standard conjugation patterns, and their forms must be memorized. Some common irregular verbs in the present tense include:
+**2. Essential Irregular Verbs:** In addition to regular verbs, Italian also has
+a number of essential irregular verbs. These verbs do not follow the standard
+conjugation patterns, and their forms must be memorized. Some common irregular
+verbs in the present tense include:
 
 -   Essere (to be):
 
@@ -279,22 +409,34 @@ The endings for -ire verbs in the present tense are: -o, -i, -e, -iamo, -ite, -o
     -   Voi fate
     -   Loro fanno
 
-**3. Present Tense Conjugation:** In the present tense, Italian verbs are conjugated based on the subject pronoun. The endings are added to the verb stem (the part of the verb before the -are, -ere, or -ire ending).
+**3. Present Tense Conjugation:** In the present tense, Italian verbs are
+conjugated based on the subject pronoun. The endings are added to the verb stem
+(the part of the verb before the -are, -ere, or -ire ending).
 
--   For regular -are, -ere, and -ire verbs, the endings are consistent, as shown above.
--   For irregular verbs, such as essere, avere, and fare, the conjugations must be memorized because they don't follow the standard patterns.
+-   For regular -are, -ere, and -ire verbs, the endings are consistent, as shown
+    above.
+-   For irregular verbs, such as essere, avere, and fare, the conjugations must
+    be memorized because they don't follow the standard patterns.
 
-In summary, Italian verbs can be categorized as regular (-are, -ere, -ire) and irregular, with the present tense conjugations varying based on the verb group and the subject pronoun. Learning these conjugation patterns is fundamental for anyone studying Italian and is crucial for effectively communicating in the language.
+In summary, Italian verbs can be categorized as regular (-are, -ere, -ire) and
+irregular, with the present tense conjugations varying based on the verb group
+and the subject pronoun. Learning these conjugation patterns is fundamental for
+anyone studying Italian and is crucial for effectively communicating in the
+language.
 
 ## Past Tense
 
 ### Past Tense in Italian
 
-Italian has several past tenses, but the two most commonly used are the "passato prossimo" and the "imperfetto."
+Italian has several past tenses, but the two most commonly used are the "passato
+prossimo" and the "imperfetto."
 
 #### Passato Prossimo
 
-The "passato prossimo" is a compound tense, typically used to express actions that are completed and have a clear beginning and end in the past. It's formed using the present tense of the auxiliary verbs "avere" (to have) or "essere" (to be) plus the past participle of the main verb.
+The "passato prossimo" is a compound tense, typically used to express actions
+that are completed and have a clear beginning and end in the past. It's formed
+using the present tense of the auxiliary verbs "avere" (to have) or "essere" (to
+be) plus the past participle of the main verb.
 
 -   **Avere** is used with most verbs:
     -   "Ho mangiato" (I ate / I have eaten)
@@ -303,11 +445,15 @@ The "passato prossimo" is a compound tense, typically used to express actions th
     -   "Sono andato/a" (I went / I have gone)
     -   "Si è svegliato/a" (He/She woke up / He/She has woken up)
 
-The past participle agrees in gender and number with the subject when "essere" is used.
+The past participle agrees in gender and number with the subject when "essere"
+is used.
 
 ##### Imperfetto
 
-The "imperfetto" is used to describe ongoing, habitual, or repeated actions in the past. It also describes states of being, weather, time, age, and feelings in the past. It's a simple tense, formed by adding specific endings to the stem of the verb.
+The "imperfetto" is used to describe ongoing, habitual, or repeated actions in
+the past. It also describes states of being, weather, time, age, and feelings in
+the past. It's a simple tense, formed by adding specific endings to the stem of
+the verb.
 
 For example:
 
@@ -324,13 +470,15 @@ For example:
 
 -   **Imperfetto** is used for:
 
-    -   Describing habitual actions in the past (similar to "used to" in English)
+    -   Describing habitual actions in the past (similar to "used to" in
+        English)
     -   Setting the scene in the past (time, weather, age, feelings)
     -   Actions that were ongoing when another action occurred
 
 ##### Common Past Tense Verbs
 
-Here are some examples of common verbs in both "passato prossimo" and "imperfetto":
+Here are some examples of common verbs in both "passato prossimo" and
+"imperfetto":
 
 -   **Mangiare** (to eat)
 
@@ -352,7 +500,10 @@ Here are some examples of common verbs in both "passato prossimo" and "imperfett
     -   Passato Prossimo: "Ho vissuto" (I lived / I have lived)
     -   Imperfetto: "Vivevo" (I was living / I used to live)
 
-Understanding when to use "passato prossimo" vs. "imperfetto" is crucial in Italian, as it can change the meaning of what you're trying to convey. Context and the nature of the action will usually guide you in choosing the appropriate tense.
+Understanding when to use "passato prossimo" vs. "imperfetto" is crucial in
+Italian, as it can change the meaning of what you're trying to convey. Context
+and the nature of the action will usually guide you in choosing the appropriate
+tense.
 
 ## Future Tense
 
@@ -360,9 +511,13 @@ Understanding when to use "passato prossimo" vs. "imperfetto" is crucial in Ital
 
 #### Formation of Futuro Semplice
 
-The "futuro semplice" is the simple future tense in Italian, used to talk about future events. It's formed by adding specific endings to the infinitive form of the verb. Unlike some other tenses, the same endings are used for all three conjugation groups (-are, -ere, -ire). Here's how to form it:
+The "futuro semplice" is the simple future tense in Italian, used to talk about
+future events. It's formed by adding specific endings to the infinitive form of
+the verb. Unlike some other tenses, the same endings are used for all three
+conjugation groups (-are, -ere, -ire). Here's how to form it:
 
--   For verbs ending in -are and -ere, drop the final -e of the infinitive and add the future endings.
+-   For verbs ending in -are and -ere, drop the final -e of the infinitive and
+    add the future endings.
 -   For verbs ending in -ire, just add the future endings to the infinitive.
 
 The endings are: -ò, -ai, -à, -emo, -ete, -anno.
@@ -381,7 +536,9 @@ For example:
 
 ##### Expressing Future Intentions
 
-The "futuro semplice" is used to express actions or events that will happen in the future. It's often used for predictions, promises, plans, or decisions made at the moment of speaking.
+The "futuro semplice" is used to express actions or events that will happen in
+the future. It's often used for predictions, promises, plans, or decisions made
+at the moment of speaking.
 
 For example:
 
@@ -390,7 +547,8 @@ For example:
 
 ##### Time Expressions
 
-Certain time expressions are commonly used with the futuro semplice to indicate when in the future something will happen. Some of these include:
+Certain time expressions are commonly used with the futuro semplice to indicate
+when in the future something will happen. Some of these include:
 
 -   "Domani" (tomorrow)
 -   "La prossima settimana" (next week)
@@ -399,10 +557,15 @@ Certain time expressions are commonly used with the futuro semplice to indicate 
 
 For example:
 
--   "Fra una settimana partirò per l'Italia." (In a week, I will leave for Italy.)
+-   "Fra una settimana partirò per l'Italia." (In a week, I will leave for
+    Italy.)
 -   "L'anno prossimo finirò l'università." (Next year I will finish university.)
 
-In summary, the "futuro semplice" in Italian is used to discuss future events, intentions, and predictions. Its formation is relatively straightforward, and it's often accompanied by time expressions that specify when the action will take place. Understanding and using this tense is crucial for planning and discussing future events in Italian.
+In summary, the "futuro semplice" in Italian is used to discuss future events,
+intentions, and predictions. Its formation is relatively straightforward, and
+it's often accompanied by time expressions that specify when the action will
+take place. Understanding and using this tense is crucial for planning and
+discussing future events in Italian.
 
 ## Conditional Mood
 
@@ -410,12 +573,16 @@ In summary, the "futuro semplice" in Italian is used to discuss future events, i
 
 #### Conditional Tense Formation
 
-The conditional mood in Italian is used to express what would happen under certain circumstances or to make polite requests. Like the future tense, it has a simple formation:
+The conditional mood in Italian is used to express what would happen under
+certain circumstances or to make polite requests. Like the future tense, it has
+a simple formation:
 
--   For verbs of all three conjugations (-are, -ere, -ire), start with the infinitive form.
+-   For verbs of all three conjugations (-are, -ere, -ire), start with the
+    infinitive form.
 -   Add the conditional endings: -ei, -esti, -ebbe, -emmo, -este, -ebbero.
 
-The endings are the same for all verbs, but remember to drop the final -e for -are and -ere verbs. Here are examples for each conjugation:
+The endings are the same for all verbs, but remember to drop the final -e for
+-are and -ere verbs. Here are examples for each conjugation:
 
 -   **Amare** (to love)
     -   Io amerei (I would love)
@@ -429,10 +596,13 @@ The endings are the same for all verbs, but remember to drop the final -e for -a
 
 ##### Expressing Wishes and Hypothetical Situations
 
-The conditional is often used in "if" clauses (introduced by "se") to express hypothetical situations, especially in combination with the imperfect subjunctive:
+The conditional is often used in "if" clauses (introduced by "se") to express
+hypothetical situations, especially in combination with the imperfect
+subjunctive:
 
 -   "Se avessi tempo, viaggerei di più." (If I had time, I would travel more.)
--   "Se fossi ricco, comprerei una casa grande." (If I were rich, I would buy a big house.)
+-   "Se fossi ricco, comprerei una casa grande." (If I were rich, I would buy a
+    big house.)
 
 It's also used to express wishes or desires:
 
@@ -441,7 +611,8 @@ It's also used to express wishes or desires:
 
 ##### Key Phrases and Vocabulary
 
-Certain phrases and vocabulary are commonly associated with the conditional mood:
+Certain phrases and vocabulary are commonly associated with the conditional
+mood:
 
 -   **Vorrei** (I would like): Used for polite requests or desires.
     -   "Vorrei prenotare un tavolo." (I would like to book a table.)
@@ -449,10 +620,14 @@ Certain phrases and vocabulary are commonly associated with the conditional mood
     -   "Potrei usare il tuo telefono?" (Could I use your phone?)
 -   **Dovrei** (I should): Used to give advice.
     -   "Dovresti riposarti." (You should rest.)
--   **Condizionale con 'se'** (Conditional with 'if'): Combining the conditional with "se" for hypothetical scenarios.
-    -   "Se potessi, viaggerei in Giappone." (If I could, I would travel to Japan.)
+-   **Condizionale con 'se'** (Conditional with 'if'): Combining the conditional
+    with "se" for hypothetical scenarios.
+    -   "Se potessi, viaggerei in Giappone." (If I could, I would travel to
+        Japan.)
 
-The conditional mood in Italian is essential for expressing possibilities, making polite requests, and discussing hypothetical situations. Understanding how to form and use it is crucial for effective communication in Italian.
+The conditional mood in Italian is essential for expressing possibilities,
+making polite requests, and discussing hypothetical situations. Understanding
+how to form and use it is crucial for effective communication in Italian.
 
 ## Subjunctive Mood
 
@@ -460,11 +635,16 @@ The conditional mood in Italian is essential for expressing possibilities, makin
 
 #### Understanding the Subjunctive
 
-The subjunctive mood (il congiuntivo) in Italian is used to express doubt, possibility, desire, or a subjective point of view. Unlike the indicative mood, which is used to describe factual, certain, or objective statements, the subjunctive is used for expressions that are uncertain, hypothetical, or emotional.
+The subjunctive mood (il congiuntivo) in Italian is used to express doubt,
+possibility, desire, or a subjective point of view. Unlike the indicative mood,
+which is used to describe factual, certain, or objective statements, the
+subjunctive is used for expressions that are uncertain, hypothetical, or
+emotional.
 
 ##### When to Use the Subjunctive
 
-The subjunctive is often used in dependent clauses introduced by certain conjunctions or after specific verbs and expressions. Common scenarios include:
+The subjunctive is often used in dependent clauses introduced by certain
+conjunctions or after specific verbs and expressions. Common scenarios include:
 
 1.  **Expressing Wishes or Desires**:
 
@@ -476,11 +656,13 @@ The subjunctive is often used in dependent clauses introduced by certain conjunc
 
 3.  **After Certain Conjunctions**:
 
-    -   "Benché sia tardi, continueremo a lavorare." (Although it is late, we will continue working.)
+    -   "Benché sia tardi, continueremo a lavorare." (Although it is late, we
+        will continue working.)
 
 4.  **In Hypothetical Statements**:
 
-    -   "Sebbene abbia freddo, non si lamenta." (Even though he is cold, he does not complain.)
+    -   "Sebbene abbia freddo, non si lamenta." (Even though he is cold, he does
+        not complain.)
 
 5.  **Expressing Emotions**:
 
@@ -488,17 +670,28 @@ The subjunctive is often used in dependent clauses introduced by certain conjunc
 
 ##### Common Verbs and Expressions
 
-Some verbs and expressions commonly trigger the use of the subjunctive, including:
+Some verbs and expressions commonly trigger the use of the subjunctive,
+including:
 
 -   **Sperare** (to hope): "Spero che tu possa venire." (I hope you can come.)
 -   **Volere** (to want): "Voglio che tu impari." (I want you to learn.)
--   **Pensare** (to think, in the sense of an opinion): "Penso che sia una buona idea." (I think it's a good idea.)
--   **Benché, Sebbene, Nonostante** (Although, Even though): Used to introduce contrasting ideas.
--   **Affinché, Perché** (So that, In order that): Used to express a purpose or goal.
+-   **Pensare** (to think, in the sense of an opinion): "Penso che sia una buona
+    idea." (I think it's a good idea.)
+-   **Benché, Sebbene, Nonostante** (Although, Even though): Used to introduce
+    contrasting ideas.
+-   **Affinché, Perché** (So that, In order that): Used to express a purpose or
+    goal.
 
-The subjunctive has different tenses (present, past, imperfect, and pluperfect), but the present subjunctive (congiuntivo presente) and past subjunctive (congiuntivo passato) are the most commonly used. The formation of these tenses varies based on the verb, and like other moods in Italian, they must agree in number and person with the subject.
+The subjunctive has different tenses (present, past, imperfect, and pluperfect),
+but the present subjunctive (congiuntivo presente) and past subjunctive
+(congiuntivo passato) are the most commonly used. The formation of these tenses
+varies based on the verb, and like other moods in Italian, they must agree in
+number and person with the subject.
 
-In summary, the subjunctive mood in Italian is essential for expressing a range of subjective, emotional, and hypothetical thoughts. Recognizing the contexts and expressions that require the subjunctive is key to mastering its use in Italian.
+In summary, the subjunctive mood in Italian is essential for expressing a range
+of subjective, emotional, and hypothetical thoughts. Recognizing the contexts
+and expressions that require the subjunctive is key to mastering its use in
+Italian.
 
 ## Imperative Mood
 
@@ -506,7 +699,11 @@ In summary, the subjunctive mood in Italian is essential for expressing a range 
 
 #### Forming Commands and Requests
 
-The imperative mood (l'imperativo) is used in Italian to give commands, instructions, or make requests. It's a direct way to tell someone what to do. Unlike other moods, it only exists in the present tense and is used only for the second person singular (tu), second person plural (voi), and the formal forms (Lei, Loro).
+The imperative mood (l'imperativo) is used in Italian to give commands,
+instructions, or make requests. It's a direct way to tell someone what to do.
+Unlike other moods, it only exists in the present tense and is used only for the
+second person singular (tu), second person plural (voi), and the formal forms
+(Lei, Loro).
 
 ##### Formal vs Informal Imperatives
 
@@ -514,15 +711,20 @@ The imperative has both informal and formal forms:
 
 1.  **Informal Imperative (Tu, Voi)**:
 
-    -   For "tu" with most -are verbs, drop the final -re of the infinitive. For example, "parla!" (speak!).
-    -   For "tu" with -ere and -ire verbs, drop the final -e of the infinitive. For example, "scrivi!" (write!).
-    -   For "voi" (you plural), use the present indicative form. For example, "mangiate!" (eat!).
+    -   For "tu" with most -are verbs, drop the final -re of the infinitive. For
+        example, "parla!" (speak!).
+    -   For "tu" with -ere and -ire verbs, drop the final -e of the infinitive.
+        For example, "scrivi!" (write!).
+    -   For "voi" (you plural), use the present indicative form. For example,
+        "mangiate!" (eat!).
 
 2.  **Formal Imperative (Lei, Loro)**:
 
     -   The formal imperative is identical to the present subjunctive form.
-    -   For "Lei" (formal you singular), use the third person singular of the present subjunctive. For example, "parli!" (speak! - formal).
-    -   For "Loro" (formal you plural), use the third person plural of the present subjunctive. For example, "scrivano!" (write! - formal).
+    -   For "Lei" (formal you singular), use the third person singular of the
+        present subjunctive. For example, "parli!" (speak! - formal).
+    -   For "Loro" (formal you plural), use the third person plural of the
+        present subjunctive. For example, "scrivano!" (write! - formal).
 
 ##### Common Phrases and Expressions
 
@@ -537,9 +739,14 @@ Here are some common phrases and expressions in the imperative mood:
 -   **Mangiate!** (Eat! - plural informal)
 -   **Parlate/Parlino!** (Speak! - plural informal/formal)
 
-In addition, negative commands are formed by placing "non" before the verb in the imperative form, e.g., "Non parlare!" (Don't speak!).
+In addition, negative commands are formed by placing "non" before the verb in
+the imperative form, e.g., "Non parlare!" (Don't speak!).
 
-In summary, the imperative mood in Italian is used for giving orders, making requests, or offering suggestions. Understanding the difference between formal and informal imperatives is crucial, especially in situations requiring politeness or respect. The imperative is a straightforward and often used mood in everyday Italian communication.
+In summary, the imperative mood in Italian is used for giving orders, making
+requests, or offering suggestions. Understanding the difference between formal
+and informal imperatives is crucial, especially in situations requiring
+politeness or respect. The imperative is a straightforward and often used mood
+in everyday Italian communication.
 
 ## Pronouns
 
@@ -547,21 +754,29 @@ In summary, the imperative mood in Italian is used for giving orders, making req
 
 #### Personal Pronouns
 
-Personal pronouns in Italian come in different forms based on their function in the sentence: subject, object, and reflexive.
+Personal pronouns in Italian come in different forms based on their function in
+the sentence: subject, object, and reflexive.
 
 1.  **Subject Pronouns** (usually omitted in spoken language):
 
-    -   Io (I), tu (you - singular informal), lui/lei (he/she), noi (we), voi (you - plural informal), loro (they).
+    -   Io (I), tu (you - singular informal), lui/lei (he/she), noi (we), voi
+        (you - plural informal), loro (they).
     -   Formal: Lei (you - singular formal), Loro (you - plural formal).
 
 2.  **Object Pronouns** (direct and indirect):
 
-    -   Direct: mi (me), ti (you - singular informal), lo/la (him/her), ci (us), vi (you - plural informal), li/le (them).
-    -   Indirect: mi (to/for me), ti (to/for you - singular informal), gli/le (to/for him/her), ci (to/for us), vi (to/for you - plural informal), loro (to/for them).
+    -   Direct: mi (me), ti (you - singular informal), lo/la (him/her), ci (us),
+        vi (you - plural informal), li/le (them).
+    -   Indirect: mi (to/for me), ti (to/for you - singular informal), gli/le
+        (to/for him/her), ci (to/for us), vi (to/for you - plural informal),
+        loro (to/for them).
 
-3.  **Reflexive Pronouns** (used with reflexive verbs, where the subject and object are the same):
+3.  **Reflexive Pronouns** (used with reflexive verbs, where the subject and
+    object are the same):
 
-    -   Mi (myself), ti (yourself - singular informal), si (himself/herself/yourself formal), ci (ourselves), vi (yourselves), si (themselves).
+    -   Mi (myself), ti (yourself - singular informal), si
+        (himself/herself/yourself formal), ci (ourselves), vi (yourselves), si
+        (themselves).
 
 ##### Demonstrative, Possessive, and Relative Pronouns
 
@@ -571,23 +786,34 @@ Personal pronouns in Italian come in different forms based on their function in 
 
 2.  **Possessive Pronouns**:
 
-    -   Mio (mine), tuo (yours - singular informal), suo (his/hers/yours formal), nostro (ours), vostro (yours - plural informal), loro (theirs).
+    -   Mio (mine), tuo (yours - singular informal), suo (his/hers/yours
+        formal), nostro (ours), vostro (yours - plural informal), loro (theirs).
     -   These agree in gender and number with the noun they are referring to.
 
 3.  **Relative Pronouns**:
 
-    -   Che (who, that, which), cui (whom, which), il quale/la quale/i quali/le quali (who, which, that).
+    -   Che (who, that, which), cui (whom, which), il quale/la quale/i quali/le
+        quali (who, which, that).
     -   Used to connect clauses or to introduce relative clauses.
 
 ##### Pronoun Placement in Sentences
 
--   In affirmative sentences, object pronouns usually precede the verb: "Mi chiama" (He calls me).
--   In negative sentences, pronouns are placed between "non" and the verb: "Non ti vedo" (I don't see you).
--   In infinitive constructions, pronouns can be attached to the end of the infinitive: "Voglio vederlo" (I want to see him) or "Lo voglio vedere" (I want to see him).
--   With imperative forms, pronouns are usually attached to the end of the verb: "Dimmi!" (Tell me!).
+-   In affirmative sentences, object pronouns usually precede the verb: "Mi
+    chiama" (He calls me).
+-   In negative sentences, pronouns are placed between "non" and the verb: "Non
+    ti vedo" (I don't see you).
+-   In infinitive constructions, pronouns can be attached to the end of the
+    infinitive: "Voglio vederlo" (I want to see him) or "Lo voglio vedere" (I
+    want to see him).
+-   With imperative forms, pronouns are usually attached to the end of the verb:
+    "Dimmi!" (Tell me!).
 -   Reflexive pronouns are placed before the verb: "Mi lavo" (I wash myself).
 
-In summary, understanding pronouns in Italian is essential for constructing sentences correctly. This includes knowing their type (subject, object, reflexive, demonstrative, possessive, relative) and where to place them in a sentence. Italian pronouns often provide nuances of formality, familiarity, and emphasis in communication.
+In summary, understanding pronouns in Italian is essential for constructing
+sentences correctly. This includes knowing their type (subject, object,
+reflexive, demonstrative, possessive, relative) and where to place them in a
+sentence. Italian pronouns often provide nuances of formality, familiarity, and
+emphasis in communication.
 
 ## Prepositions
 
@@ -595,7 +821,9 @@ In summary, understanding pronouns in Italian is essential for constructing sent
 
 #### Common Italian Prepositions
 
-Prepositions in Italian are small words used to connect elements in a sentence, indicating relationships of time, place, manner, or cause. Common prepositions include:
+Prepositions in Italian are small words used to connect elements in a sentence,
+indicating relationships of time, place, manner, or cause. Common prepositions
+include:
 
 -   **Di** (of, about)
 -   **A** (to, at)
@@ -621,7 +849,9 @@ Prepositions are often used in phrases to provide additional context or detail:
 
 ##### Prepositions with Articles
 
-In Italian, prepositions combine with definite articles to form single words, a feature known as "preposizioni articolate." These are used to streamline the flow of sentences. Here's how they are formed:
+In Italian, prepositions combine with definite articles to form single words, a
+feature known as "preposizioni articolate." These are used to streamline the
+flow of sentences. Here's how they are formed:
 
 -   **Di + il = del** (of the)
 -   **Di + la = della** (of the)
@@ -646,7 +876,10 @@ For example:
 -   "Il libro è sulla tavola." (The book is on the table.)
 -   "Parlo del problema." (I talk about the problem.)
 
-In summary, prepositions in Italian are crucial in linking words and expressing relationships within sentences. Understanding how to use them, especially in combination with articles, is key to mastering Italian sentence structure and fluency.
+In summary, prepositions in Italian are crucial in linking words and expressing
+relationships within sentences. Understanding how to use them, especially in
+combination with articles, is key to mastering Italian sentence structure and
+fluency.
 
 ## Adverbs
 
@@ -654,28 +887,36 @@ In summary, prepositions in Italian are crucial in linking words and expressing 
 
 #### Types of Adverbs
 
-Adverbs in Italian modify verbs, adjectives, other adverbs, or entire sentences. They are categorized based on what they describe:
+Adverbs in Italian modify verbs, adjectives, other adverbs, or entire sentences.
+They are categorized based on what they describe:
 
-1.  **Manner**: Describe how an action is performed. Examples include "bene" (well), "male" (badly), "velocemente" (quickly).
+1.  **Manner**: Describe how an action is performed. Examples include "bene"
+    (well), "male" (badly), "velocemente" (quickly).
 
-2.  **Time**: Indicate when an action takes place. Examples include "ora" (now), "dopo" (later), "presto" (soon), "sempre" (always).
+2.  **Time**: Indicate when an action takes place. Examples include "ora" (now),
+    "dopo" (later), "presto" (soon), "sempre" (always).
 
-3.  **Place**: Indicate where an action occurs. Examples include "qui/qua" (here), "lì/là" (there), "dovunque" (everywhere).
+3.  **Place**: Indicate where an action occurs. Examples include "qui/qua"
+    (here), "lì/là" (there), "dovunque" (everywhere).
 
 ##### Formation of Adverbs
 
-Many adverbs of manner are formed by adding "-mente" to the feminine singular form of an adjective. If the adjective ends in "-le" or "-re", these are dropped before adding "-mente".
+Many adverbs of manner are formed by adding "-mente" to the feminine singular
+form of an adjective. If the adjective ends in "-le" or "-re", these are dropped
+before adding "-mente".
 
 For example:
 
 -   "Felice" (happy) becomes "felice**mente**" (happily).
 -   "Reale" (real) becomes "real**mente**" (really).
 
-However, there are many irregular adverbs, and some adjectives don't change form when used as adverbs, like "veloce" (fast).
+However, there are many irregular adverbs, and some adjectives don't change form
+when used as adverbs, like "veloce" (fast).
 
 ##### Comparative and Superlative Forms
 
-Like adjectives, adverbs can have comparative and superlative forms to indicate degrees of comparison.
+Like adjectives, adverbs can have comparative and superlative forms to indicate
+degrees of comparison.
 
 1.  **Comparative**:
 
@@ -684,15 +925,23 @@ Like adjectives, adverbs can have comparative and superlative forms to indicate 
 
 2.  **Superlative**:
 
-    -   **Relativo** (relative): Formed by placing "più" or "meno" before the adverb and adding "di" (of) followed by the rest of the phrase. For example, "il più velocemente possibile" (as quickly as possible).
-    -   **Assoluto** (absolute): Often formed by adding "-issimo/a/e/i" to the adjective, or using entirely different words. For example, "velocissimamente" (very quickly) or "molto velocemente" (very quickly).
+    -   **Relativo** (relative): Formed by placing "più" or "meno" before the
+        adverb and adding "di" (of) followed by the rest of the phrase. For
+        example, "il più velocemente possibile" (as quickly as possible).
+    -   **Assoluto** (absolute): Often formed by adding "-issimo/a/e/i" to the
+        adjective, or using entirely different words. For example,
+        "velocissimamente" (very quickly) or "molto velocemente" (very quickly).
 
 In sentences:
 
 -   "Corre più velocemente di me." (He runs more quickly than me.)
--   "Questo è il libro che ho letto più rapidamente." (This is the book that I read the quickest.)
+-   "Questo è il libro che ho letto più rapidamente." (This is the book that I
+    read the quickest.)
 
-In summary, adverbs in Italian are versatile words that provide crucial information about the manner, time, and place of actions. Understanding their formation and how to use their comparative and superlative forms is essential for adding detail and nuance to your Italian communication.
+In summary, adverbs in Italian are versatile words that provide crucial
+information about the manner, time, and place of actions. Understanding their
+formation and how to use their comparative and superlative forms is essential
+for adding detail and nuance to your Italian communication.
 
 ## Conjunctions and Linking Words
 
@@ -700,7 +949,8 @@ In summary, adverbs in Italian are versatile words that provide crucial informat
 
 #### Coordinating Conjunctions
 
-Coordinating conjunctions join words, phrases, or clauses that are equally important in a sentence. The main coordinating conjunctions in Italian are:
+Coordinating conjunctions join words, phrases, or clauses that are equally
+important in a sentence. The main coordinating conjunctions in Italian are:
 
 -   **E** (and): Links similar ideas or adds information.
     -   "Mangio una mela e una banana." (I eat an apple and a banana.)
@@ -713,7 +963,9 @@ Coordinating conjunctions join words, phrases, or clauses that are equally impor
 
 ##### Subordinating Conjunctions
 
-Subordinating conjunctions connect a dependent clause to an independent clause, indicating a relationship like cause, time, or condition. Some common subordinating conjunctions are:
+Subordinating conjunctions connect a dependent clause to an independent clause,
+indicating a relationship like cause, time, or condition. Some common
+subordinating conjunctions are:
 
 -   **Che** (that): Used to introduce a clause.
     -   "Penso che sia vero." (I think that it's true.)
@@ -730,19 +982,29 @@ Linking words help to create more complex and nuanced sentences:
 
 -   **Quindi, Allora** (then, so): Indicates a conclusion or consequence.
     -   "È tardi, quindi devo andare." (It's late, so I have to go.)
--   **Comunque, Tuttavia** (however, nevertheless): Introduce a contrasting point.
-    -   "È caro; tuttavia, lo compro." (It's expensive; nevertheless, I'm buying it.)
+-   **Comunque, Tuttavia** (however, nevertheless): Introduce a contrasting
+    point.
+    -   "È caro; tuttavia, lo compro." (It's expensive; nevertheless, I'm buying
+        it.)
 -   **Inoltre, Anche** (furthermore, also): Add additional information.
-    -   "Mi piace leggere; inoltre, mi piace scrivere." (I like reading; furthermore, I like writing.)
+    -   "Mi piace leggere; inoltre, mi piace scrivere." (I like reading;
+        furthermore, I like writing.)
 
 ##### Building Complex Sentences
 
-Using conjunctions and linking words effectively can help you build complex and coherent sentences in Italian. They allow you to connect ideas smoothly and logically, which is essential for advanced communication. For example:
+Using conjunctions and linking words effectively can help you build complex and
+coherent sentences in Italian. They allow you to connect ideas smoothly and
+logically, which is essential for advanced communication. For example:
 
--   "Volevo vedere il film, ma era esaurito, quindi sono andato a cena con gli amici." (I wanted to see the movie, but it was sold out, so I went to dinner with friends.)
--   "Se finisci i compiti, potrai guardare la TV." (If you finish your homework, you can watch TV.)
+-   "Volevo vedere il film, ma era esaurito, quindi sono andato a cena con gli
+    amici." (I wanted to see the movie, but it was sold out, so I went to dinner
+    with friends.)
+-   "Se finisci i compiti, potrai guardare la TV." (If you finish your homework,
+    you can watch TV.)
 
-In summary, understanding and correctly using conjunctions and linking words are key to forming sophisticated and clear sentences in Italian. They help in structuring thoughts and adding complexity to your speech or writing.
+In summary, understanding and correctly using conjunctions and linking words are
+key to forming sophisticated and clear sentences in Italian. They help in
+structuring thoughts and adding complexity to your speech or writing.
 
 ## Question Formation
 
@@ -752,12 +1014,16 @@ In summary, understanding and correctly using conjunctions and linking words are
 
 In Italian, forming questions can be straightforward. Here's how to do it:
 
-1.  **Basic Questions**: Often, you can form a question simply by using a rising intonation at the end of a statement.
+1.  **Basic Questions**: Often, you can form a question simply by using a rising
+    intonation at the end of a statement.
 
     -   Statement: "Tu parli italiano." (You speak Italian.)
     -   Question: "Tu parli italiano?" (Do you speak Italian?)
 
-2.  **Advanced Questions**: For more complex questions, especially those seeking specific information, interrogative words are used at the beginning of the sentence. The structure may also involve inverting the subject and verb or using auxiliary verbs.
+2.  **Advanced Questions**: For more complex questions, especially those seeking
+    specific information, interrogative words are used at the beginning of the
+    sentence. The structure may also involve inverting the subject and verb or
+    using auxiliary verbs.
 
     -   "Dove lavori?" (Where do you work?)
     -   "Perché sei arrivato tardi?" (Why did you arrive late?)
@@ -787,14 +1053,20 @@ Using question words correctly is key to forming clear and specific questions:
 
 -   **"Chi?"** is used for questions about people. It doesn't change form.
     -   "Chi viene stasera?" (Who is coming tonight?)
--   **"Cosa?"** or **"Che cosa?"** or **"Che?"** are interchangeable for most situations.
+-   **"Cosa?"** or **"Che cosa?"** or **"Che?"** are interchangeable for most
+    situations.
     -   "Cosa pensi?" or "Che cosa pensi?" or "Che pensi?" (What do you think?)
--   **"Dove," "Quando," "Perché,"** and **"Come"** are straightforward and used similarly to their English counterparts.
+-   **"Dove," "Quando," "Perché,"** and **"Come"** are straightforward and used
+    similarly to their English counterparts.
     -   "Dove hai messo le chiavi?" (Where did you put the keys?)
--   **"Quanto?"** changes to agree in gender and number with the noun it refers to.
+-   **"Quanto?"** changes to agree in gender and number with the noun it refers
+    to.
     -   "Quanta acqua bevi al giorno?" (How much water do you drink a day?)
 
-In summary, forming questions in Italian can range from simple intonation changes in basic queries to the use of specific interrogative words for more advanced questions. Knowing which interrogative word to use and how to structure the sentence is essential for effective communication in Italian.
+In summary, forming questions in Italian can range from simple intonation
+changes in basic queries to the use of specific interrogative words for more
+advanced questions. Knowing which interrogative word to use and how to structure
+the sentence is essential for effective communication in Italian.
 
 ## Negation
 
@@ -802,35 +1074,50 @@ In summary, forming questions in Italian can range from simple intonation change
 
 #### Using "Non" and Other Negation Words
 
-Negation in Italian is primarily achieved using the word "non" (not). "Non" is placed directly before the verb to negate the action:
+Negation in Italian is primarily achieved using the word "non" (not). "Non" is
+placed directly before the verb to negate the action:
 
 -   "Non parlo italiano." (I do not speak Italian.)
 -   "Non abbiamo visto il film." (We did not see the movie.)
 
-Besides "non," other words can also be used for negation, often in combination with "non":
+Besides "non," other words can also be used for negation, often in combination
+with "non":
 
 -   **Niente / Nulla** (nothing): "Non ho niente." (I have nothing.)
--   **Nessuno** (nobody/no one): "Non conosco nessuno qui." (I don't know anyone here.)
--   **Mai** (never): "Non sono mai stato in Italia." (I have never been to Italy.)
--   **Né\...né** (neither\...nor): "Non mi piace né il pesce né la carne." (I like neither fish nor meat.)
+-   **Nessuno** (nobody/no one): "Non conosco nessuno qui." (I don't know anyone
+    here.)
+-   **Mai** (never): "Non sono mai stato in Italia." (I have never been to
+    Italy.)
+-   **Né\...né** (neither\...nor): "Non mi piace né il pesce né la carne." (I
+    like neither fish nor meat.)
 
 ##### Double Negation
 
-In Italian, unlike English, double negation is grammatically correct and often used for emphasis. When a sentence is negated with "non," any other negation word in the sentence does not cancel out the negation but reinforces it:
+In Italian, unlike English, double negation is grammatically correct and often
+used for emphasis. When a sentence is negated with "non," any other negation
+word in the sentence does not cancel out the negation but reinforces it:
 
 -   "Non ho mai visto nessuno." (I have never seen anyone.)
 -   "Non voglio più fare niente." (I don't want to do anything anymore.)
 
 ##### Common Negative Expressions
 
-There are several expressions in Italian that are inherently negative and are frequently used:
+There are several expressions in Italian that are inherently negative and are
+frequently used:
 
 -   **Non ancora** (not yet): "Non ho ancora finito." (I haven't finished yet.)
--   **Non più** (no longer, not anymore): "Non lavoro più là." (I no longer work there.)
--   **Non\...affatto** (not at all): "Non mi piace affatto." (I don't like it at all.)
--   **Non solo\... ma anche** (not only\... but also): "Non solo è intelligente, ma è anche gentile." (Not only is he smart, but he's also kind.)
+-   **Non più** (no longer, not anymore): "Non lavoro più là." (I no longer work
+    there.)
+-   **Non\...affatto** (not at all): "Non mi piace affatto." (I don't like it at
+    all.)
+-   **Non solo\... ma anche** (not only\... but also): "Non solo è intelligente,
+    ma è anche gentile." (Not only is he smart, but he's also kind.)
 
-In summary, understanding how to use "non" and other negation words is crucial in Italian. Remember that double negation is a common and grammatically correct structure, and there are various expressions to convey different shades of negation. These are key components in constructing accurate and nuanced negative sentences in Italian.
+In summary, understanding how to use "non" and other negation words is crucial
+in Italian. Remember that double negation is a common and grammatically correct
+structure, and there are various expressions to convey different shades of
+negation. These are key components in constructing accurate and nuanced negative
+sentences in Italian.
 
 ## Conversational Phrases and Expressions
 
@@ -838,7 +1125,8 @@ In summary, understanding how to use "non" and other negation words is crucial i
 
 #### Greetings and Farewells
 
-Italian is a language rich in expressions for different times of the day and social contexts:
+Italian is a language rich in expressions for different times of the day and
+social contexts:
 
 -   **Greetings**:
 
@@ -857,11 +1145,15 @@ Italian is a language rich in expressions for different times of the day and soc
 
 These are phrases you might use in daily conversations:
 
--   **"Per favore"** (please) and **"Grazie"** (thank you): Essential for polite requests and expressions of gratitude.
--   **"Scusa"** (sorry - informal) / **"Scusi"** (sorry - formal): For apologizing or getting someone's attention.
+-   **"Per favore"** (please) and **"Grazie"** (thank you): Essential for polite
+    requests and expressions of gratitude.
+-   **"Scusa"** (sorry - informal) / **"Scusi"** (sorry - formal): For
+    apologizing or getting someone's attention.
 -   **"Non capisco"** (I don't understand): Useful when you need clarification.
--   **"Puoi aiutarmi?"** (Can you help me? - informal) / **"Può aiutarmi?"** (Can you help me? - formal): For seeking assistance.
--   **"Come stai?"** (How are you? - informal) / **"Come sta?"** (How are you? - formal): Common in friendly conversations.
+-   **"Puoi aiutarmi?"** (Can you help me? - informal) / **"Può aiutarmi?"**
+    (Can you help me? - formal): For seeking assistance.
+-   **"Come stai?"** (How are you? - informal) / **"Come sta?"** (How are you? -
+    formal): Common in friendly conversations.
 
 ##### Useful Phrases for Travel and Dining
 
@@ -883,11 +1175,14 @@ When traveling in Italy or dining out, these phrases can be particularly useful:
 
 #### Bonus: Expressing Likes and Dislikes
 
--   **"Mi piace\..."** (I like\...) / **"Non mi piace\..."** (I don't like\...): For expressing preferences.
+-   **"Mi piace\..."** (I like\...) / **"Non mi piace\..."** (I don't like\...):
+    For expressing preferences.
     -   "Mi piace la pizza." (I like pizza.)
     -   "Non mi piace il freddo." (I don't like the cold.)
 
-Mastering these phrases and expressions can greatly enhance your ability to communicate effectively in Italian, both in everyday situations and while traveling. They form the backbone of basic Italian conversational skills.
+Mastering these phrases and expressions can greatly enhance your ability to
+communicate effectively in Italian, both in everyday situations and while
+traveling. They form the backbone of basic Italian conversational skills.
 
 ## Writing in Italian
 
@@ -895,38 +1190,61 @@ Mastering these phrases and expressions can greatly enhance your ability to comm
 
 #### Letter Writing and Emails
 
-The structure of letters and emails in Italian often follows specific conventions:
+The structure of letters and emails in Italian often follows specific
+conventions:
 
-1.  **Opening**: Formal letters usually begin with "Egregio/Egregia" (Dear Mr./Mrs.), followed by the surname. Informal letters may start with "Caro/Carissimo" or "Cara/Carissima" (Dear/Dear beloved) followed by the first name. In emails, "Gentile" (Dear) is commonly used for both formal and informal contexts.
+1.  **Opening**: Formal letters usually begin with "Egregio/Egregia" (Dear
+    Mr./Mrs.), followed by the surname. Informal letters may start with
+    "Caro/Carissimo" or "Cara/Carissima" (Dear/Dear beloved) followed by the
+    first name. In emails, "Gentile" (Dear) is commonly used for both formal and
+    informal contexts.
 
-2.  **Body**: The body of the letter or email should be clear and concise. In formal writing, the language is more sophisticated and polite, using complete sentences and avoiding contractions. In informal writing, you can use a conversational tone and contractions, similar to speaking.
+2.  **Body**: The body of the letter or email should be clear and concise. In
+    formal writing, the language is more sophisticated and polite, using
+    complete sentences and avoiding contractions. In informal writing, you can
+    use a conversational tone and contractions, similar to speaking.
 
-3.  **Closing**: Formal letters often end with "Cordiali saluti" (Kind regards) or "Distinti saluti" (Yours sincerely). Informal letters can end with "Affettuosamente" (Affectionately) or "Con amore" (With love). For emails, "Cordiali saluti" is versatile and widely accepted.
+3.  **Closing**: Formal letters often end with "Cordiali saluti" (Kind regards)
+    or "Distinti saluti" (Yours sincerely). Informal letters can end with
+    "Affettuosamente" (Affectionately) or "Con amore" (With love). For emails,
+    "Cordiali saluti" is versatile and widely accepted.
 
 ##### Formal vs Informal Writing
 
 The distinction between formal and informal writing in Italian is significant:
 
--   **Formal Writing**: Used in business, academic, or official communications. It avoids colloquial language, uses polite forms (like the formal "Lei" pronoun), and follows strict grammatical rules.
+-   **Formal Writing**: Used in business, academic, or official communications.
+    It avoids colloquial language, uses polite forms (like the formal "Lei"
+    pronoun), and follows strict grammatical rules.
 
--   **Informal Writing**: Used with friends, family, or people you know well. It's more relaxed, can include slang or regional expressions, and uses informal pronouns ("tu" and "voi").
+-   **Informal Writing**: Used with friends, family, or people you know well.
+    It's more relaxed, can include slang or regional expressions, and uses
+    informal pronouns ("tu" and "voi").
 
 ##### Punctuation and Capitalization
 
-Italian punctuation and capitalization rules are somewhat different from English:
+Italian punctuation and capitalization rules are somewhat different from
+English:
 
 -   **Punctuation**:
 
     -   Commas and periods are used similarly to English.
-    -   Question marks and exclamation points are used only at the end of the respective sentences, not at the beginning.
-    -   Quotation marks ("virgolette") can be used as in English, but often the angular quotation marks (« ») are preferred.
+    -   Question marks and exclamation points are used only at the end of the
+        respective sentences, not at the beginning.
+    -   Quotation marks ("virgolette") can be used as in English, but often the
+        angular quotation marks (« ») are preferred.
 
 -   **Capitalization**:
 
-    -   Unlike English, days of the week, months, and languages are not capitalized in Italian (e.g., "lunedì," "gennaio," "italiano").
-    -   Proper nouns, the first word in a sentence, and titles (when preceding a name) are capitalized.
+    -   Unlike English, days of the week, months, and languages are not
+        capitalized in Italian (e.g., "lunedì," "gennaio," "italiano").
+    -   Proper nouns, the first word in a sentence, and titles (when preceding a
+        name) are capitalized.
 
-In summary, writing in Italian, whether it's a letter, an email, or any other form, requires an understanding of the appropriate level of formality, as well as the conventions of punctuation and capitalization. Being aware of these differences is crucial for effective and correct communication in Italian.
+In summary, writing in Italian, whether it's a letter, an email, or any other
+form, requires an understanding of the appropriate level of formality, as well
+as the conventions of punctuation and capitalization. Being aware of these
+differences is crucial for effective and correct communication in Italian.
 
 ## Advanced Grammar Topics
 
@@ -934,146 +1252,236 @@ In summary, writing in Italian, whether it's a letter, an email, or any other fo
 
 #### Idiomatic Expressions
 
-Idiomatic expressions are phrases whose meanings are not deducible from the individual words. They add color and realism to language. Some common Italian idioms include:
+Idiomatic expressions are phrases whose meanings are not deducible from the
+individual words. They add color and realism to language. Some common Italian
+idioms include:
 
--   **"In bocca al lupo!"** (In the mouth of the wolf!) - Equivalent to "Good luck!"
--   **"Costare un occhio della testa."** (To cost an eye of the head) - Means something is very expensive.
--   **"Non vedere l'ora."** (Not to see the hour) - Can't wait or looking forward to something.
--   **"Prendere due piccioni con una fava."** (To catch two pigeons with one fava bean) - Similar to "kill two birds with one stone."
+-   **"In bocca al lupo!"** (In the mouth of the wolf!) - Equivalent to "Good
+    luck!"
+-   **"Costare un occhio della testa."** (To cost an eye of the head) - Means
+    something is very expensive.
+-   **"Non vedere l'ora."** (Not to see the hour) - Can't wait or looking
+    forward to something.
+-   **"Prendere due piccioni con una fava."** (To catch two pigeons with one
+    fava bean) - Similar to "kill two birds with one stone."
 
 ##### Passive Voice
 
-The passive voice in Italian is formed differently than in English and is less frequently used. It's typically constructed with the verb "essere" (to be) plus the past participle of the main verb, agreeing in gender and number with the subject:
+The passive voice in Italian is formed differently than in English and is less
+frequently used. It's typically constructed with the verb "essere" (to be) plus
+the past participle of the main verb, agreeing in gender and number with the
+subject:
 
 -   "La lettera è stata scritta da Maria." (The letter was written by Maria.)
 
-The passive voice is common in formal writing but less so in everyday speech. Italians often use a reflexive construction or an active voice as an alternative to express the passive meaning.
+The passive voice is common in formal writing but less so in everyday speech.
+Italians often use a reflexive construction or an active voice as an alternative
+to express the passive meaning.
 
 ##### Direct and Indirect Speech
 
 1.  **Direct Speech**: Involves quoting the exact words spoken.
 
-    -   "Marco ha detto: 'Studio l'italiano.'" (Marco said: "I am studying Italian.")
+    -   "Marco ha detto: 'Studio l'italiano.'" (Marco said: "I am studying
+        Italian.")
 
-2.  **Indirect Speech**: Involves reporting what someone said without quoting their exact words, often using the conjunction "che." This requires changes in tense, pronouns, and sometimes time expressions.
+2.  **Indirect Speech**: Involves reporting what someone said without quoting
+    their exact words, often using the conjunction "che." This requires changes
+    in tense, pronouns, and sometimes time expressions.
 
-    -   "Marco ha detto che studiava l'italiano." (Marco said that he was studying Italian.)
+    -   "Marco ha detto che studiava l'italiano." (Marco said that he was
+        studying Italian.)
 
-Changing from direct to indirect speech in Italian involves understanding how to adjust the tense of the verbs (e.g., present to imperfect, past perfect to pluperfect) and align pronouns and time expressions appropriately.
+Changing from direct to indirect speech in Italian involves understanding how to
+adjust the tense of the verbs (e.g., present to imperfect, past perfect to
+pluperfect) and align pronouns and time expressions appropriately.
 
 ##### Bonus: Conditional Sentences
 
-Italian has several types of conditional sentences (periodo ipotetico), which involve different combinations of tenses to express various degrees of probability:
+Italian has several types of conditional sentences (periodo ipotetico), which
+involve different combinations of tenses to express various degrees of
+probability:
 
 -   **Real Condition (First Type)**: Present indicative in both clauses.
     -   "Se piove, prendo l'ombrello." (If it rains, I take an umbrella.)
--   **Possible or Likely Condition (Second Type)**: Imperfect subjunctive in the 'if' clause and present conditional in the main clause.
-    -   "Se piovesse, prenderei l'ombrello." (If it were to rain, I would take an umbrella.)
--   **Unreal or Hypothetical Condition (Third Type)**: Pluperfect subjunctive in the 'if' clause and past conditional in the main clause.
-    -   "Se avesse piovuto, avrei preso l'ombrello." (If it had rained, I would have taken an umbrella.)
+-   **Possible or Likely Condition (Second Type)**: Imperfect subjunctive in the
+    'if' clause and present conditional in the main clause.
+    -   "Se piovesse, prenderei l'ombrello." (If it were to rain, I would take
+        an umbrella.)
+-   **Unreal or Hypothetical Condition (Third Type)**: Pluperfect subjunctive in
+    the 'if' clause and past conditional in the main clause.
+    -   "Se avesse piovuto, avrei preso l'ombrello." (If it had rained, I would
+        have taken an umbrella.)
 
-Mastering these advanced aspects of Italian grammar, including idiomatic expressions, the passive voice, direct and indirect speech, and conditional sentences, is key for achieving fluency and expressing complex ideas with accuracy and nuance.
+Mastering these advanced aspects of Italian grammar, including idiomatic
+expressions, the passive voice, direct and indirect speech, and conditional
+sentences, is key for achieving fluency and expressing complex ideas with
+accuracy and nuance.
 
 ## Glossary of Terms
 
-**Articolo (Article)**: Defines the gender and number of nouns. In Italian, there are definite articles (il, la, i, le) and indefinite articles (un, una, un').
+**Articolo (Article)**: Defines the gender and number of nouns. In Italian,
+there are definite articles (il, la, i, le) and indefinite articles (un, una,
+un').
 
-**Nome (Noun)**: A word used to identify people, places, or things. Nouns in Italian have genders (masculine or feminine) and numbers (singular or plural).
+**Nome (Noun)**: A word used to identify people, places, or things. Nouns in
+Italian have genders (masculine or feminine) and numbers (singular or plural).
 
-**Aggettivo (Adjective)**: Describes a noun or pronoun. In Italian, adjectives agree in gender and number with the nouns they describe.
+**Aggettivo (Adjective)**: Describes a noun or pronoun. In Italian, adjectives
+agree in gender and number with the nouns they describe.
 
-**Pronome (Pronoun)**: Replaces a noun to avoid repetition. Examples include personal pronouns (io, tu, lui, lei), possessive pronouns (mio, tuo, suo), and relative pronouns (che, cui).
+**Pronome (Pronoun)**: Replaces a noun to avoid repetition. Examples include
+personal pronouns (io, tu, lui, lei), possessive pronouns (mio, tuo, suo), and
+relative pronouns (che, cui).
 
-**Verbo (Verb)**: Describes an action, state, or occurrence. Italian verbs are conjugated based on tense, mood, and the subject's person and number.
+**Verbo (Verb)**: Describes an action, state, or occurrence. Italian verbs are
+conjugated based on tense, mood, and the subject's person and number.
 
-**Avverbio (Adverb)**: Modifies a verb, adjective, or other adverbs. Examples include rapidamente (quickly), molto (very), and bene (well).
+**Avverbio (Adverb)**: Modifies a verb, adjective, or other adverbs. Examples
+include rapidamente (quickly), molto (very), and bene (well).
 
-**Preposizione (Preposition)**: Links nouns, pronouns, or phrases to other words in a sentence. Common Italian prepositions include di, a, da, in, con, su, per, tra/fra.
+**Preposizione (Preposition)**: Links nouns, pronouns, or phrases to other words
+in a sentence. Common Italian prepositions include di, a, da, in, con, su, per,
+tra/fra.
 
-**Congiunzione (Conjunction)**: Connects words, phrases, or clauses. Examples are e (and), ma (but), perché (because), se (if).
+**Congiunzione (Conjunction)**: Connects words, phrases, or clauses. Examples
+are e (and), ma (but), perché (because), se (if).
 
-**Esclamazione (Interjection)**: Expresses emotions or reactions, often standing alone. Examples are oh!, ah!, evviva!
+**Esclamazione (Interjection)**: Expresses emotions or reactions, often standing
+alone. Examples are oh!, ah!, evviva!
 
 **Sostantivo (Substantive)**: Another term for nouns in Italian.
 
-**Tempo (Tense)**: Indicates the time of the action described by the verb (present, past, future).
+**Tempo (Tense)**: Indicates the time of the action described by the verb
+(present, past, future).
 
-**Modo (Mood)**: Reflects the attitude of the speaker. Common moods include indicative, subjunctive, conditional, and imperative.
+**Modo (Mood)**: Reflects the attitude of the speaker. Common moods include
+indicative, subjunctive, conditional, and imperative.
 
-**Genere (Gender)**: Nouns and adjectives in Italian are either masculine or feminine.
+**Genere (Gender)**: Nouns and adjectives in Italian are either masculine or
+feminine.
 
-**Numero (Number)**: Refers to singular or plural forms of nouns, adjectives, and verbs.
+**Numero (Number)**: Refers to singular or plural forms of nouns, adjectives,
+and verbs.
 
-**Particella (Particle)**: Small words that can modify the meaning of a sentence, often used in verbal phrases.
+**Particella (Particle)**: Small words that can modify the meaning of a
+sentence, often used in verbal phrases.
 
-**Frase (Sentence)**: A grammatical unit consisting of one or more words that bear minimal syntactic relation.
+**Frase (Sentence)**: A grammatical unit consisting of one or more words that
+bear minimal syntactic relation.
 
-**Soggetto (Subject)**: The person, thing, or concept performing the action of the verb.
+**Soggetto (Subject)**: The person, thing, or concept performing the action of
+the verb.
 
 **Oggetto (Object)**: The entity that is acted upon by the verb.
 
-**Infinito (Infinitive)**: The basic form of a verb, not conjugated for tense or person (like amare - to love).
+**Infinito (Infinitive)**: The basic form of a verb, not conjugated for tense or
+person (like amare - to love).
 
-**Gerundio (Gerund)**: A verb form that ends in -ando or -endo, used to indicate a continuing action (like mangiando - eating).
+**Gerundio (Gerund)**: A verb form that ends in -ando or -endo, used to indicate
+a continuing action (like mangiando - eating).
 
 ## Frequently Asked Questions
 
 1. **What are the definite articles in Italian?**
-   - **Answer**: The definite articles are "il" (masculine singular), "la" (feminine singular), "i" (masculine plural), and "le" (feminine plural).
+
+    - **Answer**: The definite articles are "il" (masculine singular), "la"
+      (feminine singular), "i" (masculine plural), and "le" (feminine plural).
 
 2. **How do you form the plural of nouns in Italian?**
-   - **Answer**: Generally, for masculine nouns, change "-o" to "-i" and for feminine nouns, change "-a" to "-e". There are exceptions, like nouns ending in "-e" which typically change to "-i".
+
+    - **Answer**: Generally, for masculine nouns, change "-o" to "-i" and for
+      feminine nouns, change "-a" to "-e". There are exceptions, like nouns
+      ending in "-e" which typically change to "-i".
 
 3. **What are the main verb conjugations in Italian?**
-   - **Answer**: The main verb conjugations are "-are", "-ere", and "-ire".
+
+    - **Answer**: The main verb conjugations are "-are", "-ere", and "-ire".
 
 4. **How do you use the verb "essere" and "avere"?**
-   - **Answer**: "Essere" (to be) is used for qualities, characteristics, and location, while "avere" (to have) is used for possession, age, and certain expressions like hunger or thirst.
+
+    - **Answer**: "Essere" (to be) is used for qualities, characteristics, and
+      location, while "avere" (to have) is used for possession, age, and certain
+      expressions like hunger or thirst.
 
 5. **What is the position of adjectives in Italian sentences?**
-   - **Answer**: Adjectives usually follow the noun they modify, though some common adjectives precede the noun.
+
+    - **Answer**: Adjectives usually follow the noun they modify, though some
+      common adjectives precede the noun.
 
 6. **How do you form the past tense in Italian?**
-   - **Answer**: The main past tense is the "passato prossimo", formed with "avere" or "essere" plus the past participle of the verb.
+
+    - **Answer**: The main past tense is the "passato prossimo", formed with
+      "avere" or "essere" plus the past participle of the verb.
 
 7. **What is the Italian conditional tense and when is it used?**
-   - **Answer**: The conditional tense expresses a condition or hypothesis. It is often used in polite requests.
+
+    - **Answer**: The conditional tense expresses a condition or hypothesis. It
+      is often used in polite requests.
 
 8. **How are questions formed in Italian?**
-   - **Answer**: Questions can be formed by intonation (raising your voice at the end of the sentence) or by using question words like "che", "come", "quando".
+
+    - **Answer**: Questions can be formed by intonation (raising your voice at
+      the end of the sentence) or by using question words like "che", "come",
+      "quando".
 
 9. **What are the possessive adjectives in Italian?**
-   - **Answer**: Possessive adjectives include "mio" (my), "tuo" (your), "suo" (his/her), "nostro" (our), etc., and they must agree in gender and number with the noun they modify.
+
+    - **Answer**: Possessive adjectives include "mio" (my), "tuo" (your), "suo"
+      (his/her), "nostro" (our), etc., and they must agree in gender and number
+      with the noun they modify.
 
 10. **How do you use reflexive verbs in Italian?**
-    - **Answer**: Reflexive verbs are used when the subject and object of a verb are the same, and they are conjugated with reflexive pronouns like "mi", "ti", "si".
+
+    - **Answer**: Reflexive verbs are used when the subject and object of a verb
+      are the same, and they are conjugated with reflexive pronouns like "mi",
+      "ti", "si".
 
 11. **What are the Italian indirect object pronouns?**
-    - **Answer**: Indirect object pronouns include "mi" (to me), "ti" (to you), "gli/le" (to him/her), etc.
+
+    - **Answer**: Indirect object pronouns include "mi" (to me), "ti" (to you),
+      "gli/le" (to him/her), etc.
 
 12. **How do you use the imperative form in Italian?**
-    - **Answer**: The imperative is used for commands or requests, with different forms for "tu", "noi", and "voi".
+
+    - **Answer**: The imperative is used for commands or requests, with
+      different forms for "tu", "noi", and "voi".
 
 13. **What is the subjunctive mood and when is it used in Italian?**
-    - **Answer**: The subjunctive mood expresses doubt, wish, hope, fear, or possibility. It's often used in dependent clauses introduced by "che".
+
+    - **Answer**: The subjunctive mood expresses doubt, wish, hope, fear, or
+      possibility. It's often used in dependent clauses introduced by "che".
 
 14. **How do prepositions work in Italian?**
-    - **Answer**: Prepositions are words like "di" (of), "a" (to), "da" (from), "in" (in), "con" (with) and they are used to connect nouns, pronouns, or phrases to other words in a sentence.
+
+    - **Answer**: Prepositions are words like "di" (of), "a" (to), "da" (from),
+      "in" (in), "con" (with) and they are used to connect nouns, pronouns, or
+      phrases to other words in a sentence.
 
 15. **What is the difference between "quale" and "che" in questions?**
-    - **Answer**: "Quale" (which) is used to ask about a choice among a limited set, while "che" (what) asks about general information.
+
+    - **Answer**: "Quale" (which) is used to ask about a choice among a limited
+      set, while "che" (what) asks about general information.
 
 16. **How do you express "there is" and "there are" in Italian?**
+
     - **Answer**: Use "c'è" for "there is" and "ci sono" for "there are".
 
 17. **What are Italian direct object pronouns and how are they used?**
-    - **Answer**: Direct object pronouns (e.g., "mi", "ti", "lo", "la") replace the noun that is the direct object of the verb.
+
+    - **Answer**: Direct object pronouns (e.g., "mi", "ti", "lo", "la") replace
+      the noun that is the direct object of the verb.
 
 18. **How do you form the future tense in Italian?**
-    - **Answer**: The future tense is formed by adding specific endings to the infinitive form of the verb.
+
+    - **Answer**: The future tense is formed by adding specific endings to the
+      infinitive form of the verb.
 
 19. **What are some common Italian irregular verbs?**
-    - **Answer**: Common irregular verbs include "essere" (to be), "avere" (to have), "andare" (to go), "venire" (to come), "fare" (to do/make).
+
+    - **Answer**: Common irregular verbs include "essere" (to be), "avere" (to
+      have), "andare" (to go), "venire" (to come), "fare" (to do/make).
 
 20. **How do you use the passive voice in Italian?**
-    - **Answer**: The passive voice is formed with the verb "essere" plus the past participle of the main verb. The agent is introduced by "da".
+    - **Answer**: The passive voice is formed with the verb "essere" plus the
+      past participle of the main verb. The agent is introduced by "da".
