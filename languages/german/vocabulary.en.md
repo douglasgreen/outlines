@@ -1846,8 +1846,7 @@
 -   sperre - block/suspend
 -   sperren - to lock/block
 -   spiegel - mirror
--   spiele - play/games (first person singular of "spielen" or plural form of
-    "Spiel")
+-   spiele - play/games (first person singular of "spielen" or plural form of "Spiel")
 -   spielen - to play
 -   spielte - played (past tense of "spielen")
 -   spitze - tip/peak

@@ -335,8 +335,7 @@
 ## K
 
 -   Kafarnaumo - Capernaum
--   Kaifaso - Caiaphas (a name, likely referring to the high priest in the New
-    Testament)
+-   Kaifaso - Caiaphas (a name, likely referring to the high priest in the New Testament)
 -   Kaina - Cainan
 -   Kalifornio - California
 -   Kanaanida - Canaanite
@@ -356,13 +355,12 @@
 -   Kievo - Kiev
 -   Kimrio - Wales
 -   Kioma horo estas? - What time is it?
--   Kirinio - Cyrenius (a name, likely referring to Quirinius, a Roman official
-    mentioned in the New Testament)
+-   Kirinio - Cyrenius (a name, likely referring to Quirinius, a Roman official mentioned in the New
+    Testament)
 -   Kokakolao - Coke
 -   Kolombia - Colombian
 -   Kolombio - Colombia
--   Kolosano - Colossian (relating to the Epistle to the Colossians in the
-    Bible)
+-   Kolosano - Colossian (relating to the Epistle to the Colossians in the Bible)
 -   Kongo - Congo
 -   Kopernika - Copernican
 -   Koperniko - Copernicus
@@ -1523,8 +1521,7 @@
 -   celebri - to celebrate
 -   celgrupo - target group
 -   celi - to aim
--   celo - goal; aim; butt (or fundamento in slang); destination; purport;
-    purpose; target
+-   celo - goal; aim; butt (or fundamento in slang); destination; purport; purpose; target
 -   celuzi - to aim to use
 -   cemento - cement
 -   cendo - cent
@@ -4155,8 +4152,7 @@
 -   konfrontiĝo - confrontation
 -   konfronto - confrontation; matchup
 -   konfuza - confusing
--   konfuzi - to baffle; to bewilder; to confound; to confuse; to perplex; to
-    tangle
+-   konfuzi - to baffle; to bewilder; to confound; to confuse; to perplex; to tangle
 -   konfuzo - confusion
 -   kongregacio - congregation
 -   kongresano - congressman
@@ -4553,8 +4549,7 @@
 -   kvari - to rot
 -   kvaronfinalo - quarterfinal
 -   kvarono - quarter
--   kvartalo - quarter; district; neighborhood; neighbourhood (British English
-    spelling)
+-   kvartalo - quarter; district; neighborhood; neighbourhood (British English spelling)
 -   kvarto - quart
 -   kvaterbeko - quarterback
 -   kvazaŭ - as if
@@ -5029,8 +5024,8 @@
 -   malnecesa - unnecessary
 -   malnobligi - to degrade
 -   malnova - old; ancient
--   malnova kinejo - nickelodeon (no direct modern equivalent, but refers to an
-    old-time movie theater or cinema)
+-   malnova kinejo - nickelodeon (no direct modern equivalent, but refers to an old-time movie
+    theater or cinema)
 -   malnovulo - old man
 -   malobeema - disobedient
 -   malobeemulo - disobedient person
@@ -5812,8 +5807,7 @@
 -   nuklea - nuclear
 -   nukleo - nucleus
 -   nukso - nut; knuckle
--   nuligi - to annul; to cancel; to abolish; to override; to overrule; to
-    repeal; to void
+-   nuligi - to annul; to cancel; to abolish; to override; to overrule; to repeal; to void
 -   nuligo - cancellation
 -   nulo - zero; null
 -   numero - number
@@ -6807,8 +6801,7 @@
 -   rabitaĵo - booty
 -   rabobirdo - raptor
 -   raboni - to rob
--   raca - foolish (slang term derived from "racio" meaning reason, not standard
-    Esperanto)
+-   raca - foolish (slang term derived from "racio" meaning reason, not standard Esperanto)
 -   racia - rational; reasonable
 -   racio - reason; ration
 -   racionalismo - rationalism
@@ -7928,8 +7921,8 @@
 -   subtenado - support; sponsorship
 -   subtenanto - backer; supporter
 -   subtenaĵo - strut
--   subteni - to support; to bolster; to brace; to endorse; to foster; to
-    sponsor; to sustain; to underpin; to uphold
+-   subteni - to support; to bolster; to brace; to endorse; to foster; to sponsor; to sustain; to
+    underpin; to uphold
 -   subteno - support; endorsement; prop
 -   subtera - underground
 -   subtera karcero - dungeon
@@ -8432,8 +8425,7 @@
 -   turniĝi ĉirkaŭ - revolve
 -   turniĝopunkto - turning point
 -   turo - tower; rook (en ŝako); turret
--   turturkolumo - dove's neck (possibly metaphorical for something smooth or
-    beautiful)
+-   turturkolumo - dove's neck (possibly metaphorical for something smooth or beautiful)
 -   tusi - to cough
 -   tuta - whole; entire
 -   tutbrula - completely burnt
