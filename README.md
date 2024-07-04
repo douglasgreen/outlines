@@ -2,6 +2,11 @@
 
 Outlines written by ChatGPT-4, Claude-3, and Phind.com on various subjects.
 
+## Project setup
+
+Standard config files for linting and testing are copied into place from a GitHub repository called
+[utility](https://github.com/douglasgreen/utility). See that project's README page for details.
+
 ## Arts
 
 -   [Architecture](arts/architecture.en.md)
