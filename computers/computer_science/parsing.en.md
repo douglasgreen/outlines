@@ -193,55 +193,641 @@ automate the generation of efficient lexers.
 
 ## Context-Free Grammars
 
-Explain Context-Free Grammars, while discussing the following topics:
+### Definition and Examples
 
--   Definition and Examples
--   Backus-Naur Form (BNF)
--   Extended Backus-Naur Form (EBNF)
+A context-free grammar (CFG) is a formal grammar used to describe the syntax of programming
+languages, natural languages, and other structured notations. It consists of a set of production
+rules that define how strings in the language can be generated [1].
+
+Key components of a CFG include:
+
+1. Terminal symbols: The basic symbols of the language (e.g., keywords, literals, operators)
+2. Non-terminal symbols: Variables representing sets of strings
+3. Production rules: Rules that describe how non-terminals can be replaced by combinations of
+   terminals and non-terminals
+4. Start symbol: A designated non-terminal that represents the entire language
+
+Example of a simple CFG for arithmetic expressions:
+
+```
+<expr> ::= <term> | <expr> "+" <term> | <expr> "-" <term>
+<term> ::= <factor> | <term> "*" <factor> | <term> "/" <factor>
+<factor> ::= <number> | "(" <expr> ")"
+<number> ::= [0-9]+
+```
+
+This grammar defines the structure of arithmetic expressions, including addition, subtraction,
+multiplication, division, and parentheses [1].
+
+### Backus-Naur Form (BNF)
+
+Backus-Naur Form (BNF) is a notation technique used to describe the syntax of programming languages
+and other formal languages. It was developed by John Backus and Peter Naur in the 1960s [2].
+
+Key features of BNF:
+
+1. Non-terminals are enclosed in angle brackets: `<expr>`
+2. The symbol `::=` means "is defined as"
+3. Alternatives are separated by the vertical bar `|`
+4. Terminal symbols are usually written as they appear in the language
+
+Example of BNF notation:
+
+```
+<sentence> ::= <noun-phrase> <verb-phrase>
+<noun-phrase> ::= <article> <noun> | <noun>
+<verb-phrase> ::= <verb> | <verb> <noun-phrase>
+<article> ::= "the" | "a"
+<noun> ::= "cat" | "dog" | "bird"
+<verb> ::= "chases" | "eats" | "sleeps"
+```
+
+This grammar defines a simple sentence structure in English [2].
+
+### Extended Backus-Naur Form (EBNF)
+
+Extended Backus-Naur Form (EBNF) is an extension of BNF that introduces additional notation to make
+the grammar more concise and expressive. EBNF is widely used in formal language specifications and
+compiler design [2][5].
+
+Key features of EBNF:
+
+1. Optional elements are enclosed in square brackets: `[...]`
+2. Elements that can be repeated zero or more times are enclosed in curly braces: `{...}`
+3. Grouping of elements is done using parentheses: `(...)`
+4. Terminal strings can be enclosed in single or double quotes: `'...'` or `"..."`
+
+Example of EBNF notation:
+
+```
+identifier = letter , { letter | digit | "_" } ;
+letter = "A" | "B" | ... | "Z" | "a" | "b" | ... | "z" ;
+digit = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;
+```
+
+This EBNF grammar defines the structure of identifiers in many programming languages [5].
+
+EBNF provides several advantages over BNF:
+
+1. More compact representation of repetition and optional elements
+2. Easier to read and write for complex grammars
+3. Better suited for automatic parser generation
+4. Allows for more precise specification of language syntax
+
+In summary, context-free grammars are powerful tools for describing the syntax of languages, with
+BNF and EBNF serving as popular notation systems for expressing these grammars. EBNF extends BNF
+with additional constructs, making it more expressive and concise for complex language
+specifications.
 
 ## Parsing Techniques
 
-Explain Parsing Techniques, while discussing the following topics:
+Parsing techniques can be broadly categorized into two main approaches: top-down parsing and
+bottom-up parsing. Each approach has its own set of algorithms and strategies for analyzing the
+structure of input strings according to a given grammar.
 
--   Top-Down Parsing
--   Recursive Descent Parsing
--   Predictive Parsing
--   Bottom-Up Parsing
--   Shift-Reduce Parsing
--   LR Parsing
+### Top-Down Parsing
+
+Top-down parsing starts from the root of the parse tree (the start symbol of the grammar) and works
+its way down to the leaves, attempting to derive the input string [1]. The two main types of
+top-down parsing are:
+
+1. **Recursive Descent Parsing**:
+
+    - This is a simple and intuitive method where each non-terminal in the grammar is represented by
+      a function [2].
+    - The parser recursively calls these functions to expand non-terminals until it matches the
+      input or determines that the input is invalid.
+    - It can handle a wide range of grammars but may require backtracking for some grammars, which
+      can be inefficient [2].
+
+2. **Predictive Parsing**:
+    - Also known as LL(1) parsing, this method uses a parsing table to make decisions about which
+      production to use [2].
+    - It looks ahead at the next input symbol to choose the correct production rule.
+    - Predictive parsing is more efficient than recursive descent as it doesn't require
+      backtracking, but it works only for a subset of context-free grammars (LL(1) grammars) [8].
+
+### Bottom-Up Parsing
+
+Bottom-up parsing starts from the leaves of the parse tree (the input symbols) and works its way up
+to the root, attempting to reduce the input to the start symbol [1]. The main types of bottom-up
+parsing are:
+
+1. **Shift-Reduce Parsing**:
+
+    - This is a general strategy for bottom-up parsing where the parser shifts input symbols onto a
+      stack and attempts to reduce them using grammar rules [1].
+    - The parser alternates between shifting input symbols and reducing them according to the
+      grammar productions.
+
+2. **LR Parsing**:
+    - LR parsing is a more sophisticated form of shift-reduce parsing that can handle a larger class
+      of grammars [1].
+    - It uses a parsing table to make decisions about when to shift and when to reduce.
+    - There are several variants of LR parsing, including:
+        - LR(0): The simplest form, which doesn't use any lookahead.
+        - SLR(1): Simple LR, which uses one symbol of lookahead.
+        - LALR(1): Look-Ahead LR, which is more powerful than SLR but still efficient.
+        - CLR(1) or LR(1): Canonical LR, which is the most powerful but also the most complex [1].
+
+### Key Considerations
+
+-   **Efficiency**: Bottom-up parsers are generally more efficient than top-down parsers for a wider
+    range of grammars [4].
+-   **Expressiveness**: LR parsers can handle a larger class of grammars compared to LL parsers [6].
+-   **Ease of Implementation**: Recursive descent parsers are often easier to implement by hand,
+    while LR parsers are typically generated by tools like YACC or Bison [6].
+-   **Error Handling**: Top-down parsers, especially hand-written recursive descent parsers, often
+    provide better error handling and recovery [6].
+-   **Performance**: While LR parsers are theoretically more powerful, recursive descent parsers can
+    be highly optimized and may perform better in practice for certain grammars [6].
+
+In summary, the choice between top-down and bottom-up parsing techniques depends on factors such as
+the complexity of the grammar, the need for error handling, performance requirements, and the ease
+of implementation. Modern parser generators and tools often provide options for both approaches,
+allowing developers to choose the most suitable technique for their specific needs.
 
 ## Recursive Descent Parsing
 
-Explain Recursive Descent Parsing, while discussing the following topics:
+### Basic Principles
 
--   Basic Principles
--   Implementing a Recursive Descent Parser
--   Error Handling in Recursive Descent Parsing
+Recursive descent parsing is a top-down parsing technique that constructs the parse tree from the
+top (starting with the root node) and works its way down to the leaves [1]. The key principles of
+recursive descent parsing are:
+
+1. **Grammar Representation**: Each non-terminal in the grammar is represented by a function in the
+   parser [2].
+
+2. **Recursive Structure**: The parsing functions call each other recursively to parse the input
+   according to the grammar rules [2].
+
+3. **Predictive Parsing**: Recursive descent parsers are typically implemented as predictive
+   parsers, meaning they use lookahead to determine which production to apply [2].
+
+4. **Top-Down Approach**: The parser starts with the start symbol of the grammar and attempts to
+   derive the input string [1].
+
+### Implementing a Recursive Descent Parser
+
+To implement a recursive descent parser:
+
+1. **Define Grammar**: Start by defining the grammar of the language to be parsed. For example:
+
+    ```
+    Expression -> Term ('+' Term | '-' Term)*
+    Term -> Factor ('*' Factor | '/' Factor)*
+    Factor -> Number | '(' Expression ')'
+    Number -> [0-9]+
+    ```
+
+2. **Create Parsing Functions**: Implement a function for each non-terminal in the grammar [2]. For
+   example:
+
+    ```python
+    def parse_expression():
+        result = parse_term()
+        while current_token in ['+', '-']:
+            if current_token == '+':
+                consume('+')
+                result += parse_term()
+            else:
+                consume('-')
+                result -= parse_term()
+        return result
+
+    def parse_term():
+        result = parse_factor()
+        while current_token in ['*', '/']:
+            if current_token == '*':
+                consume('*')
+                result *= parse_factor()
+            else:
+                consume('/')
+                result /= parse_factor()
+        return result
+
+    def parse_factor():
+        if current_token.isdigit():
+            return parse_number()
+        elif current_token == '(':
+            consume('(')
+            result = parse_expression()
+            consume(')')
+            return result
+        else:
+            raise SyntaxError("Unexpected token")
+
+    def parse_number():
+        result = int(current_token)
+        consume(current_token)
+        return result
+    ```
+
+3. **Implement Helper Functions**: Add functions for token management:
+
+    ```python
+    def consume(expected):
+        global current_token, position
+        if current_token == expected:
+            position += 1
+            current_token = input_string[position] if position < len(input_string) else None
+        else:
+            raise SyntaxError(f"Expected {expected}, found {current_token}")
+    ```
+
+4. **Initialize and Start Parsing**: Set up the initial state and begin parsing:
+
+    ```python
+    input_string = "2 + 3 * (4 - 1)"
+    position = 0
+    current_token = input_string[position]
+
+    result = parse_expression()
+    print(f"Result: {result}")
+    ```
+
+### Error Handling in Recursive Descent Parsing
+
+Error handling is crucial for providing meaningful feedback to users. Here are some strategies:
+
+1. **Syntax Errors**: Throw exceptions when unexpected tokens are encountered [2]. For example:
+
+    ```python
+    def parse_factor():
+        if current_token.isdigit():
+            return parse_number()
+        elif current_token == '(':
+            consume('(')
+            result = parse_expression()
+            consume(')')
+            return result
+        else:
+            raise SyntaxError(f"Unexpected token: {current_token}")
+    ```
+
+2. **Error Recovery**: Implement error recovery mechanisms to continue parsing after encountering an
+   error. This can involve skipping tokens until a synchronization point is reached [2].
+
+3. **Detailed Error Messages**: Provide informative error messages that include the position of the
+   error and expected tokens [2].
+
+4. **Lookahead**: Use lookahead to detect potential errors early and provide more precise error
+   messages [2].
+
+In summary, recursive descent parsing is a powerful and intuitive technique for implementing
+parsers. It closely mirrors the structure of the grammar, making it relatively easy to understand
+and implement. However, it may struggle with left-recursive grammars and can be less efficient than
+some bottom-up parsing techniques for certain types of grammars. Proper error handling is essential
+for creating robust and user-friendly parsers using this approach.
 
 ## Predictive Parsing
 
-Explain Predictive Parsing, while discussing the following topics:
+Predictive parsing is a form of top-down parsing that uses a parsing table to determine which
+production to apply based on the current non-terminal and the next input symbol. It is particularly
+effective for LL(1) grammars.
 
--   LL(1) Grammars
--   Constructing Predictive Parsers
--   Error Recovery in Predictive Parsing
+### LL(1) Grammars
+
+LL(1) grammars are a subset of context-free grammars that can be parsed using a predictive parser
+with one symbol of lookahead. The "LL" stands for Left-to-right scanning of the input, Leftmost
+derivation, and the "1" indicates one symbol of lookahead [5].
+
+Key characteristics of LL(1) grammars:
+
+1. No left recursion
+2. Left-factored
+3. For any non-terminal A with multiple productions, the FIRST sets of these productions must be
+   disjoint
+4. If a non-terminal A has an ε-production, then FIRST(A) and FOLLOW(A) must be disjoint [5]
+
+### Constructing Predictive Parsers
+
+To construct a predictive parser:
+
+1. Compute FIRST and FOLLOW sets for all non-terminals in the grammar.
+
+2. Construct the parsing table:
+
+    - For each production A → α:
+        - For each terminal a in FIRST(α), add A → α to M[A, a]
+        - If ε is in FIRST(α), for each b in FOLLOW(A), add A → α to M[A, b]
+
+3. Implement the parser:
+    - Initialize a stack with the start symbol and $ (end marker)
+    - While the stack is not empty:
+        - If top of stack matches current input, consume both
+        - If top of stack is a non-terminal A:
+            - Look up M[A, a] where a is the current input
+            - If M[A, a] contains A → α, replace A on stack with α
+            - If M[A, a] is empty, report an error [2][3]
+
+Example parsing table construction:
+
+```
+Grammar:
+E → TE'
+E' → +TE' | ε
+T → FT'
+T' → *FT' | ε
+F → (E) | id
+
+Parsing Table:
+    |  id   |   +   |   *   |   (   |   )   |   $
+----+-------+-------+-------+-------+-------+-------
+ E  | E→TE' |       |       | E→TE' |       |
+----+-------+-------+-------+-------+-------+-------
+ E' |       | E'→+TE'|      |       | E'→ε  | E'→ε
+----+-------+-------+-------+-------+-------+-------
+ T  | T→FT' |       |       | T→FT' |       |
+----+-------+-------+-------+-------+-------+-------
+ T' |       | T'→ε  | T'→*FT'|      | T'→ε  | T'→ε
+----+-------+-------+-------+-------+-------+-------
+ F  | F→id  |       |       | F→(E) |       |
+```
+
+### Error Recovery in Predictive Parsing
+
+Error recovery in predictive parsing aims to continue parsing after encountering an error. Common
+strategies include:
+
+1. Panic Mode Recovery:
+
+    - Skip input symbols until a synchronizing token is found
+    - Pop stack elements until a matching non-terminal is found [1]
+
+2. Phrase-Level Recovery:
+
+    - Fill empty entries in the parsing table with pointers to error routines
+    - These routines can:
+        - Change, insert, or delete input symbols
+        - Issue appropriate error messages
+        - Pop items from the stack [1]
+
+3. Error Productions:
+
+    - Add productions to the grammar to handle common errors
+    - Example: For a missing semicolon, add a production like "statement → statement SEMICOLON" [1]
+
+4. Global Correction:
+    - Find the minimal sequence of changes to the input that allows parsing to continue
+    - Computationally expensive but can provide better error messages [1]
+
+Implementing error recovery:
+
+```python
+def parse():
+    stack = [START_SYMBOL, END_MARKER]
+    while stack:
+        top = stack[-1]
+        if top == current_input:
+            stack.pop()
+            advance_input()
+        elif is_terminal(top):
+            error_recover()
+        else:
+            production = parsing_table[top][current_input]
+            if production:
+                stack.pop()
+                stack.extend(reversed(production))
+            else:
+                error_recover()
+
+def error_recover():
+    print(f"Error at position {input_position}")
+    while current_input not in synchronizing_set:
+        advance_input()
+    while stack[-1] not in synchronizing_set:
+        stack.pop()
+```
+
+In summary, predictive parsing is an efficient parsing technique for LL(1) grammars. It uses a
+parsing table to guide the parsing process, making decisions based on the current non-terminal and
+the next input symbol. Effective error recovery strategies are crucial for building robust
+predictive parsers that can handle invalid inputs gracefully.
 
 ## Shift-Reduce Parsing
 
-Explain Shift-Reduce Parsing, while discussing the following topics:
+Here's an explanation of Shift-Reduce Parsing, covering the requested topics:
 
--   Basic Concepts
--   Implementing a Shift-Reduce Parser
--   Conflict Resolution
+### Basic Concepts
+
+Shift-reduce parsing is a bottom-up parsing technique that attempts to construct the parse tree from
+the leaves (bottom) to the root (up). It is more general than top-down parsing and can handle a
+wider range of grammars [1].
+
+Key components:
+
+1. Input buffer: Stores the input string to be parsed.
+2. Stack: Stores grammar symbols during parsing.
+3. Parsing table: Guides the parser's actions.
+
+The parser performs two main actions:
+
+1. Shift: Move a symbol from the input buffer to the stack.
+2. Reduce: Replace symbols on top of the stack with a non-terminal according to a grammar rule [1].
+
+The parser also has two additional actions:
+
+3. Accept: Indicates successful parsing when the start symbol is on the stack and the input is
+   empty.
+4. Error: Occurs when the parser can't perform shift or reduce actions [1].
+
+### Implementing a Shift-Reduce Parser
+
+To implement a shift-reduce parser:
+
+1. Define the grammar and construct a parsing table.
+2. Initialize the stack with a start symbol and the input buffer with the input string.
+3. Repeat until accept or error: a. Examine the top of the stack and the current input symbol. b.
+   Consult the parsing table to determine the action (shift, reduce, accept, or error). c. Perform
+   the action.
+
+Here's a basic implementation in Python:
+
+```python
+class ShiftReduceParser:
+    def __init__(self, grammar, parsing_table):
+        self.grammar = grammar
+        self.parsing_table = parsing_table
+        self.stack = ['$']
+        self.input = []
+
+    def parse(self, input_string):
+        self.input = list(input_string) + ['$']
+        while True:
+            action = self.get_action()
+            if action == 'accept':
+                return True
+            elif action.startswith('shift'):
+                self.shift()
+            elif action.startswith('reduce'):
+                self.reduce(int(action.split()[-1]))
+            else:
+                return False
+
+    def get_action(self):
+        state = int(self.stack[-1])
+        symbol = self.input[1]
+        return self.parsing_table[state][symbol]
+
+    def shift(self):
+        self.stack.append(self.input.pop(0))
+        self.stack.append(str(self.get_next_state()))
+
+    def reduce(self, rule_number):
+        production = self.grammar[rule_number]
+        for _ in range(2 * len(production.rhs)):
+            self.stack.pop()
+        self.stack.append(production.lhs)
+        self.stack.append(str(self.get_next_state()))
+
+    def get_next_state(self):
+        state = int(self.stack[-2])
+        symbol = self.stack[-1]
+        return self.parsing_table[state][symbol]
+```
+
+### Conflict Resolution
+
+Shift-reduce parsers can encounter two types of conflicts:
+
+1. Shift-reduce conflict: The parser can't decide whether to shift a new symbol or reduce a
+   production [3].
+2. Reduce-reduce conflict: The parser can't decide which of two or more productions to reduce [5].
+
+Strategies for resolving conflicts:
+
+1. Grammar modification: Rewrite the grammar to eliminate ambiguities [5]. Example: Resolving the
+   dangling else problem:
+
+    ```
+    Statement: matched | unmatched
+    matched: IF Expression THEN matched ELSE matched | Other
+    unmatched: IF Expression THEN Statement | IF Expression THEN matched ELSE unmatched
+    ```
+
+2. Precedence rules: Assign precedence to operators to resolve shift-reduce conflicts [3].
+
+3. Lookahead: Use more input symbols to make decisions (e.g., LR(1) parsers) [3].
+
+4. Default actions: Choose to always shift or always reduce in case of conflicts [3].
+
+5. Error productions: Add productions to handle common errors [1].
+
+6. Modifications in parsing table: Use special symbols (like $ or @) to modify the parsing table and
+   resolve conflicts [5]. Example:
+    ```
+    Statement: IF Expression THEN Statement $ELSE
+    Statement: IF Expression THEN Statement ELSE Statement
+    ```
+    The $ELSE modification prevents reduction when ELSE is encountered, resolving the shift-reduce
+    conflict.
+
+In practice, parser generators like YACC or Bison often provide built-in mechanisms for conflict
+resolution, such as operator precedence declarations or %prec directives [3].
+
+When implementing a shift-reduce parser manually, it's crucial to carefully design the grammar and
+parsing table to minimize conflicts. When conflicts do occur, they should be resolved consistently
+to ensure the parser produces the intended parse tree for all valid inputs.
 
 ## LR Parsing
 
-Explain LR Parsing, while discussing the following topics:
+LR parsing is a powerful bottom-up parsing technique that can handle a wide range of context-free
+grammars. The "L" stands for left-to-right scanning of the input, and "R" stands for rightmost
+derivation in reverse.
 
--   Introduction to LR Parsing
--   Simple LR (SLR) Parsing
--   Canonical LR Parsing
--   Look-Ahead LR (LALR) Parsing
+#### Introduction to LR Parsing
+
+LR parsing is more powerful than LL parsing and can handle a larger class of grammars. It uses a
+parsing table and a stack to make parsing decisions [1].
+
+Key features of LR parsing:
+
+1. Efficient: It can parse most programming language constructs in linear time.
+2. Powerful: It can handle left-recursive grammars and is more expressive than LL parsing.
+3. Deterministic: It makes decisions based on the current state and lookahead symbol [1].
+
+The general structure of an LR parser includes:
+
+-   An input buffer
+-   A stack containing state numbers and grammar symbols
+-   A parsing table with two parts: ACTION and GOTO [1]
+
+The parsing process involves:
+
+1. Shifting input symbols onto the stack
+2. Reducing by grammar rules when a complete right-hand side is recognized
+3. Accepting when the start symbol is reduced and the input is exhausted
+4. Reporting an error if no valid action can be taken [1]
+
+#### Simple LR (SLR) Parsing
+
+SLR parsing is the simplest form of LR parsing. It constructs the parsing table using the following
+steps:
+
+1. Construct the LR(0) item sets (also called the canonical collection of LR(0) items).
+2. For each item set I and each grammar symbol X:
+    - If [A → α•Xβ] is in I, add "shift" to ACTION[I, X] if X is a terminal, or add "goto J" to
+      GOTO[I, X] if X is a non-terminal, where J is the item set containing [A → αX•β].
+    - If [A → α•] is in I, add "reduce A → α" to ACTION[I, a] for each terminal a in FOLLOW(A) [1].
+
+SLR parsing can handle many grammars but may have conflicts for some ambiguous or complex grammars
+[1].
+
+#### Canonical LR Parsing
+
+Canonical LR (CLR) parsing, also known as LR(1) parsing, is the most powerful form of LR parsing. It
+uses one symbol of lookahead to resolve conflicts that may occur in SLR parsing [1].
+
+The key differences from SLR parsing are:
+
+1. It constructs LR(1) items instead of LR(0) items. An LR(1) item is of the form [A → α•β, a],
+   where 'a' is the lookahead symbol.
+2. The parsing table construction uses these LR(1) items to make more precise decisions [1].
+
+CLR parsing can handle all deterministic context-free grammars, but it often results in large
+parsing tables, which can be impractical for some applications [1].
+
+#### Look-Ahead LR (LALR) Parsing
+
+LALR parsing is a compromise between SLR and CLR parsing. It aims to achieve the power of CLR
+parsing while maintaining the smaller table size of SLR parsing [1].
+
+The LALR parsing table construction process:
+
+1. Construct the CLR items.
+2. Merge item sets that have the same core (i.e., ignoring the lookahead symbols).
+3. Construct the parsing table using the merged item sets [1].
+
+LALR parsers can handle most programming language constructs and are widely used in practice. Many
+parser generators, such as Yacc and Bison, produce LALR parsers by default [1].
+
+Comparison of LR parsing techniques:
+
+1. Power: CLR > LALR > SLR
+
+2. Table size: SLR < LALR << CLR
+
+3. Ease of implementation: SLR > LALR > CLR
+
+4. Practical usage: LALR is most commonly used due to its good balance of power and efficiency [1].
+
+Example of an LALR(1) grammar that is not SLR(1):
+
+```
+S → aAd | bBd | aBe | bAe
+A → c
+B → c
+```
+
+This grammar would have conflicts in an SLR parser but can be correctly parsed by an LALR parser
+[1].
+
+In summary, LR parsing techniques offer powerful and efficient parsing for a wide range of grammars.
+While SLR is the simplest to implement, LALR provides a good balance of power and efficiency, making
+it the most popular choice for many parser generators. CLR, while the most powerful, is often
+impractical due to its large table sizes. The choice between these techniques depends on the
+specific grammar and the requirements of the parsing application.
 
 ## Parser Generators
 
