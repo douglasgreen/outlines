@@ -76,6 +76,7 @@ Standard config files for linting and testing are copied into place from a GitHu
 -   [Data Structures](computers/computer_science/data_structures.en.md)
 -   [Formal Languages](computers/computer_science/formal_languages.en.md)
 -   [Information Theory](computers/computer_science/information_theory.en.md)
+-   [Parsing](computers/computer_science/parsing.en.md)
 -   [Quantum Computing](computers/computer_science/quantum_computing.en.md)
 -   [Software Architecture](computers/computer_science/software_architecture.en.md)
 -   [Software Engineering](computers/computer_science/software_engineering.en.md)
