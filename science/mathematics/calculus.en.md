@@ -466,9 +466,10 @@ divided into two parts:
    inverse operations. If $`F(x)`$ is the antiderivative of $`f(x)`$, then the definite integral of
    $`f(x)`$ from $`a`$ to $`b`$ is given by $`F(b) - F(a)`$.
 
-2. **Second Part:** This part states that if $`f(x)`$ is a continuous function on an interval [a, b]
-   and $`F`$ is its antiderivative, then the function $`G(x) = ∫_a^x f(t) dt`$ is continuous on [a,
-   b], differentiable on (a, b), and $`G'(x) = f(x)`$.
+2. **Second Part:** This part states that if $`f(x)`$ is a continuous function on an interval [a,
+   b] and $`F`$ is its antiderivative, then the function $`G(x) = ∫_a^x f(t) dt`$ is continuous on [a,
+   b],
+   differentiable on (a, b), and $`G'(x) = f(x)`$.
 
 The Fundamental Theorem of Calculus is a cornerstone in calculus as it provides a powerful
 connection between the derivative and the integral, allowing many complex problems in mathematics to

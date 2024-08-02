@@ -767,8 +767,9 @@ steps:
 
 1. Construct the LR(0) item sets (also called the canonical collection of LR(0) items).
 2. For each item set I and each grammar symbol X:
-    - If [A → α•Xβ] is in I, add "shift" to ACTION[I, X] if X is a terminal, or add "goto J" to
-      GOTO[I, X] if X is a non-terminal, where J is the item set containing [A → αX•β].
+    - If [A → α•Xβ] is in I, add "shift" to ACTION[I, X] if X is a terminal, or add "goto J" to GOTO[I,
+      X]
+      if X is a non-terminal, where J is the item set containing [A → αX•β].
     - If [A → α•] is in I, add "reduce A → α" to ACTION[I, a] for each terminal a in FOLLOW(A).
 
 SLR parsing can handle many grammars but may have conflicts for some ambiguous or complex grammars .
@@ -780,8 +781,8 @@ uses one symbol of lookahead to resolve conflicts that may occur in SLR parsing.
 
 The key differences from SLR parsing are:
 
-1. It constructs LR(1) items instead of LR(0) items. An LR(1) item is of the form [A → α•β, a],
-   where 'a' is the lookahead symbol.
+1. It constructs LR(1) items instead of LR(0) items. An LR(1) item is of the form [A → α•β, a], where
+   'a' is the lookahead symbol.
 2. The parsing table construction uses these LR(1) items to make more precise decisions.
 
 CLR parsing can handle all deterministic context-free grammars, but it often results in large
