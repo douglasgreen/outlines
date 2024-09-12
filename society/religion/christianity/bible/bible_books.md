@@ -1,6 +1,6 @@
 # Bible Books
 
-<!-- ChatGPT-4o on Phind.com -->
+<!-- GPT-4o on Phind.com -->
 
 ## Genesis
 
