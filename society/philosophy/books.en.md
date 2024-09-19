@@ -1,4 +1,4 @@
-# Philosophical Works
+# Philosophical Books
 
 <!-- GPT-4o on Phind.com -->
 
