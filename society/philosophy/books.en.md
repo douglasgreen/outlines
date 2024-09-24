@@ -828,13 +828,11 @@ rational order.
 
 ## Outlines of Pyrrhonism by Sextus Empiricus
 
-### Summary of "Outlines of Pyrrhonism" by Sextus Empiricus
-
 "Outlines of Pyrrhonism" is a foundational text on Pyrrhonian skepticism, written by Sextus
 Empiricus in the 2nd century CE. This work provides a comprehensive account of Pyrrhonian
 skepticism, a philosophical approach that emphasizes suspending judgment to achieve tranquility.
 
-#### Key Concepts
+### Key Concepts
 
 -   **Epoché (Suspension of Judgment):** Central to Pyrrhonism is the practice of epoché, which
     involves refraining from making definitive judgments about non-evident matters. This suspension
@@ -858,7 +856,7 @@ skepticism, a philosophical approach that emphasizes suspending judgment to achi
     highlights the unique approach of Pyrrhonism in its commitment to non-assertion and suspension
     of judgment.
 
-#### Structure of the Text
+### Structure of the Text
 
 -   **Book I:** Provides a detailed description of Pyrrhonian skepticism, including its principles,
     goals, and methods. It explains what qualifies someone as a Pyrrhonian skeptic and the benefits
@@ -875,3 +873,140 @@ By advocating for the suspension of judgment and the pursuit of tranquility, Sex
 provides a philosophical framework that challenges dogmatic beliefs and promotes mental peace. The
 text remains a critical reference for understanding ancient skepticism and its influence on later
 philosophical thought.
+
+## The City of God by St. Augustine
+
+"The City of God" is a seminal work of Christian philosophy and theology written by St. Augustine in
+the early 5th century. It was composed in response to the sack of Rome by the Visigoths in 410 CE,
+which led many Romans to blame Christianity for the decline of the Roman Empire. Augustine's work
+serves as a defense of Christianity against these accusations and offers a profound exploration of
+the relationship between the earthly and divine realms.
+
+### Key Themes and Structure
+
+-   **Two Cities**: Augustine introduces the concept of two symbolic cities: the City of God and the
+    City of Man. The City of God represents those who live according to God's will and seek eternal
+    life, while the City of Man consists of those who prioritize earthly pleasures and power. These
+    cities coexist on Earth but have different ultimate destinies.
+
+-   **Historical Context**: The work is divided into 22 books. The first ten books refute the claims
+    of Roman paganism, arguing that the empire's misfortunes were not due to the abandonment of
+    pagan gods but rather due to moral decay. The remaining books present a Christian interpretation
+    of history, from Creation to the Last Judgment, emphasizing the divine plan and the ultimate
+    triumph of the City of God.
+
+-   **Philosophical and Theological Insights**: Augustine addresses various philosophical and
+    theological issues, such as the nature of good and evil, divine sovereignty, human free will,
+    and the existence of evil. He argues that evil results from the misuse of free will by
+    creatures, not from God's design, and that God's sovereignty encompasses all events, including
+    human sin.
+
+-   **Influence and Legacy**: "The City of God" has been highly influential in shaping Western
+    thought, particularly in the areas of theology, philosophy, and political theory. It provided a
+    framework for understanding the relationship between church and state and influenced many later
+    theologians, including St. Thomas Aquinas and John Calvin.
+
+### Conclusion
+
+St. Augustine's "The City of God" is a foundational text that offers a comprehensive Christian
+worldview, contrasting the transient nature of earthly cities with the eternal promise of the City
+of God. It remains a critical work for understanding the development of Christian thought and its
+impact on Western civilization.
+
+## The Platform Sutra of The Sixth Patriarch by Huineng
+
+The Platform Sutra of the Sixth Patriarch is a key text in Chan (Zen) Buddhism, attributed to
+Huineng, the sixth patriarch of the Chan school. It was composed in China between the 8th and 13th
+centuries and is considered a foundational scripture in Mahāyāna Buddhism.
+
+### Key Themes
+
+-   **Direct Perception of Original Nature**: The sutra emphasizes the direct perception of one's
+    original nature, which is a central tenet of Chan Buddhism. This involves recognizing the
+    inherent Buddha-nature within oneself, which is obscured by illusions.
+
+-   **Unity of Conduct, Meditation, and Wisdom**: The text highlights the unity of śīla (conduct),
+    dhyāna (meditation), and prajñā (wisdom), suggesting that these elements are interconnected and
+    essential for enlightenment.
+
+-   **Sudden Enlightenment**: The sutra is known for advocating the concept of sudden enlightenment,
+    as opposed to gradual enlightenment. This means that enlightenment can occur in a moment of
+    profound insight, rather than through a slow, step-by-step process.
+
+### Notable Stories and Teachings
+
+-   **Contest for Succession**: One of the well-known stories in the sutra is the contest for the
+    succession of Hongren, the fifth patriarch. This story illustrates the difference between
+    gradual and sudden enlightenment through the verses of Shenxiu and Huineng.
+
+-   **Huineng's Verse**: Huineng's verse, which emphasizes the emptiness and non-substantiality of
+    phenomena, is a critical part of the sutra. It contrasts with Shenxiu's verse, which suggests a
+    constant practice of polishing the mind.
+
+### Historical Context and Influence
+
+-   **Reconciliation of Schools**: The Platform Sutra attempts to reconcile the Northern School's
+    gradual enlightenment teachings with the Southern School's sudden enlightenment teachings. It
+    incorporates elements from both schools to present a balanced view.
+
+-   **Authorship and Compilation**: The text is attributed to Huineng's disciple, Fahai, but it was
+    likely compiled or redacted by members of the Oxhead school. It serves as a synthesis of various
+    Chan teachings up to the eighth century.
+
+-   **Buddha-Nature**: The sutra reiterates the idea that all sentient beings possess Buddha-nature,
+    which is only obscured by their illusions. This concept is central to the Chan understanding of
+    enlightenment.
+
+Overall, the Platform Sutra of the Sixth Patriarch is a rich and influential text that encapsulates
+early Chan teachings and provides insight into the nature of enlightenment and the practice of
+Buddhism. It remains a significant work for understanding the development of Zen Buddhism and its
+philosophical underpinnings.
+
+## The Crest-Jewel of Wisdom by Adi Shankara
+
+"The Crest-Jewel of Wisdom" (Vivekachudamani) by Adi Shankara is a seminal text in the Advaita
+Vedanta tradition. It serves as a comprehensive guide for seekers of spiritual liberation (Moksha)
+and is considered one of the most important works for understanding the path to enlightenment.
+
+### Key Themes and Concepts
+
+-   **Dialogue Format**: The text is structured as a dialogue between a seeker and a guru, providing
+    an overview of the Advaita Vedantic path. This format helps in systematically presenting the
+    teachings and guiding the reader through the spiritual journey.
+
+-   **Self-Realization**: The central theme of the text is the realization of one's true self
+    (Atman) and its identity with Brahman, the ultimate reality. Shankara emphasizes that liberation
+    is achieved through self-enquiry and understanding the non-dual nature of existence.
+
+-   **Discrimination (Viveka)**: The text highlights the importance of discrimination between the
+    real and the unreal, the eternal and the transient. This discernment is crucial for spiritual
+    growth and liberation.
+
+-   **The Role of the Guru**: The guru plays a vital role in guiding the seeker towards
+    self-realization. The text underscores the necessity of a knowledgeable teacher to illuminate
+    the path and help the seeker overcome ignorance.
+
+-   **The Nature of Reality**: Shankara explains that the universe is a manifestation of Brahman,
+    which is pure, taintless, and beyond all diversities created by Maya (illusion). Understanding
+    this oneness is key to liberation.
+
+-   **Practical Guidance**: The text provides practical advice on meditation, self-enquiry, and the
+    cultivation of virtues necessary for spiritual progress. It also addresses common doubts and
+    misconceptions about the spiritual path.
+
+### Significance
+
+-   **Comprehensive Guide**: "The Crest-Jewel of Wisdom" is considered a complete manual for
+    spiritual seekers, containing all the necessary teachings for attaining liberation. It distills
+    the wisdom of the Upanishads and the Bhagavad Gita into an accessible form.
+
+-   **Influence**: The text has been highly influential in the Advaita Vedanta tradition and has
+    been studied and revered by many spiritual teachers and seekers over the centuries.
+
+-   **Timeless Wisdom**: Despite being written centuries ago, the teachings of Shankara remain
+    relevant and continue to inspire those on the path to self-realization.
+
+In summary, "The Crest-Jewel of Wisdom" by Adi Shankara is a profound exploration of the path to
+enlightenment, emphasizing self-realization, the importance of a guru, and the practice of
+discrimination. It remains a cornerstone of Advaita Vedanta philosophy and a valuable resource for
+spiritual seekers.
