@@ -39,3 +39,39 @@ character of Thomas Sutpen to allegorize the rise and fall of Southern plantatio
 novel's title references the Biblical story of Absalom, highlighting themes of familial betrayal and
 tragedy. Through its intricate narrative structure, the novel examines the process of myth-making
 and the elusive nature of truth, reflecting on how history is shaped by those who tell it.
+
+## "The Adventures of Huckleberry Finn" by Mark Twain
+
+"The Adventures of Huckleberry Finn" is a novel by Mark Twain that follows the journey of a young
+boy named Huck Finn. Huck, who previously appeared in "The Adventures of Tom Sawyer," lives with the
+Widow Douglas and her sister Miss Watson, who try to civilize him. However, Huck's life takes a turn
+when his abusive father, Pap, returns and kidnaps him, taking him to a cabin across the Mississippi
+River.
+
+Huck escapes from his father by faking his own death and flees to Jackson's Island, where he meets
+Jim, a runaway slave from Miss Watson's household. Together, they find a raft and embark on a
+journey down the Mississippi River, aiming to reach the free states. Along the way, they encounter
+various challenges, including a fog that causes them to miss their route and a steamboat collision
+that separates them temporarily.
+
+Huck and Jim also meet two con men, the "duke" and the "king," who join them on their raft and
+involve them in several scams. One of these scams involves pretending to be the brothers of a
+deceased man, Peter Wilks, to claim his inheritance. Huck, feeling guilty, decides to expose the con
+men, and they are eventually caught.
+
+The con men sell Jim to a local farmer, Silas Phelps, claiming he is a runaway slave. Huck,
+determined to rescue Jim, arrives at the Phelps farm and pretends to be Tom Sawyer, who is expected
+by the Phelps family. When the real Tom arrives, he agrees to help Huck free Jim, concocting an
+elaborate plan.
+
+In the end, Tom reveals that Jim was already freed in Miss Watson's will, and Jim sacrifices his
+freedom to help Tom when he is injured. Huck learns that his father is dead and decides to head west
+to avoid being "sivilized" by Aunt Sally, Tom's aunt.
+
+### Key Points:
+
+-   Huck Finn is the protagonist, escaping from his abusive father and societal constraints.
+-   He teams up with Jim, a runaway slave, and they journey down the Mississippi River.
+-   They encounter various characters, including con men who complicate their journey.
+-   Themes include friendship, freedom, and the moral dilemmas of slavery and society.
+-   The novel ends with Huck planning to head west to avoid being civilized.
