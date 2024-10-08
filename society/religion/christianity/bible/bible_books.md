@@ -1654,63 +1654,760 @@ a return to covenant faithfulness and warns of the consequences of continued dis
 
 ## Tobit
 
-Summarize the deuterocanonical book of Tobit.
+The Book of Tobit is a deuterocanonical book, meaning it is included in the Catholic and Eastern
+Orthodox biblical canons but not in the Jewish Masoretic Text or Protestant Bibles, where it is
+considered part of the Apocrypha. It is an apocryphal Jewish work from the 3rd or early 2nd century
+BCE that combines elements of folklore, wisdom literature, and religious teachings.
+
+### Summary of the Book of Tobit
+
+-   **Setting and Characters**: The story is set in the 8th century BCE, although it was likely
+    written between 225 and 175 BCE. It revolves around two Israelite families: Tobit's family in
+    Nineveh and Sarah's family in Ecbatana. Tobit is a devout Israelite who has been exiled to
+    Nineveh and is known for his piety and adherence to the laws of Moses.
+
+-   **Plot**: Tobit, who becomes blind due to an accident, sends his son Tobias to retrieve money he
+    had deposited in Media. Meanwhile, Sarah, a relative living in Ecbatana, is plagued by a demon
+    named Asmodeus, who kills her suitors on their wedding nights. Both Tobit and Sarah pray for
+    death due to their misfortunes.
+
+-   **Divine Intervention**: God hears their prayers and sends the archangel Raphael, disguised as a
+    human, to assist them. Raphael accompanies Tobias on his journey, teaching him how to use a
+    fish's heart and liver to drive away demons and its gall to cure blindness.
+
+-   **Resolution**: Tobias marries Sarah and uses the fish's organs to exorcise the demon. They
+    return to Nineveh, where Tobias cures Tobit's blindness. Raphael reveals his true identity and
+    instructs them to praise God and live righteously.
+
+-   **Epilogue**: Tobit advises Tobias to leave Nineveh, predicting its destruction. After Tobit's
+    death, Tobias and his family move to Media, where they later learn of Nineveh's downfall.
+
+### Themes and Significance
+
+-   **Faith and Providence**: The book emphasizes God's testing of faith, His responsiveness to
+    prayers, and His protection of the faithful.
+-   **Moral and Ethical Teachings**: It includes teachings on filial piety, the intercession of
+    angels, the importance of almsgiving, and the sanctity of marriage.
+-   **Cultural and Religious Context**: The book provides insights into Jewish life and beliefs
+    during the diaspora, offering guidance on maintaining Jewish identity.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: The Book of Tobit is part of the Catholic and Eastern Orthodox canons
+    but is not included in the Jewish or Protestant canons. It is recognized for its edifying
+    content and is often read in liturgical contexts, such as weddings, due to its praise of
+    marriage purity.
+
+Overall, the Book of Tobit is a rich narrative that blends religious instruction with elements of
+adventure and romance, serving as a source of moral and spiritual guidance.
 
 ## Judith
 
-Summarize the deuterocanonical book of Judith.
+The Book of Judith is a deuterocanonical text included in the Roman Catholic and Eastern Orthodox
+Bibles but excluded from the Jewish and Protestant canons, where it is considered part of the
+Apocrypha. It is a narrative that combines elements of historical fiction, religious themes, and
+moral teachings.
+
+### Summary of the Book of Judith
+
+-   **Setting and Characters**: The story is set during a time of conflict between the Israelites
+    and the Assyrians. The main character, Judith, is a devout and courageous Jewish widow living in
+    the city of Bethulia, which is under siege by the Assyrian army led by General Holofernes.
+
+-   **Plot**: As the siege continues, the people of Bethulia are on the brink of surrender due to a
+    lack of water. Judith, known for her beauty and wisdom, devises a plan to save her city. She
+    dresses elegantly and enters the enemy camp, where she gains the trust of Holofernes.
+
+-   **Climax**: Judith uses her charm to get close to Holofernes. One night, when he is in a drunken
+    stupor, she decapitates him with his own sword. She then returns to Bethulia with his head,
+    rallying her people and demoralizing the Assyrian army.
+
+-   **Resolution**: The Israelites launch a surprise attack on the leaderless Assyrian forces,
+    resulting in a decisive victory. Judith is celebrated as a heroine, but she chooses to remain
+    unmarried for the rest of her life.
+
+### Themes and Significance
+
+-   **Divine Deliverance**: The book emphasizes God's deliverance of the Jewish people through the
+    actions of a courageous woman, highlighting themes of faith and divine intervention.
+
+-   **Role of Women**: Judith's story underscores the significant role women can play in God's
+    plans, challenging traditional gender roles and expectations.
+
+-   **Moral and Ethical Lessons**: The narrative encourages virtues such as bravery, faith, and
+    wisdom, while also serving as a cautionary tale against pride and overconfidence.
+
+### Canonical Status
+
+-   **Historical Context**: The Book of Judith is considered historical fiction, with many
+    anachronisms and fictional elements. It was likely written around 100 B.C. and reflects the
+    postexilic Jewish experience.
+
+-   **Inclusion in Canons**: Despite its exclusion from the Jewish and Protestant canons, the book
+    has been highly regarded in Christian traditions. It was included in the canon by the Council of
+    Trent in 1546 and is often cited for its moral and theological insights.
+
+Overall, the Book of Judith is a powerful narrative that combines elements of drama, faith, and
+heroism, serving as both a religious and literary work of significance.
 
 ## Esther (Greek)
 
-Summarize the deuterocanonical book of Esther (Greek).
+The Greek version of the Book of Esther, often referred to as the "Additions to Esther," is a
+deuterocanonical text that expands upon the Hebrew version found in the Jewish and Protestant
+Bibles. These additions are included in the Septuagint and are recognized in the Roman Catholic and
+Eastern Orthodox canons but are considered apocryphal by Protestant traditions.
+
+### Summary of the Greek Book of Esther
+
+-   **Structure and Content**: The Greek version includes six major additions, labeled A through F,
+    which are interspersed throughout the Hebrew text. These additions add approximately 107 verses
+    that are not present in the Hebrew version.
+
+-   **Key Additions**:
+
+    -   **Addition A**: Mordecai's dream, which foreshadows the events of the story and introduces a
+        more apocalyptic tone.
+    -   **Addition B**: The edict against the Jews, providing a detailed account of the decree
+        issued by King Artaxerxes (often identified with Xerxes).
+    -   **Addition C**: The prayers of Mordecai and Esther, which emphasize their piety and reliance
+        on God.
+    -   **Addition D**: A dramatic account of Esther's audience with the king, highlighting her
+        vulnerability and the king's change of heart.
+    -   **Addition E**: The edict in favor of the Jews, reversing the earlier decree and allowing
+        them to defend themselves.
+    -   **Addition F**: The interpretation of Mordecai's dream, linking it to the events that
+        transpired.
+
+-   **Religious Emphasis**: Unlike the Hebrew version, which does not mention God, the Greek
+    additions frequently reference God, making the narrative explicitly religious. This reflects an
+    effort to align the story with other biblical texts where divine intervention is evident.
+
+### Themes and Significance
+
+-   **Divine Providence**: The Greek version underscores the role of divine intervention in the
+    salvation of the Jewish people, contrasting with the more secular tone of the Hebrew text.
+
+-   **Religious Devotion**: The prayers and piety of Esther and Mordecai are highlighted, portraying
+    them as devout figures who rely on God's guidance.
+
+-   **Cultural Context**: The additions reflect the historical context of Greek and Roman
+    anti-Semitism, aiming to provide a religious and moral framework for the story.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: The Greek additions are canonical in the Roman Catholic and Eastern
+    Orthodox traditions but are placed in the Apocrypha by Protestant denominations. They were
+    likely composed between the second and first centuries BCE.
+
+Overall, the Greek Book of Esther enriches the narrative with religious elements and dramatic
+expansions, offering a different perspective on the story's themes and characters. It serves as an
+example of how biblical texts were adapted and interpreted in different cultural and religious
+contexts.
 
 ## Daniel (Greek)
 
-Summarize the deuterocanonical book of Daniel (Greek).
+The Greek version of the Book of Daniel, known for its additional stories, is part of the
+deuterocanonical texts included in the Catholic and Eastern Orthodox Bibles but not in the Jewish or
+Protestant canons. These additions enrich the narrative with further moral and theological insights.
+
+### Summary of the Greek Additions to Daniel
+
+1. **The Prayer of Azariah and the Song of the Three Holy Children**:
+
+    - **Context**: This addition is inserted into the story of the fiery furnace in Daniel 3. It
+      occurs when Shadrach, Meshach, and Abednego are thrown into the furnace for refusing to
+      worship King Nebuchadnezzar's golden statue.
+    - **Content**: Azariah (Abednego) prays for God's mercy and deliverance, acknowledging the sins
+      of the people. Following this, the three men sing a hymn of praise to God, celebrating His
+      creation and faithfulness. An angel appears, protecting them from the flames.
+
+2. **Susanna and the Elders**:
+
+    - **Placement**: This story is often placed at the beginning of the Book of Daniel in Greek
+      versions or as chapter 13 in the Vulgate.
+    - **Plot**: Susanna, a virtuous and beautiful woman, is falsely accused of adultery by two
+      elders who attempted to coerce her into sin. Daniel, through clever cross-examination, exposes
+      their lies, saving Susanna and condemning the elders.
+
+3. **Bel and the Dragon**:
+    - **Placement**: This story is typically found at the end of the Book of Daniel, as chapter 14
+      in the Vulgate.
+    - **Plot**: Daniel demonstrates the falseness of idol worship. In the first part, he reveals
+      that the idol Bel does not consume offerings, exposing the deceit of the priests. In the
+      second part, Daniel slays a dragon worshipped as a god, proving its mortality. These acts lead
+      to his persecution, but he is miraculously saved from a lions' den.
+
+### Themes and Significance
+
+-   **Faith and Divine Intervention**: Each story highlights the power of faith and God's
+    intervention in protecting and vindicating the righteous.
+-   **Moral Integrity**: The narratives emphasize the importance of maintaining integrity and
+    righteousness in the face of false accusations and idolatry.
+-   **Critique of Idolatry**: The stories, particularly Bel and the Dragon, critique the worship of
+    idols and underscore the supremacy of the God of Israel.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: These additions are part of the Septuagint and are included in the
+    Catholic and Eastern Orthodox Bibles. They were excluded from the Jewish and Protestant canons,
+    which follow the Hebrew Masoretic Text.
+-   **Historical Context**: The additions likely originated in the Hellenistic period, reflecting
+    the cultural and religious challenges faced by Jews in a predominantly pagan society.
+
+Overall, the Greek additions to the Book of Daniel provide rich narratives that reinforce themes of
+faith, justice, and divine power, offering additional moral and theological lessons to the canonical
+text.
 
 ## Wisdom of Solomon
 
-Summarize the deuterocanonical book of Wisdom of Solomon.
+The Wisdom of Solomon, also known simply as the Book of Wisdom, is a deuterocanonical text included
+in the Catholic and Eastern Orthodox Bibles but not in the Jewish or Protestant canons. It is a work
+of wisdom literature, written in Greek, and is traditionally attributed to Solomon, although it was
+likely composed in Alexandria, Egypt, during the mid-first century BCE.
+
+### Summary of the Wisdom of Solomon
+
+-   **Structure and Content**: The book is divided into three main sections, each focusing on
+    different aspects of wisdom and its role in human life and divine interaction.
+
+1. **Chapters 1-5**: These chapters emphasize the contrast between the righteous and the wicked. The
+   text discusses the immortality of the soul and the rewards of righteousness, portraying wisdom as
+   a divine gift that leads to eternal life. It warns the wicked of their eventual downfall and the
+   futility of their pursuits.
+
+2. **Chapters 6-9**: This section is a direct appeal to rulers and kings, urging them to seek wisdom
+   to govern justly. It personifies wisdom as a divine entity that was present at creation and is
+   intimately connected with God. The author prays for wisdom, highlighting its importance in
+   achieving a righteous and fulfilling life.
+
+3. **Chapters 10-19**: These chapters recount historical examples of how wisdom has guided and
+   protected the righteous throughout history, particularly focusing on the Exodus narrative. It
+   illustrates how wisdom has been a guiding force for the Israelites, leading them to freedom and
+   prosperity.
+
+### Themes and Significance
+
+-   **Wisdom as Divine and Eternal**: The book presents wisdom as both a divine attribute and a
+    practical guide for righteous living. It is portrayed as eternal, existing with God from the
+    beginning.
+
+-   **Moral and Ethical Guidance**: The text provides moral teachings, emphasizing the virtues of
+    justice, righteousness, and the pursuit of wisdom over material wealth and power.
+
+-   **Critique of Idolatry**: The book criticizes idolatry and pagan practices, promoting monotheism
+    and the worship of the true God.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: The Wisdom of Solomon is included in the Septuagint and is part of the
+    Catholic and Eastern Orthodox biblical canons. It is considered apocryphal by most Protestant
+    traditions.
+
+-   **Historical Context**: The book reflects Hellenistic influences, both in its language and
+    philosophical ideas, indicating its composition in a Greek-speaking Jewish community, likely in
+    Alexandria.
+
+Overall, the Wisdom of Solomon is a profound work that blends Jewish theology with Hellenistic
+philosophy, offering insights into the nature of wisdom, justice, and the divine. It serves as a
+guide for ethical living and spiritual understanding, emphasizing the importance of wisdom in
+achieving a harmonious and righteous life.
 
 ## Sirach
 
-Summarize the deuterocanonical book of Sirach.
+The Book of Sirach, also known as Ecclesiasticus or the Wisdom of Jesus the Son of Sirach, is a
+deuterocanonical text included in the Catholic and Eastern Orthodox Bibles but not in the Jewish or
+Protestant canons. It is a work of wisdom literature, written by Yeshua ben Eleazar ben Sira
+(commonly known as Ben Sira) in Hebrew around 200-175 BCE during the Second Temple period. The text
+was later translated into Greek by Ben Sira's grandson around 117 BCE.
+
+### Summary of the Book of Sirach
+
+-   **Purpose and Content**: The Book of Sirach is a collection of ethical teachings and proverbs
+    aimed at providing guidance on proper behavior in various aspects of life. It covers topics such
+    as friendship, family, humility, and the fear of the Lord. The book emphasizes the importance of
+    wisdom, which is portrayed as a divine gift that leads to a righteous and fulfilling life.
+
+-   **Structure**: Sirach is structured as a series of maxims and reflections, similar to the Book
+    of Proverbs. It includes practical advice on how to live a virtuous life, maintain social
+    harmony, and cultivate personal integrity.
+
+-   **Themes**:
+
+    -   **Wisdom and Fear of the Lord**: The text underscores the significance of wisdom and the
+        fear of the Lord as foundational to a good life.
+    -   **Moral and Ethical Conduct**: It provides guidance on ethical behavior, emphasizing virtues
+        such as humility, patience, and justice.
+    -   **Social and Family Relationships**: Sirach offers advice on maintaining harmonious
+        relationships within the family and community.
+
+-   **Influence and Legacy**: The Book of Sirach has been influential in both Jewish and Christian
+    traditions. It is often quoted or alluded to in the New Testament, reflecting its impact on
+    early Christian thought. Some of its teachings parallel those found in the teachings of Jesus
+    and the writings of Paul.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: Sirach is part of the Septuagint and is included in the Catholic and
+    Eastern Orthodox biblical canons. It is considered apocryphal by most Protestant traditions,
+    which do not include it in their Bibles.
+
+-   **Historical Context**: The book reflects the cultural and religious milieu of Hellenistic
+    Judaism, offering insights into the values and beliefs of Jewish communities during the Second
+    Temple period.
+
+Overall, the Book of Sirach is a rich source of wisdom literature that provides timeless ethical
+teachings and practical advice for living a virtuous life. Its emphasis on wisdom, moral conduct,
+and social harmony continues to resonate with readers across different religious traditions.
 
 ## Baruch
 
-Summarize the deuterocanonical book of Baruch.
+The Book of Baruch is a deuterocanonical text included in the Catholic and Eastern Orthodox Bibles
+but not in the Jewish or Protestant canons. It is traditionally attributed to Baruch, the scribe of
+the prophet Jeremiah, and is considered a reflection on the circumstances of Jewish exiles in
+Babylon. The book is thought to have been written during or shortly after the Maccabean period,
+although the exact date is uncertain.
+
+### Summary of the Book of Baruch
+
+-   **Structure and Content**: The Book of Baruch is composed of several distinct sections, each
+    addressing different themes related to the Jewish experience of exile and the hope for
+    restoration.
+
+1. **Introduction and Historical Context (Baruch 1:1-14)**: The book begins with an introduction
+   that attributes the text to Baruch, who writes on behalf of the exiles in Babylon. It describes
+   how the exiles sent the book to Jerusalem along with offerings for the temple.
+
+2. **Confession and Prayer (Baruch 1:15-3:8)**: This section contains a confession of sins and a
+   prayer for mercy. The exiles acknowledge their disobedience to God and the resulting punishment
+   of exile. They express hope for God's forgiveness and deliverance.
+
+3. **Praise of Wisdom (Baruch 3:9-4:4)**: The text shifts to a reflection on the nature of wisdom,
+   emphasizing its divine origin and the importance of adhering to God's commandments. Wisdom is
+   portrayed as a guiding force that leads to life and prosperity.
+
+4. **Encouragement and Hope (Baruch 4:5-5:9)**: The final section offers words of encouragement to
+   the people of Jerusalem and the diaspora. It reassures them of God's enduring love and promises
+   future restoration and glory for Israel.
+
+### Themes and Significance
+
+-   **Repentance and Forgiveness**: The book emphasizes the importance of acknowledging sin and
+    seeking God's forgiveness as a path to redemption.
+
+-   **Wisdom and Obedience**: It highlights the value of wisdom and obedience to God's laws as
+    essential for a righteous life.
+
+-   **Hope and Restoration**: The text provides hope for the exiles, assuring them of God's plan for
+    their eventual return and restoration.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: The Book of Baruch is included in the Septuagint and is part of the
+    Catholic and Eastern Orthodox biblical canons. It is considered apocryphal by most Protestant
+    traditions.
+
+-   **Historical Context**: Although the book is attributed to Baruch, it was likely composed much
+    later, reflecting the experiences and theological reflections of Jewish communities during the
+    Hellenistic period.
+
+Overall, the Book of Baruch serves as a theological reflection on the themes of exile, repentance,
+and hope, offering guidance and encouragement to the Jewish people during times of hardship. Its
+emphasis on wisdom and divine mercy continues to resonate with readers across different religious
+traditions.
 
 ## 1 Maccabees
 
-Summarize the deuterocanonical book of 1 Maccabees.
+The Book of 1 Maccabees is a deuterocanonical text included in the Catholic and Eastern Orthodox
+Bibles but not in the Jewish or Protestant canons. It provides a historical account of the Maccabean
+Revolt against the Seleucid Empire and the establishment of the Hasmonean dynasty in Judea. The book
+is a valuable historical source for understanding the Jewish struggle for independence in the 2nd
+century BCE.
+
+### Summary of 1 Maccabees
+
+-   **Historical Context**: The book covers the period from approximately 174 to 134 BCE, detailing
+    the events leading up to and following the Maccabean Revolt. It begins with the oppressive
+    decrees of King Antiochus IV Epiphanes, who sought to suppress Jewish religious practices and
+    enforce Hellenistic culture.
+
+-   **Key Events**:
+
+    -   **Revolt Initiation**: The revolt is sparked by Mattathias, a priest from the Hasmonean
+        family, who refuses to comply with the king's decrees and kills a royal official. He and his
+        five sons, including Judas Maccabeus, lead the rebellion.
+    -   **Leadership of Judas Maccabeus**: Judas, known as "The Hammer," becomes the central figure
+        in the revolt. He leads the Jewish forces to several victories against the Seleucids,
+        including the recapture and rededication of the Second Temple in Jerusalem, an event
+        commemorated by the festival of Hanukkah.
+    -   **Leadership of Jonathan and Simon**: After Judas's death, his brothers Jonathan and Simon
+        continue the struggle. Jonathan secures political alliances and is eventually appointed high
+        priest. Simon achieves political independence for Judea and is recognized as both high
+        priest and leader by the Jewish people.
+
+-   **Themes and Significance**:
+    -   **Fidelity to the Law**: The book emphasizes the importance of adhering to Jewish law and
+        traditions, portraying the Maccabees as defenders of the faith against both external and
+        internal threats.
+    -   **Struggle for Independence**: It highlights the Jewish struggle for religious and political
+        autonomy, portraying the Maccabees as national heroes.
+    -   **Absence of Messianic Expectation**: Unlike some other Jewish texts, 1 Maccabees does not
+        express a messianic expectation but focuses on the historical achievements of the Hasmonean
+        leaders.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: 1 Maccabees is included in the Catholic and Eastern Orthodox biblical
+    canons but is considered apocryphal by most Protestant traditions. It is not part of the Jewish
+    Tanakh.
+-   **Historical Importance**: The book is valued for its detailed historical account of the
+    Maccabean Revolt and the early Hasmonean period, providing insights into the political and
+    religious dynamics of the time.
+
+Overall, 1 Maccabees is a significant historical and religious text that documents the Jewish fight
+for independence and the preservation of their religious identity during a tumultuous period. It
+serves as both a historical record and a source of inspiration for maintaining faith and cultural
+identity in the face of oppression.
 
 ## 2 Maccabees
 
-Summarize the deuterocanonical book of 2 Maccabees.
+The Book of 2 Maccabees is a deuterocanonical text included in the Catholic and Eastern Orthodox
+Bibles but not in the Jewish or Protestant canons. It provides a theological and historical account
+of the Jewish revolt against the Seleucid Empire, focusing on the period from 180 to 161 BCE. Unlike
+1 Maccabees, which offers a more straightforward historical narrative, 2 Maccabees emphasizes
+religious themes and miraculous events.
+
+### Summary of 2 Maccabees
+
+-   **Authorship and Structure**: The book is an abridged version of a five-volume work by Jason of
+    Cyrene. It was written in Greek, likely in Alexandria, Egypt, and is intended for a Hellenistic
+    Jewish audience. The text is structured into 15 chapters and begins with two letters to the Jews
+    in Egypt, encouraging them to observe the festival of Hanukkah.
+
+-   **Key Events**:
+    -   **Persecution and Martyrdom**: The book details the persecution of Jews under King Antiochus
+        IV Epiphanes, including the desecration of the Temple and the imposition of Hellenistic
+        practices. It highlights the martyrdom of Eleazar, an elderly scribe, and a mother with her
+        seven sons, who refuse to abandon their faith.
+    -   **Miraculous Interventions**: 2 Maccabees frequently attributes Jewish victories to divine
+        intervention. It describes visions and miracles, such as the appearance of angels aiding the
+        Jewish forces and the miraculous protection of the Temple.
+    -   **Judas Maccabeus**: The book focuses on the leadership of Judas Maccabeus, detailing his
+        military campaigns and the purification of the Temple. It concludes with the defeat of the
+        Seleucid general Nicanor.
+
+### Themes and Significance
+
+-   **Religious Fidelity and Martyrdom**: The text emphasizes the importance of remaining faithful
+    to Jewish law and traditions, even in the face of persecution. Martyrdom is portrayed as a noble
+    act that demonstrates loyalty to God.
+
+-   **Resurrection and Afterlife**: 2 Maccabees is one of the earliest Jewish texts to explicitly
+    mention the resurrection of the dead, reflecting Pharisaic beliefs. It also discusses prayers
+    and sacrifices for the dead, which have influenced Christian doctrines on purgatory and
+    intercession.
+
+-   **Divine Justice and Intervention**: The book highlights God's active role in history, rewarding
+    the faithful and punishing the wicked. It presents a theological interpretation of events,
+    emphasizing that success is due to divine will rather than human effort alone.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: 2 Maccabees is part of the Septuagint and is included in the Catholic
+    and Eastern Orthodox biblical canons. It is considered apocryphal by most Protestant traditions,
+    partly due to its support for doctrines like prayers for the dead, which were controversial
+    during the Protestant Reformation.
+
+Overall, 2 Maccabees provides a rich theological perspective on the Maccabean Revolt, emphasizing
+themes of faith, divine intervention, and the hope of resurrection. It serves as both a historical
+account and a source of religious inspiration for maintaining faith under persecution.
 
 ## 1 Esdras
 
-Summarize the deuterocanonical book of 1 Esdras.
+The Book of 1 Esdras, also known as Greek Esdras or 3 Esdras in the Latin Vulgate, is a
+deuterocanonical text included in the Septuagint and recognized in the Eastern Orthodox and some
+other Christian traditions. It is not part of the Jewish or Protestant canons. The book is
+essentially a retelling of events found in the canonical books of Ezra and Nehemiah, with some
+additional material and variations.
 
-## Prayer of Manasses
+### Summary of 1 Esdras
 
-Summarize the deuterocanonical book of Prayer of Manasses.
+-   **Content and Structure**: 1 Esdras covers the period of the Jewish exile and the return to
+    Jerusalem, focusing on the rebuilding of the Temple. It is largely similar to the Book of Ezra
+    but includes some unique elements and reorders certain events.
+
+1. **Cyrus's Decree and Return (1 Esdras 1-2)**: The book begins with the decree of Cyrus, King of
+   Persia, allowing the Jews to return to Jerusalem and rebuild the Temple. It details the return of
+   the exiles under the leadership of Zerubbabel and Jeshua.
+
+2. **Rebuilding the Temple (1 Esdras 3-5)**: The narrative describes the challenges faced during the
+   rebuilding process, including opposition from neighboring peoples. It highlights the laying of
+   the Temple's foundation and the celebration that follows.
+
+3. **The Tale of the Three Guardsmen (1 Esdras 3:1-5:6)**: This unique addition features a contest
+   among three guardsmen of King Darius, who debate what is the strongest force. The winner, who
+   argues that truth is the strongest, is revealed to be Zerubbabel. As a reward, Darius supports
+   the rebuilding of the Temple.
+
+4. **Completion and Dedication of the Temple (1 Esdras 5-7)**: The book concludes with the
+   completion and dedication of the Temple, along with the celebration of Passover.
+
+### Themes and Significance
+
+-   **Divine Providence**: The book emphasizes God's role in the return of the exiles and the
+    rebuilding of the Temple, portraying these events as fulfillment of divine promises.
+
+-   **Truth and Wisdom**: The Tale of the Three Guardsmen underscores the theme of truth as a
+    powerful and divine force, reflecting the book's wisdom literature elements.
+
+-   **Historical and Religious Continuity**: 1 Esdras serves to reinforce the continuity of Jewish
+    religious practices and identity during and after the exile.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: 1 Esdras is included in the Septuagint and is part of the Eastern
+    Orthodox biblical canon. It is considered apocryphal by most Protestant traditions and is not
+    included in the Jewish Tanakh.
+
+-   **Historical Context**: The book reflects the historical and religious context of the Jewish
+    community during the Persian period, offering insights into their struggles and aspirations.
+
+Overall, 1 Esdras provides an alternative perspective on the events surrounding the return from
+exile and the rebuilding of the Temple, emphasizing themes of divine intervention, truth, and
+religious identity.
+
+## Prayer of Manasseh
+
+The Prayer of Manasseh is a short, penitential prayer attributed to King Manasseh of Judah, known
+for his idolatrous reign as described in the Bible (2 Kings 21:1–18; 2 Chronicles 33:1–9). This
+prayer is included in some versions of the Bible, particularly within the Eastern Orthodox and some
+Catholic traditions, but it is not part of the Jewish or Protestant canons.
+
+### Summary of the Prayer of Manasseh
+
+-   **Historical Context**: According to 2 Chronicles 33:11-13, Manasseh was taken captive by the
+    Assyrians. While imprisoned, he repented and prayed for mercy, after which he was restored to
+    his throne and turned away from his idolatrous practices. The prayer itself is not included in
+    the canonical books of Kings or Chronicles, but it is referenced in 2 Chronicles 33:19 as being
+    recorded in "the annals of the kings of Israel".
+
+-   **Content of the Prayer**: The Prayer of Manasseh is a poetic expression of repentance and a
+    plea for forgiveness. It acknowledges God's infinite mercy and grace, emphasizing themes of
+    humility and contrition. The prayer reflects a deep sense of personal sin and a desire for
+    reconciliation with God.
+
+-   **Themes and Significance**:
+    -   **Repentance and Forgiveness**: The prayer highlights the power of sincere repentance and
+        God's willingness to forgive even the gravest of sins.
+    -   **Divine Mercy**: It underscores the belief in God's boundless compassion and readiness to
+        restore those who turn back to Him in humility.
+    -   **Encouragement for the Estranged**: The prayer serves as an encouragement for those who
+        feel distant from God, offering hope for a restored relationship through repentance.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: The Prayer of Manasseh is included in the Septuagint and is part of the
+    Eastern Orthodox biblical canon. It is also found in some editions of the Latin Vulgate and is
+    used liturgically in various Christian traditions, such as the Eastern Orthodox Great Compline
+    service and the Roman Rite.
+
+-   **Liturgical Use**: The prayer is used in several Christian liturgical settings, including the
+    Eastern Orthodox and Byzantine Catholic services, as well as in the Daily Office of the
+    Episcopal Church in the United States.
+
+Overall, the Prayer of Manasseh is a powerful expression of penitence and divine mercy, offering a
+model of repentance and hope for forgiveness. It serves as a reminder of the transformative power of
+turning back to God with a contrite heart.
 
 ## Psalm 151
 
-Summarize the deuterocanonical book of Psalm 151.
+Psalm 151 is a short psalm found in most copies of the Septuagint (LXX) but not in the Masoretic
+Text of the Hebrew Bible. It is considered "supernumerary," meaning it is outside the traditional
+numbering of the 150 Psalms. The psalm is attributed to King David and is included in the biblical
+canon of the Eastern Orthodox, Coptic Orthodox, Armenian Apostolic, and Syrian Orthodox churches. It
+is considered apocryphal by most Jews and Protestants, although it appears in some Catholic Bibles
+and ecumenical translations.
+
+### Summary of Psalm 151
+
+-   **Content and Structure**: Psalm 151 is a brief, autobiographical poem attributed to David. It
+    reflects on his life as a shepherd and his anointment as king. The psalm is divided into two
+    parts in some versions, with the first part focusing on David's humble beginnings and his
+    selection by God, and the second part recounting his victory over Goliath.
+
+-   **Themes**:
+    -   **Divine Selection**: The psalm emphasizes God's choice of David, the youngest and least
+        likely among his brothers, to be king. This theme highlights the idea that God often chooses
+        the humble and unexpected to fulfill His purposes.
+    -   **Victory and Praise**: It also celebrates David's victory over Goliath, attributing his
+        success to divine intervention and strength. The psalm serves as a song of praise for God's
+        guidance and support.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: Psalm 151 is included in the Septuagint and is part of the Eastern
+    Orthodox biblical canon. It is not included in the Jewish or Protestant canons but is found in
+    some editions of the Latin Vulgate and other translations.
+
+-   **Historical Context**: The psalm is preserved in Hebrew, Greek, and Syriac versions, with a
+    Hebrew version found among the Dead Sea Scrolls. This suggests its composition during the Second
+    Temple period, reflecting the Jewish community's interest in Davidic traditions.
+
+Overall, Psalm 151 is a unique addition to the Psalter, offering a personal reflection attributed to
+David that underscores themes of divine choice and victory through faith. It serves as a reminder of
+God's ability to elevate the humble and achieve great things through them.
 
 ## 3 Maccabees
 
-Summarize the deuterocanonical book of 3 Maccabees.
+The Book of 3 Maccabees is a deuterocanonical text included in the Eastern Orthodox biblical canon
+but not in the Jewish, Catholic, or Protestant canons. Despite its name, it does not relate to the
+Maccabean Revolt or the Hasmonean dynasty like 1 and 2 Maccabees. Instead, it focuses on the
+persecution of Jews in Egypt under the reign of Ptolemy IV Philopator.
+
+### Summary of 3 Maccabees
+
+-   **Historical Context**: The book is set during the reign of Ptolemy IV Philopator (221–204 BCE)
+    in Egypt. It describes events that are not historically verified but serve as a narrative to
+    illustrate themes of faith and divine intervention.
+
+-   **Plot Overview**:
+    -   **Persecution of Jews**: The story begins with Ptolemy IV visiting Jerusalem after his
+        victory at the Battle of Raphia. He attempts to enter the Holy of Holies in the Temple but
+        is miraculously prevented by divine intervention. Angered by this, he returns to Egypt and
+        begins persecuting the Jewish population there.
+    -   **Imprisonment and Threat**: The Jews in Egypt are rounded up and imprisoned in the
+        hippodrome, where they face the threat of being trampled by elephants. Ptolemy plans to use
+        the elephants to execute them as punishment for their perceived disloyalty.
+    -   **Divine Intervention**: As the execution is about to take place, God intervenes by causing
+        the king to fall asleep and have a change of heart. The elephants turn against the king's
+        own troops instead of the Jews.
+    -   **Resolution**: Ptolemy, realizing the divine protection over the Jews, releases them and
+        grants them privileges. The Jews celebrate their deliverance with a festival, giving thanks
+        to God for their salvation.
+
+### Themes and Significance
+
+-   **Divine Protection and Deliverance**: The book emphasizes God's protection over the Jewish
+    people, highlighting themes of faith and divine intervention in times of persecution.
+-   **Faithfulness and Identity**: It underscores the importance of maintaining Jewish identity and
+    faithfulness to God, even under foreign rule and oppression.
+-   **Moral and Ethical Lessons**: The narrative serves as a moral lesson on the consequences of
+    hubris and the power of divine justice.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: 3 Maccabees is included in the Eastern Orthodox biblical canon but is
+    not part of the Jewish, Catholic, or Protestant canons. It is considered apocryphal by most
+    other traditions.
+-   **Literary and Historical Context**: The book is considered more of a historical novel or
+    theological narrative rather than a factual historical account. It reflects the experiences and
+    challenges faced by Jewish communities in the Hellenistic world.
+
+Overall, 3 Maccabees is a narrative that illustrates the themes of divine intervention and
+faithfulness, offering encouragement to Jewish communities facing persecution and emphasizing the
+power of God to deliver His people.
 
 ## 2 Esdras
 
-Summarize the deuterocanonical book of 2 Esdras.
+The Book of 2 Esdras, also known as 4 Esdras or Latin Esdras, is an apocalyptic text included in the
+biblical canon of the Ethiopian Orthodox Church and considered apocryphal by Roman Catholics,
+Protestants, and most Eastern Orthodox Christians. It is traditionally attributed to Ezra, a scribe
+and priest, although it was likely composed after the fall of Jerusalem in 70 AD, reflecting the
+Jewish community's struggles and theological reflections during this tumultuous period.
+
+### Summary of 2 Esdras
+
+-   **Structure and Content**: The book is divided into three main sections, often referred to as
+    chapters 3-14, with additional chapters (1-2 and 15-16) considered later Christian additions.
+    The core section (chapters 3-14) is a series of seven visions given to Ezra, addressing themes
+    of divine justice, the end times, and the restoration of Israel.
+
+1. **First Vision (Chapters 3-5)**: Ezra questions God about the suffering of the righteous and the
+   prosperity of the wicked. God responds, emphasizing the limitations of human understanding and
+   the inscrutability of divine plans.
+
+2. **Second Vision (Chapters 6-9)**: This vision reveals the signs of the end times and the coming
+   judgment. It contrasts the present evil world with a future age of righteousness.
+
+3. **Third Vision (Chapters 10-12)**: Ezra sees a woman mourning for her son, who transforms into a
+   city, symbolizing the restoration of Jerusalem. This vision includes an allegory of an eagle and
+   a lion, representing oppressive empires and the messianic deliverance.
+
+4. **Fourth Vision (Chapter 13)**: Ezra witnesses a man rising from the sea, symbolizing the
+   Messiah, who will defeat the wicked and establish a righteous kingdom.
+
+5. **Fifth Vision (Chapter 14)**: Ezra is commanded to restore the lost scriptures, resulting in the
+   production of 94 books, 24 of which are to be made public (the Hebrew Bible) and 70 kept secret
+   for the wise.
+
+### Themes and Significance
+
+-   **Divine Justice and Human Suffering**: The book grapples with the problem of evil and the
+    suffering of the righteous, similar to themes found in the Book of Job. It emphasizes faith in
+    God's ultimate justice and love for His chosen people despite current hardships.
+
+-   **Apocalyptic and Eschatological Themes**: 2 Esdras is rich in apocalyptic imagery, focusing on
+    the end times, the final judgment, and the hope of a new, righteous age.
+
+-   **Restoration and Hope**: The text offers hope for the restoration of Israel and the coming of a
+    messianic figure who will bring justice and peace.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: 2 Esdras is part of the Ethiopian Orthodox biblical canon and is
+    included in some Latin Vulgate manuscripts as an appendix. It is not part of the Jewish,
+    Catholic, or Protestant canons, where it is considered apocryphal.
+
+Overall, 2 Esdras provides a profound exploration of theological questions concerning divine
+justice, human suffering, and eschatological hope, offering comfort and guidance to communities
+facing persecution and uncertainty.
 
 ## 4 Maccabees
 
-Summarize the deuterocanonical book of 4 Maccabees.
+The Book of 4 Maccabees, also known as the Fourth Book of Maccabees, is a deuterocanonical text that
+is not included in the Jewish, Catholic, or Protestant canons but is part of some Eastern Orthodox
+traditions. It is a philosophical and homiletic work that explores the theme of reason's supremacy
+over passion, using the framework of Hellenistic Judaism and Greek philosophy, particularly
+Stoicism.
+
+### Summary of 4 Maccabees
+
+-   **Content and Structure**: The book is written in Koine Greek and is structured as a
+    philosophical discourse or homily. It elaborates on the stories of martyrdom found in 2
+    Maccabees, particularly focusing on the martyrdom of Eleazar, a scribe, and a mother with her
+    seven sons, who are tortured and killed by the Seleucid King Antiochus IV Epiphanes for refusing
+    to abandon their Jewish faith.
+
+-   **Philosophical Themes**:
+    -   **Supremacy of Reason**: The central theme of 4 Maccabees is the supremacy of pious reason
+        over passion. The text argues that reason, guided by religious faith, enables individuals to
+        endure suffering and remain steadfast in their beliefs, even in the face of extreme
+        persecution and death.
+    -   **Martyrdom as Rational**: The book presents the martyrs' willingness to die for their faith
+        as a rational choice, as they believe in the rewards of the afterlife. This perspective
+        aligns with Stoic philosophy, which values reason and self-control over emotional impulses.
+
+### Themes and Significance
+
+-   **Integration of Philosophy and Faith**: 4 Maccabees is notable for its integration of Jewish
+    religious themes with Greek philosophical ideas, particularly Stoicism. It serves as an example
+    of Hellenistic Jewish literature that seeks to harmonize faith and reason.
+
+-   **Moral and Ethical Lessons**: The text provides moral and ethical lessons on the virtues of
+    courage, faith, and the power of reason to overcome physical and emotional challenges.
+
+### Canonical Status
+
+-   **Inclusion in Canons**: While 4 Maccabees is not included in the Jewish, Catholic, or
+    Protestant biblical canons, it is part of some Eastern Orthodox traditions. It was preserved
+    mainly among early Christians who valued its themes of martyrdom and admired Stoic philosophy.
+
+-   **Historical Context**: The book reflects the cultural and intellectual milieu of Hellenistic
+    Judaism, illustrating how Jewish communities engaged with and adapted Greek philosophical
+    concepts to express their religious beliefs.
+
+Overall, 4 Maccabees is a unique work that combines philosophical discourse with religious
+narrative, emphasizing the power of reason and faith in the face of persecution. It offers insights
+into the ways Hellenistic Jews navigated their cultural and religious identities.
 
 ## Matthew
 
