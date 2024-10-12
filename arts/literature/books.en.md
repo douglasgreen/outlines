@@ -68,6 +68,8 @@ In the end, Tom reveals that Jim was already freed in Miss Watson's will, and Ji
 freedom to help Tom when he is injured. Huck learns that his father is dead and decides to head west
 to avoid being "sivilized" by Aunt Sally, Tom's aunt.
 
+## "Adventures of Tom Sawyer" by Mark Twain
+
 ### Key Points:
 
 -   Huck Finn is the protagonist, escaping from his abusive father and societal constraints.
@@ -75,3 +77,71 @@ to avoid being "sivilized" by Aunt Sally, Tom's aunt.
 -   They encounter various characters, including con men who complicate their journey.
 -   Themes include friendship, freedom, and the moral dilemmas of slavery and society.
 -   The novel ends with Huck planning to head west to avoid being civilized.
+
+"The Adventures of Tom Sawyer" by Mark Twain is a classic novel that follows the mischievous and adventurous life of a young boy named Tom Sawyer. Set in the fictional town of St. Petersburg, Missouri, along the Mississippi River, the story captures the essence of boyhood and adventure in 19th-century America.
+
+### Key Plot Points
+
+- **Tom's Mischief and Punishment**: Tom Sawyer, an orphan living with his Aunt Polly and half-brother Sid, is known for getting into trouble. After skipping school and getting into a fight, he is punished by having to whitewash a fence. Cleverly, Tom turns this punishment into a game, convincing other boys to do the work for him in exchange for small treasures.
+
+- **Romance and Rejection**: Tom falls in love with Becky Thatcher, a new girl in town. Their relationship is tumultuous, with Becky rejecting Tom after learning about his previous engagement to another girl, Amy Lawrence.
+
+- **Graveyard Adventure**: Tom and his friend Huckleberry Finn witness a murder in the graveyard. Injun Joe kills Dr. Robinson and frames Muff Potter, a drunkard. Tom and Huck swear to keep silent but are troubled by their secret.
+
+- **Pirate Adventure**: Feeling rejected, Tom, Huck, and their friend Joe Harper run away to Jackson's Island to become pirates. They enjoy their freedom until they realize the town believes they have drowned. The boys return dramatically during their own funeral service.
+
+- **Trial and Testimony**: Overcome with guilt, Tom testifies at Muff Potter's trial, revealing the truth about the murder. Injun Joe escapes, leading to further tension.
+
+- **Cave Exploration**: Tom and Becky get lost in a cave during a picnic. While trying to find a way out, Tom encounters Injun Joe. Eventually, Tom finds an exit, and the townspeople seal the cave, inadvertently trapping Injun Joe inside, where he dies.
+
+- **Treasure Discovery**: Tom and Huck return to the cave and discover a hidden treasure that once belonged to Injun Joe. The money is invested for them, and Huck is taken in by the Widow Douglas, though he struggles with the constraints of civilized life.
+
+### Themes and Impact
+
+- **Adventure and Boyhood**: The novel is celebrated for its portrayal of childhood adventure and the spirit of boyhood. It combines humor, satire, and moral lessons, making it enjoyable for both children and adults.
+
+- **Moral Growth**: Throughout the story, Tom matures and learns the importance of honesty and responsibility, particularly through his decision to testify at the trial.
+
+- **Cultural Critique**: The novel also offers a critique of societal norms and the concept of respectability, particularly through Huck's character, who resists being "civilized."
+
+"The Adventures of Tom Sawyer" remains a beloved classic, known for its vivid characters, engaging plot, and insightful commentary on American life.
+
+## "Aeneid" by Virgil
+
+The Aeneid is an epic poem by Virgil that tells the story of Aeneas, a Trojan hero, and his journey to Italy, where his descendants are destined to found Rome.
+
+### Books 1-4: The Journey Begins
+
+- **Book 1**: After the fall of Troy, Aeneas leads the surviving Trojans on a quest to reach Latium in Italy. Juno, who despises the Trojans, attempts to thwart their journey by causing a storm. Neptune calms the storm, and the Trojans land in Carthage. Aeneas meets Dido, the queen of Carthage, and recounts the fall of Troy and his travels.
+
+- **Book 2-3**: Aeneas narrates the story of the Trojan Horse, the fall of Troy, and his subsequent wanderings, including encounters with mythical creatures and the death of his father, Anchises.
+
+- **Book 4**: Dido falls in love with Aeneas due to Cupid's influence. However, Aeneas is reminded by Mercury of his destiny and leaves Carthage, leading to Dido's tragic suicide.
+
+### Books 5-8: Trials and Prophecies
+
+- **Book 5**: Aeneas honors his father with funeral games. Some Trojan women, tired of traveling, attempt to burn the ships but are stopped. Aeneas continues with his strongest followers.
+
+- **Book 6**: In Cumae, Aeneas visits the Underworld with the guidance of the Sibyl. He meets his father's spirit, who reveals the future glory of Rome.
+
+- **Book 7-8**: The Trojans reach Latium. King Latinus offers his daughter Lavinia to Aeneas, but Juno incites conflict. Turnus, a local suitor of Lavinia, opposes Aeneas. Aeneas seeks allies, including the Arcadians and their leader, Evander.
+
+### Books 9-12: War and Resolution
+
+- **Book 9-10**: War breaks out between the Trojans and the Latins. Notable events include the night raid by Nisus and Euryalus and the death of Pallas, Evander's son, at the hands of Turnus.
+
+- **Book 11**: Both sides agree to a temporary truce. However, Turnus reignites the conflict, and Camilla, a warrior ally of Turnus, is killed.
+
+- **Book 12**: The epic concludes with a duel between Aeneas and Turnus. Despite Turnus's plea for mercy, Aeneas kills him upon seeing Pallas's belt, fulfilling his destiny and securing the future of Rome.
+
+### Key Themes
+
+- **Fate and Destiny**: Aeneas's journey is driven by fate, and the founding of Rome is depicted as a divine plan.
+- **Duty and Piety**: Aeneas embodies the Roman virtues of duty to the gods, family, and country.
+- **Conflict and Resolution**: The epic explores themes of war, peace, and the struggles inherent in fulfilling one's destiny.
+
+### Conclusion
+
+The Aeneid is a foundational myth for Rome, blending history, mythology, and prophecy. It highlights the virtues and struggles of its hero, Aeneas, as he overcomes obstacles to fulfill his destiny, ultimately laying the groundwork for the rise of Rome.
+
+
