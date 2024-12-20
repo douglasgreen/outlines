@@ -4458,9 +4458,96 @@ our experiences are increasingly shaped by simulations rather than genuine inter
 real world. This philosophical exploration has influenced various fields, including media studies
 and cultural theory, highlighting the pervasive impact of media and technology on human perception.
 
+## Harry Frankfurt (1929-2023)
+
+### "On Bullshit"
+
+"On Bullshit" is a philosophical essay by Harry G. Frankfurt, originally published in 1986 and later
+expanded into a book in 2005. The work explores the concept of "bullshit" and its implications in
+communication and society.
+
+#### Key Concepts
+
+-   **Definition of Bullshit**: Frankfurt defines bullshit as speech intended to persuade without
+    regard for truth. Unlike liars, who are aware of the truth and aim to conceal it, bullshitters
+    are indifferent to the truth. They focus solely on the effect their words have, rather than
+    their factual accuracy.
+
+-   **Distinction from Lying**: The primary difference between lying and bullshitting lies in the
+    intent. Liars deliberately misrepresent the truth, while bullshitters are unconcerned with the
+    truth altogether. This indifference makes bullshit potentially more harmful to the truth than
+    lies, as it erodes the value of truth itself.
+
+-   **Cultural Prevalence**: Frankfurt discusses the rise of bullshit in modern society, attributing
+    it to the increasing demand for opinions on a wide range of topics, often beyond one's
+    knowledge. This expectation leads to more bullshit as people speak without adequate
+    understanding.
+
+-   **Philosophical Analysis**: The book delves into the philosophical underpinnings of bullshit,
+    comparing it to concepts like humbug and examining its role in communication. Frankfurt uses
+    examples and definitions to clarify the nature of bullshit and its distinction from other forms
+    of deception.
+
+#### Reception and Criticism
+
+-   **Positive Reception**: The book has been well-received for its insightful analysis and has
+    become a bestseller. It is praised for its clarity and relevance in understanding modern
+    communication.
+
+-   **Criticism**: Some critics argue that Frankfurt's analysis is overly simplistic and fails to
+    account for the complexities of communication and truth. Others point out that the book does not
+    adequately address the audience's ability to detect bullshit.
+
+#### Conclusion
+
+Frankfurt's "On Bullshit" provides a thought-provoking examination of a pervasive aspect of
+communication. By highlighting the indifference to truth that characterizes bullshit, Frankfurt
+underscores its potential threat to the integrity of discourse. The book encourages readers to be
+more discerning about the information they encounter and the motivations behind it.
+
+## Sam Harris (1967-present)
+
+### "Free Will"
+
+Sam Harris's book "Free Will" argues that the concept of free will is an illusion. Harris posits
+that our thoughts and intentions arise from background causes over which we have no conscious
+control, making our perceived choices not truly free. He suggests that every decision we make is
+determined by preceding causes, and thus, we are not the true authors of our actions.
+
+#### Key Points:
+
+-   **Illusion of Free Will**: Harris argues that free will cannot be mapped onto any conceivable
+    reality. Our thoughts and actions are the result of unconscious neural events, which are
+    themselves determined by prior causes. This means that while we may feel like we are making
+    choices, these choices are not truly free because they are predetermined by factors beyond our
+    control.
+
+-   **Scientific Evidence**: Harris cites studies using fMRI and EEG that show our brains make
+    decisions before we are consciously aware of them. For instance, brain activity indicating a
+    decision can be detected several seconds before a person becomes aware of making that decision.
+
+-   **Moral and Social Implications**: Despite the absence of free will, Harris argues that this
+    does not undermine morality or the importance of social and political freedom. Instead,
+    understanding the lack of free will can lead to a more compassionate view of human behavior,
+    recognizing that individuals are shaped by factors beyond their control.
+
+-   **Responsibility and Justice**: Harris discusses how this understanding affects our view of
+    responsibility and justice. He suggests that while we must still hold people accountable for
+    their actions to protect society, recognizing the lack of free will can change how we perceive
+    guilt and punishment. For example, understanding the biological and environmental causes behind
+    a person's actions can lead to more nuanced judgments.
+
+-   **Consciousness and Decision Making**: Harris distinguishes between conscious and unconscious
+    reactions, emphasizing that while we may not have free will, consciousness still plays a role in
+    how we deliberate and make decisions. This awareness allows us to focus our attention and make
+    deliberate choices within certain limits.
+
+Overall, Harris's book challenges the traditional notion of free will, encouraging readers to
+reconsider how they view human behavior and moral responsibility. By accepting the illusion of free
+will, Harris believes we can foster a more understanding and compassionate society.
+
 ## Others
 
--   Harry Frankfurt - On Bullshit (2005)
 -   Iris Murdoch - The Sovereignty of Good (1970)
 -   Julian Baggini - The Ego Trick (2011)
 -   Michael Sandel - Justice (2009)
@@ -4470,7 +4557,6 @@ and cultural theory, highlighting the pervasive impact of media and technology o
 -   Noam Chomsky - Understanding Power (2002)
 -   Peter Singer - The Life You Can Save (2009)
 -   Ralph Waldo Emerson - Fate (1860)
--   Sam Harris - Free Will (2012)
 -   Saul Kripke - Naming and Necessity (1972)
 -   Simone de Beauvoir - The Second Sex (1952)
 -   Slavoj Zizek - Living In The End Times (2010)
