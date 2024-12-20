@@ -744,6 +744,59 @@ The **Bhagavad Gita** is a profound spiritual text that addresses universal ques
 morality, the nature of the self, and the path to spiritual liberation. It has had a lasting
 influence on Hindu philosophy and is revered as one of the most important texts in Hinduism.
 
+## Cicero (106-43 BC)
+
+### On Duties
+
+"On Duties" (De Officiis) is a philosophical treatise by Marcus Tullius Cicero, written in 44 BC. It
+is structured as a letter to his son, Marcus Tullius Cicero Minor, who was studying philosophy in
+Athens. The work is divided into three books, each addressing different aspects of moral duty and
+ethical behavior.
+
+#### Book I: The Honorable
+
+-   **Focus**: This book discusses what is inherently honorable and virtuous.
+-   **Virtues**: Cicero identifies four cardinal virtues: wisdom, justice, greatness of spirit, and
+    moderation. He argues that true duties are rooted in these virtues.
+-   **Moral Foundation**: The book emphasizes that actions should be guided by these virtues to be
+    considered honorable.
+
+#### Book II: The Useful
+
+-   **Focus**: This section explores what is advantageous or useful for personal and public life.
+-   **Utility and Self-Interest**: Cicero discusses how to manage personal gain without compromising
+    moral integrity. He advises that actions should benefit the individual while also considering
+    the greater good.
+-   **Political Context**: The book reflects on political advancement and the ethical means of
+    achieving power and wealth, highlighting the importance of generosity, courtesy, and eloquence.
+
+#### Book III: The Conflict Between the Honorable and the Useful
+
+-   **Focus**: This book addresses the apparent conflict between what is honorable and what is
+    useful.
+-   **Reconciliation**: Cicero argues that true virtue cannot conflict with genuine utility. He
+    suggests that what appears to be a conflict is often a misunderstanding of true virtue.
+-   **Examples**: He uses historical anecdotes to illustrate situations where moral integrity should
+    not be compromised for personal gain.
+
+### Key Themes
+
+-   **Moral Duty**: Cicero's treatise is an exploration of moral obligations and the balance between
+    personal interests and the common good.
+-   **Political Context**: Written during a time of political turmoil in Rome, the work reflects
+    Cicero's views on the responsibilities of public officials and the dangers of prioritizing
+    personal gain over public duty.
+-   **Stoic Influence**: The work is heavily influenced by Stoic philosophy, particularly the ideas
+    of Panaetius, a Stoic philosopher who had previously written on duties.
+
+### Legacy
+
+"On Duties" has had a significant impact on Western philosophy and ethics. It was considered a moral
+authority during the Middle Ages and influenced many thinkers, including St. Augustine and St.
+Thomas Aquinas. The treatise remains a valuable resource for understanding Roman political life and
+ethical thought. Its emphasis on virtue and duty continues to resonate in discussions of moral
+philosophy and public service.
+
 ## Lucretius (99-55 BC)
 
 ### De Rerum Natura
@@ -3371,6 +3424,60 @@ its logical rigor and philosophical depth. It challenges readers to consider the
 relationship between language, experience, and reality, offering insights into how we understand and
 articulate the world around us.
 
+### The Conquest of Happiness
+
+"The Conquest of Happiness," written by Bertrand Russell in 1930, is a philosophical exploration of
+the causes of unhappiness and the pursuit of happiness in modern life. Russell, a prominent British
+philosopher, uses his personal experiences and observations to offer insights into achieving
+happiness.
+
+#### Causes of Unhappiness
+
+Russell identifies several psychological and societal factors contributing to unhappiness:
+
+-   **Self-Absorption:** People often focus too much on themselves, leading to unhappiness. Russell
+    categorizes these individuals as "sinners," "narcissists," and "megalomaniacs" [1][2].
+-   **Byronic Unhappiness:** This form of unhappiness is characterized by pride in one's discontent,
+    often seen in intellectuals who view happiness as superficial [1].
+-   **Competition:** The pursuit of success and societal approval can overshadow meaningful
+    relationships and personal contentment [1].
+-   **Boredom and Excitement:** Modern society's fear of boredom leads to a constant pursuit of
+    excitement, which can prevent deeper satisfaction and intellectual achievement [1].
+-   **Fatigue:** Mental exhaustion, rather than physical, is a significant cause of unhappiness.
+    Russell suggests that perspective shifts can alleviate this [1].
+-   **Envy:** Comparing oneself to others leads to discontent. Russell advises focusing on personal
+    happiness to mitigate envy [2].
+-   **Fear of Public Opinion:** Concern over others' opinions stifles individuality and happiness
+    [2].
+
+#### Causes of Happiness
+
+Russell also explores what contributes to happiness:
+
+-   **Zest for Life:** Engaging with life and intellectual pursuits unrelated to oneself fosters
+    happiness [1].
+-   **Affection and Family:** Strong relationships and family bonds are crucial for happiness [2].
+-   **Work and Impersonal Interests:** Finding satisfaction in work and developing interests outside
+    oneself contribute to a fulfilling life [2].
+-   **Effort and Resignation:** Accepting life's challenges and putting in effort towards meaningful
+    goals lead to happiness [2].
+
+#### Key Insights
+
+-   **Engagement with Life:** Russell emphasizes the importance of engaging with the world actively,
+    rather than retreating into self-absorption or despair [1].
+-   **Perspective on Misfortune:** He suggests that facing the worst possible outcomes and realizing
+    their lack of cosmic importance can reduce anxiety and worry [1].
+-   **Balance of Monotony and Excitement:** A balance between monotony and excitement is necessary
+    for intellectual and personal growth [1].
+
+#### Conclusion
+
+"The Conquest of Happiness" remains relevant today as it addresses timeless issues of human
+discontent and the pursuit of joy. Russell's practical insights encourage readers to engage with
+life, prioritize personal happiness over societal expectations, and find contentment in simplicity
+and meaningful relationships.
+
 ## William David Ross (1877-1971)
 
 ### The Right and the Good
@@ -4053,6 +4160,63 @@ rebellion and revolution and to recognize the importance of individual freedom a
 Through rebellion, individuals affirm their existence and contribute to the ongoing struggle for
 justice and a better world.
 
+## David Bohm (1917-1992)
+
+### Wholeness and the Implicate Order
+
+David Bohm's "Wholeness and the Implicate Order" is a profound exploration of the nature of reality
+and consciousness. Published in 1980, the book introduces Bohm's concepts of undivided wholeness and
+the implicate and explicate orders, which challenge traditional scientific and philosophical views.
+
+#### Key Concepts
+
+1. **Implicate and Explicate Orders**:
+
+    - **Implicate Order**: This is the underlying reality where everything is interconnected. It is
+      a hidden, enfolded order that gives rise to the visible, tangible world.
+    - **Explicate Order**: This is the unfolded, manifest reality that we perceive with our senses.
+      It emerges from the implicate order.
+
+2. **Holomovement**:
+
+    - Bohm introduces the idea of the "holomovement," a dynamic process that carries the implicate
+      order. It represents the unbroken wholeness of the universe, where everything is in constant
+      flux and interconnected.
+
+3. **Rheomode**:
+
+    - Bohm proposes a new language, the "rheomode," based on verbs rather than nouns, to better
+      express the fluid and dynamic nature of reality.
+
+4. **Consciousness and Reality**:
+
+    - Bohm argues that consciousness and reality are not separate but are part of a continuous
+      process of enfoldment and unfoldment. He suggests that our worldview should integrate these
+      aspects to achieve a coherent understanding of the universe.
+
+5. **Cosmic Intelligence**:
+    - The book posits the existence of a cosmic intelligence that guides the unfolding of the
+      implicate order. This intelligence is seen as a fundamental aspect of the universe,
+      contributing to its ongoing evolution and creativity.
+
+#### Implications
+
+-   Bohm's ideas challenge the reductionist view of science, which tends to analyze the world in
+    isolated parts. Instead, he advocates for a holistic approach that recognizes the
+    interconnectedness of all things.
+-   The book suggests that our perception of reality is limited and that a deeper understanding
+    requires acknowledging the implicate order's role in shaping the explicate world.
+-   Bohm's work has influenced various fields, including physics, philosophy, and cognitive science,
+    by providing a framework for understanding the complex relationship between mind and matter.
+
+#### Conclusion
+
+"Wholeness and the Implicate Order" invites readers to reconsider their understanding of reality and
+consciousness. Bohm's vision of an interconnected universe, where the implicate order underlies all
+phenomena, offers a compelling alternative to traditional scientific paradigms. His emphasis on
+wholeness and the dynamic nature of reality continues to inspire discussions on the nature of
+existence and the potential for a more integrated worldview.
+
 ## John Rawls (1921-2002)
 
 ### A Theory of Justice
@@ -4109,10 +4273,6 @@ in discussions of political philosophy and justice.
 
 ### Others
 
--   Bertrand Russell - The Conquest of Happiness (1920)
--   Cicero - On Duties (44 BC)
--   Daniel Kahneman - Thinking: Fast and Slow (2011)
--   David Bohm - Wholeness and the Implicate Order (1980)
 -   Hannah Arendt - The Human Condition (1958)
 -   Harry Frankfurt - On Bullshit (2005)
 -   Heraclitus - Fragments (6th century)
