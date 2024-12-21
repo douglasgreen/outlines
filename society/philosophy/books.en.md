@@ -1213,7 +1213,7 @@ thinkers in both the Islamic world and the West.
 
 ## Anselm of Canterbury (1033-1109)
 
-### "Monologion"
+### "Monologion" (1075-1076)
 
 **Monologion** is a theological treatise by Saint Anselm of Canterbury, written around 1075-1076. It
 was originally titled "A Monologue on the Reason for Faith" and aims to demonstrate the existence
@@ -1230,7 +1230,7 @@ and attributes of God using reason alone, rather than relying on religious belie
     be a highest good, which is God. He also argues that all existing things must exist through some
     one thing, which is God, who exists through Himself and is supreme among all existing things.
 
-### "Proslogion"
+### "Proslogion" (1077-1078)
 
 **Proslogion**, written shortly after the Monologion around 1077-1078, is another theological work
 by Anselm. It is best known for introducing the "ontological argument" for the existence of God.
@@ -1254,7 +1254,7 @@ divine nature, aiming to provide a rational basis for faith.
 
 ## Averroes (1126-1198)
 
-### "The Incoherence of the Incoherence"
+### "The Incoherence of the Incoherence" (1180)
 
 "The Incoherence of the Incoherence" (Arabic: تهافت التهافت, Tahāfut al-Tahāfut) is a significant
 philosophical work by the Andalusian Muslim polymath and philosopher Ibn Rushd, also known as
@@ -1287,7 +1287,7 @@ philosophical movement that emphasized the compatibility of faith and reason.
 
 ## Thomas Aquinas (1225-1274)
 
-### "Summa Theologica"
+### "Summa Theologica" (1265–1274)
 
 The "Summa Theologica," also known as "Summa Theologiae," is the principal work of Saint Thomas
 Aquinas, an influential medieval theologian and philosopher. Written between 1265 and 1273, it
@@ -1345,7 +1345,7 @@ studied for its profound insights into the relationship between faith and reason
 
 ## William of Ockham (1287-1347)
 
-### "Summa Logicae"
+### "Summa Logicae" (1323)
 
 **Summa Logicae** by William of Ockham is a significant work in the field of logic, written between
 1323 and 1326. It is structured into three main parts, reflecting Aristotle's three functions of
@@ -1385,7 +1385,7 @@ influential in discussions of logic, language, and metaphysics.
 
 ## Niccolò Machiavelli (1469-1527)
 
-### "The Prince"
+### "The Prince" (1532)
 
 "The Prince" is a political treatise by Niccolò Machiavelli, written in 1513 and published
 posthumously in 1532. It serves as a guide for rulers on how to acquire, maintain, and consolidate
@@ -1430,9 +1430,33 @@ Overall, "The Prince" is a foundational text in political philosophy, known for 
 sometimes controversial advice on leadership and governance. It has influenced political thought for
 centuries and remains a subject of study and debate.
 
+## Michel de Montaigne (1533-1592)
+
+### "Essays" (1580)
+
+Michel de Montaigne's "Essays," first published in 1580, is a seminal work in the genre of essay writing. The collection consists of three books and 107 chapters, each varying in length and covering a wide range of topics. Montaigne's primary aim was to explore and record his own thoughts and character with honesty and introspection. His essays are known for their conversational style, blending a rich vocabulary with popular sayings and local slang, and often include quotations from classical texts [1].
+
+#### Key Themes and Style
+
+- **Introspection and Skepticism**: Montaigne's essays are deeply introspective, reflecting on human nature, knowledge, and the limitations of human understanding. He embraced philosophical skepticism, particularly Pyrrhonism, which questions the certainty of knowledge. This skepticism is evident in his famous motto, "What do I know?" [1][3].
+
+- **Diversity of Topics**: The essays cover a broad spectrum of subjects, from profound philosophical inquiries to everyday observations. Titles range from "Of Sadness and Sorrow" to "Of Smells," illustrating his wide-ranging curiosity [1].
+
+- **Cultural Relativism**: Montaigne was ahead of his time in his views on cultural relativism. He expressed admiration for the indigenous peoples of the New World, whom he considered more faithful to their nature than Europeans, whom he criticized for their barbarity in conquests and internal conflicts [4].
+
+- **Philosophy of Free Judgment**: Montaigne advocated for a philosophy based on free judgment rather than adherence to dogmatic principles. He believed in the importance of personal experience and independent thought over rote learning and uncritical acceptance of knowledge [3][4].
+
+#### Influence and Legacy
+
+Montaigne's essays have had a lasting impact on both French and English literature, influencing writers like William Shakespeare. His work is considered a cornerstone of modern skepticism and humanism, emphasizing the importance of self-reflection and the acceptance of human limitations [1][3].
+
+#### Conclusion
+
+Montaigne's "Essays" remain a significant contribution to literature and philosophy, offering insights into the human condition through a blend of personal reflection, skepticism, and cultural critique. His work encourages readers to embrace their own thoughts and experiences, fostering a philosophy of authenticity and tolerance.
+
 ## Francis Bacon (1561-1626)
 
-### "Novum Organum"
+### "Novum Organum" (1620)
 
 **Novum Organum** by Francis Bacon is a foundational philosophical work published in 1620. It is
 part of Bacon's larger, unfinished project called the _Instauratio Magna_ or "Great Instauration,"
@@ -1482,7 +1506,7 @@ and philosophy.
 
 ## Thomas Hobbes (1588-1679)
 
-### "Leviathan"
+### "Leviathan" (1651)
 
 "Leviathan," written by Thomas Hobbes and first published in 1651, is a foundational text in
 political philosophy. It explores the structure of society and legitimate government, advocating for
@@ -1532,7 +1556,7 @@ government.
 
 ## René Descartes (1596-1650)
 
-### "Meditations on First Philosophy"
+### "Meditations on First Philosophy" (1641)
 
 "**Meditations on First Philosophy**" is a foundational philosophical text by René Descartes,
 published in 1641. It is structured as a series of six meditations, where Descartes embarks on a
@@ -1582,7 +1606,7 @@ in particular, remains a central topic in the philosophy of mind.
 
 ## Blaise Pascal (1623-1662)
 
-### "Pensées"
+### "Pensées" (1670)
 
 **Pensées** by Blaise Pascal is a collection of reflections on human nature, religion, and
 philosophy. It consists of nearly 1000 notes and manuscript fragments that were intended for a
@@ -1639,7 +1663,7 @@ unfinished state, it remains a significant work in both religious and philosophi
 
 ## Baruch Spinoza (1632-1677)
 
-### "Ethics"
+### "Ethics" (1677)
 
 "Ethics," written by Baruch Spinoza and published posthumously in 1677, is a philosophical treatise
 that applies a geometrical method to philosophy, similar to Euclid's approach in mathematics.
@@ -1693,7 +1717,7 @@ understanding of the universe and human existence.
 
 ## John Locke (1632-1704)
 
-### "An Essay Concerning Human Understanding"
+### "An Essay Concerning Human Understanding" (1689)
 
 **An Essay Concerning Human Understanding** by John Locke is a foundational work in the field of
 epistemology, exploring the nature, origins, and limits of human knowledge. Published in 1689, it is
@@ -1756,67 +1780,9 @@ emphasizing the role of sensory experience, Locke championed a rational and scie
 understanding human knowledge. His exploration of language, personal identity, and the limits of
 knowledge continues to be relevant in contemporary philosophical discussions.
 
-### "Second Treatise of Government"
-
-John Locke's "Second Treatise of Government" is a foundational text in political philosophy,
-particularly influential in the development of modern democratic thought. Here are the key points
-from the treatise:
-
-1. **State of Nature**:
-
-    - Locke begins by describing the state of nature as a state of perfect freedom and equality,
-      where individuals are free to act and dispose of their possessions as they see fit, within the
-      bounds of natural law.
-    - In this state, no one has power over another, and all are equal, with the law of nature
-      guiding their actions.
-
-2. **Natural Law and Rights**:
-
-    - Natural law, according to Locke, is a moral code that obliges individuals to respect others'
-      rights to life, liberty, and property.
-    - This law is discoverable through reason and dictates that individuals should not harm others
-      in their life, health, liberty, or possessions.
-
-3. **Social Contract**:
-
-    - Locke argues that individuals consent to form a government to protect their natural rights
-      better.
-    - This social contract involves individuals giving up some of their freedoms and submitting to
-      the authority of a government in exchange for protection of their remaining rights.
-
-4. **Government and Separation of Powers**:
-
-    - Locke emphasizes the importance of a government with separated powers: legislative, executive,
-      and judicial.
-    - The legislative power is central but must operate within the bounds of natural law and cannot
-      arbitrarily infringe on individuals' rights.
-
-5. **Right to Revolution**:
-
-    - If a government fails to protect the natural rights of its citizens or acts against their
-      interests, Locke asserts that the people have the right to revolt and establish a new
-      government.
-    - This idea was particularly influential in the American and French revolutions.
-
-6. **Property**:
-
-    - Locke discusses property as a natural right derived from labor. Individuals have the right to
-      own property by mixing their labor with resources from nature.
-    - The protection of property is one of the primary reasons for establishing a government.
-
-7. **Influence**:
-    - Locke's ideas on government, natural rights, and the social contract significantly influenced
-      the U.S. Declaration of Independence and the Constitution.
-    - His work laid the groundwork for modern liberal democracy and the emphasis on individual
-      rights and government by consent.
-
-Locke's "Second Treatise" remains a critical text for understanding the principles of modern
-political systems, emphasizing individual rights, the rule of law, and the importance of a
-government that derives its authority from the consent of the governed.
-
 ## Wilhelm Leibniz (1646-1716)
 
-### "Theodicy"
+### "Theodicy" (1710)
 
 Gottfried Wilhelm Leibniz's "Theodicy," published in 1710, is a philosophical work that addresses
 the problem of evil in the world. Leibniz's theodicy is an attempt to reconcile the existence of
@@ -1866,7 +1832,7 @@ considerations, emphasizing the role of free will and the necessity of evil for 
 
 ## George Berkeley (1685-1753)
 
-### "Three Dialogues between Hylas and Philonous"
+### "Three Dialogues between Hylas and Philonous" (1713)
 
 "Three Dialogues between Hylas and Philonous" is a philosophical work by George Berkeley, published
 in 1713. The book is structured as a series of dialogues between two characters: Hylas, who
@@ -1914,7 +1880,40 @@ explore the profound implications of a reality constructed by ideas rather than 
 
 ## David Hume (1711-1776)
 
-### "An Enquiry Concerning the Principles of Morals"
+### "A Treatise of Human Nature" (1739-1740)
+
+"A Treatise of Human Nature," written by Scottish philosopher David Hume, was published between 1739
+and 1740. It is considered one of Hume's most important works and a foundational text in the history
+of philosophy. The treatise is a classic statement of philosophical empiricism, skepticism, and
+naturalism. Hume aimed to apply the experimental method of reasoning, inspired by Isaac Newton's
+success in the physical sciences, to the study of human psychology. His goal was to explore the
+"extent and force of human understanding" through empirical investigation into human nature.
+
+#### Key Themes and Ideas
+
+1. **Empiricism and Human Understanding**: Hume argues that human knowledge is based on direct
+   experience and observation, a philosophy known as empiricism. He challenges the rationalist view
+   that reason is the primary driver of human behavior, asserting instead that emotions and passions
+   play a central role.
+
+2. **Problem of Induction**: Hume introduces the famous problem of induction, questioning the
+   justification of inductive reasoning and our beliefs in cause and effect. He suggests that our
+   faith in induction is a result of mental habits and customs rather than rational justification.
+
+3. **Moral Sentimentalism**: Hume defends a sentimentalist account of morality, arguing that ethics
+   is based on sentiment and the passions rather than reason. He famously states that "reason is,
+   and ought only to be the slave to the passions."
+
+4. **Personal Identity and Free Will**: Hume offers a skeptical theory of personal identity,
+   questioning the existence of a permanent self. He also presents a compatibilist account of free
+   will, suggesting that free will is compatible with determinism.
+
+5. **Natural Virtues and Sympathy**: In his examination of virtues, Hume argues that moral
+   evaluations are best explained through sympathy. He posits that the beauty and moral value we
+   find in virtues stem from our sympathetic responses to the pleasure or utility they provide to
+   others.
+
+### "An Enquiry Concerning the Principles of Morals" (1751)
 
 "An Enquiry Concerning the Principles of Morals" is a philosophical work by David Hume, published
 in 1751. It is often referred to as "the second Enquiry" and follows Hume's earlier work, "An
@@ -1952,40 +1951,7 @@ Overall, Hume's work provides a naturalistic account of morality, focusing on hu
 the social context in which moral judgments are made. His emphasis on sentiment over reason and his
 classification of virtues have been influential in the development of moral philosophy.
 
-### "A Treatise of Human Nature"
-
-"A Treatise of Human Nature," written by Scottish philosopher David Hume, was published between 1739
-and 1740. It is considered one of Hume's most important works and a foundational text in the history
-of philosophy. The treatise is a classic statement of philosophical empiricism, skepticism, and
-naturalism. Hume aimed to apply the experimental method of reasoning, inspired by Isaac Newton's
-success in the physical sciences, to the study of human psychology. His goal was to explore the
-"extent and force of human understanding" through empirical investigation into human nature.
-
-#### Key Themes and Ideas
-
-1. **Empiricism and Human Understanding**: Hume argues that human knowledge is based on direct
-   experience and observation, a philosophy known as empiricism. He challenges the rationalist view
-   that reason is the primary driver of human behavior, asserting instead that emotions and passions
-   play a central role.
-
-2. **Problem of Induction**: Hume introduces the famous problem of induction, questioning the
-   justification of inductive reasoning and our beliefs in cause and effect. He suggests that our
-   faith in induction is a result of mental habits and customs rather than rational justification.
-
-3. **Moral Sentimentalism**: Hume defends a sentimentalist account of morality, arguing that ethics
-   is based on sentiment and the passions rather than reason. He famously states that "reason is,
-   and ought only to be the slave to the passions."
-
-4. **Personal Identity and Free Will**: Hume offers a skeptical theory of personal identity,
-   questioning the existence of a permanent self. He also presents a compatibilist account of free
-   will, suggesting that free will is compatible with determinism.
-
-5. **Natural Virtues and Sympathy**: In his examination of virtues, Hume argues that moral
-   evaluations are best explained through sympathy. He posits that the beauty and moral value we
-   find in virtues stem from our sympathetic responses to the pleasure or utility they provide to
-   others.
-
-### "Dialogues Concerning Natural Religion"
+### "Dialogues Concerning Natural Religion" (1779)
 
 "Dialogues Concerning Natural Religion" is a philosophical work by David Hume, published
 posthumously in 1779. The book is structured as a dialogue among three characters: Demea, Philo, and
@@ -2051,7 +2017,7 @@ in philosophical circles today.
 
 ## Jean-Jacques Rousseau (1712-1778)
 
-### "The Social Contract"
+### "The Social Contract" (1762)
 
 Jean-Jacques Rousseau's "The Social Contract," published in 1762, is a foundational work in
 political philosophy that explores the relationship between individuals and the state. Rousseau
@@ -2099,7 +2065,7 @@ ideas have had a lasting impact on political thought, influencing democratic the
 
 ## Immanuel Kant (1724-1804)
 
-### "Critique of Pure Reason"
+### "Critique of Pure Reason" (1781)
 
 Immanuel Kant's "Critique of Pure Reason" is a foundational philosophical work that seeks to explore
 the limits and capabilities of human reason, particularly in relation to metaphysics. Published in
@@ -2155,7 +2121,7 @@ Kant's work remains a critical reference point for discussions on epistemology, 
 philosophy of science, emphasizing the importance of critical examination of the faculties of
 reason.
 
-### "Foundations of the Metaphysics of Morals"
+### "Foundations of the Metaphysics of Morals" (1785)
 
 "Foundations of the Metaphysics of Morals," also known as "Groundwork of the Metaphysics of Morals,"
 is a foundational text in moral philosophy by Immanuel Kant, published in 1785. It is the first of
@@ -2206,7 +2172,7 @@ reference in moral philosophy.
 
 ## Thomas Paine (1737-1809)
 
-### "The Age of Reason"
+### "The Age of Reason" (1794-1807)
 
 "The Age of Reason" is a work by Thomas Paine that advocates for Deism and critiques
 institutionalized religion, particularly Christianity and Judaism. It was published in three parts
@@ -2261,7 +2227,7 @@ rational approach to understanding God and critiquing the power and influence of
 
 ## Jeremy Bentham (1748-1832)
 
-### "An Introduction to the Principles of Morals and Legislation"
+### "An Introduction to the Principles of Morals and Legislation" (1789)
 
 Jeremy Bentham's "An Introduction to the Principles of Morals and Legislation," first published in
 1789, is a foundational text in the field of utilitarian ethics. Bentham, an English philosopher and
@@ -2313,7 +2279,7 @@ moral and legal philosophy.
 
 ## Georg Wilhelm Friedric Hegel (1770-1831)
 
-### "Phenomenology of Spirit"
+### "Phenomenology of Spirit" (1807)
 
 "Phenomenology of Spirit" is a seminal philosophical work by Georg Wilhelm Friedrich Hegel,
 published in 1807. It is a complex exploration of the development of human consciousness and
@@ -2364,7 +2330,7 @@ The book is divided into several sections, each exploring different stages of co
 and provoke debate among scholars. Its exploration of consciousness, knowledge, and the development
 of Spirit offers profound insights into the nature of human experience and the unfolding of history.
 
-### "The Philosophy of History"
+### "Lectures on the Philosophy of History" (1837)
 
 Hegel's "The Philosophy of History" is a profound exploration of the development of human history
 through a dialectical process. Here are the key points:
@@ -2404,7 +2370,7 @@ and freedom.
 
 ## Arthur Schopenhauer (1788-1860)
 
-### "The World as Will and Representation"
+### "The World as Will and Representation" (1818)
 
 "The World as Will and Representation" (also known as "The World as Will and Idea") is a seminal
 work by German philosopher Arthur Schopenhauer, first published in 1818. It is considered the
@@ -2454,7 +2420,7 @@ lasting impact on philosophical thought.
 
 ## John Stuart Mill (1806-1873)
 
-### "On Liberty"
+### "On Liberty" (1859)
 
 John Stuart Mill's "On Liberty," published in 1859, is a foundational text in the philosophy of
 liberalism. The essay explores the nature and limits of the power that society can legitimately
@@ -2518,53 +2484,7 @@ utilitarianism, the essay continues to be a cornerstone of discussions on libert
 
 ## Søren Kierkegaard (1813-1855)
 
-### "Concluding Unscientific Postscript"
-
-"Concluding Unscientific Postscript to the Philosophical Fragments" is a significant philosophical
-work by Søren Kierkegaard, published in 1846. It serves as a sequel to his earlier work,
-"Philosophical Fragments," and is known for its substantial length and depth compared to its
-predecessor. The work is written under the pseudonym Johannes Climacus, with Kierkegaard listed as
-the editor, highlighting its importance in his body of work.
-
-#### Key Themes and Concepts
-
--   **Subjectivity vs. Objectivity**: Kierkegaard challenges the rationalistic philosophy of Hegel,
-    which posits that "the rational alone is real." He argues instead that "truth is subjective,"
-    meaning that truth is not an external, objective reality but something that must be lived and
-    experienced by the individual. This subjective truth is central to human existence and personal
-    faith.
-
--   **Critique of Hegelianism**: Kierkegaard critiques Hegel's deterministic philosophy, which he
-    believes undermines individual freedom and personal faith. He argues that Hegelianism's focus on
-    objective truth and impersonal forces detracts from the meaningful, passionate engagement with
-    life and faith.
-
--   **Faith and Christianity**: The work explores the nature of Christian faith, emphasizing that it
-    cannot be fully understood or embraced through objective historical or philosophical inquiry.
-    Instead, faith requires a subjective approach, where the individual passionately engages with
-    the truth of Christianity on a personal level.
-
--   **Philosophical Methodology**: Kierkegaard employs irony, satire, and indirect communication to
-    convey his ideas. He uses the persona of Johannes Climacus to explore the limitations of
-    objective knowledge and the necessity of a subjective approach to understanding existential and
-    spiritual matters.
-
-#### Structure and Style
-
-The "Postscript" is divided into two main parts, with the first part addressing the "objective
-problem" of Christianity and the second part focusing on subjective truth. The work is known for its
-complex structure, extensive length, and unorthodox presentation, which is characteristic of
-Kierkegaard's writing style.
-
-#### Conclusion
-
-Kierkegaard's "Concluding Unscientific Postscript" is a foundational text in existential philosophy,
-emphasizing the importance of subjective experience and personal faith. It critiques the limitations
-of objective, rationalistic approaches to truth and highlights the necessity of individual
-engagement with existential questions. Through this work, Kierkegaard seeks to redefine how
-individuals relate to truth, particularly in the context of religious belief.
-
-### "Philosophical Fragments"
+### "Philosophical Fragments" (1844)
 
 **Philosophical Fragments** by Søren Kierkegaard, written under the pseudonym Johannes Climacus, is
 a profound exploration of existential thought, focusing on the nature of truth and human
@@ -2616,9 +2536,55 @@ necessity of the leap of faith highlights the tension between human reason and s
 Through this work, Kierkegaard invites readers to engage deeply with existential questions and the
 transformative power of faith.
 
-## Karl Marx (1818-1883) and Friedrich Engels (1820-1895)
+### "Concluding Unscientific Postscript" (1846)
 
-### "The Communist Manifesto"
+"Concluding Unscientific Postscript to the Philosophical Fragments" is a significant philosophical
+work by Søren Kierkegaard, published in 1846. It serves as a sequel to his earlier work,
+"Philosophical Fragments," and is known for its substantial length and depth compared to its
+predecessor. The work is written under the pseudonym Johannes Climacus, with Kierkegaard listed as
+the editor, highlighting its importance in his body of work.
+
+#### Key Themes and Concepts
+
+-   **Subjectivity vs. Objectivity**: Kierkegaard challenges the rationalistic philosophy of Hegel,
+    which posits that "the rational alone is real." He argues instead that "truth is subjective,"
+    meaning that truth is not an external, objective reality but something that must be lived and
+    experienced by the individual. This subjective truth is central to human existence and personal
+    faith.
+
+-   **Critique of Hegelianism**: Kierkegaard critiques Hegel's deterministic philosophy, which he
+    believes undermines individual freedom and personal faith. He argues that Hegelianism's focus on
+    objective truth and impersonal forces detracts from the meaningful, passionate engagement with
+    life and faith.
+
+-   **Faith and Christianity**: The work explores the nature of Christian faith, emphasizing that it
+    cannot be fully understood or embraced through objective historical or philosophical inquiry.
+    Instead, faith requires a subjective approach, where the individual passionately engages with
+    the truth of Christianity on a personal level.
+
+-   **Philosophical Methodology**: Kierkegaard employs irony, satire, and indirect communication to
+    convey his ideas. He uses the persona of Johannes Climacus to explore the limitations of
+    objective knowledge and the necessity of a subjective approach to understanding existential and
+    spiritual matters.
+
+#### Structure and Style
+
+The "Postscript" is divided into two main parts, with the first part addressing the "objective
+problem" of Christianity and the second part focusing on subjective truth. The work is known for its
+complex structure, extensive length, and unorthodox presentation, which is characteristic of
+Kierkegaard's writing style.
+
+#### Conclusion
+
+Kierkegaard's "Concluding Unscientific Postscript" is a foundational text in existential philosophy,
+emphasizing the importance of subjective experience and personal faith. It critiques the limitations
+of objective, rationalistic approaches to truth and highlights the necessity of individual
+engagement with existential questions. Through this work, Kierkegaard seeks to redefine how
+individuals relate to truth, particularly in the context of religious belief.
+
+## Karl Marx (1818-1883)
+
+### "The Communist Manifesto" (1848)
 
 "The Communist Manifesto," written by Karl Marx and Friedrich Engels in 1848, is a political
 pamphlet that serves as a foundational text for the communist movement. It was commissioned by the
@@ -2674,7 +2640,7 @@ systemic change.
 
 ## Henry Sidgwick (1838-1900)
 
-### "The Methods of Ethics"
+### "The Methods of Ethics" (1874)
 
 "The Methods of Ethics," published in 1874 by Henry Sidgwick, is a seminal work in the field of
 ethical philosophy. It is considered a culmination of the classical utilitarian tradition and is
@@ -2722,7 +2688,7 @@ relevant in contemporary discussions of moral philosophy.
 
 ## Charles Sanders Peirce (1839-1914)
 
-### "Collected Papers"
+### "Collected Papers" (1931-1935; 1958)
 
 The "Collected Papers of Charles Sanders Peirce" is a comprehensive collection of the writings of
 Charles Sanders Peirce, a prominent American philosopher, logician, and scientist. The collection is
@@ -2775,7 +2741,41 @@ detailed look at Peirce's intellectual legacy and his influence on modern though
 
 ## William James (1842-1910)
 
-### "Pragmatism"
+### "The Will to Believe, and Other Essays in Popular Philosophy" (1897)
+
+"The Will to Believe" is a lecture by William James, first published in 1896, which argues for the
+rationality of adopting beliefs without prior evidence, particularly in the context of religious
+faith. James defends the idea that it can be rational to hold certain beliefs even in the absence of
+evidence, especially when the belief itself might lead to the evidence or when the belief is
+self-fulfilling.
+
+#### Key Points
+
+-   **Justification of Faith**: James presents his lecture as a defense of the right to adopt a
+    believing attitude in religious matters, even when logical evidence is lacking. He argues that
+    faith can be justified in certain situations where evidence is not available beforehand.
+
+-   **Hypothesis Venturing and Self-Fulfilling Beliefs**: James introduces the concept of
+    "hypothesis venturing," where evidence for a belief becomes available only after the belief is
+    adopted. He also discusses "self-fulfilling beliefs," where the act of believing makes the
+    belief true. These concepts are used to justify beliefs in areas like free will, God, and
+    immortality.
+
+-   **Critique of Evidentialism**: James challenges the evidentialist position, notably argued by
+    William K. Clifford, which holds that beliefs should only be adopted based on sufficient
+    evidence. James argues that non-intellectual factors, such as emotions and passions, play a role
+    in belief formation and that it is sometimes rational to believe without evidence.
+
+-   **Religious Belief and Community**: James suggests that the truth of religious beliefs can
+    depend on the existence of a community of believers. He argues that evidence for religious
+    beliefs can emerge from the success or failure of these communities.
+
+-   **Criticism and Influence**: James' ideas were met with criticism from contemporaries like
+    Alfred Henry Lloyd and Charles Sanders Peirce, who argued for the importance of doubt and
+    criticized the blending of pragmatism with notions like the mutability of truth. Despite this,
+    James' work influenced later thinkers and was extended by his protégé F. C. S. Schiller.
+
+### "Pragmatism: A New Name for Some Old Ways of Thinking" (1907)
 
 William James's "Pragmatism: A New Name for Some Old Ways of Thinking" is a seminal philosophical
 work that articulates the principles of pragmatism, a philosophy that evaluates ideas based on their
@@ -2818,40 +2818,6 @@ verification. It remains influential for its innovative approach to resolving ph
 and its integration of empirical and moral considerations. Pragmatism, as articulated by James,
 continues to be a relevant and adaptable philosophy for addressing contemporary issues.
 
-### "The Will to Believe"
-
-"The Will to Believe" is a lecture by William James, first published in 1896, which argues for the
-rationality of adopting beliefs without prior evidence, particularly in the context of religious
-faith. James defends the idea that it can be rational to hold certain beliefs even in the absence of
-evidence, especially when the belief itself might lead to the evidence or when the belief is
-self-fulfilling.
-
-#### Key Points
-
--   **Justification of Faith**: James presents his lecture as a defense of the right to adopt a
-    believing attitude in religious matters, even when logical evidence is lacking. He argues that
-    faith can be justified in certain situations where evidence is not available beforehand.
-
--   **Hypothesis Venturing and Self-Fulfilling Beliefs**: James introduces the concept of
-    "hypothesis venturing," where evidence for a belief becomes available only after the belief is
-    adopted. He also discusses "self-fulfilling beliefs," where the act of believing makes the
-    belief true. These concepts are used to justify beliefs in areas like free will, God, and
-    immortality.
-
--   **Critique of Evidentialism**: James challenges the evidentialist position, notably argued by
-    William K. Clifford, which holds that beliefs should only be adopted based on sufficient
-    evidence. James argues that non-intellectual factors, such as emotions and passions, play a role
-    in belief formation and that it is sometimes rational to believe without evidence.
-
--   **Religious Belief and Community**: James suggests that the truth of religious beliefs can
-    depend on the existence of a community of believers. He argues that evidence for religious
-    beliefs can emerge from the success or failure of these communities.
-
--   **Criticism and Influence**: James' ideas were met with criticism from contemporaries like
-    Alfred Henry Lloyd and Charles Sanders Peirce, who argued for the importance of doubt and
-    criticized the blending of pragmatism with notions like the mutability of truth. Despite this,
-    James' work influenced later thinkers and was extended by his protégé F. C. S. Schiller.
-
 #### Conclusion
 
 William James' "The Will to Believe" is a significant philosophical work that defends the
@@ -2861,51 +2827,7 @@ ideas continue to be relevant in discussions about faith, evidence, and the phil
 
 ## Friedrich Nietzsche (1844-1900)
 
-### "Beyond Good and Evil"
-
-"Beyond Good and Evil" is a philosophical work by Friedrich Nietzsche that critiques traditional
-moral philosophy. Nietzsche argues that conventional morality, particularly as influenced by
-philosophers like Plato, is biased and reflects personal experiences rather than objective truths.
-He suggests that these moral systems have hindered philosophy from being honest about human nature.
-
-Key points from the book include:
-
--   **Critique of Dogmatism**: Nietzsche criticizes past philosophers for being dogmatic and for
-    creating moral systems that deny individual perspectives. He specifically targets Plato for
-    introducing the concept of "the good," which has been perpetuated through Christianity and the
-    Enlightenment.
-
--   **Questioning Morality**: Nietzsche challenges the binary opposition of "good" and "evil,"
-    suggesting that both truth and untruth are essential for human life. He believes that philosophy
-    has often revealed more about the prejudices of philosophers than about truth itself.
-
--   **Will to Power**: Central to Nietzsche's philosophy is the concept of the "will to power,"
-    which he sees as the main drive of life. He argues that overcoming traditional morality is
-    necessary for becoming a "free spirit" and an honest philosopher.
-
--   **Religion and Morality**: Nietzsche examines the role of religion in shaping morals,
-    particularly criticizing Christianity for its origins in slave morality. He believes that
-    religion should be a tool rather than an absolute moral authority.
-
--   **Master and Slave Morality**: Nietzsche introduces the idea of "master morality" and "slave
-    morality." He associates master morality with the values of the noble class, while slave
-    morality is linked to Christianity and democracy, which he views as manifestations of the herd
-    mentality.
-
--   **Critique of Nationalism and Modernity**: Nietzsche critiques the rise of nationalism and the
-    herd mentality in modern Europe. He argues for a natural aristocracy and believes that great
-    efforts are needed to counteract the pull of herd moralities.
-
--   **Philosophers of the Future**: Nietzsche envisions a new kind of philosopher who will create
-    values and challenge the prevailing moral systems. He emphasizes the need for virtues that
-    reject pity and embrace a firm "order of rank" in society.
-
-In summary, "Beyond Good and Evil" is a profound critique of traditional moral values and an
-exploration of the potential for new philosophical perspectives that transcend conventional notions
-of good and evil. Nietzsche's work encourages a reevaluation of morality and the development of a
-more honest and individualistic approach to philosophy.
-
-### "Thus Spoke Zarathustra"
+### "Thus Spoke Zarathustra" (1883-1885)
 
 "Thus Spoke Zarathustra" is a philosophical novel by Friedrich Nietzsche, presented as a series of
 discourses by the protagonist, Zarathustra, who is modeled after the historical figure Zoroaster.
@@ -2975,9 +2897,53 @@ In summary, "Thus Spoke Zarathustra" is a profound exploration of Nietzsche's ph
 challenging readers to rethink traditional values and embrace a life of self-overcoming and
 creation.
 
+### "Beyond Good and Evil" (1886)
+
+"Beyond Good and Evil" is a philosophical work by Friedrich Nietzsche that critiques traditional
+moral philosophy. Nietzsche argues that conventional morality, particularly as influenced by
+philosophers like Plato, is biased and reflects personal experiences rather than objective truths.
+He suggests that these moral systems have hindered philosophy from being honest about human nature.
+
+Key points from the book include:
+
+-   **Critique of Dogmatism**: Nietzsche criticizes past philosophers for being dogmatic and for
+    creating moral systems that deny individual perspectives. He specifically targets Plato for
+    introducing the concept of "the good," which has been perpetuated through Christianity and the
+    Enlightenment.
+
+-   **Questioning Morality**: Nietzsche challenges the binary opposition of "good" and "evil,"
+    suggesting that both truth and untruth are essential for human life. He believes that philosophy
+    has often revealed more about the prejudices of philosophers than about truth itself.
+
+-   **Will to Power**: Central to Nietzsche's philosophy is the concept of the "will to power,"
+    which he sees as the main drive of life. He argues that overcoming traditional morality is
+    necessary for becoming a "free spirit" and an honest philosopher.
+
+-   **Religion and Morality**: Nietzsche examines the role of religion in shaping morals,
+    particularly criticizing Christianity for its origins in slave morality. He believes that
+    religion should be a tool rather than an absolute moral authority.
+
+-   **Master and Slave Morality**: Nietzsche introduces the idea of "master morality" and "slave
+    morality." He associates master morality with the values of the noble class, while slave
+    morality is linked to Christianity and democracy, which he views as manifestations of the herd
+    mentality.
+
+-   **Critique of Nationalism and Modernity**: Nietzsche critiques the rise of nationalism and the
+    herd mentality in modern Europe. He argues for a natural aristocracy and believes that great
+    efforts are needed to counteract the pull of herd moralities.
+
+-   **Philosophers of the Future**: Nietzsche envisions a new kind of philosopher who will create
+    values and challenge the prevailing moral systems. He emphasizes the need for virtues that
+    reject pity and embrace a firm "order of rank" in society.
+
+In summary, "Beyond Good and Evil" is a profound critique of traditional moral values and an
+exploration of the potential for new philosophical perspectives that transcend conventional notions
+of good and evil. Nietzsche's work encourages a reevaluation of morality and the development of a
+more honest and individualistic approach to philosophy.
+
 ## Josiah Royce (1855-1916)
 
-### "The World and the Individual"
+### "The World and the Individual" (1899, 1901)
 
 "The World and the Individual" is a philosophical work by Josiah Royce, an American philosopher
 known for his contributions to idealism. The book explores the relationship between finite
@@ -3024,7 +2990,7 @@ metaphysics, and the philosophy of religion.
 
 ## Edmund Husserl (1859-1938)
 
-### "Ideas: General Introduction to Pure Phenomenology"
+### "Ideas: General Introduction to Pure Phenomenology" (1913)
 
 Edmund Husserl's "Ideas: General Introduction to Pure Phenomenology" is a foundational text in the
 field of phenomenology, a major philosophical movement of the 20th century. Husserl is widely
@@ -3072,7 +3038,7 @@ phenomenology and its influence on modern philosophy.
 
 ## Henri Bergson (1859-1941)
 
-### "Creative Evolution"
+### "Creative Evolution" (1907)
 
 Henri Bergson's "Creative Evolution," published in 1907, is a philosophical exploration of the
 nature of life and evolution. Bergson challenges the mechanistic and deterministic views of
@@ -3122,7 +3088,7 @@ existence.
 
 ## John Dewey (1859-1952)
 
-### "Human Nature and Conduct"
+### "Human Nature and Conduct" (1922)
 
 John Dewey's "Human Nature and Conduct" is a philosophical exploration of ethics and human behavior
 that challenges traditional notions of fixed moral truths. Dewey argues against the idea of
@@ -3172,7 +3138,7 @@ context-dependent, and integrated with the broader human and natural world. His 
 encourages continuous reflection and adaptation in moral reasoning, aligning ethical inquiry with
 the dynamic nature of human life.
 
-### "The Quest for Certainty"
+### "The Quest for Certainty" (1929)
 
 John Dewey's "The Quest for Certainty" is a philosophical work that explores the human desire for
 certainty and the implications of this quest on knowledge and action. Dewey argues that the
@@ -3213,7 +3179,7 @@ philosophy.
 
 ## Alfred North Whitehead (1861-1947)
 
-### "Process and Reality"
+### "Process and Reality" (1929)
 
 "Process and Reality" is a seminal work by Alfred North Whitehead, published in 1929, which
 introduces his philosophy of organism, also known as process philosophy. This philosophy challenges
@@ -3264,9 +3230,9 @@ vision of the universe as a dynamic and interconnected web of processes. Whitehe
 organism provides a framework for understanding the continuous evolution of the cosmos, integrating
 scientific, philosophical, and theological insights into a cohesive metaphysical system.
 
-## George Edward Moore (1861-1947)
+## G. E. Moore (1861-1947)
 
-### "Principia Ethica"
+### "Principia Ethica" (1903)
 
 **Principia Ethica** by G. E. Moore is a seminal work in moral philosophy, published in 1903. It is
 renowned for its exploration of the concept of "good" and its critique of ethical naturalism. Here's
@@ -3329,7 +3295,7 @@ theory discussions.
 
 ## George Santayana (1863-1952)
 
-### "The Life of Reason"
+### "The Life of Reason" (1905-1906)
 
 "The Life of Reason" by George Santayana is a philosophical work published in five volumes between
 1905 and 1906. It is considered one of Santayana's most significant contributions to philosophy,
@@ -3370,7 +3336,7 @@ celebrated for its poetic and insightful prose.
 
 ## D.T. Suzuki (1870-1966)
 
-### "Zen Buddhism"
+### "Zen Buddhism" (1956)
 
 D.T. Suzuki was a pivotal figure in introducing Zen Buddhism to the Western world. His work
 emphasized the essence of Zen as a means to understand one's own being and to transition from
@@ -3411,49 +3377,7 @@ living, offering insights into the reconstruction of character and the pursuit o
 
 ## Bertrand Russell (1872-1970)
 
-### "An Inquiry into Meaning and Truth"
-
-"An Inquiry into Meaning and Truth" by Bertrand Russell is a philosophical exploration of the
-foundations of knowledge. Russell examines the relationship between language and the world, focusing
-on how understanding the structure of language can enhance our comprehension of the structure of
-reality.
-
-#### Key Themes
-
--   **Language and Knowledge:** Russell delves into how language serves as a medium for expressing
-    and understanding knowledge. He investigates the components of language, such as words,
-    sentences, syntax, and their roles in conveying meaning.
-
--   **Truth and Experience:** The book explores the connection between truth and human experience.
-    Russell discusses how experiences shape our understanding of truth and how language can describe
-    these experiences.
-
--   **Logical Analysis:** Russell applies logical analysis to dissect language and its components.
-    He examines logical words, proper names, and the significance of sentences, aiming to clarify
-    how language can accurately represent reality.
-
--   **Epistemological Foundations:** The work addresses epistemological questions, such as the
-    premises of knowledge and the nature of basic propositions. Russell seeks to establish a
-    foundation for understanding how we come to know and verify truths.
-
--   **Verification and Significance:** Russell discusses the concepts of truth and verification,
-    emphasizing the importance of warranted assertibility. He examines how statements can be
-    verified and the significance of language in expressing verifiable truths.
-
-#### Structure
-
-The book is divided into several parts, each focusing on different aspects of language and truth.
-These include discussions on the nature of words, sentences, perception, epistemological premises,
-and the analysis of propositions.
-
-#### Conclusion
-
-Russell's work is a profound investigation into the nature of knowledge and truth, characterized by
-its logical rigor and philosophical depth. It challenges readers to consider the intricate
-relationship between language, experience, and reality, offering insights into how we understand and
-articulate the world around us.
-
-### "The Conquest of Happiness"
+### "The Conquest of Happiness" (1930)
 
 "The Conquest of Happiness," written by Bertrand Russell in 1930, is a philosophical exploration of
 the causes of unhappiness and the pursuit of happiness in modern life. Russell, a prominent British
@@ -3506,9 +3430,51 @@ discontent and the pursuit of joy. Russell's practical insights encourage reader
 life, prioritize personal happiness over societal expectations, and find contentment in simplicity
 and meaningful relationships.
 
-## William David Ross (1877-1971)
+### "An Inquiry into Meaning and Truth" (1940)
 
-### "The Right and the Good"
+"An Inquiry into Meaning and Truth" by Bertrand Russell is a philosophical exploration of the
+foundations of knowledge. Russell examines the relationship between language and the world, focusing
+on how understanding the structure of language can enhance our comprehension of the structure of
+reality.
+
+#### Key Themes
+
+-   **Language and Knowledge:** Russell delves into how language serves as a medium for expressing
+    and understanding knowledge. He investigates the components of language, such as words,
+    sentences, syntax, and their roles in conveying meaning.
+
+-   **Truth and Experience:** The book explores the connection between truth and human experience.
+    Russell discusses how experiences shape our understanding of truth and how language can describe
+    these experiences.
+
+-   **Logical Analysis:** Russell applies logical analysis to dissect language and its components.
+    He examines logical words, proper names, and the significance of sentences, aiming to clarify
+    how language can accurately represent reality.
+
+-   **Epistemological Foundations:** The work addresses epistemological questions, such as the
+    premises of knowledge and the nature of basic propositions. Russell seeks to establish a
+    foundation for understanding how we come to know and verify truths.
+
+-   **Verification and Significance:** Russell discusses the concepts of truth and verification,
+    emphasizing the importance of warranted assertibility. He examines how statements can be
+    verified and the significance of language in expressing verifiable truths.
+
+#### Structure
+
+The book is divided into several parts, each focusing on different aspects of language and truth.
+These include discussions on the nature of words, sentences, perception, epistemological premises,
+and the analysis of propositions.
+
+#### Conclusion
+
+Russell's work is a profound investigation into the nature of knowledge and truth, characterized by
+its logical rigor and philosophical depth. It challenges readers to consider the intricate
+relationship between language, experience, and reality, offering insights into how we understand and
+articulate the world around us.
+
+## W. D. Ross (1877-1971)
+
+### "The Right and the Good" (1930)
 
 "The Right and the Good" is a seminal work in ethical theory by Scottish philosopher William David
 Ross, published in 1930. In this book, Ross develops a deontological pluralism based on the concept
@@ -3557,7 +3523,7 @@ discussion in contemporary moral philosophy.
 
 ## Martin Buber (1878-1965)
 
-### "I and Thou"
+### "I and Thou" (1923)
 
 "I and Thou" is a philosophical work by Martin Buber, first published in 1923. It explores the
 nature of human relationships and how these relationships can bring individuals closer to God and
@@ -3611,7 +3577,7 @@ in our everyday encounters.
 
 ## Paul Tillich (1886-1965)
 
-### "The Courage to Be"
+### "The Courage to Be" (1952)
 
 Paul Tillich's "The Courage to Be," first published in 1952, is a profound exploration of the
 concept of courage in the context of existential philosophy and theology. The book is based on a
@@ -3659,49 +3625,7 @@ theology, providing insights into the nature of courage and its role in human li
 
 ## Ludwig Wittgenstein (1889-1951)
 
-### "Philosophical Investigations"
-
-"Philosophical Investigations," published posthumously in 1953, is one of Ludwig Wittgenstein's most
-influential works. It marks a significant shift from his earlier work, "Tractatus
-Logico-Philosophicus," and is considered a cornerstone of ordinary language philosophy.
-
-#### Key Themes and Ideas
-
--   **Language Games**: Wittgenstein introduces the concept of "language games," emphasizing that
-    the meaning of words is derived from their use in specific contexts. This idea challenges the
-    notion that words have inherent meanings independent of their usage.
-
--   **Private Language Argument**: Wittgenstein argues against the possibility of a purely private
-    language, suggesting that language inherently requires a form of public criteria for meaning.
-    This challenges the idea that thoughts or sensations can be entirely private.
-
--   **Rule-Following**: The book explores the nature of following rules, questioning whether
-    understanding a rule is a matter of interpretation or practice. This has implications for how
-    linguistic meaning is understood and whether it can be reduced to objective facts.
-
--   **Ordinary Language Analysis**: Wittgenstein advocates for analyzing philosophical problems by
-    examining how language is used in everyday contexts rather than focusing on abstract meanings.
-    This approach suggests that many philosophical confusions arise from misunderstandings of
-    language use.
-
--   **Therapeutic Function of Philosophy**: Wittgenstein views philosophy as a therapeutic activity,
-    aiming to clarify thoughts and dissolve philosophical problems rather than solve them in a
-    traditional sense. He famously described the aim of philosophy as "to show the fly the way out
-    of the fly-bottle".
-
-#### Impact and Interpretation
-
-"Philosophical Investigations" has had a profound impact on various fields, including philosophy of
-language, epistemology, and cognitive science. Its ideas have sparked extensive debate and
-interpretation, particularly regarding the nature of meaning, understanding, and the role of
-language in human life.
-
-The book's fragmented style and the complexity of its arguments have led to diverse interpretations,
-making it a subject of ongoing scholarly discussion. Despite this, it remains a seminal text in
-20th-century philosophy, influencing thinkers like Saul Kripke and contributing to the development
-of ordinary language philosophy.
-
-### "Tractatus Logico-Philosophicus"
+### "Tractatus Logico-Philosophicus" (1922)
 
 The "Tractatus Logico-Philosophicus" is a philosophical work by Ludwig Wittgenstein, published
 in 1921. It is the only book-length work published by Wittgenstein during his lifetime and is
@@ -3759,9 +3683,51 @@ philosophy, particularly in discussions about language, logic, and the nature of
 inquiry. The book's concluding proposition highlights the boundary between what can be expressed and
 what must remain unsaid, a theme that continues to resonate in philosophical discourse.
 
+### "Philosophical Investigations" (1953)
+
+"Philosophical Investigations," published posthumously in 1953, is one of Ludwig Wittgenstein's most
+influential works. It marks a significant shift from his earlier work, "Tractatus
+Logico-Philosophicus," and is considered a cornerstone of ordinary language philosophy.
+
+#### Key Themes and Ideas
+
+-   **Language Games**: Wittgenstein introduces the concept of "language games," emphasizing that
+    the meaning of words is derived from their use in specific contexts. This idea challenges the
+    notion that words have inherent meanings independent of their usage.
+
+-   **Private Language Argument**: Wittgenstein argues against the possibility of a purely private
+    language, suggesting that language inherently requires a form of public criteria for meaning.
+    This challenges the idea that thoughts or sensations can be entirely private.
+
+-   **Rule-Following**: The book explores the nature of following rules, questioning whether
+    understanding a rule is a matter of interpretation or practice. This has implications for how
+    linguistic meaning is understood and whether it can be reduced to objective facts.
+
+-   **Ordinary Language Analysis**: Wittgenstein advocates for analyzing philosophical problems by
+    examining how language is used in everyday contexts rather than focusing on abstract meanings.
+    This approach suggests that many philosophical confusions arise from misunderstandings of
+    language use.
+
+-   **Therapeutic Function of Philosophy**: Wittgenstein views philosophy as a therapeutic activity,
+    aiming to clarify thoughts and dissolve philosophical problems rather than solve them in a
+    traditional sense. He famously described the aim of philosophy as "to show the fly the way out
+    of the fly-bottle".
+
+#### Impact and Interpretation
+
+"Philosophical Investigations" has had a profound impact on various fields, including philosophy of
+language, epistemology, and cognitive science. Its ideas have sparked extensive debate and
+interpretation, particularly regarding the nature of meaning, understanding, and the role of
+language in human life.
+
+The book's fragmented style and the complexity of its arguments have led to diverse interpretations,
+making it a subject of ongoing scholarly discussion. Despite this, it remains a seminal text in
+20th-century philosophy, influencing thinkers like Saul Kripke and contributing to the development
+of ordinary language philosophy.
+
 ## Martin Heidegger (1889-1976)
 
-### "Being and Time"
+### "Being and Time" (1927)
 
 "Being and Time" (originally "Sein und Zeit") is a seminal philosophical text by Martin Heidegger,
 first published in 1927. The book is a foundational work in existentialism and phenomenology,
@@ -3811,7 +3777,7 @@ readers to reconsider the nature of existence and the role of human beings in th
 
 ## Rudolf Carnap (1891-1970)
 
-### "Philosophy and Logical Syntax"
+### "Philosophy and Logical Syntax" (1935)
 
 Rudolf Carnap's work "Philosophy and Logical Syntax" is a significant contribution to the philosophy
 of language and logic. It primarily focuses on the logical analysis of language, which Carnap and
@@ -3853,7 +3819,7 @@ approach to philosophical problems.
 
 ## Karl R. Popper (1902-1994)
 
-### "The Logic of Scientific Discovery"
+### "The Logic of Scientific Discovery" (1934)
 
 Karl R. Popper's "The Logic of Scientific Discovery" is a seminal work in the philosophy of science,
 primarily focusing on the concept of falsifiability as a criterion for scientific theories. Here are
@@ -3884,7 +3850,7 @@ scientific theories from non-scientific ones.
 
 ## Jean-Paul Sartre (1905-1980)
 
-### "Being and Nothingness"
+### "Being and Nothingness" (1943)
 
 **Being and Nothingness** by Jean-Paul Sartre is a seminal work in existentialist philosophy,
 published in 1943. It explores complex themes such as consciousness, freedom, and the nature of
@@ -3933,7 +3899,7 @@ of meaning in a seemingly meaningless world.
 
 ## Hannah Arendt (1906-1975)
 
-### "The Human Condition"
+### "The Human Condition" (1958)
 
 "The Human Condition," published in 1958 by Hannah Arendt, is a seminal work in political and
 philosophical nonfiction. Arendt explores the concept of _vita activa_ (active life) and contrasts
@@ -3983,7 +3949,7 @@ urging a reevaluation of how we understand and prioritize different aspects of l
 
 ## Maurice Merleau-Ponty (1908-1961)
 
-### "Phenomenology of Perception"
+### "Phenomenology of Perception" (1945)
 
 "Phenomenology of Perception" is a seminal work by French philosopher Maurice Merleau-Ponty,
 published in 1945. The book is a foundational text in phenomenology and existentialism, focusing on
@@ -4031,7 +3997,7 @@ of reality.
 
 ## W.V.O. Quine (1908-2000)
 
-### "Word and Object"
+### "Word and Object" (1960)
 
 "Word and Object" is a seminal work by philosopher Willard Van Orman Quine, published in 1960. The
 book explores the intricate relationship between language, meaning, and reality, challenging
@@ -4088,7 +4054,7 @@ intersections of language, thought, and reality.
 
 ## A.J. Ayer (1910-1989)
 
-### "Language, Truth, and Logic"
+### "Language, Truth, and Logic" (1936)
 
 "Language, Truth, and Logic" is a seminal work by philosopher A.J. Ayer, first published in 1936.
 The book is a cornerstone of logical positivism, a philosophical movement that emphasizes the
@@ -4137,7 +4103,7 @@ and linguistic analysis continues to provoke debate and inspire philosophical in
 
 ## J.L. Austin (1911-1960)
 
-### "How to Do Things with Words"
+### "How to Do Things with Words" (1955)
 
 J.L. Austin's "How to Do Things with Words" is a seminal work in the philosophy of language,
 introducing the theory of speech acts. The book is based on a series of lectures Austin delivered at
@@ -4192,7 +4158,7 @@ relationship between language, context, and meaning.
 
 ## Albert Camus (1913-1960)
 
-### "The Rebel"
+### "The Rebel" (1951)
 
 Albert Camus's "The Rebel," published in 1951, is a philosophical exploration of rebellion and
 revolution in human society, particularly focusing on their roles in modern history since the French
@@ -4240,7 +4206,7 @@ justice and a better world.
 
 ## David Bohm (1917-1992)
 
-### "Wholeness and the Implicate Order"
+### "Wholeness and the Implicate Order" (1980)
 
 David Bohm's "Wholeness and the Implicate Order" is a profound exploration of the nature of reality
 and consciousness. Published in 1980, the book introduces Bohm's concepts of undivided wholeness and
@@ -4295,9 +4261,31 @@ phenomena, offers a compelling alternative to traditional scientific paradigms. 
 wholeness and the dynamic nature of reality continues to inspire discussions on the nature of
 existence and the potential for a more integrated worldview.
 
+## Iris Murdoch (1919-1999)
+
+### "The Sovereignty of Good" (1970)
+
+"The Sovereignty of Good" is a philosophical work by Iris Murdoch, consisting of three essays: "The Idea of Perfection," "On 'God' and 'Good'," and "The Sovereignty of Good over Other Concepts." In these essays, Murdoch critiques contemporary moral philosophy, which she sees as overly focused on the will and decision-making, and proposes an alternative view influenced by Platonic thought.
+
+#### Key Themes and Ideas
+
+- **Critique of Modern Moral Philosophy**: Murdoch criticizes the prevailing view that emphasizes the will as the central element of moral life. She argues that this perspective is behaviorist, existentialist, and utilitarian, focusing too much on public acts and neglecting the inner life and the concept of goodness.
+
+- **The Good as Transcendent**: Murdoch posits that the Good, rather than the will, is transcendent. She describes the Good as a reality that reveals truth and requires love and attention to be perceived. This view aligns with Platonic ideals, where the Good is a guiding light for moral understanding.
+
+- **Role of Love and Attention**: Central to Murdoch's philosophy is the idea that love and attention are crucial for moral development. She suggests that a "just and loving gaze" directed at reality helps individuals see clearly and act morally. This focus on attention and love is influenced by Simone Weil's philosophy.
+
+- **Continuous Moral Life**: Murdoch argues that the moral life is continuous and not limited to moments of choice. She believes that by aligning oneself with the Good, moral actions become natural and effortless, echoing older moral traditions that emphasize the development of virtuous habits.
+
+- **Beauty and Goodness**: Murdoch explores the relationship between beauty and goodness, suggesting that they are interconnected. She believes that beauty can lead to an "unselfing" experience, where individuals transcend their egos and connect with the Good.
+
+#### Conclusion
+
+Iris Murdoch's "The Sovereignty of Good" challenges the dominant moral theories of her time by emphasizing the importance of the Good, love, and attention in moral philosophy. Her work seeks to restore a richer understanding of morality, drawing on Platonic and traditional influences to propose a vision where the Good is central to ethical life.
+
 ## John Rawls (1921-2002)
 
-### "A Theory of Justice"
+### "A Theory of Justice" (1971)
 
 John Rawls' "Theory of Justice" is a seminal work in political philosophy that introduces the
 concept of "justice as fairness." This theory is designed to establish a framework for a just
@@ -4351,7 +4339,7 @@ in discussions of political philosophy and justice.
 
 ## Thomas Kuhn (1922-1996)
 
-### "The Structure of Scientific Revolutions"
+### "The Structure of Scientific Revolutions" (1962)
 
 Thomas Kuhn's "The Structure of Scientific Revolutions," first published in 1962, is a seminal work
 in the philosophy of science that introduced the concept of paradigm shifts in scientific progress.
@@ -4406,7 +4394,7 @@ paradigm shifts in driving revolutionary changes in science.
 
 ## Jean Baudrillard (1929-2007)
 
-### "Simulacra and Simulation"
+### "Simulacra and Simulation" (1981)
 
 "Simulacra and Simulation" is a philosophical treatise by Jean Baudrillard, published in 1981. The
 book explores the complex relationships between reality, symbols, and society, focusing on how
@@ -4460,7 +4448,7 @@ and cultural theory, highlighting the pervasive impact of media and technology o
 
 ## Harry Frankfurt (1929-2023)
 
-### "On Bullshit"
+### "On Bullshit" (2005)
 
 "On Bullshit" is a philosophical essay by Harry G. Frankfurt, originally published in 1986 and later
 expanded into a book in 2005. The work explores the concept of "bullshit" and its implications in
@@ -4505,9 +4493,33 @@ communication. By highlighting the indifference to truth that characterizes bull
 underscores its potential threat to the integrity of discourse. The book encourages readers to be
 more discerning about the information they encounter and the motivations behind it.
 
+## Michael Sandel (1953-present)
+
+### "Justice" (2009)
+
+Michael J. Sandel's book "Justice" explores the complex and often subjective nature of justice, urging readers to question their own beliefs and societal norms. Sandel uses a variety of philosophical perspectives to examine what justice means and how it can be applied in real-world scenarios.
+
+#### Key Themes and Philosophical Perspectives
+
+1. **Subjectivity of Justice**: Sandel emphasizes that perceptions of justice are subjective and have evolved over time. He presents philosophical questions such as whether it is right to sacrifice one life to save many, or if taxing the rich to help the poor is fair. These questions highlight how justice is influenced by individual values, experiences, and societal norms.
+
+2. **Philosophical Exploration**: The book delves into various philosophical theories, including those of Aristotle, Kant, and Rawls, to sharpen our understanding of justice. Sandel encourages readers to compare these theories and assess their relevance to modern societal issues, such as taxation and same-sex marriage.
+
+3. **Libertarianism**: Sandel discusses the libertarian view that justice is about maximizing individual freedom, as long as it does not infringe on others' freedoms. This perspective has significant implications for political and economic policies, advocating minimal government interference.
+
+4. **John Rawls' Theory**: Rawls' concept of the "veil of ignorance" is explored as a way to determine fair principles of justice. This thought experiment suggests that justice should be determined without knowledge of one's social status, leading to principles that protect basic freedoms and promote equality.
+
+5. **Aristotle's Purpose of Justice**: Aristotle's view is that justice is about achieving the "good life" and is closely tied to morality. Sandel uses this perspective to discuss contemporary issues, such as the role of cheerleaders or the purpose of marriage, urging readers to consider the intentions behind social practices.
+
+6. **Common Good**: Sandel argues that justice should be rooted in policies that promote the common good. This involves fostering a society where citizens are committed to shared values and ethical debates, rather than focusing solely on individual rights.
+
+#### Conclusion
+
+Sandel's "Justice" is a thought-provoking exploration of moral and ethical questions that challenge readers to reconsider their views on justice. By examining different philosophical perspectives, Sandel provides a framework for understanding justice in a complex, pluralistic society. The book encourages a deeper engagement with moral questions and a commitment to the common good, making it a valuable read for anyone interested in ethics and philosophy.
+
 ## Sam Harris (1967-present)
 
-### "Free Will"
+### "Free Will" (2012)
 
 Sam Harris's book "Free Will" argues that the concept of free will is an illusion. Harris posits
 that our thoughts and intentions arise from background causes over which we have no conscious
@@ -4546,19 +4558,63 @@ Overall, Harris's book challenges the traditional notion of free will, encouragi
 reconsider how they view human behavior and moral responsibility. By accepting the illusion of free
 will, Harris believes we can foster a more understanding and compassionate society.
 
+## Julian Baggini (1968-present)
+
+### "The Ego Trick" (2011)
+
+Julian Baggini's "The Ego Trick" explores the complex nature of identity and the self, challenging the traditional notions of a singular, unchanging self. The book delves into various philosophical, psychological, and cultural perspectives to understand what constitutes the self and how it is perceived.
+
+#### Key Themes and Ideas
+
+1. **Identity and Change**:
+   - Baggini questions whether we remain the same person throughout our lives, using examples like childhood memories and changes due to aging or illness.
+   - He suggests that identity is not tied to a static self but is more like a painting, requiring the right perspective to understand its complexity.
+
+2. **Spiritual Experiences and Brain Function**:
+   - The book discusses cases like Suzanne Segal's, where spiritual awakenings might be linked to brain dysfunctions, such as tumors, challenging the idea that such experiences reveal deeper truths about the self.
+
+3. **The Soul and Logical Fallacies**:
+   - Baggini examines the concept of the soul, using Avicenna's "floating man" thought experiment to question whether the soul exists independently of the body.
+   - He argues that while the soul is an intuitive concept, it lacks logical grounding.
+
+4. **Multiple Personality Disorder**:
+   - The book uses Dissociative Identity Disorder (DID) to illustrate the fragmented nature of identity, showing how trauma can lead to the creation of multiple selves within one individual.
+
+5. **Social Construction of the Self**:
+   - Baggini highlights how our sense of self is influenced by societal perceptions and cultural contexts, emphasizing the importance of social validation in forming identity.
+
+6. **The Ego as an Illusion**:
+   - Drawing on David Hume's philosophy, Baggini suggests that the ego is a mental construct, a trick that creates a sense of unity from disparate experiences and emotions.
+
+7. **Buddhist Perspectives on the Self**:
+   - The book explores Buddhist teachings on "anatta" or "not-self," which propose that the self is an illusion, a concept that aligns with some Western philosophical ideas.
+
+8. **Free Will and Determinism**:
+   - Baggini questions the existence of free will, suggesting that our choices may be predetermined by a complex interplay of factors, challenging the notion of autonomous decision-making.
+
+9. **Impact of Technology and Culture**:
+   - The book discusses how rapid technological and cultural changes are reshaping our sense of self, with media and virtual realities influencing identity formation.
+
+#### Conclusion
+
+"The Ego Trick" presents a nuanced view of identity, suggesting that the self is not a fixed entity but a dynamic construct shaped by various internal and external factors. Baggini encourages readers to reconsider their understanding of the self, acknowledging its complexity and the role of perception in defining who we are. Through philosophical inquiry and real-world examples, the book invites reflection on the nature of consciousness and the essence of being human.
+
 ## Others
 
--   Iris Murdoch - The Sovereignty of Good (1970)
--   Julian Baggini - The Ego Trick (2011)
--   Michael Sandel - Justice (2009)
--   Michel de Montaigne - Essays (1580)
--   Michel Foucault - The Order of Things (1966)
--   Nassim Nicholas Taleb - The Black Swan (2007)
--   Noam Chomsky - Understanding Power (2002)
--   Peter Singer - The Life You Can Save (2009)
--   Ralph Waldo Emerson - Fate (1860)
--   Saul Kripke - Naming and Necessity (1972)
--   Simone de Beauvoir - The Second Sex (1952)
--   Slavoj Zizek - Living In The End Times (2010)
--   Søren Kierkegaard - Fear and Trembling (1843)
--   Søren Kierkegaard - Either/Or (1843)
+-   A.J. Ayer - "The Problem of Knowledge" (1956)
+-   Bertrand Russell and Alfred North Whitehead - "Principia Mathematica" (1910, 1912, and 1913)
+-   John Dewey - "Democracy and Education" (1916)
+-   John Locke - "Two Treatises of Government" (1689)
+-   Marcus Aurelius - "Meditations"
+-   Michel de Montaigne - "Essays" (1580)
+-   Michel Foucault - "The Order of Things" (1966)
+-   Nassim Nicholas Taleb - "The Black Swan" (2007)
+-   Noam Chomsky - "Understanding Power" (2002)
+-   Peter Singer - "The Life You Can Save" (2009)
+-   Ralph Waldo Emerson - "Fate" (1860)
+-   Saul Kripke - "Naming and Necessity" (1972)
+-   Simone de Beauvoir - "The Second Sex" (1952)
+-   Slavoj Zizek - "Living In The End Times" (2010)
+-   Søren Kierkegaard - "Either/Or" (1843)
+-   Søren Kierkegaard - "Fear and Trembling" (1843)
+-   W.V.O. Quine - "The Web of Belief" (1970)
