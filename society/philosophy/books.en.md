@@ -4,7 +4,7 @@
 
 ## Heraclitus (6th century BC)
 
-### Fragments
+### "Fragments"
 
 Heraclitus of Ephesus, a pre-Socratic philosopher from around 500 BCE, is best known for his
 doctrine that change is the fundamental essence of the universe, encapsulated in the phrase "Panta
@@ -33,7 +33,7 @@ nature of change and existence today.
 
 ## Lao Tzu (6th century BC)
 
-### "Tao Te Ching"
+### "Tao Te Ching" (350 BC)
 
 The _Tao Te Ching_ is a foundational text of Taoism, attributed to the ancient Chinese philosopher
 Lao Tzu. It is a classic of Chinese philosophical literature, believed to have been composed between
@@ -453,7 +453,7 @@ existence and reality. It lays the groundwork for many subsequent philosophical 
 remains a cornerstone of Western philosophical thought. The work's examination of substance,
 causation, and the nature of being continues to influence philosophical inquiry today.
 
-### "Nicomachean Ethics"
+### "The Nicomachean Ethics"
 
 "Nicomachean Ethics" is a philosophical work by Aristotle that explores the nature of the good life
 for humans. It is named after either Aristotle's father or son, both of whom were named Nicomachus.
@@ -718,7 +718,7 @@ developments.
 
 ## Vyasa (2nd century BC)
 
-### "Bhagavad Gita"
+### "The Bhagavad Gita"
 
 The **Bhagavad Gita** is a 700-verse Hindu scripture that forms part of the Indian epic
 **Mahabharata**. It is a dialogue between the Pandava prince **Arjuna** and his charioteer,
@@ -828,7 +828,7 @@ philosophy and public service.
 
 ## Lucretius (99-55 BC)
 
-### "De Rerum Natura"
+### "De Rerum Natura" or "The Way Things Are"
 
 "De Rerum Natura" (On the Nature of Things) is a didactic poem by the Roman poet and philosopher
 Lucretius, written in the 1st century BC. The poem aims to explain Epicurean philosophy to a Roman
@@ -1434,25 +1434,47 @@ centuries and remains a subject of study and debate.
 
 ### "Essays" (1580)
 
-Michel de Montaigne's "Essays," first published in 1580, is a seminal work in the genre of essay writing. The collection consists of three books and 107 chapters, each varying in length and covering a wide range of topics. Montaigne's primary aim was to explore and record his own thoughts and character with honesty and introspection. His essays are known for their conversational style, blending a rich vocabulary with popular sayings and local slang, and often include quotations from classical texts [1].
+Michel de Montaigne's "Essays," first published in 1580, is a seminal work in the genre of essay
+writing. The collection consists of three books and 107 chapters, each varying in length and
+covering a wide range of topics. Montaigne's primary aim was to explore and record his own thoughts
+and character with honesty and introspection. His essays are known for their conversational style,
+blending a rich vocabulary with popular sayings and local slang, and often include quotations from
+classical texts [1].
 
 #### Key Themes and Style
 
-- **Introspection and Skepticism**: Montaigne's essays are deeply introspective, reflecting on human nature, knowledge, and the limitations of human understanding. He embraced philosophical skepticism, particularly Pyrrhonism, which questions the certainty of knowledge. This skepticism is evident in his famous motto, "What do I know?" [1][3].
+-   **Introspection and Skepticism**: Montaigne's essays are deeply introspective, reflecting on
+    human nature, knowledge, and the limitations of human understanding. He embraced philosophical
+    skepticism, particularly Pyrrhonism, which questions the certainty of knowledge. This skepticism
+    is evident in his famous motto, "What do I know?" [1][3].
 
-- **Diversity of Topics**: The essays cover a broad spectrum of subjects, from profound philosophical inquiries to everyday observations. Titles range from "Of Sadness and Sorrow" to "Of Smells," illustrating his wide-ranging curiosity [1].
+-   **Diversity of Topics**: The essays cover a broad spectrum of subjects, from profound
+    philosophical inquiries to everyday observations. Titles range from "Of Sadness and Sorrow" to
+    "Of Smells," illustrating his wide-ranging curiosity [1].
 
-- **Cultural Relativism**: Montaigne was ahead of his time in his views on cultural relativism. He expressed admiration for the indigenous peoples of the New World, whom he considered more faithful to their nature than Europeans, whom he criticized for their barbarity in conquests and internal conflicts [4].
+-   **Cultural Relativism**: Montaigne was ahead of his time in his views on cultural relativism. He
+    expressed admiration for the indigenous peoples of the New World, whom he considered more
+    faithful to their nature than Europeans, whom he criticized for their barbarity in conquests and
+    internal conflicts [4].
 
-- **Philosophy of Free Judgment**: Montaigne advocated for a philosophy based on free judgment rather than adherence to dogmatic principles. He believed in the importance of personal experience and independent thought over rote learning and uncritical acceptance of knowledge [3][4].
+-   **Philosophy of Free Judgment**: Montaigne advocated for a philosophy based on free judgment
+    rather than adherence to dogmatic principles. He believed in the importance of personal
+    experience and independent thought over rote learning and uncritical acceptance of knowledge
+    [3][4].
 
 #### Influence and Legacy
 
-Montaigne's essays have had a lasting impact on both French and English literature, influencing writers like William Shakespeare. His work is considered a cornerstone of modern skepticism and humanism, emphasizing the importance of self-reflection and the acceptance of human limitations [1][3].
+Montaigne's essays have had a lasting impact on both French and English literature, influencing
+writers like William Shakespeare. His work is considered a cornerstone of modern skepticism and
+humanism, emphasizing the importance of self-reflection and the acceptance of human limitations
+[1][3].
 
 #### Conclusion
 
-Montaigne's "Essays" remain a significant contribution to literature and philosophy, offering insights into the human condition through a blend of personal reflection, skepticism, and cultural critique. His work encourages readers to embrace their own thoughts and experiences, fostering a philosophy of authenticity and tolerance.
+Montaigne's "Essays" remain a significant contribution to literature and philosophy, offering
+insights into the human condition through a blend of personal reflection, skepticism, and cultural
+critique. His work encourages readers to embrace their own thoughts and experiences, fostering a
+philosophy of authenticity and tolerance.
 
 ## Francis Bacon (1561-1626)
 
@@ -2121,9 +2143,9 @@ Kant's work remains a critical reference point for discussions on epistemology, 
 philosophy of science, emphasizing the importance of critical examination of the faculties of
 reason.
 
-### "Foundations of the Metaphysics of Morals" (1785)
+### "Groundwork of the Metaphysics of Morals" (1785)
 
-"Foundations of the Metaphysics of Morals," also known as "Groundwork of the Metaphysics of Morals,"
+"Groundwork of the Metaphysics of Morals," also known as "Foundations of the Metaphysics of Morals,"
 is a foundational text in moral philosophy by Immanuel Kant, published in 1785. It is the first of
 Kant's major works on ethics, preceding the "Critique of Practical Reason" and "The Metaphysics of
 Morals." The work aims to establish the fundamental principle of morality and demonstrate its
@@ -4265,23 +4287,43 @@ existence and the potential for a more integrated worldview.
 
 ### "The Sovereignty of Good" (1970)
 
-"The Sovereignty of Good" is a philosophical work by Iris Murdoch, consisting of three essays: "The Idea of Perfection," "On 'God' and 'Good'," and "The Sovereignty of Good over Other Concepts." In these essays, Murdoch critiques contemporary moral philosophy, which she sees as overly focused on the will and decision-making, and proposes an alternative view influenced by Platonic thought.
+"The Sovereignty of Good" is a philosophical work by Iris Murdoch, consisting of three essays: "The
+Idea of Perfection," "On 'God' and 'Good'," and "The Sovereignty of Good over Other Concepts." In
+these essays, Murdoch critiques contemporary moral philosophy, which she sees as overly focused on
+the will and decision-making, and proposes an alternative view influenced by Platonic thought.
 
 #### Key Themes and Ideas
 
-- **Critique of Modern Moral Philosophy**: Murdoch criticizes the prevailing view that emphasizes the will as the central element of moral life. She argues that this perspective is behaviorist, existentialist, and utilitarian, focusing too much on public acts and neglecting the inner life and the concept of goodness.
+-   **Critique of Modern Moral Philosophy**: Murdoch criticizes the prevailing view that emphasizes
+    the will as the central element of moral life. She argues that this perspective is behaviorist,
+    existentialist, and utilitarian, focusing too much on public acts and neglecting the inner life
+    and the concept of goodness.
 
-- **The Good as Transcendent**: Murdoch posits that the Good, rather than the will, is transcendent. She describes the Good as a reality that reveals truth and requires love and attention to be perceived. This view aligns with Platonic ideals, where the Good is a guiding light for moral understanding.
+-   **The Good as Transcendent**: Murdoch posits that the Good, rather than the will, is
+    transcendent. She describes the Good as a reality that reveals truth and requires love and
+    attention to be perceived. This view aligns with Platonic ideals, where the Good is a guiding
+    light for moral understanding.
 
-- **Role of Love and Attention**: Central to Murdoch's philosophy is the idea that love and attention are crucial for moral development. She suggests that a "just and loving gaze" directed at reality helps individuals see clearly and act morally. This focus on attention and love is influenced by Simone Weil's philosophy.
+-   **Role of Love and Attention**: Central to Murdoch's philosophy is the idea that love and
+    attention are crucial for moral development. She suggests that a "just and loving gaze" directed
+    at reality helps individuals see clearly and act morally. This focus on attention and love is
+    influenced by Simone Weil's philosophy.
 
-- **Continuous Moral Life**: Murdoch argues that the moral life is continuous and not limited to moments of choice. She believes that by aligning oneself with the Good, moral actions become natural and effortless, echoing older moral traditions that emphasize the development of virtuous habits.
+-   **Continuous Moral Life**: Murdoch argues that the moral life is continuous and not limited to
+    moments of choice. She believes that by aligning oneself with the Good, moral actions become
+    natural and effortless, echoing older moral traditions that emphasize the development of
+    virtuous habits.
 
-- **Beauty and Goodness**: Murdoch explores the relationship between beauty and goodness, suggesting that they are interconnected. She believes that beauty can lead to an "unselfing" experience, where individuals transcend their egos and connect with the Good.
+-   **Beauty and Goodness**: Murdoch explores the relationship between beauty and goodness,
+    suggesting that they are interconnected. She believes that beauty can lead to an "unselfing"
+    experience, where individuals transcend their egos and connect with the Good.
 
 #### Conclusion
 
-Iris Murdoch's "The Sovereignty of Good" challenges the dominant moral theories of her time by emphasizing the importance of the Good, love, and attention in moral philosophy. Her work seeks to restore a richer understanding of morality, drawing on Platonic and traditional influences to propose a vision where the Good is central to ethical life.
+Iris Murdoch's "The Sovereignty of Good" challenges the dominant moral theories of her time by
+emphasizing the importance of the Good, love, and attention in moral philosophy. Her work seeks to
+restore a richer understanding of morality, drawing on Platonic and traditional influences to
+propose a vision where the Good is central to ethical life.
 
 ## John Rawls (1921-2002)
 
@@ -4495,27 +4537,51 @@ more discerning about the information they encounter and the motivations behind 
 
 ## Michael Sandel (1953-present)
 
-### "Justice" (2009)
+### "Justice: What's the Right Thing to Do?" (2009)
 
-Michael J. Sandel's book "Justice" explores the complex and often subjective nature of justice, urging readers to question their own beliefs and societal norms. Sandel uses a variety of philosophical perspectives to examine what justice means and how it can be applied in real-world scenarios.
+Michael J. Sandel's book "Justice" explores the complex and often subjective nature of justice,
+urging readers to question their own beliefs and societal norms. Sandel uses a variety of
+philosophical perspectives to examine what justice means and how it can be applied in real-world
+scenarios.
 
 #### Key Themes and Philosophical Perspectives
 
-1. **Subjectivity of Justice**: Sandel emphasizes that perceptions of justice are subjective and have evolved over time. He presents philosophical questions such as whether it is right to sacrifice one life to save many, or if taxing the rich to help the poor is fair. These questions highlight how justice is influenced by individual values, experiences, and societal norms.
+1. **Subjectivity of Justice**: Sandel emphasizes that perceptions of justice are subjective and
+   have evolved over time. He presents philosophical questions such as whether it is right to
+   sacrifice one life to save many, or if taxing the rich to help the poor is fair. These questions
+   highlight how justice is influenced by individual values, experiences, and societal norms.
 
-2. **Philosophical Exploration**: The book delves into various philosophical theories, including those of Aristotle, Kant, and Rawls, to sharpen our understanding of justice. Sandel encourages readers to compare these theories and assess their relevance to modern societal issues, such as taxation and same-sex marriage.
+2. **Philosophical Exploration**: The book delves into various philosophical theories, including
+   those of Aristotle, Kant, and Rawls, to sharpen our understanding of justice. Sandel encourages
+   readers to compare these theories and assess their relevance to modern societal issues, such as
+   taxation and same-sex marriage.
 
-3. **Libertarianism**: Sandel discusses the libertarian view that justice is about maximizing individual freedom, as long as it does not infringe on others' freedoms. This perspective has significant implications for political and economic policies, advocating minimal government interference.
+3. **Libertarianism**: Sandel discusses the libertarian view that justice is about maximizing
+   individual freedom, as long as it does not infringe on others' freedoms. This perspective has
+   significant implications for political and economic policies, advocating minimal government
+   interference.
 
-4. **John Rawls' Theory**: Rawls' concept of the "veil of ignorance" is explored as a way to determine fair principles of justice. This thought experiment suggests that justice should be determined without knowledge of one's social status, leading to principles that protect basic freedoms and promote equality.
+4. **John Rawls' Theory**: Rawls' concept of the "veil of ignorance" is explored as a way to
+   determine fair principles of justice. This thought experiment suggests that justice should be
+   determined without knowledge of one's social status, leading to principles that protect basic
+   freedoms and promote equality.
 
-5. **Aristotle's Purpose of Justice**: Aristotle's view is that justice is about achieving the "good life" and is closely tied to morality. Sandel uses this perspective to discuss contemporary issues, such as the role of cheerleaders or the purpose of marriage, urging readers to consider the intentions behind social practices.
+5. **Aristotle's Purpose of Justice**: Aristotle's view is that justice is about achieving the "good
+   life" and is closely tied to morality. Sandel uses this perspective to discuss contemporary
+   issues, such as the role of cheerleaders or the purpose of marriage, urging readers to consider
+   the intentions behind social practices.
 
-6. **Common Good**: Sandel argues that justice should be rooted in policies that promote the common good. This involves fostering a society where citizens are committed to shared values and ethical debates, rather than focusing solely on individual rights.
+6. **Common Good**: Sandel argues that justice should be rooted in policies that promote the common
+   good. This involves fostering a society where citizens are committed to shared values and ethical
+   debates, rather than focusing solely on individual rights.
 
 #### Conclusion
 
-Sandel's "Justice" is a thought-provoking exploration of moral and ethical questions that challenge readers to reconsider their views on justice. By examining different philosophical perspectives, Sandel provides a framework for understanding justice in a complex, pluralistic society. The book encourages a deeper engagement with moral questions and a commitment to the common good, making it a valuable read for anyone interested in ethics and philosophy.
+Sandel's "Justice" is a thought-provoking exploration of moral and ethical questions that challenge
+readers to reconsider their views on justice. By examining different philosophical perspectives,
+Sandel provides a framework for understanding justice in a complex, pluralistic society. The book
+encourages a deeper engagement with moral questions and a commitment to the common good, making it a
+valuable read for anyone interested in ethics and philosophy.
 
 ## Sam Harris (1967-present)
 
@@ -4562,59 +4628,222 @@ will, Harris believes we can foster a more understanding and compassionate socie
 
 ### "The Ego Trick" (2011)
 
-Julian Baggini's "The Ego Trick" explores the complex nature of identity and the self, challenging the traditional notions of a singular, unchanging self. The book delves into various philosophical, psychological, and cultural perspectives to understand what constitutes the self and how it is perceived.
+Julian Baggini's "The Ego Trick" explores the complex nature of identity and the self, challenging
+the traditional notions of a singular, unchanging self. The book delves into various philosophical,
+psychological, and cultural perspectives to understand what constitutes the self and how it is
+perceived.
 
 #### Key Themes and Ideas
 
 1. **Identity and Change**:
-   - Baggini questions whether we remain the same person throughout our lives, using examples like childhood memories and changes due to aging or illness.
-   - He suggests that identity is not tied to a static self but is more like a painting, requiring the right perspective to understand its complexity.
+
+    - Baggini questions whether we remain the same person throughout our lives, using examples like
+      childhood memories and changes due to aging or illness.
+    - He suggests that identity is not tied to a static self but is more like a painting, requiring
+      the right perspective to understand its complexity.
 
 2. **Spiritual Experiences and Brain Function**:
-   - The book discusses cases like Suzanne Segal's, where spiritual awakenings might be linked to brain dysfunctions, such as tumors, challenging the idea that such experiences reveal deeper truths about the self.
+
+    - The book discusses cases like Suzanne Segal's, where spiritual awakenings might be linked to
+      brain dysfunctions, such as tumors, challenging the idea that such experiences reveal deeper
+      truths about the self.
 
 3. **The Soul and Logical Fallacies**:
-   - Baggini examines the concept of the soul, using Avicenna's "floating man" thought experiment to question whether the soul exists independently of the body.
-   - He argues that while the soul is an intuitive concept, it lacks logical grounding.
+
+    - Baggini examines the concept of the soul, using Avicenna's "floating man" thought experiment
+      to question whether the soul exists independently of the body.
+    - He argues that while the soul is an intuitive concept, it lacks logical grounding.
 
 4. **Multiple Personality Disorder**:
-   - The book uses Dissociative Identity Disorder (DID) to illustrate the fragmented nature of identity, showing how trauma can lead to the creation of multiple selves within one individual.
+
+    - The book uses Dissociative Identity Disorder (DID) to illustrate the fragmented nature of
+      identity, showing how trauma can lead to the creation of multiple selves within one
+      individual.
 
 5. **Social Construction of the Self**:
-   - Baggini highlights how our sense of self is influenced by societal perceptions and cultural contexts, emphasizing the importance of social validation in forming identity.
+
+    - Baggini highlights how our sense of self is influenced by societal perceptions and cultural
+      contexts, emphasizing the importance of social validation in forming identity.
 
 6. **The Ego as an Illusion**:
-   - Drawing on David Hume's philosophy, Baggini suggests that the ego is a mental construct, a trick that creates a sense of unity from disparate experiences and emotions.
+
+    - Drawing on David Hume's philosophy, Baggini suggests that the ego is a mental construct, a
+      trick that creates a sense of unity from disparate experiences and emotions.
 
 7. **Buddhist Perspectives on the Self**:
-   - The book explores Buddhist teachings on "anatta" or "not-self," which propose that the self is an illusion, a concept that aligns with some Western philosophical ideas.
+
+    - The book explores Buddhist teachings on "anatta" or "not-self," which propose that the self is
+      an illusion, a concept that aligns with some Western philosophical ideas.
 
 8. **Free Will and Determinism**:
-   - Baggini questions the existence of free will, suggesting that our choices may be predetermined by a complex interplay of factors, challenging the notion of autonomous decision-making.
+
+    - Baggini questions the existence of free will, suggesting that our choices may be predetermined
+      by a complex interplay of factors, challenging the notion of autonomous decision-making.
 
 9. **Impact of Technology and Culture**:
-   - The book discusses how rapid technological and cultural changes are reshaping our sense of self, with media and virtual realities influencing identity formation.
+    - The book discusses how rapid technological and cultural changes are reshaping our sense of
+      self, with media and virtual realities influencing identity formation.
 
 #### Conclusion
 
-"The Ego Trick" presents a nuanced view of identity, suggesting that the self is not a fixed entity but a dynamic construct shaped by various internal and external factors. Baggini encourages readers to reconsider their understanding of the self, acknowledging its complexity and the role of perception in defining who we are. Through philosophical inquiry and real-world examples, the book invites reflection on the nature of consciousness and the essence of being human.
+"The Ego Trick" presents a nuanced view of identity, suggesting that the self is not a fixed entity
+but a dynamic construct shaped by various internal and external factors. Baggini encourages readers
+to reconsider their understanding of the self, acknowledging its complexity and the role of
+perception in defining who we are. Through philosophical inquiry and real-world examples, the book
+invites reflection on the nature of consciousness and the essence of being human.
 
 ## Others
 
--   A.J. Ayer - "The Problem of Knowledge" (1956)
--   Bertrand Russell and Alfred North Whitehead - "Principia Mathematica" (1910, 1912, and 1913)
--   John Dewey - "Democracy and Education" (1916)
--   John Locke - "Two Treatises of Government" (1689)
--   Marcus Aurelius - "Meditations"
--   Michel de Montaigne - "Essays" (1580)
--   Michel Foucault - "The Order of Things" (1966)
--   Nassim Nicholas Taleb - "The Black Swan" (2007)
--   Noam Chomsky - "Understanding Power" (2002)
--   Peter Singer - "The Life You Can Save" (2009)
--   Ralph Waldo Emerson - "Fate" (1860)
--   Saul Kripke - "Naming and Necessity" (1972)
--   Simone de Beauvoir - "The Second Sex" (1952)
--   Slavoj Zizek - "Living In The End Times" (2010)
--   Søren Kierkegaard - "Either/Or" (1843)
--   Søren Kierkegaard - "Fear and Trembling" (1843)
--   W.V.O. Quine - "The Web of Belief" (1970)
+### A.J. Ayer - "The Problem of Knowledge" (1956)
+### Alain de Botton - "Status Anxiety"
+### Alain de Botton - "The Consolations of Philosophy"
+### Alan W. Watts - "The Book: On the Taboo Against Knowing Who You Are"
+### Alan W. Watts - "The Way of Zen"
+### Alan W. Watts - "The Wisdom of Insecurity: A Message for an Age of Anxiety"
+### Alasdair MacIntyre - "After Virtue"
+### Albert Camus - "The Fall" (1942)
+### Albert Camus - "THe Myth of Sisyphus" (1942)
+### Albert Camus - "The Plague" (1942)
+### Albert Camus - "The Stranger" (1942)
+### Aldous Huxley - "Brave New World"
+### Aldous Huxley - "The Doors of Perception & Heaven and Hell"
+### Aldous Huxley - "The Perennial Philosophy"
+### Antoine de Saint-Exupéry - "The Little Prince"
+### Aristotle - "De Anima"
+### Aristotle - "Poetics"
+### Aristotle - "The Art of Rhetoric"
+### Arthur Schopenhauer - "Essays and Aphorisms"
+### Arthur Schopenhauer - "The Wisdom of Life"
+### Ayn Rand - "Anthem"
+### Ayn Rand - "Atlas Shrugged" (1957)
+### Ayn Rand - "The Fountainhead"
+### Ayn Rand - "The Virtue of Selfishness: A New Concept of Egoism"
+### Baruch Spinoza - "Theological-Political Treatise"
+### Benjamin Hoff - "The Tao of Pooh"
+### Bertrand Russell - "A History of Western Philosophy" (1945)
+### Bertrand Russell and Alfred North Whitehead - "Principia Mathematica" (1910, 1912, and 1913)
+### Bertrand Russell - "In Praise of Idleness and Other Essays"
+### Bertrand Russell - "The Problems of Philosophy" (1912)
+### Bertrand Russell - "Why I Am Not a Christian and Other Essays on Religion and Related Subjects"
+### Boethius - "The Consolation of Philosophy"
+### Carl Sagan - "The Demon-Haunted World: Science as a Candle in the Dark"
+### Christopher Hitchens - "God Is Not Great: How Religion Poisons Everything"
+### Christopher Hitchens - "The Portable Atheist: Essential Readings for the Nonbeliever"
+### C.S. Lewis - "Mere Christianity"
+### C.S. Lewis - "The Screwtape Letters"
+### Dalai Lama XIV - "The Art of Happiness"
+### David Hume - "An Enquiry Concerning Human Understanding" (1748)
+### Douglas R. Hofstadter - "Gödel, Escher, Bach: An Eternal Golden Braid"
+### Douglas R. Hofstadter - "I Am a Strange Loop"
+### Eckhart Tolle - "The Power of Now: A Guide to Spiritual Enlightenment"
+### Emil M. Cioran - "The Trouble With Being Born"
+### Epictetus - "The Art of Living" (125)
+### Erich Fromm - "The Art of Loving"
+### Ernest Becker - "The Denial of Death"
+### Franz Kafka - "The Metamorphosis"
+### Franz Kafka - "The Trial"
+### Friedrich Nietzsche - "Ecce Homo"
+### Friedrich Nietzsche - "Human, All Too Human: A Book for Free Spirits" (1887)
+### Friedrich Nietzsche - "On the Genealogy of Morals" (1887)
+### Friedrich Nietzsche - "The Anti-Christ"
+### Friedrich Nietzsche - "The Birth of Tragedy" (1887)
+### Friedrich Nietzsche - "The Gay Science: With a Prelude in Rhymes and an Appendix of Songs"
+### Friedrich Nietzsche - "The Will to Power"
+### Friedrich Nietzsche - "Twilight of the Idols"
+### Fyodor Dostoevsky - "Crime and Punishment"
+### Fyodor Dostoevsky - "Notes from Underground"
+### Fyodor Dostoevsky - "The Brothers Karamazov"
+### George Orwell - "1984"
+### George Orwell - "Animal Farm"
+### Gilles Deleuze - "Anti-Oedipus: Capitalism and Schizophrenia"
+### Gilles Deleuze - "A Thousand Plateaus: Capitalism and Schizophrenia"
+### Guy Debord - "The Society of the Spectacle"
+### Hannah Arendt - "Eichmann in Jerusalem: A Report on the Banality of Evil"
+### Hannah Arendt - "The Origins of Totalitarianism"
+### Henry David Thoreau - "Walden" (1854)
+### Herbert Marcuse - "One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society"
+### Herman Hesse - "Siddhartha" (1922)
+### Herman Hesse - "Steppenwolf" (1922)
+### Immanuel Kant - "Critique of Judgment"
+### Immanuel Kant - "Critique of Practical Reason"
+### Jean-Jacques Rousseau - "Discourse on the Origin of Inequality"
+### Jean-Paul Sartre - "Existentialism is a Humanism" (1946)
+### Jean-Paul Sartre - "Nausea" (1938)
+### John Dewey - "Democracy and Education" (1916)
+### John Locke - "Two Treatises of Government" (1689)
+### John Stuart Mill - "Utilitarianism"
+### Jonathan Haidt - "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom"
+### Jordan B. Peterson - "12 Rules for Life: An Antidote to Chaos"
+### Joseph Campbell - "The Hero With a Thousand Faces"
+### Kahlil Gibran - "The Prophet" (1923)
+### Karl Marx - "Das Kapital"
+### Lucretius - "The Way Things Are"
+### Ludwig Wittgenstein - "On Certainty"
+### Marcus Aurelius - "Meditations" (180)
+### Mark Manson - "The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life" (2016)
+### Martin Heidegger - "Basic Writings"
+### Mary Wollstonecraft - "A Vindication of the Rights of Woman"
+### Max Horkheimer - "Dialectic of Enlightenment: Philosophical Fragments"
+### Michel de Montaigne - "Essays" (1580)
+### Michel Foucault - "Discipline and Punish: The Birth of the Prison" (1975)
+### Michel Foucault - "Madness and Civilization: A History of Insanity in the Age of Reason"
+### Michel Foucault - "The History of Sexuality, Volume 1: An Introduction"
+### Michel Foucault - "The Order of Things" (1966)
+### Miguel Ruiz - "The Four Agreements"
+### Milan Kundera - "The Unbearable Lightness of Being"
+### Miyamoto Musashi - "A Book of Five Rings: The Classic Guide to Strategy"
+### Nassim Nicholas Taleb - "Antifragile: Things That Gain from Disorder"
+### Nassim Nicholas Taleb - "The Black Swan" (2007)
+### Nassim Nicholas Taleb - "The Black Swan: The Impact of the Highly Improbable"
+### Nick Bostrom - "Superintelligence: Paths, Dangers, Strategies"
+### Noam Chomsky - "Understanding Power" (2002)
+### Paulo Coelho - "The Alchemist" (1993)
+### Peter Singer - "The Life You Can Save" (2009)
+### Plato - "Gorgias"
+### Plato - "Meno"
+### Plato - "Theaetetus"
+### Plato - "The Symposium" (380 BC)
+### Ralph Waldo Emerson - "Fate" (1860)
+### Ralph Waldo Emerson - "Self-Reliance and Other Essays"
+### René Descartes - "Discourse on the Method" (1637)
+### Richard Bach - "Jonathan Livingston Seagull"
+### Richard Dawkins - "The God Delusion" (2006)
+### Robert Greene - "The 48 Laws of Power"
+### Robert M. Pirsig - "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values" (1974)
+### Robert Nozick - "Anarchy, State, and Utopia"
+### Roland Barthes - "A Lover's Discourse: Fragments"
+### Roland Barthes - "Mythologies"
+### Rutger Bregman - "Humankind: A Hopeful History"
+### Ryan Holiday - "Ego Is the Enemy"
+### Ryan Holiday - "The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living"
+### Ryan Holiday - "The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph"
+### Sam Harris - "The Moral Landscape: How Science Can Determine Human Values"
+### Sarah Bakewell - "At the Existentialist Café"
+### Saul Kripke - "Naming and Necessity" (1972)
+### Seneca - "Letters from a Stoic" (64)
+### Seneca - "On the Shortness of Life: Life Is Long if You Know How to Use It" (49)
+### Sigmund Freud - "Civilization and Its Discontents"
+### Sigmund Freud - "The Interpretation of Dreams"
+### Simon Blackburn - "Think: A Compelling Introduction to Philosophy"
+### Simone de Beauvoir - "The Ethics of Ambiguity"
+### Simone de Beauvoir - "The Second Sex" (1952)
+### Slavoj Zizek - "Living In The End Times" (2010)
+### Søren Kierkegaard - "Either/Or: A Fragment of Life" (1843)
+### Søren Kierkegaard - "Fear and Trembling" (1843)
+### Søren Kierkegaard - "The Sickness Unto Death: A Christian Psychological Exposition for Upbuilding and Awakening"
+### Steven Pinker - "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress"
+### Sun-Tzu - "The Art of War" (400 BC)
+### Thomas Cathcart - "Plato and a Platypus Walk Into a Bar: Understanding Philosophy Through Jokes"
+### Thomas Ligotti - "The Conspiracy Against the Human Race"
+### Thomas More - "Utopia" (1516)
+### Victor Frankl - "Man's Search for Meaning" (1946)
+### Voltaire - "Candide" (1887)
+### Walter Benjamin - "Illuminations: Essays and Reflections"
+### Walter Kaufmann - "Existentialism from Dostoevsky to Sartre"
+### Will Durant - "The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers" (1926)
+### William B. Irvine - "A Guide to the Good Life: The Ancient Art of Stoic Joy"
+### W.V.O. Quine - "The Web of Belief" (1970)
+### Yann Martel - "Life of Pi"
+### Yuval Noah Harari - "21 Lessons for the 21st Century"
+### Yuval Noah Harari - "Homo Deus: A History of Tomorrow"
+### Yuval Noah Harari - "Sapiens: A Brief History of Humankind"
