@@ -2715,6 +2715,83 @@ in philosophical circles today.
 
 ## Jean-Jacques Rousseau (1712-1778)
 
+### "Discourse on Inequality" (1755)
+
+Jean-Jacques Rousseau's "Discourse on the Origin and Basis of Inequality Among Men," often referred
+to as "Discourse on Inequality," is a philosophical treatise that explores the nature and origins of
+human inequality. The work is divided into several sections, including a Dedication, Preface, and
+two main parts.
+
+#### Key Themes and Ideas
+
+1. **Dedication to Geneva**:
+
+    - Rousseau dedicates the work to Geneva, his birthplace, idealizing it as a model of social
+      harmony and justice. This idealized vision contrasts with his experiences in Paris and serves
+      as a critique of contemporary society.
+
+2. **Preface**:
+
+    - Rousseau emphasizes the importance of studying humanity to understand inequality. He argues
+      that scientific and technological advancements have distanced humanity from its natural state,
+      which he calls the "state of nature."
+
+3. **Types of Inequality**:
+
+    - Rousseau distinguishes between two types of inequality:
+        - **Natural or Physical Inequality**: Differences in age, health, and physical attributes,
+          which are inherent and unavoidable.
+        - **Moral or Political Inequality**: Differences established by human conventions, such as
+          wealth and social status, which Rousseau argues are not natural.
+
+4. **State of Nature**:
+
+    - In the first part, Rousseau describes the "natural man" as a solitary being driven by
+      self-preservation and basic needs. This "noble savage" is free from the vices and complexities
+      of modern society.
+    - He introduces the concept of "amour de soi" (self-love), a natural instinct for
+      self-preservation, and contrasts it with "amour propre" (pride), which arises from social
+      comparisons and leads to competition and inequality.
+
+5. **Development of Society and Inequality**:
+
+    - In the second part, Rousseau imagines the emergence of private property as the turning point
+      that led to social inequality. The claim of ownership over land marked the beginning of civil
+      society and the end of natural equality.
+    - He argues that as societies developed, people became dependent on one another, leading to the
+      rise of vanity, competition, and ultimately, political institutions that perpetuate
+      inequality.
+
+6. **Critique of Modern Society**:
+
+    - Rousseau critiques modern society for corrupting natural human goodness and creating
+      artificial inequalities. He suggests that political institutions are often tools for the rich
+      to maintain control over the poor.
+
+7. **Philosophical Inquiry**:
+
+    - Rousseau's work is a speculative inquiry into human nature and society, challenging the views
+      of other philosophers like Hobbes and Locke. He posits that humans are inherently good and
+      that inequality is a product of societal development rather than natural law.
+
+8. **Conclusion**:
+    - Rousseau leaves open-ended questions about the future of society and the possibility of
+      returning to a more natural state of equality. He does not provide concrete solutions but
+      encourages readers to reflect on the nature of inequality and the potential for social reform.
+
+#### Best Practices in Understanding Rousseau's Work
+
+-   **Contextual Analysis**: Consider the historical and philosophical context of the Enlightenment,
+    which influenced Rousseau's ideas.
+-   **Comparative Reading**: Compare Rousseau's views with those of other Enlightenment thinkers
+    like Hobbes and Locke to understand differing perspectives on human nature and society.
+-   **Critical Reflection**: Engage with Rousseau's arguments critically, considering both their
+    philosophical implications and their relevance to contemporary social issues.
+
+Rousseau's "Discourse on Inequality" remains a foundational text in political philosophy, offering
+insights into the origins and nature of social inequality and challenging readers to reconsider the
+structures of modern society.
+
 ### "The Social Contract" (1762)
 
 Jean-Jacques Rousseau's "The Social Contract," published in 1762, is a foundational work in
@@ -2867,6 +2944,120 @@ understanding morality through the lens of rationality and autonomy. It challeng
 consider the universality and necessity of moral laws and the role of duty in ethical behavior. The
 text remains influential in discussions of deontological ethics and continues to be a critical
 reference in moral philosophy.
+
+### "Critique of Practical Reason" (1788)
+
+Immanuel Kant's "Critique of Practical Reason," published in 1788, is the second of his three
+critiques and focuses on moral philosophy. It builds upon his earlier work, "Groundwork of the
+Metaphysics of Morals," and aims to establish the role of practical reason in determining the will
+according to moral law. This work is crucial in placing Kant's ethical views within his broader
+critical philosophy framework.
+
+#### Key Points
+
+1. **Purpose and Context**:
+
+    - Kant's "Critique of Practical Reason" was intended to explore how the will can be determined
+      by moral law alone, expanding on themes like respect for moral law and the concept of the
+      highest good.
+    - Initially, Kant did not plan a separate critique for practical reason, but he later saw the
+      need to distinguish between pure practical reason and speculative reason.
+
+2. **Structure**:
+
+    - The work is divided into two main parts: the Doctrine of Elements and the Doctrine of Method.
+    - The Doctrine of Elements includes an Analytic and a Dialectic of pure practical reason. The
+      Analytic establishes the principles of morality and the practical nature of pure reason, while
+      the Dialectic addresses illusions in practical judgments and discusses the highest good.
+
+3. **Primacy of Practical Reason**:
+
+    - Kant argues for the primacy of pure practical reason over theoretical reason, suggesting that
+      practical reason can guide beliefs and actions, especially when theoretical reason cannot
+      provide definitive answers.
+    - Practical reason is seen as independent of empirical conditions and is essential for moral
+      obligations.
+
+4. **Moral Law and Postulates**:
+
+    - Kant introduces the concept of postulates of practical reason, which include the existence of
+      God, the immortality of the soul, and freedom. These are necessary for the moral law, though
+      not provable by theoretical reason.
+    - The Categorical Imperative is central to Kant's moral philosophy, emphasizing actions that can
+      be universally applied as law.
+
+5. **Moral Philosophy**:
+    - Kant's ethical rationalism is formal, focusing on the framework of principles rather than
+      specific moral rules.
+    - The moral life involves a struggle between reason and inclination, with morality demanding
+      obedience to the moral law as an expression of one's own reason.
+
+#### Conclusion
+
+Kant's "Critique of Practical Reason" is a foundational text in moral philosophy, emphasizing the
+role of pure practical reason in guiding moral actions and beliefs. It highlights the importance of
+the Categorical Imperative and the necessity of postulates like God and immortality for a coherent
+moral framework. Kant's work remains influential in discussions of ethics and the nature of reason.
+
+### "Critique of Judgment" (1790)
+
+Immanuel Kant's "Critique of Judgment," published in 1790, is the third critique in his series,
+following the "Critique of Pure Reason" and the "Critique of Practical Reason." This work is divided
+into two main sections: the "Critique of Aesthetic Judgment" and the "Critique of Teleological
+Judgment."
+
+#### Critique of Aesthetic Judgment
+
+-   **Aesthetic Judgment**: Kant explores the nature of aesthetic experience, focusing on the
+    concepts of the beautiful and the sublime. He introduces the idea of "reflective judgment,"
+    which differs from "determinative judgment" by seeking universals for given particulars rather
+    than subsuming particulars under known universals.
+
+-   **Judgment of Taste**: Kant outlines four moments of the judgment of taste: quality, quantity,
+    relation, and modality. These moments describe how we perceive beauty and the subjective
+    universality of aesthetic judgments, meaning that while these judgments are subjective, they
+    carry an expectation of universal agreement.
+
+-   **Beautiful and Sublime**: The beautiful is associated with a harmonious interplay between
+    imagination and understanding, while the sublime is linked to experiences that transcend
+    comprehension, evoking a sense of awe or fear without actual danger.
+
+-   **Free and Adherent Beauty**: Kant distinguishes between free beauty, which is appreciated
+    without a concept, and adherent beauty, which involves a concept of the object's purpose.
+
+#### Critique of Teleological Judgment
+
+-   **Teleology in Nature**: Kant discusses teleological judgment, which involves understanding
+    natural phenomena as if they have purposes. He argues that while mechanical explanations are
+    preferable, some natural phenomena, particularly in biology, seem to require teleological
+    explanations.
+
+-   **Purpose and Design**: Kant posits that organisms appear to be designed with a purpose, but
+    this should be understood as a regulative principle rather than an assertion of actual design by
+    a supernatural creator.
+
+-   **Humanity and Culture**: Kant suggests that humanity, with its capacity for reason and
+    morality, represents the ultimate end of nature. Culture is seen as an expression of human
+    freedom and the highest teleological end.
+
+#### Key Points
+
+-   **Reflective Judgment**: This type of judgment is central to Kant's exploration of aesthetics
+    and teleology, emphasizing the subjective yet universally communicable nature of aesthetic
+    experience.
+
+-   **Harmony of Faculties**: The aesthetic experience involves a "free play" between imagination
+    and understanding, leading to a pleasurable feeling of harmony.
+
+-   **Teleological Language**: Kant uses teleological language to describe natural phenomena, but he
+    insists this is a heuristic tool rather than evidence of actual design.
+
+#### Influence and Interpretation
+
+Kant's "Critique of Judgment" has been influential in aesthetics and philosophy, impacting thinkers
+like Schopenhauer and contributing to discussions in continental philosophy. The work bridges the
+gap between the realms of nature and freedom, providing a framework for understanding the role of
+judgment in human experience.
 
 ## Thomas Paine (1737-1809)
 
@@ -3627,6 +3818,68 @@ existential struggle with despair and the quest for true selfhood through faith.
 challenges readers to reflect on their spiritual state and the role of faith in overcoming
 existential despair.
 
+## Henry David Thoreau (1817-1862)
+
+### "Walden" (1854)
+
+"Walden," also known as "Walden; or, Life in the Woods," is a book by transcendentalist writer Henry
+David Thoreau, first published in 1854. The book is a reflection on simple living in natural
+surroundings and is part memoir, part social experiment, and part spiritual journey. Thoreau spent
+over two years living in a self-built cabin near Walden Pond in Concord, Massachusetts, on land
+owned by his friend Ralph Waldo Emerson.
+
+#### Key Themes and Structure
+
+-   **Simple Living and Self-Reliance**: Thoreau's experiment was to live simply and
+    self-sufficiently, stripping away superfluous luxuries to focus on the essentials of life. He
+    meticulously records his expenditures and earnings to demonstrate the feasibility of a
+    simplified lifestyle.
+
+-   **Nature and Solitude**: Thoreau emphasizes the importance of solitude and closeness to nature
+    as a means of personal and spiritual growth. He makes detailed observations of the natural
+    world, using both scientific and poetic language.
+
+-   **Social Critique**: The book critiques contemporary Western culture's consumerism and
+    materialism, advocating for a life closer to nature and more mindful of the environment.
+
+-   **Spiritual Discovery**: Thoreau's time at Walden Pond is portrayed as a spiritual journey,
+    seeking to understand life and society through introspection and communion with nature.
+
+#### Organization
+
+"Walden" is divided into several chapters, each focusing on different aspects of Thoreau's
+experience:
+
+1. **Economy**: Thoreau outlines his project and the costs associated with building his cabin and
+   living at Walden Pond.
+2. **Where I Lived, and What I Lived For**: He reflects on his choice of location and the
+   philosophical reasons for his experiment.
+3. **Reading**: Thoreau discusses the value of classical literature and the importance of
+   intellectual growth.
+4. **Sounds**: He describes the natural sounds around him and their impact on his perception of
+   life.
+5. **Solitude**: Thoreau explores the benefits of solitude and the deeper connection with nature it
+   fosters.
+6. **Visitors**: Despite his solitude, Thoreau enjoys the company of visitors and reflects on human
+   interaction.
+7. **The Bean-Field**: He describes his agricultural endeavors and the satisfaction of working with
+   the land.
+8. **The Village**: Thoreau shares his thoughts on society and his occasional visits to Concord.
+9. **The Ponds**: He provides detailed descriptions of Walden Pond and its surrounding bodies of
+   water.
+10. **Higher Laws**: Thoreau contemplates the moral and ethical aspects of human life, including
+    diet and behavior.
+11. **Conclusion**: The book ends with a call to individualism and self-discovery, encouraging
+    readers to follow their own paths.
+
+#### Style and Influence
+
+Thoreau's writing in "Walden" is characterized by its lyrical and precise language, blending
+scientific observation with transcendental philosophy. The book has been influential in American
+literature and environmental thought, inspiring readers to consider the value of simplicity and the
+natural world. Despite initial mixed reviews, "Walden" is now regarded as a classic work that
+continues to resonate with themes of self-reliance and ecological awareness.
+
 ## Karl Marx (1818-1883)
 
 ### "The Communist Manifesto" (1848)
@@ -3729,6 +3982,168 @@ after the 2008 financial crisis, highlighting its enduring relevance in critiqui
 political economy and social sciences. Its concepts, such as commodity and capital, have become
 integral to economic discourse. The text continues to influence debates on economic systems, social
 relations, and political reform.
+
+## Fyodor Dostoevsky (1821-1881)
+
+### "Notes from Underground" (1864)
+
+"Notes from Underground" is a novella by Fyodor Dostoevsky, first published in 1864. It is a
+philosophical work that delves into the mind of an unnamed narrator, often referred to as the
+"Underground Man." The novella is divided into two parts, each exploring different aspects of the
+narrator's psyche and his critique of society.
+
+#### Part 1: "Underground"
+
+-   **Introduction to the Underground Man**: The narrator introduces himself as a bitter, isolated
+    former civil servant living in St. Petersburg. He describes himself as spiteful and
+    unattractive, and he refuses to seek medical help out of spite. He believes that his acute
+    consciousness prevents him from taking action, which he views as a disease.
+
+-   **Critique of Rationalism and Determinism**: The Underground Man criticizes the deterministic
+    view that human behavior can be reduced to the laws of nature and mathematics. He argues against
+    the idea that humans always act in their best interest, suggesting that people sometimes find
+    pleasure in suffering and irrationality.
+
+-   **Rejection of Utopian Ideals**: He mocks the concept of a utopian society, symbolized by the
+    "Crystal Palace," arguing that such a society would be boring and devoid of free will. He
+    believes that humans desire freedom, even if it means acting against their own interests.
+
+#### Part 2: "Apropos of the Wet Snow"
+
+-   **Personal Anecdotes**: The second part is more narrative-driven, recounting specific events
+    from the Underground Man's life. He describes his obsession with an officer who once insulted
+    him and his futile attempts to assert his equality by bumping into the officer.
+
+-   **Social Interactions and Isolation**: The Underground Man attends a farewell dinner for a
+    former schoolmate, Zverkov, whom he despises. His interactions at the dinner highlight his
+    social awkwardness and deep-seated resentment towards society.
+
+-   **Encounter with Liza**: The narrative culminates in his encounter with Liza, a young
+    prostitute. He initially tries to save her from her life of degradation but ultimately reveals
+    his own pettiness and inability to connect with others. His interaction with Liza underscores
+    his internal conflict and self-loathing.
+
+#### Themes and Context
+
+-   **Critique of Nihilism and Rational Egoism**: Dostoevsky uses the Underground Man to challenge
+    the prevailing ideologies of nihilism and rational egoism, questioning the assumptions of
+    utilitarian social philosophy.
+
+-   **Human Irrationality and Free Will**: The novella explores the tension between rationality and
+    the darker, irrational aspects of human nature. The Underground Man's desire to assert his free
+    will, even to his detriment, reflects a fundamental human need for individuality.
+
+-   **Isolation and Alienation**: The Underground Man's isolation is both self-imposed and a result
+    of societal rejection. His narrative reveals the psychological effects of alienation and the
+    struggle for self-identity.
+
+#### Writing Style
+
+-   **First-Person Narrative**: The novella is written in a confessional style, with the narrator
+    addressing the reader directly. The syntax is complex, reflecting the narrator's introspective
+    and often contradictory thoughts.
+
+-   **Symbolism**: The "Stone Wall" symbolizes the barriers imposed by nature and society, against
+    which the Underground Man rebels.
+
+#### Legacy
+
+"Notes from Underground" is considered a precursor to existentialist literature and has influenced
+various authors and works in philosophy and literature. It challenges the notion of an "enlightened"
+society and explores the complexities of human consciousness and free will.
+
+### "Crime and Punishment" (1866)
+
+"Crime and Punishment" is a novel by Russian author Fyodor Dostoevsky, first published in 1866. It
+is a profound psychological exploration of the mind of Rodion Raskolnikov, a former student living
+in poverty in St. Petersburg. The novel delves into themes of morality, guilt, and redemption.
+
+#### Plot Overview
+
+-   **Raskolnikov's Theory and Crime:** Raskolnikov, the protagonist, believes that extraordinary
+    people have the right to transgress moral laws to achieve higher purposes. Driven by this belief
+    and his dire financial situation, he plans and executes the murder of Alyona Ivanovna, a
+    pawnbroker, to steal her money. During the crime, he also kills her innocent half-sister,
+    Lizaveta, who unexpectedly witnesses the murder.
+
+-   **Psychological Turmoil:** After the murders, Raskolnikov experiences intense guilt and
+    paranoia. His mental state deteriorates as he grapples with the moral implications of his
+    actions. He becomes increasingly isolated and erratic, rejecting help from his family and
+    friends.
+
+-   **Interactions and Confession:** Raskolnikov befriends Marmeladov, an alcoholic, and his
+    daughter Sonya, who has turned to prostitution to support her family. Sonya becomes a symbol of
+    compassion and redemption for Raskolnikov. Eventually, he confesses his crime to her, and she
+    urges him to confess to the authorities.
+
+-   **Resolution and Redemption:** Raskolnikov eventually turns himself in and is sentenced to eight
+    years of hard labor in Siberia. Sonya follows him, and through her unwavering love and support,
+    Raskolnikov begins to repent and find spiritual redemption.
+
+#### Themes and Analysis
+
+-   **Moral Philosophy:** The novel explores the conflict between utilitarianism and moral
+    absolutism. Raskolnikov's initial belief in his right to commit murder for a perceived greater
+    good is challenged by the psychological and moral consequences he faces.
+
+-   **Guilt and Redemption:** Dostoevsky examines the nature of guilt and the possibility of
+    redemption through suffering. Raskolnikov's journey from crime to confession and eventual
+    acceptance of love and redemption is central to the narrative.
+
+-   **Social Critique:** The novel also critiques the socio-economic conditions of 19th-century
+    Russia, highlighting the desperation and moral decay resulting from poverty and social
+    inequality.
+
+"Crime and Punishment" is considered one of Dostoevsky's masterpieces and a seminal work in world
+literature, offering deep insights into human psychology and morality.
+
+### "The Brothers Karamazov" (1880)
+
+"The Brothers Karamazov" is a philosophical novel set in 19th-century Russia, exploring profound
+themes such as faith, doubt, free will, and morality. The story revolves around the Karamazov
+family, particularly the complex relationships between the father, Fyodor Pavlovich Karamazov, and
+his three sons: Dmitri, Ivan, and Alexei. The novel also includes a possible illegitimate son,
+Smerdyakov, who plays a crucial role in the unfolding drama.
+
+#### Key Plot Points
+
+-   **Family Dynamics**: Fyodor Pavlovich is a debauched and neglectful father, leading to strained
+    relationships with his sons. Dmitri is impulsive and passionate, Ivan is intellectual and
+    skeptical, and Alexei is spiritual and compassionate.
+
+-   **Central Conflict**: The plot thickens around the murder of Fyodor Pavlovich. Dmitri is accused
+    of patricide, driven by a rivalry over a woman named Grushenka, whom both he and his father
+    desire.
+
+-   **Philosophical Themes**: The novel delves into existential questions, particularly through
+    Ivan's character, who struggles with the existence of God and the problem of evil. His poem "The
+    Grand Inquisitor" is a significant philosophical discourse within the novel.
+
+-   **Moral and Spiritual Exploration**: Alexei, under the guidance of the elder Zosima, represents
+    the moral and spiritual heart of the novel. His journey reflects Dostoevsky's exploration of
+    faith and redemption.
+
+-   **Resolution**: The novel concludes with Dmitri's trial, where he is found guilty despite
+    evidence suggesting Smerdyakov's involvement. The story ends on a note of spiritual hope, with
+    Alexei reaffirming his faith and commitment to goodness.
+
+#### Themes and Analysis
+
+-   **Faith vs. Doubt**: The novel examines the tension between religious faith and skepticism,
+    embodied in the characters of Alexei and Ivan.
+
+-   **Free Will and Moral Responsibility**: Dostoevsky explores the idea of free will and the moral
+    responsibility of individuals, particularly in the context of sin and redemption.
+
+-   **Family and Inheritance**: The dysfunctional Karamazov family serves as a microcosm for
+    exploring themes of inheritance, both material and spiritual.
+
+-   **Justice and Redemption**: The trial and its aftermath highlight issues of justice and the
+    possibility of redemption, both legally and spiritually.
+
+"The Brothers Karamazov" is considered one of Dostoevsky's masterpieces, acclaimed for its deep
+philosophical insights and complex characterizations. It remains a significant work in world
+literature, offering a profound exploration of the human condition.
 
 ## Henry Sidgwick (1838-1900)
 
@@ -4724,6 +5139,110 @@ its logical rigor and philosophical depth. It challenges readers to consider the
 relationship between language, experience, and reality, offering insights into how we understand and
 articulate the world around us.
 
+## Herman Hesse (1877-1962)
+
+### "Siddhartha" (1922)
+
+"Siddhartha" is a novel by Hermann Hesse that explores the spiritual journey of self-discovery of a
+man named Siddhartha during the time of Gautama Buddha. The novel, published in 1922, is inspired by
+Hesse's travels in South Asia and reflects his idealized view of Indian spirituality and religious
+devotion.
+
+#### Plot Summary
+
+-   **Early Life and Quest for Enlightenment:** Siddhartha, a young Brahmin, is dissatisfied with
+    the teachings of his elders and leaves his home with his friend Govinda to join the Samanas, a
+    group of wandering ascetics. Despite mastering their practices, Siddhartha remains unfulfilled
+    and decides to seek enlightenment independently, even after meeting the Buddha, Gautama.
+
+-   **Worldly Experiences:** Siddhartha ventures into the city, where he meets Kamala, a courtesan,
+    and becomes a successful merchant under Kamaswami. He indulges in wealth and sensual pleasures
+    but eventually finds this life empty and spiritually unfulfilling.
+
+-   **Return to the River:** Disillusioned, Siddhartha returns to the river, contemplating suicide.
+    However, he experiences a spiritual awakening by the river, realizing the interconnectedness of
+    all life. He decides to live with Vasudeva, the ferryman, who teaches him to listen to the
+    river's wisdom.
+
+-   **Fatherhood and Loss:** Siddhartha discovers he has a son with Kamala, who dies from a snake
+    bite. He struggles to connect with his son, who eventually runs away. Through this loss,
+    Siddhartha learns to let go and finds peace.
+
+-   **Enlightenment:** Siddhartha achieves enlightenment by understanding the unity and timelessness
+    of life, symbolized by the river. He realizes that all experiences, both joyful and painful,
+    contribute to the wholeness of existence.
+
+-   **Reunion with Govinda:** In the end, Govinda visits Siddhartha, seeking wisdom. Siddhartha
+    shares his insights about the unity of all things and the importance of love and acceptance.
+    Govinda recognizes Siddhartha's enlightenment and experiences a profound spiritual vision.
+
+#### Themes
+
+-   **Search for Self-Realization:** The novel emphasizes the importance of personal experience and
+    self-discovery in achieving enlightenment, rather than relying solely on teachings or doctrines.
+-   **Unity and Interconnectedness:** Siddhartha learns that all life is interconnected, and true
+    understanding comes from embracing this unity.
+-   **The Illusion of Time:** The river symbolizes the eternal present, teaching Siddhartha that
+    time is an illusion and that all moments are part of a greater whole.
+
+#### Significance
+
+"Siddhartha" is a philosophical novel that challenges readers to explore their own spiritual paths
+and understand the complexities of life. It became particularly influential during the 1960s and
+1970s, resonating with those seeking spiritual enlightenment and alternative lifestyles. The novel
+remains a classic, celebrated for its lyrical prose and profound insights into the human condition.
+
+### "Steppenwolf" (1927)
+
+"Steppenwolf" is a novel by Hermann Hesse, first published in 1927. It explores the internal
+conflict of its protagonist, Harry Haller, a middle-aged intellectual who perceives himself as
+divided between two natures: the human and the wolf-like, or "Steppenwolf." This duality represents
+his struggle between the refined, cultured aspects of his personality and his more primal,
+instinctual urges.
+
+#### Plot Overview
+
+-   **Introduction and Manuscript:** The novel is framed as a manuscript left by Harry Haller, which
+    is discovered and published by the nephew of his landlady. The manuscript is titled "Harry
+    Haller's Records (For Madmen Only)."
+
+-   **Harry's Struggle:** Harry is deeply alienated from society, feeling out of place in the
+    bourgeois world. He encounters a pamphlet titled "Treatise on the Steppenwolf," which describes
+    his internal conflict and suggests that he is not just a man and a wolf, but a multitude of
+    selves.
+
+-   **Meeting Hermine:** Harry meets a young woman named Hermine, who becomes a pivotal figure in
+    his life. She introduces him to new experiences, including dancing, casual drug use, and a more
+    hedonistic lifestyle, challenging his rigid worldview.
+
+-   **Magic Theater:** The climax of the novel occurs in the "Magic Theater," a surreal,
+    hallucinatory experience where Harry confronts various aspects of his psyche. This theater is a
+    metaphorical space where he explores his fantasies and fears.
+
+-   **Resolution:** In a symbolic act, Harry stabs Hermine, projecting his own suicidal tendencies.
+    This act is followed by a confrontation with Pablo, a saxophonist, who appears as Mozart and
+    criticizes Harry for his inability to embrace life's absurdities with humor.
+
+#### Themes
+
+-   **Duality and Self-Conflict:** The novel delves into the dual nature of human existence,
+    exploring the tension between societal norms and individual desires.
+
+-   **Alienation and Despair:** Harry's journey reflects a profound sense of alienation and
+    existential despair, common themes in Hesse's work.
+
+-   **Search for Meaning:** Despite the darkness, the novel suggests the possibility of
+    transcendence and self-discovery through embracing the multiplicity of the self.
+
+#### Critical Reception
+
+"Steppenwolf" was initially misunderstood, with readers focusing on its depiction of suffering
+rather than its underlying message of hope and humor. It gained renewed interest during the 1960s,
+particularly within the counterculture movement, due to its exploration of free love and drug use.
+
+Overall, "Steppenwolf" remains a significant work in exploring the complexities of human nature and
+the quest for spiritual and psychological fulfillment.
+
 ## W. D. Ross (1877-1971)
 
 ### "The Right and the Good" (1930)
@@ -5276,6 +5795,53 @@ Overall, Horkheimer and Adorno's work challenges readers to reconsider the assum
 and rationality, highlighting the need for a critical examination of the social structures that
 perpetuate domination and inequality.
 
+## Herbert Marcuse (1898-1979)
+
+### "One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society"
+
+"One-Dimensional Man," published in 1964 by Herbert Marcuse, is a critical analysis of advanced
+industrial societies, both capitalist and communist. Marcuse argues that these societies create
+"false needs" through mass media, advertising, and industrial management, integrating individuals
+into a system of production and consumption that stifles critical thought and oppositional behavior.
+This results in a "one-dimensional" universe where revolutionary potential declines, and individuals
+become tools of the industrial machine.
+
+#### Key Themes
+
+-   **Technological Rationality and Totalitarianism**: Marcuse contends that advanced industrial
+    societies impose a form of technological rationality that becomes hegemonic, leading to a
+    totalitarian system. This system is not overtly terroristic but operates through economic and
+    technical coordination, manipulating needs and precluding effective opposition.
+
+-   **Consumerism and Social Control**: The book critiques consumerism as a form of social control,
+    where individuals are led to believe they are free through consumption. This "affluent society"
+    disguises its exploitative nature, limiting opportunities for political revolution and fostering
+    a state of "unfreedom" where people work excessively to fulfill artificially created needs.
+
+-   **Critique of Marxism and Revolutionary Potential**: Marcuse questions traditional Marxist ideas
+    about the revolutionary proletariat, arguing that the working class has been integrated into
+    capitalist society. He suggests that non-integrated forces, such as minorities and radical
+    intelligentsia, hold the potential for opposition and revolutionary thought.
+
+-   **The Great Refusal and Negative Thinking**: Marcuse promotes the "great refusal" as a form of
+    opposition to the all-encompassing control of advanced industrial society. He defends "negative
+    thinking" as a disruptive force against prevailing positivism, advocating for radical thinking
+    and behavior.
+
+#### Reception and Influence
+
+"One-Dimensional Man" was influential in the 1960s, particularly among the New Left, articulating
+dissatisfaction with both capitalist and Soviet communist societies. Despite its pessimism, the book
+remains relevant, highlighting the insidious nature of modern totalitarianism and the challenges of
+achieving true liberation.
+
+#### Conclusion
+
+Marcuse's work remains a seminal critique of modern industrial societies, emphasizing the need for
+critical thought and resistance against the subtle forms of control that pervade contemporary life.
+His analysis of technological rationality and consumerism continues to resonate in discussions about
+freedom, autonomy, and the role of technology in society.
+
 ## Karl R. Popper (1902-1994)
 
 ### "The Logic of Scientific Discovery" (1934)
@@ -5306,6 +5872,87 @@ the key points of Popper's logic:
 Popper's work has had a profound impact on the philosophy of science, influencing subsequent
 thinkers and debates. His emphasis on falsifiability has become a cornerstone in distinguishing
 scientific theories from non-scientific ones.
+
+## George Orwell (1903-1950)
+
+### "Animal Farm" (1945)
+
+"Animal Farm" is a satirical allegorical novella by George Orwell, first published in 1945. The
+story is set on a farm where the animals, led by pigs, overthrow their human farmer, Mr. Jones, in
+hopes of creating a society where they can be free, equal, and happy. However, the rebellion is
+ultimately betrayed, and the farm ends up under the dictatorship of a pig named Napoleon, leading to
+a state worse than before.
+
+#### Key Points
+
+-   **Allegory of the Russian Revolution**: The novella reflects events leading up to the Russian
+    Revolution of 1917 and the subsequent Stalinist era of the Soviet Union. Orwell, a democratic
+    socialist, was critical of Stalin and used the story to critique Stalinism.
+
+-   **Plot Overview**:
+
+    -   The animals on Manor Farm, led by the pigs Snowball and Napoleon, revolt against Mr. Jones
+        and establish Animal Farm.
+    -   They adopt the Seven Commandments of Animalism, with the core principle being "All animals
+        are equal."
+    -   Over time, Napoleon consolidates power, expels Snowball, and alters the commandments to
+        justify the pigs' privileges.
+    -   The pigs become indistinguishable from humans, walking on two legs and engaging in trade
+        with neighboring farms.
+
+-   **Themes**:
+
+    -   The corruption of socialist ideals in the Soviet Union.
+    -   The nature of power and how it can lead to tyranny.
+    -   The role of propaganda in manipulating the truth and controlling the populace.
+
+-   **Symbolism**:
+    -   The pigs represent the ruling class, particularly Stalin and his government.
+    -   The other animals symbolize the working class, who are exploited and oppressed.
+    -   The farm itself is a microcosm of a totalitarian state.
+
+#### Conclusion
+
+"Animal Farm" serves as a cautionary tale about the dangers of totalitarianism and the betrayal of
+revolutionary ideals. Orwell's use of a simple farm setting and animal characters allows him to
+explore complex political themes in an accessible way. The novella remains a powerful critique of
+political corruption and the cyclical nature of power.
+
+### "1984" (1949)
+
+"1984" is a dystopian novel by George Orwell, published in 1949. It is set in a totalitarian state
+called Oceania, where the Party, led by Big Brother, exercises absolute control over every aspect of
+life. The novel explores themes of surveillance, government control, and the manipulation of truth.
+
+-   **Setting and Society**: The story takes place in a future where three superstates—Oceania,
+    Eurasia, and Eastasia—are perpetually at war. Oceania is governed by the Party, which enforces
+    strict conformity and suppresses any form of dissent. The Party uses a language called Newspeak
+    to limit free thought and employs the Thought Police to monitor and punish rebellious thoughts.
+
+-   **Main Character**: The protagonist, Winston Smith, works at the Ministry of Truth, where he
+    alters historical records to fit the Party's propaganda. Despite his role, Winston becomes
+    disillusioned with the Party's oppressive regime and yearns for truth and freedom.
+
+-   **Plot**: Winston secretly rebels against the Party by starting an illicit affair with Julia, a
+    fellow Party member. They seek refuge in a rented room, hoping to escape the Party's watchful
+    eyes. However, they are eventually betrayed by O'Brien, a high-ranking Party official who
+    pretends to be an ally but is actually a spy. Winston and Julia are captured and subjected to
+    brutal reeducation.
+
+-   **Themes**: The novel explores the dangers of totalitarianism, the loss of individuality, and
+    the manipulation of truth. It serves as a warning against unchecked government power and the
+    erosion of personal freedoms. Orwell's depiction of a society where independent thought is
+    punished and reality is constantly rewritten remains relevant in discussions about privacy and
+    government surveillance.
+
+-   **Conclusion**: In the end, Winston is broken by the Party's torture and brainwashing. He
+    betrays Julia and ultimately submits to the Party's ideology, professing love for Big Brother.
+    The novel concludes with a bleak portrayal of a society where resistance is futile, and
+    individual thought is crushed.
+
+"1984" is a powerful critique of totalitarian regimes and a cautionary tale about the potential
+consequences of government overreach and the suppression of dissent. Its themes continue to resonate
+in contemporary discussions about freedom, privacy, and state control.
 
 ## Joseph Campbell (1904-1987)
 
@@ -5567,6 +6214,55 @@ importance of finding personal meaning as a way to navigate life's challenges an
 
 ## Hannah Arendt (1906-1975)
 
+### "The Origins of Totalitarianism" (1951)
+
+"The Origins of Totalitarianism," published in 1951, is Hannah Arendt's seminal work that examines
+the rise and nature of totalitarian regimes, specifically focusing on Nazism and Stalinism. Arendt
+explores how these regimes represent a novel form of government that differs fundamentally from
+traditional forms of political oppression like despotism and tyranny. The book is structured into
+three main sections: "Antisemitism," "Imperialism," and "Totalitarianism".
+
+#### Key Themes and Arguments
+
+1. **Antisemitism and Imperialism**: Arendt begins by analyzing the rise of antisemitism in Europe,
+   particularly through events like the Dreyfus Affair. She argues that modern antisemitism grew as
+   traditional nationalism declined, reaching its peak when the European nation-state system
+   collapsed. Arendt also examines the role of scientific racism in colonial imperialism, which
+   opposed the nation-state and contributed to the rise of totalitarian movements.
+
+2. **Totalitarianism as a Novel Form of Government**: Arendt argues that totalitarianism is distinct
+   because it uses terror to dominate entire populations, not just political adversaries. This form
+   of government seeks to control every aspect of life, aiming for total domination and global rule.
+   Totalitarian regimes, unlike autocratic ones, do not merely seek political power but aim to
+   reshape society entirely.
+
+3. **Mechanics of Totalitarian Movements**: The book delves into how totalitarian movements
+   transform classes into masses, use propaganda, and employ terror as a tool of governance. Arendt
+   highlights the role of loneliness and social isolation in making individuals susceptible to
+   totalitarian ideologies. She also discusses the use of front organizations and fake governmental
+   agencies to mask the radical nature of these regimes.
+
+4. **Radical Evil and Superfluous People**: Arendt introduces the concept of "Radical Evil,"
+   applying it to those who perpetrate totalitarian tyranny. She describes the victims of these
+   regimes as "Superfluous People," highlighting how totalitarianism dehumanizes and marginalizes
+   individuals.
+
+#### Reception and Criticism
+
+"The Origins of Totalitarianism" has been widely acclaimed and is considered one of the most
+important works of the 20th century. It has been praised for its depth and insight into the nature
+of totalitarian regimes. However, it has also faced criticism, particularly regarding Arendt's use
+of sources and her interpretation of the role of scientific racism in colonialism. Some scholars
+argue that she overemphasizes certain aspects while neglecting others.
+
+#### Conclusion
+
+Hannah Arendt's "The Origins of Totalitarianism" provides a comprehensive analysis of the conditions
+and mechanisms that led to the rise of totalitarian regimes in the 20th century. Her exploration of
+antisemitism, imperialism, and the unique characteristics of totalitarianism offers valuable
+insights into the dangers of unchecked political power and the importance of safeguarding democratic
+institutions.
+
 ### "The Human Condition" (1958)
 
 "The Human Condition," published in 1958 by Hannah Arendt, is a seminal work in political and
@@ -5614,6 +6310,44 @@ address these challenges.
 
 Overall, "The Human Condition" is a profound exploration of human activities and their significance,
 urging a reevaluation of how we understand and prioritize different aspects of life.
+
+### "Eichmann in Jerusalem: A Report on the Banality of Evil" (1963)
+
+"Eichmann in Jerusalem" is a book by Hannah Arendt, published in 1963, that reports on the trial of
+Adolf Eichmann, a key organizer of the Holocaust. Arendt, a philosopher and political thinker,
+covered the trial for The New Yorker. The book is notable for introducing the concept of the
+"banality of evil," which suggests that Eichmann was not a fanatic or sociopath but an ordinary
+person who simply followed orders without critical thought or moral reflection.
+
+#### Key Themes
+
+-   **Banality of Evil**: Arendt argues that Eichmann's actions were not driven by deep-seated
+    hatred or ideology but by a thoughtless adherence to orders and a desire for career advancement.
+    This concept challenges the notion that only monstrous individuals can commit horrific acts,
+    suggesting instead that ordinary people can become agents of evil under certain conditions.
+
+-   **Moral Responsibility**: Arendt emphasizes the importance of individual moral responsibility,
+    even under totalitarian regimes. She argues that Eichmann had choices and that his failure to
+    think critically about his actions contributed to the atrocities he committed.
+
+-   **Criticism of Jewish Leadership**: One of the book's controversial aspects is Arendt's critique
+    of the Jewish councils (Judenräte) for their cooperation with the Nazis. She suggests that this
+    cooperation contributed to the scale of the Holocaust, a point that sparked significant backlash
+    and debate.
+
+#### Reception and Controversy
+
+The book was met with both acclaim and criticism. Arendt was accused of "blaming the victim" for her
+comments on Jewish cooperation. Critics also questioned her portrayal of Eichmann as a banal figure,
+arguing that she underestimated his anti-Semitism and ideological commitment. Despite the
+controversy, the book remains influential in discussions about morality, justice, and the nature of
+evil.
+
+#### Conclusion
+
+"Eichmann in Jerusalem" challenges readers to reconsider their understanding of evil and moral
+responsibility. Arendt's insights into the nature of bureaucratic complicity and the dangers of
+uncritical obedience continue to resonate in contemporary debates about ethics and justice.
 
 ## Maurice Merleau-Ponty (1908-1961)
 
@@ -6359,6 +7093,116 @@ In summary, Kuhn's "The Structure of Scientific Revolutions" fundamentally chang
 of scientific progress by highlighting the episodic nature of scientific development and the role of
 paradigm shifts in driving revolutionary changes in science.
 
+## Gilles Deleuze (1925-1995)
+
+### "Anti-Oedipus: Capitalism and Schizophrenia" (1972)
+
+"Anti-Oedipus: Capitalism and Schizophrenia" is a seminal work by philosopher Gilles Deleuze and
+psychoanalyst Félix Guattari, published in 1972. It is the first volume in their collaborative
+series "Capitalism and Schizophrenia," followed by "A Thousand Plateaus." The book critiques
+traditional psychoanalysis, particularly the Freudian Oedipal complex, and introduces the concept of
+"schizoanalysis" as an alternative framework.
+
+#### Key Concepts
+
+-   **Schizoanalysis:** This is a form of social and political analysis that challenges the
+    traditional psychoanalytic focus on the family and the Oedipal complex. Schizoanalysis
+    emphasizes the social and historical dimensions of desire, proposing that unconscious libidinal
+    investments are inherently social and can be revolutionary or reactionary.
+
+-   **Desiring-Production:** Deleuze and Guattari argue that desire is not a lack but a productive
+    force that creates reality. They introduce the concept of "desiring-machines," which are
+    interconnected with social machines, suggesting that desire and social production are
+    inseparable.
+
+-   **Body Without Organs (BwO):** Borrowed from Antonin Artaud, this concept describes a state of
+    potentiality where desire can manifest in various forms. It represents a rejection of
+    structured, hierarchical systems in favor of fluid, dynamic processes.
+
+-   **Critique of Psychoanalysis:** The authors criticize psychoanalysis for its focus on familial
+    structures and repression. They argue that the Oedipal model is a tool of social repression that
+    limits the revolutionary potential of desire.
+
+-   **Territorialization and Deterritorialization:** These concepts describe the processes of
+    structuring and de-structuring within social and psychological systems. Deterritorialization
+    involves breaking free from rigid structures, while reterritorialization refers to the
+    re-establishment of new structures.
+
+#### Impact and Reception
+
+-   "Anti-Oedipus" was influential in contemporary philosophy, particularly in the fields of
+    post-structuralism and critical theory. It challenged the dominance of Lacanian psychoanalysis
+    and was seen as a key text in the "micropolitics of desire."
+
+-   The book was praised for its innovative ideas and critique of traditional psychoanalytic and
+    capitalist structures. However, it also faced criticism for its complex language and abstract
+    concepts.
+
+-   Michel Foucault, in his preface to the book, described it as a work of art and ethics,
+    emphasizing its critique of fascism and its call for a non-fascist life.
+
+Overall, "Anti-Oedipus" is a radical rethinking of desire, psychoanalysis, and capitalism, proposing
+a new way of understanding the relationship between individuals and society.
+
+### "A Thousand Plateaus: Capitalism and Schizophrenia" (1980)
+
+"A Thousand Plateaus: Capitalism and Schizophrenia" is a philosophical work by Gilles Deleuze and
+Félix Guattari, published in 1980. It is the second volume in their collaborative series "Capitalism
+and Schizophrenia," following "Anti-Oedipus." This book is known for its complex and non-linear
+structure, which reflects its central theme of "rhizomatic" thought—a concept borrowed from botany
+to describe a non-hierarchical, interconnected network of ideas.
+
+#### Key Concepts
+
+-   **Rhizome**: The book introduces the concept of the rhizome as a model for understanding
+    knowledge and reality. Unlike traditional hierarchical structures, a rhizome is non-linear and
+    allows for multiple, non-hierarchical entry and exit points in data representation and
+    interpretation.
+
+-   **Plateaus**: Each chapter is referred to as a "plateau," a term borrowed from Gregory Bateson,
+    representing a continuous, self-vibrating region of intensities. These plateaus can be read in
+    any order, emphasizing the book's non-linear nature.
+
+-   **Multiplicity and Assemblages**: Deleuze and Guattari explore the idea of multiplicity,
+    rejecting binary logic in favor of complex, interconnected systems. Assemblages are collections
+    of heterogeneous elements that come together to form a whole, emphasizing the fluidity and
+    interconnectedness of reality.
+
+-   **Deterritorialization and Reterritorialization**: These concepts describe the process of
+    breaking away from established structures (deterritorialization) and the subsequent formation of
+    new structures (reterritorialization). This dynamic is central to understanding cultural and
+    social transformations.
+
+-   **Body Without Organs**: This metaphorical concept challenges traditional notions of identity
+    and structure, suggesting a fluid, non-hierarchical way of understanding the self and society.
+
+#### Themes and Discussions
+
+-   **Critique of Psychoanalysis**: The book critiques traditional psychoanalytic approaches,
+    particularly those of Freud, by proposing "schizoanalysis" as an alternative method that
+    emphasizes creativity and multiplicity over rigid structures.
+
+-   **Interdisciplinary Approach**: Deleuze and Guattari draw on a wide range of disciplines,
+    including philosophy, psychoanalysis, politics, and art, to explore their ideas. They discuss
+    figures like Freud, Jung, Lacan, and various artists and philosophers, integrating their
+    thoughts into the rhizomatic framework.
+
+-   **Cultural and Political Implications**: The work has been influential in post-structuralist and
+    postmodern thought, offering new ways to think about social and political structures. It
+    challenges conventional ideas of subjectivity and identity, proposing a more fluid and
+    interconnected understanding of the world.
+
+#### Reception and Influence
+
+"A Thousand Plateaus" is considered a seminal work in post-structuralist and postmodern philosophy.
+It has influenced various fields, including political philosophy, sociology, and cultural studies.
+The book's complex style and innovative ideas have sparked both admiration and criticism, with some
+praising its creativity and others critiquing its dense and challenging prose.
+
+Overall, "A Thousand Plateaus" invites readers to rethink traditional structures and embrace a more
+dynamic and interconnected view of reality, challenging established norms and encouraging new ways
+of thinking.
+
 ## Michel Foucault (1926-1984)
 
 ### "Madness and Civilization: A History of Insanity in the Age of Reason" (1961)
@@ -6831,6 +7675,61 @@ The book's philosophical depth and exploration of human relationships against a 
 have made it a significant work in existential and postmodern literature. The 1988 film adaptation
 further popularized the novel, although Kundera himself noted that the film diverged from the
 novel's spirit.
+
+## Guy Debord (1931-1994)
+
+### "The Society of the Spectacle" (1967)
+
+"The Society of the Spectacle," written by Guy Debord in 1967, is a critical theory text that
+explores the pervasive influence of images and media in contemporary capitalist societies. Debord
+introduces the concept of the "spectacle," which he describes as a social relationship between
+people that is mediated by images. This work is foundational to the Situationist movement and
+critiques how modern life has become dominated by representations rather than direct experiences.
+
+#### Key Concepts
+
+-   **Spectacle as Social Relation**: Debord argues that the spectacle is not merely a collection of
+    images but a social relation among people mediated by images. It represents the transformation
+    of lived experiences into representations, where authentic social interactions are replaced by
+    mediated ones.
+
+-   **Degradation of Human Life**: The spectacle leads to the degradation of human life by
+    prioritizing appearances over reality. Debord suggests that society has shifted from "being" to
+    "having," and from "having" to "appearing," where the image becomes more important than the
+    substance.
+
+-   **Commodity Fetishism**: The book critiques consumer culture and commodity fetishism, where
+    social life is organized around the consumption of images and commodities. This results in
+    cultural homogenization and alienation, as genuine human interactions are supplanted by
+    interactions with images.
+
+-   **Mass Media and Marketing**: Debord draws parallels between the role of mass media in
+    contemporary society and the role of religion in the past. He argues that mass media acts as a
+    tool for capitalism to distract and pacify the masses, similar to how religion once did.
+
+-   **Critique of American Sociology**: Debord critiques American sociologists like Daniel J.
+    Boorstin, David Riesman, and William H. Whyte for failing to grasp the concept of the spectacle
+    and its implications on society.
+
+-   **Authenticity and Plagiarism**: The text also explores themes of authenticity versus
+    inauthenticity, suggesting that modern culture constantly re-appropriates and reinvents itself,
+    often through plagiarism.
+
+-   **Forms of Spectacle**: Debord identifies different forms of spectacle, including the
+    concentrated spectacle seen in totalitarian regimes and the diffuse spectacle prevalent in
+    wealthy democracies. He later introduces the concept of the integrated spectacle, which combines
+    elements of both.
+
+#### Impact and Relevance
+
+Debord's work is considered prescient in its analysis of the pervasive influence of media and images
+in shaping social relations and consciousness. His critique of the spectacle remains relevant in the
+context of today's digital and social media landscapes, where the commodification of personal
+experiences and relationships continues to grow.
+
+Overall, "The Society of the Spectacle" challenges readers to critically examine the ways in which
+media and consumer culture shape their perceptions and interactions, urging a return to more
+authentic and direct forms of social engagement.
 
 ## Richard Bach (1936-present)
 
@@ -8492,37 +9391,3 @@ nature can lead to a more just and compassionate world.
 ### Friedrich Nietzsche - "The Will to Power"
 
 ### Friedrich Nietzsche - "Twilight of the Idols"
-
-### Fyodor Dostoevsky - "Crime and Punishment"
-
-### Fyodor Dostoevsky - "Notes from Underground"
-
-### Fyodor Dostoevsky - "The Brothers Karamazov"
-
-### George Orwell - "1984"
-
-### George Orwell - "Animal Farm"
-
-### Gilles Deleuze - "Anti-Oedipus: Capitalism and Schizophrenia"
-
-### Gilles Deleuze - "A Thousand Plateaus: Capitalism and Schizophrenia"
-
-### Guy Debord - "The Society of the Spectacle"
-
-### Hannah Arendt - "Eichmann in Jerusalem: A Report on the Banality of Evil"
-
-### Hannah Arendt - "The Origins of Totalitarianism"
-
-### Henry David Thoreau - "Walden" (1854)
-
-### Herbert Marcuse - "One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society"
-
-### Herman Hesse - "Siddhartha" (1922)
-
-### Herman Hesse - "Steppenwolf" (1922)
-
-### Immanuel Kant - "Critique of Judgment"
-
-### Immanuel Kant - "Critique of Practical Reason"
-
-### Jean-Jacques Rousseau - "Discourse on the Origin of Inequality"
