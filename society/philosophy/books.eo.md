@@ -1,4 +1,4 @@
-# Filozofiaj Libro
+# Filozofiaj Libroj
 
 ## Heraklito (6a jarcento a.K.)
 
