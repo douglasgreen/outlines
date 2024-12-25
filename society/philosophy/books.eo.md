@@ -70,7 +70,7 @@ La *Tao Te Ching* ofertas profundajn komprenojn pri vivi ekvilibran kaj harmonia
 
 ### "La Analektoj" (476 a.K.)
 
-*La Analektoj de Konfuceo* estas kolekto de diradoj kaj ideoj atribuitaj al la ĉina filozofo Konfuceo kaj liaj disĉiploj. Kompilita post la morto de Konfuceo, la teksto estas dividita en dudek librojn, ĉiu enhavanta serion da mallongaj pasagxoj kiuj reflektas la instruojn de Konfuceo pri moraleco, regado, kaj persona konduto.
+*La Analektoj de Konfuceo* estas kolekto de diradoj kaj ideoj atribuitaj al la ĉina filozofo Konfuceo kaj liaj disĉiploj. Kompilita post la morto de Konfuceo, la teksto estas dividita en dudek librojn, ĉiu enhavanta serion da mallongaj pasaĝoj kiuj reflektas la instruojn de Konfuceo pri moraleco, regado, kaj persona konduto.
 
 #### Ĉefaj Konceptoj
 
@@ -370,7 +370,7 @@ Platono "Theaetetus" estas filozofia dialogo kiu esploras la naturon de scio. Ĝ
 -   **Unitaria vs. Reviziisma Debato**: Akademiuloj estas dividitaj pri ĉu la verkoj de Platono montras koheran doktrinon (Unitarianismo) aŭ se ili montras signifajn reviziojn kaj ŝanĝojn en pensado (Reviziismo). La "Teaetetus" estas centra en ĉi tiu debato, precipe rilate al ĝia traktado de la teorio pri Formoj.
 -   **Influo sur Epistemologio**: La dialogo havis influon en la kampo de epistemologio, precipe en diskutoj pri la naturo de scio kaj la defioj de difini ĝin. Ĝi ankaŭ influis modernajn filozofiajn diskutojn, kiel tiuj iniciatitaj de Edmund Gettier, kiu pridubis la difinon de scio kiel "justigita vera kredo."
 
-Ĉ overall, "Teaetetus" estas kompleksa kaj riĉa dialogo, kiu daŭre estas temo de akademia intereso pro sia profunda esplorado de scio kaj ĝiaj implicoj por kompreni homan kognadon kaj filozofian esploron.
+Ĝenerale, "Teaetetus" estas kompleksa kaj riĉa dialogo, kiu daŭre estas temo de akademia intereso pro sia profunda esplorado de scio kaj ĝiaj implicoj por kompreni homan kognadon kaj filozofian esploron.
 
 ## Aristotelo (384-322 a.K.)
 
@@ -436,7 +436,7 @@ La "Politiko" de Aristotelo provizas detalan analizon de la politikaj komunumoj 
 
 La metodologio de Aristotelo implikas ekzamenadon de vaste akceptitaj opinioj kaj sisteman analizon por malkaŝi subajn verojn. Ĉi tiu aliro instigas ampleksan komprenon de politikaj fenomenoj kaj restas valora ilo por politika diskurso hodiaŭ.
 
-Ĉ overall, "Politiko" de Aristotelo estas fundamenta verko, kiu esploras la kompleksan rilaton inter etiko kaj politiko, defendante politikan sistemon, kiu antaŭenigas la komunan bonon kaj la virton de ĝiaj civitanoj.
+Ĝenerale, "Politiko" de Aristotelo estas fundamenta verko, kiu esploras la kompleksan rilaton inter etiko kaj politiko, defendante politikan sistemon, kiu antaŭenigas la komunan bonon kaj la virton de ĝiaj civitanoj.
 
 ### "La Nikomakea Etiko" (350 a.K.)
 
@@ -582,7 +582,7 @@ La verko de Aristotelo "La Arto de Rhetoriko" estas fundamenta teksto en la stud
 
 -   "La Arto de Rhetoriko" havis profundan efikon sur la studadon de komunikado kaj persvado. Ĝi provizas sisteman aliron por kompreni kiel lingvo povas esti uzata por influi aliajn, koncepto kiu restas grava en diversaj kampoj kiel politiko, juro, kaj merkatado.
 
-Ĉ overall, "La Arto de Rhetoriko" de Aristotelo estas ampleksa gvidilo al la principoj de efika komunikado kaj persvado, emfaziĝante la gravecon de ambaŭ enhavo kaj stilo en rhetoriko.
+Ĝenerale, "La Arto de Rhetoriko" de Aristotelo estas ampleksa gvidilo al la principoj de efika komunikado kaj persvado, emfaziĝante la gravecon de ambaŭ enhavo kaj stilo en rhetoriko.
 
 ## Mencius (371-289 a.K.)
 
@@ -1821,7 +1821,7 @@ La verko de David Hume "Enketo Pri Homaj Komprenoj" estas fundamenta teksto en m
 -   La verko de Hume havis grandan influon, precipe sur Immanuel Kant kaj modernan epistemologion.
 -   Liaj ideoj pri homa atesto kaj kutimo havas paralelojn en moderna psikologio kaj estis submetitaj al subteno kaj kritiko.
 
-Ĉ overall, "Enketo Pri Homaj Komprenoj" estas kritika ekzamenado de homa kognicio, emfazas empirian observaĵon kaj skeptikon pri la limoj de homa scio.
+Ĝenerale, "Enketo Pri Homaj Komprenoj" estas kritika ekzamenado de homa kognicio, emfazas empirian observaĵon kaj skeptikon pri la limoj de homa scio.
 
 ### "Enketo Pri la Principoj de Moralo" (1751)
 
@@ -1841,7 +1841,7 @@ La verko de David Hume "Enketo Pri Homaj Komprenoj" estas fundamenta teksto en m
 
 -   **Kritiko de Monakaj Virtuoj**: Hume kritikas certajn religiajn virtujojn, kiel memrenkontiĝo kaj humileco, etikedi ilin kiel "monakaj virtuoj" kiuj ne kontribuas al persona aŭ socia bonfarto.
 
-Ĉ overall, la verko de Hume provizas naturan priskribon de moraleco, fokusiĝante sur homaj sentoj kaj la socia kunteksto en kiu moralaj juĝoj estas faritaj. Lia emfazo sur sento super racio kaj lia klasifiko de virtuoj havis influon en la evoluo de morala filozofio.
+Ĝenerale, la verko de Hume provizas naturan priskribon de moraleco, fokusiĝante sur homaj sentoj kaj la socia kunteksto en kiu moralaj juĝoj estas faritaj. Lia emfazo sur sento super racio kaj lia klasifiko de virtuoj havis influon en la evoluo de morala filozofio.
 
 ### "Dialogoj Pri Natura Religio" (1779)
 
@@ -1862,7 +1862,7 @@ La verko de David Hume "Enketo Pri Homaj Komprenoj" estas fundamenta teksto en m
 
 -   **Filozofia Influo**: La dialogoj de Hume estas influitaj de pli fruaj verkoj, kiel "De Natura Deorum" de Cicerono, kaj ili engaĝiĝas kun kontemporan debato pri la ekzisto de Dio, precipe kritikante la dezajnargumenton kiu estis popularigita de teologoj kiel William Paley.
 
-Ĉ overall, "Dialogoj Pri Natura Religio" estas kritika ekzamenado de la argumentoj por kaj kontraŭ la ekzisto de Dio, emfazante la defiojn de uzado de homa racio por kompreni la diaĵon. Per la debatoj de la karakteroj, Hume prezentas nuancitan esploron de religia filozofio, skepticismo, kaj la naturo de kredo.
+Ĝenerale, "Dialogoj Pri Natura Religio" estas kritika ekzamenado de la argumentoj por kaj kontraŭ la ekzisto de Dio, emfazante la defiojn de uzado de homa racio por kompreni la diaĵon. Per la debatoj de la karakteroj, Hume prezentas nuancitan esploron de religia filozofio, skepticismo, kaj la naturo de kredo.
 
 #### Strukturo de la Traktato
 
@@ -2268,7 +2268,7 @@ La "Filozofio de Historio" de Hegel estas profunda esplorado de la evoluo de hom
 
 -   **Influo sur Moderna Pensado**: La ideoj de Hegel signife influis modernajn sociajn movadojn kaj pensulojn, inkluzive Karl Marx kaj Martin Luther King Jr. Lia filozofio sugestas, ke progreso estas ebleco kaj eĉ neevitebla, malgraŭ la defioj kaj malfacilaĵoj renkontitaj laŭ la vojo. Ĉi tiu kredo je progreso tra lukto inspiris movadojn por socia ŝanĝo kaj justeco.
 
-Ĉ overall, la "Filozofio de Historio" de Hegel prezentas kompleksan kaj optimisman vidon pri historio kiel racia procezo gvidata de la dialektika solvo de kontraŭdiroj, kondukante al homa progreso kaj libereco.
+Ĝenerale, la "Filozofio de Historio" de Hegel prezentas kompleksan kaj optimisman vidon pri historio kiel racia procezo gvidata de la dialektika solvo de kontraŭdiroj, kondukante al homa progreso kaj libereco.
 
 ## Arthur Schopenhauer (1788-1860)
 
@@ -3399,7 +3399,7 @@ Resume, la verko de John Dewey "Homa Naturo kaj Konduto" prezentas vizion de eti
 
 -   **Efiko sur Edukado kaj Socio**: La ideoj de Dewey havas signifajn implicojn por edukado kaj socia reformo. Li sugestas, ke edukado devus esti sperta kaj celita al kultivado de kritika pensado kaj problemo-solvado kapabloj. En socio, akcepti nekonformon povas konduki al pli adaptaj kaj novigaj aliroj al solvi defiojn.
 
-Ĉ overall, "La Serĉado de Certo" defias la tradician apartigon inter scio kaj ago, antaŭenigante pli integriĝantan kaj pragmatan aliron al kompreno kaj engaĝiĝo kun la mondo. La verko de Dewey instigas ŝanĝon de serĉado de absoluta certeco al akceptado de la nekonformoj inherentaj en homa sperto, tiel kultivante pli dinamikan kaj respondecivan filozofion.
+Ĝenerale, "La Serĉado de Certo" defias la tradician apartigon inter scio kaj ago, antaŭenigante pli integriĝantan kaj pragmatan aliron al kompreno kaj engaĝiĝo kun la mondo. La verko de Dewey instigas ŝanĝon de serĉado de absoluta certeco al akceptado de la nekonformoj inherentaj en homa sperto, tiel kultivante pli dinamikan kaj respondecivan filozofion.
 
 ## Alfred North Whitehead (1861-1947)
 
@@ -3556,7 +3556,7 @@ La instruoj de Suzuki havis profundan efikon sur ambaŭ orienta kaj okcidenta pe
 
 -   Ĝi metis la bazon por moderna matematika logiko kaj influis sekvajn evoluojn en la kampo, malgraŭ la defioj kaj limigoj, kiujn ĝi alfrontis.
 
-Ĉ overall, "Principia Mathematica" reprezentas monumentan penadon por formaliĝi matematiko tra logiko, traktante fundamentajn problemojn kaj inspirante estontajn generaciojn de logikistoj kaj matematikistoj.
+Ĝenerale, "Principia Mathematica" reprezentas monumentan penadon por formaliĝi matematiko tra logiko, traktante fundamentajn problemojn kaj inspirante estontajn generaciojn de logikistoj kaj matematikistoj.
 
 ### "La Problemoj de Filozofio" (1912)
 
@@ -3669,7 +3669,7 @@ Russell ankaŭ esploras kio kontribuas al feliĉo:
 
 -   **Justeca Socio**: Per advokado por reduktitaj laborhoroj kaj pli justa distribuo de rimedoj, Russell imagas socion, kie ĉiuj havas la ŝancon ĝui la avantaĝojn de progreso.
 
-Ĉ overall, "En La Praise de Senlaboro kaj Aliaj Eseoj" invitas legantojn reekzameni la valoron de laboro kaj libertempo en siaj vivoj kaj imagi socion, kiu prioritatigas homan bonfarton super senĉesa produktiveco.
+Ĝenerale, "En La Praise de Senlaboro kaj Aliaj Eseoj" invitas legantojn reekzameni la valoron de laboro kaj libertempo en siaj vivoj kaj imagi socion, kiu prioritatigas homan bonfarton super senĉesa produktiveco.
 
 ### "Enketo pri Signifo kaj Veremo" (1940)
 
@@ -4090,7 +4090,7 @@ La verko de Rudolf Carnap "Filozofio kaj Logika Sintakso" estas grava kontribuo 
 
 Ĝenerale, "Filozofio kaj Logika Sintakso" de Carnap estas fundamenta teksto en logika pozitivismo, emfazi la gravecon de lingva analizo en filozofio kaj defendante sciencan aliron al filozofiaj problemoj.
 
-## Aldous Huxley (1894-1963)
+## Aldous Hŭley (1894-1963)
 
 ### "Brava Nova Mondo" (1932)
 
@@ -4121,24 +4121,24 @@ La verko de Rudolf Carnap "Filozofio kaj Logika Sintakso" estas grava kontribuo 
 #### Temoj
 
 -   **Kontrolo kontraŭ Libereco**: La romano esploras kiel teknologia kaj psikologia kontrolo povas subpremi individuecon kaj liberecon.
--   **La Kosto de Stabilo**: Huxley demandas kion la socio estas preta oferi por stabileco kaj feliĉo, inkluzive arton, sciencon, kaj personan liberecon.
+-   **La Kosto de Stabilo**: Hŭley demandas kion la socio estas preta oferi por stabileco kaj feliĉo, inkluzive arton, sciencon, kaj personan liberecon.
 -   **La Rolo de Teknologio**: La libro esploras la malhumanigajn efikojn de teknologio kiam ĝi estas uzata por kontroli kaj kondiĉi homan konduton.
 
 "Brava Nova Mondo" servas kiel averta rakonto pri la eblaj konsekvencoj de oferi individuecon kaj liberecon pro la sake de socia stabileco kaj teknologia progreso. Ĝi restas grava kritiko de la moderna socio pri ĝia dependeco de teknologio kaj la serĉado de superficeca feliĉo.
 
 ### "La Perpetua Filozofio" (1945)
 
-"La Perpetua Filozofio" estas libro de Aldous Huxley, publikigita en 1945, kiu esploras la universalaĵojn trovitajn en diversaj religiaj tradicioj. Huxley ekzamenas la kernajn spiritajn principojn, kiujn li kredas esti komune dividitaj inter malsamaj religioj, formante "perpetuan filozofion" kiu subtenas ĉiujn teologiajn pensojn.
+"La Perpetua Filozofio" estas libro de Aldous Hŭley, publikigita en 1945, kiu esploras la universalaĵojn trovitajn en diversaj religiaj tradicioj. Hŭley ekzamenas la kernajn spiritajn principojn, kiujn li kredas esti komune dividitaj inter malsamaj religioj, formante "perpetuan filozofion" kiu subtenas ĉiujn teologiajn pensojn.
 
 #### Enhavo kaj Strukturo
 
--   La libro estas strukturoita kiel antologio, prezentante fragmentojn de orientaj kaj okcidentaj mistikoj, filozofioj, kaj religiaj tekstoj. Huxley organizas ĉi tiujn citaĵojn laŭ temoj kiel vero, memkonado, kaj spiritaj praktikoj, provizante komentaron por ligi la ideojn.
+-   La libro estas strukturoita kiel antologio, prezentante fragmentojn de orientaj kaj okcidentaj mistikoj, filozofioj, kaj religiaj tekstoj. Hŭley organizas ĉi tiujn citaĵojn laŭ temoj kiel vero, memkonado, kaj spiritaj praktikoj, provizante komentaron por ligi la ideojn.
 
--   Huxley tiras el vasta gamo de fontoj, inkluzive kristanajn mistikojn kiel Sankta Johano de la Kruco, orientajn tekstojn kiel la Bhagavad Gita kaj la Upaniŝadoj, kaj instruojn el budhismo kaj taoismo. Li celas elstarigi la komunecojn en spirita saĝo trans kulturoj kaj epokoj.
+-   Hŭley tiras el vasta gamo de fontoj, inkluzive kristanajn mistikojn kiel Sankta Johano de la Kruco, orientajn tekstojn kiel la Bhagavad Gita kaj la Upaniŝadoj, kaj instruojn el budhismo kaj taoismo. Li celas elstarigi la komunecojn en spirita saĝo trans kulturoj kaj epokoj.
 
 #### Temoj kaj Filozofio
 
--   Huxley argumentas ke ĉe la kerno de ĉiuj religioj estas rekono de dia realeco kiu transpasas la materialan mondon. Ĉi tiu realeco estas atingebla per spiritaj praktikoj kiuj kultivas amon, humilecon, kaj senegoismon.
+-   Hŭley argumentas ke ĉe la kerno de ĉiuj religioj estas rekono de dia realeco kiu transpasas la materialan mondon. Ĉi tiu realeco estas atingebla per spiritaj praktikoj kiuj kultivas amon, humilecon, kaj senegoismon.
 
 -   Li emfazas la gravecon de rekta spirita sperto kaj sugestas ke vera scio venas de transformado de enspezo por kongrui kun la dia.
 
@@ -4152,41 +4152,41 @@ La verko de Rudolf Carnap "Filozofio kaj Logika Sintakso" estas grava kontribuo 
 
 #### Kritiko
 
--   Iuj kritikistoj argumentas ke la aliro de Huxley estas tro simplisma, superrigardante la signifajn diferencojn inter religiaj tradicioj. Aliaj montras ke lia elekto de citaĵoj estas idiosinkrazia kaj mankas reprezentado de certaj grupoj, kiel inaj mistikoj aŭ islamaj tekstoj.
+-   Iuj kritikistoj argumentas ke la aliro de Hŭley estas tro simplisma, superrigardante la signifajn diferencojn inter religiaj tradicioj. Aliaj montras ke lia elekto de citaĵoj estas idiosinkrazia kaj mankas reprezentado de certaj grupoj, kiel inaj mistikoj aŭ islamaj tekstoj.
 
 - Malgraŭ tiuj kritikoj, la libro restas fundamenta verko en la studo de komparativa religio kaj mistikismo, valorata pro sia esplorado de universaj spiritaj temoj.
 
 ### "La Pordoj de Percepto" (1954)
 
-La "Pordoj de Percepto" de Aldous Huxley kaj "Ĉielo kaj Infero" estas du eseoj, kiuj esploras la naturon de homa konscio kaj percepto tra la lenso de psikedelaj spertoj, precipe per la uzo de meskalino, psikoaktiva kunmetaĵo trovita en la peyote kaktuso.
+La "Pordoj de Percepto" de Aldous Hŭley kaj "Ĉielo kaj Infero" estas du eseoj, kiuj esploras la naturon de homa konscio kaj percepto tra la lenso de psikedelaj spertoj, precipe per la uzo de meskalino, psikoaktiva kunmetaĵo trovita en la peyote kaktuso.
 
 #### La Pordoj de Percepto
 
-- **Eksperimentado kun Meskalino**: Huxley dokumentas sian personan sperton kun meskalino, priskribante kiel ĝi ŝanĝis lian percepton pri realeco. Li notas, ke ordinaraj objektoj, kiel floroj, akiris profundan signifon, aperante vibrante kaj plena je signifo preter ilia kutima aspekto.
+- **Eksperimentado kun Meskalino**: Hŭley dokumentas sian personan sperton kun meskalino, priskribante kiel ĝi ŝanĝis lian percepton pri realeco. Li notas, ke ordinaraj objektoj, kiel floroj, akiris profundan signifon, aperante vibrante kaj plena je signifo preter ilia kutima aspekto.
 
-- **Filozofiaj Komprenoj**: La eseo enprofundiĝas en filozofiajn demandojn pri la naturo de realeco kaj percepto. Huxley sugestas, ke la cerbo agas kiel "reduktanta valvo", kiu filtradas la vastan komplekson de la universo, permesante nur malgrandan flukvanton da informoj por formi nian konscian sperton. Li argumentas, ke psikedelaj substancoj povas malfermi ĉi tiun valvon, provizante aliron al pli vasta spektro de realeco.
+- **Filozofiaj Komprenoj**: La eseo enprofundiĝas en filozofiajn demandojn pri la naturo de realeco kaj percepto. Hŭley sugestas, ke la cerbo agas kiel "reduktanta valvo", kiu filtradas la vastan komplekson de la universo, permesante nur malgrandan flukvanton da informoj por formi nian konscian sperton. Li argumentas, ke psikedelaj substancoj povas malfermi ĉi tiun valvon, provizante aliron al pli vasta spektro de realeco.
 
-- **Artistikaj kaj Etikaj Konsideroj**: Huxley reflektas pri kiel ŝanĝitaj statoj de percepto povas plibonigi artistan aprecon kaj komprenon. Li ankaŭ konsideras la etikajn implicojn de uzi substancojn por atingi ĉi tiujn statojn, pensante ĉu ili ofertas veran iluminadon aŭ simple eskapon de realeco.
+- **Artistikaj kaj Etikaj Konsideroj**: Hŭley reflektas pri kiel ŝanĝitaj statoj de percepto povas plibonigi artistan aprecon kaj komprenon. Li ankaŭ konsideras la etikajn implicojn de uzi substancojn por atingi ĉi tiujn statojn, pensante ĉu ili ofertas veran iluminadon aŭ simple eskapon de realeco.
 
 #### Ĉielo kaj Infero
 
-- **Homa Deziro por Transcendeco**: Ĉi tiu eseo esploras la historion de la homaro en serĉado de transcendeco tra arto, religio kaj intoxikantoj. Huxley diskutas kiel ĉi tiuj metodoj estis uzataj por atingi pli altajn statojn de konscio kaj eskapi la monotonecon de ĉiutaga vivo.
+- **Homa Deziro por Transcendeco**: Ĉi tiu eseo esploras la historion de la homaro en serĉado de transcendeco tra arto, religio kaj intoxikantoj. Hŭley diskutas kiel ĉi tiuj metodoj estis uzataj por atingi pli altajn statojn de konscio kaj eskapi la monotonecon de ĉiutaga vivo.
 
-- **Psikoaktiva Substancoj en Religio**: Huxley ekzamenas la rolon de psikoaktiva substancoj en religiaj kuntekstoj, sugestante ke ili estis integraj al spiritaj praktikoj tra kulturoj. Li argumentas por la potencialaj avantaĝoj de integri ĉi tiujn substancojn en modernajn spiritajn praktikojn.
+- **Psikoaktiva Substancoj en Religio**: Hŭley ekzamenas la rolon de psikoaktiva substancoj en religiaj kuntekstoj, sugestante ke ili estis integraj al spiritaj praktikoj tra kulturoj. Li argumentas por la potencialaj avantaĝoj de integri ĉi tiujn substancojn en modernajn spiritajn praktikojn.
 
 - **Eduka kaj Socia Implicoj**: La eseo kritikas nuntempajn edukajn sistemojn pro emfazo de lingvo super rekta percepto kaj sugestas, ke ekvilibrio inter racieco kaj ŝanĝitaj statoj de konscio estas grava por pli profunda kompreno de homa ekzisto.
 
 #### Ĉefaj Punktoj
 
-- **Konscio kaj Percepto**: Huxley asertas, ke nia percepto estas limigita de la filtrilaj mekanismoj de la cerbo, kaj psikedelaj substancoj povas provizore ŝanĝi ĉi tion, oferante glimpon en pli vastan realon.
+- **Konscio kaj Percepto**: Hŭley asertas, ke nia percepto estas limigita de la filtrilaj mekanismoj de la cerbo, kaj psikedelaj substancoj povas provizore ŝanĝi ĉi tion, oferante glimpon en pli vastan realon.
 
 - **Kulturaj kaj Spiritaj Kuntekstoj**: La eseoj emfazas la historian kaj kulturajn signifojn de ŝanĝitaj statoj de konscio, pledante por pensiga integriĝo de ĉi tiuj spertoj en modernan vivon.
 
-- **Filozofiaj kaj Etikaj Konsideroj**: Huxley levas gravajn demandojn pri la etika uzo de psikedelaj substancoj kaj ilia potencialo kontribui al persona kaj socia kresko.
+- **Filozofiaj kaj Etikaj Konsideroj**: Hŭley levas gravajn demandojn pri la etika uzo de psikedelaj substancoj kaj ilia potencialo kontribui al persona kaj socia kresko.
 
 #### Konkludo
 
-La verko de Huxley restas influa en diskutoj pri konscio, percepto, kaj la potenciala rolo de psikedelaj substancoj en vastigado de homa sperto. Liaj eseoj instigas legantojn konsideri la kompleksaĵojn de realeco kaj la manierojn per kiuj ŝanĝitaj statoj povas oferti profundajn komprenojn pri la naturo de ekzisto.
+La verko de Hŭley restas influa en diskutoj pri konscio, percepto, kaj la potenciala rolo de psikedelaj substancoj en vastigado de homa sperto. Liaj eseoj instigas legantojn konsideri la kompleksaĵojn de realeco kaj la manierojn per kiuj ŝanĝitaj statoj povas oferti profundajn komprenojn pri la naturo de ekzisto.
 
 ## Max Horkheimer (1895-1973)
 
@@ -5228,19 +5228,19 @@ Camus uzas la karakteron de Meursault por esplori la absurdon de vivo kaj la kon
 
 #### Traktado Resumo
 
--   **Parto Unu:** La romano komenciĝas per la subita apero de mortintaj ratoj en Oran, kio baldaŭ kondukas al mistera malsano, kiu influas la homan populacion. Dr. Bernard Rieux, la protagonisto, estas inter la unuaj, kiuj rekonas la signojn de plagao. Malgraŭ la komenca negado de la aŭtoritatoj, la urbo finfine estas karanteniĝinta dum la nombro de mortoj pliiĝas.
+-   **Parto Unu:** La romano komenciĝas per la subita apero de mortintaj ratoj en Oran, kio baldaŭ kondukas al mistera malsano, kiu influas la homan populacion. Dr. Bernard Rieŭ, la protagonisto, estas inter la unuaj, kiuj rekonas la signojn de plagao. Malgraŭ la komenca negado de la aŭtoritatoj, la urbo finfine estas karanteniĝinta dum la nombro de mortoj pliiĝas.
 
--   **Parto Du:** La karanteno kondukas al izoleco kaj malespero inter la loĝantoj. Raymond Rambert, ĵurnalisto, komence planas eskapi por reunuigi kun sia edzino, sed decidas resti kaj helpi batali kontraŭ la plagao. Patro Paneloux, pastro, interpretas la plagoon kiel dia punado, dum Dr. Rieux kaj aliaj laboras senlace por kuraci la malsanulojn.
+-   **Parto Du:** La karanteno kondukas al izoleco kaj malespero inter la loĝantoj. Raymond Rambert, ĵurnalisto, komence planas eskapi por reunuigi kun sia edzino, sed decidas resti kaj helpi batali kontraŭ la plagao. Patro Paneloŭ, pastro, interpretas la plagoon kiel dia punado, dum Dr. Rieŭ kaj aliaj laboras senlace por kuraci la malsanulojn.
 
 -   **Parto Tri:** Dum la situacio plimalboniĝas, militjuro estas enkondukita, kaj la urbo alfrontas mankojn kaj pliiĝantan perforton. La civitanoj suferas sentojn de ekzilo kaj apartigo, kun funebroj okazantaj haste kaj sen ceremonio.
 
--   **Parto Kvar:** La epidemio daŭras, kaj la karakteroj alfrontas personajn kaj kolektivajn defiojn. La stato de la edzino de Dr. Rieux malpliiĝas, kaj Patro Paneloux mortas post malsaniĝo. La komunumo komencas unuigi sin kontraŭ la plagao, kun pli da volontuloj aliĝantaj al la batalo.
+-   **Parto Kvar:** La epidemio daŭras, kaj la karakteroj alfrontas personajn kaj kolektivajn defiojn. La stato de la edzino de Dr. Rieŭ malpliiĝas, kaj Patro Paneloŭ mortas post malsaniĝo. La komunumo komencas unuigi sin kontraŭ la plagao, kun pli da volontuloj aliĝantaj al la batalo.
 
--   **Parto Kvin:** La plagao finfine retiriĝas, kaj la urbogatoj estas remalfermitaj. Tamen, la epidemio lasas daŭrajn cicatricojn sur la supervivantoj. Cottard, krimulo kiu prosperis dum la plagao, freneziĝas kaj estas arestita. Tarrou, ŝlosila volontulo, succumbas al la malsano. Dr. Rieux malkaŝas sin kiel la rakontanto, reflektante pri la rezisteco kaj solidareco de la homa spirito.
+-   **Parto Kvin:** La plagao finfine retiriĝas, kaj la urbogatoj estas remalfermitaj. Tamen, la epidemio lasas daŭrajn cicatricojn sur la supervivantoj. Cottard, krimulo kiu prosperis dum la plagao, freneziĝas kaj estas arestita. Tarrou, ŝlosila volontulo, succumbas al la malsano. Dr. Rieŭ malkaŝas sin kiel la rakontanto, reflektante pri la rezisteco kaj solidareco de la homa spirito.
 
 #### Temoj
 
--   **Absurdismo:** La romano esploras la filozofion de absurdismo de Camus, emfazante la batalon por trovi signifon en kaosa kaj indiferenta mondo. Karakteroj kiel Dr. Rieux enkarniĝas en la ideon daŭrigi malgraŭ la absurdo de ilia situacio.
+-   **Absurdismo:** La romano esploras la filozofion de absurdismo de Camus, emfazante la batalon por trovi signifon en kaosa kaj indiferenta mondo. Karakteroj kiel Dr. Rieŭ enkarniĝas en la ideon daŭrigi malgraŭ la absurdo de ilia situacio.
 
 -   **Homa Suferado kaj Solidareco:** La plagao servas kiel metaforo por humana suferado kaj la neevitebleco de morto. La romano emfazas la gravecon de solidareco kaj kolektiva ago antaŭ malfacilaĵoj.
 
@@ -5248,7 +5248,7 @@ Camus uzas la karakteron de Meursault por esplori la absurdon de vivo kaj la kon
 
 #### Kritika Analizo
 
-"La Plagao" ofte estas interpretata kiel alegorio por la franca rezisto kontraŭ nazia okupacio dum 2-a Mondmilito. Ĝi ankaŭ traktas pli vastajn ekzistencajn temojn, kiel la naturon de homa rezisteco kaj la moralajn elektojn, kiujn individuoj faras en tempoj de krizo. La esplorado de absurdismo en la romano kaj ĝia kritiko de organizita religio tra karakteroj kiel Patro Paneloux aldonas profundon al ĝiaj filozofiaj fundamentoj.
+"La Plagao" ofte estas interpretata kiel alegorio por la franca rezisto kontraŭ nazia okupacio dum 2-a Mondmilito. Ĝi ankaŭ traktas pli vastajn ekzistencajn temojn, kiel la naturon de homa rezisteco kaj la moralajn elektojn, kiujn individuoj faras en tempoj de krizo. La esplorado de absurdismo en la romano kaj ĝia kritiko de organizita religio tra karakteroj kiel Patro Paneloŭ aldonas profundon al ĝiaj filozofiaj fundamentoj.
 
 ## Alan Watts (1915-1973)
 
@@ -5580,7 +5580,7 @@ Becker ne ofertas definitivan solvon al la problemo de morta angoro sed sugestas
 
 -   **Rizomo:** La libro enkondukas la koncepton de rizomo kiel modelon por kompreni scion kaj realecon. Male al tradiciaj hierarkiaj strukturoj, rizomo estas ne-lineara kaj permesas multajn, ne-hierarkiajn enirpunktojn kaj elirpunktojn en datum-reprezentado kaj interpretado.
 
--   **Plateaux**: Ĉiu ĉapitro estas referita kiel "plateau," termino pruntita de Gregory Bateson, reprezentanta kontinuan, mem-vibrantan regionon de intensoj. Tiuj plateauj povas esti legataj en ajna ordo, emfazante la ne-linian naturon de la libro.
+-   **Plateaŭ**: Ĉiu ĉapitro estas referita kiel "plateau," termino pruntita de Gregory Bateson, reprezentanta kontinuan, mem-vibrantan regionon de intensoj. Tiuj plateauj povas esti legataj en ajna ordo, emfazante la ne-linian naturon de la libro.
 
 -   **Multoblo kaj Kunmetoj**: Deleuze kaj Guattari esploras la ideon de multoblo, malakceptante binaran logikon favore al kompleksaj, interligitaj sistemoj. Kunmetoj estas kolektoj de heterogenaj elementoj, kiuj kunvenas por formi tuton, emfazante la fluidecon kaj interligitecon de realeco.
 
@@ -6103,7 +6103,7 @@ La verko de Nozick estas respondo al "Teorio de Justeco" de John Rawls kaj estas
 
 La laboro de Kripke estas laŭdata pro sia intuicia aliro, uzante hipotetikajn scenarojn por defii establitajn filozofiajn ideojn. Malgraŭ sia komplekseco, la libro estas alirebla ĉar ĝi baziĝas sur intuiciaj argumentoj anstataŭ teknika ĝargono.
 
-Ĉ overall, "Nomado kaj Necesejo" havis profundan efikon sur filozofia pensado, defiante ekzistantajn paradigmojn kaj enkondukante novajn konceptojn, kiuj daŭre influas diskutojn en filozofio hodiaŭ.
+Ĝenerale, "Nomado kaj Necesejo" havis profundan efikon sur filozofia pensado, defiante ekzistantajn paradigmojn kaj enkondukante novajn konceptojn, kiuj daŭre influas diskutojn en filozofio hodiaŭ.
 
 ## Richard Dawkins (1941-prezentas)
 
@@ -6203,7 +6203,7 @@ La laboro de Kripke estas laŭdata pro sia intuicia aliro, uzante hipotetikajn s
 
 -   **Tradukaj Problemoj**: La dependeco de la libro je ludado kun vortoj kaj struktura ŝerco prezentis defiojn por traduko, postulado zorgeman adapton por reteni ĝian signifon kaj humuron en aliaj lingvoj.
 
-Ĉ overall, "Gödel, Escher, Bach" estas pensiga esplorado de la interkonekteco de logiko, arto, kaj muziko, invitante legantojn pripensi la naturon de inteligenteco kaj signifo tra unika kaj engaĝanta narativa stilo.
+Ĝenerale, "Gödel, Escher, Bach" estas pensiga esplorado de la interkonekteco de logiko, arto, kaj muziko, invitante legantojn pripensi la naturon de inteligenteco kaj signifo tra unika kaj engaĝanta narativa stilo.
 
 ### "Mi Estas Stranga Buklo" (2007)
 
@@ -6757,7 +6757,7 @@ La libro de Sam Harris "Libera Volo" argumentas, ke la koncepto de libera volo e
 
 -   **Konscio kaj Decidado**: Harris distingas inter konsciaj kaj nekonsciaj reagoj, emfazante ke kvankam ni eble ne havas liberan volon, konscio ankoraŭ ludas rolon en kiel ni pripensas kaj faras decidojn. Ĉi tiu konscio permesas al ni fokusi nian atenton kaj fari deliberajn elektojn ene de certaj limoj.
 
-Ĉ overall, la libro de Harris defias la tradician nocion de libera volo, instigante legantojn reekzameni kiel ili vidas homan konduton kaj moralan respondecon. Akceptante la iluzion de libera volo, Harris kredas ke ni povas antaŭenigi pli kompreneman kaj kompateman socion.
+Ĝenerale, la libro de Harris defias la tradician nocion de libera volo, instigante legantojn reekzameni kiel ili vidas homan konduton kaj moralan respondecon. Akceptante la iluzion de libera volo, Harris kredas ke ni povas antaŭenigi pli kompreneman kaj kompateman socion.
 
 ## Julian Baggini (1968-prezentaj)
 
@@ -6975,9 +6975,9 @@ Yuval Noah Harari "21 Lecionoj por la 21-a Jarcento" traktas la premantajn probl
     -   Harari diskutas UBE kiel eblan solvon al laborperdo sed ankaŭ esploras alternativojn kiel universala bazika servoj.
     -   Li avertas pri la ebleco de pliiĝo de riĉeca malegaleco pro teknologiaj progresoj.
 
-5.  **Felicxeco kaj Atendoj**:
+5.  **Feliĉeco kaj Atendoj**:
 
-    -   Homa felicxeco pli temas pri administrado de atendoj ol pri plibonigo de kondiĉoj.
+    -   Homa feliĉeco pli temas pri administrado de atendoj ol pri plibonigo de kondiĉoj.
     -   Harari emfazas la gravecon de komunumo kaj signifaj kontribuoj al bonfarto.
 
 6.  **Libereco kaj Demokratio**:
