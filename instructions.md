@@ -1,6 +1,6 @@
 # Instructions
 
-## Outline
+## Outline per chapter
 
 Turn chapter X of this outline into an Audio Script following these instructions:
 
@@ -22,9 +22,9 @@ Turn chapter X of this outline into an Audio Script following these instructions
 
 OUTLINE
 
-## Summary
+## Summary of whole book
 
-Turn chapter X of this book into an Audio Script following these instructions:
+Turn each chapter X of this book into an Audio Script following these instructions:
 
 1. **Conversational Tone**: Write in a natural, spoken voice—clear, engaging, and friendly, as if explaining the material to a curious listener.
 
@@ -38,6 +38,4 @@ Turn chapter X of this book into an Audio Script following these instructions:
 
 6. **No Visual References**: Avoid relying on charts, diagrams, math, source code, or anything the listener can’t see. If needed, describe such content in simple, visual language.
 
-**Chapter 1: TITLE**
-
-OUTLINE
+CONTENTS
