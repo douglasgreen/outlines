@@ -24,7 +24,7 @@ OUTLINE
 
 ## Summary of whole book
 
-Turn each chapter X of this book into an Audio Script following these instructions:
+Turn each chapter of this book into an Audio Script following these instructions:
 
 1. **Conversational Tone**: Write in a natural, spoken voice—clear, engaging, and friendly, as if explaining the material to a curious listener.
 
